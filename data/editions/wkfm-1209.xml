@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Wiener Merkantilprotokoll Nr. </title>
+            <title type="sub">Digitale Edition des: Merkantil und Wechselgericht Merkantilprotokoll</title>
+            <principal>
+               <persName>Peter Rauscher</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName>Peter Rauscher</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName>Sandra Hoislbauer</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>Wiener Stadt- und Landesarchiv (WStLA)</institution>
+                  <repository>Bestand 2.3.2 - Merkantil- und Wechselgericht | 1725-1850-(1863)</repository>
+                  <idno type="archive">WStLA 2.3.2.B6.1</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus></locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1725-01-01" notAfter="1758-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface  ulx="0" uly="0" lrx="3086" lry="4491" xml:id="facs_25">
+         <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1209.jpg" width="3086px" height="4491px"/>
+         <zone points="146,130 134,2930 2804,2938 2816,138" rendition="TextRegion" xml:id="facs_25_r2">
+            <zone points="148,188 232,188 232,337 148,337" rendition="Line" xml:id="facs_25_line_1624960419054_826"/>
+            <zone points="2654,390 2679,391 2704,391 2729,393 2754,393 2779,393 2804,393 2804,299 2779,299 2754,299 2729,299 2704,297 2679,297 2654,296" rendition="Line" xml:id="facs_25_r2l1" subtype="page-number"/>
+            <zone points="1057,122 1708,122 1708,222 1057,222" rendition="Line" xml:id="facs_25_line_1624960435259_832"/>
+            <zone points="317,420 435,424 554,429 673,432 792,435 911,439 1030,441 1149,444 1268,447 1387,448 1505,451 1624,454 1743,457 1862,460 1981,463 2100,466 2219,471 2338,475 2457,481 2576,486 2576,392 2457,387 2338,381 2219,377 2100,372 1981,369 1862,366 1743,363 1624,360 1505,357 1387,354 1268,353 1149,350 1030,347 911,345 792,341 673,338 554,335 435,330 317,326" rendition="Line" xml:id="facs_25_r2l2"/>
+            <zone points="926,757 1025,763 1051,763 1077,762 1103,762 1129,763 1156,763 1182,764 1208,765 1234,765 1260,766 1467,774 1467,680 1260,672 1234,671 1208,671 1182,670 1156,669 1129,669 1103,668 1077,668 1051,669 1025,669 926,663" rendition="Line" xml:id="facs_25_r2l3"/>
+            <zone points="245,870 682,913 789,913 897,912 1004,912 1112,912 1219,912 1326,912 1434,913 1541,914 1649,915 1756,918 1863,919 1971,922 2078,924 2186,927 2293,931 2400,935 2508,939 2615,943 2723,949 2723,855 2615,849 2508,845 2400,841 2293,837 2186,833 2078,830 1971,828 1863,825 1756,824 1649,821 1541,820 1434,819 1326,818 1219,818 1112,818 1004,818 897,818 789,819 682,819 245,776" rendition="Line" xml:id="facs_25_r2l5"/>
+            <zone points="210,961 235,966 260,972 285,978 310,985 335,992 360,998 385,1003 410,1007 435,1009 460,1010 486,1009 486,931 460,932 435,931 410,929 385,925 360,920 335,914 310,907 285,900 260,894 235,888 210,883" rendition="Line" xml:id="facs_25_r2l6"/>
+            <zone points="752,1204 1595,1204 1595,1123 752,1123" rendition="Line" xml:id="facs_25_line_1624963005684_2447"/>
+            <zone points="721,2014 1630,2014 1630,1894 721,1894" rendition="Line" xml:id="facs_25_line_1624963018604_2452"/>
+            <zone points="816,2929 847,2932 879,2934 910,2935 942,2937 973,2937 1005,2938 1036,2938 1068,2938 1099,2937 1131,2937 1162,2936 1194,2935 1225,2934 1257,2932 1288,2931 1320,2929 1351,2928 1383,2926 1414,2925 1446,2922 1446,2828 1414,2831 1383,2832 1351,2834 1320,2835 1288,2837 1257,2838 1225,2840 1194,2841 1162,2842 1131,2843 1099,2843 1068,2844 1036,2844 1005,2844 973,2843 942,2843 910,2841 879,2840 847,2838 816,2835" rendition="Line" xml:id="facs_25_r2l7"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb  facs="#facs_25" n="25" xml:id="img_0025"/>
+            
+            <ab  facs="#facs_25_r2">
+               <lb facs="#facs_25_r2l1" n="N002"/>598
+               <lb facs="#facs_25_line_1624960435259_832" n="N003"/><seg type="name">Nahmen und Class</seg>
+               <lb facs="#facs_25_r2l2" n="N004"/><rs type="person" ref="wkfm__10641">Moser Carl Joseph</rs> burgerlicher Handlsmann
+               <lb facs="#facs_25_r2l3" n="N005"/>Firma ad Raggion
+               <lb facs="#facs_25_r2l5" n="N006"/><rs type="person" ref="wkfm__46866">Carl Joseph Moser</rs> laut Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725
+               <lb facs="#facs_25_r2l6" n="N007"/>N<hi style="superscript">o</hi> 553
+               <lb facs="#facs_25_line_1624963005684_2447" n="N008"/><seg type="owner">Procura und Firmae Trager</seg>
+               <lb facs="#facs_25_line_1624963018604_2452" n="N009"/><seg type="oblatorien">Oblatorien und Avocatorien</seg>
+               <lb facs="#facs_25_r2l7" n="N010"/><seg type="fundi">Fundi Ausweisung</seg>
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

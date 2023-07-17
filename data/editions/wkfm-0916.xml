@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Wiener Merkantilprotokoll Nr. </title>
+            <title type="sub">Digitale Edition des: Merkantil und Wechselgericht Merkantilprotokoll</title>
+            <principal>
+               <persName>Peter Rauscher</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName>Peter Rauscher</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName>Sandra Hoislbauer</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>Wiener Stadt- und Landesarchiv (WStLA)</institution>
+                  <repository>Bestand 2.3.2 - Merkantil- und Wechselgericht | 1725-1850-(1863)</repository>
+                  <idno type="archive">WStLA 2.3.2.B6.1</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus></locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1725-01-01" notAfter="1758-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface  ulx="0" uly="0" lrx="2994" lry="4442" xml:id="facs_104">
+         <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0916.jpg" width="2994px" height="4442px"/>
+         <zone points="1224,133 1229,3485 2606,3483 2601,131" rendition="TextRegion" xml:id="facs_104_r1">
+            <zone points="1249,362 2546,362 2546,205 1249,205" rendition="Line" xml:id="facs_104_line_1624374808601_255"/>
+            <zone points="1317,2116 1353,2117 1390,2117 1426,2117 1463,2119 1499,2120 1536,2121 1572,2122 1609,2123 1645,2125 1682,2125 1719,2126 1755,2126 1792,2126 1828,2126 1865,2126 1901,2125 1938,2125 1974,2123 2011,2121 2048,2119 2048,1969 2011,1971 1974,1973 1938,1975 1901,1975 1865,1976 1828,1976 1792,1976 1755,1976 1719,1976 1682,1975 1645,1975 1609,1973 1572,1972 1536,1971 1499,1970 1463,1969 1426,1967 1390,1967 1353,1967 1317,1966" rendition="Line" xml:id="facs_104_r1l1"/>
+            <zone points="1415,3472 1448,3474 1482,3475 1515,3476 1549,3477 1583,3478 1616,3479 1650,3479 1683,3479 1717,3481 1751,3481 1784,3481 1818,3481 1851,3481 1885,3481 1919,3479 1952,3479 1986,3479 2019,3479 2053,3478 2087,3478 2087,3328 2053,3328 2019,3329 1986,3329 1952,3329 1919,3329 1885,3331 1851,3331 1818,3331 1784,3331 1751,3331 1717,3331 1683,3329 1650,3329 1616,3329 1583,3328 1549,3327 1515,3326 1482,3325 1448,3324 1415,3322" rendition="Line" xml:id="facs_104_r1l2"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb  facs="#facs_104" n="104" xml:id="img_0104"/>
+            
+            <ab  facs="#facs_104_r1">
+               <lb facs="#facs_104_r1l1" n="N002"/><seg type="wedding_contract">Heuraths Contract</seg>
+               <lb facs="#facs_104_r1l2" n="N003"/>Anmerckungen
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

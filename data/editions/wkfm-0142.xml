@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Wiener Merkantilprotokoll Nr. </title>
+            <title type="sub">Digitale Edition des: Merkantil und Wechselgericht Merkantilprotokoll</title>
+            <principal>
+               <persName>Peter Rauscher</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName>Peter Rauscher</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName>Sandra Hoislbauer</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>Wiener Stadt- und Landesarchiv (WStLA)</institution>
+                  <repository>Bestand 2.3.2 - Merkantil- und Wechselgericht | 1725-1850-(1863)</repository>
+                  <idno type="archive">WStLA 2.3.2.B6.1</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus></locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1725-01-01" notAfter="1758-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface  ulx="0" uly="0" lrx="2945" lry="4407" xml:id="facs_89">
+         <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0142.jpg" width="2945px" height="4407px"/>
+         <zone points="240,135 240,3003 2652,3003 2652,135" rendition="TextRegion" xml:id="facs_89_r1">
+            <zone points="2460,280 2575,281 2609,261 2609,149 2575,142 2460,141" rendition="Line" xml:id="facs_89_r1l2" subtype="page-number"/>
+            <zone points="894,262 931,261 969,259 1007,258 1045,258 1083,256 1121,256 1159,256 1197,256 1235,256 1273,258 1310,258 1348,258 1386,258 1424,258 1462,256 1500,256 1538,255 1576,253 1614,250 1652,247 1652,135 1614,138 1576,141 1538,143 1500,144 1462,144 1424,146 1386,146 1348,146 1310,146 1273,146 1235,144 1197,144 1159,144 1121,144 1083,144 1045,146 1007,146 969,147 931,149 894,150" rendition="Line" xml:id="facs_89_r1l1"/>
+            <zone points="270,453 366,456 462,460 558,462 654,463 750,463 846,462 942,460 1038,458 1134,455 1230,451 1326,448 1422,444 1518,441 1614,437 1710,433 1806,431 1902,428 1998,426 2094,426 2190,424 2190,312 2094,314 1998,314 1902,316 1806,319 1710,321 1614,325 1518,329 1422,332 1326,336 1230,339 1134,343 1038,346 942,348 846,350 750,351 654,351 558,350 462,348 366,344 270,341" rendition="Line" xml:id="facs_89_r1l3"/>
+            <zone points="863,804 906,802 949,801 992,799 1035,798 1079,795 1122,792 1165,791 1208,788 1251,786 1295,783 1338,780 1381,777 1424,775 1467,772 1511,768 1554,766 1597,763 1640,759 1683,757 1727,753 1727,668 1683,672 1640,674 1597,678 1554,681 1511,683 1467,687 1424,690 1381,692 1338,695 1295,698 1251,701 1208,703 1165,706 1122,707 1079,710 1035,713 992,714 949,716 906,717 863,719" rendition="Line" xml:id="facs_89_r1l4"/>
+            <zone points="240,907 360,913 481,917 601,920 722,920 843,919 963,917 1084,914 1204,910 1325,905 1446,900 1566,895 1687,889 1807,884 1928,878 2049,874 2169,871 2290,868 2410,868 2531,868 2652,869 2652,781 2531,780 2410,780 2290,780 2169,783 2049,786 1928,790 1807,796 1687,801 1566,807 1446,812 1325,817 1204,822 1084,826 963,829 843,831 722,832 601,832 481,829 360,825 240,819" rendition="Line" xml:id="facs_89_r1l5"/>
+            <zone points="816,1288 879,1280 943,1273 1006,1265 1070,1258 1134,1253 1197,1250 1261,1245 1324,1241 1388,1239 1452,1235 1515,1233 1579,1230 1642,1228 1706,1225 1770,1222 1833,1219 1897,1216 1960,1212 2024,1207 2088,1201 2088,1089 2024,1095 1960,1100 1897,1104 1833,1107 1770,1110 1706,1113 1642,1116 1579,1118 1515,1121 1452,1123 1388,1127 1324,1129 1261,1133 1197,1138 1134,1141 1070,1146 1006,1153 943,1161 879,1168 816,1176" rendition="Line" xml:id="facs_89_r1l6"/>
+            <zone points="780,2080 834,2077 889,2076 944,2073 999,2071 1053,2068 1108,2065 1163,2063 1218,2061 1272,2058 1327,2056 1382,2053 1437,2050 1491,2047 1546,2044 1601,2041 1656,2037 1710,2034 1765,2030 1820,2026 1875,2022 1875,1910 1820,1914 1765,1918 1710,1922 1656,1925 1601,1929 1546,1932 1491,1935 1437,1938 1382,1941 1327,1944 1272,1946 1218,1949 1163,1951 1108,1953 1053,1956 999,1959 944,1961 889,1964 834,1965 780,1968" rendition="Line" xml:id="facs_89_r1l7"/>
+            <zone points="825,3003 863,3001 902,3000 941,2998 980,2995 1019,2991 1058,2986 1096,2983 1135,2979 1174,2974 1213,2970 1252,2964 1291,2960 1330,2956 1368,2951 1407,2946 1446,2941 1485,2938 1524,2934 1563,2930 1602,2928 1602,2816 1563,2818 1524,2822 1485,2826 1446,2829 1407,2834 1368,2839 1330,2844 1291,2848 1252,2852 1213,2858 1174,2862 1135,2867 1096,2871 1058,2874 1019,2879 980,2883 941,2886 902,2888 863,2889 825,2891" rendition="Line" xml:id="facs_89_r1l8"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb  facs="#facs_89" n="89" xml:id="img_0089"/>
+            
+            <ab  facs="#facs_89_r1">
+               <lb facs="#facs_89_r1l2" n="N001"/>69
+               <lb facs="#facs_89_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
+               <lb facs="#facs_89_r1l3" n="N003"/><rs type="person" ref="wkfm__43881">Piwanckho Anton</rs> burgerlicher Handlsmann
+               <lb facs="#facs_89_r1l4" n="N004"/>Firma oder Raggion
+               <lb facs="#facs_89_r1l5" n="N005"/><rs type="person" ref="wkfm__47312">Anton Piwankho</rs> laut Erklährung dd<hi style="superscript">to</hi> 12<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 63
+               <lb facs="#facs_89_r1l6" n="N006"/><seg type="owner">Procura und Firmae Trager</seg>
+               <lb facs="#facs_89_r1l7" n="N007"/><seg type="oblatorien">Oblatorien und Avocatorien</seg>
+               <lb facs="#facs_89_r1l8" n="N008"/><seg type="fundi">Fundi Ausweisung</seg>
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

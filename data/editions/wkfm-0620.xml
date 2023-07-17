@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Wiener Merkantilprotokoll Nr. </title>
+            <title type="sub">Digitale Edition des: Merkantil und Wechselgericht Merkantilprotokoll</title>
+            <principal>
+               <persName>Peter Rauscher</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName>Peter Rauscher</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName>Sandra Hoislbauer</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>Wiener Stadt- und Landesarchiv (WStLA)</institution>
+                  <repository>Bestand 2.3.2 - Merkantil- und Wechselgericht | 1725-1850-(1863)</repository>
+                  <idno type="archive">WStLA 2.3.2.B6.1</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus></locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1725-01-01" notAfter="1758-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface  ulx="0" uly="0" lrx="3003" lry="4530" xml:id="facs_120">
+         <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0620.jpg" width="3003px" height="4530px"/>
+         <zone points="1254,212 1254,3437 2592,3437 2592,212" rendition="TextRegion" xml:id="facs_120_r2">
+            <zone points="1289,224 1832,212 2592,227 2592,377 2516,379 2402,379 1289,374" rendition="Line" xml:id="facs_120_line_1621964653438_3880"/>
+            <zone points="1356,2056 1394,2056 1432,2059 1471,2060 1509,2062 1548,2063 1586,2066 1624,2068 1663,2070 1701,2072 1740,2075 1778,2076 1816,2077 1855,2078 1893,2080 1932,2081 1970,2081 2008,2081 2047,2081 2085,2080 2124,2078 2124,1928 2085,1930 2047,1931 2008,1931 1970,1931 1932,1931 1893,1930 1855,1928 1816,1927 1778,1926 1740,1925 1701,1922 1663,1920 1624,1918 1586,1916 1548,1913 1509,1912 1471,1910 1432,1909 1394,1906 1356,1906" rendition="Line" xml:id="facs_120_r2l2"/>
+            <zone points="1254,3407 1289,3409 1324,3411 1360,3414 1395,3416 1431,3418 1466,3420 1501,3424 1537,3425 1572,3427 1608,3430 1643,3431 1678,3433 1714,3435 1749,3436 1785,3437 1820,3437 1855,3437 1891,3437 1926,3436 1962,3434 1962,3284 1926,3286 1891,3287 1855,3287 1820,3287 1785,3287 1749,3286 1714,3285 1678,3283 1643,3281 1608,3280 1572,3277 1537,3275 1501,3274 1466,3270 1431,3268 1395,3266 1360,3264 1324,3261 1289,3259 1254,3257" rendition="Line" xml:id="facs_120_r2l3"/>
+         </zone>
+      </surface>
+   
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb  facs="#facs_120" n="120" xml:id="img_0120"/>
+            
+            <ab  facs="#facs_120_r2">
+               <lb facs="#facs_120_line_1621964653438_3880" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
+               <lb facs="#facs_120_r2l2" n="N002"/><seg type="wedding_contract">Heuraths Contract</seg>
+               <lb facs="#facs_120_r2l3" n="N003"/>Anmerckungen
+            </ab>
+         
+        </div>
+      </body>
+    </text>
+</TEI>

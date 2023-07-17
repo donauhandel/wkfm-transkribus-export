@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Wiener Merkantilprotokoll Nr. </title>
+            <title type="sub">Digitale Edition des: Merkantil und Wechselgericht Merkantilprotokoll</title>
+            <principal>
+               <persName>Peter Rauscher</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName>Peter Rauscher</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName>Sandra Hoislbauer</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>Wiener Stadt- und Landesarchiv (WStLA)</institution>
+                  <repository>Bestand 2.3.2 - Merkantil- und Wechselgericht | 1725-1850-(1863)</repository>
+                  <idno type="archive">WStLA 2.3.2.B6.1</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus></locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1725-01-01" notAfter="1758-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface  ulx="0" uly="0" lrx="3105" lry="4455" xml:id="facs_9">
+         <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1337.jpg" width="3105px" height="4455px"/>
+         <zone points="203,154 203,2951 2867,2951 2867,154" rendition="TextRegion" xml:id="facs_9_r2">
+            <zone points="2685,382 2713,384 2741,388 2769,391 2797,394 2825,397 2853,397 2853,300 2825,300 2797,297 2769,294 2741,291 2713,287 2685,285" rendition="Line" xml:id="facs_9_r2l2" subtype="page-number"/>
+            <zone points="1142,263 1179,259 1216,256 1254,254 1291,253 1329,251 1366,251 1403,251 1441,251 1478,253 1516,253 1553,254 1590,256 1628,256 1665,257 1703,257 1740,257 1777,257 1815,256 1852,254 1890,251 1890,154 1852,157 1815,159 1777,160 1740,160 1703,160 1665,160 1628,159 1590,159 1553,157 1516,156 1478,156 1441,154 1403,154 1366,154 1329,154 1291,156 1254,157 1216,159 1179,162 1142,166" rendition="Line" xml:id="facs_9_r2l1"/>
+            <zone points="281,454 403,465 525,474 647,482 769,487 891,493 1013,495 1135,497 1257,498 1379,499 1501,497 1623,497 1745,496 1867,494 1989,493 2111,491 2233,491 2355,491 2477,491 2600,493 2600,396 2477,394 2355,394 2233,394 2111,394 1989,396 1867,397 1745,399 1623,400 1501,400 1379,402 1257,401 1135,400 1013,398 891,396 769,390 647,385 525,377 403,368 281,357" rendition="Line" xml:id="facs_9_r2l3"/>
+            <zone points="1095,779 1128,782 1161,782 1194,784 1228,785 1261,785 1294,785 1327,785 1361,785 1394,785 1427,784 1460,784 1494,782 1527,781 1560,781 1593,779 1627,778 1660,778 1693,776 1726,775 1760,775 1760,678 1726,678 1693,679 1660,681 1627,681 1593,682 1560,684 1527,684 1494,685 1460,687 1427,687 1394,688 1361,688 1327,688 1294,688 1261,688 1228,688 1194,687 1161,685 1128,685 1095,682" rendition="Line" xml:id="facs_9_r2l4"/>
+            <zone points="275,931 393,940 512,946 630,951 749,955 868,956 986,958 1105,958 1224,956 1342,955 1461,952 1580,949 1698,946 1817,943 1936,940 2054,937 2173,934 2292,932 2410,929 2529,929 2648,929 2648,832 2529,832 2410,832 2292,835 2173,837 2054,840 1936,843 1817,846 1698,849 1580,852 1461,855 1342,858 1224,859 1105,861 986,861 868,859 749,858 630,854 512,849 393,843 275,834" rendition="Line" xml:id="facs_9_r2l5"/>
+            <zone points="896,1226 948,1224 1001,1223 1054,1221 1107,1220 1160,1218 1213,1217 1265,1217 1318,1215 1371,1214 1424,1214 1477,1212 1530,1212 1583,1212 1635,1212 1688,1212 1741,1212 1794,1212 1847,1212 1900,1212 1953,1214 1953,1132 1900,1130 1847,1130 1794,1130 1741,1130 1688,1130 1635,1130 1583,1130 1530,1130 1477,1130 1424,1132 1371,1132 1318,1133 1265,1135 1213,1135 1160,1136 1107,1138 1054,1139 1001,1141 948,1142 896,1144" rendition="Line" xml:id="facs_9_r2l6"/>
+            <zone points="209,1231 339,1257 470,1278 600,1295 731,1308 861,1317 992,1323 1122,1327 1253,1330 1383,1330 1514,1329 1644,1326 1775,1323 1905,1320 2036,1318 2166,1315 2297,1315 2427,1315 2558,1318 2688,1321 2819,1329 2819,1253 2688,1245 2558,1242 2427,1239 2297,1239 2166,1239 2036,1242 1905,1244 1775,1247 1644,1250 1514,1253 1383,1254 1253,1254 1122,1251 992,1247 861,1241 731,1232 600,1219 470,1202 339,1181 209,1155" rendition="Line" xml:id="facs_9_r2l7"/>
+            <zone points="203,1351 336,1380 469,1403 602,1423 735,1437 869,1449 1002,1455 1135,1460 1268,1462 1401,1462 1535,1460 1668,1459 1801,1456 1934,1453 2067,1450 2200,1450 2334,1448 2467,1451 2600,1455 2733,1462 2867,1472 2867,1385 2733,1375 2600,1368 2467,1364 2334,1361 2200,1363 2067,1363 1934,1366 1801,1369 1668,1372 1535,1373 1401,1375 1268,1375 1135,1373 1002,1368 869,1362 735,1350 602,1336 469,1316 336,1293 203,1264" rendition="Line" xml:id="facs_9_r2l8"/>
+            <zone points="213,1479 292,1502 371,1521 451,1538 530,1551 610,1561 689,1570 769,1576 848,1581 928,1583 1007,1585 1086,1586 1166,1586 1245,1586 1325,1586 1404,1584 1484,1584 1563,1585 1643,1587 1722,1589 1802,1593 1802,1503 1722,1499 1643,1497 1563,1495 1484,1494 1404,1494 1325,1496 1245,1496 1166,1496 1086,1496 1007,1495 928,1493 848,1491 769,1486 689,1480 610,1471 530,1461 451,1448 371,1431 292,1412 213,1389" rendition="Line" xml:id="facs_9_r2l9"/>
+            <zone points="908,2017 957,2015 1006,2014 1055,2012 1104,2012 1153,2011 1202,2011 1251,2009 1300,2009 1349,2008 1398,2008 1447,2008 1496,2007 1545,2006 1594,2006 1643,2008 1692,2008 1741,2008 1790,2009 1839,2009 1889,2011 1889,1914 1839,1912 1790,1912 1741,1911 1692,1911 1643,1911 1594,1909 1545,1909 1496,1910 1447,1911 1398,1911 1349,1911 1300,1912 1251,1912 1202,1914 1153,1914 1104,1915 1055,1915 1006,1917 957,1918 908,1920" rendition="Line" xml:id="facs_9_r2l10"/>
+            <zone points="918,2951 954,2951 991,2950 1027,2950 1064,2950 1101,2950 1137,2950 1174,2950 1210,2950 1247,2950 1284,2950 1320,2951 1357,2951 1393,2951 1430,2950 1467,2950 1503,2950 1540,2949 1576,2948 1613,2947 1650,2945 1650,2848 1613,2850 1576,2851 1540,2852 1503,2853 1467,2853 1430,2853 1393,2854 1357,2854 1320,2854 1284,2853 1247,2853 1210,2853 1174,2853 1137,2853 1101,2853 1064,2853 1027,2853 991,2853 954,2854 918,2854" rendition="Line" xml:id="facs_9_r2l11"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb  facs="#facs_9" n="9" xml:id="img_0009"/>
+            
+            <ab  facs="#facs_9_r2">
+               <lb facs="#facs_9_r2l2" n="N001"/>661
+               <lb facs="#facs_9_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
+               <lb facs="#facs_9_r2l3" n="N003"/><rs type="person" ref="wkfm__9606">Ostermayr David</rs> Kay. König: Niderlags Verwanter
+               <lb facs="#facs_9_r2l4" n="N004"/>Firma ad Raggion
+               <lb facs="#facs_9_r2l5" n="N005"/><rs type="person" ref="wkfm__46647">David Ostermayr</rs> laut Procura dd<hi style="superscript">to</hi> 10<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 725 N<hi style="superscript">o</hi> 1044
+               <lb facs="#facs_9_r2l6" n="N006"/><seg type="owner">Procura und Firmae Trager</seg>
+               <lb facs="#facs_9_r2l7" n="N007"/>Mitls Anbringen de ps: 30<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 725 N<hi style="superscript">o</hi> 1045 hat der <rs type="person" ref="wkfm__9606">Ostermayr</rs> die
+               <lb facs="#facs_9_r2l8" n="N008"/>seinem Bedienten <rs type="person" ref="wkfm__29746">David Niggus</rs> ertheilte <choice><expan/><abbr>orig:</abbr></choice> Procura mit beygerukter
+               <lb facs="#facs_9_r2l9" n="N009"/>Firma des <rs type="person" ref="wkfm__29746">Niggus</rs> N<hi style="superscript">o</hi> 1044 eingeleget
+               <lb facs="#facs_9_r2l10" n="N010"/><seg type="oblatorien">Oblatorien und Avocatorien</seg>
+               <lb facs="#facs_9_r2l11" n="N011"/><seg type="fundi">Fundi Ausweisung</seg>
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

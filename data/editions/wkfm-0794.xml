@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Wiener Merkantilprotokoll Nr. </title>
+            <title type="sub">Digitale Edition des: Merkantil und Wechselgericht Merkantilprotokoll</title>
+            <principal>
+               <persName>Peter Rauscher</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName>Peter Rauscher</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName>Sandra Hoislbauer</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>Wiener Stadt- und Landesarchiv (WStLA)</institution>
+                  <repository>Bestand 2.3.2 - Merkantil- und Wechselgericht | 1725-1850-(1863)</repository>
+                  <idno type="archive">WStLA 2.3.2.B6.1</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus></locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1725-01-01" notAfter="1758-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface  ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_126">
+         <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0794.jpg" width="2994px" height="4530px"/>
+         <zone points="1259,230 1269,3440 2674,3435 2664,225" rendition="TextRegion" xml:id="facs_126_r1">
+            <zone points="1350,361 2362,368 2388,366 2414,365 2440,362 2466,362 2492,361 2518,359 2544,358 2570,356 2596,353 2622,350 2622,200 2596,203 2570,206 2544,208 2518,209 2492,211 2466,212 2440,212 2414,215 2388,216 2362,218 1350,211" rendition="Line" xml:id="facs_126_r2l1"/>
+            <zone points="1269,2098 1311,2097 1354,2096 1396,2096 1439,2095 1481,2095 1524,2093 1566,2093 1609,2092 1651,2090 1694,2089 1737,2088 1779,2087 1822,2086 1864,2084 1907,2083 1949,2081 1992,2080 2034,2078 2077,2076 2120,2074 2120,1924 2077,1926 2034,1928 1992,1930 1949,1931 1907,1933 1864,1934 1822,1936 1779,1937 1737,1938 1694,1939 1651,1940 1609,1942 1566,1943 1524,1943 1481,1945 1439,1945 1396,1946 1354,1946 1311,1947 1269,1948" rendition="Line" xml:id="facs_126_r1l1"/>
+            <zone points="1338,3440 1373,3439 1408,3439 1443,3437 1478,3437 1513,3437 1548,3437 1583,3437 1618,3437 1653,3437 1689,3437 1724,3437 1759,3437 1794,3437 1829,3437 1864,3437 1899,3437 1934,3437 1969,3437 2004,3437 2040,3437 2040,3287 2004,3287 1969,3287 1934,3287 1899,3287 1864,3287 1829,3287 1794,3287 1759,3287 1724,3287 1689,3287 1653,3287 1618,3287 1583,3287 1548,3287 1513,3287 1478,3287 1443,3287 1408,3289 1373,3289 1338,3290" rendition="Line" xml:id="facs_126_r1l2"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb  facs="#facs_126" n="126" xml:id="img_0126"/>
+            
+            <ab  facs="#facs_126_r1">
+               <lb facs="#facs_126_r2l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
+               <lb facs="#facs_126_r1l1" n="N002"/><seg type="wedding_contract">Heuraths Contract</seg>
+               <lb facs="#facs_126_r1l2" n="N003"/>Anmerckungen
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

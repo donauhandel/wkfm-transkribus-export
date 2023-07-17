@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Wiener Merkantilprotokoll Nr. </title>
+            <title type="sub">Digitale Edition des: Merkantil und Wechselgericht Merkantilprotokoll</title>
+            <principal>
+               <persName>Peter Rauscher</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName>Peter Rauscher</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName>Sandra Hoislbauer</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>Wiener Stadt- und Landesarchiv (WStLA)</institution>
+                  <repository>Bestand 2.3.2 - Merkantil- und Wechselgericht | 1725-1850-(1863)</repository>
+                  <idno type="archive">WStLA 2.3.2.B6.1</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus></locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1725-01-01" notAfter="1758-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface  ulx="0" uly="0" lrx="3105" lry="4455" xml:id="facs_7">
+         <graphic url="25378458.jpg" width="3105px" height="4455px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=RQNVHCONJMCZEWMBTJUOHZAS&amp;fileType=view" width="3105px" height="4455px"/>
+         <zone points="2606,272 2606,472 2810,472 2810,272" rendition="TextRegion" xml:id="facs_7_r2" subtype="page-number">
+            <zone points="2589,334 2685,344 2734,376 2767,348 2800,350 2805,287 2677,250 2651,272 2593,277 2589,334" rendition="Line" xml:id="facs_7_r2l1" subtype="page-number"/>
+            <zone points="2596,468 2657,466 2687,488 2766,460 2823,479 2826,340 2790,333 2747,365 2726,350 2671,373 2599,368 2596,468" rendition="Line" xml:id="facs_7_r2l2" subtype="page-number"/>
+         </zone>
+         <zone points="140,80 140,2900 2621,2906 2621,86" rendition="TextRegion" xml:id="facs_7_r1">
+            <zone points="1152,230 1330,247 1381,272 1454,263 1493,288 1515,273 1560,282 1584,264 1630,283 1712,250 1817,260 1848,248 1849,64 1728,63 1695,90 1577,73 1546,88 1528,70 1453,82 1435,63 1353,90 1301,74 1265,86 1153,79 1152,230" rendition="Line" xml:id="facs_7_r1l1"/>
+            <zone points="69,354 144,378 166,369 210,401 244,393 318,438 364,425 385,434 425,409 505,448 584,441 606,421 633,437 703,427 733,447 811,452 868,476 967,418 1015,444 1075,443 1152,485 1192,466 1231,479 1272,450 1322,473 1408,464 1457,432 1502,440 1573,494 1654,439 1744,458 1805,448 1827,430 1862,456 1920,464 1977,460 2027,431 2101,479 2128,474 2133,332 2076,318 2012,334 1982,311 1945,331 1910,303 1810,296 1736,345 1637,305 1576,337 1489,288 1471,306 1395,309 1314,358 1204,299 1174,310 1138,300 1104,323 817,274 778,291 729,289 710,306 644,295 625,307 581,281 541,298 487,271 466,283 403,265 378,274 322,241 291,256 237,242 218,256 180,218 150,211 98,243 149,237 145,352" rendition="Line" xml:id="facs_7_r1l2"/>
+            <zone points="990,684 1109,699 1205,673 1245,693 1269,680 1333,715 1394,711 1408,695 1424,710 1475,679 1518,699 1617,688 1615,585 1530,572 1509,587 1481,570 1416,608 1367,590 1322,601 1294,577 1242,578 1213,600 1006,592 988,596 990,684" rendition="Line" xml:id="facs_7_r1l3"/>
+            <zone points="185,815 261,812 322,864 367,867 415,849 434,864 455,852 555,883 649,868 709,880 761,853 779,868 821,868 857,905 945,872 997,887 1042,866 1063,884 1087,875 1160,921 1206,893 1245,912 1278,909 1366,873 1396,894 1445,879 1523,903 1629,882 1660,907 1687,886 1760,877 1823,826 1890,844 2041,835 2071,863 2102,850 2205,878 2262,851 2332,863 2392,818 2492,833 2553,824 2613,849 2635,843 2635,710 2478,676 2350,724 2238,715 2190,733 2120,726 2066,699 1966,711 1878,695 1830,729 1760,741 1703,710 1575,734 1527,691 1454,734 1433,718 1406,727 1382,709 1333,715 1297,700 1206,721 1112,778 1049,714 961,726 927,708 864,753 806,771 700,768 616,701 585,728 537,698 470,707 449,688 428,691 386,649 362,649 304,676 280,667 186,685 185,815" rendition="Line" xml:id="facs_7_r1l4"/>
+            <zone points="1857,1161 780,1163 780,1006 1857,1004" rendition="Line" xml:id="facs_7_line_1619533468327_225"/>
+            <zone points="1159,1952 1225,1939 1253,1939 1868,1959 1860,1861 1271,1818 1210,1814 831,1846 834,1980" rendition="Line" xml:id="facs_7_r1l5"/>
+            <zone points="814,2899 850,2905 913,2877 983,2885 1016,2872 1050,2892 1086,2883 1114,2910 1147,2903 1166,2921 1241,2920 1280,2895 1374,2923 1531,2897 1592,2923 1614,2917 1611,2744 1559,2727 1535,2745 1501,2712 1431,2686 1356,2724 1313,2694 1277,2710 1259,2695 1101,2707 1022,2684 974,2694 928,2676 892,2686 874,2671 847,2681 810,2669 814,2899" rendition="Line" xml:id="facs_7_r1l7"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb  facs="#facs_7" n="7" xml:id="img_0007"/>
+            
+            <ab  facs="#facs_7_r2" type="page-number">
+               <lb facs="#facs_7_r2l1" n="N001"/><hi>529</hi>
+               <lb facs="#facs_7_r2l2" n="N002"/>642
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

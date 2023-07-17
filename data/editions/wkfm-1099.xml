@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Wiener Merkantilprotokoll Nr. </title>
+            <title type="sub">Digitale Edition des: Merkantil und Wechselgericht Merkantilprotokoll</title>
+            <principal>
+               <persName>Peter Rauscher</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName>Peter Rauscher</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName>Sandra Hoislbauer</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>Wiener Stadt- und Landesarchiv (WStLA)</institution>
+                  <repository>Bestand 2.3.2 - Merkantil- und Wechselgericht | 1725-1850-(1863)</repository>
+                  <idno type="archive">WStLA 2.3.2.B6.1</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus></locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1725-01-01" notAfter="1758-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface  ulx="0" uly="0" lrx="3057" lry="4521" xml:id="facs_35">
+         <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1099.jpg" width="3057px" height="4521px"/>
+         <zone points="2621,362 2621,517 2802,517 2802,362" rendition="TextRegion" xml:id="facs_35_r2" subtype="page-number">
+            <zone points="2621,512 2646,514 2672,514 2698,513 2724,512 2750,514 2776,514 2802,517 2802,367 2776,364 2750,364 2724,362 2698,363 2672,364 2646,364 2621,362" rendition="Line" xml:id="facs_35_r2l1" subtype="page-number"/>
+         </zone>
+         <zone points="955,198 882,3043 1830,3043 1903,198" rendition="TextRegion" xml:id="facs_35_r1">
+            <zone points="1176,337 1836,337 1836,230 1176,230" rendition="Line" xml:id="facs_35_line_1619605761414_1707"/>
+            <zone points="1031,853 1678,853 1678,719 1031,719" rendition="Line" xml:id="facs_35_line_1619605756660_1704"/>
+            <zone points="923,1316 950,1314 978,1312 1006,1310 1034,1308 1062,1306 1090,1304 1840,1286 1840,1136 1090,1154 1062,1156 1034,1158 1006,1160 978,1162 950,1164 923,1166" rendition="Line" xml:id="facs_35_r1l2"/>
+            <zone points="882,2101 929,2099 976,2099 1024,2098 1071,2096 1119,2093 1166,2090 1213,2087 1261,2084 1308,2080 1356,2077 1403,2073 1450,2069 1498,2066 1545,2064 1593,2061 1640,2059 1687,2057 1735,2056 1782,2056 1830,2057 1830,1907 1782,1906 1735,1906 1687,1907 1640,1909 1593,1911 1545,1914 1498,1916 1450,1919 1403,1923 1356,1927 1308,1930 1261,1934 1213,1937 1166,1940 1119,1943 1071,1946 1024,1948 976,1949 929,1949 882,1951" rendition="Line" xml:id="facs_35_r1l3"/>
+            <zone points="957,3041 995,3043 1034,3042 1073,3041 1111,3041 1150,3040 1189,3039 1227,3037 1266,3035 1305,3034 1344,3032 1382,3029 1421,3027 1460,3025 1498,3022 1537,3019 1576,3016 1614,3014 1653,3011 1692,3008 1731,3005 1731,2855 1692,2858 1653,2861 1614,2864 1576,2866 1537,2869 1498,2872 1460,2875 1421,2877 1382,2879 1344,2882 1305,2884 1266,2885 1227,2887 1189,2889 1150,2890 1111,2891 1073,2891 1034,2892 995,2893 957,2891" rendition="Line" xml:id="facs_35_r1l4"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb  facs="#facs_35" n="35" xml:id="img_0035"/>
+            
+            <ab  facs="#facs_35_r2" type="page-number">
+               <lb facs="#facs_35_r2l1" n="N001"/>543
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

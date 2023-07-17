@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Wiener Merkantilprotokoll Nr. </title>
+            <title type="sub">Digitale Edition des: Merkantil und Wechselgericht Merkantilprotokoll</title>
+            <principal>
+               <persName>Peter Rauscher</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName>Peter Rauscher</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName>Sandra Hoislbauer</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>Wiener Stadt- und Landesarchiv (WStLA)</institution>
+                  <repository>Bestand 2.3.2 - Merkantil- und Wechselgericht | 1725-1850-(1863)</repository>
+                  <idno type="archive">WStLA 2.3.2.B6.1</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus></locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1725-01-01" notAfter="1758-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface  ulx="0" uly="0" lrx="2893" lry="4398" xml:id="facs_2">
+         <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1856.jpg" width="2893px" height="4398px"/>
+         <zone points="306,94 306,3281 2754,3281 2754,94" rendition="TextRegion" xml:id="facs_2_r1">
+            <zone points="1143,223 1209,221 1276,221 1343,221 1410,221 1476,221 1543,223 1610,223 1677,224 1743,224 1810,224 1877,224 1944,224 2010,221 2077,220 2144,217 2211,212 2277,207 2344,200 2411,191 2478,182 2478,94 2411,103 2344,112 2277,119 2211,124 2144,129 2077,132 2010,133 1944,136 1877,136 1810,136 1743,136 1677,136 1610,135 1543,135 1476,133 1410,133 1343,133 1276,133 1209,133 1143,135" rendition="Line" xml:id="facs_2_r1l1"/>
+            <zone points="338,349 453,355 569,359 685,364 800,369 916,374 1032,378 1148,382 1263,385 1379,388 1495,390 1611,391 1726,392 1842,392 1958,391 2074,389 2189,386 2305,382 2421,377 2756,309 2756,221 2421,289 2305,294 2189,298 2074,301 1958,303 1842,304 1726,304 1611,303 1495,302 1379,300 1263,297 1148,294 1032,290 916,286 800,281 685,276 569,271 453,267 338,261" rendition="Line" xml:id="facs_2_r1l3"/>
+            <zone points="306,508 428,502 550,499 672,498 795,498 917,499 1039,501 1161,503 1284,505 1406,507 1528,508 1650,508 1773,507 1895,504 2017,498 2139,490 2262,480 2384,466 2506,448 2628,426 2751,400 2751,333 2628,359 2506,381 2384,399 2262,413 2139,423 2017,431 1895,437 1773,440 1650,441 1528,441 1406,440 1284,438 1161,436 1039,434 917,432 795,431 672,431 550,432 428,435 306,441" rendition="Line" xml:id="facs_2_r1l4"/>
+            <zone points="308,628 335,637 363,641 390,643 418,643 445,642 473,642 500,642 528,645 528,561 500,558 473,558 445,558 418,559 390,559 363,557 335,553 308,544" rendition="Line" xml:id="facs_2_r1l5"/>
+            <zone points="1190,1933 1224,1934 1259,1938 1294,1939 1329,1941 1364,1943 1398,1943 1433,1944 1468,1945 1503,1945 1538,1945 1572,1945 1607,1945 1642,1945 1677,1945 1712,1945 1746,1945 1781,1946 1816,1946 1851,1946 1886,1946 1886,1858 1851,1858 1816,1858 1781,1858 1746,1857 1712,1857 1677,1857 1642,1857 1607,1857 1572,1857 1538,1857 1503,1857 1468,1857 1433,1856 1398,1855 1364,1855 1329,1853 1294,1851 1259,1850 1224,1846 1190,1845" rendition="Line" xml:id="facs_2_r1l6"/>
+            <zone points="1265,3265 1295,3265 1326,3266 1357,3266 1388,3266 1418,3268 1449,3268 1480,3269 1511,3271 1541,3272 1572,3273 1603,3274 1634,3275 1664,3276 1695,3278 1726,3278 1757,3280 1787,3280 1818,3281 1849,3281 1880,3281 1880,3193 1849,3193 1818,3193 1787,3192 1757,3192 1726,3190 1695,3190 1664,3188 1634,3187 1603,3186 1572,3185 1541,3184 1511,3183 1480,3181 1449,3180 1418,3180 1388,3178 1357,3178 1326,3178 1295,3177 1265,3177" rendition="Line" xml:id="facs_2_r1l7"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb  facs="#facs_2" n="2" xml:id="img_0002"/>
+            
+            <ab  facs="#facs_2_r1">
+               <lb facs="#facs_2_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
+               <lb facs="#facs_2_r1l3" n="N002"/>In obigen Anbringen de p: 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 858 hat sich der <rs type="person" ref="wkfm__8271">Arnsteiner</rs>
+               <lb facs="#facs_2_r1l4" n="N003"/>Erklähret, das er sein negotium mit eignen <choice><expan/><abbr>intee</abbr></choice> und <unclear>obligo </unclear>ohne Compagnon
+               <lb facs="#facs_2_r1l5" n="N004"/>führe
+               <lb facs="#facs_2_r1l6" n="N005"/><seg type="wedding_contract">Heuraths Contract</seg>
+               <lb facs="#facs_2_r1l7" n="N006"/>Anmerckungen
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

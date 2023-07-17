@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Wiener Merkantilprotokoll Nr. </title>
+            <title type="sub">Digitale Edition des: Merkantil und Wechselgericht Merkantilprotokoll</title>
+            <principal>
+               <persName>Peter Rauscher</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName>Peter Rauscher</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName>Sandra Hoislbauer</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>Wiener Stadt- und Landesarchiv (WStLA)</institution>
+                  <repository>Bestand 2.3.2 - Merkantil- und Wechselgericht | 1725-1850-(1863)</repository>
+                  <idno type="archive">WStLA 2.3.2.B6.1</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus></locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1725-01-01" notAfter="1758-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface  ulx="0" uly="0" lrx="2982" lry="4473" xml:id="facs_128">
+         <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0448.jpg" width="2982px" height="4473px"/>
+         <zone points="297,172 297,3300 2874,3300 2874,172" rendition="TextRegion" xml:id="facs_128_r1">
+            <zone points="1121,272 1188,267 1255,264 1323,260 1390,257 1457,255 1525,252 1592,250 1659,248 1727,246 1794,245 1861,243 1929,242 1996,240 2063,239 2131,237 2198,236 2265,234 2333,231 2400,230 2468,227 2468,172 2400,175 2333,176 2265,179 2198,181 2131,182 2063,184 1996,185 1929,187 1861,188 1794,190 1727,191 1659,193 1592,195 1525,197 1457,200 1390,202 1323,205 1255,209 1188,212 1121,217" rendition="Line" xml:id="facs_128_r1l1"/>
+            <zone points="1248,1951 1281,1953 1315,1954 1348,1955 1382,1956 1416,1956 1449,1956 1483,1956 1516,1954 1550,1954 1584,1953 1617,1951 1651,1950 1684,1950 1718,1948 1752,1948 1785,1947 1819,1945 1852,1945 1886,1945 1920,1945 1920,1897 1886,1897 1852,1897 1819,1897 1785,1899 1752,1900 1718,1900 1684,1902 1651,1902 1617,1903 1584,1905 1550,1906 1516,1906 1483,1908 1449,1908 1416,1908 1382,1908 1348,1907 1315,1906 1281,1905 1248,1903" rendition="Line" xml:id="facs_128_r1l2"/>
+            <zone points="318,2008 444,2006 571,2006 698,2008 825,2009 952,2011 1079,2014 1206,2017 1333,2019 1460,2021 1587,2023 1713,2023 1840,2021 1967,2020 2094,2015 2221,2009 2348,2001 2475,1990 2602,1976 2729,1960 2856,1940 2856,1889 2729,1909 2602,1925 2475,1939 2348,1950 2221,1958 2094,1964 1967,1969 1840,1970 1713,1972 1587,1972 1460,1970 1333,1968 1206,1966 1079,1963 952,1960 825,1958 698,1957 571,1955 444,1955 318,1957" rendition="Line" xml:id="facs_128_r1l3"/>
+            <zone points="315,2156 449,2141 584,2132 719,2125 853,2121 988,2118 1123,2118 1257,2120 1392,2120 1527,2121 1661,2123 1796,2123 1931,2120 2065,2116 2200,2109 2335,2099 2469,2085 2604,2067 2739,2044 2874,2015 2874,1960 2739,1989 2604,2012 2469,2030 2335,2044 2200,2054 2065,2061 1931,2065 1796,2068 1661,2068 1527,2066 1392,2065 1257,2065 1123,2063 988,2063 853,2066 719,2070 584,2077 449,2086 315,2101" rendition="Line" xml:id="facs_128_r1l4"/>
+            <zone points="315,2260 442,2249 569,2241 696,2234 823,2230 950,2227 1077,2224 1204,2222 1331,2221 1458,2221 1585,2219 1712,2218 1839,2215 1966,2211 2093,2206 2220,2199 2347,2189 2474,2179 2601,2164 2728,2146 2856,2125 2856,2082 2728,2103 2601,2121 2474,2136 2347,2146 2220,2156 2093,2163 1966,2168 1839,2172 1712,2175 1585,2176 1458,2178 1331,2178 1204,2179 1077,2181 950,2184 823,2187 696,2191 569,2198 442,2206 315,2217" rendition="Line" xml:id="facs_128_r1l5"/>
+            <zone points="306,2354 433,2338 561,2325 689,2315 2079,2213 2525,2194 2862,2189 2862,2222 2734,2245 2606,2264 2478,2279 2350,2291 2223,2301 2095,2308 1967,2314 306,2387" rendition="Line" xml:id="facs_128_line_1621960435681_2065"/>
+            <zone points="297,2501 399,2491 501,2484 603,2478 706,2471 808,2466 910,2462 1012,2459 1115,2455 1217,2451 1319,2449 1421,2447 1524,2444 1626,2441 1728,2438 1830,2434 1933,2430 2035,2426 2137,2420 2239,2414 2342,2408 2342,2353 2239,2359 2137,2365 2035,2371 1933,2375 1830,2379 1728,2383 1626,2386 1524,2389 1421,2392 1319,2394 1217,2396 1115,2400 1012,2404 910,2407 808,2411 706,2416 603,2423 501,2429 399,2436 297,2446" rendition="Line" xml:id="facs_128_r1l8"/>
+            <zone points="1344,3300 1376,3299 1409,3298 1441,3296 1474,3296 1506,3296 1539,3294 1571,3294 1604,3294 1636,3294 1669,3293 1701,3293 1734,3293 1766,3293 1799,3293 1831,3291 1864,3291 1896,3290 1929,3288 1961,3287 1994,3285 1994,3230 1961,3232 1929,3233 1896,3235 1864,3236 1831,3236 1799,3238 1766,3238 1734,3238 1701,3238 1669,3238 1636,3239 1604,3239 1571,3239 1539,3239 1506,3241 1474,3241 1441,3241 1409,3243 1376,3244 1344,3245" rendition="Line" xml:id="facs_128_r1l9"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb  facs="#facs_128" n="128" xml:id="img_0128"/>
+            
+            <ab  facs="#facs_128_r1">
+               <lb facs="#facs_128_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
+               <lb facs="#facs_128_r1l2" n="N002"/><seg type="wedding_contract">Heuraths Contract</seg>
+               <lb facs="#facs_128_r1l3" n="N003"/>Mitls Anbringen de ps: 26<hi style="superscript">ten</hi> May 745 N<hi style="superscript">o</hi> 2123 hat der <rs type="person" ref="wkfm__30180">Contrini</rs> den
+               <lb facs="#facs_128_r1l4" n="N004"/>mit der <rs type="person" ref="wkfm__46146">Theresia Jägschin</rs> untern 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> d. a. errichteten Heuraths
+               <lb facs="#facs_128_r1l5" n="N005"/>Contract <hi>N<hi style="superscript"/></hi>o<hi style="superscript">o</hi> 2122 eingeleget krafft welchen <unclear>500 fl</unclear>
+               <lb facs="#facs_128_line_1621960435681_2065" n="N006"/>Heurath Gutt nebst 1000 fl widerlag auf überleben dann was wehrender Ehe erworben und
+               <lb facs="#facs_128_r1l8" n="N007"/>ererbte als ein gleiches Gutt stipuliret werden.
+               <lb facs="#facs_128_r1l9" n="N008"/>Anmerckungen
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

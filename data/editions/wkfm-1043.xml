@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Wiener Merkantilprotokoll Nr. </title>
+            <title type="sub">Digitale Edition des: Merkantil und Wechselgericht Merkantilprotokoll</title>
+            <principal>
+               <persName>Peter Rauscher</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName>Peter Rauscher</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName>Sandra Hoislbauer</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>Wiener Stadt- und Landesarchiv (WStLA)</institution>
+                  <repository>Bestand 2.3.2 - Merkantil- und Wechselgericht | 1725-1850-(1863)</repository>
+                  <idno type="archive">WStLA 2.3.2.B6.1</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus></locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1725-01-01" notAfter="1758-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface  ulx="0" uly="0" lrx="3057" lry="4521" xml:id="facs_123">
+         <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1043.jpg" width="3057px" height="4521px"/>
+         <zone points="279,190 279,3105 2835,3114 2835,199" rendition="TextRegion" xml:id="facs_123_r1">
+            <zone points="2734,343 2820,343 2820,419 2734,419" rendition="Line" xml:id="facs_123_line_1627478337683_700" subtype="page-number"/>
+            <zone points="1095,322 1242,320 1269,318 1296,318 1324,317 1351,318 1378,318 1406,318 1433,319 1460,320 1488,322 1515,323 1542,324 1569,326 1597,326 1624,327 1651,327 1679,327 1706,327 1733,327 1761,327 1761,200 1733,200 1706,200 1679,200 1651,200 1624,200 1597,199 1569,199 1542,197 1515,196 1488,195 1460,193 1433,192 1406,191 1378,191 1351,191 1324,190 1296,191 1269,191 1242,193 1095,195" rendition="Line" xml:id="facs_123_r1l1"/>
+            <zone points="279,503 407,510 535,515 664,518 792,519 920,519 1049,516 1177,514 1305,510 1434,506 1562,501 1691,495 1819,491 1947,486 2076,482 2204,479 2332,477 2461,477 2589,479 2718,482 2718,356 2589,353 2461,351 2332,351 2204,353 2076,356 1947,360 1819,365 1691,369 1562,375 1434,380 1305,384 1177,388 1049,390 920,393 792,393 664,392 535,389 407,384 279,377" rendition="Line" xml:id="facs_123_r1l2"/>
+            <zone points="977,896 1005,896 1033,894 1061,894 1089,894 1118,893 1146,893 1174,891 1202,891 1230,890 1259,888 1287,888 1315,887 1343,885 1371,884 1400,884 1428,883 1456,882 1484,881 1512,881 1541,881 1541,754 1512,754 1484,754 1456,755 1428,756 1400,757 1371,757 1343,758 1315,760 1287,761 1259,761 1230,763 1202,764 1174,764 1146,766 1118,766 1089,767 1061,767 1033,767 1005,769 977,769" rendition="Line" xml:id="facs_123_r1l3"/>
+            <zone points="645,1346 696,1344 747,1342 798,1340 850,1338 901,1337 952,1335 1004,1335 1055,1334 1106,1332 1158,1331 1209,1331 1260,1329 1311,1329 1363,1329 1414,1328 1465,1328 1517,1326 1568,1326 1619,1326 1671,1325 1671,1198 1619,1199 1568,1199 1517,1199 1465,1201 1414,1201 1363,1202 1311,1202 1260,1202 1209,1204 1158,1204 1106,1205 1055,1207 1004,1208 952,1208 901,1210 850,1211 798,1213 747,1215 696,1217 645,1219" rendition="Line" xml:id="facs_123_r1l4"/>
+            <zone points="749,2135 796,2133 843,2132 890,2132 937,2130 984,2130 1031,2129 1079,2129 1126,2127 1173,2127 1220,2126 1267,2125 1314,2124 1361,2123 1409,2121 1456,2121 1503,2120 1550,2118 1597,2117 1644,2115 1692,2114 1692,1987 1644,1988 1597,1990 1550,1991 1503,1993 1456,1994 1409,1994 1361,1996 1314,1997 1267,1998 1220,1999 1173,2000 1126,2000 1079,2002 1031,2002 984,2003 937,2003 890,2005 843,2005 796,2006 749,2008" rendition="Line" xml:id="facs_123_r1l5"/>
+            <zone points="815,3102 852,3104 889,3104 926,3105 963,3105 1001,3105 1038,3105 1075,3104 1112,3104 1149,3103 1187,3102 1224,3101 1261,3099 1298,3099 1335,3097 1373,3096 1410,3095 1447,3093 1484,3092 1521,3090 1559,3089 1559,2962 1521,2963 1484,2965 1447,2966 1410,2968 1373,2969 1335,2970 1298,2972 1261,2972 1224,2974 1187,2975 1149,2976 1112,2977 1075,2977 1038,2978 1001,2978 963,2978 926,2978 889,2977 852,2977 815,2975" rendition="Line" xml:id="facs_123_r1l6"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb  facs="#facs_123" n="123" xml:id="img_0123"/>
+            
+            <ab  facs="#facs_123_r1">
+               <lb facs="#facs_123_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
+               <lb facs="#facs_123_r1l2" n="N003"/><rs type="person" ref="wkfm__46162">Höcker Johann Georg</rs> burgerlicher Tuchlaubens Verwanter
+               <lb facs="#facs_123_r1l3" n="N004"/>Firma ad Raggion
+               <lb facs="#facs_123_r1l4" n="N005"/><seg type="owner">Procura und Firmae Trager</seg>
+               <lb facs="#facs_123_r1l5" n="N006"/><seg type="oblatorien">Oblatorien und Avocatorien</seg>
+               <lb facs="#facs_123_r1l6" n="N007"/><seg type="fundi">Fundi Ausweisung</seg>
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

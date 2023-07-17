@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Wiener Merkantilprotokoll Nr. </title>
+            <title type="sub">Digitale Edition des: Merkantil und Wechselgericht Merkantilprotokoll</title>
+            <principal>
+               <persName>Peter Rauscher</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName>Peter Rauscher</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName>Sandra Hoislbauer</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>Wiener Stadt- und Landesarchiv (WStLA)</institution>
+                  <repository>Bestand 2.3.2 - Merkantil- und Wechselgericht | 1725-1850-(1863)</repository>
+                  <idno type="archive">WStLA 2.3.2.B6.1</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus></locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1725-01-01" notAfter="1758-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface  ulx="0" uly="0" lrx="2945" lry="4468" xml:id="facs_3">
+         <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1709.jpg" width="2945px" height="4468px"/>
+         <zone points="116,189 116,3041 2811,3041 2811,189" rendition="TextRegion" xml:id="facs_3_r1">
+            <zone points="2654,335 2682,339 2711,338 2740,337 2769,335 2798,338 2798,268 2769,265 2740,267 2711,268 2682,269 2654,265" rendition="Line" xml:id="facs_3_r1l2" subtype="page-number"/>
+            <zone points="1137,259 1171,259 1206,259 1241,260 1276,260 1311,260 1346,262 1381,262 1416,263 1451,264 1486,265 1520,266 1555,267 1590,268 1625,269 1660,271 1695,271 1730,272 1765,274 1800,275 1835,277 1835,207 1800,205 1765,204 1730,202 1695,201 1660,201 1625,199 1590,198 1555,197 1520,196 1486,195 1451,194 1416,193 1381,192 1346,192 1311,190 1276,190 1241,190 1206,189 1171,189 1137,189" rendition="Line" xml:id="facs_3_r1l1"/>
+            <zone points="321,476 440,484 559,490 678,493 797,496 916,496 1035,494 1154,492 1273,488 1392,485 1512,479 1631,475 1750,470 1869,464 1988,460 2107,455 2226,451 2345,448 2464,446 2583,445 2703,446 2703,376 2583,375 2464,376 2345,378 2226,381 2107,385 1988,390 1869,394 1750,400 1631,405 1512,409 1392,415 1273,418 1154,422 1035,424 916,426 797,426 678,423 559,420 440,414 321,406" rendition="Line" xml:id="facs_3_r1l3"/>
+            <zone points="1028,835 1059,835 1091,835 1122,835 1154,834 1185,833 1217,833 1248,833 1280,833 1311,832 1343,832 1374,830 1406,830 1437,829 1469,829 1500,827 1532,826 1563,824 1595,823 1626,821 1658,820 1658,750 1626,751 1595,753 1563,754 1532,756 1500,757 1469,759 1437,759 1406,760 1374,760 1343,762 1311,762 1280,763 1248,763 1217,763 1185,763 1154,764 1122,765 1091,765 1059,765 1028,765" rendition="Line" xml:id="facs_3_r1l4"/>
+            <zone points="215,911 333,922 452,929 571,936 690,941 809,944 928,946 1046,946 1165,944 1284,943 1403,940 1522,937 1641,933 1760,929 1878,925 1997,920 2116,916 2235,913 2354,908 2473,906 2592,904 2592,834 2473,836 2354,838 2235,843 2116,846 1997,850 1878,855 1760,859 1641,863 1522,867 1403,870 1284,873 1165,874 1046,876 928,876 809,874 690,871 571,866 452,859 333,852 215,841" rendition="Line" xml:id="facs_3_r1l5"/>
+            <zone points="800,1261 849,1263 899,1264 948,1264 998,1265 1047,1266 1097,1266 1146,1264 1196,1264 1245,1263 1295,1263 1345,1261 1394,1260 1444,1258 1493,1257 1543,1255 1592,1254 1642,1252 1691,1249 1741,1247 1791,1245 1791,1196 1741,1198 1691,1200 1642,1203 1592,1205 1543,1206 1493,1208 1444,1209 1394,1211 1345,1212 1295,1214 1245,1214 1196,1215 1146,1215 1097,1217 1047,1217 998,1216 948,1215 899,1215 849,1214 800,1212" rendition="Line" xml:id="facs_3_r1l7"/>
+            <zone points="116,1219 249,1250 382,1275 516,1294 649,1309 782,1320 916,1327 1049,1331 1182,1333 1316,1331 1449,1328 1582,1324 1716,1319 1849,1313 1982,1308 2116,1303 2249,1298 2382,1297 2516,1295 2649,1297 2783,1301 2819,1259 2814,1173 2637,1176 2455,1175 2253,1183 2116,1260 1982,1265 1849,1270 1716,1276 1582,1281 1449,1285 1316,1288 1182,1290 1049,1288 916,1284 782,1277 649,1266 516,1251 382,1232 249,1207 116,1176" rendition="Line" xml:id="facs_3_r1l8"/>
+            <zone points="131,1319 265,1345 399,1365 533,1381 667,1394 801,1402 935,1408 1069,1409 1203,1411 1337,1408 1471,1405 1605,1400 1739,1396 1873,1390 2007,1385 2141,1381 2275,1378 2409,1376 2543,1375 2677,1378 2811,1382 2811,1330 2677,1326 2543,1323 2409,1324 2275,1326 2141,1329 2007,1333 1873,1338 1739,1344 1605,1348 1471,1353 1337,1356 1203,1359 1069,1357 935,1356 801,1350 667,1342 533,1329 399,1313 265,1293 131,1267" rendition="Line" xml:id="facs_3_r1l9"/>
+            <zone points="126,1390 183,1406 241,1421 299,1434 357,1444 415,1455 473,1462 530,1468 588,1474 646,1478 704,1481 762,1484 820,1485 878,1486 935,1487 993,1487 1051,1487 1109,1487 1167,1487 1225,1487 1283,1487 1283,1435 1225,1435 1167,1435 1109,1435 1051,1435 993,1435 935,1435 878,1434 820,1433 762,1432 704,1429 646,1426 588,1422 530,1416 473,1410 415,1403 357,1392 299,1382 241,1369 183,1354 126,1338" rendition="Line" xml:id="facs_3_r1l10"/>
+            <zone points="801,2072 853,2072 905,2072 957,2074 1009,2074 1062,2072 1114,2072 1166,2072 1218,2071 1270,2071 1323,2069 1375,2069 1427,2068 1479,2067 1531,2066 1584,2065 1636,2065 1688,2063 1740,2062 1792,2062 1845,2060 1845,1990 1792,1992 1740,1992 1688,1993 1636,1995 1584,1995 1531,1996 1479,1997 1427,1998 1375,1999 1323,1999 1270,2001 1218,2001 1166,2002 1114,2002 1062,2002 1009,2004 957,2004 905,2002 853,2002 801,2002" rendition="Line" xml:id="facs_3_r1l11"/>
+            <zone points="876,3032 917,3035 958,3037 999,3039 1041,3040 1082,3041 1123,3041 1164,3041 1206,3040 1247,3040 1288,3038 1294,3072 1371,3035 1412,3033 1453,3030 1494,3027 1536,3023 1577,3019 1590,3050 1636,3068 1701,3005 1701,2935 1659,2940 1618,2945 1577,2949 1536,2953 1494,2957 1453,2960 1412,2963 1371,2965 1329,2967 1288,2968 1247,2970 1206,2970 1164,2971 1123,2971 1082,2971 1041,2970 999,2969 958,2967 917,2965 876,2962" rendition="Line" xml:id="facs_3_r1l12"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb  facs="#facs_3" n="3" xml:id="img_0003"/>
+            
+            <ab  facs="#facs_3_r1">
+               <lb facs="#facs_3_r1l2" n="N001"/>847
+               <lb facs="#facs_3_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
+               <lb facs="#facs_3_r1l3" n="N003"/><rs type="person" ref="wkfm__9287">Wohlgemuth Daniel</rs> kay: könig: Niderlags Verwanter
+               <lb facs="#facs_3_r1l4" n="N004"/>Firma ad Raggion
+               <lb facs="#facs_3_r1l5" n="N005"/><rs type="person" ref="wkfm__46949">Daniel Wohlgemuth</rs> laut Anbringen de ps: 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 789
+               <lb facs="#facs_3_r1l7" n="N006"/><seg type="owner">Procura und Firmae Trager</seg>
+               <lb facs="#facs_3_r1l8" n="N007"/>Mitls Anbringen de ps: 26<hi style="superscript">ten</hi> Junii 732 N<hi style="superscript">o</hi> 1078 hat der <rs type="person" ref="wkfm__9287">Wohlgemuth</rs> die seinem bedienten <rs type="person" ref="wkfm__46932">Georg Christoph Müller</rs>
+               <lb facs="#facs_3_r1l9" n="N008"/>wehrend seiner abwesenheit ertheilte <choice><expan/><abbr>orig:</abbr></choice> Procura mit beygerukter Firma des <rs type="person" ref="wkfm__46932">Müller</rs>
+               <lb facs="#facs_3_r1l10" n="N009"/>N<hi style="superscript">o</hi> 1077 eingeleget dd<hi style="superscript">to</hi> 26<hi style="superscript">ten</hi> Junii 732
+               <lb facs="#facs_3_r1l11" n="N010"/><seg type="oblatorien">Oblatorien und Avocatorien</seg>
+               <lb facs="#facs_3_r1l12" n="N011"/><seg type="fundi">Fundi Ausweisung</seg>
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

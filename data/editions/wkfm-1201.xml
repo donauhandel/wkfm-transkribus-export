@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Wiener Merkantilprotokoll Nr. </title>
+            <title type="sub">Digitale Edition des: Merkantil und Wechselgericht Merkantilprotokoll</title>
+            <principal>
+               <persName>Peter Rauscher</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName>Peter Rauscher</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName>Sandra Hoislbauer</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>Wiener Stadt- und Landesarchiv (WStLA)</institution>
+                  <repository>Bestand 2.3.2 - Merkantil- und Wechselgericht | 1725-1850-(1863)</repository>
+                  <idno type="archive">WStLA 2.3.2.B6.1</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus></locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1725-01-01" notAfter="1758-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface  ulx="0" uly="0" lrx="3086" lry="4491" xml:id="facs_17">
+         <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1201.jpg" width="3086px" height="4491px"/>
+         <zone points="143,140 143,2962 2796,2962 2796,140" rendition="TextRegion" xml:id="facs_17_r2">
+            <zone points="2667,378 2692,377 2718,379 2744,382 2770,384 2796,384 2796,308 2770,308 2744,306 2718,303 2692,301 2667,302" rendition="Line" xml:id="facs_17_r2l2" subtype="page-number"/>
+            <zone points="1110,223 1140,220 1171,219 1202,217 1233,216 1263,216 1294,216 1325,216 1356,216 1386,217 1417,218 1448,219 1479,220 1509,222 1540,222 1571,222 1602,223 1632,223 1663,222 1694,222 1725,220 1725,144 1694,146 1663,146 1632,147 1602,147 1571,146 1540,146 1509,146 1479,144 1448,143 1417,142 1386,141 1356,140 1325,140 1294,140 1263,140 1233,140 1202,141 1171,143 1140,144 1110,147" rendition="Line" xml:id="facs_17_r2l1"/>
+            <zone points="287,468 403,474 519,477 636,480 752,481 869,481 985,480 1102,478 1218,477 1335,474 1451,472 1567,469 1684,466 1800,463 1917,460 2033,459 2150,457 2266,457 2383,457 2499,459 2616,460 2616,384 2499,383 2383,381 2266,381 2150,381 2033,383 1917,384 1800,387 1684,390 1567,393 1451,396 1335,398 1218,401 1102,402 985,404 869,405 752,405 636,404 519,401 403,398 287,392" rendition="Line" xml:id="facs_17_r2l3"/>
+            <zone points="945,671 1525,671 1525,780 945,780" rendition="Line" xml:id="facs_17_line_1624960263118_740"/>
+            <zone points="203,837 311,852 419,863 527,872 635,878 743,883 851,885 960,886 1068,886 1176,884 1284,882 1392,879 1500,876 1608,873 1717,870 1825,867 1933,865 2041,865 2149,865 2257,867 2366,871 2366,795 2257,791 2149,789 2041,789 1933,789 1825,791 1717,794 1608,797 1500,800 1392,803 1284,806 1176,808 1068,810 960,810 851,809 743,807 635,802 527,796 419,787 311,776 203,761" rendition="Line" xml:id="facs_17_r2l4"/>
+            <zone points="831,1204 871,1205 911,1205 951,1205 991,1205 1031,1204 1071,1203 1111,1202 1151,1201 1191,1199 1231,1198 1271,1198 1311,1196 1351,1196 1391,1196 1431,1196 1471,1196 1511,1198 1551,1199 1591,1202 1631,1205 1631,1145 1591,1142 1551,1139 1511,1138 1471,1136 1431,1136 1391,1136 1351,1136 1311,1136 1271,1138 1231,1138 1191,1139 1151,1141 1111,1142 1071,1143 1031,1144 991,1145 951,1145 911,1145 871,1145 831,1144" rendition="Line" xml:id="facs_17_r2l5"/>
+            <zone points="158,1204 285,1221 412,1236 540,1247 667,1256 794,1263 922,1269 1049,1273 1176,1276 1304,1278 1431,1278 1558,1278 1686,1278 1813,1278 1940,1278 2068,1278 2195,1278 2322,1279 2450,1282 2577,1286 2705,1291 2705,1233 2577,1228 2450,1224 2322,1221 2195,1220 2068,1220 1940,1220 1813,1220 1686,1220 1558,1220 1431,1220 1304,1220 1176,1218 1049,1215 922,1211 794,1205 667,1198 540,1189 412,1178 285,1163 158,1146" rendition="Line" xml:id="facs_17_r2l6"/>
+            <zone points="170,1327 307,1342 445,1353 583,1363 721,1370 859,1375 997,1378 1134,1381 1272,1381 1410,1382 1548,1381 1686,1381 1824,1381 1961,1381 2099,1381 2237,1382 2375,1385 2513,1389 2651,1395 2789,1403 2789,1343 2651,1335 2513,1329 2375,1325 2237,1322 2099,1321 1961,1321 1824,1321 1686,1321 1548,1321 1410,1322 1272,1321 1134,1321 997,1318 859,1315 721,1310 583,1303 445,1293 307,1282 170,1267" rendition="Line" xml:id="facs_17_r2l7"/>
+            <zone points="161,1408 213,1422 265,1435 317,1445 369,1454 422,1463 474,1468 526,1474 578,1478 630,1481 683,1483 735,1484 787,1484 839,1484 891,1484 944,1484 996,1483 1048,1481 1100,1480 1152,1480 1205,1478 1205,1418 1152,1420 1100,1420 1048,1421 996,1423 944,1424 891,1424 839,1424 787,1424 735,1424 683,1423 630,1421 578,1418 526,1414 474,1408 422,1403 369,1394 317,1385 265,1375 213,1362 161,1348" rendition="Line" xml:id="facs_17_r2l8"/>
+            <zone points="170,1555 300,1570 430,1581 561,1590 691,1596 821,1601 952,1603 1082,1605 1212,1605 1343,1605 1473,1603 1603,1602 1734,1600 1864,1599 1994,1597 2125,1597 2255,1597 2385,1599 2516,1602 2646,1606 2777,1614 2777,1538 2646,1530 2516,1526 2385,1523 2255,1521 2125,1521 1994,1521 1864,1523 1734,1524 1603,1526 1473,1527 1343,1529 1212,1529 1082,1529 952,1527 821,1525 691,1520 561,1514 430,1505 300,1494 170,1479" rendition="Line" xml:id="facs_17_r2l9"/>
+            <zone points="161,1675 290,1686 420,1695 550,1701 680,1705 810,1709 940,1711 1070,1711 1200,1711 1330,1710 1460,1708 1589,1707 1719,1705 1849,1704 1979,1702 2109,1702 2239,1702 2369,1704 2499,1705 2629,1710 2759,1716 2759,1641 2629,1635 2499,1630 2369,1629 2239,1627 2109,1627 1979,1627 1849,1629 1719,1630 1589,1632 1460,1633 1330,1635 1200,1636 1070,1636 940,1636 810,1634 680,1630 550,1626 420,1620 290,1611 161,1600" rendition="Line" xml:id="facs_17_r2l10"/>
+            <zone points="143,1765 260,1780 378,1791 495,1800 613,1806 731,1810 848,1813 966,1813 1083,1813 1201,1812 1319,1810 1436,1809 1554,1807 1671,1804 1789,1803 1907,1803 2024,1804 2142,1806 2259,1810 2377,1816 2495,1825 2495,1750 2377,1741 2259,1735 2142,1731 2024,1729 1907,1728 1789,1728 1671,1729 1554,1732 1436,1734 1319,1735 1201,1737 1083,1738 966,1738 848,1738 731,1735 613,1731 495,1725 378,1716 260,1705 143,1690" rendition="Line" xml:id="facs_17_r2l11"/>
+            <zone points="816,2011 859,2011 902,2010 946,2008 989,2007 1032,2005 1076,2004 1119,2001 1162,1999 1206,1998 1249,1996 1292,1995 1336,1993 1379,1992 1422,1992 1466,1992 1509,1992 1552,1992 1596,1993 1639,1995 1683,1996 1683,1920 1639,1919 1596,1917 1552,1916 1509,1916 1466,1916 1422,1916 1379,1916 1336,1917 1292,1919 1249,1920 1206,1922 1162,1923 1119,1925 1076,1928 1032,1929 989,1931 946,1932 902,1934 859,1935 816,1935" rendition="Line" xml:id="facs_17_r2l12"/>
+            <zone points="861,2962 895,2962 929,2961 963,2961 997,2961 1031,2959 1065,2959 1099,2958 1133,2958 1167,2956 1201,2956 1235,2955 1269,2953 1303,2952 1337,2950 1371,2949 1405,2947 1439,2944 1473,2943 1507,2940 1542,2938 1542,2862 1507,2864 1473,2867 1439,2868 1405,2871 1371,2873 1337,2874 1303,2876 1269,2877 1235,2879 1201,2880 1167,2880 1133,2882 1099,2882 1065,2883 1031,2883 997,2885 963,2885 929,2885 895,2886 861,2886" rendition="Line" xml:id="facs_17_r2l13"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb  facs="#facs_17" n="17" xml:id="img_0017"/>
+            
+            <ab  facs="#facs_17_r2">
+               <lb facs="#facs_17_r2l2" n="N001"/>594
+               <lb facs="#facs_17_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
+               <lb facs="#facs_17_r2l3" n="N003"/><rs type="person" ref="wkfm__8583">Malengo Domenico</rs> kay: könig: Niderlags Verwanter
+               <lb facs="#facs_17_line_1624960263118_740" n="N004"/>Firma ad Raggion
+               <lb facs="#facs_17_r2l4" n="N005"/><rs type="person" ref="wkfm__46862">Dominico Malengo</rs> laut Anbringen de ps: 28<hi style="superscript">ten</hi> May 725 N<hi style="superscript">o</hi> 1022
+               <lb facs="#facs_17_r2l5" n="N006"/><seg type="owner">Procura und Firmae Trager</seg>
+               <lb facs="#facs_17_r2l6" n="N007"/>Mitls Anbringen de ps: 28<hi style="superscript">ten</hi> May 725 N<hi style="superscript">o</hi> 1022 hat der <rs type="person" ref="wkfm__35690">Peter Scanzoni</rs>
+               <lb facs="#facs_17_r2l7" n="N008"/>angezeiget, das er von dem <hi>P</hi> <rs type="person" ref="wkfm__8583">Malengo</rs> die Procura, wie selbe allschon gerichtl:
+               <lb facs="#facs_17_r2l8" n="N009"/>eingeleget worden seye, habe
+               <lb facs="#facs_17_r2l9" n="N010"/>Mitls Anbringen de ps: 28<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 738 N<hi style="superscript">o</hi> 1034 hat der <rs type="person" ref="wkfm__8583">Malengo</rs> ange-
+               <lb facs="#facs_17_r2l10" n="N011"/>zeiget das er sein allhiesiges Negotium aufgehoben habe, folgsam die
+               <lb facs="#facs_17_r2l11" n="N012"/>dem <rs type="person" ref="wkfm__35690">Scanzoni</rs> ertheilte Procura anwiderum zu cassiren seye.
+               <lb facs="#facs_17_r2l12" n="N013"/><seg type="oblatorien">Oblatorien und Avocatorien</seg>
+               <lb facs="#facs_17_r2l13" n="N014"/><seg type="fundi">Fundi Ausweisung</seg>
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

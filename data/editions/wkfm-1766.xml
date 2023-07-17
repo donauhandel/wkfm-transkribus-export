@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Wiener Merkantilprotokoll Nr. </title>
+            <title type="sub">Digitale Edition des: Merkantil und Wechselgericht Merkantilprotokoll</title>
+            <principal>
+               <persName>Peter Rauscher</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName>Peter Rauscher</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName>Sandra Hoislbauer</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>Wiener Stadt- und Landesarchiv (WStLA)</institution>
+                  <repository>Bestand 2.3.2 - Merkantil- und Wechselgericht | 1725-1850-(1863)</repository>
+                  <idno type="archive">WStLA 2.3.2.B6.1</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus></locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1725-01-01" notAfter="1758-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface  ulx="0" uly="0" lrx="2886" lry="4476" xml:id="facs_60">
+         <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1766.jpg" width="2886px" height="4476px"/>
+         <zone points="213,301 213,3421 2804,3421 2804,301" rendition="TextRegion" xml:id="facs_60_r1">
+            <zone points="1067,388 1133,381 1199,377 1265,374 1331,374 1397,374 1463,376 1529,378 1595,381 1661,383 1727,388 1793,391 1859,392 1925,394 1991,395 2057,394 2123,391 2189,387 2255,380 2321,372 2388,361 2388,301 2321,312 2255,320 2189,327 2123,331 2057,334 1991,335 1925,334 1859,332 1793,331 1727,328 1661,323 1595,321 1529,318 1463,316 1397,314 1331,314 1265,314 1199,317 1133,321 1067,328" rendition="Line" xml:id="facs_60_r1l1"/>
+            <zone points="261,493 386,486 511,481 636,478 762,477 887,478 1012,478 1137,481 1263,483 1388,484 1513,486 1638,486 1764,484 1889,481 2014,475 2139,468 2265,456 2390,442 2515,424 2640,402 2766,375 2766,318 2640,345 2515,367 2390,385 2265,399 2139,411 2014,418 1889,424 1764,427 1638,429 1513,429 1388,427 1263,426 1137,424 1012,421 887,421 762,420 636,421 511,424 386,429 261,436" rendition="Line" xml:id="facs_60_r1l2"/>
+            <zone points="240,629 374,613 509,602 644,594 778,589 913,584 1048,583 1182,583 1317,583 1452,583 1586,583 1721,581 1856,578 1990,573 2125,565 2260,554 2394,538 2529,519 2664,494 2799,463 2799,394 2664,425 2529,450 2394,469 2260,485 2125,496 1990,504 1856,509 1721,512 1586,514 1452,514 1317,514 1182,514 1048,514 913,515 778,520 644,525 509,533 374,544 240,560" rendition="Line" xml:id="facs_60_r1l3"/>
+            <zone points="237,751 309,746 382,741 454,736 527,733 599,728 672,724 745,720 817,717 890,714 962,711 1035,708 1107,705 1180,702 1253,699 1325,696 1398,694 1470,690 1543,688 1616,685 1616,609 1543,612 1470,614 1398,618 1325,620 1253,623 1180,626 1107,629 1035,632 962,635 890,638 817,641 745,644 672,648 599,652 527,657 454,660 382,665 309,670 237,675" rendition="Line" xml:id="facs_60_r1l4"/>
+            <zone points="288,898 413,889 538,882 663,877 788,873 913,870 1038,867 1163,865 1288,862 1413,859 1539,856 1664,852 1789,846 1914,838 2039,827 2164,815 2289,799 2414,781 2539,758 2664,732 2790,700 2790,624 2664,656 2539,682 2414,705 2289,723 2164,739 2039,751 1914,762 1789,770 1664,776 1539,780 1413,783 1288,786 1163,789 1038,791 913,794 788,797 663,801 538,806 413,813 288,822" rendition="Line" xml:id="facs_60_r1l5"/>
+            <zone points="216,1023 344,1013 473,1006 602,1000 730,996 859,992 988,988 1116,987 1245,984 1374,981 1503,977 1631,972 1760,967 1889,958 2017,949 2146,936 2275,921 2403,903 2532,881 2661,855 2790,825 2790,749 2661,779 2532,805 2403,827 2275,845 2146,860 2017,873 1889,882 1760,891 1631,896 1503,901 1374,905 1245,908 1116,911 988,912 859,916 730,920 602,924 473,930 344,937 216,947" rendition="Line" xml:id="facs_60_r1l6"/>
+            <zone points="222,1146 350,1135 479,1128 607,1121 736,1117 865,1113 993,1110 1122,1107 1251,1105 1379,1102 1508,1098 1637,1094 1765,1088 1894,1080 2023,1069 2151,1057 2280,1040 2409,1022 2537,1000 2666,972 2795,940 2795,864 2666,896 2537,924 2409,946 2280,964 2151,981 2023,993 1894,1004 1765,1012 1637,1018 1508,1022 1379,1026 1251,1029 1122,1031 993,1034 865,1037 736,1041 607,1045 479,1052 350,1059 222,1070" rendition="Line" xml:id="facs_60_r1l7"/>
+            <zone points="234,1263 359,1252 485,1244 611,1237 737,1232 863,1227 989,1222 1114,1219 1240,1215 1366,1211 1492,1207 1618,1201 1744,1195 1870,1187 1995,1177 2121,1165 2247,1151 2373,1133 2499,1113 2625,1091 2807,988 2807,912 2625,1015 2499,1037 2373,1057 2247,1075 2121,1089 1995,1101 1870,1111 1744,1119 1618,1125 1492,1131 1366,1135 1240,1139 1114,1143 989,1146 863,1151 737,1156 611,1161 485,1168 359,1176 234,1187" rendition="Line" xml:id="facs_60_r1l8"/>
+            <zone points="219,1368 280,1364 341,1362 402,1359 464,1355 525,1352 586,1348 648,1347 709,1343 770,1339 832,1337 893,1334 954,1330 1015,1327 1077,1324 1138,1321 1199,1318 1261,1315 1322,1312 1383,1309 1445,1305 1445,1229 1383,1233 1322,1236 1261,1239 1199,1242 1138,1245 1077,1248 1015,1251 954,1254 893,1258 832,1261 770,1263 709,1267 648,1271 586,1272 525,1276 464,1279 402,1283 341,1286 280,1288 219,1292" rendition="Line" xml:id="facs_60_r1l9"/>
+            <zone points="324,1477 447,1463 571,1453 694,1445 818,1438 942,1434 1065,1430 1189,1427 1312,1424 1436,1422 1560,1417 1683,1413 1807,1407 1930,1399 2054,1389 2178,1377 2301,1361 2425,1343 2548,1319 2672,1291 2796,1257 2796,1199 2672,1233 2548,1261 2425,1285 2301,1303 2178,1319 2054,1331 1930,1341 1807,1349 1683,1355 1560,1359 1436,1364 1312,1366 1189,1369 1065,1372 942,1376 818,1380 694,1387 571,1395 447,1405 324,1419" rendition="Line" xml:id="facs_60_r1l11"/>
+            <zone points="237,1584 359,1570 482,1559 605,1550 728,1544 851,1540 974,1537 1096,1536 1219,1534 1342,1533 1465,1532 1588,1530 1711,1527 1834,1524 1956,1516 2079,1508 2202,1497 2325,1483 2448,1465 2571,1442 2811,1337 2811,1261 2571,1366 2448,1389 2325,1407 2202,1421 2079,1432 1956,1440 1834,1448 1711,1451 1588,1454 1465,1456 1342,1457 1219,1458 1096,1460 974,1461 851,1464 728,1468 605,1474 482,1483 359,1494 237,1508" rendition="Line" xml:id="facs_60_r1l12"/>
+            <zone points="213,1699 316,1690 419,1680 522,1673 625,1667 728,1661 831,1657 934,1654 1037,1650 1140,1648 1244,1645 1347,1644 1450,1642 1553,1639 1656,1638 1759,1635 1862,1632 1965,1628 2068,1624 2172,1618 2172,1542 2068,1548 1965,1552 1862,1556 1759,1559 1656,1562 1553,1563 1450,1566 1347,1568 1244,1569 1140,1572 1037,1574 934,1578 831,1581 728,1585 625,1591 522,1597 419,1604 316,1614 213,1623" rendition="Line" xml:id="facs_60_r1l13"/>
+            <zone points="1188,2115 1223,2118 1258,2119 1293,2121 1329,2122 1364,2124 1399,2124 1434,2124 1470,2124 1505,2124 1540,2124 1575,2122 1611,2122 1646,2121 1681,2121 1716,2121 1752,2119 1787,2119 1822,2120 1857,2121 1893,2121 1893,2045 1857,2045 1822,2044 1787,2043 1752,2043 1716,2045 1681,2045 1646,2045 1611,2046 1575,2046 1540,2048 1505,2048 1470,2048 1434,2048 1399,2048 1364,2048 1329,2046 1293,2045 1258,2043 1223,2042 1188,2039" rendition="Line" xml:id="facs_60_r1l14"/>
+            <zone points="1295,3418 1323,3418 1351,3418 1379,3418 1407,3418 1435,3418 1463,3418 1491,3420 1519,3420 1547,3420 1576,3420 1604,3420 1632,3420 1660,3421 1688,3421 1716,3421 1744,3421 1772,3421 1800,3420 1828,3420 1857,3420 1857,3344 1828,3344 1800,3344 1772,3345 1744,3345 1716,3345 1688,3345 1660,3345 1632,3344 1604,3344 1576,3344 1547,3344 1519,3344 1491,3344 1463,3342 1435,3342 1407,3342 1379,3342 1351,3342 1323,3342 1295,3342" rendition="Line" xml:id="facs_60_r1l15"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb  facs="#facs_60" n="60" xml:id="img_0060"/>
+            
+            <ab  facs="#facs_60_r1">
+               <lb facs="#facs_60_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
+               <lb facs="#facs_60_r1l2" n="N002"/>In obigen Anbringen de ps: 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 1894 hat sich der <rs type="person" ref="wkfm__46109">Eberhard
+               <lb break="no" facs="#facs_60_r1l3" n="N003"/>Krahmer</rs> und <rs type="person" ref="wkfm__8331">Thomas Wellner</rs> miteinander <hi>g</hi> erklähret, das sie außer
+               <lb facs="#facs_60_r1l4" n="N004"/>ihnen beeden keinen Compagnon haben
+               <lb facs="#facs_60_r1l5" n="N005"/>Mitls Anbringen de ps: 17<hi style="superscript">ten</hi> Julii 727 N<hi style="superscript">o</hi> 2069 hat <hi>sich</hi> der <rs type="person" ref="wkfm__8331">Wellner</rs> <unclear>an-</unclear>
+               <lb facs="#facs_60_r1l6" n="N006"/>zeiget das der <rs type="person" ref="wkfm__46109">Eberhard Krahmer</rs> aus der Handlung gänzlich ausge-
+               <lb facs="#facs_60_r1l7" n="N007"/>tretten und er mit dem <rs type="person" ref="wkfm__46991">Johann Jacob Buchmann</rs> ohne weitheren <unclear>interessenten</unclear>
+               <lb facs="#facs_60_r1l8" n="N008"/>die Handlung unter der Raggion <rs type="person" ref="wkfm__27575">Thomaß Wellner und <choice><expan/><abbr>Comp:</abbr></choice></rs> und <unclear>beeder</unclear>
+               <lb facs="#facs_60_r1l9" n="N009"/>Firmirung die Handlung führe
+               <lb facs="#facs_60_r1l11" n="N010"/>Mitls Anbringen de ps: 8<hi style="superscript">ten</hi> Junii 733 N<hi style="superscript">o</hi> 2072 hat der <rs type="person" ref="wkfm__8331">Wellner</rs> <unclear>angezeiget</unclear>
+               <lb facs="#facs_60_r1l12" n="N011"/>das die Raggion <rs type="person" ref="wkfm__27575">Thomaß Wellner und <choice><expan/><abbr>Comp:</abbr></choice></rs> bereits mutiret <hi>worden</hi> und <unclear>un-</unclear>
+               <lb facs="#facs_60_r1l13" n="N012"/>ter seinen alleinigen Nahmen<rs type="person" ref="wkfm__46990"> Thomaß Wellner</rs> laufe
+               <lb facs="#facs_60_r1l14" n="N013"/><seg type="wedding_contract">Heuraths Contract</seg>
+               <lb facs="#facs_60_r1l15" n="N014"/>Anmerckungen
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Wiener Merkantilprotokoll Nr. </title>
+            <title type="sub">Digitale Edition des: Merkantil und Wechselgericht Merkantilprotokoll</title>
+            <principal>
+               <persName>Peter Rauscher</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName>Peter Rauscher</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName>Sandra Hoislbauer</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>Wiener Stadt- und Landesarchiv (WStLA)</institution>
+                  <repository>Bestand 2.3.2 - Merkantil- und Wechselgericht | 1725-1850-(1863)</repository>
+                  <idno type="archive">WStLA 2.3.2.B6.1</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus></locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1725-01-01" notAfter="1758-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface  ulx="0" uly="0" lrx="3095" lry="4553" xml:id="facs_37">
+         <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0849.jpg" width="3095px" height="4553px"/>
+         <graphic url="" width="3095px" height="4553px"/>
+         <zone points="146,280 146,439 191,439 191,280" rendition="TextRegion" xml:id="facs_37_r1">
+            <zone points="146,439 191,430 191,280 146,289" rendition="Line" xml:id="facs_37_r1l1"/>
+         </zone>
+         <zone points="2633,319 2633,473 2786,473 2786,319" rendition="TextRegion" xml:id="facs_37_r3" subtype="page-number">
+            <zone points="2633,473 2658,471 2684,469 2709,470 2735,472 2760,472 2786,470 2786,320 2760,322 2735,322 2709,320 2684,319 2658,321 2633,323" rendition="Line" xml:id="facs_37_r3l1" subtype="page-number"/>
+         </zone>
+         <zone points="221,236 221,3104 2564,3104 2564,236" rendition="TextRegion" xml:id="facs_37_r2">
+            <zone points="1112,341 1145,338 1178,338 1211,336 1245,335 1278,335 1311,335 1345,335 1378,336 1411,336 1445,338 1478,339 1511,339 1544,341 1578,342 1611,344 1644,344 1678,345 1711,345 1744,347 1778,347 1778,248 1744,248 1711,246 1678,246 1644,245 1611,245 1578,243 1544,242 1511,240 1478,240 1445,239 1411,237 1378,237 1345,236 1311,236 1278,236 1245,236 1211,237 1178,239 1145,239 1112,242" rendition="Line" xml:id="facs_37_r2l1"/>
+            <zone points="236,569 348,574 460,578 572,581 684,582 796,584 908,584 1020,583 1132,582 1244,581 1356,581 1468,579 1580,579 1692,579 1804,579 1916,581 2028,584 2140,587 2252,592 2364,599 2477,606 2477,507 2364,500 2252,493 2140,488 2028,485 1916,482 1804,480 1692,480 1580,480 1468,480 1356,482 1244,482 1132,483 1020,484 908,485 796,485 684,483 572,482 460,479 348,475 236,470" rendition="Line" xml:id="facs_37_r2l2"/>
+            <zone points="1002,897 1033,899 1064,899 1096,899 1127,899 1158,899 1190,899 1221,899 1252,899 1284,899 1315,897 1346,897 1378,896 1409,896 1440,895 1472,894 1503,893 1534,892 1566,891 1597,890 1629,890 1629,791 1597,791 1566,792 1534,793 1503,794 1472,795 1440,796 1409,797 1378,797 1346,798 1315,798 1284,800 1252,800 1221,800 1190,800 1158,800 1127,800 1096,800 1064,800 1033,800 1002,798" rendition="Line" xml:id="facs_37_r2l3"/>
+            <zone points="221,983 338,1003 455,1017 572,1028 689,1035 806,1041 923,1043 1041,1043 1158,1041 1275,1038 1392,1034 1509,1028 1626,1023 1743,1018 1861,1013 1978,1008 2095,1005 2212,1004 2329,1004 2446,1007 2564,1011 2564,912 2446,908 2329,905 2212,905 2095,906 1978,909 1861,914 1743,919 1626,924 1509,929 1392,935 1275,939 1158,942 1041,944 923,944 806,942 689,936 572,929 455,918 338,904 221,884" rendition="Line" xml:id="facs_37_r2l4"/>
+            <zone points="827,1344 875,1344 924,1344 973,1344 1022,1343 1071,1343 1119,1341 1168,1340 1217,1340 1266,1338 1315,1337 1363,1336 1412,1335 1461,1334 1510,1334 1559,1332 1607,1332 1656,1332 1705,1332 1754,1332 1803,1332 1803,1233 1754,1233 1705,1233 1656,1233 1607,1233 1559,1233 1510,1235 1461,1235 1412,1236 1363,1237 1315,1238 1266,1239 1217,1241 1168,1241 1119,1242 1071,1244 1022,1244 973,1245 924,1245 875,1245 827,1245" rendition="Line" xml:id="facs_37_r2l5"/>
+            <zone points="816,2163 866,2162 917,2159 968,2157 1019,2155 1070,2153 1121,2151 1171,2148 1222,2147 1273,2144 1324,2142 1375,2141 1426,2139 1477,2138 1527,2136 1578,2135 1629,2133 1680,2133 1731,2132 1782,2132 1833,2132 1833,2033 1782,2033 1731,2033 1680,2034 1629,2034 1578,2036 1527,2037 1477,2039 1426,2040 1375,2042 1324,2043 1273,2045 1222,2048 1171,2049 1121,2052 1070,2054 1019,2056 968,2058 917,2060 866,2063 816,2064" rendition="Line" xml:id="facs_37_r2l6"/>
+            <zone points="842,3104 880,3102 918,3101 956,3100 994,3098 1032,3096 1070,3095 1108,3093 1146,3090 1184,3089 1222,3086 1260,3085 1298,3082 1336,3081 1374,3078 1412,3077 1450,3075 1488,3074 1526,3072 1564,3071 1602,3071 1602,2972 1564,2972 1526,2973 1488,2975 1450,2976 1412,2978 1374,2979 1336,2982 1298,2983 1260,2986 1222,2987 1184,2990 1146,2991 1108,2994 1070,2996 1032,2997 994,2999 956,3001 918,3002 880,3003 842,3005" rendition="Line" xml:id="facs_37_r2l7"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb  facs="#facs_37" n="37" xml:id="img_0037"/>
+            
+            <ab  facs="#facs_37_r1">
+               <lb facs="#facs_37_r1l1" n="N001"/>71
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

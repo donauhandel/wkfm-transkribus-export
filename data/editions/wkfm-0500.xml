@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Wiener Merkantilprotokoll Nr. </title>
+            <title type="sub">Digitale Edition des: Merkantil und Wechselgericht Merkantilprotokoll</title>
+            <principal>
+               <persName>Peter Rauscher</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName>Peter Rauscher</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName>Sandra Hoislbauer</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>Wiener Stadt- und Landesarchiv (WStLA)</institution>
+                  <repository>Bestand 2.3.2 - Merkantil- und Wechselgericht | 1725-1850-(1863)</repository>
+                  <idno type="archive">WStLA 2.3.2.B6.1</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus></locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1725-01-01" notAfter="1758-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface  ulx="0" uly="0" lrx="3051" lry="4473" xml:id="facs_180">
+         <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0500.jpg" width="3051px" height="4473px"/>
+         <zone points="1089,82 1089,3319 2488,3315 2488,78" rendition="TextRegion" xml:id="facs_180_r2">
+            <zone points="1116,121 1379,105 1405,104 1432,103 1536,130 2462,151 2465,274 2439,276 2387,277 2310,277 2233,276 1116,271" rendition="Line" xml:id="facs_180_line_1621964508367_3863"/>
+            <zone points="1304,1979 1339,1978 1375,1976 1411,1975 1446,1975 1482,1975 1518,1973 1553,1973 1589,1973 1625,1973 1661,1973 1696,1973 1732,1973 1768,1973 1803,1972 1839,1972 1875,1970 1910,1969 1946,1967 1982,1966 2018,1963 2018,1813 1982,1816 1946,1817 1910,1819 1875,1820 1839,1822 1803,1822 1768,1823 1732,1823 1696,1823 1661,1823 1625,1823 1589,1823 1553,1823 1518,1823 1482,1825 1446,1825 1411,1825 1375,1826 1339,1828 1304,1829" rendition="Line" xml:id="facs_180_r2l3"/>
+            <zone points="1403,3326 1434,3328 1466,3329 1497,3331 1529,3331 1561,3331 1592,3331 1624,3332 1656,3332 1687,3332 1719,3331 1751,3331 1782,3331 1814,3331 1846,3332 1877,3332 1909,3332 1941,3334 1972,3334 2004,3335 2036,3338 2036,3188 2004,3185 1972,3184 1941,3184 1909,3182 1877,3182 1846,3182 1814,3181 1782,3181 1751,3181 1719,3181 1687,3182 1656,3182 1624,3182 1592,3181 1561,3181 1529,3181 1497,3181 1466,3179 1434,3178 1403,3176" rendition="Line" xml:id="facs_180_r2l4"/>
+         </zone>
+      </surface>
+   
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb  facs="#facs_180" n="180" xml:id="img_0180"/>
+            
+            <ab  facs="#facs_180_r2">
+               <lb facs="#facs_180_line_1621964508367_3863" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
+               <lb facs="#facs_180_r2l3" n="N002"/><seg type="wedding_contract">Heuraths Contract</seg>
+               <lb facs="#facs_180_r2l4" n="N003"/>Anmerckungen
+            </ab>
+         
+        </div>
+      </body>
+    </text>
+</TEI>

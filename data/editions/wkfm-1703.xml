@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Wiener Merkantilprotokoll Nr. </title>
+            <title type="sub">Digitale Edition des: Merkantil und Wechselgericht Merkantilprotokoll</title>
+            <principal>
+               <persName>Peter Rauscher</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName>Peter Rauscher</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName>Sandra Hoislbauer</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>Wiener Stadt- und Landesarchiv (WStLA)</institution>
+                  <repository>Bestand 2.3.2 - Merkantil- und Wechselgericht | 1725-1850-(1863)</repository>
+                  <idno type="archive">WStLA 2.3.2.B6.1</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus></locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1725-01-01" notAfter="1758-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface  ulx="0" uly="0" lrx="2945" lry="4468" xml:id="facs_245">
+         <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1703.jpg" width="2945px" height="4468px"/>
+         <zone points="684,155 684,3033 2739,3058 2739,180" rendition="TextRegion" xml:id="facs_245_r1">
+            <zone points="2544,213 2720,213 2720,339 2544,339" rendition="Line" xml:id="facs_245_line_1626263905235_2600" subtype="page-number"/>
+            <zone points="1005,281 1038,281 1071,279 1104,279 1138,281 1171,281 1204,281 1238,282 1271,282 1304,283 1338,284 1371,284 1404,284 1437,284 1471,284 1504,282 1537,282 1571,280 1604,279 1637,276 1671,273 1671,155 1637,158 1604,161 1571,162 1537,164 1504,164 1471,166 1437,166 1404,166 1371,166 1338,166 1304,165 1271,164 1238,164 1204,163 1171,163 1138,163 1104,161 1071,161 1038,163 1005,163" rendition="Line" xml:id="facs_245_r1l1"/>
+            <zone points="804,483 853,477 902,471 952,466 1001,462 1050,459 1100,455 1149,453 1198,450 1248,449 1297,449 1346,447 1396,446 1445,444 1494,444 1544,441 1593,440 1642,437 1692,435 1741,431 1791,428 1791,310 1741,313 1692,317 1642,319 1593,322 1544,323 1494,326 1445,326 1396,328 1346,329 1297,331 1248,331 1198,332 1149,335 1100,337 1050,341 1001,344 952,348 902,353 853,359 804,365" rendition="Line" xml:id="facs_245_r1l2"/>
+            <zone points="951,827 979,825 1008,823 1037,822 1066,821 1095,819 1123,818 1152,815 1181,815 1210,812 1239,811 1267,810 1296,808 1325,807 1354,806 1383,804 1411,804 1440,803 1469,803 1498,801 1527,801 1527,683 1498,683 1469,685 1440,685 1411,686 1383,686 1354,688 1325,689 1296,690 1267,692 1239,693 1210,694 1181,697 1152,697 1123,700 1095,701 1066,703 1037,704 1008,705 979,707 951,709" rendition="Line" xml:id="facs_245_r1l3"/>
+            <zone points="684,1296 733,1293 782,1290 831,1288 880,1286 930,1284 979,1281 1028,1279 1077,1277 1126,1275 1176,1272 1225,1269 1274,1268 1323,1265 1372,1261 1422,1257 1471,1255 1520,1251 1569,1246 1618,1243 1668,1238 1668,1120 1618,1125 1569,1128 1520,1133 1471,1137 1422,1139 1372,1143 1323,1147 1274,1150 1225,1151 1176,1154 1126,1157 1077,1159 1028,1161 979,1163 930,1166 880,1168 831,1170 782,1172 733,1175 684,1178" rendition="Line" xml:id="facs_245_r1l4"/>
+            <zone points="762,2090 812,2085 863,2080 914,2075 965,2071 1016,2067 1067,2062 1117,2058 1168,2054 1219,2051 1270,2046 1321,2042 1372,2038 1423,2034 1473,2031 1524,2027 1575,2024 1626,2021 1677,2018 1728,2015 1779,2012 1779,1894 1728,1897 1677,1900 1626,1903 1575,1906 1524,1909 1473,1913 1423,1916 1372,1920 1321,1924 1270,1928 1219,1933 1168,1936 1117,1940 1067,1944 1016,1949 965,1953 914,1957 863,1962 812,1967 762,1972" rendition="Line" xml:id="facs_245_r1l5"/>
+            <zone points="815,3033 853,3032 891,3031 929,3029 968,3028 1006,3026 1044,3024 1082,3023 1121,3021 1159,3019 1197,3017 1235,3015 1274,3012 1312,3009 1350,3008 1388,3004 1427,3001 1465,2999 1503,2995 1541,2991 1580,2987 1580,2869 1541,2873 1503,2877 1465,2881 1427,2883 1388,2886 1350,2890 1312,2891 1274,2894 1235,2897 1197,2899 1159,2901 1121,2903 1082,2905 1044,2906 1006,2908 968,2910 929,2911 891,2913 853,2914 815,2915" rendition="Line" xml:id="facs_245_r1l6"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb  facs="#facs_245" n="245" xml:id="img_0245"/>
+            
+            <ab  facs="#facs_245_r1">
+               <lb facs="#facs_245_line_1626263905235_2600" n="N001"/>844
+               <lb facs="#facs_245_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
+               <lb facs="#facs_245_r1l2" n="N003"/>Hr <rs type="person" ref="wkfm__47513">Gebrüder Smittmer</rs>
+               <lb facs="#facs_245_r1l3" n="N004"/>Firma ad Raggion
+               <lb facs="#facs_245_r1l4" n="N005"/><seg type="owner">Procura und Firmae Trager</seg>
+               <lb facs="#facs_245_r1l5" n="N006"/><seg type="oblatorien">Oblatorien und Avocatorien</seg>
+               <lb facs="#facs_245_r1l6" n="N007"/><seg type="fundi">Fundi Ausweisung</seg>
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

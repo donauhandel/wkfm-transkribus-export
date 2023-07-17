@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Wiener Merkantilprotokoll Nr. </title>
+            <title type="sub">Digitale Edition des: Merkantil und Wechselgericht Merkantilprotokoll</title>
+            <principal>
+               <persName>Peter Rauscher</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName>Peter Rauscher</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName>Sandra Hoislbauer</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>Wiener Stadt- und Landesarchiv (WStLA)</institution>
+                  <repository>Bestand 2.3.2 - Merkantil- und Wechselgericht | 1725-1850-(1863)</repository>
+                  <idno type="archive">WStLA 2.3.2.B6.1</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus></locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1725-01-01" notAfter="1758-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface  ulx="0" uly="0" lrx="2880" lry="4477" xml:id="facs_143">
+         <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1601.jpg" width="2880px" height="4477px"/>
+         <zone points="168,85 168,2949 2772,2949 2772,85" rendition="TextRegion" xml:id="facs_143_r1">
+            <zone points="2609,369 2636,371 2663,372 2690,374 2717,374 2744,376 2772,380 2772,271 2744,267 2717,265 2690,265 2663,263 2636,262 2609,260" rendition="Line" xml:id="facs_143_r1l2" subtype="page-number"/>
+            <zone points="1203,195 1236,194 1270,194 1303,194 1337,194 1371,195 1404,197 1438,198 1472,201 1505,203 1539,205 1572,207 1606,209 1640,210 1673,210 1707,210 1741,210 1774,209 1808,207 1842,203 1842,94 1808,98 1774,100 1741,101 1707,101 1673,101 1640,101 1606,100 1572,98 1539,96 1505,94 1472,92 1438,89 1404,88 1371,86 1337,85 1303,85 1270,85 1236,85 1203,86" rendition="Line" xml:id="facs_143_r1l1"/>
+            <zone points="395,464 502,467 609,468 717,471 824,471 932,473 1039,473 1147,473 1254,473 1362,473 1469,473 1576,473 1684,473 1791,473 1899,474 2006,474 2114,476 2221,477 2329,480 2436,483 2544,486 2544,377 2436,374 2329,371 2221,368 2114,367 2006,365 1899,365 1791,364 1684,364 1576,364 1469,364 1362,364 1254,364 1147,364 1039,364 932,364 824,362 717,362 609,359 502,358 395,355" rendition="Line" xml:id="facs_143_r1l3"/>
+            <zone points="1019,756 1117,758 1142,759 1168,759 1193,760 1219,761 1244,761 1269,761 1295,761 1320,762 1346,762 1371,762 1397,762 1422,762 1447,762 1473,762 1498,761 1524,761 1549,761 1575,761 1575,652 1549,652 1524,652 1498,652 1473,653 1447,653 1422,653 1397,653 1371,653 1346,653 1320,653 1295,652 1269,652 1244,652 1219,652 1193,651 1168,650 1142,650 1117,649 1019,647" rendition="Line" xml:id="facs_143_r1l4"/>
+            <zone points="168,849 296,873 424,890 552,903 681,914 809,920 937,923 1065,923 1194,921 1322,918 1450,914 1578,908 1707,903 1835,899 1963,894 2091,893 2220,891 2348,893 2476,897 2604,905 2733,915 2739,742 2628,745 2476,788 2348,784 2220,782 2091,784 1963,785 1835,790 1707,794 1578,799 1450,805 1322,809 1194,812 1065,814 937,814 809,811 681,805 552,794 424,781 296,764 168,740" rendition="Line" xml:id="facs_143_r1l5"/>
+            <zone points="780,1209 886,1203 930,1203 973,1203 1017,1202 1061,1202 1104,1202 1148,1202 1192,1202 1235,1202 1279,1202 1323,1202 1366,1202 1410,1202 1454,1202 1497,1202 1541,1202 1585,1200 1628,1200 1672,1199 1716,1197 1716,1088 1672,1090 1628,1091 1585,1091 1541,1093 1497,1093 1454,1093 1410,1093 1366,1093 1323,1093 1279,1093 1235,1093 1192,1093 1148,1093 1104,1093 1061,1093 1017,1093 973,1094 930,1094 886,1094 780,1100" rendition="Line" xml:id="facs_143_r1l6"/>
+            <zone points="857,1992 882,1990 907,1989 932,1991 957,1992 982,1993 1007,1994 1032,1993 1833,2002 1833,1893 1032,1884 1007,1885 982,1884 957,1883 932,1882 907,1880 882,1881 857,1883" rendition="Line" xml:id="facs_143_r1l8"/>
+            <zone points="837,2915 878,2920 919,2924 960,2928 1001,2932 1042,2936 1083,2939 1124,2941 1165,2943 1206,2945 1248,2946 1289,2948 1330,2948 1371,2949 1412,2949 1453,2948 1494,2948 1535,2946 1576,2945 1617,2944 1659,2942 1659,2833 1617,2835 1576,2836 1535,2837 1494,2839 1453,2839 1412,2840 1371,2840 1330,2839 1289,2839 1248,2837 1206,2836 1165,2834 1124,2832 1083,2830 1042,2827 1001,2823 960,2819 919,2815 878,2811 837,2806" rendition="Line" xml:id="facs_143_r1l10"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb  facs="#facs_143" n="143" xml:id="img_0143"/>
+            
+            <ab  facs="#facs_143_r1">
+               <lb facs="#facs_143_r1l2" n="N001"/>793
+               <lb facs="#facs_143_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
+               <lb facs="#facs_143_r1l3" n="N003"/><rs type="person" ref="wkfm__47501">Sandt Augustin Joseph</rs> burgerlicher Handlsmann
+               <lb facs="#facs_143_r1l4" n="N004"/>Firma ad Raggion
+               <lb facs="#facs_143_r1l5" n="N005"/><rs type="person" ref="wkfm__47502">Augustin Joseph Sandt</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 730
+               <lb facs="#facs_143_r1l6" n="N006"/><seg type="owner">Procura und Firmae Trager</seg>
+               <lb facs="#facs_143_r1l8" n="N007"/><seg type="oblatorien">Oblatorien und Avocatorien</seg>
+               <lb facs="#facs_143_r1l10" n="N008"/><seg type="fundi">Fundi Ausweisung</seg>
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>
