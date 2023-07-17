@@ -1,19 +1,24 @@
 # WKFM  transkribus-export
 
-Automagically export and upconvert data from [Transkribus](https://readcoop.eu/) collections into TEI/XML using [page2tei](https://github.com/dariok/page2tei) from @dariok and [acdh-transkribus-pyutils](https://github.com/acdh-oeaw/acdh-transkribus-utils).
+Automagically export and upconvert data from [Transkribus](https://readcoop.eu/) collections into TEI/XML using [page2tei](https://github.com/dariok/page2tei) from [@dariok](https://github.com/dariok) and [acdh-transkribus-pyutils](https://github.com/acdh-oeaw/acdh-transkribus-utils).
 
 ## initial (local) set up
 
 * create a virtual environment `python -m venv venv`
 * update pip to latest version and install needed python packages `pip install -U pip && pip install -r requirements.txt`
 * copy/rename `dummy.env` to `secret.env` and add your Transkribus credentials
-* clone [tei2html-repo](https://github.com/dariok/page2tei) by @dariok `git clone --depth=1 --branch master --single-branch https://github.com/dariok/page2tei.git`
+* clone [tei2html-repo](https://github.com/dariok/page2tei) by [@dariok](https://github.com/dariok) `git clone --depth=1 --branch master --single-branch https://github.com/dariok/page2tei.git`
 
 ## export the data
 
 * add the Transkribus collection IDs to `./col_ids.txt` (each ID on a new line)
 run `./export_env_variables.sh` to set your Transkribus credentials as environment variables.
 * run `python dump_data.py`
+
+## upconvert the data
+
+* to upconvert the data, i.e. each page as a single file and further modifactions run `python split_files.py`
+
 
 ## GitHub-Actions
 
