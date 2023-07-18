@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3095" lry="4410" xml:id="facs_47">
+    <surface ulx="0" uly="0" lrx="3095" lry="4410" xml:id="facs_47">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0967.jpg" width="3095px" height="4410px"/>
          <zone points="200,203 200,3014 2799,3014 2799,203" rendition="TextRegion" xml:id="facs_47_r1">
             <zone points="2613,402 2641,402 2669,401 2697,399 2725,397 2754,393 2754,312 2725,316 2697,318 2669,320 2641,321 2613,321" rendition="Line" xml:id="facs_47_r1l2" subtype="page-number"/>
@@ -70,9 +70,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_47" n="47" xml:id="img_0047"/>
+            <pb facs="#facs_47" n="47" xml:id="img_0047"/>
             
-            <ab  facs="#facs_47_r1">
+            <ab facs="#facs_47_r1">
                <lb facs="#facs_47_r1l2" n="N001"/>476
                <lb facs="#facs_47_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_47_r1l3" n="N003"/><rs type="person" ref="wkfm__9484">Horvath Gregor Ferdinand</rs> burgerlicher Handlsmann

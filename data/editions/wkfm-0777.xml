@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3095" lry="4496" xml:id="facs_109">
+    <surface ulx="0" uly="0" lrx="3095" lry="4496" xml:id="facs_109">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0777.jpg" width="3095px" height="4496px"/>
          <graphic url="" width="3095px" height="4496px"/>
          <zone points="128,191 128,3567 2840,3567 2840,191" rendition="TextRegion" xml:id="facs_109_r2">
@@ -75,9 +75,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_109" n="109" xml:id="img_0109"/>
+            <pb facs="#facs_109" n="109" xml:id="img_0109"/>
             
-            <ab  facs="#facs_109_r2">
+            <ab facs="#facs_109_r2">
                <lb facs="#facs_109_r2l1" n="N003"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_109_r2l2" n="N004"/><rs type="person" ref="wkfm__47141">Veth Theodor</rs> burgerlicher Handlsmann
                <lb facs="#facs_109_r2l3" n="N005"/>Firma ad Raggion

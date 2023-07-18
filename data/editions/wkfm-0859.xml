@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3095" lry="4469" xml:id="facs_47">
+    <surface ulx="0" uly="0" lrx="3095" lry="4469" xml:id="facs_47">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0859.jpg" width="3095px" height="4469px"/>
          <zone points="209,169 209,3005 2766,3005 2766,169" rendition="TextRegion" xml:id="facs_47_r1">
             <zone points="2585,344 2612,341 2640,343 2667,346 2695,347 2723,340 2723,252 2695,259 2667,258 2640,255 2612,253 2585,256" rendition="Line" xml:id="facs_47_r1l2" subtype="page-number"/>
@@ -70,9 +70,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_47" n="47" xml:id="img_0047"/>
+            <pb facs="#facs_47" n="47" xml:id="img_0047"/>
             
-            <ab  facs="#facs_47_r1">
+            <ab facs="#facs_47_r1">
                <lb facs="#facs_47_r1l2" n="N001"/>427
                <lb facs="#facs_47_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_47_r1l3" n="N003"/><rs type="person" ref="wkfm__46327">Golthann Johann Adam</rs> burgerlicher Eysenhandler

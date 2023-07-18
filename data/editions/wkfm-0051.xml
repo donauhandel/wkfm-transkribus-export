@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3087" lry="4530" xml:id="facs_46">
+    <surface ulx="0" uly="0" lrx="3087" lry="4530" xml:id="facs_46">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0051.jpg" width="3087px" height="4530px"/>
          <graphic url="" width="3087px" height="4530px"/>
          <zone points="209,145 209,4341 2864,4341 2864,145" rendition="TextRegion" xml:id="facs_46_r1">
@@ -101,9 +101,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_46" n="46" xml:id="img_0046"/>
+            <pb facs="#facs_46" n="46" xml:id="img_0046"/>
             
-            <ab  facs="#facs_46_r1">
+            <ab facs="#facs_46_r1">
                <lb facs="#facs_46_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_46_r1l2" n="N002"/>Mittels Anbringen de ps<hi style="superscript">to</hi> 15 Aprilis 779: hat <rs type="person" ref="wkfm__46293">Johann Thaddae
                <lb break="no" facs="#facs_46_r1l3" n="N003"/>Aichinger</rs> angezeiget, daß er seinem Sohn auf seine <choice><expan/><abbr>burgerl:</abbr></choice>
@@ -131,9 +131,9 @@
                <lb facs="#facs_46_r1l26" n="N025"/>von beeden wehrenden Brauthständen das zeitliche segnen solte, so
                <lb facs="#facs_46_r1l27" n="N026"/>solle dem lebenden theil zu einem Andenken 50 Cr: Ducaten
                <lb facs="#facs_46_r1l28" n="N027"/>zu einem Andenken aus des verstorbenen massa verabfolget werden
-               <lb facs="#facs_46_r1l29" n="N028"/>übrigens ist auch vorgesehen worden, das <comment comment="Fortsetzung\u0020des\u0020Textes\u0020in\u0020Rubrik\u0020\u0022Anmerkungen\u0022,\u0020Zeile\u00201-30"><hi>0</hi></comment>
+               <lb facs="#facs_46_r1l29" n="N028"/>übrigens ist auch vorgesehen worden, das <seg type="editorial_comment_seg"><hi>0</hi><note type="editorial_comment_note">Fortsetzung des Textes in Rubrik Anmerkungen, Zeile 1-30</note></seg>
                <lb facs="#facs_46_r1l30" n="N029"/>Anmerkung
-               <lb facs="#facs_46_r1l31" n="N030"/><comment comment="Hier\u0020wird\u0020der\u0020Eintrag\u0020unter\u0020den\u0020Heiratskontrakten\u0020in\u0020der\u0020Spalte\u0020der\u0020Anmerkungen\u0020fortgesetzt\u0020"><hi>0</hi></comment>
+               <lb facs="#facs_46_r1l31" n="N030"/><seg type="editorial_comment_seg"><hi>0</hi><note type="editorial_comment_note">Hier wird der Eintrag unter den Heiratskontrakten in der Spalte der Anmerkungen fortgesetzt </note></seg>
                <lb facs="#facs_46_r1l32" n="N031"/><hi>bey</hi> nach dem todtfall des <rs type="person" ref="wkfm__46293">Aichinger</rs> seiner überlebenden Ehe Consortin
                <lb facs="#facs_46_r1l33" n="N032"/>die Handlungs Gerchtigkeit zufallen solle p. Dieser Heuraths-
                <lb facs="#facs_46_r1l34" n="N033"/>-brief findet sich in fasciculo sub Rubrica Heurathsbriefe sub

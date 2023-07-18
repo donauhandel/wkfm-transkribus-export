@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_56">
+    <surface ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_56">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0724.jpg" width="2994px" height="4530px"/>
          <zone points="591,253 591,3386 2889,3386 2889,253" rendition="TextRegion" xml:id="facs_56_r1">
             <zone points="1215,345 1279,341 1344,337 1408,336 1473,337 1537,339 1602,342 1666,345 1731,349 1795,354 1860,360 1924,365 1989,369 2053,372 2118,376 2182,379 2247,380 2311,379 2376,378 2440,375 2505,369 2505,330 2440,336 2376,339 2311,340 2247,341 2182,340 2118,337 2053,333 1989,330 1924,326 1860,321 1795,315 1731,310 1666,306 1602,303 1537,300 1473,298 1408,297 1344,298 1279,302 1215,306" rendition="Line" xml:id="facs_56_r1l2"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_56" n="56" xml:id="img_0056"/>
+            <pb facs="#facs_56" n="56" xml:id="img_0056"/>
             
-            <ab  facs="#facs_56_r1">
+            <ab facs="#facs_56_r1">
                <lb facs="#facs_56_r1l2" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_56_r1l3" n="N002"/>In obigen Anbringen de ps: 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 725 N<hi style="superscript">o</hi> 343 hat
                <lb facs="#facs_56_r1l4" n="N003"/>sich der <rs type="person" ref="wkfm__14199">Fritsch</rs> erklähret das er keinen Compagnon habe

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2973" lry="4502" xml:id="facs_180">
+    <surface ulx="0" uly="0" lrx="2973" lry="4502" xml:id="facs_180">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0234.jpg" width="2973px" height="4502px"/>
          <zone points="335,239 335,3371 2864,3371 2864,239" rendition="TextRegion" xml:id="facs_180_r1">
             <zone points="1151,299 1222,300 1294,301 1366,301 1438,302 1510,304 1582,305 1654,305 1726,307 1798,308 1870,308 1941,310 2013,311 2085,311 2157,313 2229,313 2301,313 2373,313 2445,313 2517,312 2589,311 2589,251 2517,252 2445,253 2373,253 2301,253 2229,253 2157,253 2085,251 2013,251 1941,250 1870,248 1798,248 1726,247 1654,245 1582,245 1510,244 1438,242 1366,241 1294,241 1222,240 1151,239" rendition="Line" xml:id="facs_180_r1l1"/>
@@ -69,14 +69,14 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_180" n="180" xml:id="img_0180"/>
+            <pb facs="#facs_180" n="180" xml:id="img_0180"/>
             
-            <ab  facs="#facs_180_r1">
+            <ab facs="#facs_180_r1">
                <lb facs="#facs_180_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_180_r1l2" n="N002"/><seg type="wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_180_r1l3" n="N003"/>Mitls Anbringen de ps: 13<hi style="superscript">ten</hi> <choice><expan/><abbr>Jan:</abbr></choice> 738 N<hi style="superscript">o</hi> 2090 hat der <rs type="person" ref="wkfm__27912">Bäbitsch</rs> den mit der <rs type="person" ref="wkfm__43923">M <gap/>
                <lb break="no" facs="#facs_180_r1l4" n="N004"/>Francisca <unclear>Dietzin</unclear></rs> untern 10<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 737 errichteten Heuraths Contract N<hi style="superscript">o</hi> 2089 in copia
-               <lb facs="#facs_180_r1l5" n="N005"/>vidimata eingeleget, krafft welchen <unclear>600</unclear> fl Heuraths Gutt <hi>nebst</hi> und 500 fl zur <comment comment="Widerlag\u0020(?)">Wi<gap/></comment>
+               <lb facs="#facs_180_r1l5" n="N005"/>vidimata eingeleget, krafft welchen <unclear>600</unclear> fl Heuraths Gutt <hi>nebst</hi> und 500 fl zur <seg type="editorial_comment_seg">Wi<gap/><note type="editorial_comment_note">Widerlag (?)</note></seg>
                <lb facs="#facs_180_r1l6" n="N006"/>zines anbey was wehrender Ehe erworben und ererbet würd, als ein gleiches
                <lb facs="#facs_180_r1l7" n="N007"/>und auf Überleben pactiret worden.
                <lb facs="#facs_180_r1l8" n="N008"/><seg type="other_notes">Anmerkungen</seg>

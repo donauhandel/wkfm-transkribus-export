@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3058" lry="4511" xml:id="facs_43">
+    <surface ulx="0" uly="0" lrx="3058" lry="4511" xml:id="facs_43">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0048.jpg" width="3058px" height="4511px"/>
          <zone points="195,170 191,3990 2687,3992 2691,172" rendition="TextRegion" xml:id="facs_43_r1">
             <zone points="2568,324 2697,324 2697,203 2568,203" rendition="Line" xml:id="facs_43_line_1627561528136_957" subtype="page-number"/>
@@ -81,9 +81,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_43" n="43" xml:id="img_0043"/>
+            <pb facs="#facs_43" n="43" xml:id="img_0043"/>
             
-            <ab  facs="#facs_43_r1">
+            <ab facs="#facs_43_r1">
                <lb facs="#facs_43_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_43_r1l2" n="N003"/><rs type="person" ref="wkfm__43797">Auffner Joseph</rs> burgerlicher Handlsmann
                <lb facs="#facs_43_r1l3" n="N004"/>Firma oder Raggion
@@ -102,7 +102,7 @@
                <lb facs="#facs_43_r1l18" n="N017"/>2<hi style="superscript">do</hi> zu Completirung des Fundi hat der <rs type="person" ref="wkfm__43798">Dominico
                <lb break="no" facs="#facs_43_r1l19" n="N018"/>Anton Ferrari</rs> einen <choice><expan/><abbr>orig.</abbr></choice> laut Instrument dd<hi style="superscript">to</hi> 22<hi style="superscript">ten</hi>
                <lb facs="#facs_43_line_1621280631214_66" n="N019"/><choice><expan/><abbr>9br:</abbr></choice> 746 N<hi style="superscript">o</hi> 1155 eingeleget <choice><expan/><abbr>pr</abbr></choice> 1300 fl
-               <lb facs="#facs_43_r1l22" n="N020"/><choice><expan/><abbr><comment comment="Summa">Sa</comment></abbr></choice> 4000 fl
+               <lb facs="#facs_43_r1l22" n="N020"/><choice><expan/><abbr><seg type="editorial_comment_seg">Sa<note type="editorial_comment_note">Summa</note></seg></abbr></choice> 4000 fl
             </ab>
             
         </div>

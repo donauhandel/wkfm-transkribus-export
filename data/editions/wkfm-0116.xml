@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2991" lry="4407" xml:id="facs_63">
+    <surface ulx="0" uly="0" lrx="2991" lry="4407" xml:id="facs_63">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0116.jpg" width="2991px" height="4407px"/>
          <zone points="83,101 89,2973 2712,2973 2706,101" rendition="TextRegion" xml:id="facs_63_r1">
             <zone points="2515,126 2685,126 2685,231 2515,231" rendition="Line" xml:id="facs_63_line_1629707557122_485" subtype="page-number"/>
@@ -70,9 +70,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_63" n="63" xml:id="img_0063"/>
+            <pb facs="#facs_63" n="63" xml:id="img_0063"/>
             
-            <ab  facs="#facs_63_r1">
+            <ab facs="#facs_63_r1">
                <lb facs="#facs_63_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_63_r1l2" n="N003"/><rs type="person" ref="wkfm__43852">Pingitzerin Eva Maria</rs> burgerliche Handlsfrau
                <lb facs="#facs_63_r1l3" n="N004"/>Firma oder Raggion

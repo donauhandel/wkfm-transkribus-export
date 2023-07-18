@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2954" lry="4435" xml:id="facs_64">
+    <surface ulx="0" uly="0" lrx="2954" lry="4435" xml:id="facs_64">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0117.jpg" width="2954px" height="4435px"/>
          <zone points="492,166 492,3236 2784,3236 2784,166" rendition="TextRegion" xml:id="facs_64_r1">
             <zone points="845,271 925,271 1005,271 1085,271 1166,272 1246,272 1326,273 1406,274 1487,275 1567,275 1647,277 1727,277 1808,278 1888,278 1968,280 2048,280 2129,280 2209,280 2289,280 2369,280 2450,278 2450,173 2369,175 2289,175 2209,175 2129,175 2048,175 1968,175 1888,173 1808,173 1727,172 1647,172 1567,170 1487,170 1406,169 1326,168 1246,167 1166,167 1085,166 1005,166 925,166 845,166" rendition="Line" xml:id="facs_64_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_64" n="64" xml:id="img_0064"/>
+            <pb facs="#facs_64" n="64" xml:id="img_0064"/>
             
-            <ab  facs="#facs_64_r1">
+            <ab facs="#facs_64_r1">
                <lb facs="#facs_64_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_64_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 50 hat sich
                <lb facs="#facs_64_r1l3" n="N003"/>die <rs type="person" ref="wkfm__43852">Pingitzerin</rs> geäusseret, daß sie keinen Compagnon habe

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3095" lry="4410" xml:id="facs_55">
+    <surface ulx="0" uly="0" lrx="3095" lry="4410" xml:id="facs_55">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0975.jpg" width="3095px" height="4410px"/>
          <zone points="207,187 207,3032 2691,3032 2691,187" rendition="TextRegion" xml:id="facs_55_r1">
             <zone points="2526,324 2553,327 2580,327 2607,326 2634,326 2661,327 2661,254 2634,253 2607,253 2580,254 2553,254 2526,251" rendition="Line" xml:id="facs_55_r1l2" subtype="page-number"/>
@@ -70,9 +70,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_55" n="55" xml:id="img_0055"/>
+            <pb facs="#facs_55" n="55" xml:id="img_0055"/>
             
-            <ab  facs="#facs_55_r1">
+            <ab facs="#facs_55_r1">
                <lb facs="#facs_55_r1l2" n="N001"/>480
                <lb facs="#facs_55_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_55_r1l4" n="N003"/><rs type="person" ref="wkfm__23505">Hokhstainer Carl</rs> burgerlicher Handlsmann

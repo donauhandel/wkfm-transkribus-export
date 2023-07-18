@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2929" lry="4455" xml:id="facs_24">
+    <surface ulx="0" uly="0" lrx="2929" lry="4455" xml:id="facs_24">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1482.jpg" width="2929px" height="4455px"/>
          <zone points="240,159 240,3275 2787,3275 2787,159" rendition="TextRegion" xml:id="facs_24_r1">
             <zone points="953,271 1015,263 1077,257 1139,253 1202,250 1264,248 1326,247 1388,248 1451,248 1513,250 1575,251 1637,253 1700,256 1762,257 1824,258 1886,259 1949,259 2011,259 2073,257 2135,254 2198,250 2198,162 2135,166 2073,169 2011,171 1949,171 1886,171 1824,170 1762,169 1700,168 1637,165 1575,163 1513,162 1451,160 1388,160 1326,159 1264,160 1202,162 1139,165 1077,169 1015,175 953,183" rendition="Line" xml:id="facs_24_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_24" n="24" xml:id="img_0024"/>
+            <pb facs="#facs_24" n="24" xml:id="img_0024"/>
             
-            <ab  facs="#facs_24_r1">
+            <ab facs="#facs_24_r1">
                <lb facs="#facs_24_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_24_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 667 haben des <rs type="person" ref="wkfm__47411">Johann
                <lb break="no" facs="#facs_24_r1l3" n="N003"/>Michäls Schickh <choice><expan/><abbr>seel:</abbr></choice> Erben</rs> sich geäusseret, das <hi>unter</hi> die Handlung von

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2991" lry="4407" xml:id="facs_39">
+    <surface ulx="0" uly="0" lrx="2991" lry="4407" xml:id="facs_39">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0092.jpg" width="2991px" height="4407px"/>
          <graphic url="" width="2991px" height="4407px"/>
          <zone points="122,130 122,2923 2799,2923 2799,130" rendition="TextRegion" xml:id="facs_39_r1">
@@ -94,9 +94,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_39" n="39" xml:id="img_0039"/>
+            <pb facs="#facs_39" n="39" xml:id="img_0039"/>
             
-            <ab  facs="#facs_39_r1">
+            <ab facs="#facs_39_r1">
                <lb facs="#facs_39_r1l2" n="N001"/>44
                <lb facs="#facs_39_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_39_r1l3" n="N003"/><rs type="person" ref="wkfm__11161">Bolza Johann Baptista</rs> K. K. Niderlags Verwanter

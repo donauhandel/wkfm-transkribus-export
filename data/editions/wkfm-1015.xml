@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3095" lry="4410" xml:id="facs_95">
+    <surface ulx="0" uly="0" lrx="3095" lry="4410" xml:id="facs_95">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1015.jpg" width="3095px" height="4410px"/>
          <graphic url="" width="3095px" height="4410px"/>
          <zone points="227,199 227,3345 2867,3345 2867,199" rendition="TextRegion" xml:id="facs_95_r1">
@@ -90,9 +90,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_95" n="95" xml:id="img_0095"/>
+            <pb facs="#facs_95" n="95" xml:id="img_0095"/>
             
-            <ab  facs="#facs_95_r1">
+            <ab facs="#facs_95_r1">
                <lb facs="#facs_95_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_95_r1l2" n="N003"/><rs type="person" ref="wkfm__26689">Heß Johann Gottlob</rs> k. k. Niderlags Verwanter
                <lb facs="#facs_95_r1l3" n="N004"/>Firma ad Raggion
@@ -108,14 +108,14 @@
                <lb facs="#facs_95_r1l13" n="N014"/>Mitls Anbringen de ps: 7<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 738 N<hi style="superscript">o</hi> 1000 hat der <rs type="person" ref="wkfm__26689">Heß</rs> die obigen <rs type="person" ref="wkfm__34650">Schklers</rs> wehrend seiner ab-
                <lb facs="#facs_95_r1l15" n="N015"/>wesenheit ertheilte <choice><expan/><abbr>orig:</abbr></choice> procura dd<hi style="superscript">to</hi> 2<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 738 mit beygerukter Firma des <rs type="person" ref="wkfm__34650">Schklers</rs> N<hi style="superscript">o</hi> 999
                <lb facs="#facs_95_r1l17" n="N016"/>eingeleget
-               <lb facs="#facs_95_r1l18" n="N017"/>Mitls Anbringen de ps: 22<hi style="superscript">ten</hi> May 738 N<hi style="superscript">o</hi> 1002 hat der <rs type="person" ref="wkfm__26689">Heß</rs> obige dem <rs type="person" ref="wkfm__34650">Schklers</rs> ertheilte Procura <comment comment="Der\u0020Text\u0020wird\u0020in\u0020der\u0020Rubrik\u0020\u0022Anmerckungen\u0022\u0020fortgesetzt"><hi>0</hi></comment>
+               <lb facs="#facs_95_r1l18" n="N017"/>Mitls Anbringen de ps: 22<hi style="superscript">ten</hi> May 738 N<hi style="superscript">o</hi> 1002 hat der <rs type="person" ref="wkfm__26689">Heß</rs> obige dem <rs type="person" ref="wkfm__34650">Schklers</rs> ertheilte Procura <seg type="editorial_comment_seg"><hi>0</hi><note type="editorial_comment_note">Der Text wird in der Rubrik Anmerckungen fortgesetzt</note></seg>
                <lb facs="#facs_95_r1l19" n="N018"/><seg type="oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_95_r1l20" n="N019"/>Mitls Anbringen de ps: 7<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 738 N<hi style="superscript">o</hi> 1968 hat der <rs type="person" ref="wkfm__26689">Heß</rs> die von ihm unter der
                <lb facs="#facs_95_r1l21" n="N020"/>Raggion <rs type="person" ref="wkfm__46509">Johann Gottlob Heß</rs> untern - <choice><expan/><abbr>Febr:</abbr></choice> 738 erlassene oblatorien N<hi style="superscript">o</hi> 1128 in
                <lb facs="#facs_95_r1l22" n="N021"/><choice><expan/><abbr>orig:</abbr></choice> eingeleget, kraft welchen derselbe kund gemacht, daß, nachdem die Raggion <rs type="person" ref="wkfm__8067">Heß
                <lb break="no" facs="#facs_95_r1l23" n="N022"/>und Thech</rs> geendiget seye, so habe er endschlossen <hi>solche</hi> das Negotium unter seinen eigenen
                <lb facs="#facs_95_r1l24" n="N023"/>Nahmen <rs type="person" ref="wkfm__46509">Johann Gottlob Heß</rs> <hi>zu renoviren</hi> und mit eigenen interesse zu renoviren.
-               <lb facs="#facs_95_r1l25" n="N024"/><comment comment="Der\u0020Text\u0020bezieht\u0020sich\u0020auf\u0020die\u0020Rubrik\u0020\u0022Procura\u0020und\u0020Firmae\u0020Trager\u0022">Fundi Ausweisung</comment>
+               <lb facs="#facs_95_r1l25" n="N024"/><seg type="editorial_comment_seg">Fundi Ausweisung<note type="editorial_comment_note">Der Text bezieht sich auf die Rubrik Procura und Firmae Trager</note></seg>
                <lb facs="#facs_95_r1l26" n="N025"/><hi>0</hi>
                <lb facs="#facs_95_r1l27" n="N026"/>widerrufen anbey die <hi>dem</hi> seinem Buchhalter <rs type="person" ref="wkfm__37608">Joachim Andre Preß</rs> <hi>ert</hi> wehrend
                <lb facs="#facs_95_r1l28" n="N027"/>seiner Abwesenheit ertheilte <choice><expan/><abbr>orig:</abbr></choice> Procura dd<hi style="superscript">to</hi> 21<hi style="superscript">ten</hi> May 738 mit beygerukter 

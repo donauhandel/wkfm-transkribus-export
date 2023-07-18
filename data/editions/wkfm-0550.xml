@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3003" lry="4530" xml:id="facs_50">
+    <surface ulx="0" uly="0" lrx="3003" lry="4530" xml:id="facs_50">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0550.jpg" width="3003px" height="4530px"/>
          <zone points="380,261 380,3491 2847,3491 2847,261" rendition="TextRegion" xml:id="facs_50_r1">
             <zone points="1005,355 1073,352 1141,350 1210,349 1278,349 1347,349 1415,350 1483,352 1552,354 1620,356 1689,358 1757,359 1825,362 1894,364 1962,364 2031,364 2099,364 2167,362 2236,359 2304,356 2373,350 2373,262 2304,268 2236,271 2167,274 2099,276 2031,276 1962,276 1894,276 1825,274 1757,271 1689,270 1620,268 1552,266 1483,264 1415,262 1347,261 1278,261 1210,261 1141,262 1073,264 1005,267" rendition="Line" xml:id="facs_50_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_50" n="50" xml:id="img_0050"/>
+            <pb facs="#facs_50" n="50" xml:id="img_0050"/>
             
-            <ab  facs="#facs_50_r1">
+            <ab facs="#facs_50_r1">
                <lb facs="#facs_50_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_50_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 265 hat sich der
                <lb facs="#facs_50_r1l3" n="N003"/><rs type="person" ref="wkfm__15249">Tribaumer</rs> geäusseret das er weder directé noch indirecté <unclear>com-</unclear>

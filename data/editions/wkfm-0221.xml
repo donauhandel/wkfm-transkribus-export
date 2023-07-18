@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3029" lry="4407" xml:id="facs_167">
+    <surface ulx="0" uly="0" lrx="3029" lry="4407" xml:id="facs_167">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0221.jpg" width="3029px" height="4407px"/>
          <zone points="144,124 144,2957 2565,2957 2565,124" rendition="TextRegion" xml:id="facs_167_r1">
             <zone points="2430,218 2457,217 2484,217 2511,215 2538,211 2565,203 2565,124 2538,132 2511,136 2484,138 2457,138 2430,139" rendition="Line" xml:id="facs_167_r1l1" subtype="page-number"/>
@@ -70,9 +70,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_167" n="167" xml:id="img_0167"/>
+            <pb facs="#facs_167" n="167" xml:id="img_0167"/>
             
-            <ab  facs="#facs_167_r1">
+            <ab facs="#facs_167_r1">
                <lb facs="#facs_167_r1l1" n="N001"/>108
                <lb facs="#facs_167_r1l2" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_167_r1l3" n="N003"/><rs type="person" ref="wkfm__43918">Prestinari Johann Baptist</rs> burgerlicher Handlsmann

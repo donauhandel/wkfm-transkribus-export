@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2801" lry="4419" xml:id="facs_188">
+    <surface ulx="0" uly="0" lrx="2801" lry="4419" xml:id="facs_188">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1646.jpg" width="2801px" height="4419px"/>
          <zone points="219,150 219,3295 2745,3293 2745,148" rendition="TextRegion" xml:id="facs_188_r1">
             <zone points="1133,253 1197,249 1261,246 1326,244 1390,242 1454,242 1519,242 1583,242 1647,244 1712,244 1776,245 1840,247 1905,247 1969,247 2033,247 2098,247 2162,245 2226,242 2291,239 2355,234 2420,229 2420,150 2355,155 2291,160 2226,163 2162,166 2098,168 2033,168 1969,168 1905,168 1840,168 1776,166 1712,165 1647,165 1583,163 1519,163 1454,163 1390,163 1326,165 1261,167 1197,170 1133,174" rendition="Line" xml:id="facs_188_r1l1"/>
@@ -70,9 +70,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_188" n="188" xml:id="img_0188"/>
+            <pb facs="#facs_188" n="188" xml:id="img_0188"/>
             
-            <ab  facs="#facs_188_r1">
+            <ab facs="#facs_188_r1">
                <lb facs="#facs_188_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_188_r1l2" n="N002"/><seg type="wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_188_r1l3" n="N003"/>Mitls Anbringen de ps: 11<hi style="superscript">ten</hi> Martii 743 N<hi style="superscript">o</hi> 2234 hat der <rs type="person" ref="wkfm__47546">Staferin</rs> den 

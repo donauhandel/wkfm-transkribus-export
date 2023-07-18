@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3095" lry="4496" xml:id="facs_25">
+    <surface ulx="0" uly="0" lrx="3095" lry="4496" xml:id="facs_25">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0693.jpg" width="3095px" height="4496px"/>
          <zone points="164,233 164,3054 2801,3058 2801,237" rendition="TextRegion" xml:id="facs_25_r3">
             <zone points="255,348 155,348 155,443 255,443" rendition="Line" xml:id="facs_25_line_1629289652591_653"/>
@@ -71,9 +71,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_25" n="25" xml:id="img_0025"/>
+            <pb facs="#facs_25" n="25" xml:id="img_0025"/>
             
-            <ab  facs="#facs_25_r3">
+            <ab facs="#facs_25_r3">
                <lb facs="#facs_25_r3l2" n="N002"/>344
                <lb facs="#facs_25_r3l1" n="N003"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_25_r3l3" n="N004"/><rs type="person" ref="wkfm__12360">Fuchß Bernhard</rs> burgerlicher Handlsmann

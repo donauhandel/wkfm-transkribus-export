@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_58">
+    <surface ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_58">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0726.jpg" width="2994px" height="4530px"/>
          <zone points="312,242 312,3650 2901,3650 2901,242" rendition="TextRegion" xml:id="facs_58_r1">
             <zone points="1197,327 1260,326 1324,324 1387,324 1451,325 1515,326 1578,327 1642,329 1705,331 1769,333 1833,335 1896,336 1960,339 2023,341 2087,342 2151,343 2214,344 2278,344 2341,344 2405,342 2469,341 2469,259 2405,260 2341,262 2278,262 2214,262 2151,261 2087,260 2023,259 1960,257 1896,254 1833,253 1769,251 1705,249 1642,247 1578,245 1515,244 1451,243 1387,242 1324,242 1260,244 1197,245" rendition="Line" xml:id="facs_58_r1l1"/>
@@ -76,9 +76,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_58" n="58" xml:id="img_0058"/>
+            <pb facs="#facs_58" n="58" xml:id="img_0058"/>
             
-            <ab  facs="#facs_58_r1">
+            <ab facs="#facs_58_r1">
                <lb facs="#facs_58_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_58_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 6<hi style="superscript">ten</hi> <choice><expan/><abbr>Jul:</abbr></choice> 726 N<hi style="superscript">o</hi> 344 hat sich
                <lb facs="#facs_58_r1l3" n="N003"/>der <rs type="person" ref="wkfm__8411">Venossi</rs> geäusseret das er mit keinen Compagnon verstanden

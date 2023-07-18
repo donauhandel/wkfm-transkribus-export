@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2991" lry="4407" xml:id="facs_59">
+    <surface ulx="0" uly="0" lrx="2991" lry="4407" xml:id="facs_59">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0112.jpg" width="2991px" height="4407px"/>
          <zone points="159,103 159,2989 2696,2989 2696,103" rendition="TextRegion" xml:id="facs_59_r1">
             <zone points="2567,172 2592,174 2618,177 2644,178 2670,176 2696,175 2696,106 2670,107 2644,109 2618,108 2592,105 2567,103" rendition="Line" xml:id="facs_59_r1l1" subtype="page-number"/>
@@ -71,9 +71,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_59" n="59" xml:id="img_0059"/>
+            <pb facs="#facs_59" n="59" xml:id="img_0059"/>
             
-            <ab  facs="#facs_59_r1">
+            <ab facs="#facs_59_r1">
                <lb facs="#facs_59_r1l1" n="N001"/>54
                <lb facs="#facs_59_r1l2" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_59_r1l3" n="N003"/><rs type="person" ref="wkfm__13158">Pauminger Johann Jacob</rs> burgerlicher Handlsmann

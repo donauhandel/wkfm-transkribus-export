@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2945" lry="4468" xml:id="facs_241">
+    <surface ulx="0" uly="0" lrx="2945" lry="4468" xml:id="facs_241">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1699.jpg" width="2945px" height="4468px"/>
          <zone points="183,148 183,3013 2636,3013 2636,148" rendition="TextRegion" xml:id="facs_241_r1">
             <zone points="2480,345 2506,350 2532,352 2558,352 2584,351 2610,351 2636,354 2636,252 2610,249 2584,249 2558,250 2532,250 2506,248 2480,243" rendition="Line" xml:id="facs_241_r1l2" subtype="page-number"/>
@@ -70,9 +70,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_241" n="241" xml:id="img_0241"/>
+            <pb facs="#facs_241" n="241" xml:id="img_0241"/>
             
-            <ab  facs="#facs_241_r1">
+            <ab facs="#facs_241_r1">
                <lb facs="#facs_241_r1l2" n="N001"/>842
                <lb facs="#facs_241_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_241_r1l3" n="N003"/><rs type="person" ref="wkfm__47612">Scherr Johann Gottfrid</rs> burgerlicher Handlsmann

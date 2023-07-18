@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2991" lry="4541" xml:id="facs_197">
+    <surface ulx="0" uly="0" lrx="2991" lry="4541" xml:id="facs_197">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0251.jpg" width="2991px" height="4541px"/>
          <zone points="195,162 195,4260 2814,4260 2814,162" rendition="TextRegion" xml:id="facs_197_r1">
             <zone points="2660,233 2688,231 2717,232 2746,232 2775,225 2775,162 2746,169 2717,169 2688,168 2660,170" rendition="Line" xml:id="facs_197_r1l1" subtype="page-number"/>
@@ -97,9 +97,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_197" n="197" xml:id="img_0197"/>
+            <pb facs="#facs_197" n="197" xml:id="img_0197"/>
             
-            <ab  facs="#facs_197_r1">
+            <ab facs="#facs_197_r1">
                <lb facs="#facs_197_r1l1" n="N001"/>123
                <lb facs="#facs_197_r1l2" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_197_r1l3" n="N003"/><rs type="person" ref="wkfm__43942">Passy Michael</rs> k. k. Niderlags Verwanter

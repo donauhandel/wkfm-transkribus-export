@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3134" lry="4521" xml:id="facs_43">
+    <surface ulx="0" uly="0" lrx="3134" lry="4521" xml:id="facs_43">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1143.jpg" width="3134px" height="4521px"/>
          <zone points="335,229 335,3043 2967,3059 2967,245" rendition="TextRegion" xml:id="facs_43_r2">
             <zone points="2800,314 2970,314 2970,424 2800,424" rendition="Line" xml:id="facs_43_line_1628002269807_911" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_43" n="43" xml:id="img_0043"/>
+            <pb facs="#facs_43" n="43" xml:id="img_0043"/>
             
-            <ab  facs="#facs_43_r2">
+            <ab facs="#facs_43_r2">
                <lb facs="#facs_43_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_43_r2l2" n="N003"/><rs type="person" ref="wkfm__46811"><unclear>Loher</unclear> Johann Christian</rs> kay: könig: Niderlags Verwanter
                <lb facs="#facs_43_r2l3" n="N004"/>Firma ad Raggion

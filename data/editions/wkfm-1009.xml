@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3095" lry="4410" xml:id="facs_89">
+    <surface ulx="0" uly="0" lrx="3095" lry="4410" xml:id="facs_89">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1009.jpg" width="3095px" height="4410px"/>
          <zone points="237,194 237,3090 2799,3088 2799,192" rendition="TextRegion" xml:id="facs_89_r1">
             <zone points="2521,335 2749,335 2749,462 2521,462" rendition="Line" xml:id="facs_89_line_1624803762720_1678" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_89" n="89" xml:id="img_0089"/>
+            <pb facs="#facs_89" n="89" xml:id="img_0089"/>
             
-            <ab  facs="#facs_89_r1">
+            <ab facs="#facs_89_r1">
                <lb facs="#facs_89_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_89_r1l2" n="N003"/><rs type="person" ref="wkfm__39393">Hütter Matthias</rs> hofbefreyter Leinwathandler
                <lb facs="#facs_89_r1l3" n="N004"/>Firma ad Raggion

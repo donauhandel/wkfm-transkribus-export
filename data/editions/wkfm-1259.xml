@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3105" lry="4491" xml:id="facs_75">
+    <surface ulx="0" uly="0" lrx="3105" lry="4491" xml:id="facs_75">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1259.jpg" width="3105px" height="4491px"/>
          <zone points="180,155 180,4243 2951,4231 2951,143" rendition="TextRegion" xml:id="facs_75_r1">
             <zone points="2788,256 2950,256 2950,442 2788,442" rendition="Line" xml:id="facs_75_line_1624963299561_2602" subtype="page-number"/>
@@ -79,9 +79,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_75" n="75" xml:id="img_0075"/>
+            <pb facs="#facs_75" n="75" xml:id="img_0075"/>
             
-            <ab  facs="#facs_75_r1">
+            <ab facs="#facs_75_r1">
                <lb facs="#facs_75_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_75_r1l2" n="N003"/><rs type="person" ref="wkfm__46910">Mumb Johann Georg</rs> burgerlicher Handlsmann
                <lb facs="#facs_75_r1l3" n="N004"/>Firma ad Raggion
@@ -94,10 +94,10 @@
                <lb facs="#facs_75_r1l11" n="N011"/>Waaren betragen 13209 wovon seiner Ehewirthin gehören 8009 fl ihm aber
                <lb facs="#facs_75_r1l12" n="N012"/>samt Heurath Gutt eigenthumlich Verbleiben 5200 fl
                <lb facs="#facs_75_r1l14" n="N013"/>nebst einem von seiner Ehewirthin <rs type="person" ref="wkfm__46912">Sara Maria</rs> untern 11<hi style="superscript">ten</hi>
-               <lb facs="#facs_75_r1l15" n="N014"/><choice><expan/><abbr>Apr:</abbr></choice> 737 dahin ausgesteltes <choice><expan/><abbr>orig:</abbr></choice> <comment comment="wahrscheinlich\u0020\u0022Certiorirten\u0022">Cortiorirten</comment> Instrument N<hi style="superscript">o</hi>
+               <lb facs="#facs_75_r1l15" n="N014"/><choice><expan/><abbr>Apr:</abbr></choice> 737 dahin ausgesteltes <choice><expan/><abbr>orig:</abbr></choice> <seg type="editorial_comment_seg">Cortiorirten<note type="editorial_comment_note">wahrscheinlich Certiorirten</note></seg> Instrument N<hi style="superscript">o</hi>
                <lb facs="#facs_75_r1l16" n="N015"/>1604 daß sie wie sie sich <hi>verbunden</hi> neben in die Handlung legen wolle 3500 fl
                <lb facs="#facs_75_r1l17" n="N016"/>und andere hieran noch an denen von ihren Ehewirthen alldahin gelegten
-               <lb facs="#facs_75_r1l18" n="N017"/><comment comment="übereinander\u0020\u00224000\u0022\u0020und\u0020\u00224500\u0022\u0020geschrieben"><unclear>4000</unclear></comment> vor befridigung deren Creditoren etwas praetendiren wollen
+               <lb facs="#facs_75_r1l18" n="N017"/><seg type="editorial_comment_seg"><unclear>4000</unclear><note type="editorial_comment_note">übereinander 4000 und 4500 geschrieben</note></seg> vor befridigung deren Creditoren etwas praetendiren wollen
                <lb facs="#facs_75_r1l20" n="N018"/><choice><expan/><abbr>Sa</abbr></choice> 8700 fl
             </ab>
             

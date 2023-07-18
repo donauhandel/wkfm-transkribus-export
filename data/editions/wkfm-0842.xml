@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_30">
+    <surface ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_30">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0842.jpg" width="2994px" height="4530px"/>
          <zone points="320,287 320,3458 2817,3458 2817,287" rendition="TextRegion" xml:id="facs_30_r1">
             <zone points="1223,396 1286,398 1350,399 1414,401 1478,402 1541,404 1605,405 1669,407 1733,408 1796,408 1860,410 1924,410 1988,410 2051,410 2115,410 2179,408 2243,407 2306,405 2370,402 2434,399 2498,396 2498,287 2434,290 2370,293 2306,296 2243,298 2179,299 2115,301 2051,301 1988,301 1924,301 1860,301 1796,299 1733,299 1669,298 1605,296 1541,295 1478,293 1414,292 1350,290 1286,289 1223,287" rendition="Line" xml:id="facs_30_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_30" n="30" xml:id="img_0030"/>
+            <pb facs="#facs_30" n="30" xml:id="img_0030"/>
             
-            <ab  facs="#facs_30_r1">
+            <ab facs="#facs_30_r1">
                <lb facs="#facs_30_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_30_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 394 hat sich der
                <lb facs="#facs_30_r1l3" n="N003"/><rs type="person" ref="wkfm__8817">Gnädl</rs> geäusseret, daß er mit keinem Compagnon verstanden

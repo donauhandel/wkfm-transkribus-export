@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2991" lry="4378" xml:id="facs_40">
+    <surface ulx="0" uly="0" lrx="2991" lry="4378" xml:id="facs_40">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0093.jpg" width="2991px" height="4378px"/>
          <zone points="539,139 539,3207 2910,3207 2910,139" rendition="TextRegion" xml:id="facs_40_r2">
             <zone points="923,201 1001,198 1079,196 1157,196 1236,196 1314,198 1392,201 1471,204 1549,207 1627,211 1706,215 1784,219 1862,224 1940,228 2019,232 2097,237 2175,240 2254,243 2332,246 2410,247 2489,249 2489,192 2410,190 2332,189 2254,186 2175,183 2097,180 2019,175 1940,171 1862,167 1784,162 1706,158 1627,154 1549,150 1471,147 1392,144 1314,141 1236,139 1157,139 1079,139 1001,141 923,144" rendition="Line" xml:id="facs_40_r2l1"/>
@@ -72,16 +72,16 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_40" n="40" xml:id="img_0040"/>
+            <pb facs="#facs_40" n="40" xml:id="img_0040"/>
             
-            <ab  facs="#facs_40_r2">
+            <ab facs="#facs_40_r2">
                <lb facs="#facs_40_r2l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_40_r2l2" n="N002"/>Der <rs type="person" ref="wkfm__11161">Johann Baptist</rs> und <rs type="person" ref="wkfm__9824">Johann Peter Bolza</rs> haben in obigen Anbringen de ps:
                <lb facs="#facs_40_r2l3" n="N003"/>25<hi style="superscript">ten</hi> <choice><expan/><abbr>Jan:</abbr></choice> 725 N<hi style="superscript">o</hi> 38 sich erklähret das sie beyde zusamen ohne weithere asso
                <lb facs="#facs_40_r2l4" n="N004"/>ciation führen
-               <lb facs="#facs_40_r2l5" n="N005"/>Der<rs type="person" ref="wkfm__11161"> Johann Baptist Bolza</rs> hat mitls Anbringen de ps: 30<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 736 <hi><unclear>eingeg</unclear></hi> <comment comment="Es\u0020folgt\u0020eine\u0020nicht\u0020lesbare\u0020Aktenzahl a1004428@univie.ac.at\u003a\u0020vermutl.\u0020\u00221867\u0022\u0020entsprechend\u0020der\u0020vorherigen\u0020Seite">N<hi style="superscript">o</hi></comment>
-               <lb facs="#facs_40_r2l6" n="N006"/>angezeiget, daß der <rs type="person" ref="wkfm__9824">Johann Peter Bolza</rs> verstorben und hierdurch ihre <comment comment="Societaet">Soci</comment>
-               <lb facs="#facs_40_r2l7" n="N007"/>und das ganze Negotium unter der Raggion <rs type="person" ref="wkfm__44788">Johann Baptist und Johann <comment comment="Peter">P</comment>
+               <lb facs="#facs_40_r2l5" n="N005"/>Der<rs type="person" ref="wkfm__11161"> Johann Baptist Bolza</rs> hat mitls Anbringen de ps: 30<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 736 <hi><unclear>eingeg</unclear></hi> <seg type="editorial_comment_seg">N<hi style="superscript">o</hi><note type="editorial_comment_note">Es folgt eine nicht lesbare Aktenzahl a1004428@univie.ac.at\u003a vermutl. 1867 entsprechend der vorherigen Seite</note></seg>
+               <lb facs="#facs_40_r2l6" n="N006"/>angezeiget, daß der <rs type="person" ref="wkfm__9824">Johann Peter Bolza</rs> verstorben und hierdurch ihre <seg type="editorial_comment_seg">Soci<note type="editorial_comment_note">Societaet</note></seg>
+               <lb facs="#facs_40_r2l7" n="N007"/>und das ganze Negotium unter der Raggion <rs type="person" ref="wkfm__44788">Johann Baptist und Johann <seg type="editorial_comment_seg">P<note type="editorial_comment_note">Peter</note></seg>
                <lb break="no" facs="#facs_40_line_1628441144875_388" n="N008"/>Bolza</rs> bis auf den <unclear>Stralcio</unclear> mit Ende 735 ihre Endschaft errichtet habe und ein <unclear>gleiche</unclear>
                <lb facs="#facs_40_r2l10" n="N009"/>in denen Avocatorien dd<hi style="superscript">to</hi> 4 <choice><expan/><abbr>Janu:</abbr></choice> 736 N<hi style="superscript">o</hi> 1091 kund gemacht.
                <lb facs="#facs_40_r2l11" n="N010"/><seg type="wedding_contract">Heuraths Contract</seg>

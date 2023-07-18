@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_6">
+    <surface ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_6">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0674.jpg" width="2994px" height="4530px"/>
          <zone points="464,192 464,3351 2870,3351 2870,192" rendition="TextRegion" xml:id="facs_6_r1">
             <zone points="1452,316 1509,315 1566,315 1624,315 1681,315 1739,315 1796,315 1854,315 1911,315 1969,315 2026,315 2083,316 2141,316 2198,315 2256,315 2313,315 2371,313 2428,312 2486,310 2543,307 2601,304 2601,192 2543,195 2486,198 2428,200 2371,201 2313,203 2256,203 2198,203 2141,204 2083,204 2026,203 1969,203 1911,203 1854,203 1796,203 1739,203 1681,203 1624,203 1566,203 1509,203 1452,204" rendition="Line" xml:id="facs_6_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_6" n="6" xml:id="img_0006"/>
+            <pb facs="#facs_6" n="6" xml:id="img_0006"/>
             
-            <ab  facs="#facs_6_r1">
+            <ab facs="#facs_6_r1">
                <lb facs="#facs_6_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_6_r1l2" n="N002"/>In obigen Anbringen de ps 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 321 hat sich der <rs type="person" ref="wkfm__8277">Fuchs</rs>
                <lb facs="#facs_6_r1l3" n="N003"/>erklähret, daß er seine Handlung als sein Eigenthum allein

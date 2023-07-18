@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2952" lry="4468" xml:id="facs_223">
+    <surface ulx="0" uly="0" lrx="2952" lry="4468" xml:id="facs_223">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1681.jpg" width="2952px" height="4468px"/>
          <zone points="147,193 147,4145 2889,4145 2889,193" rendition="TextRegion" xml:id="facs_223_r1">
             <zone points="2604,278 2805,278 2805,399 2604,399" rendition="Line" xml:id="facs_223_line_1626699943549_1664" subtype="page-number"/>
@@ -83,9 +83,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_223" n="223" xml:id="img_0223"/>
+            <pb facs="#facs_223" n="223" xml:id="img_0223"/>
             
-            <ab  facs="#facs_223_r1">
+            <ab facs="#facs_223_r1">
                <lb facs="#facs_223_line_1626699943549_1664" n="N001"/>833
                <lb facs="#facs_223_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_223_r1l3" n="N003"/><rs type="person" ref="wkfm__47593">Sotscheckh Franz Carl</rs> burgerlicher Handlsmann

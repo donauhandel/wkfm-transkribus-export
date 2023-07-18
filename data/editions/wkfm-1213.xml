@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3086" lry="4491" xml:id="facs_29">
+    <surface ulx="0" uly="0" lrx="3086" lry="4491" xml:id="facs_29">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1213.jpg" width="3086px" height="4491px"/>
          <zone points="149,152 149,2989 2666,2989 2666,152" rendition="TextRegion" xml:id="facs_29_r1">
             <zone points="2514,412 2544,410 2574,408 2604,406 2634,406 2634,294 2604,294 2574,296 2544,298 2514,300" rendition="Line" xml:id="facs_29_r1l2" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_29" n="29" xml:id="img_0029"/>
+            <pb facs="#facs_29" n="29" xml:id="img_0029"/>
             
-            <ab  facs="#facs_29_r1">
+            <ab facs="#facs_29_r1">
                <lb facs="#facs_29_r1l2" n="N001"/>600
                <lb facs="#facs_29_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_29_r1l3" n="N003"/><rs type="person" ref="wkfm__46273">Merkhl Leopold</rs> burgerlicher Handlsmann

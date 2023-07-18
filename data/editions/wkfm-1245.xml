@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3105" lry="4491" xml:id="facs_61">
+    <surface ulx="0" uly="0" lrx="3105" lry="4491" xml:id="facs_61">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1245.jpg" width="3105px" height="4491px"/>
          <zone points="175,145 175,2964 2844,2955 2844,136" rendition="TextRegion" xml:id="facs_61_r3">
             <zone points="303,231 155,231 155,350 303,350" rendition="Line" xml:id="facs_61_line_1624960854037_1078"/>
@@ -70,9 +70,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_61" n="61" xml:id="img_0061"/>
+            <pb facs="#facs_61" n="61" xml:id="img_0061"/>
             
-            <ab  facs="#facs_61_r3">
+            <ab facs="#facs_61_r3">
                <lb facs="#facs_61_line_1624960821306_1050" n="N002"/>616
                <lb facs="#facs_61_r3l1" n="N003"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_61_r3l2" n="N004"/><rs type="person" ref="wkfm__46893">Märkhl Anton</rs> burgerlicher Handlsmann

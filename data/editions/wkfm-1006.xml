@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4437" xml:id="facs_86">
+    <surface ulx="0" uly="0" lrx="2994" lry="4437" xml:id="facs_86">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1006.jpg" width="2994px" height="4437px"/>
          <zone points="306,207 306,3409 2862,3409 2862,207" rendition="TextRegion" xml:id="facs_86_r1">
             <zone points="1232,357 1291,352 1350,349 1410,348 1469,346 1529,345 1588,343 1647,343 1707,343 1766,343 1826,343 1885,342 1944,341 2004,340 2063,338 2123,335 2182,332 2241,328 2301,322 2360,317 2420,309 2420,207 2360,215 2301,220 2241,226 2182,230 2123,233 2063,236 2004,238 1944,239 1885,240 1826,241 1766,241 1707,241 1647,241 1588,241 1529,243 1469,244 1410,246 1350,247 1291,250 1232,255" rendition="Line" xml:id="facs_86_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_86" n="86" xml:id="img_0086"/>
+            <pb facs="#facs_86" n="86" xml:id="img_0086"/>
             
-            <ab  facs="#facs_86_r1">
+            <ab facs="#facs_86_r1">
                <lb facs="#facs_86_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_86_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 21<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 733 N<hi style="superscript">o</hi> 464 hat sich der 
                <lb facs="#facs_86_r1l4" n="N003"/><rs type="person" ref="wkfm__46500">Hommer</rs> geäusseret, daß er seine Handlung für sich allein führe

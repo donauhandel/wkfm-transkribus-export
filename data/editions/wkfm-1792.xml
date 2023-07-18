@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2937" lry="4476" xml:id="facs_86">
+    <surface ulx="0" uly="0" lrx="2937" lry="4476" xml:id="facs_86">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1792.jpg" width="2937px" height="4476px"/>
          <zone points="131,274 131,3370 2817,3370 2817,274" rendition="TextRegion" xml:id="facs_86_r1">
             <zone points="966,342 1026,337 1086,334 1147,332 1207,331 1268,331 1328,331 1389,332 1449,334 1510,336 1570,337 1630,340 1691,342 1751,344 1812,346 1872,348 1933,348 1993,348 2054,348 2114,345 2175,342 2175,285 2114,288 2054,291 1993,291 1933,291 1872,291 1812,289 1751,287 1691,285 1630,283 1570,280 1510,279 1449,277 1389,275 1328,274 1268,274 1207,274 1147,275 1086,277 1026,280 966,285" rendition="Line" xml:id="facs_86_r1l1"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_86" n="86" xml:id="img_0086"/>
+            <pb facs="#facs_86" n="86" xml:id="img_0086"/>
             
-            <ab  facs="#facs_86_r1">
+            <ab facs="#facs_86_r1">
                <lb facs="#facs_86_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_86_r1l4" n="N002"/><seg type="wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_86_r1l5" n="N003"/>Mitls Anbringen de ps: 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 737 N<hi style="superscript">o</hi> 2248 hat der <rs type="person" ref="wkfm__21604">Wagner</rs> der mit der <rs type="person" ref="wkfm__47014">Eva

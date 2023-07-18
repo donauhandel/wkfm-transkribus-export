@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3095" lry="4469" xml:id="facs_19">
+    <surface ulx="0" uly="0" lrx="3095" lry="4469" xml:id="facs_19">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0939.jpg" width="3095px" height="4469px"/>
          <zone points="131,204 131,3025 2768,3025 2768,204" rendition="TextRegion" xml:id="facs_19_r1">
             <zone points="2624,336 2652,337 2681,337 2710,337 2739,337 2768,340 2768,274 2739,271 2710,271 2681,271 2652,271 2624,270" rendition="Line" xml:id="facs_19_r1l2" subtype="page-number"/>
@@ -75,9 +75,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_19" n="19" xml:id="img_0019"/>
+            <pb facs="#facs_19" n="19" xml:id="img_0019"/>
             
-            <ab  facs="#facs_19_r1">
+            <ab facs="#facs_19_r1">
                <lb facs="#facs_19_r1l2" n="N001"/>462
                <lb facs="#facs_19_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_19_r1l3" n="N003"/><rs type="person" ref="wkfm__8754">Hengsberger Matthias</rs>

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2886" lry="4476" xml:id="facs_12">
+    <surface ulx="0" uly="0" lrx="2886" lry="4476" xml:id="facs_12">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1718.jpg" width="2886px" height="4476px"/>
          <zone points="200,230 200,3373 2786,3376 2786,233" rendition="TextRegion" xml:id="facs_12_r1">
             <zone points="920,352 985,344 1051,339 1116,334 1182,332 1248,331 1313,329 1379,329 1444,329 1510,331 1576,332 1641,334 1707,335 1772,337 1838,338 1903,338 1969,338 2035,337 2100,335 2166,331 2232,326 2232,230 2166,235 2100,239 2035,241 1969,242 1903,242 1838,242 1772,241 1707,239 1641,238 1576,236 1510,235 1444,233 1379,233 1313,233 1248,235 1182,236 1116,238 1051,243 985,248 920,256" rendition="Line" xml:id="facs_12_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_12" n="12" xml:id="img_0012"/>
+            <pb facs="#facs_12" n="12" xml:id="img_0012"/>
             
-            <ab  facs="#facs_12_r1">
+            <ab facs="#facs_12_r1">
                <lb facs="#facs_12_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_12_r1l2" n="N002"/>In obigen Anbringen de ps: 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 2064 hat sich der <rs type="person" ref="wkfm__12636">Franz Anton
                <lb break="no" facs="#facs_12_r1l3" n="N003"/>Wolf</rs> mit dem <rs type="person" ref="wkfm__43611">Johann Heinrich Rang</rs> erklähret, das sie miteinander in

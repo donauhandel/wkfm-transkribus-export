@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3095" lry="4496" xml:id="facs_49">
+    <surface ulx="0" uly="0" lrx="3095" lry="4496" xml:id="facs_49">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0717.jpg" width="3095px" height="4496px"/>
          <zone points="180,225 180,3038 2801,3028 2801,215" rendition="TextRegion" xml:id="facs_49_r3">
             <zone points="2606,328 2633,325 2661,323 2689,323 2717,322 2745,319 2773,316 2801,313 2801,244 2773,247 2745,250 2717,253 2689,254 2661,254 2633,256 2606,259" rendition="Line" xml:id="facs_49_r3l2" subtype="page-number"/>
@@ -72,9 +72,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_49" n="49" xml:id="img_0049"/>
+            <pb facs="#facs_49" n="49" xml:id="img_0049"/>
             
-            <ab  facs="#facs_49_r3">
+            <ab facs="#facs_49_r3">
                <lb facs="#facs_49_r3l2" n="N001"/>356
                <lb facs="#facs_49_r3l1" n="N003"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_49_r3l4" n="N004"/><rs type="person" ref="wkfm__47086">Feilmayr Johann Franz Joseph</rs> burgerlicher <hi>Handlsmann</hi>

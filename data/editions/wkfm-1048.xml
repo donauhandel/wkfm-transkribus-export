@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3087" lry="4530" xml:id="facs_128">
+    <surface ulx="0" uly="0" lrx="3087" lry="4530" xml:id="facs_128">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1048.jpg" width="3087px" height="4530px"/>
          <zone points="393,239 393,3394 2970,3394 2970,239" rendition="TextRegion" xml:id="facs_128_r1">
             <zone points="1176,323 1367,322 1425,320 1483,320 1541,319 1599,319 1657,319 1715,320 1773,320 1831,320 1889,322 1946,322 2004,322 2062,322 2120,322 2178,322 2236,320 2294,318 2352,316 2410,313 2468,308 2468,239 2410,244 2352,247 2294,249 2236,251 2178,253 2120,253 2062,253 2004,253 1946,253 1889,253 1831,251 1773,251 1715,251 1657,250 1599,250 1541,250 1483,251 1425,251 1367,253 1176,254" rendition="Line" xml:id="facs_128_r1l1"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_128" n="128" xml:id="img_0128"/>
+            <pb facs="#facs_128" n="128" xml:id="img_0128"/>
             
-            <ab  facs="#facs_128_r1">
+            <ab facs="#facs_128_r1">
                <lb facs="#facs_128_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_128_r1l2" n="N002"/><seg type="wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_128_r1l3" n="N003"/>Mitls Anbringen de ps: 25<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 753 N<hi style="superscript">o</hi> 455 hat der <rs type="person" ref="wkfm__46556">Hochenauer</rs>

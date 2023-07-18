@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3019" lry="4503" xml:id="facs_96">
+    <surface ulx="0" uly="0" lrx="3019" lry="4503" xml:id="facs_96">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1280.jpg" width="3019px" height="4503px"/>
          <graphic url="" width="3019px" height="4503px"/>
          <zone points="204,118 204,4108 2868,4108 2868,118" rendition="TextRegion" xml:id="facs_96_r1">
@@ -94,9 +94,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_96" n="96" xml:id="img_0096"/>
+            <pb facs="#facs_96" n="96" xml:id="img_0096"/>
             
-            <ab  facs="#facs_96_r1">
+            <ab facs="#facs_96_r1">
                <lb facs="#facs_96_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_96_r1l2" n="N002"/>Mitls Anbringen de ps: 1<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 749 N<hi style="superscript">o</hi> 1132 und oblatorien dd<hi style="superscript">to</hi> 13<hi style="superscript">ten</hi> May 748 N<hi style="superscript">o</hi> 1131
                <lb facs="#facs_96_r1l3" n="N003"/>hat der <rs type="person" ref="wkfm__46932">Müller</rs> angezeiget und kund gemacht, daß der <rs type="person" ref="wkfm__9287">Daniel Wohlgemueth</rs> sein
@@ -116,9 +116,9 @@
                <lb facs="#facs_96_r1l17" n="N017"/>Handlung verwänden ohne des andern Wissen Gelder aufnehmen, alß ihm widrigen dem darleiher seine satisfaction aus der Handlung sondern vor
                <lb facs="#facs_96_r1l18" n="N018"/>dem <hi>darleiher</hi> Aufnehmer allein geliefert werden, dann ausserdeme dem <rs type="person" ref="wkfm__46932">Müller</rs> allein Vorbehaltenden Weinnegotio alles zum gemeinsamen
                <lb facs="#facs_96_r1l19" n="N019"/>Nuzen geschehen, In beeder Gegenwarth alles mit gemeinsamblichen Rath geschehen, alle Jahr mit ult: Julii ein Inventur und Billanz abgefasset
-               <lb facs="#facs_96_r1l20" n="N020"/>falß ein oder der andere eine Separatiion verlangete, ein Jahr vorhero die aufkündigung per notarium gemacht und sohin <comment comment="Fortsetzung\u0020unter\u0020der\u0020Rubrik\u0020\u0022Anmerckungen\u0022">der</comment>
+               <lb facs="#facs_96_r1l20" n="N020"/>falß ein oder der andere eine Separatiion verlangete, ein Jahr vorhero die aufkündigung per notarium gemacht und sohin <seg type="editorial_comment_seg">der<note type="editorial_comment_note">Fortsetzung unter der Rubrik Anmerckungen</note></seg>
                <lb facs="#facs_96_r1l21" n="N021"/><seg type="wedding_contract">Heuraths Contract</seg>
-               <lb facs="#facs_96_r1l23" n="N022"/><comment comment="Fortsetzung\u0020des\u0020Textes\u0020der\u0020Rubrik\u0020\u0022Societaets\u0020Contract\u0020und\u0020Interessenten\u0022">Anmerckungen</comment>
+               <lb facs="#facs_96_r1l23" n="N022"/><seg type="editorial_comment_seg">Anmerckungen<note type="editorial_comment_note">Fortsetzung des Textes der Rubrik Societaets Contract und Interessenten</note></seg>
                <lb facs="#facs_96_r1l24" n="N023"/><rs type="person" ref="wkfm__46935">Coith</rs> mit Waaren, baaren und activen nach maß seines Capitals hindanngefertiget werde, falß
                <lb facs="#facs_96_r1l25" n="N024"/>bey diser Abtheilung eines Zwistigkeit entstunde von dem <rs type="person" ref="wkfm__46935">Coith</rs> nach vorgehende ab und Eintheilung das
                <lb facs="#facs_96_r1l26" n="N025"/>Loos gezohen <hi>werden</hi> demselben aber die nöthige Einsicht und Extrahirung deren Büchern <unclear>aufnahme</unclear>

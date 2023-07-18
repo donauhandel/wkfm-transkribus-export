@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3003" lry="4530" xml:id="facs_100">
+    <surface ulx="0" uly="0" lrx="3003" lry="4530" xml:id="facs_100">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0600.jpg" width="3003px" height="4530px"/>
          <zone points="216,219 216,3358 2861,3358 2861,219" rendition="TextRegion" xml:id="facs_100_r1">
             <zone points="1178,289 1242,290 1307,292 1372,295 1436,296 1501,299 1566,301 1630,303 1695,305 1760,307 1825,308 1889,310 1954,311 2019,313 2083,313 2148,313 2213,313 2277,313 2342,313 2407,311 2472,310 2472,240 2407,241 2342,243 2277,243 2213,243 2148,243 2083,243 2019,243 1954,241 1889,240 1825,238 1760,237 1695,235 1630,233 1566,231 1501,229 1436,226 1372,225 1307,222 1242,220 1178,219" rendition="Line" xml:id="facs_100_r1l1"/>
@@ -73,9 +73,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_100" n="100" xml:id="img_0100"/>
+            <pb facs="#facs_100" n="100" xml:id="img_0100"/>
             
-            <ab  facs="#facs_100_r1">
+            <ab facs="#facs_100_r1">
                <lb facs="#facs_100_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_100_r1l2" n="N002"/><seg type="wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_100_r1l3" n="N003"/>Mitls Anbringen de ps: 13<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 744 N<hi style="superscript">o</hi> 2132 hat der <rs type="person" ref="wkfm__46282">Tury</rs> den mit der

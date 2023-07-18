@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3019" lry="4503" xml:id="facs_80">
+    <surface ulx="0" uly="0" lrx="3019" lry="4503" xml:id="facs_80">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1264.jpg" width="3019px" height="4503px"/>
          <zone points="371,141 371,3353 2922,3353 2922,141" rendition="TextRegion" xml:id="facs_80_r1">
             <zone points="1247,290 1308,288 1370,286 1431,286 1493,284 1555,286 1616,286 1678,286 1740,287 1801,288 1863,289 1925,289 1986,289 2048,289 2110,289 2171,287 2233,284 2295,281 2356,277 2418,272 2480,265 2480,141 2418,148 2356,153 2295,157 2233,160 2171,163 2110,165 2048,165 1986,165 1925,165 1863,165 1801,164 1740,163 1678,162 1616,162 1555,162 1493,160 1431,162 1370,162 1308,164 1247,166" rendition="Line" xml:id="facs_80_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_80" n="80" xml:id="img_0080"/>
+            <pb facs="#facs_80" n="80" xml:id="img_0080"/>
             
-            <ab  facs="#facs_80_r1">
+            <ab facs="#facs_80_r1">
                <lb facs="#facs_80_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_80_r1l2" n="N002"/>Der <rs type="person" ref="wkfm__46543">Johann Michäl Mayer</rs> hat mit dem <rs type="person" ref="wkfm__46542">Anton Höltzl</rs> die Societaets
                <lb facs="#facs_80_r1l3" n="N003"/>Firma <rs type="person" ref="wkfm__38549">Mayer und Höltzl</rs> zugleich in obiger Erklährung sine dato 580

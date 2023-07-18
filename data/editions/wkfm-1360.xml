@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2940" lry="4464" xml:id="facs_8">
+    <surface ulx="0" uly="0" lrx="2940" lry="4464" xml:id="facs_8">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1360.jpg" width="2940px" height="4464px"/>
          <zone points="417,172 417,3229 2894,3229 2894,172" rendition="TextRegion" xml:id="facs_8_r1">
             <zone points="1202,298 1267,295 1332,294 1397,292 1463,292 1528,292 1593,292 1658,292 1724,294 1789,294 1854,294 1919,294 1985,294 2050,294 2115,294 2180,292 2246,291 2311,288 2376,285 2441,280 2507,274 2507,172 2441,178 2376,183 2311,186 2246,189 2180,190 2115,192 2050,192 1985,192 1919,192 1854,192 1789,192 1724,192 1658,190 1593,190 1528,190 1463,190 1397,190 1332,192 1267,193 1202,196" rendition="Line" xml:id="facs_8_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_8" n="8" xml:id="img_0008"/>
+            <pb facs="#facs_8" n="8" xml:id="img_0008"/>
             
-            <ab  facs="#facs_8_r1">
+            <ab facs="#facs_8_r1">
                <lb facs="#facs_8_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_8_r1l2" n="N002"/>In obigen Anbringen de ps: 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 617 hat sich die
                <lb facs="#facs_8_r1l3" n="N003"/><rs type="person" ref="wkfm__20834">Rieders: Wittib</rs> erklähret, das sie ihre handlung ohne interessenten

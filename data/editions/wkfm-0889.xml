@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3095" lry="4469" xml:id="facs_77">
+    <surface ulx="0" uly="0" lrx="3095" lry="4469" xml:id="facs_77">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0889.jpg" width="3095px" height="4469px"/>
          <graphic url="" width="3095px" height="4469px"/>
          <zone points="137,183 137,3903 2777,3903 2777,183" rendition="TextRegion" xml:id="facs_77_r3">
@@ -78,9 +78,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_77" n="77" xml:id="img_0077"/>
+            <pb facs="#facs_77" n="77" xml:id="img_0077"/>
             
-            <ab  facs="#facs_77_r3">
+            <ab facs="#facs_77_r3">
                <lb facs="#facs_77_r3l2" n="N001"/>442
                <lb facs="#facs_77_r3l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_77_r3l3" n="N003"/><rs type="person" ref="wkfm__46356">Gunttlich Johann Joseph</rs> burgerlicher Handlsmann

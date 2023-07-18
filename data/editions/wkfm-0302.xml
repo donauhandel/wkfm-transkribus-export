@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_248">
+    <surface ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_248">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0302.jpg" width="2934px" height="4501px"/>
          <zone points="165,204 165,4367 2775,4367 2775,204" rendition="TextRegion" xml:id="facs_248_r1">
             <zone points="774,328 846,318 919,311 991,302 1064,296 1136,292 1209,289 1281,285 1354,283 1426,281 1499,280 1572,278 1644,278 1717,277 1789,277 1862,275 1934,274 2007,273 2079,271 2152,268 2225,265 2225,204 2152,207 2079,210 2007,212 1934,213 1862,214 1789,216 1717,216 1644,217 1572,217 1499,219 1426,220 1354,222 1281,224 1209,228 1136,231 1064,235 991,241 919,250 846,257 774,267" rendition="Line" xml:id="facs_248_r1l1"/>
@@ -86,9 +86,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_248" n="248" xml:id="img_0248"/>
+            <pb facs="#facs_248" n="248" xml:id="img_0248"/>
             
-            <ab  facs="#facs_248_r1">
+            <ab facs="#facs_248_r1">
                <lb facs="#facs_248_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_248_r1l2" n="N002"/><seg type="wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_248_r1l3" n="N003"/>Der <rs type="person" ref="wkfm__43992">Blumberger</rs> hat mitls obigen Anbringen de ps: 22<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 754 N<hi style="superscript">o</hi> 162 der mit

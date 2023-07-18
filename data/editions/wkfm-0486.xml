@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3051" lry="4473" xml:id="facs_166">
+    <surface ulx="0" uly="0" lrx="3051" lry="4473" xml:id="facs_166">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0486.jpg" width="3051px" height="4473px"/>
          <zone points="249,149 249,3276 2907,3276 2907,149" rendition="TextRegion" xml:id="facs_166_r1">
             <zone points="992,167 1072,163 1152,160 1232,159 1312,158 1392,158 1472,160 1552,161 1632,163 1712,164 1793,167 1873,169 1953,170 2033,172 2113,172 2193,170 2259,169 2259,215 2193,216 2113,218 2033,218 1953,216 1873,215 1793,213 1712,210 1632,209 1552,207 1472,206 1392,204 1312,204 1232,205 1152,206 1072,209 992,213" rendition="Line" xml:id="facs_166_line_1621963208249_3381"/>
@@ -93,9 +93,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_166" n="166" xml:id="img_0166"/>
+            <pb facs="#facs_166" n="166" xml:id="img_0166"/>
             
-            <ab  facs="#facs_166_r1">
+            <ab facs="#facs_166_r1">
                <lb facs="#facs_166_line_1621963208249_3381" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_166_line_1621963254504_3401" n="N002"/>Des <rs type="person" ref="wkfm__43886">Johann Franz Prager <choice><expan/><abbr>seel.</abbr></choice> Wittib</rs> hat mit dem <rs type="person" ref="wkfm__43887">Franz <hi>Prager</hi> Kleinrath</rs> ihrem Schwigersohn
                <lb facs="#facs_166_r1l3" n="N003"/>untern 1<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 749 den <choice><expan/><abbr>orig:</abbr></choice> societaets Contract abgeschlossen und N<hi style="superscript">o</hi> 1888 eingeleget

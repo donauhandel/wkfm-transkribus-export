@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2929" lry="4455" xml:id="facs_84">
+    <surface ulx="0" uly="0" lrx="2929" lry="4455" xml:id="facs_84">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1542.jpg" width="2929px" height="4455px"/>
          <zone points="387,122 387,3357 2817,3357 2817,122" rendition="TextRegion" xml:id="facs_84_r1">
             <zone points="1124,318 1185,310 1246,303 1307,299 1368,296 1429,294 1490,293 1551,291 1612,291 1673,291 1734,293 1795,293 1856,293 1917,291 1978,291 2039,288 2100,285 2161,282 2222,276 2283,268 2345,258 2345,122 2283,132 2222,140 2161,146 2100,149 2039,152 1978,155 1917,155 1856,157 1795,157 1734,157 1673,155 1612,155 1551,155 1490,157 1429,158 1368,160 1307,163 1246,167 1185,174 1124,182" rendition="Line" xml:id="facs_84_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_84" n="84" xml:id="img_0084"/>
+            <pb facs="#facs_84" n="84" xml:id="img_0084"/>
             
-            <ab  facs="#facs_84_r1">
+            <ab facs="#facs_84_r1">
                <lb facs="#facs_84_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_84_r1l2" n="N002"/>In obigen Anbringen de ps: 23<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 725 N<hi style="superscript">o</hi> 697 hat sich der
                <lb facs="#facs_84_r1l3" n="N003"/><rs type="person" ref="wkfm__47454">Sembler</rs> erklähret, das er keinen Compagnon habe

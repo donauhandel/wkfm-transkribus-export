@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3134" lry="4521" xml:id="facs_17">
+    <surface ulx="0" uly="0" lrx="3134" lry="4521" xml:id="facs_17">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1117.jpg" width="3134px" height="4521px"/>
          <zone points="236,237 236,3076 2914,3074 2914,235" rendition="TextRegion" xml:id="facs_17_r1">
             <zone points="2715,328 2883,328 2883,442 2715,442" rendition="Line" xml:id="facs_17_line_1628002034871_794" subtype="page-number"/>
@@ -72,9 +72,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_17" n="17" xml:id="img_0017"/>
+            <pb facs="#facs_17" n="17" xml:id="img_0017"/>
             
-            <ab  facs="#facs_17_r1">
+            <ab facs="#facs_17_r1">
                <lb facs="#facs_17_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_17_r1l2" n="N003"/><rs type="person" ref="wkfm__17343">Le Comte Lorenz</rs> hofbefreyter Handlsmann
                <lb facs="#facs_17_r1l3" n="N004"/>Firma ad Raggion

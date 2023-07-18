@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2893" lry="4398" xml:id="facs_20">
+    <surface ulx="0" uly="0" lrx="2893" lry="4398" xml:id="facs_20">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1874.jpg" width="2893px" height="4398px"/>
          <zone points="174,152 174,3296 2733,3296 2733,152" rendition="TextRegion" xml:id="facs_20_r1">
             <zone points="1007,276 1065,269 1124,263 1182,258 1241,255 1299,254 1358,254 1416,254 1475,254 1533,255 1592,257 1650,260 1709,261 1767,261 1826,263 1884,263 1943,261 2001,259 2060,255 2118,251 2177,243 2177,152 2118,160 2060,164 2001,168 1943,170 1884,172 1826,172 1767,170 1709,170 1650,169 1592,166 1533,164 1475,163 1416,163 1358,163 1299,163 1241,164 1182,167 1124,172 1065,178 1007,185" rendition="Line" xml:id="facs_20_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_20" n="20" xml:id="img_0020"/>
+            <pb facs="#facs_20" n="20" xml:id="img_0020"/>
             
-            <ab  facs="#facs_20_r1">
+            <ab facs="#facs_20_r1">
                <lb facs="#facs_20_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_20_r1l2" n="N002"/>In obigen Anbringen de ps: 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 857 hat sich der <rs type="person" ref="wkfm__43581">Oppenheimber</rs>
                <lb facs="#facs_20_r1l3" n="N003"/>erklähret, das er <hi>keinen</hi> sein negotium mit eignen <choice><expan>Interesse</expan><abbr>intee</abbr></choice> und obligo

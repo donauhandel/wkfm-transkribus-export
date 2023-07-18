@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2979" lry="4383" xml:id="facs_5">
+    <surface ulx="0" uly="0" lrx="2979" lry="4383" xml:id="facs_5">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1859.jpg" width="2979px" height="4383px"/>
          <zone points="248,175 248,2990 2813,2983 2813,168" rendition="TextRegion" xml:id="facs_5_r2">
             <zone points="2607,261 2805,261 2805,394 2607,394" rendition="Line" xml:id="facs_5_line_1639057293685_1438"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_5" n="5" xml:id="img_0005"/>
+            <pb facs="#facs_5" n="5" xml:id="img_0005"/>
             
-            <ab  facs="#facs_5_r2">
+            <ab facs="#facs_5_r2">
                <lb facs="#facs_5_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_5_r2l2" n="N003"/><rs type="person" ref="wkfm__16033">Gumpertz Marcus Lion</rs> <hi>Jud </hi>Hof Jud
                <lb facs="#facs_5_r2l3" n="N004"/>Firma ad Raggion

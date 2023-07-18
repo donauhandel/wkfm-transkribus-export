@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2954" lry="4378" xml:id="facs_54">
+    <surface ulx="0" uly="0" lrx="2954" lry="4378" xml:id="facs_54">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0107.jpg" width="2954px" height="4378px"/>
          <zone points="465,151 465,3200 2889,3200 2889,151" rendition="TextRegion" xml:id="facs_54_r1">
             <zone points="965,260 1046,256 1127,252 1208,250 1289,248 1370,248 1451,248 1532,250 1613,252 1694,255 1775,258 1856,260 1937,263 2018,266 2099,269 2180,271 2261,272 2342,274 2423,274 2504,272 2586,271 2586,174 2504,175 2423,177 2342,177 2261,175 2180,174 2099,172 2018,169 1937,166 1856,163 1775,161 1694,158 1613,155 1532,153 1451,151 1370,151 1289,151 1208,153 1127,155 1046,159 965,163" rendition="Line" xml:id="facs_54_r1l1"/>
@@ -71,9 +71,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_54" n="54" xml:id="img_0054"/>
+            <pb facs="#facs_54" n="54" xml:id="img_0054"/>
             
-            <ab  facs="#facs_54_r1">
+            <ab facs="#facs_54_r1">
                <lb facs="#facs_54_r1l1" n="N001"/>Societats Contract und Interessenten
                <lb facs="#facs_54_r1l2" n="N002"/>In obiger Erklährung hat sich der <rs type="person" ref="wkfm__8116">Pehamb</rs> geäusseret, das
                <lb facs="#facs_54_r1l3" n="N003"/>er mit Niehmand interessiert seye.

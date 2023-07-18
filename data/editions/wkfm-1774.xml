@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2886" lry="4476" xml:id="facs_68">
+    <surface ulx="0" uly="0" lrx="2886" lry="4476" xml:id="facs_68">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1774.jpg" width="2886px" height="4476px"/>
          <graphic url="" width="2886px" height="4476px"/>
          <zone points="113,223 113,3444 2762,3444 2762,223" rendition="TextRegion" xml:id="facs_68_r1">
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_68" n="68" xml:id="img_0068"/>
+            <pb facs="#facs_68" n="68" xml:id="img_0068"/>
             
-            <ab  facs="#facs_68_r1">
+            <ab facs="#facs_68_r1">
                <lb facs="#facs_68_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_68_r1l2" n="N002"/>In obigen Anbringen de ps: 4<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 740 N<hi style="superscript">o</hi> 1087 und Procura dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice>
                <lb facs="#facs_68_r1l3" n="N003"/>736 N<hi style="superscript">o</hi> 1086 hat sich der <rs type="person" ref="wkfm__14589">von Weisenhüter</rs> erklähret, das er sich seinem

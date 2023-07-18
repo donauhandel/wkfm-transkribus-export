@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3049" lry="4436" xml:id="facs_35">
+    <surface ulx="0" uly="0" lrx="3049" lry="4436" xml:id="facs_35">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0535.jpg" width="3049px" height="4436px"/>
          <zone points="270,160 270,2953 2790,2953 2790,160" rendition="TextRegion" xml:id="facs_35_r2">
             <zone points="2628,367 2655,368 2682,368 2709,368 2736,367 2763,367 2790,365 2790,286 2763,288 2736,288 2709,289 2682,289 2655,289 2628,288" rendition="Line" xml:id="facs_35_r2l2" subtype="page-number"/>
@@ -70,9 +70,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_35" n="35" xml:id="img_0035"/>
+            <pb facs="#facs_35" n="35" xml:id="img_0035"/>
             
-            <ab  facs="#facs_35_r2">
+            <ab facs="#facs_35_r2">
                <lb facs="#facs_35_r2l2" n="N001"/>265
                <lb facs="#facs_35_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_35_r2l3" n="N003"/><rs type="person" ref="wkfm__21806">Diwaldt Franz Anton</rs> burgerlicher Handlsmann

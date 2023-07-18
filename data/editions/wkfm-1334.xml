@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2940" lry="4464" xml:id="facs_6">
+    <surface ulx="0" uly="0" lrx="2940" lry="4464" xml:id="facs_6">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1334.jpg" width="2940px" height="4464px"/>
          <zone points="258,167 258,3219 2826,3219 2826,167" rendition="TextRegion" xml:id="facs_6_r1">
             <zone points="1098,287 1166,282 1234,277 1303,273 1371,269 1439,267 1508,264 1576,263 1644,263 1713,261 1781,261 1850,260 1918,260 1986,260 2055,258 2123,257 2191,256 2260,254 2328,252 2397,249 2397,167 2328,170 2260,172 2191,174 2123,175 2055,176 1986,178 1918,178 1850,178 1781,179 1713,179 1644,181 1576,181 1508,182 1439,185 1371,187 1303,191 1234,195 1166,200 1098,205" rendition="Line" xml:id="facs_6_r1l1"/>
@@ -68,9 +68,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_6" n="6" xml:id="img_0006"/>
+            <pb facs="#facs_6" n="6" xml:id="img_0006"/>
             
-            <ab  facs="#facs_6_r1">
+            <ab facs="#facs_6_r1">
                <lb facs="#facs_6_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_6_r1l2" n="N002"/>Der <rs type="person" ref="wkfm__43854, 17264">Niclas Michäl Orsset</rs> hat sich in obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi>
                <lb facs="#facs_6_r1l3" n="N003"/><choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 2016 nebst seinem Brudern <rs type="person" ref="wkfm__15430">Johann Orsset</rs> geäusseret

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4437" xml:id="facs_44">
+    <surface ulx="0" uly="0" lrx="2994" lry="4437" xml:id="facs_44">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0964.jpg" width="2994px" height="4437px"/>
          <zone points="321,187 321,3400 2862,3400 2862,187" rendition="TextRegion" xml:id="facs_44_r1">
             <zone points="1172,284 1327,291 1384,289 1441,289 1498,289 1555,289 1612,291 1668,291 1725,292 1782,292 1839,294 1896,294 1953,295 2010,295 2066,297 2123,297 2180,297 2237,297 2294,295 2351,294 2408,292 2408,190 2351,192 2294,193 2237,195 2180,195 2123,195 2066,195 2010,193 1953,193 1896,192 1839,192 1782,190 1725,190 1668,189 1612,189 1555,187 1498,187 1441,187 1384,187 1327,189 1172,182" rendition="Line" xml:id="facs_44_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_44" n="44" xml:id="img_0044"/>
+            <pb facs="#facs_44" n="44" xml:id="img_0044"/>
             
-            <ab  facs="#facs_44_r1">
+            <ab facs="#facs_44_r1">
                <lb facs="#facs_44_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_44_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 445 hat sich
                <lb facs="#facs_44_r1l3" n="N003"/>der <rs type="person" ref="wkfm__23836">Häsl</rs> geäusseret, daß er seine Handlung ohne Compagnon seye

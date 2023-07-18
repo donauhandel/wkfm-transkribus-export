@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2982" lry="4436" xml:id="facs_8">
+    <surface ulx="0" uly="0" lrx="2982" lry="4436" xml:id="facs_8">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1192.jpg" width="2982px" height="4436px"/>
          <zone points="306,174 306,3351 2844,3351 2844,174" rendition="TextRegion" xml:id="facs_8_r1">
             <zone points="1184,300 1244,295 1304,292 1364,291 1425,289 1485,289 1545,289 1606,289 1666,291 1726,292 1787,292 1847,294 1907,295 1967,295 2028,295 2088,294 2148,293 2209,291 2269,287 2329,282 2390,276 2390,174 2329,180 2269,185 2209,189 2148,191 2088,192 2028,193 1967,193 1907,193 1847,192 1787,190 1726,190 1666,189 1606,187 1545,187 1485,187 1425,187 1364,189 1304,190 1244,193 1184,198" rendition="Line" xml:id="facs_8_r1l1"/>
@@ -68,9 +68,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_8" n="8" xml:id="img_0008"/>
+            <pb facs="#facs_8" n="8" xml:id="img_0008"/>
             
-            <ab  facs="#facs_8_r1">
+            <ab facs="#facs_8_r1">
                <lb facs="#facs_8_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_8_r1l2" n="N002"/>In obigen Anbringen de ps: 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 1019 hat der <rs type="person" ref="wkfm__34278">Johann
                <lb break="no" facs="#facs_8_r1l3" n="N003"/>Anton Martinelli</rs> angezeiget das er sein negotium mit sein und

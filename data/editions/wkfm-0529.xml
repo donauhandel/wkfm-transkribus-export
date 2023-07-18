@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3049" lry="4436" xml:id="facs_29">
+    <surface ulx="0" uly="0" lrx="3049" lry="4436" xml:id="facs_29">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0529.jpg" width="3049px" height="4436px"/>
          <zone points="309,149 309,2951 2928,2951 2928,149" rendition="TextRegion" xml:id="facs_29_r2">
             <zone points="2790,324 2817,323 2845,324 2872,324 2900,326 2928,326 2928,254 2900,254 2872,252 2845,252 2817,251 2790,252" rendition="Line" xml:id="facs_29_r2l2" subtype="page-number"/>
@@ -70,9 +70,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_29" n="29" xml:id="img_0029"/>
+            <pb facs="#facs_29" n="29" xml:id="img_0029"/>
             
-            <ab  facs="#facs_29_r2">
+            <ab facs="#facs_29_r2">
                <lb facs="#facs_29_r2l2" n="N001"/>262
                <lb facs="#facs_29_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_29_r2l3" n="N003"/><rs type="person" ref="wkfm__46212">Della Roverre Johann Carl</rs> burgerlicher Handlsmann

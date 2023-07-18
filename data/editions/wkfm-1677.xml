@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2952" lry="4468" xml:id="facs_219">
+    <surface ulx="0" uly="0" lrx="2952" lry="4468" xml:id="facs_219">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1677.jpg" width="2952px" height="4468px"/>
          <graphic url="" width="2952px" height="4468px"/>
          <zone points="137,193 137,3920 2822,3926 2822,199" rendition="TextRegion" xml:id="facs_219_r1">
@@ -79,9 +79,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_219" n="219" xml:id="img_0219"/>
+            <pb facs="#facs_219" n="219" xml:id="img_0219"/>
             
-            <ab  facs="#facs_219_r1">
+            <ab facs="#facs_219_r1">
                <lb facs="#facs_219_line_1626263672978_2484" n="N001"/>831
                <lb facs="#facs_219_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_219_r1l2" n="N003"/><rs type="person" ref="wkfm__47582">Staudinger Joseph</rs> burgerlicher Handlsmann
@@ -96,7 +96,7 @@
                <lb facs="#facs_219_r1l13" n="N012"/>1751 in <choice><expan/><abbr>orig:</abbr></choice> eingeleget, daß er <rs type="person" ref="wkfm__47582">Staudinger</rs> an eigenthumlichen
                <lb facs="#facs_219_r1l14" n="N013"/>erspahrten Vermögen besize 3900 fl
                <lb facs="#facs_219_r1l16" n="N014"/>zu Completirung des übrigen hat dessen Ehewirthin <rs type="person" ref="wkfm__47584">Anna Maria</rs>
-               <lb facs="#facs_219_r1l17" n="N015"/>das <choice><expan/><abbr>orig:</abbr></choice> <comment comment="wahrscheinlich\u0020\u0022Certiorirte\u0022">Cortiorirte</comment> Cautions Instrument dd<hi style="superscript">to</hi> 20<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 752
+               <lb facs="#facs_219_r1l17" n="N015"/>das <choice><expan/><abbr>orig:</abbr></choice> <seg type="editorial_comment_seg">Cortiorirte<note type="editorial_comment_note">wahrscheinlich Certiorirte</note></seg> Cautions Instrument dd<hi style="superscript">to</hi> 20<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 752
                <lb facs="#facs_219_r1l18" n="N016"/>N<hi style="superscript">o</hi> 1752 eingeleget <choice><expan/><abbr>pr</abbr></choice> 4100 fl
                <lb facs="#facs_219_r1l20" n="N017"/><choice><expan/><abbr>Sa</abbr></choice> 8000 fl
             </ab>

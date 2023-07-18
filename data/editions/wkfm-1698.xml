@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2866" lry="4476" xml:id="facs_240">
+    <surface ulx="0" uly="0" lrx="2866" lry="4476" xml:id="facs_240">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1698.jpg" width="2866px" height="4476px"/>
          <zone points="246,271 246,3382 2655,3382 2655,271" rendition="TextRegion" xml:id="facs_240_r1">
             <zone points="1025,379 1086,370 1148,364 1210,359 1271,355 1333,352 1395,350 1456,349 1518,349 1580,349 1642,349 1703,349 1765,350 1827,350 1888,350 1950,350 2012,350 2073,349 2135,347 2197,344 2259,340 2259,271 2197,275 2135,278 2073,280 2012,281 1950,281 1888,281 1827,281 1765,281 1703,280 1642,280 1580,280 1518,280 1456,280 1395,281 1333,283 1271,286 1210,290 1148,295 1086,301 1025,310" rendition="Line" xml:id="facs_240_r1l1"/>
@@ -73,9 +73,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_240" n="240" xml:id="img_0240"/>
+            <pb facs="#facs_240" n="240" xml:id="img_0240"/>
             
-            <ab  facs="#facs_240_r1">
+            <ab facs="#facs_240_r1">
                <lb facs="#facs_240_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_240_r1l2" n="N002"/>Mittels Einlegung seiner firma hat der <rs type="person" ref="wkfm__47608">Johann Michael Schönecker</rs> <choice><expan/><abbr>Ao</abbr></choice> 763
                <lb facs="#facs_240_r1l3" n="N003"/>angezeiget, das er in seiner Handlung keinen Compagnion habe.

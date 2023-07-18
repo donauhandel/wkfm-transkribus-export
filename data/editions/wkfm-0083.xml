@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2991" lry="4378" xml:id="facs_30">
+    <surface ulx="0" uly="0" lrx="2991" lry="4378" xml:id="facs_30">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0083.jpg" width="2991px" height="4378px"/>
          <zone points="408,149 408,3393 2708,3393 2708,149" rendition="TextRegion" xml:id="facs_30_r1">
             <zone points="636,337 719,334 803,331 886,328 970,324 1054,319 1137,315 1221,312 1305,306 1388,301 1472,297 1556,294 1639,288 1723,283 1807,279 1890,274 1974,270 2058,265 2141,260 2225,256 2309,252 2309,149 2225,153 2141,157 2058,162 1974,167 1890,171 1807,176 1723,180 1639,185 1556,191 1472,194 1388,198 1305,203 1221,209 1137,212 1054,216 970,221 886,225 803,228 719,231 636,234" rendition="Line" xml:id="facs_30_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_30" n="30" xml:id="img_0030"/>
+            <pb facs="#facs_30" n="30" xml:id="img_0030"/>
             
-            <ab  facs="#facs_30_r1">
+            <ab facs="#facs_30_r1">
                <lb facs="#facs_30_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_30_r1l2" n="N002"/>In obigen Anbringen de ps: 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 622 hat sich der 
                <lb facs="#facs_30_r1l3" n="N003"/><rs type="person" ref="wkfm__47280">Batschiller</rs> erkähret das er keinen Compagnon habe

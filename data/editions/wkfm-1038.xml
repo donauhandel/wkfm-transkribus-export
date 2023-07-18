@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3087" lry="4530" xml:id="facs_118">
+    <surface ulx="0" uly="0" lrx="3087" lry="4530" xml:id="facs_118">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1038.jpg" width="3087px" height="4530px"/>
          <zone points="294,235 294,3438 2937,3438 2937,235" rendition="TextRegion" xml:id="facs_118_r1">
             <zone points="1044,381 1102,376 1161,373 1220,369 1279,366 1338,364 1397,363 1456,361 1515,361 1574,360 1633,358 1691,358 1750,357 1809,355 1868,354 1927,351 1986,348 2045,345 2104,340 2163,334 2222,328 2222,235 2163,241 2104,247 2045,252 1986,255 1927,258 1868,261 1809,262 1750,264 1691,265 1633,265 1574,267 1515,268 1456,268 1397,270 1338,271 1279,273 1220,276 1161,280 1102,283 1044,288" rendition="Line" xml:id="facs_118_r1l1"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_118" n="118" xml:id="img_0118"/>
+            <pb facs="#facs_118" n="118" xml:id="img_0118"/>
             
-            <ab  facs="#facs_118_r1">
+            <ab facs="#facs_118_r1">
                <lb facs="#facs_118_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_118_r1l2" n="N002"/>In obiger Erklährung sine dato N<hi style="superscript">o</hi> 580 hat der <rs type="person" ref="wkfm__46542">Höltzl</rs> <hi>die</hi> mit der
                <lb facs="#facs_118_r1l3" n="N003"/>Mayer zugleich die ihnen beeden gemeinsame societaets firma <rs type="person" ref="wkfm__38549">Mayer

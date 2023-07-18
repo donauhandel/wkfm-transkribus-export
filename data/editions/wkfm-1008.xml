@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4437" xml:id="facs_88">
+    <surface ulx="0" uly="0" lrx="2994" lry="4437" xml:id="facs_88">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1008.jpg" width="2994px" height="4437px"/>
          <zone points="323,179 323,3430 2868,3430 2868,179" rendition="TextRegion" xml:id="facs_88_r1">
             <zone points="1100,389 1161,386 1223,382 1284,379 1346,377 1407,375 1469,373 1530,372 1592,371 1653,370 1715,368 1776,367 1838,364 1899,362 1961,360 2022,356 2084,353 2145,348 2207,343 2268,337 2330,329 2330,179 2268,187 2207,193 2145,198 2084,203 2022,206 1961,210 1899,212 1838,214 1776,217 1715,218 1653,220 1592,221 1530,222 1469,223 1407,225 1346,227 1284,229 1223,232 1161,236 1100,239" rendition="Line" xml:id="facs_88_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_88" n="88" xml:id="img_0088"/>
+            <pb facs="#facs_88" n="88" xml:id="img_0088"/>
             
-            <ab  facs="#facs_88_r1">
+            <ab facs="#facs_88_r1">
                <lb facs="#facs_88_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_88_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 21<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 733 N<hi style="superscript">o</hi> 465 hat sich der 
                <lb facs="#facs_88_r1l3" n="N003"/><rs type="person" ref="wkfm__46502">Huebmer</rs> geäusseret, daß er seine handlung für sich allein führe

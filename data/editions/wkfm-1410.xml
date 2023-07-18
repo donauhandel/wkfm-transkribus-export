@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2953" lry="4400" xml:id="facs_58">
+    <surface ulx="0" uly="0" lrx="2953" lry="4400" xml:id="facs_58">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1410.jpg" width="2953px" height="4400px"/>
          <zone points="359,202 359,3329 2891,3329 2891,202" rendition="TextRegion" xml:id="facs_58_r1">
             <zone points="1088,331 1146,324 1205,318 1263,314 1322,309 1380,305 1439,302 1497,301 1556,299 1614,297 1673,296 1732,295 1790,293 1849,293 1907,292 1966,291 2024,289 2083,287 2141,286 2200,283 2259,280 2259,202 2200,205 2141,208 2083,209 2024,211 1966,213 1907,214 1849,215 1790,215 1732,217 1673,218 1614,219 1556,221 1497,223 1439,224 1380,227 1322,231 1263,236 1205,240 1146,246 1088,253" rendition="Line" xml:id="facs_58_r1l1"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_58" n="58" xml:id="img_0058"/>
+            <pb facs="#facs_58" n="58" xml:id="img_0058"/>
             
-            <ab  facs="#facs_58_r1">
+            <ab facs="#facs_58_r1">
                <lb facs="#facs_58_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_58_r1l2" n="N002"/>In obigen Anbrinngen de ps: 1<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 731 N<hi style="superscript">o</hi> 636 und oblatorien dd<hi style="superscript">to</hi>
                <lb facs="#facs_58_r1l3" n="N003"/>3<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> d. a. N<hi style="superscript">o</hi> 1134 hat der <rs type="person" ref="wkfm__16702">Rosina</rs> respective angezeiget und kund

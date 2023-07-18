@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3077" lry="4511" xml:id="facs_53">
+    <surface ulx="0" uly="0" lrx="3077" lry="4511" xml:id="facs_53">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0553.jpg" width="3077px" height="4511px"/>
          <zone points="237,295 237,3099 2787,3099 2787,295" rendition="TextRegion" xml:id="facs_53_r2">
             <zone points="2654,459 2680,457 2706,456 2733,456 2759,457 2786,459 2786,375 2759,373 2733,372 2706,372 2680,373 2654,375" rendition="Line" xml:id="facs_53_r2l2" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_53" n="53" xml:id="img_0053"/>
+            <pb facs="#facs_53" n="53" xml:id="img_0053"/>
             
-            <ab  facs="#facs_53_r2">
+            <ab facs="#facs_53_r2">
                <lb facs="#facs_53_r2l2" n="N001"/>274
                <lb facs="#facs_53_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_53_r2l3" n="N003"/><rs type="person" ref="wkfm__43997">Dietschi Joh: Georg</rs> burgerlicher Handlsmann

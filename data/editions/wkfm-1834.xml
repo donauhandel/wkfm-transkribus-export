@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2794" lry="4398" xml:id="facs_4">
+    <surface ulx="0" uly="0" lrx="2794" lry="4398" xml:id="facs_4">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1834.jpg" width="2794px" height="4398px"/>
          <zone points="84,106 84,3198 2595,3198 2595,106" rendition="TextRegion" xml:id="facs_4_r1">
             <zone points="779,237 854,231 929,227 1004,225 1080,225 1155,226 1230,227 1306,230 1381,233 1456,236 1532,239 1607,242 1682,244 1757,246 1833,246 1908,246 1983,243 2059,240 2134,233 2209,226 2285,215 2285,106 2209,117 2134,124 2059,131 1983,134 1908,137 1833,137 1757,137 1682,135 1607,133 1532,130 1456,127 1381,124 1306,121 1230,118 1155,117 1080,116 1004,116 929,118 854,122 779,128" rendition="Line" xml:id="facs_4_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_4" n="4" xml:id="img_0004"/>
+            <pb facs="#facs_4" n="4" xml:id="img_0004"/>
             
-            <ab  facs="#facs_4_r1">
+            <ab facs="#facs_4_r1">
                <lb facs="#facs_4_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_4_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 841 hat sich der <rs type="person" ref="wkfm__10090">Zehet-
                <lb break="no" facs="#facs_4_r1l3" n="N003"/>ner</rs> geäusseret das seine Handlung unter seiner Firma allein bestehe

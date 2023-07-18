@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2982" lry="4530" xml:id="facs_22">
+    <surface ulx="0" uly="0" lrx="2982" lry="4530" xml:id="facs_22">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0075.jpg" width="2982px" height="4530px"/>
          <zone points="372,241 372,3427 2850,3427 2850,241" rendition="TextRegion" xml:id="facs_22_r1">
             <zone points="699,340 781,337 863,334 945,332 1027,331 1109,329 1191,329 1273,329 1355,329 1437,329 1519,331 1601,331 1683,331 1765,332 1847,332 1929,334 2011,334 2093,332 2175,332 2258,331 2258,243 2175,244 2093,244 2011,246 1929,246 1847,244 1765,244 1683,243 1601,243 1519,243 1437,241 1355,241 1273,241 1191,241 1109,241 1027,243 945,244 863,246 781,249 699,252" rendition="Line" xml:id="facs_22_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_22" n="22" xml:id="img_0022"/>
+            <pb facs="#facs_22" n="22" xml:id="img_0022"/>
             
-            <ab  facs="#facs_22_r1">
+            <ab facs="#facs_22_r1">
                <lb facs="#facs_22_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_22_r1l2" n="N002"/>In obigen Anbringen de ps: 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 33 hat sich der <rs type="person" ref="wkfm__8615">Pränz</rs>
                <lb facs="#facs_22_r1l3" n="N003"/>erklähret das er seine Handlung für sich und ohne andern interessenten

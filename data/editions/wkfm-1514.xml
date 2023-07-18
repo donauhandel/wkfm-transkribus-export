@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2929" lry="4455" xml:id="facs_56">
+    <surface ulx="0" uly="0" lrx="2929" lry="4455" xml:id="facs_56">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1514.jpg" width="2929px" height="4455px"/>
          <zone points="266,112 266,3313 2844,3313 2844,112" rendition="TextRegion" xml:id="facs_56_r1">
             <zone points="1166,288 1231,283 1296,279 1361,276 1426,273 1492,271 1557,270 1622,270 1687,270 1752,270 1818,270 1883,270 1948,268 2013,267 2078,264 2144,261 2209,255 2274,250 2339,242 2405,232 2405,112 2339,122 2274,130 2209,135 2144,141 2078,144 2013,147 1948,148 1883,150 1818,150 1752,150 1687,150 1622,150 1557,150 1492,151 1426,153 1361,156 1296,159 1231,163 1166,168" rendition="Line" xml:id="facs_56_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_56" n="56" xml:id="img_0056"/>
+            <pb facs="#facs_56" n="56" xml:id="img_0056"/>
             
-            <ab  facs="#facs_56_r1">
+            <ab facs="#facs_56_r1">
                <lb facs="#facs_56_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_56_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 683 hat sich der
                <lb facs="#facs_56_r1l3" n="N003"/><rs type="person" ref="wkfm__8439">Stass</rs> geäusseret, daß er <hi>f</hi> keinen Compagnon habe

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2801" lry="4476" xml:id="facs_214">
+    <surface ulx="0" uly="0" lrx="2801" lry="4476" xml:id="facs_214">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1672.jpg" width="2801px" height="4476px"/>
          <zone points="126,242 126,3386 2736,3386 2736,242" rendition="TextRegion" xml:id="facs_214_r1">
             <zone points="944,343 1008,335 1073,328 1137,325 1202,321 1266,319 1331,319 1395,317 1460,319 1524,319 1589,321 1654,322 1718,323 1783,325 1847,325 1912,325 1976,325 2041,323 2105,320 2170,316 2235,311 2235,242 2170,247 2105,251 2041,254 1976,256 1912,256 1847,256 1783,256 1718,254 1654,253 1589,252 1524,250 1460,250 1395,248 1331,250 1266,250 1202,252 1137,256 1073,259 1008,266 944,274" rendition="Line" xml:id="facs_214_r1l1"/>
@@ -71,9 +71,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_214" n="214" xml:id="img_0214"/>
+            <pb facs="#facs_214" n="214" xml:id="img_0214"/>
             
-            <ab  facs="#facs_214_r1">
+            <ab facs="#facs_214_r1">
                <lb facs="#facs_214_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_214_r1l2" n="N002"/>Der <rs type="person" ref="wkfm__8487">Joseph Schwarzleithner</rs> hat mitls Anbringen de ps: 9<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> <unclear>749</unclear>
                <lb facs="#facs_214_r1l3" n="N003"/>N<hi style="superscript">o</hi> 2060 und oblatorien dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> ej: N<hi style="superscript">o</hi> 1150 et 1151 respectivé angezeiget

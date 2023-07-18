@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3019" lry="4436" xml:id="facs_72">
+    <surface ulx="0" uly="0" lrx="3019" lry="4436" xml:id="facs_72">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1256.jpg" width="3019px" height="4436px"/>
          <zone points="327,162 327,3307 2901,3307 2901,162" rendition="TextRegion" xml:id="facs_72_r1">
             <zone points="1178,260 1237,256 1297,254 1357,251 1416,250 1476,249 1536,248 1595,248 1655,248 1715,250 1775,250 1834,250 1894,250 1954,250 2013,250 2073,248 2133,247 2192,245 2252,242 2312,237 2372,232 2372,162 2312,167 2252,172 2192,175 2133,177 2073,178 2013,180 1954,180 1894,180 1834,180 1775,180 1715,180 1655,178 1595,178 1536,178 1476,179 1416,180 1357,181 1297,184 1237,186 1178,190" rendition="Line" xml:id="facs_72_r1l1"/>
@@ -79,9 +79,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_72" n="72" xml:id="img_0072"/>
+            <pb facs="#facs_72" n="72" xml:id="img_0072"/>
             
-            <ab  facs="#facs_72_r1">
+            <ab facs="#facs_72_r1">
                <lb facs="#facs_72_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_72_r1l2" n="N002"/>Der <rs type="person" ref="wkfm__10641">Carl Joseph Moser</rs> hat mitls <hi>dem Adam</hi> Anbringen de ps: 5<hi style="superscript">ten</hi> Martii
                <lb facs="#facs_72_r1l3" n="N003"/>736 N<hi style="superscript">o</hi> 2001 angezeiget, das er sich dem <rs type="person" ref="wkfm__46560">Johann Adam Paumgartner</rs> associi-

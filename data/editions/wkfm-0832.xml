@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_20">
+    <surface ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_20">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0832.jpg" width="2994px" height="4530px"/>
          <zone points="248,258 248,3493 2826,3493 2826,258" rendition="TextRegion" xml:id="facs_20_r1">
             <zone points="1214,412 1272,407 1330,404 1389,401 1447,400 1505,398 1564,398 1622,397 1680,397 1739,397 1797,397 1855,397 1914,397 1972,395 2030,395 2089,394 2147,391 2205,388 2264,384 2322,379 2381,373 2381,258 2322,264 2264,269 2205,273 2147,276 2089,279 2030,280 1972,280 1914,282 1855,282 1797,282 1739,282 1680,282 1622,282 1564,283 1505,283 1447,285 1389,286 1330,289 1272,292 1214,297" rendition="Line" xml:id="facs_20_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_20" n="20" xml:id="img_0020"/>
+            <pb facs="#facs_20" n="20" xml:id="img_0020"/>
             
-            <ab  facs="#facs_20_r1">
+            <ab facs="#facs_20_r1">
                <lb facs="#facs_20_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_20_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 389 hat sich
                <lb facs="#facs_20_r1l3" n="N003"/>der <rs type="person" ref="wkfm__8598">Gugenberger</rs> geäussert, daß er sein Negotium <hi>allen</hi>

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2973" lry="4391" xml:id="facs_47">
+    <surface ulx="0" uly="0" lrx="2973" lry="4391" xml:id="facs_47">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1399.jpg" width="2973px" height="4391px"/>
          <zone points="137,158 137,3373 2813,3373 2813,158" rendition="TextRegion" xml:id="facs_47_r1">
             <zone points="2661,393 2690,399 2720,400 2750,399 2780,400 2810,406 2810,330 2780,324 2750,323 2720,324 2690,323 2661,317" rendition="Line" xml:id="facs_47_r1l2" subtype="page-number"/>
@@ -79,9 +79,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_47" n="47" xml:id="img_0047"/>
+            <pb facs="#facs_47" n="47" xml:id="img_0047"/>
             
-            <ab  facs="#facs_47_r1">
+            <ab facs="#facs_47_r1">
                <lb facs="#facs_47_r1l2" n="N001"/>692
                <lb facs="#facs_47_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_47_r1l3" n="N003"/><rs type="person" ref="wkfm__23214">von Rufin Sebastian</rs> hofbefreyter Tuchhandler

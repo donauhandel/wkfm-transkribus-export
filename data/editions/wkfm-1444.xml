@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2886" lry="4455" xml:id="facs_92">
+    <surface ulx="0" uly="0" lrx="2886" lry="4455" xml:id="facs_92">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1444.jpg" width="2886px" height="4455px"/>
          <zone points="174,220 174,3812 2766,3812 2766,220" rendition="TextRegion" xml:id="facs_92_r1">
             <zone points="1098,302 1161,296 1224,292 1287,288 1351,285 1414,283 1477,281 1541,281 1604,281 1667,281 1731,282 1794,283 1857,284 1920,286 1984,286 2047,287 2110,287 2174,289 2237,287 2300,287 2364,286 2364,225 2300,226 2237,226 2174,228 2110,226 2047,226 1984,225 1920,225 1857,223 1794,222 1731,221 1667,220 1604,220 1541,220 1477,220 1414,222 1351,224 1287,227 1224,231 1161,235 1098,241" rendition="Line" xml:id="facs_92_r1l1"/>
@@ -77,9 +77,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_92" n="92" xml:id="img_0092"/>
+            <pb facs="#facs_92" n="92" xml:id="img_0092"/>
             
-            <ab  facs="#facs_92_r1">
+            <ab facs="#facs_92_r1">
                <lb facs="#facs_92_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_92_r1l2" n="N002"/><seg type="wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_92_r1l4" n="N003"/>Mitls obigen Anbringen de ps: 14<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 753 N<hi style="superscript">o</hi> 652 hat der <rs type="person" ref="wkfm__46761">Razer</rs> dem mit
@@ -89,7 +89,7 @@
                <lb facs="#facs_92_r1l10" n="N007"/>Gutt zugebracht, 1000 fl samt 2000 fl Widerlag auf uberleben, dann
                <lb facs="#facs_92_r1l11" n="N008"/>jenes, was wehrender Ehe ererbet und erworben wird als ein glei
                <lb facs="#facs_92_r1l12" n="N009"/>ches gutt pactiret worden.
-               <lb facs="#facs_92_r1l13" n="N010"/><comment comment="Fortsetzung\u0020der\u0020vorherigen\u0020Seite\u0020\u0022Fundi\u0020Ausweisung\u0022">Anmerckungen</comment>
+               <lb facs="#facs_92_r1l13" n="N010"/><seg type="editorial_comment_seg">Anmerckungen<note type="editorial_comment_note">Fortsetzung der vorherigen Seite Fundi Ausweisung</note></seg>
                <lb facs="#facs_92_line_1626253196366_712" n="N011"/><hi>0</hi>
                <lb facs="#facs_92_r1l14" n="N012"/>Instrument <choice><expan/><abbr>pr</abbr></choice> 3610 fl von <choice><expan/><abbr>nro</abbr></choice> 1696 extradiret, von dem <rs type="person" ref="wkfm__46761">Ratzer</rs>
                <lb facs="#facs_92_r1l15" n="N013"/>der Handlungs fundum mittels Billanz dd<hi style="superscript">to</hi> 12<hi style="superscript">ten</hi> Julii 769 mit

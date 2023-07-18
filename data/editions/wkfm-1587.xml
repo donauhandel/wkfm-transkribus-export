@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2880" lry="4477" xml:id="facs_129">
+    <surface ulx="0" uly="0" lrx="2880" lry="4477" xml:id="facs_129">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1587.jpg" width="2880px" height="4477px"/>
          <graphic url="" width="2880px" height="4477px"/>
          <zone points="155,110 155,2945 2798,2951 2798,116" rendition="TextRegion" xml:id="facs_129_r4">
@@ -70,9 +70,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_129" n="129" xml:id="img_0129"/>
+            <pb facs="#facs_129" n="129" xml:id="img_0129"/>
             
-            <ab  facs="#facs_129_r4">
+            <ab facs="#facs_129_r4">
                <lb facs="#facs_129_line_1626262386551_1835" n="N001"/>786
                <lb facs="#facs_129_r4l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_129_r4l4" n="N003"/><rs type="person" ref="wkfm__47490">Schneider Johann <hi>Michäl</hi> Paul</rs> burgerlicher Handlsmann

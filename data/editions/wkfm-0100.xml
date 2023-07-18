@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2991" lry="4407" xml:id="facs_47">
+    <surface ulx="0" uly="0" lrx="2991" lry="4407" xml:id="facs_47">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0100.jpg" width="2991px" height="4407px"/>
          <zone points="239,142 239,3022 2642,3041 2642,161" rendition="TextRegion" xml:id="facs_47_r1">
             <zone points="2478,183 2625,183 2625,283 2478,283" rendition="Line" xml:id="facs_47_line_1629707428433_399" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_47" n="47" xml:id="img_0047"/>
+            <pb facs="#facs_47" n="47" xml:id="img_0047"/>
             
-            <ab  facs="#facs_47_r1">
+            <ab facs="#facs_47_r1">
                <lb facs="#facs_47_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_47_r1l2" n="N003"/><rs type="person" ref="wkfm__279">Bergin Jacob</rs> burgerlicher Handlsmann
                <lb facs="#facs_47_r1l3" n="N004"/>Firma oder Raggion

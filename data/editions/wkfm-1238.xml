@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3019" lry="4436" xml:id="facs_54">
+    <surface ulx="0" uly="0" lrx="3019" lry="4436" xml:id="facs_54">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1238.jpg" width="3019px" height="4436px"/>
          <zone points="189,136 189,3320 2838,3320 2838,136" rendition="TextRegion" xml:id="facs_54_r1">
             <zone points="1158,251 1219,243 1281,238 1342,233 1404,230 1466,229 1527,227 1589,227 1650,227 1712,229 1774,229 1835,230 1897,232 1958,233 2020,233 2082,232 2143,231 2205,229 2266,225 2328,220 2390,214 2390,136 2328,142 2266,147 2205,151 2143,153 2082,154 2020,155 1958,155 1897,154 1835,152 1774,151 1712,151 1650,149 1589,149 1527,149 1466,151 1404,152 1342,155 1281,160 1219,165 1158,173" rendition="Line" xml:id="facs_54_r1l1"/>
@@ -75,9 +75,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_54" n="54" xml:id="img_0054"/>
+            <pb facs="#facs_54" n="54" xml:id="img_0054"/>
             
-            <ab  facs="#facs_54_r1">
+            <ab facs="#facs_54_r1">
                <lb facs="#facs_54_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_54_r1l2" n="N002"/>In obigen Anbringen de ps: 8<hi style="superscript">ten</hi> May 725 N<hi style="superscript">o</hi> 1051 und Erklährung dd<hi style="superscript">to</hi> 26<hi style="superscript">ten</hi>
                <lb facs="#facs_54_r1l3" n="N003"/><choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 1050 hat der <rs type="person" ref="wkfm__11940">v. Münch</rs> <hi>den</hi> nebst dem von <rs type="person" ref="wkfm__46698">Rauner dem jüngern</rs>

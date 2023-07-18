@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3019" lry="4436" xml:id="facs_60">
+    <surface ulx="0" uly="0" lrx="3019" lry="4436" xml:id="facs_60">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1244.jpg" width="3019px" height="4436px"/>
          <zone points="333,143 333,3326 2887,3322 2887,139" rendition="TextRegion" xml:id="facs_60_r1">
             <zone points="1253,306 1310,302 1368,299 1426,296 1484,294 1542,293 1600,290 1658,290 1716,288 1774,287 1832,287 1889,285 1947,285 2005,284 2063,284 2121,282 2179,280 2237,278 2295,275 2353,273 2411,270 2411,143 2353,146 2295,148 2237,151 2179,153 2121,155 2063,157 2005,157 1947,158 1889,158 1832,160 1774,160 1716,161 1658,163 1600,163 1542,166 1484,167 1426,169 1368,172 1310,175 1253,179" rendition="Line" xml:id="facs_60_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_60" n="60" xml:id="img_0060"/>
+            <pb facs="#facs_60" n="60" xml:id="img_0060"/>
             
-            <ab  facs="#facs_60_r1">
+            <ab facs="#facs_60_r1">
                <lb facs="#facs_60_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_60_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 6<hi style="superscript">ten</hi> Junii 735 N<hi style="superscript">o</hi> 569 hat der <rs type="person" ref="wkfm__46891">Mayer</rs>
                <lb facs="#facs_60_r1l3" n="N003"/>sich geäusseret, daß er sein negotium in proprio für sich allein führe

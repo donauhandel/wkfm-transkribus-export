@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2923" lry="4436" xml:id="facs_131">
+    <surface ulx="0" uly="0" lrx="2923" lry="4436" xml:id="facs_131">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0451.jpg" width="2923px" height="4436px"/>
          <zone points="203,121 203,2956 2762,2956 2762,121" rendition="TextRegion" xml:id="facs_131_r1">
             <zone points="2481,196 2506,198 2532,198 2557,196 2583,196 2608,194 2634,191 2649,190 2649,274 2634,275 2608,278 2583,280 2557,280 2532,282 2506,282 2481,280" rendition="Line" xml:id="facs_131_line_1621960541228_2102" subtype="page-number"/>
@@ -70,9 +70,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_131" n="131" xml:id="img_0131"/>
+            <pb facs="#facs_131" n="131" xml:id="img_0131"/>
             
-            <ab  facs="#facs_131_r1">
+            <ab facs="#facs_131_r1">
                <lb facs="#facs_131_line_1621960541228_2102" n="N001"/>223
                <lb facs="#facs_131_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_131_r1l3" n="N003"/><rs type="person" ref="wkfm__34913">Condrey Joseph</rs> burgerlicher Handlsmann

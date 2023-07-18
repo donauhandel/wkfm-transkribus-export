@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2945" lry="4468" xml:id="facs_243">
+    <surface ulx="0" uly="0" lrx="2945" lry="4468" xml:id="facs_243">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1701.jpg" width="2945px" height="4468px"/>
          <graphic url="" width="2945px" height="4468px"/>
          <zone points="143,147 143,4314 2747,4314 2747,147" rendition="TextRegion" xml:id="facs_243_r1">
@@ -87,9 +87,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_243" n="243" xml:id="img_0243"/>
+            <pb facs="#facs_243" n="243" xml:id="img_0243"/>
             
-            <ab  facs="#facs_243_r1">
+            <ab facs="#facs_243_r1">
                <lb facs="#facs_243_r1l2" n="N001"/>843
                <lb facs="#facs_243_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_243_r1l3" n="N003"/><rs type="person" ref="wkfm__47615">Scheckenberger Johann Georg</rs> burgerlicher Handlsmann

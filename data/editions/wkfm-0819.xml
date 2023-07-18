@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3095" lry="4553" xml:id="facs_7">
+    <surface ulx="0" uly="0" lrx="3095" lry="4553" xml:id="facs_7">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0819.jpg" width="3095px" height="4553px"/>
          <zone points="309,238 309,3051 2735,3051 2735,238" rendition="TextRegion" xml:id="facs_7_r1">
             <zone points="2577,466 2603,466 2629,463 2655,460 2681,458 2708,456 2708,363 2681,365 2655,367 2629,370 2603,373 2577,373" rendition="Line" xml:id="facs_7_r1l2" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_7" n="7" xml:id="img_0007"/>
+            <pb facs="#facs_7" n="7" xml:id="img_0007"/>
             
-            <ab  facs="#facs_7_r1">
+            <ab facs="#facs_7_r1">
                <lb facs="#facs_7_r1l2" n="N001"/>407
                <lb facs="#facs_7_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_7_r1l3" n="N003"/><rs type="person" ref="wkfm__8421">Geramb Franz Anton</rs> hofbefreyter Handlsmann

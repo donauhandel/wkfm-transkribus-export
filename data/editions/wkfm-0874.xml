@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4442" xml:id="facs_62">
+    <surface ulx="0" uly="0" lrx="2994" lry="4442" xml:id="facs_62">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0874.jpg" width="2994px" height="4442px"/>
          <zone points="404,207 404,3363 2865,3363 2865,207" rendition="TextRegion" xml:id="facs_62_r1">
             <zone points="1208,338 1273,335 1339,332 1405,330 1471,328 1537,327 1603,326 1668,324 1734,324 1800,324 1866,324 1932,323 1998,323 2064,323 2129,323 2195,323 2261,321 2327,321 2393,320 2459,317 2525,315 2525,207 2459,209 2393,212 2327,213 2261,213 2195,215 2129,215 2064,215 1998,215 1932,215 1866,216 1800,216 1734,216 1668,216 1603,218 1537,219 1471,220 1405,222 1339,224 1273,227 1208,230" rendition="Line" xml:id="facs_62_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_62" n="62" xml:id="img_0062"/>
+            <pb facs="#facs_62" n="62" xml:id="img_0062"/>
             
-            <ab  facs="#facs_62_r1">
+            <ab facs="#facs_62_r1">
                <lb facs="#facs_62_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_62_r1l2" n="N002"/>In obiger Erkährung dd<hi style="superscript">to</hi> 15<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 729 N<hi style="superscript">o</hi> 410 hat sich der
                <lb facs="#facs_62_r1l4" n="N003"/><rs type="person" ref="wkfm__29568">Grässl</rs> geäusseret, daß er seine Handlung ohne Compagnon

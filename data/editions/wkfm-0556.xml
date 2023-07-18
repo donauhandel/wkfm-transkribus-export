@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3003" lry="4530" xml:id="facs_56">
+    <surface ulx="0" uly="0" lrx="3003" lry="4530" xml:id="facs_56">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0556.jpg" width="3003px" height="4530px"/>
          <zone points="303,213 303,3372 2826,3372 2826,213" rendition="TextRegion" xml:id="facs_56_r1">
             <zone points="1140,315 1203,316 1267,318 1331,319 1395,321 1458,323 1522,325 1586,327 1650,328 1713,330 1777,331 1841,333 1905,334 1968,336 2032,337 2096,339 2160,339 2223,340 2287,342 2351,342 2415,342 2415,240 2351,240 2287,240 2223,238 2160,237 2096,237 2032,235 1968,234 1905,232 1841,231 1777,229 1713,228 1650,226 1586,225 1522,223 1458,221 1395,219 1331,217 1267,216 1203,214 1140,213" rendition="Line" xml:id="facs_56_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_56" n="56" xml:id="img_0056"/>
+            <pb facs="#facs_56" n="56" xml:id="img_0056"/>
             
-            <ab  facs="#facs_56_r1">
+            <ab facs="#facs_56_r1">
                <lb facs="#facs_56_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_56_r1l2" n="N002"/>In obigen Anbringen de ps: 23<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 725 N<hi style="superscript">o</hi> 269 hat sich der
                <lb facs="#facs_56_r1l3" n="N003"/><rs type="person" ref="wkfm__10909">Teibler</rs> erklähret, daß er keinen Compagnon habe

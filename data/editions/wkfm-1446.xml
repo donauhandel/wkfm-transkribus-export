@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2886" lry="4455" xml:id="facs_94">
+    <surface ulx="0" uly="0" lrx="2886" lry="4455" xml:id="facs_94">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1446.jpg" width="2886px" height="4455px"/>
          <zone points="171,193 171,3320 2750,3320 2750,193" rendition="TextRegion" xml:id="facs_94_r1">
             <zone points="947,309 1006,301 1066,294 1126,289 1185,285 1245,282 1305,279 1364,278 1424,276 1484,276 1544,276 1603,276 1663,276 1723,276 1782,276 1842,276 1902,275 1961,273 2021,272 2081,269 2141,266 2141,193 2081,196 2021,199 1961,200 1902,202 1842,203 1782,203 1723,203 1663,203 1603,203 1544,203 1484,203 1424,203 1364,205 1305,206 1245,209 1185,212 1126,216 1066,221 1006,228 947,236" rendition="Line" xml:id="facs_94_r1l1"/>
@@ -73,9 +73,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_94" n="94" xml:id="img_0094"/>
+            <pb facs="#facs_94" n="94" xml:id="img_0094"/>
             
-            <ab  facs="#facs_94_r1">
+            <ab facs="#facs_94_r1">
                <lb facs="#facs_94_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_94_r1l2" n="N002"/><seg type="wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_94_r1l3" n="N003"/>Mitls obigen Anbringen de ps: 18<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 753 N<hi style="superscript">o</hi> 654 hat der <rs type="person" ref="wkfm__46765">Reindinger</rs> <hi>den</hi>

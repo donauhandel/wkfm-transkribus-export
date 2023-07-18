@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3051" lry="4473" xml:id="facs_138">
+    <surface ulx="0" uly="0" lrx="3051" lry="4473" xml:id="facs_138">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0458.jpg" width="3051px" height="4473px"/>
          <graphic url="" width="3051px" height="4473px"/>
          <zone points="333,176 333,3288 2958,3288 2958,176" rendition="TextRegion" xml:id="facs_138_r1">
@@ -80,9 +80,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_138" n="138" xml:id="img_0138"/>
+            <pb facs="#facs_138" n="138" xml:id="img_0138"/>
             
-            <ab  facs="#facs_138_r1">
+            <ab facs="#facs_138_r1">
                <lb facs="#facs_138_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_138_r1l2" n="N002"/>Die Raggion <rs type="person" ref="wkfm__26242">Les Frerres Crettier</rs> hat <hi>sich</hi> mitls Anbringen de ps: 30<hi style="superscript">ten</hi> May
                <lb facs="#facs_138_r1l3" n="N003"/>743 N<hi style="superscript">o</hi> 1911 <hi>erklähret</hi> angezeiget das der <rs type="person" ref="wkfm__46153">Claudius Salliet</rs> alß <hi>socii</hi> stiller socius

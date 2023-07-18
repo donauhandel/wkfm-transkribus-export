@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2982" lry="4436" xml:id="facs_14">
+    <surface ulx="0" uly="0" lrx="2982" lry="4436" xml:id="facs_14">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1198.jpg" width="2982px" height="4436px"/>
          <zone points="387,190 387,3329 2868,3329 2868,190" rendition="TextRegion" xml:id="facs_14_r1">
             <zone points="1158,316 1227,308 1296,304 1366,300 1435,298 1505,296 1574,296 1643,298 1713,299 1782,301 1852,302 1921,304 1991,306 2060,308 2129,308 2199,308 2268,308 2338,307 2407,304 2477,299 2477,193 2407,198 2338,201 2268,202 2199,202 2129,202 2060,202 1991,200 1921,198 1852,196 1782,195 1713,193 1643,192 1574,190 1505,190 1435,192 1366,194 1296,198 1227,202 1158,210" rendition="Line" xml:id="facs_14_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_14" n="14" xml:id="img_0014"/>
+            <pb facs="#facs_14" n="14" xml:id="img_0014"/>
             
-            <ab  facs="#facs_14_r1">
+            <ab facs="#facs_14_r1">
                <lb facs="#facs_14_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_14_r1l2" n="N002"/>In obigen Anbringen de ps: 21<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 548 hat sich der <rs type="person" ref="wkfm__9628">Mayr</rs>
                <lb facs="#facs_14_r1l3" n="N003"/>erklähret, daß er sein negotium ohne interessenten führe

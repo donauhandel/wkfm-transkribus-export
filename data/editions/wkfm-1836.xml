@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2794" lry="4398" xml:id="facs_6">
+    <surface ulx="0" uly="0" lrx="2794" lry="4398" xml:id="facs_6">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1836.jpg" width="2794px" height="4398px"/>
          <zone points="81,108 81,3193 2609,3193 2609,108" rendition="TextRegion" xml:id="facs_6_r1">
             <zone points="843,198 914,194 986,191 1058,189 1129,188 1201,188 1273,189 1344,191 1416,192 1488,194 1560,195 1631,197 1703,198 1775,200 1846,200 1918,200 1990,198 2061,195 2133,192 2205,187 2277,180 2277,108 2205,115 2133,120 2061,123 1990,126 1918,128 1846,128 1775,128 1703,126 1631,125 1560,123 1488,122 1416,120 1344,119 1273,117 1201,116 1129,116 1058,117 986,119 914,122 843,126" rendition="Line" xml:id="facs_6_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_6" n="6" xml:id="img_0006"/>
+            <pb facs="#facs_6" n="6" xml:id="img_0006"/>
             
-            <ab  facs="#facs_6_r1">
+            <ab facs="#facs_6_r1">
                <lb facs="#facs_6_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_6_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 843 hat sich der
                <lb facs="#facs_6_r1l3" n="N003"/><rs type="person" ref="wkfm__26346">Zaillner</rs> geäusseret daß er seine Handlung ohne Compagnon führe

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3095" lry="4496" xml:id="facs_39">
+    <surface ulx="0" uly="0" lrx="3095" lry="4496" xml:id="facs_39">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0707.jpg" width="3095px" height="4496px"/>
          <zone points="251,212 251,3019 2835,3019 2835,212" rendition="TextRegion" xml:id="facs_39_r2">
             <zone points="2658,425 2683,427 2708,427 2733,427 2759,427 2784,427 2809,426 2835,424 2835,337 2809,339 2784,340 2759,340 2733,340 2708,340 2683,340 2658,338" rendition="Line" xml:id="facs_39_r2l2" subtype="page-number"/>
@@ -70,9 +70,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_39" n="39" xml:id="img_0039"/>
+            <pb facs="#facs_39" n="39" xml:id="img_0039"/>
             
-            <ab  facs="#facs_39_r2">
+            <ab facs="#facs_39_r2">
                <lb facs="#facs_39_r2l2" n="N001"/>351
                <lb facs="#facs_39_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_39_r2l3" n="N003"/><rs type="person" ref="wkfm__47079">Frankh Gregor Joseph</rs> burgerlicher Handlsmann

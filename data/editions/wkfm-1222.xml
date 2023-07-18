@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2982" lry="4436" xml:id="facs_38">
+    <surface ulx="0" uly="0" lrx="2982" lry="4436" xml:id="facs_38">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1222.jpg" width="2982px" height="4436px"/>
          <zone points="434,132 434,3339 2847,3339 2847,132" rendition="TextRegion" xml:id="facs_38_r1">
             <zone points="1326,276 1389,278 1452,278 1515,279 1578,279 1641,279 1704,281 1767,281 1830,281 1893,279 1957,279 2020,279 2083,278 2146,276 2209,275 2272,273 2335,270 2398,267 2461,265 2524,261 2588,258 2588,132 2524,135 2461,139 2398,141 2335,144 2272,147 2209,149 2146,150 2083,152 2020,153 1957,153 1893,153 1830,155 1767,155 1704,155 1641,153 1578,153 1515,153 1452,152 1389,152 1326,150" rendition="Line" xml:id="facs_38_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_38" n="38" xml:id="img_0038"/>
+            <pb facs="#facs_38" n="38" xml:id="img_0038"/>
             
-            <ab  facs="#facs_38_r1">
+            <ab facs="#facs_38_r1">
                <lb facs="#facs_38_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_38_r1l2" n="N002"/>In obigen Anbringen de ps: 28<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 725 N<hi style="superscript">o</hi> 559 hat sich der
                <lb facs="#facs_38_r1l3" n="N003"/><rs type="person" ref="wkfm__46873">Mariano</rs> erklähret, daß er sein negotium ohne Compagnon

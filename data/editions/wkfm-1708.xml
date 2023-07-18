@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2866" lry="4476" xml:id="facs_2">
+    <surface ulx="0" uly="0" lrx="2866" lry="4476" xml:id="facs_2">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1708.jpg" width="2866px" height="4476px"/>
          <zone points="182,242 182,3422 2748,3422 2748,242" rendition="TextRegion" xml:id="facs_2_r1">
             <zone points="998,401 1062,395 1126,389 1190,385 1254,382 1319,380 1383,377 1447,375 1511,374 1575,373 1640,372 1704,371 1768,371 1832,369 1896,368 1961,365 2025,362 2089,359 2153,354 2217,349 2282,342 2282,242 2217,249 2153,254 2089,259 2025,262 1961,265 1896,268 1832,269 1768,271 1704,271 1640,272 1575,273 1511,274 1447,275 1383,277 1319,280 1254,282 1190,285 1126,289 1062,295 998,301" rendition="Line" xml:id="facs_2_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_2" n="2" xml:id="img_0002"/>
+            <pb facs="#facs_2" n="2" xml:id="img_0002"/>
             
-            <ab  facs="#facs_2_r1">
+            <ab facs="#facs_2_r1">
                <lb facs="#facs_2_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_2_r1l2" n="N002"/>In obigen Anbringen de ps: 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 788 hat sich der <rs type="person" ref="wkfm__17762">Walstorf</rs>
                <lb facs="#facs_2_r1l3" n="N003"/>erklähret, daß er sein negotium allein führe

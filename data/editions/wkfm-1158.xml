@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3030" lry="4530" xml:id="facs_58">
+    <surface ulx="0" uly="0" lrx="3030" lry="4530" xml:id="facs_58">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1158.jpg" width="3030px" height="4530px"/>
          <zone points="384,216 384,3421 2928,3421 2928,216" rendition="TextRegion" xml:id="facs_58_r1">
             <zone points="1343,364 1405,361 1467,358 1529,357 1591,354 1653,352 1715,351 1777,349 1839,347 1901,346 1963,345 2025,343 2087,343 2149,342 2211,341 2273,340 2335,339 2397,339 2459,337 2522,336 2522,216 2459,217 2397,219 2335,219 2273,220 2211,221 2149,222 2087,223 2025,223 1963,225 1901,226 1839,227 1777,229 1715,231 1653,232 1591,234 1529,237 1467,238 1405,241 1343,244" rendition="Line" xml:id="facs_58_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_58" n="58" xml:id="img_0058"/>
+            <pb facs="#facs_58" n="58" xml:id="img_0058"/>
             
-            <ab  facs="#facs_58_r1">
+            <ab facs="#facs_58_r1">
                <lb facs="#facs_58_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_58_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 22<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 733 N<hi style="superscript">o</hi> 531 hat sich der
                <lb facs="#facs_58_r1l3" n="N003"/><rs type="person" ref="wkfm__27548">Leeb</rs> geäusseret, daß er seine Handlung für sich allein ohne

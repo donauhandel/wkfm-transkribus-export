@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3095" lry="4496" xml:id="facs_139">
+    <surface ulx="0" uly="0" lrx="3095" lry="4496" xml:id="facs_139">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0807.jpg" width="3095px" height="4496px"/>
          <zone points="140,254 140,3034 2798,3034 2798,254" rendition="TextRegion" xml:id="facs_139_r1">
             <zone points="2687,375 2720,376 2753,375 2786,372 2786,305 2753,308 2720,309 2687,308" rendition="Line" xml:id="facs_139_r1l2" subtype="page-number"/>
@@ -82,9 +82,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_139" n="139" xml:id="img_0139"/>
+            <pb facs="#facs_139" n="139" xml:id="img_0139"/>
             
-            <ab  facs="#facs_139_r1">
+            <ab facs="#facs_139_r1">
                <lb facs="#facs_139_r1l2" n="N001"/>401
                <lb facs="#facs_139_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_139_r1l3" n="N003"/><rs type="person" ref="wkfm__47190">Frieß Johann</rs> K. K. Niderlags Verwanter

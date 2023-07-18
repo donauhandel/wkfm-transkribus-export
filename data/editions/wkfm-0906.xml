@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4442" xml:id="facs_94">
+    <surface ulx="0" uly="0" lrx="2994" lry="4442" xml:id="facs_94">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0906.jpg" width="2994px" height="4442px"/>
          <zone points="320,224 320,3423 2886,3423 2886,224" rendition="TextRegion" xml:id="facs_94_r1">
             <zone points="1206,325 1266,320 1326,315 1387,312 1447,310 1508,309 1568,307 1628,307 1689,309 1749,309 1810,310 1870,311 1930,312 1991,313 2051,313 2112,313 2172,312 2232,310 2293,309 2353,306 2414,300 2414,224 2353,230 2293,233 2232,234 2172,236 2112,237 2051,237 1991,237 1930,236 1870,235 1810,234 1749,233 1689,233 1628,231 1568,231 1508,233 1447,234 1387,236 1326,239 1266,244 1206,249" rendition="Line" xml:id="facs_94_r1l1"/>
@@ -70,9 +70,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_94" n="94" xml:id="img_0094"/>
+            <pb facs="#facs_94" n="94" xml:id="img_0094"/>
             
-            <ab  facs="#facs_94_r1">
+            <ab facs="#facs_94_r1">
                <lb facs="#facs_94_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_94_r1l2" n="N002"/><seg type="wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_94_r1l3" n="N003"/>Der <rs type="person" ref="wkfm__46382">Gropp</rs> hat dem mit der <rs type="person" ref="wkfm__46384">Anna Maria Reitzin</rs> untern 25<hi style="superscript">ten</hi>

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_82">
+    <surface ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_82">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0750.jpg" width="2994px" height="4530px"/>
          <zone points="363,249 363,4000 2913,4000 2913,249" rendition="TextRegion" xml:id="facs_82_r1">
             <zone points="1250,375 1311,371 1372,368 1434,365 1495,363 1556,362 1618,362 1679,362 1740,363 1802,363 1863,365 1924,365 1986,366 2047,368 2108,368 2170,368 2231,368 2292,366 2354,365 2415,362 2477,357 2477,249 2415,254 2354,257 2292,258 2231,260 2170,260 2108,260 2047,260 1986,258 1924,257 1863,257 1802,255 1740,255 1679,254 1618,254 1556,254 1495,255 1434,257 1372,260 1311,263 1250,267" rendition="Line" xml:id="facs_82_r1l1"/>
@@ -70,9 +70,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_82" n="82" xml:id="img_0082"/>
+            <pb facs="#facs_82" n="82" xml:id="img_0082"/>
             
-            <ab  facs="#facs_82_r1">
+            <ab facs="#facs_82_r1">
                <lb facs="#facs_82_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_82_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 18<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 733 N<hi style="superscript">o</hi> 355 hat
                <lb facs="#facs_82_r1l3" n="N003"/>sich der <rs type="person" ref="wkfm__47110">Feigl</rs> geäusseret, das er keinen Compagnon habe

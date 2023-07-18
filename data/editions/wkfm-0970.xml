@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4437" xml:id="facs_50">
+    <surface ulx="0" uly="0" lrx="2994" lry="4437" xml:id="facs_50">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0970.jpg" width="2994px" height="4437px"/>
          <zone points="333,203 333,3393 2841,3393 2841,203" rendition="TextRegion" xml:id="facs_50_r1">
             <zone points="1037,336 1105,329 1173,324 1242,320 1310,317 1378,314 1447,314 1515,312 1583,312 1652,312 1720,314 1789,315 1857,317 1925,318 1994,318 2062,320 2130,321 2199,323 2267,323 2336,321 2336,212 2267,214 2199,214 2130,212 2062,211 1994,209 1925,209 1857,208 1789,206 1720,205 1652,203 1583,203 1515,203 1447,205 1378,205 1310,208 1242,211 1173,215 1105,220 1037,227" rendition="Line" xml:id="facs_50_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_50" n="50" xml:id="img_0050"/>
+            <pb facs="#facs_50" n="50" xml:id="img_0050"/>
             
-            <ab  facs="#facs_50_r1">
+            <ab facs="#facs_50_r1">
                <lb facs="#facs_50_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_50_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 448 hat sich der
                <lb facs="#facs_50_r1l3" n="N003"/><rs type="person" ref="wkfm__46473">Humbl</rs> geäusseret, das er seine Handlung ohne Compagnon und

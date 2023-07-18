@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2953" lry="4400" xml:id="facs_64">
+    <surface ulx="0" uly="0" lrx="2953" lry="4400" xml:id="facs_64">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1416.jpg" width="2953px" height="4400px"/>
          <zone points="363,180 363,3391 2868,3391 2868,180" rendition="TextRegion" xml:id="facs_64_r1">
             <zone points="1160,343 1222,337 1284,331 1346,327 1409,324 1471,322 1533,321 1595,319 1658,319 1720,319 1782,319 1844,319 1907,319 1969,319 2031,319 2093,318 2156,316 2218,315 2280,310 2342,306 2405,300 2405,180 2342,186 2280,190 2218,195 2156,196 2093,198 2031,199 1969,199 1907,199 1844,199 1782,199 1720,199 1658,199 1595,199 1533,201 1471,202 1409,204 1346,207 1284,211 1222,217 1160,223" rendition="Line" xml:id="facs_64_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_64" n="64" xml:id="img_0064"/>
+            <pb facs="#facs_64" n="64" xml:id="img_0064"/>
             
-            <ab  facs="#facs_64_r1">
+            <ab facs="#facs_64_r1">
                <lb facs="#facs_64_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_64_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 19<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 733 N<hi style="superscript">o</hi> 639 hat sich der
                <lb facs="#facs_64_r1l3" n="N003"/><rs type="person" ref="wkfm__46724">Rauchegger</rs> geäusseret, das er keinen Compagnon habe

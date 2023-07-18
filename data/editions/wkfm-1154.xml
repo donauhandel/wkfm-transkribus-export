@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3030" lry="4530" xml:id="facs_54">
+    <surface ulx="0" uly="0" lrx="3030" lry="4530" xml:id="facs_54">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1154.jpg" width="3030px" height="4530px"/>
          <zone points="297,207 297,3402 2913,3402 2913,207" rendition="TextRegion" xml:id="facs_54_r1">
             <zone points="1187,374 1252,366 1318,358 1383,353 1449,348 1514,344 1580,341 1645,338 1711,335 1776,333 1842,332 1908,330 1973,329 2039,329 2104,327 2170,326 2235,324 2301,323 2366,321 2432,318 2498,315 2498,207 2432,210 2366,213 2301,215 2235,216 2170,218 2104,219 2039,221 1973,221 1908,222 1842,224 1776,225 1711,227 1645,230 1580,233 1514,236 1449,240 1383,245 1318,250 1252,258 1187,266" rendition="Line" xml:id="facs_54_r1l1"/>
@@ -68,9 +68,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_54" n="54" xml:id="img_0054"/>
+            <pb facs="#facs_54" n="54" xml:id="img_0054"/>
             
-            <ab  facs="#facs_54_r1">
+            <ab facs="#facs_54_r1">
                <lb facs="#facs_54_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_54_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 14<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 731 hat der <rs type="person" ref="wkfm__18524">Leopold Lidl</rs> nechst
                <lb facs="#facs_54_r1l3" n="N003"/>dem <rs type="person" ref="wkfm__25421">Ludwig Lidl</rs> angezeiget, daß sie ihre Handlung mit einander unter 

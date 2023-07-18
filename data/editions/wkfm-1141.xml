@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3134" lry="4521" xml:id="facs_41">
+    <surface ulx="0" uly="0" lrx="3134" lry="4521" xml:id="facs_41">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1141.jpg" width="3134px" height="4521px"/>
          <zone points="311,169 311,3067 2951,3067 2951,169" rendition="TextRegion" xml:id="facs_41_r2">
             <zone points="2789,493 2817,493 2846,493 2875,493 2904,493 2933,490 2933,340 2904,343 2875,343 2846,343 2817,343 2789,343" rendition="Line" xml:id="facs_41_r2l2" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_41" n="41" xml:id="img_0041"/>
+            <pb facs="#facs_41" n="41" xml:id="img_0041"/>
             
-            <ab  facs="#facs_41_r2">
+            <ab facs="#facs_41_r2">
                <lb facs="#facs_41_r2l2" n="N001"/>564
                <lb facs="#facs_41_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_41_r2l3" n="N003"/><rs type="person" ref="wkfm__46809">Lochner Wilhelm Conrad</rs> burgerlicher Handlsmann

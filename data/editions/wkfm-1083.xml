@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3057" lry="4521" xml:id="facs_19">
+    <surface ulx="0" uly="0" lrx="3057" lry="4521" xml:id="facs_19">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1083.jpg" width="3057px" height="4521px"/>
          <zone points="320,201 320,3070 2934,3070 2934,201" rendition="TextRegion" xml:id="facs_19_r2">
             <zone points="2733,475 2760,474 2788,475 2815,475 2843,475 2871,472 2871,351 2843,354 2815,354 2788,354 2760,353 2733,354" rendition="Line" xml:id="facs_19_r2l2" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_19" n="19" xml:id="img_0019"/>
+            <pb facs="#facs_19" n="19" xml:id="img_0019"/>
             
-            <ab  facs="#facs_19_r2">
+            <ab facs="#facs_19_r2">
                <lb facs="#facs_19_r2l2" n="N001"/>535
                <lb facs="#facs_19_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_19_r2l3" n="N003"/><rs type="person" ref="wkfm__43872">Jordan Andre Anton</rs> burgerlicher Handlsmann

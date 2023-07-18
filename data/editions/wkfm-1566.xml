@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2929" lry="4455" xml:id="facs_108">
+    <surface ulx="0" uly="0" lrx="2929" lry="4455" xml:id="facs_108">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1566.jpg" width="2929px" height="4455px"/>
          <zone points="369,143 369,3328 2895,3328 2895,143" rendition="TextRegion" xml:id="facs_108_r1">
             <zone points="1139,298 1205,290 1271,284 1337,279 1403,276 1469,274 1535,272 1602,271 1668,271 1734,271 1800,271 1866,271 1932,271 1998,269 2065,269 2131,266 2197,264 2263,260 2329,255 2395,248 2462,239 2462,143 2395,152 2329,159 2263,164 2197,168 2131,170 2065,173 1998,173 1932,175 1866,175 1800,175 1734,175 1668,175 1602,175 1535,176 1469,178 1403,180 1337,183 1271,188 1205,194 1139,202" rendition="Line" xml:id="facs_108_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_108" n="108" xml:id="img_0108"/>
+            <pb facs="#facs_108" n="108" xml:id="img_0108"/>
             
-            <ab  facs="#facs_108_r1">
+            <ab facs="#facs_108_r1">
                <lb facs="#facs_108_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_108_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 15<hi style="superscript">ten</hi> Julii 727 N<hi style="superscript">o</hi> 710 hat sich der <rs type="person" ref="wkfm__47474">Strecker</rs>
                <lb facs="#facs_108_r1l3" n="N003"/>geäusseret, das er seine handlung ohne Compagnon führe

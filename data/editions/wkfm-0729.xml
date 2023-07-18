@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3095" lry="4496" xml:id="facs_61">
+    <surface ulx="0" uly="0" lrx="3095" lry="4496" xml:id="facs_61">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0729.jpg" width="3095px" height="4496px"/>
          <zone points="183,242 183,3083 2835,3083 2835,242" rendition="TextRegion" xml:id="facs_61_r3">
             <zone points="189,291 236,291 236,396 189,396" rendition="Line" xml:id="facs_61_line_1629292745680_919"/>
@@ -71,9 +71,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_61" n="61" xml:id="img_0061"/>
+            <pb facs="#facs_61" n="61" xml:id="img_0061"/>
             
-            <ab  facs="#facs_61_r3">
+            <ab facs="#facs_61_r3">
                <lb facs="#facs_61_r3l2" n="N002"/>362
                <lb facs="#facs_61_r3l1" n="N003"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_61_r3l3" n="N004"/><rs type="person" ref="wkfm__12378">Fasching Franz Caspar</rs> burgerlicher Handlsmann

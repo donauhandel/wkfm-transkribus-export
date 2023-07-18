@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2923" lry="4436" xml:id="facs_141">
+    <surface ulx="0" uly="0" lrx="2923" lry="4436" xml:id="facs_141">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0461.jpg" width="2923px" height="4436px"/>
          <zone points="68,178 68,4222 2781,4228 2781,184" rendition="TextRegion" xml:id="facs_141_r2">
             <zone points="2615,232 2785,232 2785,329 2615,329" rendition="Line" xml:id="facs_141_line_1629449419617_907" subtype="page-number"/>
@@ -85,9 +85,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_141" n="141" xml:id="img_0141"/>
+            <pb facs="#facs_141" n="141" xml:id="img_0141"/>
             
-            <ab  facs="#facs_141_r2">
+            <ab facs="#facs_141_r2">
                <lb facs="#facs_141_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_141_r2l2" n="N003"/><rs type="person" ref="wkfm__46156">Chiocino Adamo</rs> burgerlicher Handlsmann
                <lb facs="#facs_141_r2l3" n="N004"/>Firma ad Raggion

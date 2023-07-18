@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_16">
+    <surface ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_16">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0684.jpg" width="2994px" height="4530px"/>
          <zone points="428,232 428,3414 2880,3414 2880,232" rendition="TextRegion" xml:id="facs_16_r1">
             <zone points="1127,328 1189,327 1252,325 1314,325 1377,325 1439,325 1502,325 1564,327 1627,328 1689,330 1752,331 1815,333 1877,334 1940,336 2002,336 2065,336 2127,336 2190,334 2252,333 2315,331 2378,328 2378,235 2315,238 2252,240 2190,241 2127,243 2065,243 2002,243 1940,243 1877,241 1815,240 1752,238 1689,237 1627,235 1564,234 1502,232 1439,232 1377,232 1314,232 1252,232 1189,234 1127,235" rendition="Line" xml:id="facs_16_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_16" n="16" xml:id="img_0016"/>
+            <pb facs="#facs_16" n="16" xml:id="img_0016"/>
             
-            <ab  facs="#facs_16_r1">
+            <ab facs="#facs_16_r1">
                <lb facs="#facs_16_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_16_r1l3" n="N002"/>In obigen Anbringen de ps: 21<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 1933 hat der <rs type="person" ref="wkfm__16575">Johann
                <lb break="no" facs="#facs_16_r1l4" n="N003"/>Jacob Farovina</rs> und <rs type="person" ref="wkfm__47062">Wenzl Kempf</rs> die <hi>Soci</hi> Raggion der Societaet

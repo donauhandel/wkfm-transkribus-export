@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2883" lry="4464" xml:id="facs_10">
+    <surface ulx="0" uly="0" lrx="2883" lry="4464" xml:id="facs_10">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1362.jpg" width="2883px" height="4464px"/>
          <zone points="255,191 255,3174 2796,3174 2796,191" rendition="TextRegion" xml:id="facs_10_r1">
             <zone points="1148,281 1208,278 1269,275 1330,273 1391,273 1451,272 1512,272 1573,272 1634,272 1694,273 1755,273 1816,273 1877,273 1937,273 1998,273 2059,273 2120,272 2180,270 2241,269 2302,267 2363,263 2363,191 2302,195 2241,197 2180,198 2120,200 2059,201 1998,201 1937,201 1877,201 1816,201 1755,201 1694,201 1634,200 1573,200 1512,200 1451,200 1391,201 1330,201 1269,203 1208,206 1148,209" rendition="Line" xml:id="facs_10_r1l1"/>
@@ -68,9 +68,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_10" n="10" xml:id="img_0010"/>
+            <pb facs="#facs_10" n="10" xml:id="img_0010"/>
             
-            <ab  facs="#facs_10_r1">
+            <ab facs="#facs_10_r1">
                <lb facs="#facs_10_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_10_r1l2" n="N002"/>In obigen Anbringen <hi>hat</hi> de ps: 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 2018 hat der
                <lb facs="#facs_10_r1l3" n="N003"/><rs type="person" ref="wkfm__46681">Rota</rs> mit dem <rs type="person" ref="wkfm__21607">Bernhard Reißmiller</rs> die gemeinsame Anzeige gemacht

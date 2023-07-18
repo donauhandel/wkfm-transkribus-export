@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2945" lry="4468" xml:id="facs_239">
+    <surface ulx="0" uly="0" lrx="2945" lry="4468" xml:id="facs_239">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1697.jpg" width="2945px" height="4468px"/>
          <zone points="167,163 167,4236 2783,4236 2783,163" rendition="TextRegion" xml:id="facs_239_r1">
             <zone points="2630,308 2655,307 2681,307 2706,308 2732,310 2757,310 2783,310 2783,240 2757,240 2732,240 2706,238 2681,237 2655,237 2630,238" rendition="Line" xml:id="facs_239_r1l2" subtype="page-number"/>
@@ -85,9 +85,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_239" n="239" xml:id="img_0239"/>
+            <pb facs="#facs_239" n="239" xml:id="img_0239"/>
             
-            <ab  facs="#facs_239_r1">
+            <ab facs="#facs_239_r1">
                <lb facs="#facs_239_r1l2" n="N001"/>841
                <lb facs="#facs_239_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_239_r1l3" n="N003"/><rs type="person" ref="wkfm__47608">Schenöckher Johann Michäl</rs> burgerlicher Handlsmann
@@ -107,7 +107,7 @@
                <lb facs="#facs_239_r1l21" n="N017"/>zu Completirung des übrigen hat der <rs type="person" ref="wkfm__47609">Thomas Walter</rs> und <rs type="person" ref="wkfm__47610">Joseph <hi>Hen</hi>
                <lb break="no" facs="#facs_239_r1l22" n="N018"/>Heim</rs> beede in <unclear>tacidum</unclear> das <choice><expan/><abbr>orig:</abbr></choice> Cautions Instrument dd<hi style="superscript">to</hi> 22<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice>
                <lb facs="#facs_239_r1l23" n="N019"/>755 N<hi style="superscript">o</hi> 1792 eingeleget <choice><expan/><abbr>pr</abbr></choice> 4500
-               <lb facs="#facs_239_line_1626773631810_768" n="N020"/><comment comment="Nach\u0020Zeile\u002019"><choice><expan/><abbr>Sa</abbr></choice> 8000 fl</comment>
+               <lb facs="#facs_239_line_1626773631810_768" n="N020"/><seg type="editorial_comment_seg"><choice><expan/><abbr>Sa</abbr></choice> 8000 fl<note type="editorial_comment_note">Nach Zeile 19</note></seg>
                <lb facs="#facs_239_line_1626773638150_771" n="N021"/>Bemeltes Cautions Instrument <choice><expan/><abbr>pr</abbr></choice> 4500 fl ist dem <rs type="person" ref="wkfm__47608">Johann Michael
                <lb break="no" facs="#facs_239_r1l26" n="N022"/>Schönecker</rs> über sein Anlangen de ps: 7<hi style="superscript">ten</hi> Novembris 765 und gegen Einlegung der über seine
                <lb facs="#facs_239_r1l27" n="N023"/>Handlung errichtete Billanz worinnen er 20083 fl 48 x<hi style="superscript">r</hi> Eigenthum ausweises restituiret,

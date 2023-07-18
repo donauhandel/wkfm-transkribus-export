@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2866" lry="4476" xml:id="facs_244">
+    <surface ulx="0" uly="0" lrx="2866" lry="4476" xml:id="facs_244">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1702.jpg" width="2866px" height="4476px"/>
          <zone points="299,225 299,3403 2606,3403 2606,225" rendition="TextRegion" xml:id="facs_244_r1">
             <zone points="1106,357 1172,351 1238,347 1304,343 1371,341 1437,339 1503,339 1570,339 1636,339 1702,340 1769,340 1835,340 1901,342 1967,341 2034,340 2100,338 2166,336 2233,331 2299,327 2365,319 2432,310 2432,225 2365,234 2299,242 2233,246 2166,251 2100,253 2034,255 1967,256 1901,257 1835,255 1769,255 1702,255 1636,254 1570,254 1503,254 1437,254 1371,256 1304,258 1238,262 1172,266 1106,272" rendition="Line" xml:id="facs_244_r1l1"/>
@@ -78,9 +78,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_244" n="244" xml:id="img_0244"/>
+            <pb facs="#facs_244" n="244" xml:id="img_0244"/>
             
-            <ab  facs="#facs_244_r1">
+            <ab facs="#facs_244_r1">
                <lb facs="#facs_244_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_244_r1l2" n="N002"/><choice><expan/><abbr>Ao</abbr></choice> 763 hat sich der <rs type="person" ref="wkfm__47615">Johann Georg Scheckenberger</rs> erkläret
                <lb facs="#facs_244_r1l3" n="N003"/>das er seinen Handlungs Bedienten <rs type="person" ref="wkfm__47616">Franz Joseph Plazer</rs> 

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2886" lry="4400" xml:id="facs_88">
+    <surface ulx="0" uly="0" lrx="2886" lry="4400" xml:id="facs_88">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1440.jpg" width="2886px" height="4400px"/>
          <zone points="198,256 198,3392 2523,3392 2523,256" rendition="TextRegion" xml:id="facs_88_r1">
             <zone points="932,362 997,355 1062,348 1127,344 1192,341 1257,339 1322,338 1387,338 1452,338 1517,339 1583,341 1648,343 1713,345 1778,347 1843,347 1908,348 1973,348 2038,347 2103,345 2168,343 2234,338 2234,256 2168,261 2103,263 2038,265 1973,266 1908,266 1843,265 1778,265 1713,263 1648,261 1583,259 1517,257 1452,256 1387,256 1322,256 1257,257 1192,259 1127,262 1062,266 997,273 932,280" rendition="Line" xml:id="facs_88_r1l1"/>
@@ -71,9 +71,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_88" n="88" xml:id="img_0088"/>
+            <pb facs="#facs_88" n="88" xml:id="img_0088"/>
             
-            <ab  facs="#facs_88_r1">
+            <ab facs="#facs_88_r1">
                <lb facs="#facs_88_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_88_r1l2" n="N002"/><seg type="wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_88_r1l3" n="N003"/>Untern 14<hi style="superscript">ten</hi> Jenner 768 hat der <rs type="person" ref="wkfm__46571">Joseph Riva</rs> seinem mit der

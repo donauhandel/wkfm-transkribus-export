@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3087" lry="4530" xml:id="facs_6">
+    <surface ulx="0" uly="0" lrx="3087" lry="4530" xml:id="facs_6">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1070.jpg" width="3087px" height="4530px"/>
          <zone points="351,202 351,3424 2922,3424 2922,202" rendition="TextRegion" xml:id="facs_6_r1">
             <zone points="1148,361 1206,355 1264,350 1323,346 1381,342 1439,340 1498,337 1556,336 1614,334 1673,333 1731,333 1789,331 1848,330 1906,330 1964,328 2023,325 2081,323 2139,319 2198,315 2256,311 2315,304 2315,202 2256,209 2198,213 2139,217 2081,221 2023,223 1964,226 1906,228 1848,228 1789,229 1731,231 1673,231 1614,232 1556,234 1498,235 1439,238 1381,240 1323,244 1264,248 1206,253 1148,259" rendition="Line" xml:id="facs_6_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_6" n="6" xml:id="img_0006"/>
+            <pb facs="#facs_6" n="6" xml:id="img_0006"/>
             
-            <ab  facs="#facs_6_r1">
+            <ab facs="#facs_6_r1">
                <lb facs="#facs_6_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_6_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 494 und Anbringen de ps: 21<hi style="superscript">ten</hi>
                <lb facs="#facs_6_r1l3" n="N003"/><hi>Apr:</hi> <choice><expan/><abbr>9br:</abbr></choice> N<hi style="superscript">o</hi> 495 hat sich der <rs type="person" ref="wkfm__9468">Jenamy</rs> geäusseret daß er keinen interessenten

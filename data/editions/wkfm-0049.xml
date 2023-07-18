@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3087" lry="4530" xml:id="facs_44">
+    <surface ulx="0" uly="0" lrx="3087" lry="4530" xml:id="facs_44">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0049.jpg" width="3087px" height="4530px"/>
          <zone points="227,863 227,4548 2825,4548 2825,863" rendition="TextRegion" xml:id="facs_44_r1">
             <zone points="719,376 792,371 866,369 939,368 1013,367 1087,367 1160,367 1234,367 1308,368 1381,370 1455,371 1529,372 1602,373 1676,374 1750,374 1823,376 1897,374 1971,374 2044,371 2118,369 2192,365 2192,286 2118,290 2044,292 1971,295 1897,295 1823,297 1750,295 1676,295 1602,294 1529,293 1455,292 1381,291 1308,289 1234,288 1160,288 1087,288 1013,288 939,289 866,290 792,292 719,297" rendition="Line" xml:id="facs_44_r1l1"/>
@@ -86,13 +86,13 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_44" n="44" xml:id="img_0044"/>
+            <pb facs="#facs_44" n="44" xml:id="img_0044"/>
             
-            <ab  facs="#facs_44_r1">
+            <ab facs="#facs_44_r1">
                <lb facs="#facs_44_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_44_line_1621280750573_88" n="N002"/><hi>0</hi>
-               <lb facs="#facs_44_r1l2" n="N003"/><comment comment="Der\u0020Text\u0020gehört\u0020nicht\u0020in\u0020diese\u0020Rubrik,\u0020sondern\u0020schließt\u0020an\u0020das\u0020Einfügungszeichen\u0020unter\u0020\u0022Anmerkungen\u0022\u0020an!">Vermög Anbringen de ps<hi style="superscript">to</hi> 12: März 778 hat <rs type="person" key=", Nicht in die Datenbank aufgenommen">Johann Michael Rudolph</rs> des äusseren</comment>
-               <lb facs="#facs_44_r1l3" n="N004"/>Raths als <unclear><choice><expan>Wahrscheinlich \u0022gerichtlich\u0022</expan><abbr>ghst</abbr></choice>. </unclear>aufgestellter Curator der <rs type="person" ref="wkfm__43799"><unclear>Ma.</unclear> Anna Aufner</rs> und derselben Kinder
+               <lb facs="#facs_44_r1l2" n="N003"/><seg type="editorial_comment_seg">Vermög Anbringen de ps<hi style="superscript">to</hi> 12: März 778 hat <rs type="person" key=", Nicht in die Datenbank aufgenommen">Johann Michael Rudolph</rs> des äusseren<note type="editorial_comment_note">Der Text gehört nicht in diese Rubrik, sondern schließt an das Einfügungszeichen unter Anmerkungen an!</note></seg>
+               <lb facs="#facs_44_r1l3" n="N004"/>Raths als <unclear><choice><expan>Wahrscheinlich gerichtlich</expan><abbr>ghst</abbr></choice>. </unclear>aufgestellter Curator der <rs type="person" ref="wkfm__43799"><unclear>Ma.</unclear> Anna Aufner</rs> und derselben Kinder
                <lb facs="#facs_44_r1l4" n="N005"/>Gerhab angezeiget, daß, da des <rs type="person" ref="wkfm__43799">Joseph Aufner <choice><expan/><abbr>seel.</abbr></choice> ruckgelassenen Wittwe</rs> mit 
                <lb facs="#facs_44_line_1621280914500_103" n="N006"/>dem Decret A. über die Continuation der Handlung auszuweisen aufgetragen, zufolge
                <lb facs="#facs_44_r1l7" n="N007"/>Decret B der <rs type="person" key=", Person nicht in die Datenbank aufgenommen">Lorenz Mayer</rs> ut C et D als Administrator dieser Handlung
@@ -107,13 +107,13 @@
                <lb facs="#facs_44_r1l16" n="N016"/>get, worinnen 500 fl Heurathguth 1000 fl Widerlag, das übrige der 
                <lb facs="#facs_44_r1l17" n="N017"/>Brauth Vermögen als ein paraphemal Guth, und die hievon abfallende
                <lb facs="#facs_44_r1l18" n="N018"/><choice><expan>Interessen</expan><abbr>Inteen</abbr></choice> gleich dem erwerbend= und ererbenden Vermögen ein gleiches
-               <lb facs="#facs_44_r1l19" n="N019"/>Guth contratiret worden <choice><expan/><abbr><comment comment="\u0022pro\u0020petito\u0022\u0020(nach\u0020Antrag)">pp.</comment></abbr></choice> <choice><expan/><abbr>nro:</abbr></choice> 2077.
+               <lb facs="#facs_44_r1l19" n="N019"/>Guth contratiret worden <choice><expan/><abbr><seg type="editorial_comment_seg">pp.<note type="editorial_comment_note">pro petito (nach Antrag)</note></seg></abbr></choice> <choice><expan/><abbr>nro:</abbr></choice> 2077.
                <lb facs="#facs_44_r1l20" n="N020"/><seg type="other_notes">Anmerkungen</seg>
                <lb facs="#facs_44_r1l21" n="N021"/>Vermög Anbringen de psto 24: July 775 hat die <rs type="person" ref="wkfm__43799">Anna Maria Aufnerin</rs>
                <lb facs="#facs_44_r1l22" n="N022"/>angezeiget, daß sie diese Handlung unter der <rs type="person" ref="wkfm__46599">Firma Aufner <choice><expan/><abbr>seel:</abbr></choice>
                <lb break="no" facs="#facs_44_r1l23" n="N023"/>Wittib</rs> fortführen werde, und hat diese ihre Firma dieser An-
                <lb facs="#facs_44_r1l24" n="N024"/>zeige sub A beygelegt.
-               <lb facs="#facs_44_r1l25" n="N025"/><comment comment="Einfügezeichen,\u0020Fortseztung\u0020des\u0020Textes\u0020oben\u0020in\u0020der\u0020Rubrik\u0020\u0022Societaets\u0020Contract\u0020und\u0020Interessenten\u0022"><hi>0</hi></comment>
+               <lb facs="#facs_44_r1l25" n="N025"/><seg type="editorial_comment_seg"><hi>0</hi><note type="editorial_comment_note">Einfügezeichen, Fortseztung des Textes oben in der Rubrik Societaets Contract und Interessenten</note></seg>
             </ab>
             
         </div>

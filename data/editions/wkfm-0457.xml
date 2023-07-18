@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2923" lry="4436" xml:id="facs_137">
+    <surface ulx="0" uly="0" lrx="2923" lry="4436" xml:id="facs_137">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0457.jpg" width="2923px" height="4436px"/>
          <graphic url="" width="2923px" height="4436px"/>
          <zone points="107,168 107,2876 2844,2876 2844,168" rendition="TextRegion" xml:id="facs_137_r1">
@@ -95,9 +95,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_137" n="137" xml:id="img_0137"/>
+            <pb facs="#facs_137" n="137" xml:id="img_0137"/>
             
-            <ab  facs="#facs_137_r1">
+            <ab facs="#facs_137_r1">
                <lb facs="#facs_137_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_137_line_1621961074858_2354" n="N003"/><hi>Sr</hi> <rs type="person" ref="wkfm__46150">Crettier Wilhelm</rs> <choice><expan/><abbr>kay:</abbr></choice> <choice><expan/><abbr>könig:</abbr></choice> Niderlags Verwanter
                <lb facs="#facs_137_r1l5" n="N004"/>Firma ad Raggion

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3058" lry="4511" xml:id="facs_35">
+    <surface ulx="0" uly="0" lrx="3058" lry="4511" xml:id="facs_35">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0040.jpg" width="3058px" height="4511px"/>
          <zone points="335,229 335,3016 2712,3016 2712,229" rendition="TextRegion" xml:id="facs_35_r1">
             <zone points="2582,295 2608,296 2634,296 2660,293 2686,291 2712,290 2712,229 2686,230 2660,232 2634,235 2608,235 2582,234" rendition="Line" xml:id="facs_35_r1l1" subtype="page-number"/>
@@ -71,9 +71,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_35" n="35" xml:id="img_0035"/>
+            <pb facs="#facs_35" n="35" xml:id="img_0035"/>
             
-            <ab  facs="#facs_35_r1">
+            <ab facs="#facs_35_r1">
                <lb facs="#facs_35_r1l1" n="N001"/>18
                <lb facs="#facs_35_r1l2" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_35_r1l3" n="N003"/><rs type="person" ref="wkfm__28699">Ampach Sebastian Johann</rs> burgerlicher Handlsmann

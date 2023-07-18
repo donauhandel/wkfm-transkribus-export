@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3036" lry="4441" xml:id="facs_95">
+    <surface ulx="0" uly="0" lrx="3036" lry="4441" xml:id="facs_95">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1447.jpg" width="3036px" height="4441px"/>
          <zone points="135,185 135,4301 2705,4301 2705,185" rendition="TextRegion" xml:id="facs_95_r2">
             <zone points="2513,342 2538,340 2564,339 2590,339 2616,340 2642,340 2668,339 2694,337 2694,270 2668,272 2642,273 2616,273 2590,272 2564,272 2538,273 2513,275" rendition="Line" xml:id="facs_95_r2l2" subtype="page-number"/>
@@ -102,9 +102,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_95" n="95" xml:id="img_0095"/>
+            <pb facs="#facs_95" n="95" xml:id="img_0095"/>
             
-            <ab  facs="#facs_95_r2">
+            <ab facs="#facs_95_r2">
                <lb facs="#facs_95_r2l2" n="N001"/>716
                <lb facs="#facs_95_r2l3" n="N002"/>121
                <lb facs="#facs_95_r2l1" n="N003"/><seg type="name">Nahmen und Class</seg>
@@ -131,9 +131,9 @@
                <lb facs="#facs_95_r2l28" n="N024"/>wie solche von beeden beygeruket, werde geführert werden.
                <lb facs="#facs_95_r2l29" n="N025"/>Vermög Anbringen de ps: 2<hi style="superscript">ten</hi> April 767 hat Hr. <rs type="person" ref="wkfm__46187">Wolfgang Freyh. Riesch</rs> seinen Complimen-
                <lb facs="#facs_95_r2l30" n="N026"/>tarium und firmae führer aller Verrichtung enthoben und die weitere firma dem <rs type="person" ref="wkfm__8701">Johann</rs>
-               <lb facs="#facs_95_r2l31" n="N027"/><comment comment="Fortsetzung\u0020unter\u0020\u0022Fundi\u0020Ausweisung\u0022"><hi>0</hi></comment>
+               <lb facs="#facs_95_r2l31" n="N027"/><seg type="editorial_comment_seg"><hi>0</hi><note type="editorial_comment_note">Fortsetzung unter Fundi Ausweisung</note></seg>
                <lb facs="#facs_95_r2l32" n="N028"/><seg type="fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_95_r2l33" n="N029"/><comment comment="Fortsetzung\u0020der\u0020vorigen\u0020Rubrik"><hi>0</hi></comment> <rs type="person" ref="wkfm__8701">Heinrich Frohn</rs> anvertrauet, auch 
+               <lb facs="#facs_95_r2l33" n="N029"/><seg type="editorial_comment_seg"><hi>0</hi><note type="editorial_comment_note">Fortsetzung der vorigen Rubrik</note></seg> <rs type="person" ref="wkfm__8701">Heinrich Frohn</rs> anvertrauet, auch 
                <lb facs="#facs_95_r2l34" n="N030"/>die eingesendete oblatorien eingelegt
                <lb facs="#facs_95_r2l35" n="N031"/>oben Sub: <choice><expan/><abbr>nro</abbr></choice> 1140 2/3
                <lb facs="#facs_95_r2l36" n="N032"/>Vermög Anbringen de pt: 3<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 775 hat der Hr. <rs type="person" ref="wkfm__46187">Wolfgang v. 

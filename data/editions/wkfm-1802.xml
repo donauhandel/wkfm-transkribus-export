@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2972" lry="4419" xml:id="facs_96">
+    <surface ulx="0" uly="0" lrx="2972" lry="4419" xml:id="facs_96">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1802.jpg" width="2972px" height="4419px"/>
          <zone points="530,201 530,3382 2796,3382 2796,201" rendition="TextRegion" xml:id="facs_96_r1">
             <zone points="1272,361 1344,355 1417,349 1490,346 1562,343 1635,342 1708,342 1780,342 1853,342 1926,343 1999,343 2071,342 2144,341 2217,339 2289,335 2362,331 2435,324 2507,316 2580,305 2653,291 2726,276 2726,201 2653,216 2580,230 2507,241 2435,249 2362,256 2289,260 2217,264 2144,266 2071,267 1999,268 1926,268 1853,267 1780,267 1708,267 1635,267 1562,268 1490,271 1417,274 1344,280 1272,286" rendition="Line" xml:id="facs_96_r1l1"/>
@@ -70,9 +70,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_96" n="96" xml:id="img_0096"/>
+            <pb facs="#facs_96" n="96" xml:id="img_0096"/>
             
-            <ab  facs="#facs_96_r1">
+            <ab facs="#facs_96_r1">
                <lb facs="#facs_96_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_96_r1l2" n="N002"/><seg type="wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_96_r1l3" n="N003"/><choice><expan/><abbr>Ao</abbr></choice> 764 hat der <rs type="person" ref="wkfm__47022">Lorenz Wöber</rs> seinen mit der <rs type="person" ref="wkfm__47024">Maria Caecilia

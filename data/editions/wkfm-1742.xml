@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2886" lry="4476" xml:id="facs_36">
+    <surface ulx="0" uly="0" lrx="2886" lry="4476" xml:id="facs_36">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1742.jpg" width="2886px" height="4476px"/>
          <graphic url="" width="2886px" height="4476px"/>
          <zone points="261,213 261,3417 2745,3417 2745,213" rendition="TextRegion" xml:id="facs_36_r1">
@@ -68,9 +68,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_36" n="36" xml:id="img_0036"/>
+            <pb facs="#facs_36" n="36" xml:id="img_0036"/>
             
-            <ab  facs="#facs_36_r1">
+            <ab facs="#facs_36_r1">
                <lb facs="#facs_36_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_36_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 800 hat sich der
                <lb facs="#facs_36_r1l3" n="N003"/><rs type="person" ref="wkfm__9870">Wondaller</rs> geäusseret, das er mit niemand in Verständnus

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_238">
+    <surface ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_238">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0292.jpg" width="2934px" height="4501px"/>
          <zone points="195,190 195,3354 2790,3354 2790,190" rendition="TextRegion" xml:id="facs_238_r1">
             <zone points="911,317 979,309 1048,302 1117,297 1185,293 1254,290 1323,287 1391,285 1460,285 1529,284 1598,284 1666,284 1735,282 1804,282 1872,282 1941,281 2010,278 2078,276 2147,273 2216,269 2285,263 2285,190 2216,196 2147,200 2078,203 2010,205 1941,208 1872,209 1804,209 1735,209 1666,211 1598,211 1529,211 1460,212 1391,212 1323,214 1254,217 1185,220 1117,224 1048,229 979,236 911,244" rendition="Line" xml:id="facs_238_r1l1"/>
@@ -73,9 +73,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_238" n="238" xml:id="img_0238"/>
+            <pb facs="#facs_238" n="238" xml:id="img_0238"/>
             
-            <ab  facs="#facs_238_r1">
+            <ab facs="#facs_238_r1">
                <lb facs="#facs_238_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_238_r1l2" n="N002"/>Societas Contract vide Prothocollum Secundum Mercantile
                <lb facs="#facs_238_r1l3" n="N003"/>fol: 36 <choice><expan/><abbr>nro</abbr></choice> 4 sub lit B.

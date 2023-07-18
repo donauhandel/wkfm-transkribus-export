@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_228">
+    <surface ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_228">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0282.jpg" width="2934px" height="4501px"/>
          <zone points="204,170 204,3396 2772,3396 2772,170" rendition="TextRegion" xml:id="facs_228_r1">
             <zone points="885,295 945,290 1005,285 1065,281 1126,277 1186,276 1246,276 1306,274 1367,274 1427,276 1487,276 1547,276 1608,277 1668,277 1728,277 1788,277 1849,276 1909,274 1969,272 2029,268 2090,264 2090,170 2029,174 1969,178 1909,180 1849,182 1788,183 1728,183 1668,183 1608,183 1547,182 1487,182 1427,182 1367,180 1306,180 1246,182 1186,182 1126,183 1065,187 1005,191 945,196 885,201" rendition="Line" xml:id="facs_228_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_228" n="228" xml:id="img_0228"/>
+            <pb facs="#facs_228" n="228" xml:id="img_0228"/>
             
-            <ab  facs="#facs_228_r1">
+            <ab facs="#facs_228_r1">
                <lb facs="#facs_228_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_228_r1l2" n="N002"/>Mitls Anbringen de ps: 28<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 743 N<hi style="superscript">o</hi> 1842 et 1845 hat der <rs type="person" ref="wkfm__43795">Pleyer</rs>
                <lb facs="#facs_228_r1l3" n="N003"/>wie auch der <rs type="person" ref="wkfm__43793">Johann Jacob Apold</rs> angezeiget, das er <rs type="person" ref="wkfm__43795">Pleyer</rs> mit dem

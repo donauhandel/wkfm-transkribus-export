@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3095" lry="4496" xml:id="facs_137">
+    <surface ulx="0" uly="0" lrx="3095" lry="4496" xml:id="facs_137">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0805.jpg" width="3095px" height="4496px"/>
          <zone points="92,221 92,3755 2835,3755 2835,221" rendition="TextRegion" xml:id="facs_137_r1">
             <zone points="2610,288 2755,288 2755,391 2610,391" rendition="Line" xml:id="facs_137_line_1629293685532_1386" subtype="page-number"/>
@@ -77,9 +77,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_137" n="137" xml:id="img_0137"/>
+            <pb facs="#facs_137" n="137" xml:id="img_0137"/>
             
-            <ab  facs="#facs_137_r1">
+            <ab facs="#facs_137_r1">
                <lb facs="#facs_137_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_137_r1l2" n="N003"/><rs type="person" ref="wkfm__47188">Fuljod Franz</rs> burgerlicher Handlsmann.
                <lb facs="#facs_137_r1l3" n="N004"/>Firma ad Raggion

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2953" lry="4400" xml:id="facs_76">
+    <surface ulx="0" uly="0" lrx="2953" lry="4400" xml:id="facs_76">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1428.jpg" width="2953px" height="4400px"/>
          <zone points="351,210 351,3396 2903,3396 2903,210" rendition="TextRegion" xml:id="facs_76_r2">
             <zone points="1137,370 1203,362 1269,355 1335,349 1402,346 1468,343 1534,342 1600,340 1667,340 1733,340 1799,340 1865,340 1932,340 1998,340 2064,339 2130,336 2197,332 2263,328 2329,321 2396,312 2396,210 2329,219 2263,226 2197,230 2130,234 2064,237 1998,238 1932,238 1865,238 1799,238 1733,238 1667,238 1600,238 1534,240 1468,241 1402,244 1335,247 1269,253 1203,260 1137,268" rendition="Line" xml:id="facs_76_r2l1"/>
@@ -71,9 +71,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_76" n="76" xml:id="img_0076"/>
+            <pb facs="#facs_76" n="76" xml:id="img_0076"/>
             
-            <ab  facs="#facs_76_r2">
+            <ab facs="#facs_76_r2">
                <lb facs="#facs_76_r2l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_76_r2l2" n="N002"/>Mitls Anbringen de ps: 9<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 741 N<hi style="superscript">o</hi> 2030 hat der <rs type="person" ref="wkfm__46738">Reindl</rs> <hi>angezeiget</hi>
                <lb facs="#facs_76_r2l3" n="N003"/>daß mit seinem bedienten <rs type="person" ref="wkfm__46741">Johann Georg Tschaßlowßky</rs> unter 21<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice>

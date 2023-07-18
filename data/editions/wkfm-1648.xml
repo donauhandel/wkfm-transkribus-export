@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2801" lry="4419" xml:id="facs_190">
+    <surface ulx="0" uly="0" lrx="2801" lry="4419" xml:id="facs_190">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1648.jpg" width="2801px" height="4419px"/>
          <zone points="222,129 222,3249 2730,3249 2730,129" rendition="TextRegion" xml:id="facs_190_r1">
             <zone points="1130,234 1192,225 1254,218 1316,213 1378,211 1440,209 1502,210 1564,211 1626,213 1688,215 1751,218 1813,221 1875,223 1937,224 1999,225 2061,224 2123,222 2185,218 2247,212 2309,203 2372,192 2372,129 2309,140 2247,149 2185,155 2123,159 2061,161 1999,162 1937,161 1875,160 1813,158 1751,155 1688,152 1626,150 1564,148 1502,147 1440,146 1378,148 1316,150 1254,155 1192,162 1130,171" rendition="Line" xml:id="facs_190_r1l1"/>
@@ -72,9 +72,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_190" n="190" xml:id="img_0190"/>
+            <pb facs="#facs_190" n="190" xml:id="img_0190"/>
             
-            <ab  facs="#facs_190_r1">
+            <ab facs="#facs_190_r1">
                <lb facs="#facs_190_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_190_r1l2" n="N002"/><seg type="wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_190_r1l3" n="N003"/>Mitls Anbringen de ps: 3<hi style="superscript">ten</hi> Junii 745 N<hi style="superscript">o</hi> 2243 hat der <rs type="person" ref="wkfm__43989">Schmitt</rs> den mit der

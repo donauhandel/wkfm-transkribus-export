@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3095" lry="4496" xml:id="facs_55">
+    <surface ulx="0" uly="0" lrx="3095" lry="4496" xml:id="facs_55">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0723.jpg" width="3095px" height="4496px"/>
          <zone points="335,222 335,3027 2688,3027 2688,222" rendition="TextRegion" xml:id="facs_55_r3">
             <zone points="2544,410 2572,413 2601,416 2630,417 2659,417 2688,419 2688,320 2659,318 2630,318 2601,317 2572,314 2544,311" rendition="Line" xml:id="facs_55_r3l2" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_55" n="55" xml:id="img_0055"/>
+            <pb facs="#facs_55" n="55" xml:id="img_0055"/>
             
-            <ab  facs="#facs_55_r3">
+            <ab facs="#facs_55_r3">
                <lb facs="#facs_55_r3l2" n="N001"/>359
                <lb facs="#facs_55_line_1621537289672_533" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_55_r3l3" n="N003"/><rs type="person" ref="wkfm__14199">Fritsch Johann</rs> burgerlicher Eysenhandler

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2929" lry="4455" xml:id="facs_100">
+    <surface ulx="0" uly="0" lrx="2929" lry="4455" xml:id="facs_100">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1558.jpg" width="2929px" height="4455px"/>
          <zone points="233,145 233,3323 2826,3323 2826,145" rendition="TextRegion" xml:id="facs_100_r1">
             <zone points="1076,281 1141,272 1207,263 1273,257 1339,252 1404,249 1470,246 1536,245 1602,245 1667,245 1733,245 1799,246 1865,246 1930,246 1996,246 2062,246 2128,245 2193,242 2259,238 2325,233 2391,227 2391,145 2325,151 2259,156 2193,160 2128,163 2062,164 1996,164 1930,164 1865,164 1799,164 1733,163 1667,163 1602,163 1536,163 1470,164 1404,167 1339,170 1273,175 1207,181 1141,190 1076,199" rendition="Line" xml:id="facs_100_r1l1"/>
@@ -70,9 +70,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_100" n="100" xml:id="img_0100"/>
+            <pb facs="#facs_100" n="100" xml:id="img_0100"/>
             
-            <ab  facs="#facs_100_r1">
+            <ab facs="#facs_100_r1">
                <lb facs="#facs_100_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_100_r1l2" n="N002"/>In obigen Anbringen de ps: 10<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 726 N<hi style="superscript">o</hi> 2043 und oblatorien dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> ej:
                <lb facs="#facs_100_r1l3" n="N003"/>N<hi style="superscript">o</hi> 1141 hat der <rs type="person" ref="wkfm__43782">Anton Segalla</rs> und <rs type="person" ref="wkfm__47467">Domenico Bigongini</rs> respective ange-

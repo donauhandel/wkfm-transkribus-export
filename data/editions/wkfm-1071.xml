@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3057" lry="4521" xml:id="facs_7">
+    <surface ulx="0" uly="0" lrx="3057" lry="4521" xml:id="facs_7">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1071.jpg" width="3057px" height="4521px"/>
          <zone points="245,194 245,3548 2844,3548 2844,194" rendition="TextRegion" xml:id="facs_7_r1">
             <zone points="2616,393 2645,396 2674,396 2703,395 2732,393 2762,393 2762,312 2732,312 2703,314 2674,315 2645,315 2616,312" rendition="Line" xml:id="facs_7_r1l2" subtype="page-number"/>
@@ -76,9 +76,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_7" n="7" xml:id="img_0007"/>
+            <pb facs="#facs_7" n="7" xml:id="img_0007"/>
             
-            <ab  facs="#facs_7_r1">
+            <ab facs="#facs_7_r1">
                <lb facs="#facs_7_r1l2" n="N001"/>529
                <lb facs="#facs_7_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_7_r1l3" n="N003"/><rs type="person" ref="wkfm__8746">Jenamy Gerasius</rs> burgerlicher Handlsmann

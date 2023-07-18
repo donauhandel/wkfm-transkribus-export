@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2973" lry="4391" xml:id="facs_77">
+    <surface ulx="0" uly="0" lrx="2973" lry="4391" xml:id="facs_77">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1429.jpg" width="2973px" height="4391px"/>
          <zone points="155,197 155,2979 2780,2979 2780,197" rendition="TextRegion" xml:id="facs_77_r1">
             <zone points="2600,460 2626,462 2652,463 2679,463 2705,465 2732,463 2732,396 2705,398 2679,396 2652,396 2626,395 2600,393" rendition="Line" xml:id="facs_77_r1l2" subtype="page-number"/>
@@ -78,9 +78,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_77" n="77" xml:id="img_0077"/>
+            <pb facs="#facs_77" n="77" xml:id="img_0077"/>
             
-            <ab  facs="#facs_77_r1">
+            <ab facs="#facs_77_r1">
                <lb facs="#facs_77_r1l2" n="N001"/>707
                <lb facs="#facs_77_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_77_r1l3" n="N003"/><rs type="person" ref="wkfm__46169">Rathgeb Melchior</rs> burgerlicher Handlsmann

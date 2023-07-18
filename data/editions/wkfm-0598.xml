@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3003" lry="4530" xml:id="facs_98">
+    <surface ulx="0" uly="0" lrx="3003" lry="4530" xml:id="facs_98">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0598.jpg" width="3003px" height="4530px"/>
          <zone points="270,224 270,3351 2538,3351 2538,224" rendition="TextRegion" xml:id="facs_98_r1">
             <zone points="1212,300 1278,301 1344,304 1410,307 1477,311 1543,315 1609,319 1676,323 1742,327 1808,331 1875,335 1941,339 2007,343 2073,346 2140,349 2206,352 2272,354 2339,355 2405,357 2471,357 2538,357 2538,281 2471,281 2405,281 2339,279 2272,278 2206,276 2140,273 2073,270 2007,267 1941,263 1875,259 1808,255 1742,251 1676,247 1609,243 1543,239 1477,235 1410,231 1344,228 1278,225 1212,224" rendition="Line" xml:id="facs_98_r1l1"/>
@@ -75,9 +75,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_98" n="98" xml:id="img_0098"/>
+            <pb facs="#facs_98" n="98" xml:id="img_0098"/>
             
-            <ab  facs="#facs_98_r1">
+            <ab facs="#facs_98_r1">
                <lb facs="#facs_98_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_98_r1l2" n="N002"/><seg type="wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_98_r1l3" n="N003"/>Anno 766 hat der <rs type="person" ref="wkfm__46279">Simon Anton Denk</rs> seinen mit der <rs type="person" ref="wkfm__46281">Anna

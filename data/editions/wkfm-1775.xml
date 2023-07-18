@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3015" lry="4468" xml:id="facs_69">
+    <surface ulx="0" uly="0" lrx="3015" lry="4468" xml:id="facs_69">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1775.jpg" width="3015px" height="4468px"/>
          <zone points="156,220 156,3091 2799,3091 2799,220" rendition="TextRegion" xml:id="facs_69_r2">
             <zone points="2664,412 2691,412 2718,412 2745,412 2772,412 2799,412 2799,315 2772,315 2745,315 2718,315 2691,315 2664,315" rendition="Line" xml:id="facs_69_r2l2" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_69" n="69" xml:id="img_0069"/>
+            <pb facs="#facs_69" n="69" xml:id="img_0069"/>
             
-            <ab  facs="#facs_69_r2">
+            <ab facs="#facs_69_r2">
                <lb facs="#facs_69_r2l2" n="N001"/>880
                <lb facs="#facs_69_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_69_r2l3" n="N003"/><rs type="person" ref="wkfm__47000">Wimmer Johann Georg</rs> burgerlicher Handlsmann

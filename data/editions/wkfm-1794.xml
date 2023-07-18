@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2937" lry="4476" xml:id="facs_88">
+    <surface ulx="0" uly="0" lrx="2937" lry="4476" xml:id="facs_88">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1794.jpg" width="2937px" height="4476px"/>
          <zone points="206,242 206,3385 2834,3374 2834,231" rendition="TextRegion" xml:id="facs_88_r1">
             <zone points="879,351 945,344 1011,339 1077,336 1143,336 1209,336 1275,336 1341,339 1407,342 1473,345 1540,350 1606,354 1672,358 1738,361 1804,365 1870,367 1936,370 2002,370 2068,370 2134,369 2201,364 2201,270 2134,275 2068,276 2002,276 1936,276 1870,273 1804,271 1738,267 1672,264 1606,260 1540,256 1473,251 1407,248 1341,245 1275,242 1209,242 1143,242 1077,242 1011,245 945,250 879,257" rendition="Line" xml:id="facs_88_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_88" n="88" xml:id="img_0088"/>
+            <pb facs="#facs_88" n="88" xml:id="img_0088"/>
             
-            <ab  facs="#facs_88_r1">
+            <ab facs="#facs_88_r1">
                <lb facs="#facs_88_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_88_r1l2" n="N002"/>In obigen Anbringen de ps: 27<hi style="superscript">ten</hi> Junii 735 N<hi style="superscript">o</hi> 826 hat sich der <rs type="person" ref="wkfm__29902">Wolfmayr</rs>
                <lb facs="#facs_88_r1l3" n="N003"/>erklähret, das er keinen Compagnon habe

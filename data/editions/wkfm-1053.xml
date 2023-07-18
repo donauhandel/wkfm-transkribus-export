@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3057" lry="4521" xml:id="facs_133">
+    <surface ulx="0" uly="0" lrx="3057" lry="4521" xml:id="facs_133">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1053.jpg" width="3057px" height="4521px"/>
          <zone points="168,228 168,3072 2799,3078 2799,234" rendition="TextRegion" xml:id="facs_133_r3">
             <zone points="175,308 272,308 272,426 175,426" rendition="Line" xml:id="facs_133_line_1624882785087_419"/>
@@ -71,9 +71,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_133" n="133" xml:id="img_0133"/>
+            <pb facs="#facs_133" n="133" xml:id="img_0133"/>
             
-            <ab  facs="#facs_133_r3">
+            <ab facs="#facs_133_r3">
                <lb facs="#facs_133_r3l2" n="N002"/>520
                <lb facs="#facs_133_r3l1" n="N003"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_133_r3l3" n="N004"/><rs type="person" ref="wkfm__46563">Hueber Johann Georg</rs> burgerlicher Handlsmann

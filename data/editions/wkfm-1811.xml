@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2936" lry="4468" xml:id="facs_105">
+    <surface ulx="0" uly="0" lrx="2936" lry="4468" xml:id="facs_105">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1811.jpg" width="2936px" height="4468px"/>
          <zone points="131,233 131,4222 2811,4222 2811,233" rendition="TextRegion" xml:id="facs_105_r1">
             <zone points="2643,378 2671,379 2699,381 2727,383 2755,384 2783,383 2811,381 2811,323 2783,325 2755,326 2727,325 2699,323 2671,321 2643,320" rendition="Line" xml:id="facs_105_r1l2" subtype="page-number"/>
@@ -82,9 +82,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_105" n="105" xml:id="img_0105"/>
+            <pb facs="#facs_105" n="105" xml:id="img_0105"/>
             
-            <ab  facs="#facs_105_r1">
+            <ab facs="#facs_105_r1">
                <lb facs="#facs_105_r1l2" n="N001"/>898
                <lb facs="#facs_105_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_105_r1l3" n="N003"/><rs type="person" ref="wkfm__47032">Weygarth Johann</rs> burgerlicher Handlsmann

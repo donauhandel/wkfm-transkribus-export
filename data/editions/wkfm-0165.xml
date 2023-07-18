@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2954" lry="4473" xml:id="facs_112">
+    <surface ulx="0" uly="0" lrx="2954" lry="4473" xml:id="facs_112">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0165.jpg" width="2954px" height="4473px"/>
          <zone points="486,234 486,3343 2829,3343 2829,234" rendition="TextRegion" xml:id="facs_112_r1">
             <zone points="981,349 1054,350 1127,352 1200,354 1273,356 1346,358 1419,360 1492,362 1565,364 1638,367 1711,368 1784,370 1857,371 1930,373 2003,373 2076,374 2149,374 2222,374 2295,373 2368,371 2442,370 2442,255 2368,256 2295,258 2222,259 2149,259 2076,259 2003,258 1930,258 1857,256 1784,255 1711,253 1638,252 1565,249 1492,247 1419,245 1346,243 1273,241 1200,239 1127,237 1054,235 981,234" rendition="Line" xml:id="facs_112_r1l1"/>
@@ -68,9 +68,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_112" n="112" xml:id="img_0112"/>
+            <pb facs="#facs_112" n="112" xml:id="img_0112"/>
             
-            <ab  facs="#facs_112_r1">
+            <ab facs="#facs_112_r1">
                <lb facs="#facs_112_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_112_r1l2" n="N002"/>In obigen Anbringen de ps: 5<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 725 N<hi style="superscript">o</hi> 74 ist die Erklährung
                <lb facs="#facs_112_r1l3" n="N003"/>gemacht worden, daß unter dieser Raggion der <rs type="person" ref="wkfm__8574">Joseph,</rs> <rs type="person" ref="wkfm__43889">Hierony-</rs>

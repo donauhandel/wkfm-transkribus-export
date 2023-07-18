@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2982" lry="4501" xml:id="facs_90">
+    <surface ulx="0" uly="0" lrx="2982" lry="4501" xml:id="facs_90">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0410.jpg" width="2982px" height="4501px"/>
          <zone points="383,247 383,3425 2805,3425 2805,247" rendition="TextRegion" xml:id="facs_90_r1">
             <zone points="1022,431 1090,422 1158,414 1226,407 1294,402 1362,397 1430,394 1499,392 1567,391 1635,391 1703,389 1771,389 1839,391 1907,391 1976,391 2044,391 2112,389 2180,389 2248,386 2316,383 2385,380 2385,247 2316,250 2248,253 2180,256 2112,256 2044,258 1976,258 1907,258 1839,258 1771,256 1703,256 1635,258 1567,258 1499,259 1430,261 1362,264 1294,269 1226,274 1158,281 1090,289 1022,298" rendition="Line" xml:id="facs_90_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_90" n="90" xml:id="img_0090"/>
+            <pb facs="#facs_90" n="90" xml:id="img_0090"/>
             
-            <ab  facs="#facs_90_r1">
+            <ab facs="#facs_90_r1">
                <lb facs="#facs_90_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_90_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Jul:</abbr></choice> 726 N<hi style="superscript">o</hi> 201 hat sich der 
                <lb facs="#facs_90_r1l3" n="N003"/><rs type="person" ref="wkfm__46125">Kern</rs> geäusseret, daß er seine Handlung für sich allein habe

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3003" lry="4530" xml:id="facs_60">
+    <surface ulx="0" uly="0" lrx="3003" lry="4530" xml:id="facs_60">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0560.jpg" width="3003px" height="4530px"/>
          <zone points="447,225 447,3470 2843,3470 2843,225" rendition="TextRegion" xml:id="facs_60_r1">
             <zone points="1212,349 1275,349 1338,349 1402,350 1465,352 1529,353 1592,357 1656,361 1719,364 1783,367 1846,370 1909,373 1973,376 2036,377 2100,379 2163,379 2227,379 2290,377 2354,376 2417,371 2481,365 2481,241 2417,247 2354,252 2290,253 2227,255 2163,255 2100,255 2036,253 1973,252 1909,249 1846,246 1783,243 1719,240 1656,237 1592,233 1529,229 1465,228 1402,226 1338,225 1275,225 1212,225" rendition="Line" xml:id="facs_60_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_60" n="60" xml:id="img_0060"/>
+            <pb facs="#facs_60" n="60" xml:id="img_0060"/>
             
-            <ab  facs="#facs_60_r1">
+            <ab facs="#facs_60_r1">
                <lb facs="#facs_60_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_60_r1l2" n="N002"/>In obigen Anbringen de ps: 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 725 N<hi style="superscript">o</hi> 271 hat sich der
                <lb facs="#facs_60_r1l3" n="N003"/><rs type="person" ref="wkfm__40184">Trenckher</rs> erklähret, das er keinen Compagnon habe

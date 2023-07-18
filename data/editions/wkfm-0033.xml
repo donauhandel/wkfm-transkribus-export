@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2934" lry="4530" xml:id="facs_28">
+    <surface ulx="0" uly="0" lrx="2934" lry="4530" xml:id="facs_28">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0033.jpg" width="2934px" height="4530px"/>
          <zone points="243,270 243,3462 2637,3462 2637,270" rendition="TextRegion" xml:id="facs_28_r1">
             <zone points="807,391 866,390 926,390 985,388 1045,387 1105,385 1164,384 1224,384 1284,382 1343,382 1403,381 1463,381 1522,381 1582,381 1642,382 1701,384 1761,384 1821,387 1880,388 1940,392 2000,394 2000,283 1940,281 1880,277 1821,276 1761,273 1701,273 1642,271 1582,270 1522,270 1463,270 1403,270 1343,271 1284,271 1224,273 1164,273 1105,274 1045,276 985,277 926,279 866,279 807,280" rendition="Line" xml:id="facs_28_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_28" n="28" xml:id="img_0028"/>
+            <pb facs="#facs_28" n="28" xml:id="img_0028"/>
             
-            <ab  facs="#facs_28_r1">
+            <ab facs="#facs_28_r1">
                <lb facs="#facs_28_r1l1" n="N001"/>Societats Contract und Interessenten
                <lb facs="#facs_28_r1l2" n="N002"/>In obigen Anbringen de ps: 12<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 14 hat sich der <rs type="person" ref="wkfm__43790">Albertanj</rs>
                <lb facs="#facs_28_r1l3" n="N003"/>erklähret, das er weder Compagnon noch interessenten habe.

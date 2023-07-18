@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2982" lry="4473" xml:id="facs_106">
+    <surface ulx="0" uly="0" lrx="2982" lry="4473" xml:id="facs_106">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0426.jpg" width="2982px" height="4473px"/>
          <zone points="210,200 210,3314 2823,3314 2823,200" rendition="TextRegion" xml:id="facs_106_r1">
             <zone points="1089,281 1155,277 1221,275 1288,272 1354,272 1421,272 1487,272 1554,272 1620,273 1687,275 1753,277 1819,279 1886,281 1952,282 2019,284 2085,285 2152,285 2218,287 2285,285 2351,284 2418,282 2418,210 2351,212 2285,213 2218,215 2152,213 2085,213 2019,212 1952,210 1886,209 1819,207 1753,205 1687,203 1620,201 1554,200 1487,200 1421,200 1354,200 1288,200 1221,203 1155,205 1089,209" rendition="Line" xml:id="facs_106_r1l1"/>
@@ -75,9 +75,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_106" n="106" xml:id="img_0106"/>
+            <pb facs="#facs_106" n="106" xml:id="img_0106"/>
             
-            <ab  facs="#facs_106_r1">
+            <ab facs="#facs_106_r1">
                <lb facs="#facs_106_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_106_r1l2" n="N002"/>In obigen Anbringen de ps: 17<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 733 N<hi style="superscript">o</hi> 208 hat <hi>der</hi> sich der <rs type="person" ref="wkfm__23514">Kall-
                <lb break="no" facs="#facs_106_r1l3" n="N003"/>münzer</rs> erklähret, das er keinen interessenten habe.

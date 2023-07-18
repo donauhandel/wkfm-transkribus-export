@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_58">
+    <surface ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_58">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0378.jpg" width="2934px" height="4501px"/>
          <zone points="357,219 357,3369 2871,3369 2871,219" rendition="TextRegion" xml:id="facs_58_r1">
             <zone points="989,349 1054,343 1120,339 1186,333 1252,331 1317,328 1383,327 1449,325 1515,324 1580,324 1646,324 1712,324 1778,324 1843,325 1909,325 1975,325 2041,325 2106,325 2172,325 2238,324 2304,322 2304,219 2238,221 2172,222 2106,222 2041,222 1975,222 1909,222 1843,222 1778,221 1712,221 1646,221 1580,221 1515,221 1449,222 1383,224 1317,225 1252,228 1186,230 1120,236 1054,240 989,246" rendition="Line" xml:id="facs_58_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_58" n="58" xml:id="img_0058"/>
+            <pb facs="#facs_58" n="58" xml:id="img_0058"/>
             
-            <ab  facs="#facs_58_r1">
+            <ab facs="#facs_58_r1">
                <lb facs="#facs_58_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_58_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 187 hat sich
                <lb facs="#facs_58_r1l3" n="N003"/>der <rs type="person" ref="wkfm__40943">Kratzer</rs> geäusseret das er ohne Compagnon für sich allein

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4437" xml:id="facs_64">
+    <surface ulx="0" uly="0" lrx="2994" lry="4437" xml:id="facs_64">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0984.jpg" width="2994px" height="4437px"/>
          <zone points="384,205 384,3375 2793,3375 2793,205" rendition="TextRegion" xml:id="facs_64_r1">
             <zone points="1133,329 1190,324 1248,321 1306,318 1364,315 1422,314 1480,314 1538,314 1596,314 1654,314 1712,315 1769,315 1827,317 1885,318 1943,319 2001,320 2059,321 2117,321 2175,321 2233,320 2291,320 2291,211 2233,211 2175,212 2117,212 2059,212 2001,211 1943,210 1885,209 1827,208 1769,206 1712,206 1654,205 1596,205 1538,205 1480,205 1422,205 1364,206 1306,209 1248,212 1190,215 1133,220" rendition="Line" xml:id="facs_64_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_64" n="64" xml:id="img_0064"/>
+            <pb facs="#facs_64" n="64" xml:id="img_0064"/>
             
-            <ab  facs="#facs_64_r1">
+            <ab facs="#facs_64_r1">
                <lb facs="#facs_64_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_64_r1l2" n="N002"/>In obigen Anbringen de ps: 27<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 725 N<hi style="superscript">o</hi> 455 hat sich der
                <lb facs="#facs_64_r1l3" n="N003"/><rs type="person" ref="wkfm__46482">Hueber</rs> erklähret, daß er keinen Compagnon habe

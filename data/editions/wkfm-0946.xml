@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4520" xml:id="facs_26">
+    <surface ulx="0" uly="0" lrx="2994" lry="4520" xml:id="facs_26">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0946.jpg" width="2994px" height="4520px"/>
          <zone points="315,222 315,3430 2724,3430 2724,222" rendition="TextRegion" xml:id="facs_26_r1">
             <zone points="1121,363 1182,358 1244,354 1305,351 1367,349 1429,347 1490,346 1552,346 1614,345 1675,345 1737,346 1799,346 1860,346 1922,346 1984,346 2045,345 2107,345 2169,342 2230,340 2292,336 2354,333 2354,222 2292,225 2230,229 2169,231 2107,234 2045,234 1984,235 1922,235 1860,235 1799,235 1737,235 1675,234 1614,234 1552,235 1490,235 1429,236 1367,238 1305,240 1244,243 1182,247 1121,252" rendition="Line" xml:id="facs_26_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_26" n="26" xml:id="img_0026"/>
+            <pb facs="#facs_26" n="26" xml:id="img_0026"/>
             
-            <ab  facs="#facs_26_r1">
+            <ab facs="#facs_26_r1">
                <lb facs="#facs_26_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_26_r1l2" n="N002"/>In obigen Anbringen de ps: 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 437 hat sich der 
                <lb facs="#facs_26_r1l3" n="N003"/><rs type="person" ref="wkfm__46449">Hölbling</rs> erklähret, daß er keinen Compagnon habe.

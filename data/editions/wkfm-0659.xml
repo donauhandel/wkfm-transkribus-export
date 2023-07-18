@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2963" lry="4566" xml:id="facs_39">
+    <surface ulx="0" uly="0" lrx="2963" lry="4566" xml:id="facs_39">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0659.jpg" width="2963px" height="4566px"/>
          <zone points="183,205 183,3050 2790,3050 2790,205" rendition="TextRegion" xml:id="facs_39_r1">
             <zone points="2613,373 2639,374 2665,374 2691,376 2717,375 2743,373 2769,370 2769,291 2743,294 2717,296 2691,297 2665,295 2639,295 2613,294" rendition="Line" xml:id="facs_39_r1l2" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_39" n="39" xml:id="img_0039"/>
+            <pb facs="#facs_39" n="39" xml:id="img_0039"/>
             
-            <ab  facs="#facs_39_r1">
+            <ab facs="#facs_39_r1">
                <lb facs="#facs_39_r1l2" n="N001"/>327
                <lb facs="#facs_39_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_39_line_1619369737593_237" n="N003"/><rs type="person" ref="wkfm__46433">Ehrnhofer Johann Urban</rs> burgerlicher Handlsmann

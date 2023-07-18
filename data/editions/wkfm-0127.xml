@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2954" lry="4435" xml:id="facs_74">
+    <surface ulx="0" uly="0" lrx="2954" lry="4435" xml:id="facs_74">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0127.jpg" width="2954px" height="4435px"/>
          <zone points="458,151 458,3243 2865,3243 2865,151" rendition="TextRegion" xml:id="facs_74_r1">
             <zone points="788,199 867,204 947,207 1026,210 1106,214 1185,218 1265,222 1344,225 1424,229 1503,232 1583,235 1662,238 1742,241 1821,244 1901,247 1980,251 2060,255 2139,258 2219,261 2298,265 2378,268 2378,220 2298,217 2219,213 2139,210 2060,207 1980,203 1901,199 1821,196 1742,193 1662,190 1583,187 1503,184 1424,181 1344,177 1265,174 1185,170 1106,166 1026,162 947,159 867,156 788,151" rendition="Line" xml:id="facs_74_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_74" n="74" xml:id="img_0074"/>
+            <pb facs="#facs_74" n="74" xml:id="img_0074"/>
             
-            <ab  facs="#facs_74_r1">
+            <ab facs="#facs_74_r1">
                <lb facs="#facs_74_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_74_r1l2" n="N002"/>dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> <unclear>55</unclear>
                <lb facs="#facs_74_r1l3" n="N003"/>In obiger Erklährung hat sich der <rs type="person" ref="wkfm__9612">Pommer</rs> geäusseret das er

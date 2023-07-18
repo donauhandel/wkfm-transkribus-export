@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3134" lry="4521" xml:id="facs_15">
+    <surface ulx="0" uly="0" lrx="3134" lry="4521" xml:id="facs_15">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1115.jpg" width="3134px" height="4521px"/>
          <zone points="255,248 255,3071 2888,3071 2888,248" rendition="TextRegion" xml:id="facs_15_r1">
             <zone points="2754,458 2779,455 2804,455 2829,456 2854,456 2879,456 2879,375 2854,375 2829,375 2804,374 2779,374 2754,377" rendition="Line" xml:id="facs_15_r1l2" subtype="page-number"/>
@@ -70,9 +70,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_15" n="15" xml:id="img_0015"/>
+            <pb facs="#facs_15" n="15" xml:id="img_0015"/>
             
-            <ab  facs="#facs_15_r1">
+            <ab facs="#facs_15_r1">
                <lb facs="#facs_15_r1l2" n="N001"/>551
                <lb facs="#facs_15_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_15_r1l3" n="N003"/><rs type="person" ref="wkfm__26314">Lüders Johann</rs> hofbefreyter Handlsmann

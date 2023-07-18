@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2929" lry="4455" xml:id="facs_58">
+    <surface ulx="0" uly="0" lrx="2929" lry="4455" xml:id="facs_58">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1516.jpg" width="2929px" height="4455px"/>
          <graphic url="" width="2929px" height="4455px"/>
          <zone points="263,142 263,3311 2814,3311 2814,142" rendition="TextRegion" xml:id="facs_58_r1">
@@ -68,9 +68,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_58" n="58" xml:id="img_0058"/>
+            <pb facs="#facs_58" n="58" xml:id="img_0058"/>
             
-            <ab  facs="#facs_58_r1">
+            <ab facs="#facs_58_r1">
                <lb facs="#facs_58_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_58_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 684 hat sich die
                <lb facs="#facs_58_r1l5" n="N003"/><rs type="person" ref="wkfm__47434">Stockhamerin</rs> geäusseret, das sie ihre Handlung in proprio für sich

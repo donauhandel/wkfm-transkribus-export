@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_224">
+    <surface ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_224">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0278.jpg" width="2934px" height="4501px"/>
          <zone points="163,215 163,3314 2803,3333 2803,234" rendition="TextRegion" xml:id="facs_224_r1">
             <zone points="827,311 899,307 972,303 1044,301 1117,299 1190,299 1262,299 1335,301 1408,301 1480,304 1553,305 1626,308 1698,310 1771,313 1844,315 1916,317 1989,320 2062,322 2134,322 2207,323 2280,323 2280,271 2207,271 2134,270 2062,270 1989,268 1916,265 1844,263 1771,261 1698,258 1626,256 1553,253 1480,252 1408,249 1335,249 1262,247 1190,247 1117,247 1044,249 972,251 899,255 827,259" rendition="Line" xml:id="facs_224_r1l1"/>
@@ -82,9 +82,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_224" n="224" xml:id="img_0224"/>
+            <pb facs="#facs_224" n="224" xml:id="img_0224"/>
             
-            <ab  facs="#facs_224_r1">
+            <ab facs="#facs_224_r1">
                <lb facs="#facs_224_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_224_r1l2" n="N002"/>Der <rs type="person" ref="wkfm__43960">Perkhman</rs> hat mit seinem Bedienten <rs type="person" ref="wkfm__43961">Johann Carl Pertzinger</rs> untern 16<hi style="superscript">ten</hi>
                <lb facs="#facs_224_r1l3" n="N003"/><choice><expan/><abbr>8br:</abbr></choice> 741 den N<hi style="superscript">o</hi> 1873 in <choice><expan/><abbr>orig:</abbr></choice> eingelegten societaets Contract abgeschlossen, kraft 

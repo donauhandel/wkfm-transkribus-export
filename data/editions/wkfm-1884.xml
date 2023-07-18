@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2893" lry="4398" xml:id="facs_30">
+    <surface ulx="0" uly="0" lrx="2893" lry="4398" xml:id="facs_30">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1884.jpg" width="2893px" height="4398px"/>
          <zone points="249,118 249,3292 2694,3292 2694,118" rendition="TextRegion" xml:id="facs_30_r1">
             <zone points="1107,245 1169,242 1231,241 1293,242 1355,243 1417,246 1479,249 1541,253 1603,256 1665,260 1727,263 1789,267 1851,270 1913,272 1975,274 2037,272 2099,271 2161,268 2223,263 2286,256 2286,133 2223,140 2161,145 2099,148 2037,149 1975,151 1913,149 1851,147 1789,144 1727,140 1665,137 1603,133 1541,130 1479,126 1417,123 1355,120 1293,119 1231,118 1169,119 1107,122" rendition="Line" xml:id="facs_30_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_30" n="30" xml:id="img_0030"/>
+            <pb facs="#facs_30" n="30" xml:id="img_0030"/>
             
-            <ab  facs="#facs_30_r1">
+            <ab facs="#facs_30_r1">
                <lb facs="#facs_30_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_30_r1l2" n="N002"/>In obigen Anbringen de ps: 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 863 hat sich der
                <lb facs="#facs_30_r1l3" n="N003"/><rs type="person" ref="wkfm__18522">Spitz</rs> erklähret, das er keinen Compagnon noch interessenten habe.

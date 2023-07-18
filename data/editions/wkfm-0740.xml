@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_72">
+    <surface ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_72">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0740.jpg" width="2994px" height="4530px"/>
          <zone points="357,277 357,3447 2966,3447 2966,277" rendition="TextRegion" xml:id="facs_72_r1">
             <zone points="1346,372 1412,371 1478,368 1545,368 1611,366 1677,366 1744,366 1810,366 1876,366 1943,366 2009,366 2075,366 2142,365 2208,365 2274,363 2341,361 2407,359 2473,355 2540,351 2606,345 2673,341 2673,277 2606,281 2540,287 2473,291 2407,295 2341,297 2274,299 2208,301 2142,301 2075,302 2009,302 1943,302 1876,302 1810,302 1744,302 1677,302 1611,302 1545,304 1478,304 1412,307 1346,308" rendition="Line" xml:id="facs_72_r1l1"/>
@@ -79,9 +79,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_72" n="72" xml:id="img_0072"/>
+            <pb facs="#facs_72" n="72" xml:id="img_0072"/>
             
-            <ab  facs="#facs_72_r1">
+            <ab facs="#facs_72_r1">
                <lb facs="#facs_72_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_72_line_1621550151391_1654" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 12 <choice><expan/><abbr>Apr:</abbr></choice> 731 N<hi style="superscript">o</hi> 1934 hat sich der <rs type="person" ref="wkfm__21998">Peter
                <lb break="no" facs="#facs_72_r1l3" n="N003"/>Vernay</rs> und <rs type="person" ref="wkfm__43912">Ferdinand Pörner</rs> <hi>mit ererklähret</hi> geäusseret das sie

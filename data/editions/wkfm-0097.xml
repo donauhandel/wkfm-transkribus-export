@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2991" lry="4378" xml:id="facs_44">
+    <surface ulx="0" uly="0" lrx="2991" lry="4378" xml:id="facs_44">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0097.jpg" width="2991px" height="4378px"/>
          <zone points="455,124 455,3196 2862,3196 2862,124" rendition="TextRegion" xml:id="facs_44_r1">
             <zone points="818,228 891,227 965,226 1039,226 1113,226 1187,228 1260,228 1334,229 1408,231 1482,232 1556,234 1629,235 1703,237 1777,238 1851,240 1925,243 1998,244 2072,246 2146,247 2220,248 2294,249 2294,147 2220,146 2146,145 2072,144 1998,142 1925,141 1851,138 1777,136 1703,135 1629,133 1556,132 1482,130 1408,129 1334,127 1260,126 1187,126 1113,124 1039,124 965,124 891,125 818,126" rendition="Line" xml:id="facs_44_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_44" n="44" xml:id="img_0044"/>
+            <pb facs="#facs_44" n="44" xml:id="img_0044"/>
             
-            <ab  facs="#facs_44_r1">
+            <ab facs="#facs_44_r1">
                <lb facs="#facs_44_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_44_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 14<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 40 hat sich der <rs type="person" ref="wkfm__9058">Bara
                <lb break="no" facs="#facs_44_r1l3" n="N003"/>chino</rs> geäusseret das mit ihm niehmand interessieret seye.

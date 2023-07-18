@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2964" lry="4502" xml:id="facs_158">
+    <surface ulx="0" uly="0" lrx="2964" lry="4502" xml:id="facs_158">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0212.jpg" width="2964px" height="4502px"/>
          <zone points="411,149 411,3350 2868,3350 2868,149" rendition="TextRegion" xml:id="facs_158_r1">
             <zone points="1097,258 1170,258 1243,258 1317,258 1390,258 1464,258 1537,258 1610,258 1684,258 1757,258 1831,257 1904,257 1977,255 2051,255 2124,254 2198,252 2271,251 2344,248 2418,246 2491,243 2565,240 2565,149 2491,152 2418,155 2344,157 2271,160 2198,161 2124,163 2051,164 1977,164 1904,166 1831,166 1757,167 1684,167 1610,167 1537,167 1464,167 1390,167 1317,167 1243,167 1170,167 1097,167" rendition="Line" xml:id="facs_158_r1l1"/>
@@ -72,9 +72,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_158" n="158" xml:id="img_0158"/>
+            <pb facs="#facs_158" n="158" xml:id="img_0158"/>
             
-            <ab  facs="#facs_158_r1">
+            <ab facs="#facs_158_r1">
                <lb facs="#facs_158_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_158_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 12<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 731 N<hi style="superscript">o</hi> 1934 hat sich der <rs type="person" ref="wkfm__21998">Peter
                <lb break="no" facs="#facs_158_r1l3" n="N003"/>Vernay</rs> und <rs type="person" ref="wkfm__43912">Ferdinand Pörner</rs> erklähret, daß sie unter der Societaets

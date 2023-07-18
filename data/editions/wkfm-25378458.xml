@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3105" lry="4455" xml:id="facs_7">
+    <surface ulx="0" uly="0" lrx="3105" lry="4455" xml:id="facs_7">
          <graphic url="25378458.jpg" width="3105px" height="4455px"/>
          <graphic url="https://files.transkribus.eu/Get?id=RQNVHCONJMCZEWMBTJUOHZAS&amp;fileType=view" width="3105px" height="4455px"/>
          <zone points="2606,272 2606,472 2810,472 2810,272" rendition="TextRegion" xml:id="facs_7_r2" subtype="page-number">
@@ -73,9 +73,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_7" n="7" xml:id="img_0007"/>
+            <pb facs="#facs_7" n="7" xml:id="img_0007"/>
             
-            <ab  facs="#facs_7_r2" type="page-number">
+            <ab facs="#facs_7_r2" type="page-number">
                <lb facs="#facs_7_r2l1" n="N001"/><hi>529</hi>
                <lb facs="#facs_7_r2l2" n="N002"/>642
             </ab>

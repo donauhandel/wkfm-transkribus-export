@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_48">
+    <surface ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_48">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0716.jpg" width="2994px" height="4530px"/>
          <zone points="423,206 423,3394 2916,3394 2916,206" rendition="TextRegion" xml:id="facs_48_r1">
             <zone points="1314,334 1375,331 1437,331 1498,329 1560,329 1622,330 1683,331 1745,332 1807,334 1868,335 1930,337 1992,338 2053,340 2115,341 2177,343 2238,344 2300,344 2362,344 2423,344 2485,343 2547,341 2547,218 2485,220 2423,221 2362,221 2300,221 2238,221 2177,220 2115,218 2053,217 1992,215 1930,214 1868,212 1807,211 1745,209 1683,208 1622,207 1560,206 1498,206 1437,208 1375,208 1314,211" rendition="Line" xml:id="facs_48_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_48" n="48" xml:id="img_0048"/>
+            <pb facs="#facs_48" n="48" xml:id="img_0048"/>
             
-            <ab  facs="#facs_48_r1">
+            <ab facs="#facs_48_r1">
                <lb facs="#facs_48_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_48_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 339 hat sich
                <lb facs="#facs_48_r1l3" n="N003"/>der <rs type="person" ref="wkfm__18166">Unger</rs> geausseret das er keinen Compagnon noch interessenten

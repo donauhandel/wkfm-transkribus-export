@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2945" lry="4468" xml:id="facs_237">
+    <surface ulx="0" uly="0" lrx="2945" lry="4468" xml:id="facs_237">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1695.jpg" width="2945px" height="4468px"/>
          <graphic url="" width="2945px" height="4468px"/>
          <zone points="140,148 140,4248 2765,4248 2765,148" rendition="TextRegion" xml:id="facs_237_r2">
@@ -88,9 +88,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_237" n="237" xml:id="img_0237"/>
+            <pb facs="#facs_237" n="237" xml:id="img_0237"/>
             
-            <ab  facs="#facs_237_r2">
+            <ab facs="#facs_237_r2">
                <lb facs="#facs_237_line_1626263816516_2562" n="N001"/>142
                <lb facs="#facs_237_line_1626699295393_1549" n="N002"/>840
                <lb facs="#facs_237_r2l1" n="N003"/><seg type="name">Nahmen und Class</seg>
@@ -116,7 +116,7 @@
                <lb facs="#facs_237_r2l32" n="N023"/>Zufolge Auflag und Quittung de ps: 12<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> und 2<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 757 <hi>0</hi> ist über <gap/>
                <lb facs="#facs_237_r2l33" n="N024"/>eingelegte <choice><expan/><abbr>orig:</abbr></choice> Cautions Instrument von <rs type="person" ref="wkfm__46692">Johann Christoph Roßmann</rs> dd<hi style="superscript">to</hi> 11<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice>
                <lb facs="#facs_237_r2l34" n="N025"/>757 N<hi style="superscript">o</hi> 1783 <choice><expan/><abbr>pr</abbr></choice> 5000 fl obiges <rs type="person" ref="wkfm__23514">Kollmünzer:</rs> Cautions Instrument extradiret worden
-               <lb facs="#facs_237_r2l35" n="N026"/><comment comment="Einfügung\u0020in\u0020Zeile\u002023"><hi>0</hi> N<hi style="superscript">o</hi> 1786</comment>
+               <lb facs="#facs_237_r2l35" n="N026"/><seg type="editorial_comment_seg"><hi>0</hi> N<hi style="superscript">o</hi> 1786<note type="editorial_comment_note">Einfügung in Zeile 23</note></seg>
             </ab>
             
         </div>

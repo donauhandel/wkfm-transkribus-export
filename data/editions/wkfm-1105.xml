@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3134" lry="4521" xml:id="facs_5">
+    <surface ulx="0" uly="0" lrx="3134" lry="4521" xml:id="facs_5">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1105.jpg" width="3134px" height="4521px"/>
          <graphic url="" width="3134px" height="4521px"/>
          <zone points="233,228 233,3037 2924,3037 2924,228" rendition="TextRegion" xml:id="facs_5_r2">
@@ -80,9 +80,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_5" n="5" xml:id="img_0005"/>
+            <pb facs="#facs_5" n="5" xml:id="img_0005"/>
             
-            <ab  facs="#facs_5_r2">
+            <ab facs="#facs_5_r2">
                <lb facs="#facs_5_r2l2" n="N001"/>546
                <lb facs="#facs_5_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_5_r2l3" n="N003"/><rs type="person" ref="wkfm__3658">Luz Johann</rs> kay: könig: Niderlags Verwanter

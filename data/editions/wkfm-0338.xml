@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_18">
+    <surface ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_18">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0338.jpg" width="2934px" height="4501px"/>
          <zone points="285,222 285,3376 2802,3376 2802,222" rendition="TextRegion" xml:id="facs_18_r1">
             <zone points="885,343 958,339 1031,334 1104,331 1178,330 1251,328 1324,327 1398,325 1471,325 1544,325 1618,325 1691,325 1764,325 1837,325 1911,325 1984,324 2057,324 2131,322 2204,321 2277,318 2351,315 2351,222 2277,225 2204,228 2131,229 2057,231 1984,231 1911,232 1837,232 1764,232 1691,232 1618,232 1544,232 1471,232 1398,232 1324,234 1251,235 1178,237 1104,238 1031,241 958,246 885,250" rendition="Line" xml:id="facs_18_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_18" n="18" xml:id="img_0018"/>
+            <pb facs="#facs_18" n="18" xml:id="img_0018"/>
             
-            <ab  facs="#facs_18_r1">
+            <ab facs="#facs_18_r1">
                <lb facs="#facs_18_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_18_r1l2" n="N002"/>In obigen Anbringen de ps: 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 171 hat sich die <rs type="person" ref="wkfm__8980">Khössler:
                <lb break="no" facs="#facs_18_r1l3" n="N003"/>Wittib</rs> erklähret daß sie ihre Handlung allein führe.

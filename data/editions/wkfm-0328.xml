@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_8">
+    <surface ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_8">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0328.jpg" width="2934px" height="4501px"/>
          <zone points="201,187 201,3390 2820,3390 2820,187" rendition="TextRegion" xml:id="facs_8_r1">
             <zone points="962,371 1036,362 1111,356 1186,350 1260,347 1335,342 1410,340 1484,339 1559,337 1634,336 1708,335 1783,335 1858,333 1932,333 2007,332 2082,330 2156,327 2231,324 2306,319 2381,314 2381,187 2306,192 2231,197 2156,200 2082,203 2007,205 1932,206 1858,206 1783,208 1708,208 1634,209 1559,210 1484,212 1410,213 1335,215 1260,220 1186,223 1111,229 1036,235 962,244" rendition="Line" xml:id="facs_8_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_8" n="8" xml:id="img_0008"/>
+            <pb facs="#facs_8" n="8" xml:id="img_0008"/>
             
-            <ab  facs="#facs_8_r1">
+            <ab facs="#facs_8_r1">
                <lb facs="#facs_8_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_8_r1l2" n="N002"/>Die <rs type="person" ref="wkfm__46104">Wittib Capieu</rs> hat sich in obigen Anbringen de ps: 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 
                <lb facs="#facs_8_r1l3" n="N003"/>167 erklähret, daß sie in ihrem Negotio keinen interessirten habe.

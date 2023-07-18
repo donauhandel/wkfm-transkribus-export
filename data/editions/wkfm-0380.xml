@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_60">
+    <surface ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_60">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0380.jpg" width="2934px" height="4501px"/>
          <zone points="378,204 378,3413 2847,3413 2847,204" rendition="TextRegion" xml:id="facs_60_r1">
             <zone points="1154,327 1211,324 1269,321 1326,319 1384,319 1442,318 1499,318 1557,318 1614,319 1672,319 1730,321 1787,321 1845,321 1902,321 1960,321 2018,321 2075,319 2133,318 2190,315 2248,311 2306,307 2306,204 2248,208 2190,212 2133,215 2075,216 2018,218 1960,218 1902,218 1845,218 1787,218 1730,218 1672,216 1614,216 1557,215 1499,215 1442,215 1384,216 1326,216 1269,218 1211,221 1154,224" rendition="Line" xml:id="facs_60_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_60" n="60" xml:id="img_0060"/>
+            <pb facs="#facs_60" n="60" xml:id="img_0060"/>
             
-            <ab  facs="#facs_60_r1">
+            <ab facs="#facs_60_r1">
                <lb facs="#facs_60_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_60_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 hat sich der
                <lb facs="#facs_60_r1l3" n="N003"/><rs type="person" ref="wkfm__12477">Kleinhunger</rs> geäusseret das er allein in seiner Handlung

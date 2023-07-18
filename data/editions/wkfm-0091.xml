@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2991" lry="4378" xml:id="facs_38">
+    <surface ulx="0" uly="0" lrx="2991" lry="4378" xml:id="facs_38">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0091.jpg" width="2991px" height="4378px"/>
          <zone points="519,158 519,3230 2903,3230 2903,158" rendition="TextRegion" xml:id="facs_38_r1">
             <zone points="866,257 938,257 1010,258 1082,258 1154,260 1227,261 1299,262 1371,263 1443,264 1515,266 1588,267 1660,267 1732,269 1804,270 1876,270 1949,271 2021,272 2093,272 2165,272 2237,272 2310,272 2310,173 2237,173 2165,173 2093,173 2021,173 1949,172 1876,171 1804,171 1732,170 1660,168 1588,168 1515,167 1443,165 1371,164 1299,163 1227,162 1154,161 1082,159 1010,159 938,158 866,158" rendition="Line" xml:id="facs_38_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_38" n="38" xml:id="img_0038"/>
+            <pb facs="#facs_38" n="38" xml:id="img_0038"/>
             
-            <ab  facs="#facs_38_r1">
+            <ab facs="#facs_38_r1">
                <lb facs="#facs_38_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_38_r1l2" n="N002"/>In obigen Anbringen de ps: 30<hi style="superscript">ten</hi> May 725 N<hi style="superscript">o</hi> 37 hat sich der <rs type="person" ref="wkfm__43608">Petrossy</rs>
                <lb facs="#facs_38_r1l3" n="N003"/>erklähret das er keinen Compagnon habe.

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2872" lry="4455" xml:id="facs_130">
+    <surface ulx="0" uly="0" lrx="2872" lry="4455" xml:id="facs_130">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1588.jpg" width="2872px" height="4455px"/>
          <zone points="180,89 180,3280 2745,3262 2745,71" rendition="TextRegion" xml:id="facs_130_r1">
             <zone points="1014,277 1136,266 1200,261 1264,257 1328,253 1391,250 1455,247 1519,245 1583,243 1646,241 1710,238 1774,237 1838,235 1901,232 1965,231 2029,228 2093,226 2156,222 2220,219 2284,214 2348,210 2348,89 2284,93 2220,98 2156,101 2093,105 2029,107 1965,110 1901,111 1838,114 1774,116 1710,117 1646,120 1583,122 1519,124 1455,126 1391,129 1328,132 1264,136 1200,140 1136,145 1014,156" rendition="Line" xml:id="facs_130_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_130" n="130" xml:id="img_0130"/>
+            <pb facs="#facs_130" n="130" xml:id="img_0130"/>
             
-            <ab  facs="#facs_130_r1">
+            <ab facs="#facs_130_r1">
                <lb facs="#facs_130_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_130_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 21<hi style="superscript">ten</hi> May 733 N<hi style="superscript">o</hi> 720 hat sich der
                <lb facs="#facs_130_r1l3" n="N003"/><rs type="person" ref="wkfm__47490">Schneider</rs> geäusseret, das er keinen Compagnon habe

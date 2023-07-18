@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2979" lry="4383" xml:id="facs_9">
+    <surface ulx="0" uly="0" lrx="2979" lry="4383" xml:id="facs_9">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1863.jpg" width="2979px" height="4383px"/>
          <zone points="162,170 162,2929 2781,2929 2781,170" rendition="TextRegion" xml:id="facs_9_r3">
             <zone points="2607,345 2636,333 2665,329 2694,327 2723,325 2752,321 2781,313 2781,228 2752,236 2723,240 2694,242 2665,244 2636,248 2607,260" rendition="Line" xml:id="facs_9_r3l2" subtype="page-number"/>
@@ -73,9 +73,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_9" n="9" xml:id="img_0009"/>
+            <pb facs="#facs_9" n="9" xml:id="img_0009"/>
             
-            <ab  facs="#facs_9_r3">
+            <ab facs="#facs_9_r3">
                <lb facs="#facs_9_r3l2" n="N001"/>924
                <lb facs="#facs_9_r3l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_9_r3l3" n="N003"/><rs type="person" ref="wkfm__43823">Hierschl Mayer</rs> Jud

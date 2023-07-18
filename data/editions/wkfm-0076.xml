@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3039" lry="4521" xml:id="facs_23">
+    <surface ulx="0" uly="0" lrx="3039" lry="4521" xml:id="facs_23">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0076.jpg" width="3039px" height="4521px"/>
          <zone points="215,160 215,2988 2744,2988 2744,160" rendition="TextRegion" xml:id="facs_23_r1">
             <zone points="2589,229 2591,229 2709,226 2709,290 2591,293 2589,293" rendition="Line" xml:id="facs_23_line_1621089466522_547" subtype="page-number"/>
@@ -72,9 +72,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_23" n="23" xml:id="img_0023"/>
+            <pb facs="#facs_23" n="23" xml:id="img_0023"/>
             
-            <ab  facs="#facs_23_r1">
+            <ab facs="#facs_23_r1">
                <lb facs="#facs_23_line_1621089466522_547" n="N001"/>36
                <lb facs="#facs_23_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_23_line_1621089466523_548" n="N003"/><rs type="person" ref="wkfm__15300">Bormastino Johann Anton </rs>K. K. Niderlags Verwanter

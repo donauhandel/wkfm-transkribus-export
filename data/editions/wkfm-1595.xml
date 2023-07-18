@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2880" lry="4477" xml:id="facs_137">
+    <surface ulx="0" uly="0" lrx="2880" lry="4477" xml:id="facs_137">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1595.jpg" width="2880px" height="4477px"/>
          <zone points="230,93 230,2936 2745,2936 2745,93" rendition="TextRegion" xml:id="facs_137_r1">
             <zone points="2625,340 2655,341 2685,344 2715,345 2745,343 2745,246 2715,248 2685,247 2655,244 2625,243" rendition="Line" xml:id="facs_137_r1l2" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_137" n="137" xml:id="img_0137"/>
+            <pb facs="#facs_137" n="137" xml:id="img_0137"/>
             
-            <ab  facs="#facs_137_r1">
+            <ab facs="#facs_137_r1">
                <lb facs="#facs_137_r1l2" n="N001"/>790
                <lb facs="#facs_137_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_137_r1l3" n="N003"/><rs type="person" ref="wkfm__10071">Silber Ignaz Matthias</rs> burgerlicher Handlsmann

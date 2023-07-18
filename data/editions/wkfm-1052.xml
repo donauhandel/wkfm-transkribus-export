@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3087" lry="4530" xml:id="facs_132">
+    <surface ulx="0" uly="0" lrx="3087" lry="4530" xml:id="facs_132">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1052.jpg" width="3087px" height="4530px"/>
          <zone points="318,190 318,3415 2832,3415 2832,190" rendition="TextRegion" xml:id="facs_132_r1">
             <zone points="1203,335 1261,327 1319,321 1377,316 1435,311 1493,309 1551,307 1610,304 1668,302 1726,301 1784,299 1842,299 1900,298 1958,296 2017,296 2075,294 2133,292 2191,290 2249,286 2307,283 2366,278 2366,190 2307,195 2249,198 2191,202 2133,204 2075,206 2017,208 1958,208 1900,210 1842,211 1784,211 1726,213 1668,214 1610,216 1551,219 1493,221 1435,223 1377,228 1319,233 1261,239 1203,247" rendition="Line" xml:id="facs_132_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_132" n="132" xml:id="img_0132"/>
+            <pb facs="#facs_132" n="132" xml:id="img_0132"/>
             
-            <ab  facs="#facs_132_r1">
+            <ab facs="#facs_132_r1">
                <lb facs="#facs_132_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_132_r1l2" n="N002"/>Mitls obigen Anbringen de ps: 25<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 753 N<hi style="superscript">o</hi> 480 hat der <rs type="person" ref="wkfm__46561">Heindl</rs> die
                <lb facs="#facs_132_r1l3" n="N003"/>societaets Firma <rs type="person" ref="wkfm__46562">Johann Georg Heindl et <choice><expan/><abbr>Comp:</abbr></choice></rs> in der Erklährung

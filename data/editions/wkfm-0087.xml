@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2991" lry="4378" xml:id="facs_34">
+    <surface ulx="0" uly="0" lrx="2991" lry="4378" xml:id="facs_34">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0087.jpg" width="2991px" height="4378px"/>
          <zone points="330,186 330,3252 2918,3252 2918,186" rendition="TextRegion" xml:id="facs_34_r1">
             <zone points="563,262 641,259 720,258 799,255 878,253 957,253 1036,252 1115,252 1194,252 1273,253 1352,253 1430,255 1509,255 1588,256 1667,258 1746,258 1825,259 1904,261 1983,261 2062,262 2141,262 2141,196 2062,196 1983,195 1904,195 1825,193 1746,192 1667,192 1588,190 1509,189 1430,189 1352,187 1273,187 1194,186 1115,186 1036,186 957,187 878,187 799,189 720,192 641,193 563,196" rendition="Line" xml:id="facs_34_r1l1"/>
@@ -75,9 +75,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_34" n="34" xml:id="img_0034"/>
+            <pb facs="#facs_34" n="34" xml:id="img_0034"/>
             
-            <ab  facs="#facs_34_r1">
+            <ab facs="#facs_34_r1">
                <lb facs="#facs_34_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_34_r1l2" n="N002"/>Der <rs type="person" ref="wkfm__13226">Johann Wilhelm</rs> und <rs type="person" ref="wkfm__47283">Johann Noe Buirette</rs> haben sich in obigen
                <lb facs="#facs_34_line_1628437556344_216" n="N003"/>Anbringen <hi>und</hi> de ps: 8<hi style="superscript">ten</hi> May 725 N<hi style="superscript">o</hi> 888 und mit in der selben eingelegten Pro

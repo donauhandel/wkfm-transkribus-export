@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2953" lry="4400" xml:id="facs_46">
+    <surface ulx="0" uly="0" lrx="2953" lry="4400" xml:id="facs_46">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1398.jpg" width="2953px" height="4400px"/>
          <zone points="441,195 441,3426 2820,3426 2820,195" rendition="TextRegion" xml:id="facs_46_r1">
             <zone points="1109,342 1177,335 1245,328 1314,324 1382,321 1450,319 1519,319 1587,318 1655,319 1724,319 1792,321 1861,322 1929,322 1997,322 2066,322 2134,322 2202,320 2271,317 2339,313 2408,307 2408,195 2339,201 2271,205 2202,208 2134,210 2066,210 1997,210 1929,210 1861,210 1792,209 1724,207 1655,207 1587,206 1519,207 1450,207 1382,209 1314,212 1245,216 1177,223 1109,230" rendition="Line" xml:id="facs_46_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_46" n="46" xml:id="img_0046"/>
+            <pb facs="#facs_46" n="46" xml:id="img_0046"/>
             
-            <ab  facs="#facs_46_r1">
+            <ab facs="#facs_46_r1">
                <lb facs="#facs_46_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_46_r1l2" n="N002"/>In obigen Anbringen de ps: 23<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 725 N<hi style="superscript">o</hi> 632 hat sich der 
                <lb facs="#facs_46_r1l3" n="N003"/><rs type="person" ref="wkfm__18686">Rädl</rs> erklähret, daß er keinen Compagnon habe.

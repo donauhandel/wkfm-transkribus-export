@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2893" lry="4398" xml:id="facs_26">
+    <surface ulx="0" uly="0" lrx="2893" lry="4398" xml:id="facs_26">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1880.jpg" width="2893px" height="4398px"/>
          <zone points="111,107 111,3273 2718,3273 2718,107" rendition="TextRegion" xml:id="facs_26_r1">
             <zone points="956,223 1013,216 1071,209 1128,204 1186,202 1244,201 1301,201 1359,201 1416,202 1474,205 1532,208 1589,210 1647,213 1704,216 1762,219 1820,220 1877,220 1935,220 1992,218 2050,214 2108,210 2108,116 2050,120 1992,124 1935,126 1877,126 1820,126 1762,125 1704,122 1647,119 1589,116 1532,114 1474,111 1416,108 1359,107 1301,107 1244,107 1186,108 1128,110 1071,115 1013,122 956,129" rendition="Line" xml:id="facs_26_r1l1"/>
@@ -74,9 +74,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_26" n="26" xml:id="img_0026"/>
+            <pb facs="#facs_26" n="26" xml:id="img_0026"/>
             
-            <ab  facs="#facs_26_r1">
+            <ab facs="#facs_26_r1">
                <lb facs="#facs_26_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>	
                <lb facs="#facs_26_r1l2" n="N002"/>In obigen Anbringen de ps: 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 860 hat sich der <rs type="person" ref="wkfm__8146">Löw
                <lb break="no" facs="#facs_26_r1l3" n="N003"/>Sünzheimb</rs> erklähret, daß <hi>s</hi> er seine negotium mit eigenen intee.

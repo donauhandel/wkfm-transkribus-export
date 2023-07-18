@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2940" lry="4464" xml:id="facs_100">
+    <surface ulx="0" uly="0" lrx="2940" lry="4464" xml:id="facs_100">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1284.jpg" width="2940px" height="4464px"/>
          <zone points="171,163 171,3335 2831,3335 2831,163" rendition="TextRegion" xml:id="facs_100_r1">
             <zone points="1259,245 1320,242 1382,239 1444,237 1506,236 1568,236 1629,236 1691,236 1753,237 1815,237 1877,239 1938,240 2000,242 2062,242 2124,243 2186,243 2247,243 2309,242 2371,240 2433,239 2495,236 2495,163 2433,166 2371,167 2309,169 2247,170 2186,170 2124,170 2062,169 2000,169 1938,167 1877,166 1815,164 1753,164 1691,163 1629,163 1568,163 1506,163 1444,164 1382,166 1320,169 1259,172" rendition="Line" xml:id="facs_100_r1l1"/>
@@ -70,9 +70,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_100" n="100" xml:id="img_0100"/>
+            <pb facs="#facs_100" n="100" xml:id="img_0100"/>
             
-            <ab  facs="#facs_100_r1">
+            <ab facs="#facs_100_r1">
                <lb facs="#facs_100_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_100_r1l3" n="N002"/><seg type="wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_100_r1l4" n="N003"/>Mitls obigen Anbringen de ps: 7<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 753 N<hi style="superscript">o</hi> 590 hat der <rs type="person" ref="wkfm__46940">Müller</rs> dem mit der

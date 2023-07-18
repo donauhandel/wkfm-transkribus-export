@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2940" lry="4464" xml:id="facs_24">
+    <surface ulx="0" uly="0" lrx="2940" lry="4464" xml:id="facs_24">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1316.jpg" width="2940px" height="4464px"/>
          <zone points="219,163 219,3929 2823,3929 2823,163" rendition="TextRegion" xml:id="facs_24_r1">
             <zone points="1043,245 1102,241 1161,239 1221,236 1280,234 1340,234 1399,234 1458,234 1518,236 1577,237 1637,238 1696,239 1755,240 1815,240 1874,242 1934,240 1993,240 2052,238 2112,236 2171,233 2231,227 2231,163 2171,169 2112,172 2052,174 1993,176 1934,176 1874,178 1815,176 1755,176 1696,175 1637,174 1577,173 1518,172 1458,170 1399,170 1340,170 1280,170 1221,172 1161,175 1102,177 1043,181" rendition="Line" xml:id="facs_24_r1l1"/>
@@ -88,9 +88,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_24" n="24" xml:id="img_0024"/>
+            <pb facs="#facs_24" n="24" xml:id="img_0024"/>
             
-            <ab  facs="#facs_24_r1">
+            <ab facs="#facs_24_r1">
                <lb facs="#facs_24_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_24_r1l2" n="N002"/>Der <rs type="person" ref="wkfm__26325">Negri</rs> hat mit dem <rs type="person" ref="wkfm__4528">Bartolomeo Patuzzi</rs> untern 23<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 733 <hi>N</hi> dem N<hi style="superscript">o</hi>
                <lb facs="#facs_24_r1l3" n="N003"/>1864 in <choice><expan/><abbr>orig:</abbr></choice> et 1865 in notariats translato eingelegten societaets Contract dahin abge-
@@ -108,7 +108,7 @@
                <lb facs="#facs_24_r1l16" n="N015"/>grösserer Erfordernußen den Negotio wie auch dem <rs type="person" ref="wkfm__26325">Negri</rs> keines Weegs nachtheilig seye, der <rs type="person" ref="wkfm__26325">Negri</rs> gleich-
                <lb facs="#facs_24_r1l17" n="N016"/>valß nicht befugt seye jemanden uber 300 fl Credit zu geben bey schadloshaltung des negotii, wie auch <unclear>ohne</unclear>
                <lb facs="#facs_24_r1l18" n="N017"/>Einwilligung Waaren in Comission ausser hiesigen Plaz zu geben <unclear>oder</unclear> verderbliche Waaren zu bestöllen, die be-
-               <lb facs="#facs_24_r1l19" n="N018"/>diente und Jungen mit gemeinsamer Einverständnus aufgenohmen und abgedanket werden die <comment comment="Fortsetzung\u0020in\u0020der\u0020Rubrik\u0020\u0022Anmerckungen\u0022"><hi>0</hi></comment>
+               <lb facs="#facs_24_r1l19" n="N018"/>diente und Jungen mit gemeinsamer Einverständnus aufgenohmen und abgedanket werden die <seg type="editorial_comment_seg"><hi>0</hi><note type="editorial_comment_note">Fortsetzung in der Rubrik Anmerckungen</note></seg>
                <lb facs="#facs_24_r1l20" n="N019"/><seg type="wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_24_r1l22" n="N020"/>Anmerckungen
                <lb facs="#facs_24_line_1621463294789_1464" n="N021"/>Erben von der Societaet wider willen nicht ausgeschlossen seyn, die zwistigkeiten

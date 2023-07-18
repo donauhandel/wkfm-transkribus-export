@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3049" lry="4436" xml:id="facs_39">
+    <surface ulx="0" uly="0" lrx="3049" lry="4436" xml:id="facs_39">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0539.jpg" width="3049px" height="4436px"/>
          <zone points="354,138 354,2942 2864,2942 2864,138" rendition="TextRegion" xml:id="facs_39_r1">
             <zone points="2706,308 2731,306 2756,308 2781,308 2806,308 2831,308 2856,308 2856,227 2831,227 2806,227 2781,227 2756,227 2731,225 2706,227" rendition="Line" xml:id="facs_39_r1l2" subtype="page-number"/>
@@ -70,9 +70,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_39" n="39" xml:id="img_0039"/>
+            <pb facs="#facs_39" n="39" xml:id="img_0039"/>
             
-            <ab  facs="#facs_39_r1">
+            <ab facs="#facs_39_r1">
                <lb facs="#facs_39_r1l2" n="N001"/>267
                <lb facs="#facs_39_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_39_r1l3" n="N003"/><rs type="person" ref="wkfm__36435">Deckher Johann <hi>Bernhard</hi> Georg</rs> burgerlicher Handlsmann

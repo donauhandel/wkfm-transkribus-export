@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2954" lry="4435" xml:id="facs_108">
+    <surface ulx="0" uly="0" lrx="2954" lry="4435" xml:id="facs_108">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0161.jpg" width="2954px" height="4435px"/>
          <zone points="477,176 477,4100 2816,4100 2816,176" rendition="TextRegion" xml:id="facs_108_r1">
             <zone points="882,296 954,293 1027,292 1100,291 1172,290 1245,290 1318,292 1390,292 1463,293 1536,295 1609,296 1681,298 1754,299 1827,301 1899,302 1972,304 2045,304 2117,304 2190,304 2263,302 2336,301 2336,187 2263,188 2190,190 2117,190 2045,190 1972,190 1899,188 1827,187 1754,185 1681,184 1609,182 1536,181 1463,179 1390,178 1318,178 1245,176 1172,176 1100,177 1027,178 954,179 882,182" rendition="Line" xml:id="facs_108_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_108" n="108" xml:id="img_0108"/>
+            <pb facs="#facs_108" n="108" xml:id="img_0108"/>
             
-            <ab  facs="#facs_108_r1">
+            <ab facs="#facs_108_r1">
                <lb facs="#facs_108_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_108_r1l3" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 20<hi style="superscript">ten</hi> Junii 725 N<hi style="superscript">o</hi> 72 hat sich der 
                <lb facs="#facs_108_r1l5" n="N003"/><rs type="person" ref="wkfm__39771">Pänckhl</rs> geäusseret das er keinen interessenten noch Compagnon

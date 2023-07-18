@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2982" lry="4530" xml:id="facs_76">
+    <surface ulx="0" uly="0" lrx="2982" lry="4530" xml:id="facs_76">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1176.jpg" width="2982px" height="4530px"/>
          <zone points="225,248 225,3414 2831,3414 2831,248" rendition="TextRegion" xml:id="facs_76_r1">
             <zone points="1179,340 2291,327 2320,325 2349,324 2379,321 2379,248 2349,251 2320,252 2291,254 1179,267" rendition="Line" xml:id="facs_76_r1l1"/>
@@ -73,9 +73,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_76" n="76" xml:id="img_0076"/>
+            <pb facs="#facs_76" n="76" xml:id="img_0076"/>
             
-            <ab  facs="#facs_76_r1">
+            <ab facs="#facs_76_r1">
                <lb facs="#facs_76_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_76_r1l2" n="N002"/><seg type="wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_76_r1l3" n="N003"/>Der <rs type="person" ref="wkfm__46835">Lassner</rs> hat den mit der <rs type="person" ref="wkfm__46837">Eva Franzisca <unclear>Weisser</unclear></rs> untern 15<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice>

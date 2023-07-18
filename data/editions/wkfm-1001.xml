@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3095" lry="4410" xml:id="facs_81">
+    <surface ulx="0" uly="0" lrx="3095" lry="4410" xml:id="facs_81">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1001.jpg" width="3095px" height="4410px"/>
          <zone points="225,175 225,2990 2735,2990 2735,175" rendition="TextRegion" xml:id="facs_81_r2">
             <zone points="2547,411 2575,411 2604,411 2633,411 2662,411 2691,411 2691,338 2662,338 2633,338 2604,338 2575,338 2547,338" rendition="Line" xml:id="facs_81_r2l2" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_81" n="81" xml:id="img_0081"/>
+            <pb facs="#facs_81" n="81" xml:id="img_0081"/>
             
-            <ab  facs="#facs_81_r2">
+            <ab facs="#facs_81_r2">
                <lb facs="#facs_81_r2l2" n="N001"/>493
                <lb facs="#facs_81_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_81_r2l3" n="N003"/><rs type="person" ref="wkfm__14804">Holtzmaister Leopold</rs> burgerlicher Handlsmann

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3095" lry="4553" xml:id="facs_19">
+    <surface ulx="0" uly="0" lrx="3095" lry="4553" xml:id="facs_19">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0831.jpg" width="3095px" height="4553px"/>
          <zone points="293,246 293,3119 2796,3119 2796,246" rendition="TextRegion" xml:id="facs_19_r1">
             <zone points="2636,452 2664,455 2692,455 2721,457 2749,457 2778,457 2778,360 2749,360 2721,360 2692,358 2664,358 2636,355" rendition="Line" xml:id="facs_19_r1l2" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_19" n="19" xml:id="img_0019"/>
+            <pb facs="#facs_19" n="19" xml:id="img_0019"/>
             
-            <ab  facs="#facs_19_r1">
+            <ab facs="#facs_19_r1">
                <lb facs="#facs_19_r1l2" n="N001"/>413
                <lb facs="#facs_19_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_19_r1l3" n="N003"/><rs type="person" ref="wkfm__8598">Gugenberger Paul</rs> burgerlicher Handlsmann

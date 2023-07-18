@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2929" lry="4455" xml:id="facs_88">
+    <surface ulx="0" uly="0" lrx="2929" lry="4455" xml:id="facs_88">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1546.jpg" width="2929px" height="4455px"/>
          <zone points="269,155 269,3362 2841,3362 2841,155" rendition="TextRegion" xml:id="facs_88_r1">
             <zone points="1088,305 1153,295 1219,289 1284,283 1350,279 1415,276 1481,275 1546,275 1612,274 1677,275 1743,275 1809,276 1874,276 1940,278 2005,278 2071,276 2136,275 2202,273 2267,269 2333,263 2399,255 2399,155 2333,163 2267,169 2202,173 2136,175 2071,176 2005,178 1940,178 1874,176 1809,176 1743,175 1677,175 1612,174 1546,175 1481,175 1415,176 1350,179 1284,183 1219,189 1153,195 1088,205" rendition="Line" xml:id="facs_88_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_88" n="88" xml:id="img_0088"/>
+            <pb facs="#facs_88" n="88" xml:id="img_0088"/>
             
-            <ab  facs="#facs_88_r1">
+            <ab facs="#facs_88_r1">
                <lb facs="#facs_88_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_88_r1l2" n="N002"/>In obigen Anbringen de ps: 23<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 725 N<hi style="superscript">o</hi> 699 hat sich der
                <lb facs="#facs_88_r1l3" n="N003"/><rs type="person" ref="wkfm__16654">Schwandner</rs> erklähret, daß er keinen Compagnon habe

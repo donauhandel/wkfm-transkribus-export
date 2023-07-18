@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2973" lry="4530" xml:id="facs_26">
+    <surface ulx="0" uly="0" lrx="2973" lry="4530" xml:id="facs_26">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1126.jpg" width="2973px" height="4530px"/>
          <zone points="380,187 380,3380 2934,3380 2934,187" rendition="TextRegion" xml:id="facs_26_r1">
             <zone points="1196,316 1255,311 1315,307 1375,305 1434,303 1494,302 1554,301 1613,301 1673,302 1733,302 1793,304 1852,304 1912,305 1972,307 2031,307 2091,308 2151,308 2210,307 2270,307 2330,305 2390,302 2390,188 2330,191 2270,193 2210,193 2151,194 2091,194 2031,193 1972,193 1912,191 1852,190 1793,190 1733,188 1673,188 1613,187 1554,187 1494,188 1434,189 1375,191 1315,193 1255,197 1196,202" rendition="Line" xml:id="facs_26_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_26" n="26" xml:id="img_0026"/>
+            <pb facs="#facs_26" n="26" xml:id="img_0026"/>
             
-            <ab  facs="#facs_26_r1">
+            <ab facs="#facs_26_r1">
                <lb facs="#facs_26_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_26_r1l2" n="N002"/>In obiger <hi>Anb</hi> Erklährung dd<hi style="superscript">to</hi> 18<hi style="superscript">ten</hi> Apr: 725 N<hi style="superscript">o</hi> 517 hat sich der 
                <lb facs="#facs_26_r1l3" n="N003"/><rs type="person" ref="wkfm__18870">Lang</rs> geäusseret das er sein negotium in proprio allein und ohne mit

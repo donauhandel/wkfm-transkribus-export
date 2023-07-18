@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2929" lry="4455" xml:id="facs_26">
+    <surface ulx="0" uly="0" lrx="2929" lry="4455" xml:id="facs_26">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1484.jpg" width="2929px" height="4455px"/>
          <zone points="215,145 215,3323 2781,3323 2781,145" rendition="TextRegion" xml:id="facs_26_r1">
             <zone points="1014,302 1078,294 1142,286 1206,280 1270,275 1334,271 1398,268 1462,266 1526,265 1590,263 1654,263 1718,262 1782,262 1846,260 1910,259 1974,257 2038,254 2102,251 2166,246 2230,240 2294,233 2294,145 2230,152 2166,158 2102,163 2038,166 1974,169 1910,171 1846,172 1782,174 1718,174 1654,175 1590,175 1526,177 1462,178 1398,180 1334,183 1270,187 1206,192 1142,198 1078,206 1014,214" rendition="Line" xml:id="facs_26_r1l1"/>
@@ -68,9 +68,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_26" n="26" xml:id="img_0026"/>
+            <pb facs="#facs_26" n="26" xml:id="img_0026"/>
             
-            <ab  facs="#facs_26_r1">
+            <ab facs="#facs_26_r1">
                <lb facs="#facs_26_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_26_r1l2" n="N002"/>In obigen Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 668 hat sich die <rs type="person" ref="wkfm__47409">Schmidt:
                <lb break="no" facs="#facs_26_r1l3" n="N003"/>Wittib</rs> geäusseret, das sie keinen Compagnon habe

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3095" lry="4469" xml:id="facs_61">
+    <surface ulx="0" uly="0" lrx="3095" lry="4469" xml:id="facs_61">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0873.jpg" width="3095px" height="4469px"/>
          <zone points="183,144 183,2962 2754,2962 2754,144" rendition="TextRegion" xml:id="facs_61_r3">
             <zone points="2589,364 2615,367 2642,367 2669,365 2696,362 2723,360 2750,357 2750,255 2723,258 2696,260 2669,263 2642,265 2615,265 2589,262" rendition="Line" xml:id="facs_61_r3l2" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_61" n="61" xml:id="img_0061"/>
+            <pb facs="#facs_61" n="61" xml:id="img_0061"/>
             
-            <ab  facs="#facs_61_r3">
+            <ab facs="#facs_61_r3">
                <lb facs="#facs_61_r3l2" n="N001"/>434
                <lb facs="#facs_61_r3l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_61_r3l3" n="N003"/><rs type="person" ref="wkfm__29568">Grässl Frantz Anton</rs> burgerlicher Handlsmann

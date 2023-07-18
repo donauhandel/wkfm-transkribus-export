@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3015" lry="4468" xml:id="facs_47">
+    <surface ulx="0" uly="0" lrx="3015" lry="4468" xml:id="facs_47">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1753.jpg" width="3015px" height="4468px"/>
          <zone points="215,148 215,2984 2814,2984 2814,148" rendition="TextRegion" xml:id="facs_47_r2">
             <zone points="2570,341 2597,341 2625,343 2652,346 2680,346 2708,341 2708,254 2680,259 2652,259 2625,256 2597,254 2570,254" rendition="Line" xml:id="facs_47_r2l2" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_47" n="47" xml:id="img_0047"/>
+            <pb facs="#facs_47" n="47" xml:id="img_0047"/>
             
-            <ab  facs="#facs_47_r2">
+            <ab facs="#facs_47_r2">
                <lb facs="#facs_47_r2l2" n="N001"/>869
                <lb facs="#facs_47_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_47_r2l3" n="N003"/><rs type="person" ref="wkfm__46980">Widtmann Johann Sebastian</rs> burgerlicher Handlsmann

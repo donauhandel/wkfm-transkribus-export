@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3039" lry="4473" xml:id="facs_141">
+    <surface ulx="0" uly="0" lrx="3039" lry="4473" xml:id="facs_141">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0194.jpg" width="3039px" height="4473px"/>
          <zone points="183,165 186,3841 2919,3841 2916,165" rendition="TextRegion" xml:id="facs_141_r2">
             <zone points="2787,295 2816,295 2845,295 2874,298 2874,255 2845,252 2816,252 2787,252" rendition="Line" xml:id="facs_141_r2l1" subtype="page-number"/>
@@ -109,9 +109,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_141" n="141" xml:id="img_0141"/>
+            <pb facs="#facs_141" n="141" xml:id="img_0141"/>
             
-            <ab  facs="#facs_141_r2">
+            <ab facs="#facs_141_r2">
                <lb facs="#facs_141_r2l1" n="N001"/>95
                <lb facs="#facs_141_r2l2" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_141_r2l3" n="N003"/><rs type="person" ref="wkfm__36354">Bormastino Johann Anton der jüngere</rs> hofbefreyter Handlsmann
@@ -149,7 +149,7 @@
                <lb facs="#facs_141_line_1621466253593_2267" n="N035"/>mit interesse von <rs type="person" ref="wkfm__9133">Bormastino e Butterna</rs>
                <lb facs="#facs_141_r2l41" n="N036"/><unclear>in</unclear> abgewichenen Monath <choice><expan/><abbr>Apr:</abbr></choice> 728 ihr Endschafft erreichet habe, welche aber <unclear>sohin</unclear> anwiderum
                <lb facs="#facs_141_r2l42" n="N037"/>und biß <unclear>nunzu</unclear> unter nemlicher Raggion mit interesse deren nemlichen und des <rs type="person" ref="wkfm__8593">Johann Maria von Tinti</rs> unter <hi>0</hi>
-               <lb facs="#facs_141_r2l43" n="N038"/><comment comment="Der\u0020Folgende\u0020Text\u0020bildet\u0020das\u0020Ende\u0020der\u0020Rubrik\u0020Oblatorien\u0020und\u0020Avocatorien">Fundi Ausweisung</comment>
+               <lb facs="#facs_141_r2l43" n="N038"/><seg type="editorial_comment_seg">Fundi Ausweisung<note type="editorial_comment_note">Der Folgende Text bildet das Ende der Rubrik Oblatorien und Avocatorien</note></seg>
                <lb facs="#facs_141_r2l44" n="N039"/><hi>0</hi> firmirung des<rs type="person" ref="wkfm__10683"> Carl Joseph Starkh</rs> alß Siglen administratore <unclear>continuiret</unclear> worden seye
                <lb facs="#facs_141_line_1621466147760_2245" n="N040"/>nunmehro aber seye die Firma der vorigen Raggion dem <rs type="person" ref="wkfm__36354">Johann Anton Bormastino dem jüngern</rs> allein <unclear>anvertrauet</unclear>
                <lb facs="#facs_141_r2l48" n="N041"/>worden

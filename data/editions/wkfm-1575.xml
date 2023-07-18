@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2979" lry="4477" xml:id="facs_117">
+    <surface ulx="0" uly="0" lrx="2979" lry="4477" xml:id="facs_117">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1575.jpg" width="2979px" height="4477px"/>
          <zone points="236,116 236,2916 2832,2916 2832,116" rendition="TextRegion" xml:id="facs_117_r2">
             <zone points="2715,304 2744,307 2773,304 2802,303 2832,304 2832,228 2802,227 2773,228 2744,231 2715,228" rendition="Line" xml:id="facs_117_r2l2" subtype="page-number"/>
@@ -70,9 +70,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_117" n="117" xml:id="img_0117"/>
+            <pb facs="#facs_117" n="117" xml:id="img_0117"/>
             
-            <ab  facs="#facs_117_r2">
+            <ab facs="#facs_117_r2">
                <lb facs="#facs_117_r2l2" n="N001"/>780
                <lb facs="#facs_117_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_117_r2l4" n="N003"/><rs type="person" ref="wkfm__18530">Sartory Franz Anton</rs> burgerlicher Handlsmann

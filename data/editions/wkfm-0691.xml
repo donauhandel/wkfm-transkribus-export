@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3095" lry="4496" xml:id="facs_23">
+    <surface ulx="0" uly="0" lrx="3095" lry="4496" xml:id="facs_23">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0691.jpg" width="3095px" height="4496px"/>
          <zone points="197,232 197,3051 2793,3051 2793,232" rendition="TextRegion" xml:id="facs_23_r1">
             <zone points="2643,501 2668,504 2693,508 2718,511 2743,513 2768,514 2793,513 2793,429 2768,430 2743,429 2718,427 2693,424 2668,420 2643,417" rendition="Line" xml:id="facs_23_r1l2" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_23" n="23" xml:id="img_0023"/>
+            <pb facs="#facs_23" n="23" xml:id="img_0023"/>
             
-            <ab  facs="#facs_23_r1">
+            <ab facs="#facs_23_r1">
                <lb facs="#facs_23_r1l2" n="N001"/>343
                <lb facs="#facs_23_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_23_r1l3" n="N003"/><rs type="person" ref="wkfm__47066">Faßmann Johann Christoph</rs> burgerlicher Handlsmann

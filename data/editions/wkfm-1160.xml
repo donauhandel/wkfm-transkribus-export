@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3030" lry="4530" xml:id="facs_60">
+    <surface ulx="0" uly="0" lrx="3030" lry="4530" xml:id="facs_60">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1160.jpg" width="3030px" height="4530px"/>
          <zone points="222,226 222,3750 2820,3750 2820,226" rendition="TextRegion" xml:id="facs_60_r1">
             <zone points="1110,384 1169,377 1229,372 1288,366 1348,362 1408,359 1467,355 1527,351 1587,350 1646,347 1706,344 1766,342 1825,340 1885,338 1945,335 2004,333 2064,331 2124,327 2183,324 2243,321 2303,317 2303,226 2243,230 2183,233 2124,236 2064,240 2004,242 1945,244 1885,247 1825,249 1766,251 1706,253 1646,256 1587,259 1527,260 1467,264 1408,268 1348,271 1288,275 1229,281 1169,286 1110,293" rendition="Line" xml:id="facs_60_r1l1"/>
@@ -81,9 +81,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_60" n="60" xml:id="img_0060"/>
+            <pb facs="#facs_60" n="60" xml:id="img_0060"/>
             
-            <ab  facs="#facs_60_r1">
+            <ab facs="#facs_60_r1">
                <lb facs="#facs_60_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_60_r1l2" n="N002"/>In obiger Anbringen de ps: 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 732 N<hi style="superscript">o</hi> 1991 hat der <rs type="person" ref="wkfm__10693">Joseph Lammer</rs>
                <lb facs="#facs_60_r1l3" n="N003"/>und <rs type="person" ref="wkfm__13619">Franz Anton Klezl</rs> <hi>mit eina</hi> zugleich angezeiget, das sie ihre Handlung

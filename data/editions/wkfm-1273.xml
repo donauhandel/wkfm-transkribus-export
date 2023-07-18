@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3105" lry="4455" xml:id="facs_89">
+    <surface ulx="0" uly="0" lrx="3105" lry="4455" xml:id="facs_89">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1273.jpg" width="3105px" height="4455px"/>
          <zone points="194,183 194,3893 2941,3894 2941,184" rendition="TextRegion" xml:id="facs_89_r1">
             <zone points="2751,259 2929,259 2929,410 2751,410" rendition="Line" xml:id="facs_89_line_1624961216013_1286" subtype="page-number"/>
@@ -78,9 +78,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_89" n="89" xml:id="img_0089"/>
+            <pb facs="#facs_89" n="89" xml:id="img_0089"/>
             
-            <ab  facs="#facs_89_r1">
+            <ab facs="#facs_89_r1">
                <lb facs="#facs_89_line_1624961216013_1286" n="N001"/>630
                <lb facs="#facs_89_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_89_r1l2" n="N003"/><rs type="person" ref="wkfm__46927">May Franz Carl</rs> burgerlicher Handlsmann

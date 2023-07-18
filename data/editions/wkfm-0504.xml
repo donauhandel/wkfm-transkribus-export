@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3051" lry="4473" xml:id="facs_4">
+    <surface ulx="0" uly="0" lrx="3051" lry="4473" xml:id="facs_4">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0504.jpg" width="3051px" height="4473px"/>
          <zone points="324,190 324,3976 2919,3976 2919,190" rendition="TextRegion" xml:id="facs_4_r1">
             <zone points="1013,274 1084,274 1155,274 1226,274 1297,274 1368,274 1439,274 1510,274 1581,274 1652,274 1724,274 1795,274 1866,274 1937,274 2008,274 2079,274 2150,272 2221,272 2292,271 2363,269 2435,268 2435,190 2363,191 2292,193 2221,194 2150,194 2079,196 2008,196 1937,196 1866,196 1795,196 1724,196 1652,196 1581,196 1510,196 1439,196 1368,196 1297,196 1226,196 1155,196 1084,196 1013,196" rendition="Line" xml:id="facs_4_r1l1"/>
@@ -72,9 +72,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_4" n="4" xml:id="img_0004"/>
+            <pb facs="#facs_4" n="4" xml:id="img_0004"/>
             
-            <ab  facs="#facs_4_r1">
+            <ab facs="#facs_4_r1">
                <lb facs="#facs_4_r1l1" n="N001"/>Societatis Contract und Interessenten
                <lb facs="#facs_4_r1l2" n="N002"/>In obigem Anbringen de ps: 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 242 hat sich der <rs type="person" ref="wkfm__8322">Donon</rs>
                <lb facs="#facs_4_r1l3" n="N003"/>erklähret, daß er weder Compagnon noch interessenten habe.

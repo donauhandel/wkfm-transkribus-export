@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_56">
+    <surface ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_56">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0376.jpg" width="2934px" height="4501px"/>
          <zone points="329,208 329,3429 2850,3429 2850,208" rendition="TextRegion" xml:id="facs_56_r1">
             <zone points="1095,336 1156,329 1218,325 1279,321 1341,317 1403,315 1464,314 1526,312 1587,312 1649,312 1711,312 1772,314 1834,314 1895,314 1957,315 2019,315 2080,315 2142,314 2203,313 2265,311 2327,308 2327,208 2265,211 2203,213 2142,214 2080,215 2019,215 1957,215 1895,214 1834,214 1772,214 1711,212 1649,212 1587,212 1526,212 1464,214 1403,215 1341,217 1279,221 1218,225 1156,229 1095,236" rendition="Line" xml:id="facs_56_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_56" n="56" xml:id="img_0056"/>
+            <pb facs="#facs_56" n="56" xml:id="img_0056"/>
             
-            <ab  facs="#facs_56_r1">
+            <ab facs="#facs_56_r1">
                <lb facs="#facs_56_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_56_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 hat sich der <rs type="person" ref="wkfm__10267">Kersch-
                <lb break="no" facs="#facs_56_r1l3" n="N003"/>baumer</rs> geäusseret das er seine <hi>Ne</hi> Handlung allein habe.

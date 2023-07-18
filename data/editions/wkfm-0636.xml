@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_16">
+    <surface ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_16">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0636.jpg" width="2994px" height="4530px"/>
          <zone points="315,212 315,3346 2898,3346 2898,212" rendition="TextRegion" xml:id="facs_16_r1">
             <zone points="1130,322 1198,320 1266,319 1335,317 1403,316 1472,315 1540,314 1609,314 1677,313 1746,313 1814,313 1882,313 1951,311 2019,311 2088,310 2156,310 2225,308 2293,307 2362,304 2430,302 2499,299 2499,212 2430,215 2362,217 2293,220 2225,221 2156,223 2088,223 2019,224 1951,224 1882,226 1814,226 1746,226 1677,226 1609,227 1540,227 1472,228 1403,229 1335,230 1266,232 1198,233 1130,235" rendition="Line" xml:id="facs_16_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_16" n="16" xml:id="img_0016"/>
+            <pb facs="#facs_16" n="16" xml:id="img_0016"/>
             
-            <ab  facs="#facs_16_r1">
+            <ab facs="#facs_16_r1">
                <lb facs="#facs_16_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_16_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 303 hat sich der <rs type="person" ref="wkfm__14142"><unclear>Eheman</unclear></rs>
                <lb facs="#facs_16_r1l3" n="N003"/>geäusseret, daß weder hier noch auswerths einen Compagnion <hi>noch</hi> oder

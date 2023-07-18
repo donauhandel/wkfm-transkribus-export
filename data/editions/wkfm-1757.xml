@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3015" lry="4468" xml:id="facs_51">
+    <surface ulx="0" uly="0" lrx="3015" lry="4468" xml:id="facs_51">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1757.jpg" width="3015px" height="4468px"/>
          <zone points="170,174 170,2986 2753,2986 2753,174" rendition="TextRegion" xml:id="facs_51_r2">
             <zone points="2579,321 2608,319 2637,318 2666,318 2695,318 2724,318 2753,318 2753,260 2724,260 2695,260 2666,260 2637,260 2608,261 2579,263" rendition="Line" xml:id="facs_51_r2l2" subtype="page-number"/>
@@ -72,9 +72,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_51" n="51" xml:id="img_0051"/>
+            <pb facs="#facs_51" n="51" xml:id="img_0051"/>
             
-            <ab  facs="#facs_51_r2">
+            <ab facs="#facs_51_r2">
                <lb facs="#facs_51_r2l2" n="N001"/>871
                <lb facs="#facs_51_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_51_r2l3" n="N003"/><rs type="person" ref="wkfm__10180">Walkher Rudolph</rs> burgericher Handlsmann

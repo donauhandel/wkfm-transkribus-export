@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2982" lry="4464" xml:id="facs_115">
+    <surface ulx="0" uly="0" lrx="2982" lry="4464" xml:id="facs_115">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0168.jpg" width="2982px" height="4464px"/>
          <zone points="128,239 128,3043 2657,3043 2657,239" rendition="TextRegion" xml:id="facs_115_r1">
             <zone points="2472,323 2499,321 2527,320 2555,319 2583,317 2583,239 2555,241 2527,242 2499,243 2472,245" rendition="Line" xml:id="facs_115_r1l1" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_115" n="115" xml:id="img_0115"/>
+            <pb facs="#facs_115" n="115" xml:id="img_0115"/>
             
-            <ab  facs="#facs_115_r1">
+            <ab facs="#facs_115_r1">
                <lb facs="#facs_115_r1l1" n="N001"/>82
                <lb facs="#facs_115_r1l2" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_115_r1l3" n="N003"/><rs type="person" ref="wkfm__43892">Päkh Egidi Philipp</rs> burgerlicher Handlsmann

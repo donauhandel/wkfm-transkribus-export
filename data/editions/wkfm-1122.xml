@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2973" lry="4530" xml:id="facs_22">
+    <surface ulx="0" uly="0" lrx="2973" lry="4530" xml:id="facs_22">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1122.jpg" width="2973px" height="4530px"/>
          <zone points="326,195 326,3394 2865,3394 2865,195" rendition="TextRegion" xml:id="facs_22_r1">
             <zone points="1181,324 1244,319 1307,316 1370,313 1433,310 1496,309 1559,307 1623,307 1686,307 1749,307 1812,308 1875,309 1938,310 2001,312 2065,313 2128,315 2191,316 2254,318 2317,319 2380,321 2444,322 2444,210 2380,209 2317,207 2254,206 2191,204 2128,203 2065,201 2001,200 1938,198 1875,197 1812,196 1749,195 1686,195 1623,195 1559,195 1496,197 1433,198 1370,201 1307,204 1244,207 1181,212" rendition="Line" xml:id="facs_22_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_22" n="22" xml:id="img_0022"/>
+            <pb facs="#facs_22" n="22" xml:id="img_0022"/>
             
-            <ab  facs="#facs_22_r1">
+            <ab facs="#facs_22_r1">
                <lb facs="#facs_22_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_22_r1l2" n="N002"/>In obigen Anbringen de ps: 21<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 515 hat sich der <rs type="person" ref="wkfm__46793">Loiprecht</rs>
                <lb facs="#facs_22_r1l3" n="N003"/>erklähret das er sein negotium allein habe und führe.

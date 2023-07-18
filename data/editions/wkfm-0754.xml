@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_86">
+    <surface ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_86">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0754.jpg" width="2994px" height="4530px"/>
          <zone points="285,247 285,3419 2913,3419 2913,247" rendition="TextRegion" xml:id="facs_86_r1">
             <zone points="1253,344 1314,338 1375,333 1436,329 1497,326 1558,324 1619,322 1680,321 1741,320 1802,320 1863,320 1924,320 1985,320 2046,320 2107,320 2168,320 2229,319 2290,317 2351,316 2412,313 2474,308 2474,247 2412,252 2351,255 2290,256 2229,258 2168,259 2107,259 2046,259 1985,259 1924,259 1863,259 1802,259 1741,259 1680,260 1619,261 1558,263 1497,265 1436,268 1375,272 1314,277 1253,283" rendition="Line" xml:id="facs_86_r1l1"/>
@@ -75,9 +75,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_86" n="86" xml:id="img_0086"/>
+            <pb facs="#facs_86" n="86" xml:id="img_0086"/>
             
-            <ab  facs="#facs_86_r1">
+            <ab facs="#facs_86_r1">
                <lb facs="#facs_86_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_86_r1l3" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 4<hi style="superscript">ten</hi> Junii 735 N<hi style="superscript">o</hi> 357 hat sich der <rs type="person" ref="wkfm__24741">Veronese</rs>
                <lb facs="#facs_86_r1l4" n="N003"/>geäusseret, daß er seine Handlung für sich allein habe.

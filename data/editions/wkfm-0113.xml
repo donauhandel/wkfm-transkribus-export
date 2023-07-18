@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2954" lry="4435" xml:id="facs_60">
+    <surface ulx="0" uly="0" lrx="2954" lry="4435" xml:id="facs_60">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0113.jpg" width="2954px" height="4435px"/>
          <graphic url="" width="2954px" height="4435px"/>
          <zone points="456,198 456,3239 2862,3239 2862,198" rendition="TextRegion" xml:id="facs_60_r1">
@@ -70,9 +70,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_60" n="60" xml:id="img_0060"/>
+            <pb facs="#facs_60" n="60" xml:id="img_0060"/>
             
-            <ab  facs="#facs_60_r1">
+            <ab facs="#facs_60_r1">
                <lb facs="#facs_60_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_60_line_1628441531814_513" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 48 hat der <rs type="person" ref="wkfm__13158">Pauminger</rs> beygebracht, daß
                <lb facs="#facs_60_r1l4" n="N003"/>seine Handlung für sich allein führe

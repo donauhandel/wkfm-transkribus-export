@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2886" lry="4476" xml:id="facs_74">
+    <surface ulx="0" uly="0" lrx="2886" lry="4476" xml:id="facs_74">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1780.jpg" width="2886px" height="4476px"/>
          <zone points="50,244 50,3416 2697,3416 2697,244" rendition="TextRegion" xml:id="facs_74_r1">
             <zone points="897,371 960,364 1023,359 1086,355 1150,352 1213,350 1276,349 1339,347 1403,347 1466,347 1529,347 1592,347 1656,349 1719,349 1782,347 1845,347 1909,346 1972,344 2035,341 2098,338 2162,332 2162,244 2098,250 2035,253 1972,256 1909,258 1845,259 1782,259 1719,261 1656,261 1592,259 1529,259 1466,259 1403,259 1339,259 1276,261 1213,262 1150,264 1086,267 1023,271 960,276 897,283" rendition="Line" xml:id="facs_74_r1l1"/>
@@ -72,9 +72,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_74" n="74" xml:id="img_0074"/>
+            <pb facs="#facs_74" n="74" xml:id="img_0074"/>
             
-            <ab  facs="#facs_74_r1">
+            <ab facs="#facs_74_r1">
                <lb facs="#facs_74_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_74_r1l2" n="N002"/>In obigen Anbringen de ps: 13<hi style="superscript">ten</hi> May 728 N<hi style="superscript">o</hi> 1954 hat sich der <rs type="person" ref="wkfm__29323">Paul
                <lb break="no" facs="#facs_74_r1l3" n="N003"/>Wipacher</rs> nebst dem <rs type="person" ref="wkfm__25454">Franz Gschaider</rs> erklähret, das sie ihre Handlung

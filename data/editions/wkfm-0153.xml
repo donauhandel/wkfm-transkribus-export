@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2954" lry="4435" xml:id="facs_100">
+    <surface ulx="0" uly="0" lrx="2954" lry="4435" xml:id="facs_100">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0153.jpg" width="2954px" height="4435px"/>
          <zone points="656,122 656,3245 2846,3245 2846,122" rendition="TextRegion" xml:id="facs_100_r2">
             <zone points="1065,266 1142,272 1220,276 1297,281 1375,288 1452,294 1530,300 1607,305 1685,311 1762,317 1840,321 1917,326 1995,330 2072,333 2150,336 2227,338 2305,339 2382,339 2460,339 2537,338 2615,335 2615,191 2537,194 2460,195 2382,195 2305,195 2227,194 2150,192 2072,189 1995,186 1917,182 1840,177 1762,173 1685,167 1607,161 1530,156 1452,150 1375,144 1297,137 1220,132 1142,128 1065,122" rendition="Line" xml:id="facs_100_r2l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_100" n="100" xml:id="img_0100"/>
+            <pb facs="#facs_100" n="100" xml:id="img_0100"/>
             
-            <ab  facs="#facs_100_r2">
+            <ab facs="#facs_100_r2">
                <lb facs="#facs_100_r2l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_100_r2l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 68 hat sich der
                <lb facs="#facs_100_r2l3" n="N003"/><rs type="person" ref="wkfm__43884">Piwanckho</rs> geäusseret, daß er keinen Compagnon habe

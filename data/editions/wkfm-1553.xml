@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2979" lry="4477" xml:id="facs_95">
+    <surface ulx="0" uly="0" lrx="2979" lry="4477" xml:id="facs_95">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1553.jpg" width="2979px" height="4477px"/>
          <zone points="212,121 212,2974 2744,2974 2744,121" rendition="TextRegion" xml:id="facs_95_r2">
             <zone points="2613,388 2639,390 2665,391 2691,393 2717,397 2744,404 2744,298 2717,291 2691,287 2665,285 2639,284 2613,282" rendition="Line" xml:id="facs_95_r2l2" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_95" n="95" xml:id="img_0095"/>
+            <pb facs="#facs_95" n="95" xml:id="img_0095"/>
             
-            <ab  facs="#facs_95_r2">
+            <ab facs="#facs_95_r2">
                <lb facs="#facs_95_r2l2" n="N001"/>769
                <lb facs="#facs_95_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_95_r2l3" n="N003"/><rs type="person" ref="wkfm__47463">Saltzpaurin Anna Rosina</rs> burgerliche Leinwathandlerin

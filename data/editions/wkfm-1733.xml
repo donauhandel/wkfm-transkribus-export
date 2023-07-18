@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2988" lry="4468" xml:id="facs_27">
+    <surface ulx="0" uly="0" lrx="2988" lry="4468" xml:id="facs_27">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1733.jpg" width="2988px" height="4468px"/>
          <zone points="281,221 281,3049 2929,3050 2929,222" rendition="TextRegion" xml:id="facs_27_r2">
             <zone points="2743,329 2920,329 2920,483 2743,483" rendition="Line" xml:id="facs_27_line_1626182956605_701" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_27" n="27" xml:id="img_0027"/>
+            <pb facs="#facs_27" n="27" xml:id="img_0027"/>
             
-            <ab  facs="#facs_27_r2">
+            <ab facs="#facs_27_r2">
                <lb facs="#facs_27_line_1626182956605_701" n="N001"/>859
                <lb facs="#facs_27_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_27_r2l2" n="N003"/><rs type="person" ref="wkfm__9489">Wolframb Johann Jacob</rs> burgerlicher Handlsmann

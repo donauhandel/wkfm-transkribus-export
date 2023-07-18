@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2964" lry="4502" xml:id="facs_170">
+    <surface ulx="0" uly="0" lrx="2964" lry="4502" xml:id="facs_170">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0224.jpg" width="2964px" height="4502px"/>
          <zone points="228,208 228,3595 2778,3595 2778,208" rendition="TextRegion" xml:id="facs_170_r1">
             <zone points="840,291 912,285 985,280 1058,277 1131,276 1203,274 1276,274 1349,276 1422,276 1494,278 1567,280 1640,283 1713,285 1785,288 1858,291 1931,293 2004,295 2076,296 2149,297 2222,297 2295,295 2295,229 2222,231 2149,231 2076,230 2004,229 1931,227 1858,225 1785,222 1713,219 1640,217 1567,214 1494,212 1422,210 1349,210 1276,208 1203,208 1131,210 1058,211 985,214 912,219 840,225" rendition="Line" xml:id="facs_170_r1l1"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_170" n="170" xml:id="img_0170"/>
+            <pb facs="#facs_170" n="170" xml:id="img_0170"/>
             
-            <ab  facs="#facs_170_r1">
+            <ab facs="#facs_170_r1">
                <lb facs="#facs_170_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_170_r1l2" n="N002"/>In obigen Erklährung dd<hi style="superscript">to</hi> 23<hi style="superscript">ten</hi> Junii 735 <hi>hat</hi> N<hi style="superscript">o</hi> 101 hat sich
                <lb facs="#facs_170_r1l3" n="N003"/>der <rs type="person" ref="wkfm__8747">Baumgarthner</rs> geäusseret, daß er keinen Compagnon habe.

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_22">
+    <surface ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_22">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0834.jpg" width="2994px" height="4530px"/>
          <zone points="318,292 318,3483 2802,3483 2802,292" rendition="TextRegion" xml:id="facs_22_r1">
             <zone points="1236,435 1300,431 1364,428 1429,425 1493,423 1558,423 1622,422 1687,422 1751,422 1816,423 1880,423 1944,423 2009,423 2073,422 2138,422 2202,420 2267,417 2331,416 2396,411 2460,407 2525,401 2525,292 2460,298 2396,302 2331,307 2267,308 2202,311 2138,313 2073,313 2009,314 1944,314 1880,314 1816,314 1751,313 1687,313 1622,313 1558,314 1493,314 1429,316 1364,319 1300,322 1236,326" rendition="Line" xml:id="facs_22_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_22" n="22" xml:id="img_0022"/>
+            <pb facs="#facs_22" n="22" xml:id="img_0022"/>
             
-            <ab  facs="#facs_22_r1">
+            <ab facs="#facs_22_r1">
                <lb facs="#facs_22_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_22_r1l3" n="N002"/>In obiger Erklährung ddto 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 390 hat sich
                <lb facs="#facs_22_r1l4" n="N003"/>der <rs type="person" ref="wkfm__8955">Götz</rs> geäusseret, daß er seine handlung für sich allein 

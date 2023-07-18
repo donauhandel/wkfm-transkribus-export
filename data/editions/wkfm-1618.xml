@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2872" lry="4419" xml:id="facs_160">
+    <surface ulx="0" uly="0" lrx="2872" lry="4419" xml:id="facs_160">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1618.jpg" width="2872px" height="4419px"/>
          <zone points="230,106 230,3238 2769,3238 2769,106" rendition="TextRegion" xml:id="facs_160_r1">
             <zone points="1012,230 1120,227 1185,224 1250,223 1316,221 1381,221 1446,221 1511,223 1577,224 1642,225 1707,226 1772,227 1838,229 1903,229 1968,229 2033,227 2099,224 2164,221 2229,216 2294,210 2360,202 2360,106 2294,114 2229,120 2164,125 2099,128 2033,131 1968,133 1903,133 1838,133 1772,131 1707,130 1642,129 1577,128 1511,127 1446,125 1381,125 1316,125 1250,127 1185,128 1120,131 1012,134" rendition="Line" xml:id="facs_160_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_160" n="160" xml:id="img_0160"/>
+            <pb facs="#facs_160" n="160" xml:id="img_0160"/>
             
-            <ab  facs="#facs_160_r1">
+            <ab facs="#facs_160_r1">
                <lb facs="#facs_160_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_160_r1l2" n="N002"/>In obigen Anbringen de ps: 22<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 735 N<hi style="superscript">o</hi> 739 hat sich der <rs type="person" ref="wkfm__25582">Stockh-
                <lb break="no" facs="#facs_160_r1l3" n="N003"/>holzer</rs> erklähret, das er sein negotium ohne Compagnon und interesse

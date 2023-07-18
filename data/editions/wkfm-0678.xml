@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_10">
+    <surface ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_10">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0678.jpg" width="2994px" height="4530px"/>
          <zone points="446,226 446,3386 2886,3386 2886,226" rendition="TextRegion" xml:id="facs_10_r1">
             <zone points="1331,335 1393,335 1455,335 1517,335 1579,336 1641,336 1703,336 1765,336 1827,338 1889,338 1951,338 2013,339 2075,339 2137,339 2199,339 2261,338 2323,338 2385,338 2447,336 2510,335 2510,226 2447,227 2385,229 2323,229 2261,229 2199,230 2137,230 2075,230 2013,230 1951,229 1889,229 1827,229 1765,227 1703,227 1641,227 1579,227 1517,226 1455,226 1393,226 1331,226" rendition="Line" xml:id="facs_10_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_10" n="10" xml:id="img_0010"/>
+            <pb facs="#facs_10" n="10" xml:id="img_0010"/>
             
-            <ab  facs="#facs_10_r1">
+            <ab facs="#facs_10_r1">
                <lb facs="#facs_10_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_10_r1l2" n="N002"/>In obigen Anbringen de ps 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 323 hat sich der
                <lb facs="#facs_10_r1l3" n="N003"/><rs type="person" ref="wkfm__8097">Felß</rs> erklähret, das er<hi>sein negotie</hi> keinen Compagnon noch interessenten

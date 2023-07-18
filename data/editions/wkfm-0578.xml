@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3003" lry="4530" xml:id="facs_78">
+    <surface ulx="0" uly="0" lrx="3003" lry="4530" xml:id="facs_78">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0578.jpg" width="3003px" height="4530px"/>
          <zone points="381,243 381,3412 2814,3412 2814,243" rendition="TextRegion" xml:id="facs_78_r1">
             <zone points="1062,344 1128,341 1194,340 1260,340 1327,341 1393,341 1459,343 1526,344 1592,346 1658,348 1725,350 1791,352 1857,355 1923,356 1990,357 2056,358 2122,358 2189,358 2255,356 2321,355 2388,352 2388,255 2321,258 2255,259 2189,261 2122,261 2056,261 1990,260 1923,259 1857,258 1791,255 1725,253 1658,251 1592,249 1526,247 1459,246 1393,244 1327,244 1260,243 1194,243 1128,244 1062,247" rendition="Line" xml:id="facs_78_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_78" n="78" xml:id="img_0078"/>
+            <pb facs="#facs_78" n="78" xml:id="img_0078"/>
             
-            <ab  facs="#facs_78_r1">
+            <ab facs="#facs_78_r1">
                <lb facs="#facs_78_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_78_r1l2" n="N002"/>In obigen Anbringen de ps: 27<hi style="superscript">ten</hi> Junii 735 N<hi style="superscript">o</hi> 278 hat sich der 
                <lb facs="#facs_78_r1l3" n="N003"/><rs type="person" ref="wkfm__20614">Teibler</rs> erklähret, daß er keinen Compagnon habe.

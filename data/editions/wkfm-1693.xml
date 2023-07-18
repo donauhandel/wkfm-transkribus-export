@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2945" lry="4468" xml:id="facs_235">
+    <surface ulx="0" uly="0" lrx="2945" lry="4468" xml:id="facs_235">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1693.jpg" width="2945px" height="4468px"/>
          <zone points="153,147 153,3894 2780,3894 2780,147" rendition="TextRegion" xml:id="facs_235_r1">
             <zone points="2592,273 2617,273 2643,275 2668,277 2694,279 2719,280 2745,279 2745,213 2719,214 2694,213 2668,211 2643,209 2617,207 2592,207" rendition="Line" xml:id="facs_235_r1l2" subtype="page-number"/>
@@ -81,9 +81,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_235" n="235" xml:id="img_0235"/>
+            <pb facs="#facs_235" n="235" xml:id="img_0235"/>
             
-            <ab  facs="#facs_235_r1">
+            <ab facs="#facs_235_r1">
                <lb facs="#facs_235_r1l2" n="N001"/>839
                <lb facs="#facs_235_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_235_r1l3" n="N003"/><rs type="person" ref="wkfm__47603">Steyrer Johann Georg</rs> burgerlicher Handlsmann

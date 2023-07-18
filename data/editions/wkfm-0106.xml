@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2991" lry="4407" xml:id="facs_53">
+    <surface ulx="0" uly="0" lrx="2991" lry="4407" xml:id="facs_53">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0106.jpg" width="2991px" height="4407px"/>
          <zone points="108,119 108,2970 2688,2970 2688,119" rendition="TextRegion" xml:id="facs_53_r1">
             <zone points="2552,136 2663,136 2663,241 2552,241" rendition="Line" xml:id="facs_53_line_1629707505116_449" subtype="page-number"/>
@@ -74,9 +74,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_53" n="53" xml:id="img_0053"/>
+            <pb facs="#facs_53" n="53" xml:id="img_0053"/>
             
-            <ab  facs="#facs_53_r1">
+            <ab facs="#facs_53_r1">
                <lb facs="#facs_53_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_53_r1l2" n="N003"/><rs type="person" ref="wkfm__8116">Pehamb Mathias</rs> burgerlicher Handlsmann
                <lb facs="#facs_53_r1l3" n="N004"/>Firma oder Raggion

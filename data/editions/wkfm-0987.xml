@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3095" lry="4410" xml:id="facs_67">
+    <surface ulx="0" uly="0" lrx="3095" lry="4410" xml:id="facs_67">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0987.jpg" width="3095px" height="4410px"/>
          <zone points="249,185 249,3041 2754,3041 2754,185" rendition="TextRegion" xml:id="facs_67_r1">
             <zone points="2525,429 2551,428 2577,426 2603,428 2629,427 2655,424 2682,420 2682,321 2655,325 2629,328 2603,329 2577,327 2551,329 2525,330" rendition="Line" xml:id="facs_67_r1l2" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_67" n="67" xml:id="img_0067"/>
+            <pb facs="#facs_67" n="67" xml:id="img_0067"/>
             
-            <ab  facs="#facs_67_r1">
+            <ab facs="#facs_67_r1">
                <lb facs="#facs_67_r1l2" n="N001"/>486
                <lb facs="#facs_67_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_67_r1l3" n="N003"/><hi>Hamer</hi> <rs type="person" ref="wkfm__16579">Hauer Georg Franz</rs> burgerlicher Handlsmann

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3228" lry="4530" xml:id="facs_2">
+    <surface ulx="0" uly="0" lrx="3228" lry="4530" xml:id="facs_2">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0007.jpg" width="3228px" height="4530px"/>
          <zone points="614,262 620,3479 3099,3479 3093,262" rendition="TextRegion" xml:id="facs_2_r1">
             <zone points="1093,459 1213,459 1274,410 1347,411 1420,414 1493,416 1566,417 1639,419 1712,421 1785,423 1858,425 1931,426 2004,429 2077,431 2150,432 2223,434 2296,435 2369,437 2442,438 2515,440 2588,441 2584,279 2511,278 2443,359 2345,280 2272,278 2235,307 2150,282 2077,281 2004,375 1998,298 1887,306 1821,307 1722,300 1639,365 1611,291 1504,277 1397,324 1425,316 1410,258 1197,273 1124,272" rendition="Line" xml:id="facs_2_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_2" n="2" xml:id="img_0002"/>
+            <pb facs="#facs_2" n="2" xml:id="img_0002"/>
             
-            <ab  facs="#facs_2_r1">
+            <ab facs="#facs_2_r1">
                <lb facs="#facs_2_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_2_r1l3" n="N002"/>laut obigen anbringen de ps: 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 1 hat sich der <rs type="person" ref="wkfm__10346">Abandio</rs> erklähret das sein Nego-
                <lb facs="#facs_2_r1l4" n="N003"/>tium in seiner blossen Firma geführet werde.

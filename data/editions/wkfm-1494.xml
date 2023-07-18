@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2929" lry="4455" xml:id="facs_36">
+    <surface ulx="0" uly="0" lrx="2929" lry="4455" xml:id="facs_36">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1494.jpg" width="2929px" height="4455px"/>
          <zone points="189,100 189,3304 2778,3304 2778,100" rendition="TextRegion" xml:id="facs_36_r1">
             <zone points="1022,271 1087,265 1152,260 1217,257 1283,254 1348,253 1413,250 1478,250 1544,248 1609,248 1674,248 1739,247 1805,247 1870,246 1935,245 2000,242 2066,241 2131,238 2196,233 2261,228 2327,223 2327,100 2261,105 2196,110 2131,115 2066,118 2000,119 1935,122 1870,123 1805,124 1739,124 1674,125 1609,125 1544,125 1478,127 1413,127 1348,130 1283,131 1217,134 1152,137 1087,142 1022,148" rendition="Line" xml:id="facs_36_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_36" n="36" xml:id="img_0036"/>
+            <pb facs="#facs_36" n="36" xml:id="img_0036"/>
             
-            <ab  facs="#facs_36_r1">
+            <ab facs="#facs_36_r1">
                <lb facs="#facs_36_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_36_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 673 hat die <rs type="person" ref="wkfm__47419">Schwaig-
                <lb break="no" facs="#facs_36_r1l3" n="N003"/>hofer: Wittib</rs> sich geäusseret, das ihr negotium bloß allein

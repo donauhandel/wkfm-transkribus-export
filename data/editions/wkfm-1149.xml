@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3134" lry="4521" xml:id="facs_49">
+    <surface ulx="0" uly="0" lrx="3134" lry="4521" xml:id="facs_49">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1149.jpg" width="3134px" height="4521px"/>
          <zone points="264,202 264,3035 2925,3035 2925,202" rendition="TextRegion" xml:id="facs_49_r3">
             <zone points="379,271 250,271 250,427 379,427" rendition="Line" xml:id="facs_49_line_1624529152959_3852"/>
@@ -70,9 +70,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_49" n="49" xml:id="img_0049"/>
+            <pb facs="#facs_49" n="49" xml:id="img_0049"/>
             
-            <ab  facs="#facs_49_r3">
+            <ab facs="#facs_49_r3">
                <lb facs="#facs_49_r3l2" n="N002"/>568
                <lb facs="#facs_49_r3l1" n="N003"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_49_r3l3" n="N004"/><rs type="person" ref="wkfm__25095"><unclear>Linner</unclear> Joseph Christian</rs> burgerlicher Handlsmann

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2991" lry="4407" xml:id="facs_73">
+    <surface ulx="0" uly="0" lrx="2991" lry="4407" xml:id="facs_73">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0126.jpg" width="2991px" height="4407px"/>
          <zone points="66,98 69,3009 2682,3012 2679,101" rendition="TextRegion" xml:id="facs_73_r2">
             <zone points="69,241 168,241 168,108 69,108" rendition="Line" xml:id="facs_73_line_1629707623232_523"/>
@@ -70,9 +70,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_73" n="73" xml:id="img_0073"/>
+            <pb facs="#facs_73" n="73" xml:id="img_0073"/>
             
-            <ab  facs="#facs_73_r2">
+            <ab facs="#facs_73_r2">
                <lb facs="#facs_73_r2l1" n="N003"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_73_r2l2" n="N004"/><rs type="person" ref="wkfm__9612">Pommer Sebastian</rs> burgerlicher Handlsmann
                <lb facs="#facs_73_r2l3" n="N005"/>Firma oder Raggion

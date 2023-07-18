@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_26">
+    <surface ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_26">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0646.jpg" width="2994px" height="4530px"/>
          <zone points="389,247 389,3436 2928,3436 2928,247" rendition="TextRegion" xml:id="facs_26_r1">
             <zone points="1301,344 1367,343 1434,343 1501,343 1568,344 1634,344 1701,344 1768,346 1835,346 1901,347 1968,349 2035,349 2102,350 2168,350 2235,350 2302,350 2369,349 2435,349 2502,347 2569,345 2636,343 2636,247 2569,249 2502,251 2435,253 2369,253 2302,254 2235,254 2168,254 2102,254 2035,253 1968,253 1901,251 1835,250 1768,250 1701,248 1634,248 1568,248 1501,247 1434,247 1367,247 1301,248" rendition="Line" xml:id="facs_26_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_26" n="26" xml:id="img_0026"/>
+            <pb facs="#facs_26" n="26" xml:id="img_0026"/>
             
-            <ab  facs="#facs_26_r1">
+            <ab facs="#facs_26_r1">
                <lb facs="#facs_26_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_26_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 21<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 733 N<hi style="superscript">o</hi> 308 hat sich der
                <lb facs="#facs_26_r1l3" n="N003"/><rs type="person" ref="wkfm__46418">Eberl</rs> geäussert, daß er seine Handlung für sich allein habe.

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3086" lry="4491" xml:id="facs_45">
+    <surface ulx="0" uly="0" lrx="3086" lry="4491" xml:id="facs_45">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1229.jpg" width="3086px" height="4491px"/>
          <zone points="62,138 62,2959 2693,2963 2693,142" rendition="TextRegion" xml:id="facs_45_r2">
             <zone points="2558,343 2694,343 2694,448 2558,448" rendition="Line" xml:id="facs_45_line_1625122241455_343" subtype="page-number"/>
@@ -70,9 +70,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_45" n="45" xml:id="img_0045"/>
+            <pb facs="#facs_45" n="45" xml:id="img_0045"/>
             
-            <ab  facs="#facs_45_r2">
+            <ab facs="#facs_45_r2">
                <lb facs="#facs_45_line_1625122241455_343" n="N001"/>608
                <lb facs="#facs_45_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_45_r2l2" n="N003"/><rs type="person" ref="wkfm__46880">Mayrhofer Florian Michäl</rs> burgerlicher Handlsmann

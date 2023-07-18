@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2886" lry="4476" xml:id="facs_14">
+    <surface ulx="0" uly="0" lrx="2886" lry="4476" xml:id="facs_14">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1720.jpg" width="2886px" height="4476px"/>
          <zone points="162,246 162,3386 2727,3386 2727,246" rendition="TextRegion" xml:id="facs_14_r1">
             <zone points="846,389 913,380 981,374 1048,368 1116,363 1184,360 1251,357 1319,356 1387,356 1454,356 1522,354 1590,356 1657,356 1725,354 1793,354 1860,354 1928,352 1996,350 2063,346 2131,342 2199,336 2199,246 2131,252 2063,256 1996,260 1928,262 1860,264 1793,264 1725,264 1657,266 1590,266 1522,264 1454,266 1387,266 1319,266 1251,267 1184,270 1116,273 1048,278 981,284 913,290 846,299" rendition="Line" xml:id="facs_14_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_14" n="14" xml:id="img_0014"/>
+            <pb facs="#facs_14" n="14" xml:id="img_0014"/>
             
-            <ab  facs="#facs_14_r1">
+            <ab facs="#facs_14_r1">
                <lb facs="#facs_14_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_14_r1l2" n="N002"/>In obigen Anbringen de ps: 23<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 791 hat sich der <rs type="person" ref="wkfm__46957">Wander-
                <lb break="no" facs="#facs_14_r1l3" n="N003"/>pohl</rs> erklähret, daß er sein negotium mit eignen <choice><expan/><abbr>intee</abbr></choice> und obligo

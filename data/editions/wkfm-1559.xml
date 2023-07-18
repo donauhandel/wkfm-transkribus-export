@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2979" lry="4477" xml:id="facs_101">
+    <surface ulx="0" uly="0" lrx="2979" lry="4477" xml:id="facs_101">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1559.jpg" width="2979px" height="4477px"/>
          <zone points="171,112 171,2967 2779,2952 2779,97" rendition="TextRegion" xml:id="facs_101_r1">
             <zone points="2539,240 2770,240 2770,376 2539,376" rendition="Line" xml:id="facs_101_line_1626261419961_1556" subtype="page-number"/>
@@ -71,9 +71,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_101" n="101" xml:id="img_0101"/>
+            <pb facs="#facs_101" n="101" xml:id="img_0101"/>
             
-            <ab  facs="#facs_101_r1">
+            <ab facs="#facs_101_r1">
                <lb facs="#facs_101_line_1626261419961_1556" n="N001"/>772
                <lb facs="#facs_101_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_101_r1l2" n="N003"/><rs type="person" ref="wkfm__9138">Schulz Johann Stephan</rs> burgerlicher Handlsmann

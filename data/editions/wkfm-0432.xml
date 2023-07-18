@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2982" lry="4473" xml:id="facs_112">
+    <surface ulx="0" uly="0" lrx="2982" lry="4473" xml:id="facs_112">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0432.jpg" width="2982px" height="4473px"/>
          <zone points="261,197 261,3333 2549,3333 2549,197" rendition="TextRegion" xml:id="facs_112_r1">
             <zone points="1151,297 1220,296 1290,294 1360,293 1430,293 1500,293 1570,293 1640,293 1710,294 1780,294 1850,294 1919,296 1989,296 2059,296 2129,294 2199,294 2269,291 2339,290 2409,286 2479,283 2549,278 2549,197 2479,202 2409,205 2339,209 2269,210 2199,213 2129,213 2059,215 1989,215 1919,215 1850,213 1780,213 1710,213 1640,212 1570,212 1500,212 1430,212 1360,212 1290,213 1220,215 1151,216" rendition="Line" xml:id="facs_112_r1l1"/>
@@ -73,9 +73,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_112" n="112" xml:id="img_0112"/>
+            <pb facs="#facs_112" n="112" xml:id="img_0112"/>
             
-            <ab  facs="#facs_112_r1">
+            <ab facs="#facs_112_r1">
                <lb facs="#facs_112_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_112_r1l2" n="N002"/><seg type="wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_112_r1l3" n="N003"/>Untern 24<hi style="superscript">ten</hi> Jenner 771 hat der <rs type="person" ref="wkfm__46138">Joh: Georg Klebinder</rs> seinen mit

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3003" lry="4530" xml:id="facs_2">
+    <surface ulx="0" uly="0" lrx="3003" lry="4530" xml:id="facs_2">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0622.jpg" width="3003px" height="4530px"/>
          <zone points="381,-317 381,2835 2990,2831 2990,-321" rendition="TextRegion" xml:id="facs_2_r1">
             <zone points="1349,327 1417,329 1486,329 1554,330 1623,332 1692,334 1760,336 1829,338 1897,339 1966,341 2035,342 2103,344 2172,345 2240,345 2309,345 2378,345 2446,345 2515,344 2583,342 2652,339 2721,336 2721,237 2652,240 2583,243 2515,245 2446,246 2378,246 2309,246 2240,246 2172,246 2103,245 2035,243 1966,242 1897,240 1829,239 1760,237 1692,235 1623,233 1554,231 1486,230 1417,230 1349,228" rendition="Line" xml:id="facs_2_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_2" n="2" xml:id="img_0002"/>
+            <pb facs="#facs_2" n="2" xml:id="img_0002"/>
             
-            <ab  facs="#facs_2_r1">
+            <ab facs="#facs_2_r1">
                <lb facs="#facs_2_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_2_r1l2" n="N002"/>In obigen Anbringen de ps. 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 297 hat sich der <rs type="person" ref="wkfm__8956">Esslinger</rs>
                <lb facs="#facs_2_r1l3" n="N003"/>Erklähret, daß er keinen Compagnon habe

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_18">
+    <surface ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_18">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0830.jpg" width="2994px" height="4530px"/>
          <zone points="285,260 285,3506 2832,3506 2832,260" rendition="TextRegion" xml:id="facs_18_r1">
             <zone points="1194,399 1254,396 1315,392 1376,390 1436,387 1497,387 1558,386 1618,386 1679,386 1740,386 1801,386 1861,387 1922,387 1983,389 2043,389 2104,389 2165,389 2225,389 2286,389 2347,387 2408,386 2408,260 2347,261 2286,263 2225,263 2165,263 2104,263 2043,263 1983,263 1922,261 1861,261 1801,260 1740,260 1679,260 1618,260 1558,260 1497,261 1436,261 1376,264 1315,266 1254,270 1194,273" rendition="Line" xml:id="facs_18_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_18" n="18" xml:id="img_0018"/>
+            <pb facs="#facs_18" n="18" xml:id="img_0018"/>
             
-            <ab  facs="#facs_18_r1">
+            <ab facs="#facs_18_r1">
                <lb facs="#facs_18_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_18_r1l2" n="N002"/>In obigen Anbringen de ps: 25<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 388 hat sich der <rs type="person">Gazzinelli</rs>
                <lb facs="#facs_18_r1l3" n="N003"/>erklähret, daß er mit keiner societaet oder interessenten behafftet

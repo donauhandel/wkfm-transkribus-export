@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4520" xml:id="facs_24">
+    <surface ulx="0" uly="0" lrx="2994" lry="4520" xml:id="facs_24">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0944.jpg" width="2994px" height="4520px"/>
          <zone points="366,231 366,3418 2795,3418 2795,231" rendition="TextRegion" xml:id="facs_24_r1">
             <zone points="1178,379 1237,375 1296,371 1356,367 1415,365 1475,363 1534,361 1594,361 1653,361 1713,361 1772,361 1831,361 1891,363 1950,363 2010,364 2069,364 2129,364 2188,364 2248,363 2307,363 2367,361 2367,231 2307,233 2248,233 2188,234 2129,234 2069,234 2010,234 1950,233 1891,233 1831,231 1772,231 1713,231 1653,231 1594,231 1534,231 1475,233 1415,235 1356,237 1296,241 1237,245 1178,249" rendition="Line" xml:id="facs_24_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_24" n="24" xml:id="img_0024"/>
+            <pb facs="#facs_24" n="24" xml:id="img_0024"/>
             
-            <ab  facs="#facs_24_r1">
+            <ab facs="#facs_24_r1">
                <lb facs="#facs_24_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_24_r1l2" n="N002"/>In obigen Anbringen de ps: 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 436 hat sich der
                <lb facs="#facs_24_r1l3" n="N003"/><rs type="person" ref="wkfm__25805">Horvath</rs> erklähret, das er keinen Compagnon habe

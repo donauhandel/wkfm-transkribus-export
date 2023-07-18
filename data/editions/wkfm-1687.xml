@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3023" lry="4468" xml:id="facs_229">
+    <surface ulx="0" uly="0" lrx="3023" lry="4468" xml:id="facs_229">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1687.jpg" width="3023px" height="4468px"/>
          <zone points="371,236 371,3055 2927,3057 2927,238" rendition="TextRegion" xml:id="facs_229_r1">
             <zone points="2756,351 2929,351 2929,462 2756,462" rendition="Line" xml:id="facs_229_line_1626263756107_2531" subtype="page-number"/>
@@ -70,9 +70,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_229" n="229" xml:id="img_0229"/>
+            <pb facs="#facs_229" n="229" xml:id="img_0229"/>
             
-            <ab  facs="#facs_229_r1">
+            <ab facs="#facs_229_r1">
                <lb facs="#facs_229_line_1626263756107_2531" n="N001"/>836
                <lb facs="#facs_229_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_229_r1l2" n="N003"/><rs type="person" ref="wkfm__47600">Stapf Carl</rs> burgerlicher Handlsmann

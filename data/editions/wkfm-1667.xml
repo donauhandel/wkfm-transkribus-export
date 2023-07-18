@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2952" lry="4468" xml:id="facs_209">
+    <surface ulx="0" uly="0" lrx="2952" lry="4468" xml:id="facs_209">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1667.jpg" width="2952px" height="4468px"/>
          <zone points="161,174 161,3317 2885,3317 2885,174" rendition="TextRegion" xml:id="facs_209_r1">
             <zone points="2691,337 2718,339 2745,340 2772,341 2799,341 2826,340 2853,338 2880,337 2880,276 2853,277 2826,279 2799,280 2772,280 2745,279 2718,278 2691,276" rendition="Line" xml:id="facs_209_r1l2" subtype="page-number"/>
@@ -92,9 +92,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_209" n="209" xml:id="img_0209"/>
+            <pb facs="#facs_209" n="209" xml:id="img_0209"/>
             
-            <ab  facs="#facs_209_r1">
+            <ab facs="#facs_209_r1">
                <lb facs="#facs_209_r1l2" n="N001"/>826
                <lb facs="#facs_209_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_209_r1l3" n="N003"/>Von <rs type="person" ref="wkfm__44051">Scheidlin Johann Caspar</rs> kay: könig: Niderlagsverwanter

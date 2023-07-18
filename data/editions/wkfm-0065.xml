@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2840" lry="4530" xml:id="facs_12">
+    <surface ulx="0" uly="0" lrx="2840" lry="4530" xml:id="facs_12">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0065.jpg" width="2840px" height="4530px"/>
          <zone points="345,251 345,3327 2717,3327 2717,251" rendition="TextRegion" xml:id="facs_12_r1">
             <zone points="758,372 825,377 892,382 959,385 1027,389 1094,393 1161,396 1228,398 1296,401 1363,403 1430,406 1497,409 1565,412 1632,414 1699,418 1766,421 1834,424 1901,428 1968,432 2035,438 2103,444 2103,323 2035,317 1968,311 1901,307 1834,303 1766,300 1699,297 1632,293 1565,291 1497,288 1430,285 1363,282 1296,280 1228,277 1161,275 1094,272 1027,268 959,264 892,261 825,256 758,251" rendition="Line" xml:id="facs_12_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_12" n="12" xml:id="img_0012"/>
+            <pb facs="#facs_12" n="12" xml:id="img_0012"/>
             
-            <ab  facs="#facs_12_r1">
+            <ab facs="#facs_12_r1">
                <lb facs="#facs_12_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_12_r1l2" n="N002"/>In obigen Anbringen de ps: 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 30 hat sich der <choice><expan>Premblechner</expan><abbr><rs type="person" ref="wkfm__9481">Prembl</rs></abbr></choice>
                <lb facs="#facs_12_r1l3" n="N003"/>Erklähret das er keinen Compagnon habe.

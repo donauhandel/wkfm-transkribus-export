@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3095" lry="4469" xml:id="facs_5">
+    <surface ulx="0" uly="0" lrx="3095" lry="4469" xml:id="facs_5">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0925.jpg" width="3095px" height="4469px"/>
          <zone points="260,170 260,3010 2851,3010 2851,170" rendition="TextRegion" xml:id="facs_5_r3">
             <zone points="2668,245 2832,245 2832,367 2668,367" rendition="Line" xml:id="facs_5_line_1627384379449_608" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_5" n="5" xml:id="img_0005"/>
+            <pb facs="#facs_5" n="5" xml:id="img_0005"/>
             
-            <ab  facs="#facs_5_r3">
+            <ab facs="#facs_5_r3">
                <lb facs="#facs_5_r3l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_5_r3l2" n="N003"/><rs type="person" ref="wkfm__11600">Hukher Maximilian</rs> hofbefreyter Leinwathandler
                <lb facs="#facs_5_r3l3" n="N004"/>Firma ad Raggion

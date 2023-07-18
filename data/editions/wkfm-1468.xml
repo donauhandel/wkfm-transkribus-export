@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2886" lry="4455" xml:id="facs_10">
+    <surface ulx="0" uly="0" lrx="2886" lry="4455" xml:id="facs_10">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1468.jpg" width="2886px" height="4455px"/>
          <zone points="360,190 360,3378 2823,3378 2823,190" rendition="TextRegion" xml:id="facs_10_r1">
             <zone points="1208,342 1272,336 1336,330 1401,325 1465,322 1529,319 1594,318 1658,316 1722,315 1787,313 1851,312 1915,312 1980,310 2044,309 2108,307 2173,304 2237,302 2301,298 2366,295 2430,289 2495,283 2495,190 2430,196 2366,202 2301,205 2237,209 2173,211 2108,214 2044,216 1980,217 1915,219 1851,219 1787,220 1722,222 1658,223 1594,225 1529,226 1465,229 1401,232 1336,237 1272,243 1208,249" rendition="Line" xml:id="facs_10_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_10" n="10" xml:id="img_0010"/>
+            <pb facs="#facs_10" n="10" xml:id="img_0010"/>
             
-            <ab  facs="#facs_10_r1">
+            <ab facs="#facs_10_r1">
                <lb facs="#facs_10_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_10_r1l2" n="N002"/>In obigen Anbringen de ps: 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 661 hat sich der
                <lb facs="#facs_10_r1l3" n="N003"/><rs type="person" ref="wkfm__10643">Schwanner</rs> erklähret, daß er sein negotium allein habe

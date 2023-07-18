@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_30">
+    <surface ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_30">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0698.jpg" width="2994px" height="4530px"/>
          <zone points="438,242 438,3432 2892,3432 2892,242" rendition="TextRegion" xml:id="facs_30_r1">
             <zone points="1301,351 1361,351 1422,350 1482,350 1543,351 1603,351 1664,351 1724,353 1785,354 1845,354 1906,356 1966,357 2027,357 2087,359 2148,359 2208,359 2269,359 2329,357 2390,356 2450,354 2511,351 2511,243 2450,246 2390,248 2329,249 2269,251 2208,251 2148,251 2087,251 2027,249 1966,249 1906,248 1845,246 1785,246 1724,245 1664,243 1603,243 1543,243 1482,242 1422,242 1361,243 1301,243" rendition="Line" xml:id="facs_30_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_30" n="30" xml:id="img_0030"/>
+            <pb facs="#facs_30" n="30" xml:id="img_0030"/>
             
-            <ab  facs="#facs_30_r1">
+            <ab facs="#facs_30_r1">
                <lb facs="#facs_30_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_30_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 330 hat sich
                <lb facs="#facs_30_r1l3" n="N003"/>der <rs type="person" ref="wkfm__8410">Förschl</rs> geäusseret, daß er seine Handlung fur sich allein

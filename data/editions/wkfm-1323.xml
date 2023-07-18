@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3105" lry="4455" xml:id="facs_31">
+    <surface ulx="0" uly="0" lrx="3105" lry="4455" xml:id="facs_31">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1323.jpg" width="3105px" height="4455px"/>
          <zone points="204,147 204,4308 2917,4314 2917,153" rendition="TextRegion" xml:id="facs_31_r1">
             <zone points="2697,264 2897,264 2897,394 2697,394" rendition="Line" xml:id="facs_31_line_1625040531092_740" subtype="page-number"/>
@@ -82,9 +82,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_31" n="31" xml:id="img_0031"/>
+            <pb facs="#facs_31" n="31" xml:id="img_0031"/>
             
-            <ab  facs="#facs_31_r1">
+            <ab facs="#facs_31_r1">
                <lb facs="#facs_31_line_1625040531092_740" n="N001"/>654
                <lb facs="#facs_31_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_31_r1l2" n="N003"/><rs type="person" ref="wkfm__46676">Nachbauer David Adam</rs> burgerlicher Handlsmann

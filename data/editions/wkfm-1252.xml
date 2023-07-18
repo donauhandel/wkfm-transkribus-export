@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3019" lry="4436" xml:id="facs_68">
+    <surface ulx="0" uly="0" lrx="3019" lry="4436" xml:id="facs_68">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1252.jpg" width="3019px" height="4436px"/>
          <zone points="438,107 438,3335 2934,3335 2934,107" rendition="TextRegion" xml:id="facs_68_r1">
             <zone points="1203,269 1261,267 1319,265 1377,265 1435,263 1493,265 1551,265 1610,266 1668,268 1726,269 1784,270 1842,271 1900,272 1958,272 2017,272 2075,272 2133,271 2191,269 2249,267 2307,263 2366,257 2366,107 2307,113 2249,117 2191,119 2133,121 2075,122 2017,122 1958,122 1900,122 1842,121 1784,120 1726,119 1668,118 1610,116 1551,115 1493,115 1435,113 1377,115 1319,115 1261,117 1203,119" rendition="Line" xml:id="facs_68_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_68" n="68" xml:id="img_0068"/>
+            <pb facs="#facs_68" n="68" xml:id="img_0068"/>
             
-            <ab  facs="#facs_68_r1">
+            <ab facs="#facs_68_r1">
                <lb facs="#facs_68_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_68_r1l2" n="N002"/>In obigen Anbringen de ps: 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 735 N<hi style="superscript">o</hi> 573 hat sich der <rs type="person" ref="wkfm__9611">Mans-
                <lb break="no" facs="#facs_68_r1l3" n="N003"/>rieder</rs> erklähret, das er sein negotium allein ohne Compagnon führe

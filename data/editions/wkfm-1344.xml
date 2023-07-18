@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2940" lry="4464" xml:id="facs_16">
+    <surface ulx="0" uly="0" lrx="2940" lry="4464" xml:id="facs_16">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1344.jpg" width="2940px" height="4464px"/>
          <zone points="294,176 294,3660 2505,3660 2505,176" rendition="TextRegion" xml:id="facs_16_r1">
             <zone points="1100,303 1165,295 1230,288 1295,284 1361,279 1426,278 1491,278 1556,278 1622,278 1687,279 1752,282 1817,284 1883,285 1948,287 2013,287 2078,287 2144,285 2209,283 2274,279 2339,274 2405,266 2405,176 2339,184 2274,189 2209,193 2144,195 2078,197 2013,197 1948,197 1883,195 1817,194 1752,192 1687,189 1622,188 1556,188 1491,188 1426,188 1361,189 1295,194 1230,198 1165,205 1100,213" rendition="Line" xml:id="facs_16_r1l1"/>
@@ -73,9 +73,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_16" n="16" xml:id="img_0016"/>
+            <pb facs="#facs_16" n="16" xml:id="img_0016"/>
             
-            <ab  facs="#facs_16_r1">
+            <ab facs="#facs_16_r1">
                <lb facs="#facs_16_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_16_r1l2" n="N002"/><seg type="wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_16_r1l3" n="N003"/>Untern 14<hi style="superscript">ten</hi> January 768 hat der <rs type="person" ref="wkfm__43856">Anton Oberleithner</rs> seinen mit der

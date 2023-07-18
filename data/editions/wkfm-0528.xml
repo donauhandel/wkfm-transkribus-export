@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3051" lry="4473" xml:id="facs_28">
+    <surface ulx="0" uly="0" lrx="3051" lry="4473" xml:id="facs_28">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0528.jpg" width="3051px" height="4473px"/>
          <zone points="396,150 396,3295 2973,3295 2973,150" rendition="TextRegion" xml:id="facs_28_r1">
             <zone points="1130,257 1198,253 1267,250 1336,248 1405,247 1474,247 1543,247 1611,248 1680,250 1749,251 1818,253 1887,256 1956,257 2025,259 2093,261 2162,262 2231,263 2300,263 2369,263 2438,263 2507,260 2507,163 2438,166 2369,166 2300,166 2231,166 2162,165 2093,164 2025,162 1956,160 1887,159 1818,156 1749,154 1680,153 1611,151 1543,150 1474,150 1405,150 1336,151 1267,153 1198,156 1130,160" rendition="Line" xml:id="facs_28_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_28" n="28" xml:id="img_0028"/>
+            <pb facs="#facs_28" n="28" xml:id="img_0028"/>
             
-            <ab  facs="#facs_28_r1">
+            <ab facs="#facs_28_r1">
                <lb facs="#facs_28_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_28_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 255 hat sich der 
                <lb facs="#facs_28_r1l3" n="N003"/><rs type="person" ref="wkfm__46210">Deckh</rs> geäusseret, daß er keinen Compagnon habe

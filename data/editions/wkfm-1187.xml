@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3048" lry="4615" xml:id="facs_3">
+    <surface ulx="0" uly="0" lrx="3048" lry="4615" xml:id="facs_3">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1187.jpg" width="3048px" height="4615px"/>
          <zone points="189,270 189,3085 2811,3085 2811,270" rendition="TextRegion" xml:id="facs_3_r1">
             <zone points="2648,508 2675,510 2702,510 2729,511 2756,511 2783,512 2811,513 2811,438 2783,437 2756,436 2729,436 2702,435 2675,435 2648,433" rendition="Line" xml:id="facs_3_r1l2" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_3" n="3" xml:id="img_0003"/>
+            <pb facs="#facs_3" n="3" xml:id="img_0003"/>
             
-            <ab  facs="#facs_3_r1">
+            <ab facs="#facs_3_r1">
                <lb facs="#facs_3_r1l2" n="N001"/>587
                <lb facs="#facs_3_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_3_r1l3" n="N003"/><rs type="person" ref="wkfm__9918">Moser Franz Joseph</rs> hofbefreyter Handlsmann

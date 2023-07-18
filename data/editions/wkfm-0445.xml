@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3009" lry="4436" xml:id="facs_125">
+    <surface ulx="0" uly="0" lrx="3009" lry="4436" xml:id="facs_125">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0445.jpg" width="3009px" height="4436px"/>
          <graphic url="" width="3009px" height="4436px"/>
          <zone points="116,218 116,4144 2870,4144 2870,218" rendition="TextRegion" xml:id="facs_125_r2">
@@ -84,9 +84,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_125" n="125" xml:id="img_0125"/>
+            <pb facs="#facs_125" n="125" xml:id="img_0125"/>
             
-            <ab  facs="#facs_125_r2">
+            <ab facs="#facs_125_r2">
                <lb facs="#facs_125_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_125_r2l2" n="N003"/><rs type="person" ref="wkfm__35115">Klebinder Franz</rs> burgerlicher Handlsmann
                <lb facs="#facs_125_r2l3" n="N004"/>Firma ad Raggion

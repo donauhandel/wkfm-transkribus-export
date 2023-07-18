@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2979" lry="4383" xml:id="facs_1">
+    <surface ulx="0" uly="0" lrx="2979" lry="4383" xml:id="facs_1">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1855.jpg" width="2979px" height="4383px"/>
          <zone points="166,55 166,2908 3063,2922 3063,69" rendition="TextRegion" xml:id="facs_1_r2">
             <zone points="191,167 364,167 364,307 191,307" rendition="Line" xml:id="facs_1_line_1639054975551_1125"/>
@@ -71,9 +71,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_1" n="1" xml:id="img_0001"/>
+            <pb facs="#facs_1" n="1" xml:id="img_0001"/>
             
-            <ab  facs="#facs_1_r2">
+            <ab facs="#facs_1_r2">
                <lb facs="#facs_1_r2l2" n="N002"/>920
                <lb facs="#facs_1_r2l1" n="N003"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_1_r2l3" n="N004"/><rs type="person" ref="wkfm__8271">Arnsteiner Isaac</rs> Jud

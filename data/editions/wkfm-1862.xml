@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2893" lry="4398" xml:id="facs_8">
+    <surface ulx="0" uly="0" lrx="2893" lry="4398" xml:id="facs_8">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1862.jpg" width="2893px" height="4398px"/>
          <zone points="155,135 155,3294 2756,3294 2756,135" rendition="TextRegion" xml:id="facs_8_r1">
             <zone points="1010,273 1076,265 1142,258 1208,254 1274,252 1340,250 1406,249 1473,250 1539,250 1605,252 1671,252 1737,253 1803,255 1869,255 1936,253 2002,252 2068,249 2134,245 2200,238 2266,231 2333,220 2333,135 2266,146 2200,153 2134,160 2068,164 2002,167 1936,168 1869,170 1803,170 1737,168 1671,167 1605,167 1539,165 1473,165 1406,164 1340,165 1274,167 1208,169 1142,173 1076,180 1010,188" rendition="Line" xml:id="facs_8_r1l1"/>
@@ -71,9 +71,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_8" n="8" xml:id="img_0008"/>
+            <pb facs="#facs_8" n="8" xml:id="img_0008"/>
             
-            <ab  facs="#facs_8_r1">
+            <ab facs="#facs_8_r1">
                <lb facs="#facs_8_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_8_r1l2" n="N002"/>In obigen Anbringen <hi>hat sich</hi> de ps: 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 1960 hat sich der
                <lb facs="#facs_8_r1l3" n="N003"/><rs type="person" ref="wkfm__11130">Marx Hirschel </rs>nebst seinem Brudern <rs type="person" ref="wkfm__43822">Mayer Hierschel </rs>erklähret

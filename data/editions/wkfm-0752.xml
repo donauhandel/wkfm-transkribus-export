@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_84">
+    <surface ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_84">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0752.jpg" width="2994px" height="4530px"/>
          <zone points="486,273 486,3470 2919,3470 2919,273" rendition="TextRegion" xml:id="facs_84_r1">
             <zone points="1379,393 1440,393 1502,392 1564,392 1626,392 1688,390 1749,390 1811,390 1873,390 1935,390 1997,390 2058,390 2120,389 2182,389 2244,387 2306,386 2367,384 2429,383 2491,380 2553,377 2615,372 2615,273 2553,278 2491,281 2429,284 2367,285 2306,287 2244,288 2182,290 2120,290 2058,291 1997,291 1935,291 1873,291 1811,291 1749,291 1688,291 1626,293 1564,293 1502,293 1440,294 1379,294" rendition="Line" xml:id="facs_84_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_84" n="84" xml:id="img_0084"/>
+            <pb facs="#facs_84" n="84" xml:id="img_0084"/>
             
-            <ab  facs="#facs_84_r1">
+            <ab facs="#facs_84_r1">
                <lb facs="#facs_84_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_84_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 11<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 733 N<hi style="superscript">o</hi> 356
                <lb facs="#facs_84_r1l3" n="N003"/>hat sich der <rs type="person" ref="wkfm__47113">Forster</rs> geäusseret, das er seine Handlung

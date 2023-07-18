@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2801" lry="4476" xml:id="facs_204">
+    <surface ulx="0" uly="0" lrx="2801" lry="4476" xml:id="facs_204">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1662.jpg" width="2801px" height="4476px"/>
          <zone points="332,199 332,3749 2649,3749 2649,199" rendition="TextRegion" xml:id="facs_204_r1">
             <zone points="1148,292 1209,286 1271,282 1332,278 1394,277 1456,277 1517,278 1579,280 1641,281 1702,284 1764,287 1826,290 1887,293 1949,295 2011,298 2072,298 2134,298 2196,298 2257,295 2319,291 2381,286 2381,208 2319,213 2257,217 2196,220 2134,220 2072,220 2011,220 1949,217 1887,215 1826,212 1764,209 1702,206 1641,203 1579,202 1517,200 1456,199 1394,199 1332,200 1271,204 1209,208 1148,214" rendition="Line" xml:id="facs_204_r1l1"/>
@@ -70,9 +70,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_204" n="204" xml:id="img_0204"/>
+            <pb facs="#facs_204" n="204" xml:id="img_0204"/>
             
-            <ab  facs="#facs_204_r1">
+            <ab facs="#facs_204_r1">
                <lb facs="#facs_204_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_204_r1l2" n="N002"/>Untern 28<hi style="superscript">ten</hi> Decembris 763 hat der <rs type="person" ref="wkfm__47568">Johann Georg Schuller</rs> angezeiget
                <lb facs="#facs_204_r1l3" n="N003"/>daß der <rs type="person" ref="wkfm__25597">Johann Michael Weigl</rs> als Socius tacitus interessiret seye, mit

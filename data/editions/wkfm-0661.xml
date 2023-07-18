@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2963" lry="4566" xml:id="facs_41">
+    <surface ulx="0" uly="0" lrx="2963" lry="4566" xml:id="facs_41">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0661.jpg" width="2963px" height="4566px"/>
          <zone points="104,207 104,3573 2819,3573 2819,207" rendition="TextRegion" xml:id="facs_41_r1">
             <zone points="2655,355 2684,357 2713,358 2742,359 2771,359 2801,359 2801,280 2771,280 2742,280 2713,279 2684,278 2655,276" rendition="Line" xml:id="facs_41_r1l2" subtype="page-number"/>
@@ -75,9 +75,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_41" n="41" xml:id="img_0041"/>
+            <pb facs="#facs_41" n="41" xml:id="img_0041"/>
             
-            <ab  facs="#facs_41_r1">
+            <ab facs="#facs_41_r1">
                <lb facs="#facs_41_r1l2" n="N001"/>328
                <lb facs="#facs_41_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_41_r1l3" n="N003"/><rs type="person" ref="wkfm__46436">Ettenreicher Johann Heinrich</rs> burgerlicher Tuchlaubens Verwanter

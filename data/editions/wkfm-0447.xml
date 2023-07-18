@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3009" lry="4436" xml:id="facs_127">
+    <surface ulx="0" uly="0" lrx="3009" lry="4436" xml:id="facs_127">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0447.jpg" width="3009px" height="4436px"/>
          <zone points="362,126 362,2977 2807,2979 2807,128" rendition="TextRegion" xml:id="facs_127_r1">
             <zone points="2625,197 2798,197 2798,311 2625,311" rendition="Line" xml:id="facs_127_line_1629449200126_796" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_127" n="127" xml:id="img_0127"/>
+            <pb facs="#facs_127" n="127" xml:id="img_0127"/>
             
-            <ab  facs="#facs_127_r1">
+            <ab facs="#facs_127_r1">
                <lb facs="#facs_127_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_127_r1l2" n="N003"/><rs type="person" ref="wkfm__30180">Contrini Bartolomeo</rs> burgerlicher Handlsmann
                <lb facs="#facs_127_r1l3" n="N004"/>Firma ad Raggion

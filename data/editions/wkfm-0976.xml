@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4437" xml:id="facs_56">
+    <surface ulx="0" uly="0" lrx="2994" lry="4437" xml:id="facs_56">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0976.jpg" width="2994px" height="4437px"/>
          <zone points="428,184 428,3398 2865,3398 2865,184" rendition="TextRegion" xml:id="facs_56_r1">
             <zone points="1227,304 1290,301 1353,299 1416,299 1479,299 1542,299 1605,301 1669,302 1732,304 1795,306 1858,308 1921,310 1984,312 2047,314 2111,316 2174,317 2237,317 2300,317 2363,317 2426,316 2490,314 2490,199 2426,201 2363,202 2300,202 2237,202 2174,202 2111,201 2047,199 1984,197 1921,195 1858,193 1795,191 1732,189 1669,187 1605,186 1542,184 1479,184 1416,184 1353,184 1290,186 1227,189" rendition="Line" xml:id="facs_56_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_56" n="56" xml:id="img_0056"/>
+            <pb facs="#facs_56" n="56" xml:id="img_0056"/>
             
-            <ab  facs="#facs_56_r1">
+            <ab facs="#facs_56_r1">
                <lb facs="#facs_56_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_56_r1l2" n="N002"/>In obiger Erklährung sine dato N<hi style="superscript">o</hi> 468 ist die societaets Raggion
                <lb facs="#facs_56_r1l3" n="N003"/><rs type="person" ref="wkfm__25274">Hökhstainer et Hink</rs> eingeleget worden

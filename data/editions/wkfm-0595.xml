@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3011" lry="4511" xml:id="facs_95">
+    <surface ulx="0" uly="0" lrx="3011" lry="4511" xml:id="facs_95">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0595.jpg" width="3011px" height="4511px"/>
          <zone points="105,268 105,3904 2816,3904 2816,268" rendition="TextRegion" xml:id="facs_95_r1">
             <zone points="2690,486 2715,488 2740,489 2765,489 2790,489 2816,489 2816,405 2790,405 2765,405 2740,405 2715,404 2690,402" rendition="Line" xml:id="facs_95_r1l2" subtype="page-number"/>
@@ -76,9 +76,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_95" n="95" xml:id="img_0095"/>
+            <pb facs="#facs_95" n="95" xml:id="img_0095"/>
             
-            <ab  facs="#facs_95_r1">
+            <ab facs="#facs_95_r1">
                <lb facs="#facs_95_r1l2" n="N001"/>295
                <lb facs="#facs_95_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_95_r1l3" n="N003"/><rs type="person" ref="wkfm__46276">Träge Johann Sebastian</rs> burgerlicher Handlsmann

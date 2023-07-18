@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3019" lry="4436" xml:id="facs_64">
+    <surface ulx="0" uly="0" lrx="3019" lry="4436" xml:id="facs_64">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1248.jpg" width="3019px" height="4436px"/>
          <zone points="336,171 336,3352 2636,3352 2636,171" rendition="TextRegion" xml:id="facs_64_r1">
             <zone points="1197,286 1261,282 1325,278 1389,276 1453,274 1517,273 1581,273 1645,274 1709,276 1773,277 1837,279 1901,280 1965,282 2029,283 2093,285 2157,285 2221,285 2285,283 2349,282 2413,279 2477,276 2477,174 2413,177 2349,180 2285,181 2221,183 2157,183 2093,183 2029,181 1965,180 1901,178 1837,177 1773,175 1709,174 1645,172 1581,171 1517,171 1453,172 1389,174 1325,176 1261,180 1197,184" rendition="Line" xml:id="facs_64_r1l1"/>
@@ -68,12 +68,12 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_64" n="64" xml:id="img_0064"/>
+            <pb facs="#facs_64" n="64" xml:id="img_0064"/>
             
-            <ab  facs="#facs_64_r1">
+            <ab facs="#facs_64_r1">
                <lb facs="#facs_64_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
-               <lb facs="#facs_64_r1l2" n="N002"/>Untern 30<hi style="superscript">ten</hi> Decembris 763 hat der <rs type="person" ref="wkfm__25004">Joseph Marquet</rs> seine <comment comment="stille\u0020Teilhaber">Socios
-               <lb break="no" facs="#facs_64_r1l3" n="N003"/>tacitos</comment> als <rs type="person" ref="wkfm__46897">Benedict Hösler</rs> und <rs type="person" ref="wkfm__46898">Christoph Delacosta</rs> angezeiget
+               <lb facs="#facs_64_r1l2" n="N002"/>Untern 30<hi style="superscript">ten</hi> Decembris 763 hat der <rs type="person" ref="wkfm__25004">Joseph Marquet</rs> seine <seg type="editorial_comment_seg">Socios
+               <lb break="no" facs="#facs_64_r1l3" n="N003"/>tacitos<note type="editorial_comment_note">stille Teilhaber</note></seg> als <rs type="person" ref="wkfm__46897">Benedict Hösler</rs> und <rs type="person" ref="wkfm__46898">Christoph Delacosta</rs> angezeiget
                <lb facs="#facs_64_r1l4" n="N004"/>deren ein jeder auch firmiret <rs type="person" ref="wkfm__46896">Joseph Marquet et <choice><expan/><abbr>Compag:</abbr></choice></rs>
                <lb facs="#facs_64_r1l5" n="N005"/>diese Anzeige ist bey denen firmen sub <choice><expan/><abbr>nro:</abbr></choice> 571 1/2 aufbehalten
                <lb facs="#facs_64_r1l6" n="N006"/><seg type="wedding_contract">Heuraths Contract</seg>

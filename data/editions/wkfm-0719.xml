@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3095" lry="4496" xml:id="facs_51">
+    <surface ulx="0" uly="0" lrx="3095" lry="4496" xml:id="facs_51">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0719.jpg" width="3095px" height="4496px"/>
          <zone points="296,210 296,3051 2790,3051 2790,210" rendition="TextRegion" xml:id="facs_51_r2">
             <zone points="2612,390 2640,391 2669,391 2698,390 2727,388 2756,384 2756,282 2727,286 2698,288 2669,289 2640,289 2612,288" rendition="Line" xml:id="facs_51_r2l2" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_51" n="51" xml:id="img_0051"/>
+            <pb facs="#facs_51" n="51" xml:id="img_0051"/>
             
-            <ab  facs="#facs_51_r2">
+            <ab facs="#facs_51_r2">
                <lb facs="#facs_51_r2l2" n="N001"/>357
                <lb facs="#facs_51_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_51_r2l3" n="N003"/><rs type="person" ref="wkfm__8673">Voith Johann Philipp</rs> burgerlicher Tuchlaubens Verwanter

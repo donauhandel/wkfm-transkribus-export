@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_80">
+    <surface ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_80">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0748.jpg" width="2994px" height="4530px"/>
          <zone points="498,225 498,3451 2895,3451 2895,225" rendition="TextRegion" xml:id="facs_80_r1">
             <zone points="1244,380 1306,376 1369,374 1432,372 1494,370 1557,369 1620,369 1682,369 1745,369 1808,371 1871,371 1933,372 1996,372 2059,372 2121,374 2184,372 2247,372 2309,371 2372,368 2435,365 2498,360 2498,225 2435,230 2372,233 2309,236 2247,237 2184,237 2121,239 2059,237 1996,237 1933,237 1871,236 1808,236 1745,234 1682,234 1620,234 1557,234 1494,235 1432,237 1369,239 1306,241 1244,245" rendition="Line" xml:id="facs_80_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_80" n="80" xml:id="img_0080"/>
+            <pb facs="#facs_80" n="80" xml:id="img_0080"/>
             
-            <ab  facs="#facs_80_r1">
+            <ab facs="#facs_80_r1">
                <lb facs="#facs_80_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_80_r1l2" n="N002"/>In obigen Anbringen de ps: 9<hi style="superscript">ten</hi> <choice><expan/><abbr>Jul:</abbr></choice> 733 N<hi style="superscript">o</hi> 353 hat sich der
                <lb facs="#facs_80_r1l3" n="N003"/><rs type="person" ref="wkfm__9478">Vareille</rs> erklähret, daß er keinen Compagnon habe.

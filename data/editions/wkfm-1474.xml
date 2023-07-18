@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2929" lry="4455" xml:id="facs_16">
+    <surface ulx="0" uly="0" lrx="2929" lry="4455" xml:id="facs_16">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1474.jpg" width="2929px" height="4455px"/>
          <zone points="147,195 147,3360 2796,3360 2796,195" rendition="TextRegion" xml:id="facs_16_r1">
             <zone points="899,324 963,315 1027,309 1091,303 1155,298 1220,294 1284,292 1348,290 1412,289 1476,288 1541,288 1605,287 1669,287 1733,287 1797,287 1862,287 1926,286 1990,285 2054,282 2118,281 2183,276 2183,195 2118,200 2054,201 1990,204 1926,205 1862,206 1797,206 1733,206 1669,206 1605,206 1541,207 1476,207 1412,208 1348,209 1284,211 1220,213 1155,217 1091,222 1027,228 963,234 899,243" rendition="Line" xml:id="facs_16_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_16" n="16" xml:id="img_0016"/>
+            <pb facs="#facs_16" n="16" xml:id="img_0016"/>
             
-            <ab  facs="#facs_16_r1">
+            <ab facs="#facs_16_r1">
                <lb facs="#facs_16_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_16_r1l2" n="N002"/>In obigen Anbringen de ps: 21<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 663 hat der <rs type="person" ref="wkfm__47403">Sigg</rs> sich erklähret, daß
                <lb facs="#facs_16_r1l3" n="N003"/>er sein negotium ohne Compagnon führe

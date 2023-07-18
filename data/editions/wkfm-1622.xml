@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2872" lry="4419" xml:id="facs_164">
+    <surface ulx="0" uly="0" lrx="2872" lry="4419" xml:id="facs_164">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1622.jpg" width="2872px" height="4419px"/>
          <zone points="182,104 182,4073 2856,4073 2856,104" rendition="TextRegion" xml:id="facs_164_r1">
             <zone points="1088,200 1230,200 1292,199 1354,197 1416,197 1478,196 1539,196 1601,194 1663,194 1725,194 1787,193 1848,193 1910,191 1972,190 2034,188 2096,187 2157,185 2219,182 2281,180 2343,176 2405,173 2405,104 2343,107 2281,111 2219,113 2157,116 2096,118 2034,119 1972,121 1910,122 1848,124 1787,124 1725,125 1663,125 1601,125 1539,127 1478,127 1416,128 1354,128 1292,130 1230,131 1088,131" rendition="Line" xml:id="facs_164_r1l1"/>
@@ -101,9 +101,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_164" n="164" xml:id="img_0164"/>
+            <pb facs="#facs_164" n="164" xml:id="img_0164"/>
             
-            <ab  facs="#facs_164_r1">
+            <ab facs="#facs_164_r1">
                <lb facs="#facs_164_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_164_r1l2" n="N002"/>Mitls Anbringen de ps: 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 735 N<hi style="superscript">o</hi> 1705 haben die <rs type="person" ref="wkfm__47513">Gebrüder Smitmer</rs>
                <lb facs="#facs_164_r1l3" n="N003"/><rs type="person" ref="wkfm__47512">Franz Michäl</rs> und <rs type="person" ref="wkfm__47514">Jacob Michäl</rs> den zwischen ihnehn beeden dann ihrem Vattern
@@ -130,7 +130,7 @@
                <lb facs="#facs_164_r1l26" n="N024"/>in andere Wege zulänglich versicheret seye
                <lb facs="#facs_164_r1l27" n="N025"/>Mitls Anbringen de ps: 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 737 N<hi style="superscript">o</hi> 2226 hat der <rs type="person" ref="wkfm__47514">Jacob Michäl Smitmer</rs> den mit der
                <lb facs="#facs_164_r1l28" n="N026"/><rs type="person" ref="wkfm__47516">Maria Barbara Preysingerin</rs> untern 29<hi style="superscript">ten</hi> Junii 737 errichteten Heurathscontract N<hi style="superscript">o</hi> 2225 in Copia
-               <lb facs="#facs_164_r1l29" n="N027"/>vidimata eingeleget kraft welchen 1000 fl heurathsgutt nebst 2000 fl Widerlag <comment comment="Einschub\u0020Zeile\u002031"><hi>0</hi></comment> auf Überleben
+               <lb facs="#facs_164_r1l29" n="N027"/>vidimata eingeleget kraft welchen 1000 fl heurathsgutt nebst 2000 fl Widerlag <seg type="editorial_comment_seg"><hi>0</hi><note type="editorial_comment_note">Einschub Zeile 31</note></seg> auf Überleben
                <lb facs="#facs_164_r1l30" n="N028"/>dann weithers pactiret worden, daß die Braut den halben theil ihrer interessen zu Haus-
                <lb facs="#facs_164_r1l31" n="N029"/>wirthschaft beytragen, dahin gegen falß der Bräutigam vor ihrer versterben solte, aus 
                <lb facs="#facs_164_r1l32" n="N030"/>seinem Vermögen besonders 8000 fl überkommen solle

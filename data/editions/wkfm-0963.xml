@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3095" lry="4410" xml:id="facs_43">
+    <surface ulx="0" uly="0" lrx="3095" lry="4410" xml:id="facs_43">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0963.jpg" width="3095px" height="4410px"/>
          <zone points="197,152 197,3008 2838,3008 2838,152" rendition="TextRegion" xml:id="facs_43_r2">
             <zone points="2597,371 2624,367 2652,365 2679,364 2707,363 2735,359 2735,263 2707,267 2679,268 2652,269 2624,271 2597,275" rendition="Line" xml:id="facs_43_r2l2" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_43" n="43" xml:id="img_0043"/>
+            <pb facs="#facs_43" n="43" xml:id="img_0043"/>
             
-            <ab  facs="#facs_43_r2">
+            <ab facs="#facs_43_r2">
                <lb facs="#facs_43_r2l2" n="N001"/>474
                <lb facs="#facs_43_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_43_r2l3" n="N003"/><rs type="person" ref="wkfm__23836">Häsl Franz Wilhelm</rs> burgerlicher Handlsmann

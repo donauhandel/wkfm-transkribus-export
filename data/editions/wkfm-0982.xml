@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4437" xml:id="facs_62">
+    <surface ulx="0" uly="0" lrx="2994" lry="4437" xml:id="facs_62">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0982.jpg" width="2994px" height="4437px"/>
          <zone points="354,214 354,3422 2793,3422 2793,214" rendition="TextRegion" xml:id="facs_62_r1">
             <zone points="1197,358 1258,352 1319,347 1380,343 1441,340 1502,338 1563,337 1624,337 1685,335 1746,335 1807,337 1868,337 1929,337 1990,337 2051,336 2112,335 2173,334 2234,331 2295,328 2356,324 2417,319 2417,214 2356,219 2295,223 2234,226 2173,229 2112,230 2051,231 1990,232 1929,232 1868,232 1807,232 1746,230 1685,230 1624,232 1563,232 1502,233 1441,235 1380,238 1319,242 1258,247 1197,253" rendition="Line" xml:id="facs_62_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_62" n="62" xml:id="img_0062"/>
+            <pb facs="#facs_62" n="62" xml:id="img_0062"/>
             
-            <ab  facs="#facs_62_r1">
+            <ab facs="#facs_62_r1">
                <lb facs="#facs_62_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_62_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 454 hat sich der
                <lb facs="#facs_62_r1l3" n="N003"/><rs type="person" ref="wkfm__29389">Hilger</rs> geäusseret, das er seine Handlung ohne Compagnon führe

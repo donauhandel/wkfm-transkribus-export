@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3095" lry="4496" xml:id="facs_71">
+    <surface ulx="0" uly="0" lrx="3095" lry="4496" xml:id="facs_71">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0739.jpg" width="3095px" height="4496px"/>
          <zone points="234,200 234,3028 2834,3028 2834,200" rendition="TextRegion" xml:id="facs_71_r1">
             <zone points="2679,405 2704,407 2730,408 2756,410 2782,409 2808,407 2834,403 2834,327 2808,331 2782,333 2756,334 2730,332 2704,331 2679,329" rendition="Line" xml:id="facs_71_r1l2" subtype="page-number"/>
@@ -73,9 +73,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_71" n="71" xml:id="img_0071"/>
+            <pb facs="#facs_71" n="71" xml:id="img_0071"/>
             
-            <ab  facs="#facs_71_r1">
+            <ab facs="#facs_71_r1">
                <lb facs="#facs_71_r1l2" n="N001"/>367
                <lb facs="#facs_71_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_71_r1l3" n="N003"/><rs type="person" ref="wkfm__21998">Vernay Peter</rs> burgerlicher Handlsmann

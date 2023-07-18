@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2954" lry="4435" xml:id="facs_66">
+    <surface ulx="0" uly="0" lrx="2954" lry="4435" xml:id="facs_66">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0119.jpg" width="2954px" height="4435px"/>
          <zone points="539,167 539,3279 2838,3279 2838,167" rendition="TextRegion" xml:id="facs_66_r1">
             <zone points="854,296 933,294 1012,294 1092,293 1171,293 1250,293 1330,293 1409,293 1488,293 1568,293 1647,293 1726,291 1806,291 1885,291 1964,291 2044,290 2123,290 2202,288 2282,287 2361,285 2441,284 2441,167 2361,168 2282,170 2202,171 2123,173 2044,173 1964,174 1885,174 1806,174 1726,174 1647,176 1568,176 1488,176 1409,176 1330,176 1250,176 1171,176 1092,176 1012,177 933,177 854,179" rendition="Line" xml:id="facs_66_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_66" n="66" xml:id="img_0066"/>
+            <pb facs="#facs_66" n="66" xml:id="img_0066"/>
             
-            <ab  facs="#facs_66_r1">
+            <ab facs="#facs_66_r1">
                <lb facs="#facs_66_r1l1" n="N001"/>Societats Contract und Interessenten
                <lb facs="#facs_66_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 51 hat sich der <rs type="person" ref="wkfm__20661">Priester-
                <lb break="no" facs="#facs_66_r1l3" n="N003"/>sperger</rs> geäusseret, daß er keinen Compagnon habe

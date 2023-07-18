@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3051" lry="4473" xml:id="facs_40">
+    <surface ulx="0" uly="0" lrx="3051" lry="4473" xml:id="facs_40">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0540.jpg" width="3051px" height="4473px"/>
          <zone points="495,143 495,3321 2925,3321 2925,143" rendition="TextRegion" xml:id="facs_40_r1">
             <zone points="1106,271 1171,267 1237,262 1303,259 1369,258 1434,256 1500,255 1566,255 1632,256 1697,256 1763,258 1829,258 1895,259 1960,261 2026,262 2092,262 2158,264 2223,264 2289,262 2355,261 2421,259 2421,147 2355,149 2289,150 2223,152 2158,152 2092,150 2026,150 1960,149 1895,147 1829,146 1763,146 1697,144 1632,144 1566,143 1500,143 1434,144 1369,146 1303,147 1237,150 1171,155 1106,159" rendition="Line" xml:id="facs_40_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_40" n="40" xml:id="img_0040"/>
+            <pb facs="#facs_40" n="40" xml:id="img_0040"/>
             
-            <ab  facs="#facs_40_r1">
+            <ab facs="#facs_40_r1">
                <lb facs="#facs_40_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_40_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 261 hat
                <lb facs="#facs_40_r1l3" n="N003"/>sich der <rs type="person" ref="wkfm__36435">Dekher</rs> geäusseret, daß er mit keinen Compagnon

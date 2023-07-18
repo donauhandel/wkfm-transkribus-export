@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2937" lry="4383" xml:id="facs_119">
+    <surface ulx="0" uly="0" lrx="2937" lry="4383" xml:id="facs_119">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1825.jpg" width="2937px" height="4383px"/>
          <zone points="664,122 621,2975 2653,2990 2696,137" rendition="TextRegion" xml:id="facs_119_r1">
             <zone points="2531,222 2709,222 2709,374 2531,374" rendition="Line" xml:id="facs_119_line_1626245454283_302" subtype="page-number"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_119" n="119" xml:id="img_0119"/>
+            <pb facs="#facs_119" n="119" xml:id="img_0119"/>
             
-            <ab  facs="#facs_119_r1">
+            <ab facs="#facs_119_r1">
                <lb facs="#facs_119_line_1626245454283_302" n="N001"/>905
                <lb facs="#facs_119_line_1626245457824_305" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_119_line_1626245463071_309" n="N003"/>Firma ad Raggion

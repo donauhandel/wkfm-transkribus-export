@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2979" lry="4477" xml:id="facs_123">
+    <surface ulx="0" uly="0" lrx="2979" lry="4477" xml:id="facs_123">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1581.jpg" width="2979px" height="4477px"/>
          <zone points="263,121 263,2941 2846,2939 2846,119" rendition="TextRegion" xml:id="facs_123_r1">
             <zone points="2662,201 2846,201 2846,324 2662,324" rendition="Line" xml:id="facs_123_line_1626262283622_1783" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_123" n="123" xml:id="img_0123"/>
+            <pb facs="#facs_123" n="123" xml:id="img_0123"/>
             
-            <ab  facs="#facs_123_r1">
+            <ab facs="#facs_123_r1">
                <lb facs="#facs_123_line_1626262283622_1783" n="N001"/>783
                <lb facs="#facs_123_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_123_r1l2" n="N003"/><rs type="person" ref="wkfm__23508">Stidl Joseph</rs> burgerlicher Handlsmann

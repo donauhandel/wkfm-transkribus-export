@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2982" lry="4473" xml:id="facs_128">
+    <surface ulx="0" uly="0" lrx="2982" lry="4473" xml:id="facs_128">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0448.jpg" width="2982px" height="4473px"/>
          <zone points="297,172 297,3300 2874,3300 2874,172" rendition="TextRegion" xml:id="facs_128_r1">
             <zone points="1121,272 1188,267 1255,264 1323,260 1390,257 1457,255 1525,252 1592,250 1659,248 1727,246 1794,245 1861,243 1929,242 1996,240 2063,239 2131,237 2198,236 2265,234 2333,231 2400,230 2468,227 2468,172 2400,175 2333,176 2265,179 2198,181 2131,182 2063,184 1996,185 1929,187 1861,188 1794,190 1727,191 1659,193 1592,195 1525,197 1457,200 1390,202 1323,205 1255,209 1188,212 1121,217" rendition="Line" xml:id="facs_128_r1l1"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_128" n="128" xml:id="img_0128"/>
+            <pb facs="#facs_128" n="128" xml:id="img_0128"/>
             
-            <ab  facs="#facs_128_r1">
+            <ab facs="#facs_128_r1">
                <lb facs="#facs_128_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_128_r1l2" n="N002"/><seg type="wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_128_r1l3" n="N003"/>Mitls Anbringen de ps: 26<hi style="superscript">ten</hi> May 745 N<hi style="superscript">o</hi> 2123 hat der <rs type="person" ref="wkfm__30180">Contrini</rs> den

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3039" lry="4473" xml:id="facs_145">
+    <surface ulx="0" uly="0" lrx="3039" lry="4473" xml:id="facs_145">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0198.jpg" width="3039px" height="4473px"/>
          <zone points="75,189 75,2957 2595,2957 2595,189" rendition="TextRegion" xml:id="facs_145_r1">
             <zone points="2444,302 2469,298 2495,291 2521,283 2547,279 2547,189 2521,193 2495,201 2469,208 2444,212" rendition="Line" xml:id="facs_145_r1l1" subtype="page-number"/>
@@ -71,9 +71,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_145" n="145" xml:id="img_0145"/>
+            <pb facs="#facs_145" n="145" xml:id="img_0145"/>
             
-            <ab  facs="#facs_145_r1">
+            <ab facs="#facs_145_r1">
                <lb facs="#facs_145_r1l1" n="N001"/>97
                <lb facs="#facs_145_r1l2" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_145_r1l3" n="N003"/><hi>Pingizer</hi> <rs type="person" ref="wkfm__23672">Pingizer et Pittoni junior</rs> burgerliche Handlsleuth

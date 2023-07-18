@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2886" lry="4400" xml:id="facs_84">
+    <surface ulx="0" uly="0" lrx="2886" lry="4400" xml:id="facs_84">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1436.jpg" width="2886px" height="4400px"/>
          <zone points="252,215 252,3392 2796,3392 2796,215" rendition="TextRegion" xml:id="facs_84_r1">
             <zone points="1052,326 1117,319 1183,314 1249,311 1314,309 1380,308 1446,307 1511,308 1577,308 1643,309 1709,311 1774,311 1840,312 1906,314 1971,315 2037,315 2103,315 2168,314 2234,313 2300,311 2366,306 2366,215 2300,220 2234,222 2168,223 2103,224 2037,224 1971,224 1906,223 1840,221 1774,220 1709,220 1643,218 1577,217 1511,217 1446,216 1380,217 1314,218 1249,220 1183,223 1117,228 1052,235" rendition="Line" xml:id="facs_84_r1l1"/>
@@ -68,9 +68,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_84" n="84" xml:id="img_0084"/>
+            <pb facs="#facs_84" n="84" xml:id="img_0084"/>
             
-            <ab  facs="#facs_84_r1">
+            <ab facs="#facs_84_r1">
                <lb facs="#facs_84_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_84_r1l2" n="N002"/>Mitls obigen Anbringen de ps: 12<hi style="superscript">ten</hi> May 747 N<hi style="superscript">o</hi> 1138 hat der <rs type="person" ref="wkfm__34454">Erhard Riesch</rs>
                <lb facs="#facs_84_r1l3" n="N003"/>angezeiget, daß er sein negotium unter eigenem obligo anfangen wolle

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3057" lry="4521" xml:id="facs_137">
+    <surface ulx="0" uly="0" lrx="3057" lry="4521" xml:id="facs_137">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1057.jpg" width="3057px" height="4521px"/>
          <zone points="182,218 182,4417 2801,4417 2801,218" rendition="TextRegion" xml:id="facs_137_r1">
             <zone points="2614,385 2786,385 2786,495 2614,495" rendition="Line" xml:id="facs_137_line_1625038398299_334" subtype="page-number"/>
@@ -81,9 +81,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_137" n="137" xml:id="img_0137"/>
+            <pb facs="#facs_137" n="137" xml:id="img_0137"/>
             
-            <ab  facs="#facs_137_r1">
+            <ab facs="#facs_137_r1">
                <lb facs="#facs_137_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_137_r1l2" n="N003"/><rs type="person" ref="wkfm__46570">Helmsteiner Joseph</rs> burgerlicher Handlsmann
                <lb facs="#facs_137_r1l3" n="N004"/>Firma ad Raggion

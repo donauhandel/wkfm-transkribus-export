@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2991" lry="4407" xml:id="facs_69">
+    <surface ulx="0" uly="0" lrx="2991" lry="4407" xml:id="facs_69">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0122.jpg" width="2991px" height="4407px"/>
          <zone points="207,85 126,4336 2631,4339 2712,88" rendition="TextRegion" xml:id="facs_69_r1">
             <zone points="2552,111 2694,111 2694,247 2552,247" rendition="Line" xml:id="facs_69_line_1629707589547_505" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_69" n="69" xml:id="img_0069"/>
+            <pb facs="#facs_69" n="69" xml:id="img_0069"/>
             
-            <ab  facs="#facs_69_r1">
+            <ab facs="#facs_69_r1">
                <lb facs="#facs_69_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_69_r1l2" n="N003"/><rs type="person" ref="wkfm__4528">Patuzzi Bartholomeo</rs> burgerlicher Handlsmann
                <lb facs="#facs_69_r1l3" n="N004"/>Firma oder Raggion

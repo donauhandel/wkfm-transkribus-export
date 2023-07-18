@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3095" lry="4410" xml:id="facs_93">
+    <surface ulx="0" uly="0" lrx="3095" lry="4410" xml:id="facs_93">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1013.jpg" width="3095px" height="4410px"/>
          <zone points="315,189 315,3048 2774,3048 2774,189" rendition="TextRegion" xml:id="facs_93_r1">
             <zone points="2636,421 2663,423 2691,424 2718,426 2746,427 2774,426 2774,314 2746,315 2718,314 2691,312 2663,311 2636,309" rendition="Line" xml:id="facs_93_r1l2" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_93" n="93" xml:id="img_0093"/>
+            <pb facs="#facs_93" n="93" xml:id="img_0093"/>
             
-            <ab  facs="#facs_93_r1">
+            <ab facs="#facs_93_r1">
                <lb facs="#facs_93_r1l2" n="N001"/>499
                <lb facs="#facs_93_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_93_r1l3" n="N003"/><rs type="person" ref="wkfm__46507">Hochhauser Johann</rs> burgerlicher Handlsmann

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2940" lry="4464" xml:id="facs_26">
+    <surface ulx="0" uly="0" lrx="2940" lry="4464" xml:id="facs_26">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1318.jpg" width="2940px" height="4464px"/>
          <zone points="261,163 261,3235 2816,3235 2816,163" rendition="TextRegion" xml:id="facs_26_r1">
             <zone points="1070,304 1133,295 1197,289 1261,284 1325,279 1388,276 1452,273 1516,271 1580,270 1643,270 1707,270 1771,270 1835,270 1898,270 1962,268 2026,268 2090,268 2153,265 2217,264 2281,261 2345,256 2345,163 2281,168 2217,171 2153,172 2090,175 2026,175 1962,175 1898,177 1835,177 1771,177 1707,177 1643,177 1580,177 1516,178 1452,180 1388,183 1325,186 1261,191 1197,196 1133,202 1070,211" rendition="Line" xml:id="facs_26_r1l1"/>
@@ -71,9 +71,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_26" n="26" xml:id="img_0026"/>
+            <pb facs="#facs_26" n="26" xml:id="img_0026"/>
             
-            <ab  facs="#facs_26_r1">
+            <ab facs="#facs_26_r1">
                <lb facs="#facs_26_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_26_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 29<hi style="superscript">ten</hi> May 733 N<hi style="superscript">o</hi> 607 hat sich der <rs type="person" ref="wkfm__46670">Naperth</rs> ge-
                <lb facs="#facs_26_r1l3" n="N003"/>äusseret, das er keinen Compagnon habe

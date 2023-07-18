@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2945" lry="4468" xml:id="facs_3">
+    <surface ulx="0" uly="0" lrx="2945" lry="4468" xml:id="facs_3">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1709.jpg" width="2945px" height="4468px"/>
          <zone points="116,189 116,3041 2811,3041 2811,189" rendition="TextRegion" xml:id="facs_3_r1">
             <zone points="2654,335 2682,339 2711,338 2740,337 2769,335 2798,338 2798,268 2769,265 2740,267 2711,268 2682,269 2654,265" rendition="Line" xml:id="facs_3_r1l2" subtype="page-number"/>
@@ -72,9 +72,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_3" n="3" xml:id="img_0003"/>
+            <pb facs="#facs_3" n="3" xml:id="img_0003"/>
             
-            <ab  facs="#facs_3_r1">
+            <ab facs="#facs_3_r1">
                <lb facs="#facs_3_r1l2" n="N001"/>847
                <lb facs="#facs_3_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_3_r1l3" n="N003"/><rs type="person" ref="wkfm__9287">Wohlgemuth Daniel</rs> kay: könig: Niderlags Verwanter

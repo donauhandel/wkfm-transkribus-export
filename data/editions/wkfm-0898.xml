@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4442" xml:id="facs_86">
+    <surface ulx="0" uly="0" lrx="2994" lry="4442" xml:id="facs_86">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0898.jpg" width="2994px" height="4442px"/>
          <zone points="350,212 350,3353 2886,3353 2886,212" rendition="TextRegion" xml:id="facs_86_r1">
             <zone points="1112,323 1177,317 1243,312 1309,309 1374,306 1440,305 1506,303 1571,302 1637,302 1703,302 1769,302 1834,302 1900,302 1966,302 2031,302 2097,302 2163,302 2228,300 2294,298 2360,295 2426,293 2426,212 2360,214 2294,217 2228,219 2163,221 2097,221 2031,221 1966,221 1900,221 1834,221 1769,221 1703,221 1637,221 1571,221 1506,222 1440,224 1374,225 1309,228 1243,231 1177,236 1112,242" rendition="Line" xml:id="facs_86_r1l1"/>
@@ -73,9 +73,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_86" n="86" xml:id="img_0086"/>
+            <pb facs="#facs_86" n="86" xml:id="img_0086"/>
             
-            <ab  facs="#facs_86_r1">
+            <ab facs="#facs_86_r1">
                <lb facs="#facs_86_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_86_r1l2" n="N002"/>In obigen Instrument dd<hi style="superscript">to</hi> 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 743 N<hi style="superscript">o</hi> 14788 hat sich der <rs type="person" ref="wkfm__15475">Za-
                <lb break="no" facs="#facs_86_r1l3" n="N003"/>charias Silber</rs> erklähret, daß er den <rs type="person" ref="wkfm__46371">Grueber</rs> alß einen Com-

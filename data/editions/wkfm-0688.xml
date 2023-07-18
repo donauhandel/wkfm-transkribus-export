@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_20">
+    <surface ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_20">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0688.jpg" width="2994px" height="4530px"/>
          <zone points="369,227 369,3425 2885,3425 2885,227" rendition="TextRegion" xml:id="facs_20_r1">
             <zone points="1098,344 1161,337 1225,333 1289,329 1353,327 1416,327 1480,327 1544,329 1608,330 1671,333 1735,336 1799,339 1863,342 1926,345 1990,347 2054,350 2118,351 2181,351 2245,350 2309,348 2373,345 2373,245 2309,248 2245,250 2181,251 2118,251 2054,250 1990,247 1926,245 1863,242 1799,239 1735,236 1671,233 1608,230 1544,229 1480,227 1416,227 1353,227 1289,229 1225,233 1161,237 1098,244" rendition="Line" xml:id="facs_20_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_20" n="20" xml:id="img_0020"/>
+            <pb facs="#facs_20" n="20" xml:id="img_0020"/>
             
-            <ab  facs="#facs_20_r1">
+            <ab facs="#facs_20_r1">
                <lb facs="#facs_20_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_20_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 326 haben sich die <rs type="person" ref="wkfm__47064">Froithshe[im]
                <lb break="no" facs="#facs_20_r1l3" n="N003"/>Erben</rs> geäusseret, daß ihre Handlung für sie allein gehe

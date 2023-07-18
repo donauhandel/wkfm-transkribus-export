@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2991" lry="4541" xml:id="facs_195">
+    <surface ulx="0" uly="0" lrx="2991" lry="4541" xml:id="facs_195">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0249.jpg" width="2991px" height="4541px"/>
          <graphic url="" width="2991px" height="4541px"/>
          <zone points="224,146 224,3840 2858,3840 2858,146" rendition="TextRegion" xml:id="facs_195_r1">
@@ -76,9 +76,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_195" n="195" xml:id="img_0195"/>
+            <pb facs="#facs_195" n="195" xml:id="img_0195"/>
             
-            <ab  facs="#facs_195_r1">
+            <ab facs="#facs_195_r1">
                <lb facs="#facs_195_r1l1" n="N001"/>122
                <lb facs="#facs_195_r1l2" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_195_r1l3" n="N003"/><rs type="person" ref="wkfm__36092">Premblechner Joseph</rs> burgerlicher Tuchlaubens Verwanter

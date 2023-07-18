@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3029" lry="4407" xml:id="facs_169">
+    <surface ulx="0" uly="0" lrx="3029" lry="4407" xml:id="facs_169">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0223.jpg" width="3029px" height="4407px"/>
          <zone points="197,125 197,2968 2634,2968 2634,125" rendition="TextRegion" xml:id="facs_169_r2">
             <zone points="2499,287 2529,284 2560,279 2590,274 2621,271 2621,175 2590,178 2560,183 2529,188 2499,191" rendition="Line" xml:id="facs_169_r2l2" subtype="page-number"/>
@@ -70,9 +70,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_169" n="169" xml:id="img_0169"/>
+            <pb facs="#facs_169" n="169" xml:id="img_0169"/>
             
-            <ab  facs="#facs_169_r2">
+            <ab facs="#facs_169_r2">
                <lb facs="#facs_169_r2l2" n="N001"/>109
                <lb facs="#facs_169_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_169_r2l3" n="N003"/><rs type="person" ref="wkfm__8747">Baumgarthner Mauritz</rs> burgerlicher Handlsmann

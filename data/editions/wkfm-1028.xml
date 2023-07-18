@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3030" lry="4437" xml:id="facs_108">
+    <surface ulx="0" uly="0" lrx="3030" lry="4437" xml:id="facs_108">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1028.jpg" width="3030px" height="4437px"/>
          <graphic url="" width="3030px" height="4437px"/>
          <zone points="273,223 273,3386 2916,3386 2916,223" rendition="TextRegion" xml:id="facs_108_r1">
@@ -87,9 +87,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_108" n="108" xml:id="img_0108"/>
+            <pb facs="#facs_108" n="108" xml:id="img_0108"/>
             
-            <ab  facs="#facs_108_r1">
+            <ab facs="#facs_108_r1">
                <lb facs="#facs_108_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_108_r1l2" n="N002"/>Mitls Anbringen de ps: 27<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 741 N<hi style="superscript">o</hi> 1973 hat die <rs type="person" ref="wkfm__46393">Anna Susanna
                <lb break="no" facs="#facs_108_r1l3" n="N003"/>von Haydern</rs> angezeiget, daß sie entschlossen seye <gap/> dem 

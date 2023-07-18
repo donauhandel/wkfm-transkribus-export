@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_8">
+    <surface ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_8">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0676.jpg" width="2994px" height="4530px"/>
          <zone points="464,224 464,3340 2901,3340 2901,224" rendition="TextRegion" xml:id="facs_8_r1">
             <zone points="1239,319 1297,318 1356,319 1414,319 1473,321 1532,322 1590,323 1649,325 1707,327 1766,328 1825,331 1883,333 1942,334 2000,336 2059,339 2118,340 2176,342 2235,343 2293,345 2352,346 2411,346 2411,252 2352,252 2293,251 2235,249 2176,248 2118,246 2059,245 2000,242 1942,240 1883,239 1825,237 1766,234 1707,233 1649,231 1590,229 1532,228 1473,227 1414,225 1356,225 1297,224 1239,225" rendition="Line" xml:id="facs_8_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_8" n="8" xml:id="img_0008"/>
+            <pb facs="#facs_8" n="8" xml:id="img_0008"/>
             
-            <ab  facs="#facs_8_r1">
+            <ab facs="#facs_8_r1">
                <lb facs="#facs_8_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_8_r1l2" n="N002"/>In obigen Anbringen de ps 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 322 haben sich des
                <lb facs="#facs_8_r1l3" n="N003"/><rs type="person" ref="wkfm__47053">Ferdinand Vorreither <choice><expan/><abbr>seel:</abbr></choice> Erben</rs> erklähret, das sie ihr negotium

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4520" xml:id="facs_34">
+    <surface ulx="0" uly="0" lrx="2994" lry="4520" xml:id="facs_34">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0954.jpg" width="2994px" height="4520px"/>
          <zone points="300,262 300,3437 2856,3437 2856,262" rendition="TextRegion" xml:id="facs_34_r1">
             <zone points="1136,356 1196,352 1257,348 1317,346 1378,343 1439,343 1499,341 1560,341 1620,341 1681,343 1742,344 1802,345 1863,346 1923,347 1984,348 2045,349 2105,349 2166,349 2226,347 2287,347 2348,344 2348,265 2287,268 2226,268 2166,270 2105,270 2045,270 1984,269 1923,268 1863,267 1802,266 1742,265 1681,264 1620,262 1560,262 1499,262 1439,264 1378,264 1317,267 1257,269 1196,273 1136,277" rendition="Line" xml:id="facs_34_r1l1"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_34" n="34" xml:id="img_0034"/>
+            <pb facs="#facs_34" n="34" xml:id="img_0034"/>
             
-            <ab  facs="#facs_34_r1">
+            <ab facs="#facs_34_r1">
                <lb facs="#facs_34_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_34_r1l2" n="N002"/>In obigen Anbringen de ps: 8<hi style="superscript">ten</hi> Junii 725 N<hi style="superscript">o</hi> 1962 <hi>hat</hi> ist die Anzeige gemacht
                <lb facs="#facs_34_r1l3" n="N003"/>worden, daß unter der Raggion <rs type="person" ref="wkfm__44785">Johann Christoph Haas und Söhne</rs> der

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2830" lry="4476" xml:id="facs_220">
+    <surface ulx="0" uly="0" lrx="2830" lry="4476" xml:id="facs_220">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1678.jpg" width="2830px" height="4476px"/>
          <zone points="219,249 219,3997 2751,3997 2751,249" rendition="TextRegion" xml:id="facs_220_r1">
             <zone points="1208,341 1274,336 1341,332 1408,330 1475,329 1541,330 1608,331 1675,334 1742,337 1808,340 1875,343 1942,345 2009,347 2075,349 2142,349 2209,349 2276,346 2342,343 2409,337 2476,329 2543,319 2543,249 2476,259 2409,267 2342,273 2276,276 2209,279 2142,279 2075,279 2009,277 1942,275 1875,273 1808,270 1742,267 1675,264 1608,261 1541,260 1475,259 1408,260 1341,262 1274,266 1208,271" rendition="Line" xml:id="facs_220_r1l1"/>
@@ -80,9 +80,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_220" n="220" xml:id="img_0220"/>
+            <pb facs="#facs_220" n="220" xml:id="img_0220"/>
             
-            <ab  facs="#facs_220_r1">
+            <ab facs="#facs_220_r1">
                <lb facs="#facs_220_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_220_r1l2" n="N002"/><seg type="wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_220_r1l3" n="N003"/>Der <rs type="person" ref="wkfm__47582">Staudinger</rs> hat der mit der Maria Anna Braunin untern
@@ -97,7 +97,7 @@
                <lb facs="#facs_220_r1l17" n="N012"/>solle
                <lb facs="#facs_220_r1l19" n="N013"/><choice><expan/><abbr>Ao</abbr></choice> 764 hat der <rs type="person" ref="wkfm__47582">Joseph Staudinger</rs> seinen mit der <rs type="person" ref="wkfm__47585">Maria Catharina
                <lb break="no" facs="#facs_220_r1l20" n="N014"/>de <unclear>Heilmanin</unclear></rs> untern 20<hi style="superscript">ten</hi> Septembris 762 errichteten Heuraths-Contract
-               <lb facs="#facs_220_r1l21" n="N015"/><comment comment="Der\u0020folgende\u0020Text\u0020setzt\u0020die\u0020Rubrik\u0020\u0022Heuraths\u0020Contract\u0022\u0020fort">Anmerckungen</comment>
+               <lb facs="#facs_220_r1l21" n="N015"/><seg type="editorial_comment_seg">Anmerckungen<note type="editorial_comment_note">Der folgende Text setzt die Rubrik Heuraths Contract fort</note></seg>
                <lb facs="#facs_220_r1l23" n="N016"/>eingeleget, worinnen Heurathguth 500 fl Widerlag 1000 fl und das
                <lb facs="#facs_220_r1l24" n="N017"/>erwerbende Vermögen ein gleiches Guth contrahiret worden.
                <lb facs="#facs_220_r1l25" n="N018"/>vide Heur: Contracte <choice><expan/><abbr>nro:</abbr></choice> 2252

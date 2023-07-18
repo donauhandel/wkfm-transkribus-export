@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_34">
+    <surface ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_34">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0354.jpg" width="2934px" height="4501px"/>
          <zone points="375,201 375,3363 2730,3363 2730,201" rendition="TextRegion" xml:id="facs_34_r1">
             <zone points="941,339 1015,330 1089,323 1164,317 1238,314 1313,311 1387,309 1461,309 1536,311 1610,312 1685,314 1759,316 1833,319 1908,321 1982,324 2057,326 2131,327 2205,327 2280,327 2354,326 2429,324 2429,216 2354,218 2280,219 2205,219 2131,219 2057,218 1982,216 1908,213 1833,211 1759,208 1685,206 1610,204 1536,203 1461,201 1387,201 1313,203 1238,206 1164,209 1089,215 1015,222 941,231" rendition="Line" xml:id="facs_34_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_34" n="34" xml:id="img_0034"/>
+            <pb facs="#facs_34" n="34" xml:id="img_0034"/>
             
-            <ab  facs="#facs_34_r1">
+            <ab facs="#facs_34_r1">
                <lb facs="#facs_34_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_34_r1l2" n="N002"/>In obigen Anbringen de ps: 11<hi style="superscript">ten</hi> May 725 N<hi style="superscript">o</hi> 176 hat sich der 
                <lb facs="#facs_34_r1l3" n="N003"/><rs type="person" ref="wkfm__32417">Khärgl</rs> erklähret, das er keinen Compagnon habe.

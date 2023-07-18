@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3095" lry="4410" xml:id="facs_111">
+    <surface ulx="0" uly="0" lrx="3095" lry="4410" xml:id="facs_111">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1031.jpg" width="3095px" height="4410px"/>
          <zone points="174,186 174,3541 2910,3541 2910,186" rendition="TextRegion" xml:id="facs_111_r2">
             <zone points="2719,277 2887,277 2887,420 2719,420" rendition="Line" xml:id="facs_111_line_1624883712577_651" subtype="page-number"/>
@@ -76,9 +76,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_111" n="111" xml:id="img_0111"/>
+            <pb facs="#facs_111" n="111" xml:id="img_0111"/>
             
-            <ab  facs="#facs_111_r2">
+            <ab facs="#facs_111_r2">
                <lb facs="#facs_111_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_111_r2l2" n="N003"/><rs type="person" ref="wkfm__30193">Hillebrandt Martin Peter</rs> burgerlicher Handlsmann
                <lb facs="#facs_111_r2l3" n="N004"/>Firma ad Raggion

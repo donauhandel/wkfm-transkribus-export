@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2945" lry="4407" xml:id="facs_77">
+    <surface ulx="0" uly="0" lrx="2945" lry="4407" xml:id="facs_77">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0130.jpg" width="2945px" height="4407px"/>
          <zone points="104,191 104,3007 2685,3007 2685,191" rendition="TextRegion" xml:id="facs_77_r1">
             <zone points="2573,298 2600,294 2627,292 2654,289 2681,283 2681,205 2654,211 2627,214 2600,216 2573,220" rendition="Line" xml:id="facs_77_r1l2" subtype="page-number"/>
@@ -73,9 +73,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_77" n="77" xml:id="img_0077"/>
+            <pb facs="#facs_77" n="77" xml:id="img_0077"/>
             
-            <ab  facs="#facs_77_r1">
+            <ab facs="#facs_77_r1">
                <lb facs="#facs_77_r1l2" n="N001"/>63
                <lb facs="#facs_77_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_77_r1l3" n="N003"/><rs type="person" ref="wkfm__10201">Bittoni Johann Leonhard</rs> burgerlicher Handlsmann

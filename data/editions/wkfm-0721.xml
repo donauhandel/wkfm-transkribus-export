@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3095" lry="4496" xml:id="facs_53">
+    <surface ulx="0" uly="0" lrx="3095" lry="4496" xml:id="facs_53">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0721.jpg" width="3095px" height="4496px"/>
          <zone points="291,189 291,3016 2760,3016 2760,189" rendition="TextRegion" xml:id="facs_53_r2">
             <zone points="2504,403 2533,403 2562,403 2591,403 2620,403 2649,403 2678,403 2678,279 2649,279 2620,279 2591,279 2562,279 2533,279 2504,279" rendition="Line" xml:id="facs_53_r2l2" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_53" n="53" xml:id="img_0053"/>
+            <pb facs="#facs_53" n="53" xml:id="img_0053"/>
             
-            <ab  facs="#facs_53_r2">
+            <ab facs="#facs_53_r2">
                <lb facs="#facs_53_r2l2" n="N001"/>358
                <lb facs="#facs_53_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_53_r2l3" n="N003"/><rs type="person" ref="wkfm__47089">Ferniz Stephan</rs> burgerlicher Eysenhandler

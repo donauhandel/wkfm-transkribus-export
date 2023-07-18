@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2954" lry="4435" xml:id="facs_78">
+    <surface ulx="0" uly="0" lrx="2954" lry="4435" xml:id="facs_78">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0131.jpg" width="2954px" height="4435px"/>
          <zone points="390,157 390,3255 2823,3255 2823,157" rendition="TextRegion" xml:id="facs_78_r1">
             <zone points="816,241 906,247 996,253 1086,258 1176,263 1266,268 1356,274 1446,280 1536,286 1626,290 1717,294 1807,299 1897,303 1987,306 2077,309 2167,310 2257,312 2347,312 2437,312 2527,310 2618,309 2618,225 2527,226 2437,228 2347,228 2257,228 2167,226 2077,225 1987,222 1897,219 1807,215 1717,210 1626,206 1536,202 1446,196 1356,190 1266,184 1176,179 1086,174 996,169 906,163 816,157" rendition="Line" xml:id="facs_78_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_78" n="78" xml:id="img_0078"/>
+            <pb facs="#facs_78" n="78" xml:id="img_0078"/>
             
-            <ab  facs="#facs_78_r1">
+            <ab facs="#facs_78_r1">
                <lb facs="#facs_78_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_78_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 57 hat sich der
                <lb facs="#facs_78_r1l3" n="N003"/><rs type="person" ref="wkfm__10201">Bittoni</rs> geäusseret, daß er keinen Compagnon habe.

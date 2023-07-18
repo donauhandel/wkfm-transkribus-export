@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3019" lry="4436" xml:id="facs_52">
+    <surface ulx="0" uly="0" lrx="3019" lry="4436" xml:id="facs_52">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1236.jpg" width="3019px" height="4436px"/>
          <zone points="336,138 336,3679 2865,3679 2865,138" rendition="TextRegion" xml:id="facs_52_r1">
             <zone points="1340,272 1393,268 1447,266 1501,263 1555,262 1609,260 1663,259 1716,259 1770,259 1824,259 1878,260 1932,260 1986,260 2040,260 2093,260 2147,260 2201,260 2255,259 2309,257 2363,255 2509,253 2509,138 2363,140 2309,142 2255,144 2201,145 2147,145 2093,145 2040,145 1986,145 1932,145 1878,145 1824,144 1770,144 1716,144 1663,144 1609,145 1555,147 1501,148 1447,151 1393,153 1340,157" rendition="Line" xml:id="facs_52_r1l1"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_52" n="52" xml:id="img_0052"/>
+            <pb facs="#facs_52" n="52" xml:id="img_0052"/>
             
-            <ab  facs="#facs_52_r1">
+            <ab facs="#facs_52_r1">
                <lb facs="#facs_52_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_52_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 730 N<hi style="superscript">o</hi> 565 hat sich der
                <lb facs="#facs_52_r1l3" n="N003"/><rs type="person" ref="wkfm__46884">Menschikh</rs> geäusseret, das er seine Handlung ohne Compagnon

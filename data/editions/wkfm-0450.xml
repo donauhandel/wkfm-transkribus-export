@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3051" lry="4473" xml:id="facs_130">
+    <surface ulx="0" uly="0" lrx="3051" lry="4473" xml:id="facs_130">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0450.jpg" width="3051px" height="4473px"/>
          <graphic url="" width="3051px" height="4473px"/>
          <zone points="315,169 315,3304 2913,3304 2913,169" rendition="TextRegion" xml:id="facs_130_r1">
@@ -77,9 +77,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_130" n="130" xml:id="img_0130"/>
+            <pb facs="#facs_130" n="130" xml:id="img_0130"/>
             
-            <ab  facs="#facs_130_r1">
+            <ab facs="#facs_130_r1">
                <lb facs="#facs_130_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_130_r1l2" n="N002"/>In obiger Erklährung sine dato N<hi style="superscript">o</hi> 221 hat der <rs type="person" ref="wkfm__30296">Peter</rs> und
                <lb facs="#facs_130_r1l3" n="N003"/><rs type="person" ref="wkfm__34913">Joseph Condrey</rs> die Firma gemeinsamlich eingeleget

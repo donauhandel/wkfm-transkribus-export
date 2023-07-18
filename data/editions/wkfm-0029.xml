@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2934" lry="4530" xml:id="facs_24">
+    <surface ulx="0" uly="0" lrx="2934" lry="4530" xml:id="facs_24">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0029.jpg" width="2934px" height="4530px"/>
          <zone points="578,278 578,3437 2834,3437 2834,278" rendition="TextRegion" xml:id="facs_24_r1">
             <zone points="1070,386 1142,390 1214,393 1286,396 1358,400 1430,404 1502,407 1574,412 1646,416 1718,419 1790,423 1862,425 1934,429 2006,431 2078,432 2150,434 2222,434 2294,434 2366,434 2438,432 2510,429 2510,321 2438,324 2366,326 2294,326 2222,326 2150,326 2078,324 2006,323 1934,321 1862,317 1790,315 1718,311 1646,308 1574,304 1502,299 1430,296 1358,292 1286,288 1214,285 1142,282 1070,278" rendition="Line" xml:id="facs_24_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_24" n="24" xml:id="img_0024"/>
+            <pb facs="#facs_24" n="24" xml:id="img_0024"/>
             
-            <ab  facs="#facs_24_r1">
+            <ab facs="#facs_24_r1">
                <lb facs="#facs_24_r1l1" n="N001"/>Societats Contract und Interessenten
                <lb facs="#facs_24_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 hat der <rs type="person" ref="wkfm__43789">Alt</rs> <unclear>erinne</unclear>
                <lb facs="#facs_24_r1l3" n="N003"/>ret das er mit niehmand in Compagnie stehe.

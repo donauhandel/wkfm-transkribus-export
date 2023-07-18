@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2872" lry="4419" xml:id="facs_178">
+    <surface ulx="0" uly="0" lrx="2872" lry="4419" xml:id="facs_178">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1636.jpg" width="2872px" height="4419px"/>
          <zone points="244,6 244,3139 2791,3139 2791,6" rendition="TextRegion" xml:id="facs_178_r1">
             <zone points="1101,255 1168,245 1236,237 1304,230 1372,225 1440,223 1508,221 1576,221 1644,221 1712,221 1780,222 1847,224 1915,225 1983,225 2051,225 2119,225 2187,223 2255,221 2323,216 2391,209 2459,201 2459,119 2391,127 2323,134 2255,139 2187,141 2119,143 2051,143 1983,143 1915,143 1847,142 1780,140 1712,139 1644,139 1576,139 1508,139 1440,141 1372,143 1304,148 1236,155 1168,163 1101,173" rendition="Line" xml:id="facs_178_r1l1"/>
@@ -73,9 +73,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_178" n="178" xml:id="img_0178"/>
+            <pb facs="#facs_178" n="178" xml:id="img_0178"/>
             
-            <ab  facs="#facs_178_r1">
+            <ab facs="#facs_178_r1">
                <lb facs="#facs_178_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_178_r1l3" n="N002"/><seg type="wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_178_r1l4" n="N003"/>Mitls Anbringen de ps: 17<hi style="superscript">ten</hi> May 745 N<hi style="superscript">o</hi> 2239 hat der <rs type="person" ref="wkfm__33707">Schweinzer</rs> den mit

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3095" lry="4469" xml:id="facs_41">
+    <surface ulx="0" uly="0" lrx="3095" lry="4469" xml:id="facs_41">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0853.jpg" width="3095px" height="4469px"/>
          <graphic url="" width="3095px" height="4469px"/>
          <zone points="219,134 225,3014 2738,3014 2732,134" rendition="TextRegion" xml:id="facs_41_r1">
@@ -72,9 +72,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_41" n="41" xml:id="img_0041"/>
+            <pb facs="#facs_41" n="41" xml:id="img_0041"/>
             
-            <ab  facs="#facs_41_r1">
+            <ab facs="#facs_41_r1">
                <lb facs="#facs_41_r1l1" n="N001"/>424
                <lb facs="#facs_41_r1l2" n="N003"/><rs type="person" ref="wkfm__46321">Glickh Johann Michäl</rs> burgerlicher Handlsmann
                <lb facs="#facs_41_r1l3" n="N004"/>Firma ad Raggion

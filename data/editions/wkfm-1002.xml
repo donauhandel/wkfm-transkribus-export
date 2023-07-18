@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4437" xml:id="facs_82">
+    <surface ulx="0" uly="0" lrx="2994" lry="4437" xml:id="facs_82">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1002.jpg" width="2994px" height="4437px"/>
          <zone points="368,188 368,3407 2823,3407 2823,188" rendition="TextRegion" xml:id="facs_82_r1">
             <zone points="1172,379 1233,373 1294,366 1355,362 1416,358 1478,353 1539,351 1600,348 1661,346 1722,344 1784,342 1845,341 1906,338 1967,336 2028,334 2090,329 2151,326 2212,322 2273,316 2334,309 2396,302 2396,188 2334,195 2273,202 2212,208 2151,212 2090,215 2028,220 1967,222 1906,224 1845,227 1784,228 1722,230 1661,232 1600,234 1539,237 1478,239 1416,244 1355,248 1294,252 1233,259 1172,265" rendition="Line" xml:id="facs_82_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_82" n="82" xml:id="img_0082"/>
+            <pb facs="#facs_82" n="82" xml:id="img_0082"/>
             
-            <ab  facs="#facs_82_r1">
+            <ab facs="#facs_82_r1">
                <lb facs="#facs_82_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_82_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 12<hi style="superscript">ten</hi> Julii 729 N<hi style="superscript">o</hi> 462 hat sich der
                <lb facs="#facs_82_r1l3" n="N003"/><rs type="person" ref="wkfm__14804">Holtzmaister</rs> geäusseret, daß er sein negotium für sich 

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3105" lry="4455" xml:id="facs_93">
+    <surface ulx="0" uly="0" lrx="3105" lry="4455" xml:id="facs_93">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1277.jpg" width="3105px" height="4455px"/>
          <zone points="261,113 261,3018 2847,3021 2847,116" rendition="TextRegion" xml:id="facs_93_r2">
             <zone points="2664,240 2819,240 2819,376 2664,376" rendition="Line" xml:id="facs_93_line_1624961258102_1309" subtype="page-number"/>
@@ -68,9 +68,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_93" n="93" xml:id="img_0093"/>
+            <pb facs="#facs_93" n="93" xml:id="img_0093"/>
             
-            <ab  facs="#facs_93_r2">
+            <ab facs="#facs_93_r2">
                <lb facs="#facs_93_line_1624961258102_1309" n="N001"/>632
                <lb facs="#facs_93_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_93_r2l2" n="N003"/><rs type="person" ref="wkfm__46930">Müllnitsch Veith Anton</rs> burgerlicher Tuchlauben Verwanter

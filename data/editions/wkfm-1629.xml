@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2880" lry="4398" xml:id="facs_171">
+    <surface ulx="0" uly="0" lrx="2880" lry="4398" xml:id="facs_171">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1629.jpg" width="2880px" height="4398px"/>
          <graphic url="" width="2880px" height="4398px"/>
          <zone points="117,80 117,3675 2794,3669 2794,74" rendition="TextRegion" xml:id="facs_171_r1">
@@ -80,9 +80,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_171" n="171" xml:id="img_0171"/>
+            <pb facs="#facs_171" n="171" xml:id="img_0171"/>
             
-            <ab  facs="#facs_171_r1">
+            <ab facs="#facs_171_r1">
                <lb facs="#facs_171_line_1630164469529_467" n="N001"/><hi>789</hi>
                <lb facs="#facs_171_line_1630164469529_466" n="N002"/><hi>806</hi>
                <lb facs="#facs_171_line_1626262973790_2146" n="N003"/>807
@@ -97,7 +97,7 @@
                <lb facs="#facs_171_r1l10" n="N012"/>dd<hi style="superscript">to</hi> 6<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 738 N<hi style="superscript">o</hi> 1715 eingeleget <choice><expan/><abbr><hi>pr</hi></abbr></choice> an Ubermaß <choice><expan/><abbr>pr</abbr></choice> 4085 fl und an
                <lb facs="#facs_171_r1l11" n="N013"/>seinen Antheil <choice><expan/><abbr>pr</abbr></choice> 2042 fl 30 x
                <lb facs="#facs_171_r1l13" n="N014"/>Dann einen von seiner Ehewirthin <rs type="person" ref="wkfm__47531">Maria Magdalena</rs> unter 6<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice>
-               <lb facs="#facs_171_r1l14" n="N015"/>738 <hi>dahin ange</hi> N<hi style="superscript">o</hi> 1716 <choice><expan/><abbr>orig:</abbr></choice> dahin ausgestelte <comment comment="wahrscheinlich\u0020\u0022Certiorirte\u0022">Cortiorirte</comment> Er-
+               <lb facs="#facs_171_r1l14" n="N015"/>738 <hi>dahin ange</hi> N<hi style="superscript">o</hi> 1716 <choice><expan/><abbr>orig:</abbr></choice> dahin ausgestelte <seg type="editorial_comment_seg">Cortiorirte<note type="editorial_comment_note">wahrscheinlich Certiorirte</note></seg> Er-
                <lb facs="#facs_171_r1l16" n="N016"/>klährung, daß sie von der ihr zugehörigen Halbscheid des Vermögens
                <lb facs="#facs_171_r1l18" n="N017"/>zu Sicherheit denen Creditoren gewidmet haben wolle 2000 fl
                <lb facs="#facs_171_r1l19" n="N018"/><choice><expan/><abbr>Sa</abbr></choice> 4042 fl 30 x

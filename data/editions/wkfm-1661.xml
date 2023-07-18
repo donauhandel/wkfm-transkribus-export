@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2952" lry="4398" xml:id="facs_203">
+    <surface ulx="0" uly="0" lrx="2952" lry="4398" xml:id="facs_203">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1661.jpg" width="2952px" height="4398px"/>
          <zone points="147,160 147,4075 2845,4069 2845,154" rendition="TextRegion" xml:id="facs_203_r1">
             <zone points="2682,222 2844,222 2844,354 2682,354" rendition="Line" xml:id="facs_203_line_1626263338661_2360" subtype="page-number"/>
@@ -81,9 +81,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_203" n="203" xml:id="img_0203"/>
+            <pb facs="#facs_203" n="203" xml:id="img_0203"/>
             
-            <ab  facs="#facs_203_r1">
+            <ab facs="#facs_203_r1">
                <lb facs="#facs_203_line_1626263338661_2360" n="N001"/>823
                <lb facs="#facs_203_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_203_r1l2" n="N003"/><rs type="person" ref="wkfm__47568">Schuller Johann Georg</rs> burgerlicher Handlsmann

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2982" lry="4501" xml:id="facs_82">
+    <surface ulx="0" uly="0" lrx="2982" lry="4501" xml:id="facs_82">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0402.jpg" width="2982px" height="4501px"/>
          <zone points="329,212 329,3398 2823,3398 2823,212" rendition="TextRegion" xml:id="facs_82_r1">
             <zone points="1124,337 1188,334 1252,332 1316,331 1380,331 1444,331 1508,331 1572,331 1636,332 1700,332 1764,334 1828,335 1892,335 1956,337 2020,337 2084,337 2148,335 2212,335 2276,333 2340,331 2405,326 2405,212 2340,217 2276,219 2212,221 2148,221 2084,223 2020,223 1956,223 1892,221 1828,221 1764,220 1700,218 1636,218 1572,217 1508,217 1444,217 1380,217 1316,217 1252,218 1188,220 1124,223" rendition="Line" xml:id="facs_82_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_82" n="82" xml:id="img_0082"/>
+            <pb facs="#facs_82" n="82" xml:id="img_0082"/>
             
-            <ab  facs="#facs_82_r1">
+            <ab facs="#facs_82_r1">
                <lb facs="#facs_82_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_82_r1l2" n="N002"/>In obigen Anbringen de ps: 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 725 N<hi style="superscript">o</hi> 198 hat sich die
                <lb facs="#facs_82_r1l3" n="N003"/><rs type="person" ref="wkfm__46122">Crovisin</rs> erklähret, daß sie keinen Compagnon habe.

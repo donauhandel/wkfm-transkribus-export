@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3072" lry="4477" xml:id="facs_87">
+    <surface ulx="0" uly="0" lrx="3072" lry="4477" xml:id="facs_87">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1545.jpg" width="3072px" height="4477px"/>
          <zone points="383,119 383,2966 2976,2966 2976,119" rendition="TextRegion" xml:id="facs_87_r2">
             <zone points="2850,352 2875,353 2900,353 2925,356 2950,359 2976,364 2976,268 2950,263 2925,260 2900,257 2875,257 2850,256" rendition="Line" xml:id="facs_87_r2l2" subtype="page-number"/>
@@ -70,9 +70,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_87" n="87" xml:id="img_0087"/>
+            <pb facs="#facs_87" n="87" xml:id="img_0087"/>
             
-            <ab  facs="#facs_87_r2">
+            <ab facs="#facs_87_r2">
                <lb facs="#facs_87_r2l2" n="N001"/>765
                <lb facs="#facs_87_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_87_r2l3" n="N003"/><rs type="person" ref="wkfm__16654">Schwandner Georg Gotthard</rs> burgerlicher Leinwathandler

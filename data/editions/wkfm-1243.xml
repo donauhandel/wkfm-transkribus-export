@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3105" lry="4491" xml:id="facs_59">
+    <surface ulx="0" uly="0" lrx="3105" lry="4491" xml:id="facs_59">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1243.jpg" width="3105px" height="4491px"/>
          <zone points="230,124 230,2959 2872,2952 2872,117" rendition="TextRegion" xml:id="facs_59_r1">
             <zone points="2694,264 2866,264 2866,400 2694,400" rendition="Line" xml:id="facs_59_line_1624960802797_1036" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_59" n="59" xml:id="img_0059"/>
+            <pb facs="#facs_59" n="59" xml:id="img_0059"/>
             
-            <ab  facs="#facs_59_r1">
+            <ab facs="#facs_59_r1">
                <lb facs="#facs_59_line_1624960802797_1036" n="N001"/>615
                <lb facs="#facs_59_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_59_r1l2" n="N003"/><rs type="person" ref="wkfm__46891">Mayer Andre</rs> burgerlicher Handlsmann

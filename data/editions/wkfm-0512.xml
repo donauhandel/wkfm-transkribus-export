@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3051" lry="4473" xml:id="facs_12">
+    <surface ulx="0" uly="0" lrx="3051" lry="4473" xml:id="facs_12">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0512.jpg" width="3051px" height="4473px"/>
          <zone points="522,139 522,3293 2961,3293 2961,139" rendition="TextRegion" xml:id="facs_12_r1">
             <zone points="1271,260 1338,257 1406,256 1473,254 1541,253 1609,253 1676,253 1744,254 1812,256 1879,256 1947,257 2015,259 2082,260 2150,262 2218,263 2285,263 2353,263 2421,263 2488,263 2556,262 2624,259 2624,145 2556,148 2488,149 2421,149 2353,149 2285,149 2218,149 2150,148 2082,146 2015,145 1947,143 1879,142 1812,142 1744,140 1676,139 1609,139 1541,139 1473,140 1406,142 1338,143 1271,146" rendition="Line" xml:id="facs_12_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_12" n="12" xml:id="img_0012"/>
+            <pb facs="#facs_12" n="12" xml:id="img_0012"/>
             
-            <ab  facs="#facs_12_r1">
+            <ab facs="#facs_12_r1">
                <lb facs="#facs_12_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_12_r1l2" n="N002"/>In obigen Anbringen de ps: 23<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 848 hat sich der
                <lb facs="#facs_12_r1l3" n="N003"/><rs type="person" ref="wkfm__46196">Donellj</rs> erklähret, daß er keinen Compagnon und interessenten

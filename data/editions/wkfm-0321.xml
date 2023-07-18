@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2954" lry="4493" xml:id="facs_1">
+    <surface ulx="0" uly="0" lrx="2954" lry="4493" xml:id="facs_1">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0321.jpg" width="2954px" height="4493px"/>
          <graphic url="" width="2954px" height="4493px"/>
          <zone points="182,132 182,2923 2884,2926 2884,135" rendition="TextRegion" xml:id="facs_1_r1">
@@ -89,9 +89,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_1" n="1" xml:id="img_0001"/>
+            <pb facs="#facs_1" n="1" xml:id="img_0001"/>
             
-            <ab  facs="#facs_1_r1">
+            <ab facs="#facs_1_r1">
                <lb facs="#facs_1_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_1_r1l2" n="N003"/><rs type="person" ref="wkfm__17422">Kriner Zacharias</rs> k. k. Niderlagsverwanter
                <lb facs="#facs_1_r1l3" n="N004"/>Firma ad Raggion
@@ -101,7 +101,7 @@
                <lb facs="#facs_1_r1l7" n="N008"/><rs type="person" ref="wkfm__44049">Kriner Schmidt und Scheidlin</rs> lauth Anbringen de ps: 27<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 728 N<hi style="superscript">o</hi> 935.
                <lb facs="#facs_1_r1l8" n="N009"/><rs type="person" ref="wkfm__44050">Kriner und Schmidt</rs> laut avocatorien dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 748 N<hi style="superscript">o</hi> 1149.
                <lb facs="#facs_1_r1l9" n="N010"/><seg type="owner">Procura und Firmae Trager</seg>
-               <lb facs="#facs_1_r1l11" n="N011"/>Die Raggion <rs type="person" ref="wkfm__37043">Zacharias Kriner et J G Schmidt</rs> hat sich in <choice><expan/><abbr>obig:</abbr></choice> Anbringen de ps: <comment comment="Es\u0020folgt\u003a\u0020\u0022April\u0022">16<hi style="superscript">ten</hi></comment> <gap/>
+               <lb facs="#facs_1_r1l11" n="N011"/>Die Raggion <rs type="person" ref="wkfm__37043">Zacharias Kriner et J G Schmidt</rs> hat sich in <choice><expan/><abbr>obig:</abbr></choice> Anbringen de ps: <seg type="editorial_comment_seg">16<hi style="superscript">ten</hi><note type="editorial_comment_note">Es folgt\u003a April</note></seg> <gap/>
                <lb facs="#facs_1_r1l12" n="N012"/>N<hi style="superscript">o</hi> 926 erklähret das von ihnen keiner anderen Firma als der unten beygerukten
                <lb facs="#facs_1_r1l14" n="N013"/><unclear>von</unclear> ihren Compagnon <rs type="person" ref="wkfm__11308">Mathias Laßgallner</rs> Glauben zu geben seye.
                <lb facs="#facs_1_r1l15" n="N014"/>Die Raggion <rs type="person" ref="wkfm__44049">Kriner Schmidt und Scheidlin</rs> hat sich in obigen Anbringen de ps: 27<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 728 N<hi style="superscript">o</hi> 935 geäusseret

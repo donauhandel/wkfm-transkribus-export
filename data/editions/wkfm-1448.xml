@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2886" lry="4455" xml:id="facs_96">
+    <surface ulx="0" uly="0" lrx="2886" lry="4455" xml:id="facs_96">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1448.jpg" width="2886px" height="4455px"/>
          <zone points="179,142 179,4342 2753,4342 2753,142" rendition="TextRegion" xml:id="facs_96_r1">
             <zone points="998,278 1062,275 1127,271 1191,269 1256,266 1321,265 1385,263 1450,262 1515,262 1579,260 1644,260 1709,259 1773,258 1838,256 1903,254 1967,251 2032,247 2097,243 2161,236 2226,230 2291,221 2291,142 2226,151 2161,157 2097,164 2032,168 1967,172 1903,175 1838,177 1773,179 1709,180 1644,181 1579,181 1515,183 1450,183 1385,184 1321,186 1256,187 1191,190 1127,192 1062,196 998,199" rendition="Line" xml:id="facs_96_r1l1"/>
@@ -93,14 +93,14 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_96" n="96" xml:id="img_0096"/>
+            <pb facs="#facs_96" n="96" xml:id="img_0096"/>
             
-            <ab  facs="#facs_96_r1">
+            <ab facs="#facs_96_r1">
                <lb facs="#facs_96_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_96_r1l2" n="N002"/>In obigen oblatorien dd<hi style="superscript">to</hi> 7<hi style="superscript">ten</hi> May 753 N<hi style="superscript">o</hi> 1139 hat der <rs type="person" ref="wkfm__46187">Wolfgang Riesch</rs> kund
                <lb facs="#facs_96_r1l3" n="N003"/>gemacht, daß er das negotium unter der raggion <rs type="person" ref="wkfm__46749">Erhardt Riesch</rs> unter seiner
                <lb facs="#facs_96_r1l4" n="N004"/>eigenen Direction und mit eignen obligo prosequiren werde.
-               <lb facs="#facs_96_r1l5" n="N005"/><comment comment="Fortsetzung\u0020der\u0020Rubrik\u0020\u0022Anmerckungen\u0022"><hi>0</hi></comment>
+               <lb facs="#facs_96_r1l5" n="N005"/><seg type="editorial_comment_seg"><hi>0</hi><note type="editorial_comment_note">Fortsetzung der Rubrik Anmerckungen</note></seg>
                <lb facs="#facs_96_r1l6" n="N006"/>Untern 21<hi style="superscript">ten</hi> Jäner 780 wurde durch Decret von einer N: O: Regier:
                <lb facs="#facs_96_r1l7" n="N007"/>diesem N: O: <choice><expan>Merkantil- und Wechselgericht</expan><abbr>Mil: und Wghr:</abbr></choice> intimirt, daß hr. <rs type="person" ref="wkfm__46752">Isaak Wolfgang Fhr.
                <lb break="no" facs="#facs_96_r1l8" n="N008"/>v: Riesch</rs> bey allerhöchsten Orten seine allerunterthänigiste bittschrift ein-
@@ -110,9 +110,9 @@
                <lb facs="#facs_96_r1l12" n="N012"/>und die allerhöchste resoluon untern 24: Khristmonats 779 herabgelanget sey
                <lb facs="#facs_96_r1l13" n="N013"/>das kein bedenken obwalte die Renuntiations des bittstellers anzunehmen;
                <lb facs="#facs_96_r1l14" n="N014"/>Worüber obbemelter <rs type="person" ref="wkfm__46752">Fhr. v. Riesch</rs> vermög Anbringen de ps. 27: <choice><expan/><abbr>Janu:</abbr></choice>
-               <lb facs="#facs_96_r1l15" n="N015"/>780 um <hi>Entlassung</hi> Ausfertigung der diesfälligen Entlassungs Urkund gebetten <comment comment="Fortzsetzung\u0020in\u0020der\u0020Rubrik\u0020\u0022Heuraths\u0020Contract\u0022">q</comment>
+               <lb facs="#facs_96_r1l15" n="N015"/>780 um <hi>Entlassung</hi> Ausfertigung der diesfälligen Entlassungs Urkund gebetten <seg type="editorial_comment_seg">q<note type="editorial_comment_note">Fortzsetzung in der Rubrik Heuraths Contract</note></seg>
                <lb facs="#facs_96_r1l17" n="N016"/><seg type="wedding_contract">Heuraths Contract</seg>
-               <lb facs="#facs_96_r1l18" n="N017"/><comment comment="Fortsetzung\u0020des\u0020vorangegangenen\u0020Textes\u0020der\u0020Rubrik\u0020\u0022Anmerckungen\u0022">q</comment> und solche ausgefertigter erhalten, dann diese Wolfgang Rieschische
+               <lb facs="#facs_96_r1l18" n="N017"/><seg type="editorial_comment_seg">q<note type="editorial_comment_note">Fortsetzung des vorangegangenen Textes der Rubrik Anmerckungen</note></seg> und solche ausgefertigter erhalten, dann diese Wolfgang Rieschische
                <lb facs="#facs_96_r1l19" n="N018"/>Niderlags Freyheit bey diesem <choice><expan>Mercantil</expan><abbr>Mil</abbr></choice> Protocoll <unclear>abzuschben</unclear> ver-
                <lb facs="#facs_96_r1l20" n="N019"/>ordnet worden. obberuhrtes Decret, und bemeldtes Anbringen
                <lb facs="#facs_96_r1l21" n="N020"/>de pt: 27<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 780 liegen bey den Avocatorien und obla-
@@ -127,7 +127,7 @@
                <lb facs="#facs_96_r1l31" n="N029"/>stattet, worüber resolvirert worden, daß der <rs type="person" ref="wkfm__46752">Fhr. v. Riesch</rs> zur zahlung der
                <lb facs="#facs_96_r1l32" n="N030"/>Steuer verhalten seyn solle. NB: obige Anzeige und der
                <lb facs="#facs_96_r1l33" n="N031"/>Bericht finden sich in der Avocatorien und oblatorien sub N<hi style="superscript">o</hi> 1140 3/4
-               <lb facs="#facs_96_r1l34" n="N032"/><comment comment="Fortsetzung\u0020in\u0020der\u0020Rubrik\u0020\u0022Societaets\u0020Contract\u0020und\u0020Interessenten\u0022"><hi>0</hi></comment>
+               <lb facs="#facs_96_r1l34" n="N032"/><seg type="editorial_comment_seg"><hi>0</hi><note type="editorial_comment_note">Fortsetzung in der Rubrik Societaets Contract und Interessenten</note></seg>
             </ab>
             
         </div>

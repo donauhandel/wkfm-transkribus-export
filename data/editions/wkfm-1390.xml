@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2953" lry="4400" xml:id="facs_38">
+    <surface ulx="0" uly="0" lrx="2953" lry="4400" xml:id="facs_38">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1390.jpg" width="2953px" height="4400px"/>
          <zone points="392,213 392,3348 2868,3348 2868,213" rendition="TextRegion" xml:id="facs_38_r1">
             <zone points="1148,329 1213,324 1278,319 1343,316 1408,313 1473,311 1538,311 1603,310 1668,310 1733,311 1799,311 1864,311 1929,311 1994,311 2059,311 2124,310 2189,308 2254,305 2319,302 2384,298 2450,292 2450,213 2384,219 2319,223 2254,226 2189,229 2124,231 2059,232 1994,232 1929,232 1864,232 1799,232 1733,232 1668,231 1603,231 1538,232 1473,232 1408,234 1343,237 1278,240 1213,245 1148,250" rendition="Line" xml:id="facs_38_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_38" n="38" xml:id="img_0038"/>
+            <pb facs="#facs_38" n="38" xml:id="img_0038"/>
             
-            <ab  facs="#facs_38_r1">
+            <ab facs="#facs_38_r1">
                <lb facs="#facs_38_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_38_r1l2" n="N002"/>In obiger Erkährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 628 hat sich der <rs type="person" ref="wkfm__9224">Rueb<gap/></rs>
                <lb facs="#facs_38_r1l3" n="N003"/>geäusseret, daß er keinen Compagnon habe

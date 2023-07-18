@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2954" lry="4435" xml:id="facs_88">
+    <surface ulx="0" uly="0" lrx="2954" lry="4435" xml:id="facs_88">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0141.jpg" width="2954px" height="4435px"/>
          <zone points="519,141 519,3254 2823,3254 2823,141" rendition="TextRegion" xml:id="facs_88_r1">
             <zone points="1131,240 1208,248 1285,255 1362,262 1439,267 1516,273 1593,277 1670,281 1747,285 1824,288 1901,291 1978,294 2055,296 2132,297 2209,299 2286,300 2363,300 2440,300 2517,300 2594,300 2672,300 2672,201 2594,201 2517,201 2440,201 2363,201 2286,201 2209,200 2132,198 2055,197 1978,195 1901,192 1824,189 1747,186 1670,182 1593,178 1516,174 1439,168 1362,163 1285,156 1208,149 1131,141" rendition="Line" xml:id="facs_88_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_88" n="88" xml:id="img_0088"/>
+            <pb facs="#facs_88" n="88" xml:id="img_0088"/>
             
-            <ab  facs="#facs_88_r1">
+            <ab facs="#facs_88_r1">
                <lb facs="#facs_88_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_88_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 62 hat sich der
                <lb facs="#facs_88_r1l3" n="N003"/><rs type="person" ref="wkfm__47311">Pfefferl</rs> geäusseret, daß er keinen Compagnon habe

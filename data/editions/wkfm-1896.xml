@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2893" lry="4398" xml:id="facs_42">
+    <surface ulx="0" uly="0" lrx="2893" lry="4398" xml:id="facs_42">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1896.jpg" width="2893px" height="4398px"/>
          <zone points="150,105 150,3300 2658,3300 2658,105" rendition="TextRegion" xml:id="facs_42_r1">
             <zone points="938,234 998,227 1058,222 1118,220 1178,219 1238,217 1298,217 1358,219 1418,220 1478,222 1538,223 1598,226 1658,228 1718,229 1778,231 1838,231 1898,231 1958,229 2018,227 2078,223 2138,217 2138,105 2078,111 2018,115 1958,117 1898,119 1838,119 1778,119 1718,117 1658,116 1598,114 1538,111 1478,110 1418,108 1358,107 1298,105 1238,105 1178,107 1118,108 1058,110 998,115 938,122" rendition="Line" xml:id="facs_42_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_42" n="42" xml:id="img_0042"/>
+            <pb facs="#facs_42" n="42" xml:id="img_0042"/>
             
-            <ab  facs="#facs_42_r1">
+            <ab facs="#facs_42_r1">
                <lb facs="#facs_42_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_42_r1l2" n="N002"/>In obigen Anbringen de ps: 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 865 hat sich der
                <lb facs="#facs_42_r1l3" n="N003"/><rs type="person" ref="wkfm__14422">Wertheimber</rs> erklähret, daß er seine negotion mit eignen

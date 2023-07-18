@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3057" lry="4521" xml:id="facs_13">
+    <surface ulx="0" uly="0" lrx="3057" lry="4521" xml:id="facs_13">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1077.jpg" width="3057px" height="4521px"/>
          <zone points="257,201 257,3032 2924,3032 2924,201" rendition="TextRegion" xml:id="facs_13_r2">
             <zone points="2742,434 2768,435 2794,435 2820,436 2846,437 2872,438 2898,439 2924,441 2924,360 2898,358 2872,357 2846,356 2820,355 2794,354 2768,354 2742,353" rendition="Line" xml:id="facs_13_r2l3" subtype="page-number"/>
@@ -73,9 +73,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_13" n="13" xml:id="img_0013"/>
+            <pb facs="#facs_13" n="13" xml:id="img_0013"/>
             
-            <ab  facs="#facs_13_r2">
+            <ab facs="#facs_13_r2">
                <lb facs="#facs_13_r2l3" n="N001"/>532
                <lb facs="#facs_13_r2l2" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_13_r2l4" n="N003"/><rs type="person" ref="wkfm__43868">Ingrueber Jacob</rs> burgerlicher Handlsmann

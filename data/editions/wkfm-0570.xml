@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3003" lry="4530" xml:id="facs_70">
+    <surface ulx="0" uly="0" lrx="3003" lry="4530" xml:id="facs_70">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0570.jpg" width="3003px" height="4530px"/>
          <zone points="351,215 351,3378 2858,3378 2858,215" rendition="TextRegion" xml:id="facs_70_r1">
             <zone points="1037,309 1101,308 1166,306 1231,306 1296,307 1361,308 1426,311 1490,313 1555,316 1620,318 1685,323 1750,326 1815,329 1880,332 1944,333 2009,336 2074,336 2139,336 2204,336 2269,335 2334,332 2334,241 2269,244 2204,245 2139,245 2074,245 2009,245 1944,242 1880,241 1815,238 1750,235 1685,232 1620,227 1555,225 1490,222 1426,220 1361,217 1296,216 1231,215 1166,215 1101,217 1037,218" rendition="Line" xml:id="facs_70_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_70" n="70" xml:id="img_0070"/>
+            <pb facs="#facs_70" n="70" xml:id="img_0070"/>
             
-            <ab  facs="#facs_70_r1">
+            <ab facs="#facs_70_r1">
                <lb facs="#facs_70_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_70_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 8<hi style="superscript">ten</hi> Julii 729 N<hi style="superscript">o</hi> 275 hat sich der <rs type="person" ref="wkfm__46245">Diton</rs>
                <lb facs="#facs_70_r1l3" n="N003"/>geäusseret, daß er seine Handlung für sich allein führe.

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2940" lry="4464" xml:id="facs_14">
+    <surface ulx="0" uly="0" lrx="2940" lry="4464" xml:id="facs_14">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1342.jpg" width="2940px" height="4464px"/>
          <zone points="422,152 422,3250 2832,3250 2832,152" rendition="TextRegion" xml:id="facs_14_r1">
             <zone points="1103,294 1166,289 1230,285 1294,281 1358,279 1421,277 1485,277 1549,276 1613,276 1676,276 1740,276 1804,276 1868,276 1931,276 1995,274 2059,273 2123,271 2186,268 2250,265 2314,261 2378,255 2378,152 2314,158 2250,162 2186,165 2123,168 2059,170 1995,171 1931,173 1868,173 1804,173 1740,173 1676,173 1613,173 1549,173 1485,174 1421,174 1358,176 1294,178 1230,182 1166,186 1103,191" rendition="Line" xml:id="facs_14_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_14" n="14" xml:id="img_0014"/>
+            <pb facs="#facs_14" n="14" xml:id="img_0014"/>
             
-            <ab  facs="#facs_14_r1">
+            <ab facs="#facs_14_r1">
                <lb facs="#facs_14_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_14_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 23<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 722 N<hi style="superscript">o</hi> 614 hat sich der
                <lb facs="#facs_14_r1l3" n="N003"/><rs type="person" ref="wkfm__43855">Orban</rs> geäusseret, daß er seine Handlung ohne Compagnon führe

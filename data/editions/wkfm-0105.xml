@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2954" lry="4378" xml:id="facs_52">
+    <surface ulx="0" uly="0" lrx="2954" lry="4378" xml:id="facs_52">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0105.jpg" width="2954px" height="4378px"/>
          <zone points="564,138 564,3195 2832,3195 2832,138" rendition="TextRegion" xml:id="facs_52_r1">
             <zone points="851,223 932,223 1013,225 1094,225 1175,226 1256,228 1337,229 1418,232 1499,234 1580,237 1661,240 1742,242 1823,246 1904,249 1985,252 2066,255 2147,259 2228,262 2309,265 2390,268 2471,273 2471,188 2390,183 2309,180 2228,177 2147,174 2066,170 1985,167 1904,164 1823,161 1742,157 1661,155 1580,152 1499,149 1418,147 1337,144 1256,143 1175,141 1094,140 1013,140 932,138 851,138" rendition="Line" xml:id="facs_52_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_52" n="52" xml:id="img_0052"/>
+            <pb facs="#facs_52" n="52" xml:id="img_0052"/>
             
-            <ab  facs="#facs_52_r1">
+            <ab facs="#facs_52_r1">
                <lb facs="#facs_52_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_52_r1l2" n="N002"/>In obiger erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 725 N<hi style="superscript">o</hi> 44 hat sich der
                <lb facs="#facs_52_r1l3" n="N003"/><rs type="person" ref="wkfm__10559">Bergin</rs> geäusseret das er sein Negotium allein führe

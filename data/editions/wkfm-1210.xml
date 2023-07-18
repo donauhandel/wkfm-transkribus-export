@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2982" lry="4436" xml:id="facs_26">
+    <surface ulx="0" uly="0" lrx="2982" lry="4436" xml:id="facs_26">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1210.jpg" width="2982px" height="4436px"/>
          <zone points="375,124 375,3339 2850,3339 2850,124" rendition="TextRegion" xml:id="facs_26_r1">
             <zone points="1277,279 1338,273 1399,267 1460,264 1521,261 1583,260 1644,260 1705,261 1766,263 1827,264 1889,267 1950,269 2011,272 2072,273 2133,275 2195,276 2256,276 2317,275 2378,273 2439,270 2501,264 2501,128 2439,134 2378,137 2317,139 2256,140 2195,140 2133,139 2072,137 2011,136 1950,133 1889,131 1827,128 1766,127 1705,125 1644,124 1583,124 1521,125 1460,128 1399,131 1338,137 1277,143" rendition="Line" xml:id="facs_26_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_26" n="26" xml:id="img_0026"/>
+            <pb facs="#facs_26" n="26" xml:id="img_0026"/>
             
-            <ab  facs="#facs_26_r1">
+            <ab facs="#facs_26_r1">
                <lb facs="#facs_26_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_26_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 553 hat sich der
                <lb facs="#facs_26_r1l3" n="N003"/><rs type="person" ref="wkfm__10641">Moser</rs> geäusseret, das er sein Negotium für sich allein führe

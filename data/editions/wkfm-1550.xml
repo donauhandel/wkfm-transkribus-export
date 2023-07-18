@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2929" lry="4455" xml:id="facs_92">
+    <surface ulx="0" uly="0" lrx="2929" lry="4455" xml:id="facs_92">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1550.jpg" width="2929px" height="4455px"/>
          <zone points="312,142 312,3319 2841,3319 2841,142" rendition="TextRegion" xml:id="facs_92_r1">
             <zone points="1053,307 1118,297 1184,289 1250,282 1316,278 1382,275 1447,274 1513,272 1579,272 1645,274 1711,274 1776,275 1842,275 1908,275 1974,275 2040,274 2105,272 2171,268 2237,263 2303,255 2369,247 2369,142 2303,150 2237,158 2171,163 2105,167 2040,169 1974,170 1908,170 1842,170 1776,170 1711,169 1645,169 1579,167 1513,167 1447,169 1382,170 1316,173 1250,177 1184,184 1118,192 1053,202" rendition="Line" xml:id="facs_92_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_92" n="92" xml:id="img_0092"/>
+            <pb facs="#facs_92" n="92" xml:id="img_0092"/>
             
-            <ab  facs="#facs_92_r1">
+            <ab facs="#facs_92_r1">
                <lb facs="#facs_92_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_92_r1l2" n="N002"/>In obigen Anbringen de ps: 23<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 725 N<hi style="superscript">o</hi> 701 hat sich der
                <lb facs="#facs_92_r1l4" n="N003"/><rs type="person" ref="wkfm__47460">Schreiber</rs> erklähret, das er keinen Compagnon habe

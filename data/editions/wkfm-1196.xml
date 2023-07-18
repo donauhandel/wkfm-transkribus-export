@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2982" lry="4436" xml:id="facs_12">
+    <surface ulx="0" uly="0" lrx="2982" lry="4436" xml:id="facs_12">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1196.jpg" width="2982px" height="4436px"/>
          <zone points="441,173 441,3350 2853,3350 2853,173" rendition="TextRegion" xml:id="facs_12_r1">
             <zone points="1340,280 1492,278 1546,278 1600,279 1654,279 1708,279 1762,281 1815,281 1869,281 1923,281 1977,281 2031,281 2085,281 2139,279 2192,278 2246,278 2300,275 2354,273 2408,270 2462,267 2516,263 2516,173 2462,177 2408,180 2354,183 2300,185 2246,188 2192,188 2139,189 2085,191 2031,191 1977,191 1923,191 1869,191 1815,191 1762,191 1708,189 1654,189 1600,189 1546,188 1492,188 1340,190" rendition="Line" xml:id="facs_12_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_12" n="12" xml:id="img_0012"/>
+            <pb facs="#facs_12" n="12" xml:id="img_0012"/>
             
-            <ab  facs="#facs_12_r1">
+            <ab facs="#facs_12_r1">
                <lb facs="#facs_12_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_12_line_1629152092282_226" n="N002"/>In obigen Anbringen de ps: 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 547 hat der <rs type="person" ref="wkfm__35903">Gioanne Marina</rs> angezeiget das
                <lb facs="#facs_12_r1l4" n="N003"/>er mit seinen Söhnen in Compagnie stehe.

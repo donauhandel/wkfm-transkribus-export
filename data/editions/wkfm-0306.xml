@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_252">
+    <surface ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_252">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0306.jpg" width="2934px" height="4501px"/>
          <zone points="186,239 186,3353 2808,3353 2808,239" rendition="TextRegion" xml:id="facs_252_r1">
             <zone points="962,312 1033,309 1105,306 1177,304 1248,302 1320,300 1392,299 1463,299 1535,297 1607,297 1679,297 1750,296 1822,296 1894,296 1965,294 2037,294 2109,293 2180,291 2252,290 2324,287 2396,285 2396,239 2324,241 2252,244 2180,245 2109,247 2037,248 1965,248 1894,250 1822,250 1750,250 1679,251 1607,251 1535,251 1463,253 1392,253 1320,254 1248,256 1177,258 1105,260 1033,263 962,266" rendition="Line" xml:id="facs_252_r1l1"/>
@@ -83,9 +83,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_252" n="252" xml:id="img_0252"/>
+            <pb facs="#facs_252" n="252" xml:id="img_0252"/>
             
-            <ab  facs="#facs_252_r1">
+            <ab facs="#facs_252_r1">
                <lb facs="#facs_252_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_252_line_1621475017519_5678" n="N002"/>Der <rs type="person" ref="wkfm__44012">Anton</rs> und <rs type="person" ref="wkfm__44015">Ignaz Barbieri</rs> haben obigen oblatorien dd<hi style="superscript">to</hi> 20<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 749 N<hi style="superscript">o</hi>
                <lb facs="#facs_252_r1l4" n="N003"/>1105 dann in dem Anbringen de ps: 7<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 753 kund gemacht und ange-

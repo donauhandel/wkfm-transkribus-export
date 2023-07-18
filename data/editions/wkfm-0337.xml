@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2954" lry="4493" xml:id="facs_17">
+    <surface ulx="0" uly="0" lrx="2954" lry="4493" xml:id="facs_17">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0337.jpg" width="2954px" height="4493px"/>
          <zone points="192,210 192,2973 2736,2973 2736,210" rendition="TextRegion" xml:id="facs_17_r2">
             <zone points="2571,298 2598,296 2626,294 2653,294 2681,292 2708,287 2736,277 2736,210 2708,220 2681,225 2653,227 2626,227 2598,229 2571,231" rendition="Line" xml:id="facs_17_r2l2" subtype="page-number"/>
@@ -70,9 +70,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_17" n="17" xml:id="img_0017"/>
+            <pb facs="#facs_17" n="17" xml:id="img_0017"/>
             
-            <ab  facs="#facs_17_r2">
+            <ab facs="#facs_17_r2">
                <lb facs="#facs_17_r2l2" n="N001"/>166
                <lb facs="#facs_17_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_17_r2l3" n="N003"/><rs type="person" ref="wkfm__8980">Khössler Matthias <choice><expan/><abbr>sel.</abbr></choice> Wittib</rs> <choice><expan/><abbr>burg:</abbr></choice> Tuchlaubens Verwante

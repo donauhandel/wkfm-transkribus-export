@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2982" lry="4501" xml:id="facs_86">
+    <surface ulx="0" uly="0" lrx="2982" lry="4501" xml:id="facs_86">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0406.jpg" width="2982px" height="4501px"/>
          <zone points="422,220 422,3412 2853,3412 2853,220" rendition="TextRegion" xml:id="facs_86_r1">
             <zone points="1070,377 1142,373 1215,368 1287,365 1360,362 1433,360 1505,358 1578,356 1650,355 1723,353 1796,352 1868,350 1941,349 2013,347 2086,345 2159,343 2231,340 2304,337 2376,334 2449,331 2522,326 2522,220 2449,225 2376,228 2304,231 2231,234 2159,237 2086,239 2013,241 1941,243 1868,244 1796,246 1723,247 1650,249 1578,250 1505,252 1433,254 1360,256 1287,259 1215,262 1142,267 1070,271" rendition="Line" xml:id="facs_86_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_86" n="86" xml:id="img_0086"/>
+            <pb facs="#facs_86" n="86" xml:id="img_0086"/>
             
-            <ab  facs="#facs_86_r1">
+            <ab facs="#facs_86_r1">
                <lb facs="#facs_86_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_86_r1l2" n="N002"/>In obigen Anbringen de ps: 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 725 N<hi style="superscript">o</hi> 200 hat sich die
                <lb facs="#facs_86_r1l3" n="N003"/><rs type="person" ref="wkfm__46123">Kaufmannsche <hi>W</hi> Erbin</rs> erklähret, das sie keinen Compagnon habe

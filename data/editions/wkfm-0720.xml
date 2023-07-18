@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_52">
+    <surface ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_52">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0720.jpg" width="2994px" height="4530px"/>
          <zone points="549,215 549,3397 2928,3397 2928,215" rendition="TextRegion" xml:id="facs_52_r1">
             <zone points="1325,329 1385,329 1446,329 1507,331 1568,331 1629,331 1690,332 1751,332 1812,332 1873,334 1934,334 1994,334 2055,335 2116,335 2177,335 2238,335 2299,335 2360,335 2421,335 2482,335 2543,335 2543,221 2482,221 2421,221 2360,221 2299,221 2238,221 2177,221 2116,221 2055,221 1994,220 1934,220 1873,220 1812,218 1751,218 1690,218 1629,217 1568,217 1507,217 1446,215 1385,215 1325,215" rendition="Line" xml:id="facs_52_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_52" n="52" xml:id="img_0052"/>
+            <pb facs="#facs_52" n="52" xml:id="img_0052"/>
             
-            <ab  facs="#facs_52_r1">
+            <ab facs="#facs_52_r1">
                <lb facs="#facs_52_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_52_r1l2" n="N002"/>In obigen Anbringen de ps: 25<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 341 hat sich der
                <lb facs="#facs_52_r1l3" n="N003"/><rs type="person" ref="wkfm__8673">Voith</rs> erklähret, das er seine Handlung allein führe

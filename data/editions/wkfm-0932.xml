@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4520" xml:id="facs_12">
+    <surface ulx="0" uly="0" lrx="2994" lry="4520" xml:id="facs_12">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0932.jpg" width="2994px" height="4520px"/>
          <zone points="416,203 416,3413 2819,3413 2819,203" rendition="TextRegion" xml:id="facs_12_r1">
             <zone points="1125,341 1185,335 1245,331 1306,328 1366,325 1427,323 1487,322 1547,322 1608,322 1668,322 1729,323 1789,323 1849,323 1910,323 1970,323 2031,323 2091,322 2151,320 2212,317 2272,313 2333,308 2333,203 2272,208 2212,212 2151,215 2091,217 2031,218 1970,218 1910,218 1849,218 1789,218 1729,218 1668,217 1608,217 1547,217 1487,217 1427,218 1366,220 1306,223 1245,226 1185,230 1125,236" rendition="Line" xml:id="facs_12_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_12" n="12" xml:id="img_0012"/>
+            <pb facs="#facs_12" n="12" xml:id="img_0012"/>
             
-            <ab  facs="#facs_12_r1">
+            <ab facs="#facs_12_r1">
                <lb facs="#facs_12_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_12_r1l2" n="N002"/>In obigen Anbringen de ps: 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 433 hat der <rs type="person" ref="wkfm__46398">Hölzl</rs>
                <lb facs="#facs_12_r1l3" n="N003"/>sich erklähret, daß er sein negotium allein führe

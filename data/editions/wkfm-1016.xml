@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3030" lry="4437" xml:id="facs_96">
+    <surface ulx="0" uly="0" lrx="3030" lry="4437" xml:id="facs_96">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1016.jpg" width="3030px" height="4437px"/>
          <zone points="315,215 315,3406 2925,3406 2925,215" rendition="TextRegion" xml:id="facs_96_r1">
             <zone points="1250,355 1312,347 1374,342 1436,338 1499,336 1561,333 1623,331 1685,330 1748,330 1810,328 1872,328 1934,327 1997,327 2059,325 2121,322 2183,318 2246,314 2308,308 2370,302 2432,292 2495,282 2495,215 2432,225 2370,235 2308,241 2246,247 2183,251 2121,255 2059,258 1997,260 1934,260 1872,261 1810,261 1748,263 1685,263 1623,264 1561,266 1499,269 1436,271 1374,275 1312,280 1250,288" rendition="Line" xml:id="facs_96_r1l1"/>
@@ -71,9 +71,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_96" n="96" xml:id="img_0096"/>
+            <pb facs="#facs_96" n="96" xml:id="img_0096"/>
             
-            <ab  facs="#facs_96_r1">
+            <ab facs="#facs_96_r1">
                <lb facs="#facs_96_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_96_r1l2" n="N002"/>In obigen Anbringen de ps: 22<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 735 N<hi style="superscript">o</hi> 1967 hat sich der <rs type="person" ref="wkfm__26689">Heß</rs>
                <lb facs="#facs_96_r1l3" n="N003"/>nebst dem <rs type="person" ref="wkfm__6849">Erdmann Thech</rs> erklähret, daß sie durch einige Zeit in Compagnie

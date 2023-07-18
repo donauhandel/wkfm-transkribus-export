@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2982" lry="4473" xml:id="facs_126">
+    <surface ulx="0" uly="0" lrx="2982" lry="4473" xml:id="facs_126">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0446.jpg" width="2982px" height="4473px"/>
          <graphic url="" width="2982px" height="4473px"/>
          <zone points="257,146 257,3278 2865,3278 2865,146" rendition="TextRegion" xml:id="facs_126_r1">
@@ -76,9 +76,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_126" n="126" xml:id="img_0126"/>
+            <pb facs="#facs_126" n="126" xml:id="img_0126"/>
             
-            <ab  facs="#facs_126_r1">
+            <ab facs="#facs_126_r1">
                <lb facs="#facs_126_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_126_r1l2" n="N002"/><seg type="wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_126_r1l3" n="N003"/>Der <rs type="person" ref="wkfm__35115">Klebinder</rs> hat den mit der <rs type="person" ref="wkfm__46145">Eleonora Lettnerin</rs> untern 19<hi style="superscript">ten</hi>

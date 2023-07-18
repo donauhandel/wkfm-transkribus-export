@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2929" lry="4455" xml:id="facs_96">
+    <surface ulx="0" uly="0" lrx="2929" lry="4455" xml:id="facs_96">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1554.jpg" width="2929px" height="4455px"/>
          <zone points="378,132 378,3331 2903,3331 2903,132" rendition="TextRegion" xml:id="facs_96_r1">
             <zone points="1094,283 1157,275 1221,268 1285,263 1349,260 1412,257 1476,256 1540,254 1604,254 1667,254 1731,254 1795,254 1859,256 1922,254 1986,254 2050,253 2114,251 2177,248 2241,243 2305,237 2369,229 2369,132 2305,140 2241,146 2177,151 2114,154 2050,156 1986,157 1922,157 1859,159 1795,157 1731,157 1667,157 1604,157 1540,157 1476,159 1412,160 1349,163 1285,166 1221,171 1157,178 1094,186" rendition="Line" xml:id="facs_96_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_96" n="96" xml:id="img_0096"/>
+            <pb facs="#facs_96" n="96" xml:id="img_0096"/>
             
-            <ab  facs="#facs_96_r1">
+            <ab facs="#facs_96_r1">
                <lb facs="#facs_96_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_96_r1l2" n="N002"/>In obigen Anbringen de ps: 23<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 725 N<hi style="superscript">o</hi> 703 hat sich die <rs type="person" ref="wkfm__47463">Saltz-
                <lb break="no" facs="#facs_96_r1l3" n="N003"/>paurin</rs> erklahret daß sie keinen Compagnon habe

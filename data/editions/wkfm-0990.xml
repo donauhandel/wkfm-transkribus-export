@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4437" xml:id="facs_70">
+    <surface ulx="0" uly="0" lrx="2994" lry="4437" xml:id="facs_70">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0990.jpg" width="2994px" height="4437px"/>
          <zone points="417,214 417,3369 2865,3369 2865,214" rendition="TextRegion" xml:id="facs_70_r1">
             <zone points="1136,364 1192,357 1248,351 1304,346 1360,342 1416,339 1472,337 1528,335 1584,334 1640,334 1697,334 1753,334 1809,336 1865,337 1921,337 1977,339 2033,340 2089,340 2145,342 2201,342 2258,342 2258,222 2201,222 2145,222 2089,220 2033,220 1977,219 1921,217 1865,217 1809,216 1753,214 1697,214 1640,214 1584,214 1528,215 1472,217 1416,219 1360,222 1304,226 1248,231 1192,237 1136,244" rendition="Line" xml:id="facs_70_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_70" n="70" xml:id="img_0070"/>
+            <pb facs="#facs_70" n="70" xml:id="img_0070"/>
             
-            <ab  facs="#facs_70_r1">
+            <ab facs="#facs_70_r1">
                <lb facs="#facs_70_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_70_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 28<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 727 N<hi style="superscript">o</hi> 458 hat sich der
                <lb facs="#facs_70_r1l3" n="N003"/><rs type="person" ref="wkfm__46486">Hörman</rs> geäusseret, daß er seine Handlung ohne Compagnon

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3087" lry="4530" xml:id="facs_2">
+    <surface ulx="0" uly="0" lrx="3087" lry="4530" xml:id="facs_2">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0055.jpg" width="3087px" height="4530px"/>
          <zone points="708,234 708,3302 3024,3302 3024,234" rendition="TextRegion" xml:id="facs_2_r1">
             <zone points="1043,332 1117,332 1192,331 1267,331 1341,331 1416,332 1491,332 1565,334 1640,335 1715,337 1789,338 1864,339 1939,340 2013,341 2088,341 2163,343 2237,343 2312,341 2387,341 2462,340 2462,243 2387,244 2312,244 2237,246 2163,246 2088,244 2013,244 1939,243 1864,242 1789,241 1715,240 1640,238 1565,237 1491,235 1416,235 1341,234 1267,234 1192,234 1117,235 1043,235" rendition="Line" xml:id="facs_2_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_2" n="2" xml:id="img_0002"/>
+            <pb facs="#facs_2" n="2" xml:id="img_0002"/>
             
-            <ab  facs="#facs_2_r1">
+            <ab facs="#facs_2_r1">
                <lb facs="#facs_2_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_2_r1l2" n="N002"/>In obigen Anbringen de ps: 11<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 25 hat sich der 
                <lb facs="#facs_2_r1l3" n="N003"/><rs type="person" key=", ID=11577">Burger </rs>erklähret das er keinen Compagnon habe.

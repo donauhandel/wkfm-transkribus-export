@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2954" lry="4435" xml:id="facs_82">
+    <surface ulx="0" uly="0" lrx="2954" lry="4435" xml:id="facs_82">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0135.jpg" width="2954px" height="4435px"/>
          <zone points="375,167 375,3711 2727,3711 2727,167" rendition="TextRegion" xml:id="facs_82_r1">
             <zone points="623,276 702,276 782,278 861,278 941,279 1021,280 1100,281 1180,281 1260,282 1339,282 1419,283 1499,284 1578,284 1658,285 1738,286 1817,287 1897,288 1977,290 2056,291 2136,293 2216,294 2216,185 2136,184 2056,182 1977,181 1897,179 1817,178 1738,177 1658,176 1578,175 1499,175 1419,174 1339,173 1260,173 1180,172 1100,172 1021,171 941,170 861,169 782,169 702,167 623,167" rendition="Line" xml:id="facs_82_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_82" n="82" xml:id="img_0082"/>
+            <pb facs="#facs_82" n="82" xml:id="img_0082"/>
             
-            <ab  facs="#facs_82_r1">
+            <ab facs="#facs_82_r1">
                <lb facs="#facs_82_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_82_r1l2" n="N002"/>In obiger Erklährung <hi>hat</hi> dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 59 hat sich
                <lb facs="#facs_82_r1l3" n="N003"/>der <rs type="person" ref="wkfm__37766">Perckhman</rs> geäusseret das er für sich allein handle

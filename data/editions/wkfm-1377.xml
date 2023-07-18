@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2895" lry="4391" xml:id="facs_25">
+    <surface ulx="0" uly="0" lrx="2895" lry="4391" xml:id="facs_25">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1377.jpg" width="2895px" height="4391px"/>
          <zone points="85,168 85,2973 2762,2975 2762,170" rendition="TextRegion" xml:id="facs_25_r3">
             <zone points="200,230 84,230 84,360 200,360" rendition="Line" xml:id="facs_25_line_1625045722907_1544"/>
@@ -71,9 +71,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_25" n="25" xml:id="img_0025"/>
+            <pb facs="#facs_25" n="25" xml:id="img_0025"/>
             
-            <ab  facs="#facs_25_r3">
+            <ab facs="#facs_25_r3">
                <lb facs="#facs_25_r3l2" n="N002"/>681
                <lb facs="#facs_25_r3l1" n="N003"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_25_r3l3" n="N004"/><rs type="person" ref="wkfm__9396">Rappenmoser Johann Michäl</rs> burgerlicher Handlsmann

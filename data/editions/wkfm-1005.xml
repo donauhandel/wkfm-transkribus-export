@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3095" lry="4410" xml:id="facs_85">
+    <surface ulx="0" uly="0" lrx="3095" lry="4410" xml:id="facs_85">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1005.jpg" width="3095px" height="4410px"/>
          <zone points="166,189 166,3034 2855,3038 2855,193" rendition="TextRegion" xml:id="facs_85_r3">
             <zone points="188,303 268,303 268,408 188,408" rendition="Line" xml:id="facs_85_line_1624803556342_1617"/>
@@ -70,9 +70,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_85" n="85" xml:id="img_0085"/>
+            <pb facs="#facs_85" n="85" xml:id="img_0085"/>
             
-            <ab  facs="#facs_85_r3">
+            <ab facs="#facs_85_r3">
                <lb facs="#facs_85_r3l2" n="N002"/>495
                <lb facs="#facs_85_r3l1" n="N003"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_85_r3l3" n="N004"/><rs type="person" ref="wkfm__46500">Hommer Joseph Carl</rs> burgerlicher Handlsmann

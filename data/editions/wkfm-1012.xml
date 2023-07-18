@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4437" xml:id="facs_92">
+    <surface ulx="0" uly="0" lrx="2994" lry="4437" xml:id="facs_92">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1012.jpg" width="2994px" height="4437px"/>
          <zone points="309,193 309,3446 2838,3446 2838,193" rendition="TextRegion" xml:id="facs_92_r1">
             <zone points="1238,383 1297,380 1357,378 1416,377 1476,373 1535,371 1595,369 1654,365 1714,362 1773,359 1833,356 1893,352 1952,348 2012,345 2071,340 2131,336 2190,332 2250,326 2309,321 2369,316 2429,311 2429,193 2369,198 2309,203 2250,208 2190,214 2131,218 2071,222 2012,227 1952,230 1893,234 1833,238 1773,241 1714,244 1654,247 1595,251 1535,253 1476,255 1416,259 1357,260 1297,262 1238,265" rendition="Line" xml:id="facs_92_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_92" n="92" xml:id="img_0092"/>
+            <pb facs="#facs_92" n="92" xml:id="img_0092"/>
             
-            <ab  facs="#facs_92_r1">
+            <ab facs="#facs_92_r1">
                <lb facs="#facs_92_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_92_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 22<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 733 N<hi style="superscript">o</hi> 467 hat sich der
                <lb facs="#facs_92_r1l3" n="N003"/><rs type="person" ref="wkfm__25804">Heim</rs> geäusseret, das er seine Handlung ohne Compagnon führe

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4442" xml:id="facs_58">
+    <surface ulx="0" uly="0" lrx="2994" lry="4442" xml:id="facs_58">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0870.jpg" width="2994px" height="4442px"/>
          <graphic url="" width="2994px" height="4442px"/>
          <zone points="219,202 219,3414 2862,3414 2862,202" rendition="TextRegion" xml:id="facs_58_r1">
@@ -72,9 +72,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_58" n="58" xml:id="img_0058"/>
+            <pb facs="#facs_58" n="58" xml:id="img_0058"/>
             
-            <ab  facs="#facs_58_r1">
+            <ab facs="#facs_58_r1">
                <lb facs="#facs_58_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_58_r1l2" n="N002"/>In obigen anbringen de ps: 13<hi style="superscript">ten</hi> May 728 N<hi style="superscript">o</hi> 1954 hat sich der <rs type="person" ref="wkfm__25454">Mat-
                <lb break="no" facs="#facs_58_r1l3" n="N003"/>thias Franz Geschaider</rs> und <rs type="person" ref="wkfm__29323">Paul Wippacher</rs> erklähret, das sie ihre handlung

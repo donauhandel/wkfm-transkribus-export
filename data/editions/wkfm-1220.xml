@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2982" lry="4436" xml:id="facs_36">
+    <surface ulx="0" uly="0" lrx="2982" lry="4436" xml:id="facs_36">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1220.jpg" width="2982px" height="4436px"/>
          <zone points="414,110 414,3329 2855,3323 2855,104" rendition="TextRegion" xml:id="facs_36_r1">
             <zone points="1124,259 1159,256 1194,251 1229,248 1265,244 1300,242 1335,239 1371,237 1406,236 1441,235 1477,235 1512,233 1547,234 1582,235 1618,235 1653,236 1688,237 1724,239 1759,241 1794,242 2192,259 2192,136 1794,119 1759,118 1724,116 1688,114 1653,113 1618,112 1582,112 1547,111 1512,110 1477,112 1441,112 1406,113 1371,114 1335,116 1300,119 1265,121 1229,125 1194,128 1159,133 1124,136" rendition="Line" xml:id="facs_36_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_36" n="36" xml:id="img_0036"/>
+            <pb facs="#facs_36" n="36" xml:id="img_0036"/>
             
-            <ab  facs="#facs_36_r1">
+            <ab facs="#facs_36_r1">
                <lb facs="#facs_36_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_36_r1l2" n="N002"/>In obigen Anbringen de ps: 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 725 N<hi style="superscript">o</hi> 558 hat sich
                <lb facs="#facs_36_r1l3" n="N003"/>der <rs type="person" ref="wkfm__46871">Magis</rs> erklähret das er keinen Compagnon habe

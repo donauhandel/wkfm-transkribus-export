@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_102">
+    <surface ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_102">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0770.jpg" width="2994px" height="4530px"/>
          <zone points="297,280 297,3424 2898,3424 2898,280" rendition="TextRegion" xml:id="facs_102_r1">
             <zone points="1169,378 1229,373 1290,370 1351,367 1412,364 1473,363 1534,361 1595,361 1656,360 1717,360 1778,360 1838,360 1899,360 1960,360 2021,360 2082,360 2143,360 2204,358 2265,358 2326,356 2387,355 2387,280 2326,281 2265,283 2204,283 2143,285 2082,285 2021,285 1960,285 1899,285 1838,285 1778,285 1717,285 1656,285 1595,286 1534,286 1473,288 1412,289 1351,292 1290,295 1229,298 1169,303" rendition="Line" xml:id="facs_102_r1l1"/>
@@ -77,9 +77,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_102" n="102" xml:id="img_0102"/>
+            <pb facs="#facs_102" n="102" xml:id="img_0102"/>
             
-            <ab  facs="#facs_102_r1">
+            <ab facs="#facs_102_r1">
                <lb facs="#facs_102_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_102_r1l2" n="N002"/>In obiger Erklährung sine dato N<hi style="superscript">o</hi> 366 hat sich der <rs type="person" ref="wkfm__47133">Christian Peter 
                <lb break="no" facs="#facs_102_r1l3" n="N003"/>Veigl</rs> und <rs type="person" ref="wkfm__47135">Peter Farquet</rs> die Societaets Firma <rs type="person" ref="wkfm__29979">Veigl und Farquet</rs> miteinan

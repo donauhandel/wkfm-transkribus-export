@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2953" lry="4400" xml:id="facs_70">
+    <surface ulx="0" uly="0" lrx="2953" lry="4400" xml:id="facs_70">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1422.jpg" width="2953px" height="4400px"/>
          <zone points="243,243 243,3335 2901,3335 2901,243" rendition="TextRegion" xml:id="facs_70_r2">
             <zone points="1061,359 1118,351 1175,344 1232,339 1290,335 1347,331 1404,328 1462,327 1519,326 1576,324 1634,323 1691,323 1748,322 1805,321 1863,320 1920,318 1977,316 2035,313 2092,309 2149,304 2207,297 2207,243 2149,250 2092,255 2035,259 1977,262 1920,264 1863,266 1805,267 1748,268 1691,269 1634,269 1576,270 1519,272 1462,273 1404,274 1347,277 1290,281 1232,285 1175,290 1118,297 1061,305" rendition="Line" xml:id="facs_70_r2l1"/>
@@ -85,9 +85,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_70" n="70" xml:id="img_0070"/>
+            <pb facs="#facs_70" n="70" xml:id="img_0070"/>
             
-            <ab  facs="#facs_70_r2">
+            <ab facs="#facs_70_r2">
                <lb facs="#facs_70_r2l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_70_r2l2" n="N002"/>Mitls Anbringen de ps: 27<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 736 N<hi style="superscript">o</hi> 1661 hat des <rs type="person" ref="wkfm__43201">Anton Rathgeb</rs> Vatter <rs type="person" ref="wkfm__46701">Balthasar
                <lb break="no" facs="#facs_70_r2l3" n="N003"/>Johann Rathgeb</rs> angezeiget, daß er seine Handlung samt seiner Firma seinem Sohn

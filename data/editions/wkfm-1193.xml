@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3086" lry="4491" xml:id="facs_9">
+    <surface ulx="0" uly="0" lrx="3086" lry="4491" xml:id="facs_9">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1193.jpg" width="3086px" height="4491px"/>
          <zone points="191,164 191,2987 2821,2987 2821,164" rendition="TextRegion" xml:id="facs_9_r1">
             <zone points="2641,344 2811,344 2811,476 2641,476" rendition="Line" xml:id="facs_9_line_1624960202843_715" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_9" n="9" xml:id="img_0009"/>
+            <pb facs="#facs_9" n="9" xml:id="img_0009"/>
             
-            <ab  facs="#facs_9_r1">
+            <ab facs="#facs_9_r1">
                <lb facs="#facs_9_line_1624960202843_715" n="N001"/>590
                <lb facs="#facs_9_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_9_r1l2" n="N003"/><rs type="person" ref="wkfm__8095">Müllnitsch Veith</rs> hofbefreyter Tuchhandler

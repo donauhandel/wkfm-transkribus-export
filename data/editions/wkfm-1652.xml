@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2801" lry="4419" xml:id="facs_194">
+    <surface ulx="0" uly="0" lrx="2801" lry="4419" xml:id="facs_194">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1652.jpg" width="2801px" height="4419px"/>
          <zone points="123,151 123,3275 2724,3275 2724,151" rendition="TextRegion" xml:id="facs_194_r1">
             <zone points="1059,254 1126,251 1193,249 1260,247 1328,245 1395,244 1462,242 1530,241 1597,240 1664,239 1732,238 1799,236 1866,235 1933,233 2001,229 2068,227 2135,223 2203,219 2270,214 2337,209 2405,202 2405,151 2337,158 2270,163 2203,168 2135,172 2068,176 2001,178 1933,182 1866,184 1799,185 1732,187 1664,188 1597,189 1530,190 1462,191 1395,193 1328,194 1260,196 1193,198 1126,200 1059,203" rendition="Line" xml:id="facs_194_r1l1"/>
@@ -82,9 +82,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_194" n="194" xml:id="img_0194"/>
+            <pb facs="#facs_194" n="194" xml:id="img_0194"/>
             
-            <ab  facs="#facs_194_r1">
+            <ab facs="#facs_194_r1">
                <lb facs="#facs_194_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_194_r1l2" n="N002"/>Mitls Anbringen de ps: 20<hi style="superscript">ten</hi> May 746 N<hi style="superscript">o</hi> 2053 hat der <rs type="person" ref="wkfm__46153">Claudius Salliet</rs> und <rs type="person" ref="wkfm__47554">Jo<gap/>
                <lb break="no" facs="#facs_194_r1l3" n="N003"/>Pernat</rs> aus dem zwischen ihnen beeden untern 18ten ej: geschlossenen societaets contract der

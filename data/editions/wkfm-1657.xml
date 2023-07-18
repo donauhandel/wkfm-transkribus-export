@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2952" lry="4398" xml:id="facs_199">
+    <surface ulx="0" uly="0" lrx="2952" lry="4398" xml:id="facs_199">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1657.jpg" width="2952px" height="4398px"/>
          <zone points="127,126 127,3956 2882,3954 2882,124" rendition="TextRegion" xml:id="facs_199_r1">
             <zone points="2760,377 2876,377 2876,290 2760,290" rendition="Line" xml:id="facs_199_line_1626697275543_1322" subtype="page-number"/>
@@ -78,9 +78,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_199" n="199" xml:id="img_0199"/>
+            <pb facs="#facs_199" n="199" xml:id="img_0199"/>
             
-            <ab  facs="#facs_199_r1">
+            <ab facs="#facs_199_r1">
                <lb facs="#facs_199_line_1626697275543_1322" n="N001"/>821
                <lb facs="#facs_199_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_199_line_1630261533184_208" n="N003"/><rs type="person" ref="wkfm__47564">Schneller Anton Wilhelm</rs> burgerlicher Tuchlauben Verwanter

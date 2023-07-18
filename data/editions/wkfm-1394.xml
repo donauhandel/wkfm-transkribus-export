@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2953" lry="4400" xml:id="facs_42">
+    <surface ulx="0" uly="0" lrx="2953" lry="4400" xml:id="facs_42">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1394.jpg" width="2953px" height="4400px"/>
          <zone points="231,194 231,3358 2861,3358 2861,194" rendition="TextRegion" xml:id="facs_42_r1">
             <zone points="1136,297 1195,290 1255,285 1315,280 1375,277 1435,275 1495,273 1554,272 1614,271 1674,271 1734,270 1794,270 1854,270 1914,270 1973,268 2033,268 2093,267 2153,264 2213,261 2273,257 2333,252 2333,194 2273,199 2213,203 2153,206 2093,209 2033,210 1973,210 1914,212 1854,212 1794,212 1734,212 1674,213 1614,213 1554,214 1495,215 1435,217 1375,219 1315,222 1255,227 1195,232 1136,239" rendition="Line" xml:id="facs_42_r1l1"/>
@@ -78,9 +78,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_42" n="42" xml:id="img_0042"/>
+            <pb facs="#facs_42" n="42" xml:id="img_0042"/>
             
-            <ab  facs="#facs_42_r1">
+            <ab facs="#facs_42_r1">
                <lb facs="#facs_42_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_42_r1l2" n="N002"/>In obiger Erkährung ddto 12<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 630 hat sich der
                <lb facs="#facs_42_r1l3" n="N003"/><rs type="person" ref="wkfm__46710">Ruppert</rs> geäusseret, das er keinen Compagnon habe

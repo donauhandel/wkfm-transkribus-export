@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2895" lry="4391" xml:id="facs_39">
+    <surface ulx="0" uly="0" lrx="2895" lry="4391" xml:id="facs_39">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1391.jpg" width="2895px" height="4391px"/>
          <zone points="216,168 216,3043 2816,3043 2816,168" rendition="TextRegion" xml:id="facs_39_r2">
             <zone points="2663,400 2688,402 2714,403 2739,404 2765,405 2790,405 2816,406 2816,321 2790,320 2765,320 2739,319 2714,318 2688,317 2663,315" rendition="Line" xml:id="facs_39_r2l2" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_39" n="39" xml:id="img_0039"/>
+            <pb facs="#facs_39" n="39" xml:id="img_0039"/>
             
-            <ab  facs="#facs_39_r2">
+            <ab facs="#facs_39_r2">
                <lb facs="#facs_39_r2l2" n="N001"/>688
                <lb facs="#facs_39_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_39_r2l3" n="N003"/><rs type="person" ref="wkfm__9092">Rainer Johann Georg</rs> burgerlicher Handlsmann

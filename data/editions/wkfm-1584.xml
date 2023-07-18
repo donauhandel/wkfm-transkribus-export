@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2929" lry="4455" xml:id="facs_126">
+    <surface ulx="0" uly="0" lrx="2929" lry="4455" xml:id="facs_126">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1584.jpg" width="2929px" height="4455px"/>
          <zone points="266,159 266,3283 2763,3283 2763,159" rendition="TextRegion" xml:id="facs_126_r1">
             <zone points="1104,261 1165,254 1227,248 1288,244 1350,241 1412,239 1473,238 1535,238 1597,238 1658,240 1720,241 1782,243 1843,244 1905,246 1967,246 2028,246 2090,246 2152,244 2213,241 2275,238 2337,234 2337,159 2275,163 2213,166 2152,169 2090,171 2028,171 1967,171 1905,171 1843,169 1782,168 1720,166 1658,165 1597,163 1535,163 1473,163 1412,164 1350,166 1288,169 1227,173 1165,179 1104,186" rendition="Line" xml:id="facs_126_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_126" n="126" xml:id="img_0126"/>
+            <pb facs="#facs_126" n="126" xml:id="img_0126"/>
             
-            <ab  facs="#facs_126_r1">
+            <ab facs="#facs_126_r1">
                <lb facs="#facs_126_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_126_r1l4" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 21<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 733 N<hi style="superscript">o</hi> 718 hat sich der
                <lb facs="#facs_126_r1l7" n="N003"/><rs type="person" ref="wkfm__24071">Säzl</rs> geäusseret, daß er seine Handlung für sich allein führe

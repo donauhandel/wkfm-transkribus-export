@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2982" lry="4473" xml:id="facs_110">
+    <surface ulx="0" uly="0" lrx="2982" lry="4473" xml:id="facs_110">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0430.jpg" width="2982px" height="4473px"/>
          <graphic url="" width="2982px" height="4473px"/>
          <zone points="417,206 417,3337 2874,3337 2874,206" rendition="TextRegion" xml:id="facs_110_r1">
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_110" n="110" xml:id="img_0110"/>
+            <pb facs="#facs_110" n="110" xml:id="img_0110"/>
             
-            <ab  facs="#facs_110_r1">
+            <ab facs="#facs_110_r1">
                <lb facs="#facs_110_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_110_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 11<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 733 N<hi style="superscript">o</hi> 210 hat sich der
                <lb facs="#facs_110_r1l3" n="N003"/><rs type="person" ref="wkfm__46137">Creitzmayr</rs> geäusseret, daß er keinen Compagnon habe.

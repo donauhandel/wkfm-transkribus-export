@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3054" lry="4566" xml:id="facs_109">
+    <surface ulx="0" uly="0" lrx="3054" lry="4566" xml:id="facs_109">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0609.jpg" width="3054px" height="4566px"/>
          <zone points="140,262 140,3704 2879,3704 2879,262" rendition="TextRegion" xml:id="facs_109_r2">
             <zone points="237,300 361,300 361,394 237,394" rendition="Line" xml:id="facs_109_line_1626967724839_666"/>
@@ -75,9 +75,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_109" n="109" xml:id="img_0109"/>
+            <pb facs="#facs_109" n="109" xml:id="img_0109"/>
             
-            <ab  facs="#facs_109_r2">
+            <ab facs="#facs_109_r2">
                <lb facs="#facs_109_r2l1" n="N003"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_109_r2l2" n="N004"/><rs type="person" ref="wkfm__46294">Dywalt Franz Anton</rs> burgerlicher Handlsmann
                <lb facs="#facs_109_r2l3" n="N005"/>Firma ad Raggion

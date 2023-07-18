@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_32">
+    <surface ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_32">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0700.jpg" width="2994px" height="4530px"/>
          <zone points="425,217 425,3430 2873,3430 2873,217" rendition="TextRegion" xml:id="facs_32_r1">
             <zone points="1290,332 1348,332 1407,332 1465,333 1524,334 1583,337 1641,339 1700,341 1758,344 1817,347 1876,350 1934,354 1993,356 2051,359 2110,362 2169,365 2227,367 2286,370 2344,370 2403,371 2462,371 2462,256 2403,256 2344,255 2286,255 2227,252 2169,250 2110,247 2051,244 1993,241 1934,239 1876,235 1817,232 1758,229 1700,226 1641,224 1583,222 1524,219 1465,218 1407,217 1348,217 1290,217" rendition="Line" xml:id="facs_32_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_32" n="32" xml:id="img_0032"/>
+            <pb facs="#facs_32" n="32" xml:id="img_0032"/>
             
-            <ab  facs="#facs_32_r1">
+            <ab facs="#facs_32_r1">
                <lb facs="#facs_32_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_32_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 331 hat sich der
                <lb facs="#facs_32_r1l3" n="N003"/><rs type="person" ref="wkfm__1411">Fux</rs> geäusseret, daß er in keiner Compagnie stehe.

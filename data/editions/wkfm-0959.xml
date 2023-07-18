@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3095" lry="4410" xml:id="facs_39">
+    <surface ulx="0" uly="0" lrx="3095" lry="4410" xml:id="facs_39">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0959.jpg" width="3095px" height="4410px"/>
          <zone points="177,109 177,2992 2850,2984 2850,101" rendition="TextRegion" xml:id="facs_39_r1">
             <zone points="2583,222 2817,222 2817,348 2583,348" rendition="Line" xml:id="facs_39_line_1624799999768_952" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_39" n="39" xml:id="img_0039"/>
+            <pb facs="#facs_39" n="39" xml:id="img_0039"/>
             
-            <ab  facs="#facs_39_r1">
+            <ab facs="#facs_39_r1">
                <lb facs="#facs_39_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_39_r1l2" n="N003"/><rs type="person" ref="wkfm__46466">Hääsl Simon</rs> burgerlicher Handslmann
                <lb facs="#facs_39_r1l3" n="N005"/><rs type="person" ref="wkfm__46467">Simon Hääsl</rs> laut Erklährung dd<hi style="superscript">to</hi> 15<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 443

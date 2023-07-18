@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2936" lry="4468" xml:id="facs_109">
+    <surface ulx="0" uly="0" lrx="2936" lry="4468" xml:id="facs_109">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1815.jpg" width="2936px" height="4468px"/>
          <graphic url="" width="2936px" height="4468px"/>
          <zone points="192,197 192,4142 2811,4142 2811,197" rendition="TextRegion" xml:id="facs_109_r2">
@@ -82,9 +82,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_109" n="109" xml:id="img_0109"/>
+            <pb facs="#facs_109" n="109" xml:id="img_0109"/>
             
-            <ab  facs="#facs_109_r2">
+            <ab facs="#facs_109_r2">
                <lb facs="#facs_109_line_1626245183802_161" n="N001"/>900
                <lb facs="#facs_109_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_109_r2l2" n="N003"/><rs type="person" ref="wkfm__47037">Weidinger Bernhard</rs> burgerlicher Handlsmann
@@ -103,7 +103,7 @@
                <lb facs="#facs_109_r2l17" n="N016"/>Scheun von der <rs type="person" ref="wkfm__47042">Margaretha Pfefferlin</rs> dd<hi style="superscript">to</hi> 26<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 747 N<hi style="superscript">o</hi> 1816 in <choice><expan/><abbr>orig:</abbr></choice> 500 fl
                <lb facs="#facs_109_r2l18" n="N017"/>zusamen Eigenthum 3833 fl
                <lb facs="#facs_109_r2l19" n="N018"/>zu Completirung des übrigen hat die <rs type="person" ref="wkfm__47042">Margaretha Pfefferlin</rs> das
-               <lb facs="#facs_109_r2l23" n="N019"/><choice><expan/><abbr>orig:</abbr></choice> <comment comment="wahrscheinlich\u0020\u0022Certiorirte\u0022">Cortiorirte</comment> Cautions Instrument dd<hi style="superscript">to</hi> 26<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 747 N<hi style="superscript">o</hi> 1417 eingeleget <choice><expan/><abbr>pr</abbr></choice> 4167 fl
+               <lb facs="#facs_109_r2l23" n="N019"/><choice><expan/><abbr>orig:</abbr></choice> <seg type="editorial_comment_seg">Cortiorirte<note type="editorial_comment_note">wahrscheinlich Certiorirte</note></seg> Cautions Instrument dd<hi style="superscript">to</hi> 26<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 747 N<hi style="superscript">o</hi> 1417 eingeleget <choice><expan/><abbr>pr</abbr></choice> 4167 fl
                <lb facs="#facs_109_r2l24" n="N020"/><choice><expan/><abbr>Sa</abbr></choice> 8000 fl
             </ab>
             

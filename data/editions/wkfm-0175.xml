@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2897" lry="4473" xml:id="facs_122">
+    <surface ulx="0" uly="0" lrx="2897" lry="4473" xml:id="facs_122">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0175.jpg" width="2897px" height="4473px"/>
          <zone points="393,224 393,3321 2796,3321 2796,224" rendition="TextRegion" xml:id="facs_122_r1">
             <zone points="1068,314 1141,323 1215,330 1289,335 1363,341 1436,345 1510,348 1584,351 1658,353 1731,356 1805,357 1879,359 1953,359 2026,360 2100,360 2174,360 2248,360 2321,362 2395,362 2469,363 2543,363 2543,273 2469,273 2395,272 2321,272 2248,270 2174,270 2100,270 2026,270 1953,269 1879,269 1805,267 1731,266 1658,263 1584,261 1510,258 1436,255 1363,251 1289,245 1215,240 1141,233 1068,224" rendition="Line" xml:id="facs_122_r1l1"/>
@@ -73,9 +73,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_122" n="122" xml:id="img_0122"/>
+            <pb facs="#facs_122" n="122" xml:id="img_0122"/>
             
-            <ab  facs="#facs_122_r1">
+            <ab facs="#facs_122_r1">
                <lb facs="#facs_122_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_122_r1l2" n="N002"/>In obigen anbringen de ps: 29<hi style="superscript">ten</hi> <choice><expan/><abbr>Jan:</abbr></choice> 728 N<hi style="superscript">o</hi> 80 hat der <rs type="person" ref="wkfm__43785">Pöttenberger</rs>
                <lb facs="#facs_122_r1l3" n="N003"/>von <hi>k</hi>einen Compagnon keine Meldung gemacht

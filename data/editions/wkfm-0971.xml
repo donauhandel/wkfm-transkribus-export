@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3095" lry="4410" xml:id="facs_51">
+    <surface ulx="0" uly="0" lrx="3095" lry="4410" xml:id="facs_51">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0971.jpg" width="3095px" height="4410px"/>
          <zone points="192,187 192,3032 2817,3032 2817,187" rendition="TextRegion" xml:id="facs_51_r1">
             <zone points="2669,370 2697,366 2725,365 2753,365 2781,365 2810,361 2810,283 2781,287 2753,287 2725,287 2697,288 2669,292" rendition="Line" xml:id="facs_51_r1l2" subtype="page-number"/>
@@ -70,9 +70,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_51" n="51" xml:id="img_0051"/>
+            <pb facs="#facs_51" n="51" xml:id="img_0051"/>
             
-            <ab  facs="#facs_51_r1">
+            <ab facs="#facs_51_r1">
                <lb facs="#facs_51_r1l2" n="N001"/>478
                <lb facs="#facs_51_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_51_r1l3" n="N003"/><rs type="person" ref="wkfm__9868">Holzapfl Johann Baptist</rs> burgerlicher Handlsmann

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_10">
+    <surface ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_10">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0822.jpg" width="2994px" height="4530px"/>
          <zone points="264,263 264,3461 2823,3461 2823,263" rendition="TextRegion" xml:id="facs_10_r1">
             <zone points="1154,399 1221,393 1288,389 1355,384 1422,382 1489,380 1556,378 1623,378 1690,378 1757,378 1824,378 1891,378 1958,378 2025,378 2092,378 2159,377 2226,375 2293,374 2360,370 2427,366 2495,362 2495,263 2427,267 2360,271 2293,275 2226,276 2159,278 2092,279 2025,279 1958,279 1891,279 1824,279 1757,279 1690,279 1623,279 1556,279 1489,281 1422,283 1355,285 1288,290 1221,294 1154,300" rendition="Line" xml:id="facs_10_r1l1"/>
@@ -68,9 +68,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_10" n="10" xml:id="img_0010"/>
+            <pb facs="#facs_10" n="10" xml:id="img_0010"/>
             
-            <ab  facs="#facs_10_r1">
+            <ab facs="#facs_10_r1">
                <lb facs="#facs_10_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_10_r1l2" n="N002"/>In obigen Anbringen de ps: 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 1951 hat der <rs type="person" ref="wkfm__20897">Stephan Gündl</rs>
                <lb facs="#facs_10_r1l3" n="N003"/>mit dem <rs type="person" ref="wkfm__46302">Joseph Hinkh</rs> die anzeige gemacht das sie ihr Negotium gemein-

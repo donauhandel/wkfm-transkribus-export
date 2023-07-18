@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2872" lry="4419" xml:id="facs_176">
+    <surface ulx="0" uly="0" lrx="2872" lry="4419" xml:id="facs_176">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1634.jpg" width="2872px" height="4419px"/>
          <zone points="222,112 222,3256 2786,3256 2786,112" rendition="TextRegion" xml:id="facs_176_r1">
             <zone points="1108,233 1209,230 1267,227 1325,224 1383,223 1442,223 1500,221 1558,221 1616,221 1674,221 1733,221 1791,221 1849,220 1907,218 1965,217 2024,213 2082,209 2140,204 2198,198 2256,191 2315,182 2315,112 2256,121 2198,128 2140,134 2082,139 2024,143 1965,147 1907,148 1849,150 1791,151 1733,151 1674,151 1616,151 1558,151 1500,151 1442,153 1383,153 1325,154 1267,157 1209,160 1108,163" rendition="Line" xml:id="facs_176_r1l1"/>
@@ -70,9 +70,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_176" n="176" xml:id="img_0176"/>
+            <pb facs="#facs_176" n="176" xml:id="img_0176"/>
             
-            <ab  facs="#facs_176_r1">
+            <ab facs="#facs_176_r1">
                <lb facs="#facs_176_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_176_r1l2" n="N002"/><seg type="wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_176_r1l3" n="N003"/>Mitls Anbringen de ps: 10<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 739 N<hi style="superscript">o</hi> 2232 hat der <rs type="person" ref="wkfm__34998">Sconzoni</rs> den mit der <rs type="person" ref="wkfm__47536">Maria

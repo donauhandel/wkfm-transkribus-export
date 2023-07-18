@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3105" lry="4455" xml:id="facs_87">
+    <surface ulx="0" uly="0" lrx="3105" lry="4455" xml:id="facs_87">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1271.jpg" width="3105px" height="4455px"/>
          <zone points="188,165 188,3745 2967,3751 2967,171" rendition="TextRegion" xml:id="facs_87_r3">
             <zone points="2721,257 2931,257 2931,432 2721,432" rendition="Line" xml:id="facs_87_line_1624961164623_1245" subtype="page-number"/>
@@ -76,9 +76,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_87" n="87" xml:id="img_0087"/>
+            <pb facs="#facs_87" n="87" xml:id="img_0087"/>
             
-            <ab  facs="#facs_87_r3">
+            <ab facs="#facs_87_r3">
                <lb facs="#facs_87_line_1624961164623_1245" n="N001"/>629
                <lb facs="#facs_87_r3l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_87_r3l2" n="N003"/><rs type="person" ref="wkfm__30195">Muth Anton</rs> burgerlicher Handlsmann
@@ -88,7 +88,7 @@
                <lb facs="#facs_87_r3l5" n="N007"/><seg type="oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_87_r3l6" n="N008"/><seg type="fundi">Fundi Ausweisung</seg>
                <lb facs="#facs_87_r3l7" n="N009"/>Der <rs type="person" ref="wkfm__30195">Muth</rs> hat zu ausweisung seines fundi das von seiner Ehewirthin <rs type="person" ref="wkfm__46926">Eva
-               <lb break="no" facs="#facs_87_r3l8" n="N010"/>Margarita</rs> untern 21<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 743 <hi>da</hi> N<hi style="superscript">o</hi> 1621 dahin ausgestelte <comment comment="wahrscheinlich\u0020\u0022certiorirte\u0022">cortiorirte</comment>
+               <lb break="no" facs="#facs_87_r3l8" n="N010"/>Margarita</rs> untern 21<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 743 <hi>da</hi> N<hi style="superscript">o</hi> 1621 dahin ausgestelte <seg type="editorial_comment_seg">cortiorirte<note type="editorial_comment_note">wahrscheinlich certiorirte</note></seg>
                <lb facs="#facs_87_r3l10" n="N011"/><choice><expan/><abbr>orig:</abbr></choice> Cautions instrument, daß sie über die von gedacht ihren
                <lb facs="#facs_87_r3l11" n="N012"/>Ehewirthen besizende 2000 fl
                <lb facs="#facs_87_r3l13" n="N013"/>bürgin und zahlerin seyn wolle <choice><expan/><abbr>pr</abbr></choice> 6000 fl

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2954" lry="4435" xml:id="facs_86">
+    <surface ulx="0" uly="0" lrx="2954" lry="4435" xml:id="facs_86">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0139.jpg" width="2954px" height="4435px"/>
          <zone points="444,174 444,3216 2742,3216 2742,174" rendition="TextRegion" xml:id="facs_86_r1">
             <zone points="849,273 932,273 1015,273 1099,273 1182,273 1266,275 1349,276 1432,278 1516,279 1599,281 1683,282 1766,285 1849,287 1933,288 2016,291 2100,291 2183,293 2266,294 2350,294 2433,294 2517,294 2517,195 2433,195 2350,195 2266,195 2183,194 2100,192 2016,192 1933,189 1849,188 1766,186 1683,183 1599,182 1516,180 1432,179 1349,177 1266,176 1182,174 1099,174 1015,174 932,174 849,174" rendition="Line" xml:id="facs_86_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_86" n="86" xml:id="img_0086"/>
+            <pb facs="#facs_86" n="86" xml:id="img_0086"/>
             
-            <ab  facs="#facs_86_r1">
+            <ab facs="#facs_86_r1">
                <lb facs="#facs_86_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_86_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 61 hat sich der
                <lb facs="#facs_86_r1l3" n="N003"/><rs type="person" ref="wkfm__9677">Bozzi</rs> geäussert das er seine Handlung ohne interessenten führe

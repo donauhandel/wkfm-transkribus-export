@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2954" lry="4435" xml:id="facs_72">
+    <surface ulx="0" uly="0" lrx="2954" lry="4435" xml:id="facs_72">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0125.jpg" width="2954px" height="4435px"/>
          <zone points="447,127 447,3197 2850,3197 2850,127" rendition="TextRegion" xml:id="facs_72_r1">
             <zone points="927,229 997,229 1067,231 1137,232 1208,234 1278,237 1348,238 1419,242 1489,245 1559,248 1630,252 1700,256 1770,259 1840,264 1911,268 1981,273 2051,277 2122,282 2192,287 2262,293 2333,298 2333,196 2262,191 2192,185 2122,180 2051,175 1981,171 1911,166 1840,162 1770,157 1700,154 1630,150 1559,146 1489,143 1419,140 1348,136 1278,135 1208,132 1137,130 1067,129 997,127 927,127" rendition="Line" xml:id="facs_72_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_72" n="72" xml:id="img_0072"/>
+            <pb facs="#facs_72" n="72" xml:id="img_0072"/>
             
-            <ab  facs="#facs_72_r1">
+            <ab facs="#facs_72_r1">
                <lb facs="#facs_72_r1l1" n="N001"/>Societats Contract und Interessenten
                <lb facs="#facs_72_r1l3" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 54 hat sich der
                <lb facs="#facs_72_r1l4" n="N003"/><rs type="person" ref="wkfm__15867">Pernhoffer</rs> geäusseret, das er seine Handlung für sich allein führe

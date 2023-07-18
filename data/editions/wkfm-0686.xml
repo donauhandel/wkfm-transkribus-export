@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_18">
+    <surface ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_18">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0686.jpg" width="2994px" height="4530px"/>
          <zone points="357,263 357,3428 2895,3428 2895,263" rendition="TextRegion" xml:id="facs_18_r1">
             <zone points="1214,351 1274,349 1335,347 1395,345 1456,344 1517,344 1577,344 1638,344 1698,345 1759,345 1820,347 1880,347 1941,348 2001,348 2062,350 2123,350 2183,350 2244,350 2304,348 2365,347 2426,344 2426,263 2365,266 2304,267 2244,269 2183,269 2123,269 2062,269 2001,267 1941,267 1880,266 1820,266 1759,264 1698,264 1638,263 1577,263 1517,263 1456,263 1395,264 1335,266 1274,268 1214,270" rendition="Line" xml:id="facs_18_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_18" n="18" xml:id="img_0018"/>
+            <pb facs="#facs_18" n="18" xml:id="img_0018"/>
             
-            <ab  facs="#facs_18_r1">
+            <ab facs="#facs_18_r1">
                <lb facs="#facs_18_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_18_r1l2" n="N002"/>In obigen Anbringen de ps: 23<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 325 hat sich der <rs type="person" ref="wkfm__11305">Fizes</rs> erklähret
                <lb facs="#facs_18_r1l3" n="N003"/>daß er keinen Compagnon noch interessenten habe.

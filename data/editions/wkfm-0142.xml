@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2945" lry="4407" xml:id="facs_89">
+    <surface ulx="0" uly="0" lrx="2945" lry="4407" xml:id="facs_89">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0142.jpg" width="2945px" height="4407px"/>
          <zone points="240,135 240,3003 2652,3003 2652,135" rendition="TextRegion" xml:id="facs_89_r1">
             <zone points="2460,280 2575,281 2609,261 2609,149 2575,142 2460,141" rendition="Line" xml:id="facs_89_r1l2" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_89" n="89" xml:id="img_0089"/>
+            <pb facs="#facs_89" n="89" xml:id="img_0089"/>
             
-            <ab  facs="#facs_89_r1">
+            <ab facs="#facs_89_r1">
                <lb facs="#facs_89_r1l2" n="N001"/>69
                <lb facs="#facs_89_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_89_r1l3" n="N003"/><rs type="person" ref="wkfm__43881">Piwanckho Anton</rs> burgerlicher Handlsmann

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2954" lry="4473" xml:id="facs_110">
+    <surface ulx="0" uly="0" lrx="2954" lry="4473" xml:id="facs_110">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0163.jpg" width="2954px" height="4473px"/>
          <zone points="509,220 509,3286 2831,3286 2831,220" rendition="TextRegion" xml:id="facs_110_r1">
             <zone points="972,298 1050,301 1128,304 1206,307 1284,311 1362,316 1440,319 1519,322 1597,326 1675,329 1753,332 1831,335 1909,338 1987,340 2066,341 2144,341 2222,341 2300,341 2378,340 2456,338 2535,334 2535,256 2456,260 2378,262 2300,263 2222,263 2144,263 2066,263 1987,262 1909,260 1831,257 1753,254 1675,251 1597,248 1519,244 1440,241 1362,238 1284,233 1206,229 1128,226 1050,223 972,220" rendition="Line" xml:id="facs_110_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_110" n="110" xml:id="img_0110"/>
+            <pb facs="#facs_110" n="110" xml:id="img_0110"/>
             
-            <ab  facs="#facs_110_r1">
+            <ab facs="#facs_110_r1">
                <lb facs="#facs_110_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_110_r1l2" n="N002"/>In obigen Anbringen de ps: 23<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 725 N<hi style="superscript">o</hi> 73 hat sich der <rs type="person" ref="wkfm__23646">Preißinger</rs>
                <lb facs="#facs_110_r1l3" n="N003"/>erklähret das er keinen Compagnon habe

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3087" lry="4530" xml:id="facs_26">
+    <surface ulx="0" uly="0" lrx="3087" lry="4530" xml:id="facs_26">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1090.jpg" width="3087px" height="4530px"/>
          <zone points="353,240 353,3379 2889,3379 2889,240" rendition="TextRegion" xml:id="facs_26_r1">
             <zone points="1310,355 1367,350 1425,346 1482,342 1540,340 1598,337 1655,334 1713,332 1770,330 1828,328 1886,327 1943,325 2001,324 2058,322 2116,321 2174,318 2231,314 2289,311 2346,307 2404,303 2462,297 2462,240 2404,246 2346,250 2289,254 2231,257 2174,261 2116,264 2058,265 2001,267 1943,268 1886,270 1828,271 1770,273 1713,275 1655,277 1598,280 1540,283 1482,285 1425,289 1367,293 1310,298" rendition="Line" xml:id="facs_26_r1l1"/>
@@ -73,9 +73,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_26" n="26" xml:id="img_0026"/>
+            <pb facs="#facs_26" n="26" xml:id="img_0026"/>
             
-            <ab  facs="#facs_26_r1">
+            <ab facs="#facs_26_r1">
                <lb facs="#facs_26_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_26_r1l2" n="N002"/><seg type="wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_26_r1l3" n="N003"/>Untern 10<hi style="superscript">ten</hi> Decembris 765 hat der <rs type="person" ref="wkfm__43876">Jacob Jagatitsch</rs> seinen mit der <rs type="person" ref="wkfm__43878">Theresia Meisnerin</rs>

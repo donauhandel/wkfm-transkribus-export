@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_62">
+    <surface ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_62">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0730.jpg" width="2994px" height="4530px"/>
          <zone points="429,235 429,3421 2909,3421 2909,235" rendition="TextRegion" xml:id="facs_62_r1">
             <zone points="1245,337 1305,333 1366,330 1427,328 1488,328 1549,328 1610,330 1671,332 1732,333 1793,337 1854,339 1914,342 1975,346 2036,348 2097,350 2158,352 2219,354 2280,354 2341,354 2402,354 2463,351 2463,258 2402,261 2341,261 2280,261 2219,261 2158,259 2097,257 2036,255 1975,253 1914,249 1854,246 1793,244 1732,240 1671,239 1610,237 1549,235 1488,235 1427,235 1366,237 1305,240 1245,244" rendition="Line" xml:id="facs_62_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_62" n="62" xml:id="img_0062"/>
+            <pb facs="#facs_62" n="62" xml:id="img_0062"/>
             
-            <ab  facs="#facs_62_r1">
+            <ab facs="#facs_62_r1">
                <lb facs="#facs_62_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_62_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 23<hi style="superscript">ten</hi> Junii 728 N<hi style="superscript">o</hi> 346 hat sich
                <lb facs="#facs_62_r1l3" n="N003"/>der <rs type="person" ref="wkfm__12378">Fasching</rs> erklähret daß er seine Handlung einzig und

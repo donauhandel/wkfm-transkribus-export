@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3036" lry="4477" xml:id="facs_99">
+    <surface ulx="0" uly="0" lrx="3036" lry="4477" xml:id="facs_99">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1451.jpg" width="3036px" height="4477px"/>
          <zone points="129,159 129,4273 2765,4273 2765,159" rendition="TextRegion" xml:id="facs_99_r1">
             <zone points="2522,214 2729,214 2729,356 2522,356" rendition="Line" xml:id="facs_99_line_1625046523314_1954" subtype="page-number"/>
@@ -79,9 +79,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_99" n="99" xml:id="img_0099"/>
+            <pb facs="#facs_99" n="99" xml:id="img_0099"/>
             
-            <ab  facs="#facs_99_r1">
+            <ab facs="#facs_99_r1">
                <lb facs="#facs_99_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_99_r1l2" n="N003"/><rs type="person" ref="wkfm__46772">Rösler Johann</rs> burgerlicher Handlsmann
                <lb facs="#facs_99_r1l3" n="N004"/>Firma ad Raggion

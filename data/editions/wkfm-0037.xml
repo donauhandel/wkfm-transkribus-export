@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2839" lry="4530" xml:id="facs_32">
+    <surface ulx="0" uly="0" lrx="2839" lry="4530" xml:id="facs_32">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0037.jpg" width="2839px" height="4530px"/>
          <zone points="378,244 378,3387 2754,3387 2754,244" rendition="TextRegion" xml:id="facs_32_r1">
             <zone points="1011,357 1073,355 1136,355 1198,355 1261,355 1323,355 1386,355 1448,357 1511,358 1573,360 1636,361 1699,363 1761,364 1824,366 1886,367 1949,369 2011,370 2074,373 2136,375 2199,376 2262,378 2262,267 2199,265 2136,264 2074,262 2011,259 1949,258 1886,256 1824,255 1761,253 1699,252 1636,250 1573,249 1511,247 1448,246 1386,244 1323,244 1261,244 1198,244 1136,244 1073,244 1011,246" rendition="Line" xml:id="facs_32_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_32" n="32" xml:id="img_0032"/>
+            <pb facs="#facs_32" n="32" xml:id="img_0032"/>
             
-            <ab  facs="#facs_32_r1">
+            <ab facs="#facs_32_r1">
                <lb facs="#facs_32_r1l1" n="N001"/>Societats Contract und Interessenten
                <lb facs="#facs_32_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 14<hi style="superscript">ten</hi> <choice><expan/><abbr>7br.</abbr></choice> 730 N<hi style="superscript">o</hi> 16 hat der <rs type="person" ref="wkfm__23558">Ankher</rs>
                <lb facs="#facs_32_r1l3" n="N003"/>beygebracht, das er keinen Compganon habe.

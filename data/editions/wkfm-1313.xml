@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3105" lry="4455" xml:id="facs_21">
+    <surface ulx="0" uly="0" lrx="3105" lry="4455" xml:id="facs_21">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1313.jpg" width="3105px" height="4455px"/>
          <zone points="255,159 255,2878 2766,2878 2766,159" rendition="TextRegion" xml:id="facs_21_r1">
             <zone points="2615,363 2640,368 2665,370 2690,369 2715,367 2740,366 2766,367 2766,291 2740,290 2715,291 2690,293 2665,294 2640,292 2615,287" rendition="Line" xml:id="facs_21_r1l2" subtype="page-number"/>
@@ -71,9 +71,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_21" n="21" xml:id="img_0021"/>
+            <pb facs="#facs_21" n="21" xml:id="img_0021"/>
             
-            <ab  facs="#facs_21_r1">
+            <ab facs="#facs_21_r1">
                <lb facs="#facs_21_r1l2" n="N001"/>649
                <lb facs="#facs_21_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_21_r1l3" n="N003"/>Neuhaußer Matthias burgerlicher Handlsmann

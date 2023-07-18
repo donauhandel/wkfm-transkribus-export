@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3019" lry="4436" xml:id="facs_48">
+    <surface ulx="0" uly="0" lrx="3019" lry="4436" xml:id="facs_48">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1232.jpg" width="3019px" height="4436px"/>
          <zone points="471,126 471,3316 2844,3316 2844,126" rendition="TextRegion" xml:id="facs_48_r1">
             <zone points="1229,249 1284,244 1339,242 1394,240 1449,238 1504,238 1559,240 1614,240 1669,243 1724,244 1779,247 1834,249 1889,251 1944,253 1999,255 2054,256 2109,256 2164,256 2219,255 2274,253 2330,250 2330,138 2274,141 2219,143 2164,144 2109,144 2054,144 1999,143 1944,141 1889,139 1834,137 1779,135 1724,132 1669,131 1614,128 1559,128 1504,126 1449,126 1394,128 1339,130 1284,132 1229,137" rendition="Line" xml:id="facs_48_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_48" n="48" xml:id="img_0048"/>
+            <pb facs="#facs_48" n="48" xml:id="img_0048"/>
             
-            <ab  facs="#facs_48_r1">
+            <ab facs="#facs_48_r1">
                <lb facs="#facs_48_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_48_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> <hi>16<hi style="superscript"/></hi>ten<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 735 N<hi style="superscript">o</hi> 563 hat
                <lb facs="#facs_48_r1l3" n="N003"/>sich der <rs type="person" ref="wkfm__11956">Muffat</rs> geäusseret das er keinen Compagnon habe

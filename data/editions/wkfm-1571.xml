@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2979" lry="4477" xml:id="facs_113">
+    <surface ulx="0" uly="0" lrx="2979" lry="4477" xml:id="facs_113">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1571.jpg" width="2979px" height="4477px"/>
          <zone points="159,100 159,2929 2819,2929 2819,100" rendition="TextRegion" xml:id="facs_113_r2">
             <zone points="2685,328 2711,331 2738,335 2765,338 2792,340 2819,341 2819,235 2792,234 2765,232 2738,229 2711,225 2685,222" rendition="Line" xml:id="facs_113_r2l2" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_113" n="113" xml:id="img_0113"/>
+            <pb facs="#facs_113" n="113" xml:id="img_0113"/>
             
-            <ab  facs="#facs_113_r2">
+            <ab facs="#facs_113_r2">
                <lb facs="#facs_113_r2l2" n="N001"/>778
                <lb facs="#facs_113_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_113_r2l3" n="N003"/><hi>Schell</hi> <rs type="person" ref="wkfm__31324">Schadlbaur Johann Michäl</rs> burgerlicher Handlsmann

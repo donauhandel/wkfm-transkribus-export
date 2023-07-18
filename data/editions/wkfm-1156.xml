@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3030" lry="4530" xml:id="facs_56">
+    <surface ulx="0" uly="0" lrx="3030" lry="4530" xml:id="facs_56">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1156.jpg" width="3030px" height="4530px"/>
          <zone points="330,215 330,3415 2882,3407 2882,207" rendition="TextRegion" xml:id="facs_56_r1">
             <zone points="1197,356 1255,351 1314,347 1373,344 1432,342 1491,340 1550,339 1609,338 1668,338 1727,338 1786,338 1844,338 1903,338 1962,340 2021,340 2080,340 2139,340 2198,340 2257,340 2316,340 2375,338 2375,215 2316,217 2257,217 2198,217 2139,217 2080,217 2021,217 1962,217 1903,215 1844,215 1786,215 1727,215 1668,215 1609,215 1550,216 1491,217 1432,219 1373,221 1314,224 1255,228 1197,233" rendition="Line" xml:id="facs_56_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_56" n="56" xml:id="img_0056"/>
+            <pb facs="#facs_56" n="56" xml:id="img_0056"/>
             
-            <ab  facs="#facs_56_r1">
+            <ab facs="#facs_56_r1">
                <lb facs="#facs_56_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_56_r1l2" n="N002"/>In obiger Erklährung <hi>sine dato N<hi style="superscript"/></hi>o<hi style="superscript">ten</hi> May 733 N<hi style="superscript">o</hi>
                <lb facs="#facs_56_r1l3" n="N003"/>530 hat sich der <rs type="person" ref="wkfm__46818">Leithner</rs> geäusserert, daß er seine Handlung

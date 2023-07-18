@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_54">
+    <surface ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_54">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0722.jpg" width="2994px" height="4530px"/>
          <zone points="518,212 518,3389 2910,3389 2910,212" rendition="TextRegion" xml:id="facs_54_r1">
             <zone points="1266,312 1329,313 1393,315 1457,317 1521,320 1584,321 1648,324 1712,327 1776,329 1839,332 1903,334 1967,336 2031,338 2094,340 2158,341 2222,341 2286,341 2349,341 2413,339 2477,338 2541,335 2541,235 2477,238 2413,239 2349,241 2286,241 2222,241 2158,241 2094,240 2031,238 1967,236 1903,234 1839,232 1776,229 1712,227 1648,224 1584,221 1521,220 1457,217 1393,215 1329,213 1266,212" rendition="Line" xml:id="facs_54_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_54" n="54" xml:id="img_0054"/>
+            <pb facs="#facs_54" n="54" xml:id="img_0054"/>
             
-            <ab  facs="#facs_54_r1">
+            <ab facs="#facs_54_r1">
                <lb facs="#facs_54_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_54_r1l2" n="N002"/>In obigen Anbringen de ps: 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 725 N<hi style="superscript">o</hi> 342 hat sich
                <lb facs="#facs_54_r1l3" n="N003"/>der <rs type="person" ref="wkfm__47089">Ferniz</rs> erklähret das er keinen Compagnon habe

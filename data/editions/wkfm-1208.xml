@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2982" lry="4436" xml:id="facs_24">
+    <surface ulx="0" uly="0" lrx="2982" lry="4436" xml:id="facs_24">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1208.jpg" width="2982px" height="4436px"/>
          <zone points="282,136 282,3321 2766,3321 2766,136" rendition="TextRegion" xml:id="facs_24_r1">
             <zone points="1118,257 1180,251 1242,248 1304,246 1366,245 1428,245 1490,246 1552,246 1614,249 1676,251 1738,254 1800,258 1862,261 1924,264 1986,267 2048,269 2110,272 2172,273 2234,273 2297,273 2297,164 2234,164 2172,164 2110,163 2048,160 1986,158 1924,155 1862,152 1800,149 1738,145 1676,142 1614,140 1552,137 1490,137 1428,136 1366,136 1304,137 1242,139 1180,142 1118,148" rendition="Line" xml:id="facs_24_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_24" n="24" xml:id="img_0024"/>
+            <pb facs="#facs_24" n="24" xml:id="img_0024"/>
             
-            <ab  facs="#facs_24_r1">
+            <ab facs="#facs_24_r1">
                <lb facs="#facs_24_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_24_r1l2" n="N002"/>In obiger Erklährung ddto 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 552 hat sich der
                <lb facs="#facs_24_r1l3" n="N003"/><rs type="person" ref="wkfm__9093">Macht</rs> geäusseret, das er sein Negotium für sich allein führe

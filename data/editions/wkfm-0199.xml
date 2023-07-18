@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2962" lry="4521" xml:id="facs_146">
+    <surface ulx="0" uly="0" lrx="2962" lry="4521" xml:id="facs_146">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0199.jpg" width="2962px" height="4521px"/>
          <zone points="267,209 267,3375 2808,3375 2808,209" rendition="TextRegion" xml:id="facs_146_r1">
             <zone points="1083,276 1154,280 1226,285 1298,289 1369,295 1441,299 1513,304 1584,308 1656,312 1728,316 1800,321 1871,324 1943,327 2015,330 2086,331 2158,333 2230,334 2301,334 2373,334 2445,333 2517,331 2517,264 2445,266 2373,267 2301,267 2230,267 2158,266 2086,264 2015,263 1943,260 1871,257 1800,254 1728,249 1656,245 1584,241 1513,237 1441,232 1369,228 1298,222 1226,218 1154,213 1083,209" rendition="Line" xml:id="facs_146_r1l1"/>
@@ -74,9 +74,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_146" n="146" xml:id="img_0146"/>
+            <pb facs="#facs_146" n="146" xml:id="img_0146"/>
             
-            <ab  facs="#facs_146_r1">
+            <ab facs="#facs_146_r1">
                <lb facs="#facs_146_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_146_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 26<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 733 N<hi style="superscript">o</hi> 1860 hat sich <rs type="person" ref="wkfm__23672">Pingizer
                <lb break="no" facs="#facs_146_r1l3" n="N003"/>et Pittonj junior</rs> geäusseret, daß sie ihre Handlung miteinander

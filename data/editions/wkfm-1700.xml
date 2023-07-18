@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2866" lry="4476" xml:id="facs_242">
+    <surface ulx="0" uly="0" lrx="2866" lry="4476" xml:id="facs_242">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1700.jpg" width="2866px" height="4476px"/>
          <zone points="416,263 416,3391 2733,3391 2733,263" rendition="TextRegion" xml:id="facs_242_r4">
             <zone points="1290,339 1349,333 1409,331 1469,330 1529,331 1589,334 1649,337 1708,343 1768,349 1828,354 1888,360 1948,366 2008,371 2068,375 2127,378 2187,379 2247,379 2307,376 2367,372 2427,363 2487,352 2487,285 2427,296 2367,305 2307,309 2247,312 2187,312 2127,311 2068,308 2008,304 1948,299 1888,293 1828,287 1768,282 1708,276 1649,270 1589,267 1529,264 1469,263 1409,264 1349,266 1290,272" rendition="Line" xml:id="facs_242_r4l1"/>
@@ -75,9 +75,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_242" n="242" xml:id="img_0242"/>
+            <pb facs="#facs_242" n="242" xml:id="img_0242"/>
             
-            <ab  facs="#facs_242_r4">
+            <ab facs="#facs_242_r4">
                <lb facs="#facs_242_r4l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_242_r4l2" n="N002"/><seg type="wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_242_r4l3" n="N003"/><choice><expan/><abbr>Ao</abbr></choice> 764 hat der<rs type="person" ref="wkfm__47612"> Gottfried Scheer</rs> seinen mit der <rs type="person" ref="wkfm__47614">Anna Theresia

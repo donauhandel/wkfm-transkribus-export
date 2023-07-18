@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4437" xml:id="facs_52">
+    <surface ulx="0" uly="0" lrx="2994" lry="4437" xml:id="facs_52">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0972.jpg" width="2994px" height="4437px"/>
          <zone points="387,167 387,3387 2850,3387 2850,167" rendition="TextRegion" xml:id="facs_52_r1">
             <zone points="1113,318 1173,309 1234,303 1295,298 1355,294 1416,291 1477,290 1537,289 1598,288 1659,290 1720,290 1780,291 1841,291 1902,293 1962,293 2023,294 2084,294 2144,293 2205,291 2266,289 2327,285 2327,167 2266,171 2205,173 2144,175 2084,176 2023,176 1962,175 1902,175 1841,173 1780,173 1720,172 1659,172 1598,170 1537,171 1477,172 1416,173 1355,176 1295,180 1234,185 1173,191 1113,200" rendition="Line" xml:id="facs_52_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_52" n="52" xml:id="img_0052"/>
+            <pb facs="#facs_52" n="52" xml:id="img_0052"/>
             
-            <ab  facs="#facs_52_r1">
+            <ab facs="#facs_52_r1">
                <lb facs="#facs_52_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_52_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 449 hat sich
                <lb facs="#facs_52_r1l3" n="N003"/>der <rs type="person" ref="wkfm__9868">Holzapfl</rs> geäusseret, daß er keinen in Compagnie habe

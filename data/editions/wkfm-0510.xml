@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3051" lry="4473" xml:id="facs_10">
+    <surface ulx="0" uly="0" lrx="3051" lry="4473" xml:id="facs_10">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0510.jpg" width="3051px" height="4473px"/>
          <zone points="509,205 509,3298 2942,3298 2942,205" rendition="TextRegion" xml:id="facs_10_r1">
             <zone points="1076,326 1145,319 1215,314 1284,311 1354,308 1424,305 1493,304 1563,302 1632,302 1702,302 1772,302 1841,303 1911,304 1980,305 2050,305 2120,307 2189,307 2259,308 2328,308 2398,308 2468,307 2468,210 2398,211 2328,211 2259,211 2189,210 2120,210 2050,208 1980,208 1911,207 1841,206 1772,205 1702,205 1632,205 1563,205 1493,207 1424,208 1354,211 1284,214 1215,217 1145,222 1076,229" rendition="Line" xml:id="facs_10_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_10" n="10" xml:id="img_0010"/>
+            <pb facs="#facs_10" n="10" xml:id="img_0010"/>
             
-            <ab  facs="#facs_10_r1">
+            <ab facs="#facs_10_r1">
                <lb facs="#facs_10_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_10_r1l2" n="N002"/>Mitls Anbringen de ps: 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 247 hat sich der 
                <lb facs="#facs_10_r1l3" n="N003"/><rs type="person" ref="wkfm__46195">Doringer</rs> erklähret, daß seine Handlung ohne Compagnon und

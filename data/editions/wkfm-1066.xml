@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3087" lry="4530" xml:id="facs_2">
+    <surface ulx="0" uly="0" lrx="3087" lry="4530" xml:id="facs_2">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1066.jpg" width="3087px" height="4530px"/>
          <zone points="378,231 378,3420 2934,3420 2934,231" rendition="TextRegion" xml:id="facs_2_r1">
             <zone points="1130,404 1196,398 1262,393 1329,389 1395,386 1462,381 1528,379 1595,377 1661,375 1728,374 1794,372 1860,371 1927,368 1993,366 2060,364 2126,362 2193,358 2259,354 2326,350 2392,346 2459,339 2459,231 2392,238 2326,242 2259,246 2193,250 2126,254 2060,256 1993,258 1927,260 1860,263 1794,264 1728,266 1661,267 1595,269 1528,271 1462,273 1395,278 1329,281 1262,285 1196,290 1130,296" rendition="Line" xml:id="facs_2_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_2" n="2" xml:id="img_0002"/>
+            <pb facs="#facs_2" n="2" xml:id="img_0002"/>
             
-            <ab  facs="#facs_2_r1">
+            <ab facs="#facs_2_r1">
                <lb facs="#facs_2_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_2_r1l2" n="N002"/>In obigen Anbringen de ps: 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 492 hat sich der <rs type="person" ref="wkfm__9635">Jungwirth</rs>
                <lb facs="#facs_2_r1l3" n="N003"/>erklähret das er sein Negotium auf seinen Conto und interesse allein führe

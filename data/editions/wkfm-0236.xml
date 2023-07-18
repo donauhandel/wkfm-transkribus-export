@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2877" lry="4502" xml:id="facs_182">
+    <surface ulx="0" uly="0" lrx="2877" lry="4502" xml:id="facs_182">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0236.jpg" width="2877px" height="4502px"/>
          <graphic url="" width="2877px" height="4502px"/>
          <zone points="75,173 75,3274 2715,3274 2715,173" rendition="TextRegion" xml:id="facs_182_r1">
@@ -86,9 +86,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_182" n="182" xml:id="img_0182"/>
+            <pb facs="#facs_182" n="182" xml:id="img_0182"/>
             
-            <ab  facs="#facs_182_r1">
+            <ab facs="#facs_182_r1">
                <lb facs="#facs_182_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_182_r1l2" n="N002"/>Der <rs type="person" ref="wkfm__46560">Paumgartner</rs> hat mit <rs type="person" ref="wkfm__10641">Carl Joseph Moser</rs> untern 1<hi style="superscript">ten</hi> Julii 735
                <lb facs="#facs_182_r1l3" n="N003"/>einen Societaets Contract abgeschlossen und solchen in Copia vidimata N<hi style="superscript">o</hi> 1868

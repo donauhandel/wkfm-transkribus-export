@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2945" lry="4407" xml:id="facs_91">
+    <surface ulx="0" uly="0" lrx="2945" lry="4407" xml:id="facs_91">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0144.jpg" width="2945px" height="4407px"/>
          <zone points="179,146 179,3013 2585,3013 2585,146" rendition="TextRegion" xml:id="facs_91_r1">
             <zone points="2487,268 2518,271 2549,268 2580,262 2580,160 2549,166 2518,169 2487,166" rendition="Line" xml:id="facs_91_r1l2" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_91" n="91" xml:id="img_0091"/>
+            <pb facs="#facs_91" n="91" xml:id="img_0091"/>
             
-            <ab  facs="#facs_91_r1">
+            <ab facs="#facs_91_r1">
                <lb facs="#facs_91_r1l2" n="N001"/>70
                <lb facs="#facs_91_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_91_r1l3" n="N003"/><rs type="person" ref="wkfm__14705">Pertholdt Joseph</rs> burgerlicher Handlsmann

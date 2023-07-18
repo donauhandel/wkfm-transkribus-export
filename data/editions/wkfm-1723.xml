@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2988" lry="4468" xml:id="facs_17">
+    <surface ulx="0" uly="0" lrx="2988" lry="4468" xml:id="facs_17">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1723.jpg" width="2988px" height="4468px"/>
          <zone points="165,194 165,2997 2852,2997 2852,194" rendition="TextRegion" xml:id="facs_17_r1">
             <zone points="2687,326 2714,327 2742,329 2769,330 2797,330 2824,327 2852,323 2852,242 2824,246 2797,249 2769,249 2742,248 2714,246 2687,245" rendition="Line" xml:id="facs_17_r1l2" subtype="page-number"/>
@@ -72,9 +72,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_17" n="17" xml:id="img_0017"/>
+            <pb facs="#facs_17" n="17" xml:id="img_0017"/>
             
-            <ab  facs="#facs_17_r1">
+            <ab facs="#facs_17_r1">
                <lb facs="#facs_17_r1l2" n="N001"/>854
                <lb facs="#facs_17_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_17_r1l3" n="N003"/><rs type="person" ref="wkfm__29681">Würth Johann Caspar</rs> kay: könig: Niderlags Verwanter

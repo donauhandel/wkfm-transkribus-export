@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2982" lry="4530" xml:id="facs_24">
+    <surface ulx="0" uly="0" lrx="2982" lry="4530" xml:id="facs_24">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0077.jpg" width="2982px" height="4530px"/>
          <zone points="314,265 314,3347 2943,3347 2943,265" rendition="TextRegion" xml:id="facs_24_r1">
             <zone points="771,373 848,371 926,368 1004,367 1081,365 1159,364 1237,362 1314,362 1392,361 1470,361 1548,361 1625,361 1703,361 1781,361 1858,362 1936,362 2014,364 2091,365 2169,367 2247,368 2325,370 2325,274 2247,272 2169,271 2091,269 2014,268 1936,266 1858,266 1781,265 1703,265 1625,265 1548,265 1470,265 1392,265 1314,266 1237,266 1159,268 1081,269 1004,271 926,272 848,275 771,277" rendition="Line" xml:id="facs_24_r1l1"/>
@@ -68,9 +68,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_24" n="24" xml:id="img_0024"/>
+            <pb facs="#facs_24" n="24" xml:id="img_0024"/>
             
-            <ab  facs="#facs_24_r1">
+            <ab facs="#facs_24_r1">
                <lb facs="#facs_24_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_24_r1l2" n="N002"/>Der <rs type="person" ref="wkfm__15300">Johann Anton Bormastino</rs> und <rs type="person" ref="wkfm__40680">Johann Matthias Butterna</rs>
                <lb facs="#facs_24_r1l3" n="N003"/>haben in obigen Anbringen de ps: 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 34 angezeiget, daß sie

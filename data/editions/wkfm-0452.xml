@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3051" lry="4473" xml:id="facs_132">
+    <surface ulx="0" uly="0" lrx="3051" lry="4473" xml:id="facs_132">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0452.jpg" width="3051px" height="4473px"/>
          <zone points="324,129 324,3297 2916,3297 2916,129" rendition="TextRegion" xml:id="facs_132_r1">
             <zone points="1130,246 1195,242 1260,238 1326,235 1391,231 1457,229 1522,228 1587,225 1653,223 1718,222 1784,222 1849,220 1914,220 1980,219 2045,219 2111,217 2176,217 2241,216 2307,215 2372,214 2438,213 2438,129 2372,130 2307,131 2241,132 2176,133 2111,133 2045,135 1980,135 1914,136 1849,136 1784,138 1718,138 1653,139 1587,141 1522,144 1457,145 1391,147 1326,151 1260,154 1195,158 1130,162" rendition="Line" xml:id="facs_132_r1l1"/>
@@ -77,9 +77,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_132" n="132" xml:id="img_0132"/>
+            <pb facs="#facs_132" n="132" xml:id="img_0132"/>
             
-            <ab  facs="#facs_132_r1">
+            <ab facs="#facs_132_r1">
                <lb facs="#facs_132_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_132_r1l2" n="N002"/>In obiger Erklährung <hi>de</hi> sine dato N<hi style="superscript">o</hi> 221 hat der <rs type="person" ref="wkfm__30296">Peter</rs>
                <lb facs="#facs_132_r1l3" n="N003"/>und <rs type="person" ref="wkfm__34913">Joseph Condray</rs> die Firma gemeinsamlich eingeleget

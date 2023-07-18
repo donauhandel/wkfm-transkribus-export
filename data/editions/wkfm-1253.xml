@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3105" lry="4491" xml:id="facs_69">
+    <surface ulx="0" uly="0" lrx="3105" lry="4491" xml:id="facs_69">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1253.jpg" width="3105px" height="4491px"/>
          <zone points="212,147 212,2934 2958,2934 2958,147" rendition="TextRegion" xml:id="facs_69_r2">
             <zone points="2777,334 2806,339 2835,340 2865,342 2894,342 2924,343 2924,294 2894,293 2865,293 2835,291 2806,290 2777,285" rendition="Line" xml:id="facs_69_r2l2" subtype="page-number"/>
@@ -86,9 +86,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_69" n="69" xml:id="img_0069"/>
+            <pb facs="#facs_69" n="69" xml:id="img_0069"/>
             
-            <ab  facs="#facs_69_r2">
+            <ab facs="#facs_69_r2">
                <lb facs="#facs_69_r2l2" n="N001"/>620
                <lb facs="#facs_69_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_69_r2l3" n="N003"/><rs type="person" ref="wkfm__8413">Marci Johann Cornelius</rs> kay: könig: Niderlags Verwanter
@@ -107,9 +107,9 @@
                <lb facs="#facs_69_r2l21" n="N016"/>die dem <rs type="person" ref="wkfm__46905">Czepecz</rs> ertheilte Procura widerufen und ist solche zufolge der hierauf erlassenen
                <lb facs="#facs_69_r2l22" n="N017"/>auflag und quittung dd<hi style="superscript">to</hi> 9<hi style="superscript">ten</hi> ej: in <choice><expan/><abbr>orig:</abbr></choice> extradiret worden
                <lb facs="#facs_69_r2l23" n="N018"/>Mitls Anbringen de ps: 30<hi style="superscript">ten</hi> Junii 75<unclear>7</unclear> N<hi style="superscript">o</hi> <unclear>1039</unclear> hat die raggion <rs type="person" ref="wkfm__46901">Marci und Plattensteiner</rs> die dem <rs type="person" ref="wkfm__46906">Veith Böhm</rs> ertheilte
-               <lb facs="#facs_69_r2l24" n="N019"/>Procura dd<hi style="superscript">to</hi> ult: Junii 755 N<hi style="superscript">o</hi> 1038 mit beygerukter Firma des <rs type="person" ref="wkfm__46906">Böhm</rs> in <choice><expan/><abbr>orig:</abbr></choice> eingeleget. <comment comment="Fortsetzung\u0020in\u0020der\u0020Rubrik\u0020\u0022Oblatorien\u0020und\u0020Avocatorien\u0022"><hi>0</hi></comment>
+               <lb facs="#facs_69_r2l24" n="N019"/>Procura dd<hi style="superscript">to</hi> ult: Junii 755 N<hi style="superscript">o</hi> 1038 mit beygerukter Firma des <rs type="person" ref="wkfm__46906">Böhm</rs> in <choice><expan/><abbr>orig:</abbr></choice> eingeleget. <seg type="editorial_comment_seg"><hi>0</hi><note type="editorial_comment_note">Fortsetzung in der Rubrik Oblatorien und Avocatorien</note></seg>
                <lb facs="#facs_69_r2l25" n="N020"/><seg type="oblatorien">Oblatorien und Avocatorien</seg>
-               <lb facs="#facs_69_r2l26" n="N021"/><comment comment="Fortsetzung\u0020der\u0020Rubrik\u0020\u0022Procura\u0020und\u0020Firmae\u0020Trager\u0022"><hi>0</hi></comment>
+               <lb facs="#facs_69_r2l26" n="N021"/><seg type="editorial_comment_seg"><hi>0</hi><note type="editorial_comment_note">Fortsetzung der Rubrik Procura und Firmae Trager</note></seg>
                <lb facs="#facs_69_r2l27" n="N022"/>Vermög Anbringen de ps: 9<hi style="superscript">ten</hi> Octobris 758 hat der <rs type="person" ref="wkfm__46901">Marci und Plattensteiner</rs> die dem
                <lb facs="#facs_69_r2l28" n="N023"/><rs type="person" ref="wkfm__46906">Veit Böhm</rs> ertheilte firma avociret, und solche dem <rs type="person" ref="wkfm__46907">Johann Wölfeld</rs> ertheilet, auch die
                <lb facs="#facs_69_r2l29" n="N024"/>Procura auf den gedachten <rs type="person" ref="wkfm__46907">Wölfeld</rs> eingeleget <choice><expan/><abbr>nro:</abbr></choice> 1041 1/2

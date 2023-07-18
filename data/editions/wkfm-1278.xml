@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3019" lry="4503" xml:id="facs_94">
+    <surface ulx="0" uly="0" lrx="3019" lry="4503" xml:id="facs_94">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1278.jpg" width="3019px" height="4503px"/>
          <zone points="308,201 308,3369 2961,3361 2961,193" rendition="TextRegion" xml:id="facs_94_r1">
             <zone points="1174,281 1285,285 1344,282 1404,280 1463,278 1523,278 1582,276 1641,276 1701,277 1760,278 1820,278 1879,278 1938,278 1998,278 2057,276 2117,275 2176,273 2235,270 2295,266 2354,261 2414,255 2414,201 2354,207 2295,212 2235,216 2176,219 2117,221 2057,222 1998,224 1938,224 1879,224 1820,224 1760,224 1701,223 1641,222 1582,222 1523,224 1463,224 1414,185 1354,187 1288,195 1177,191" rendition="Line" xml:id="facs_94_r1l1"/>
@@ -70,9 +70,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_94" n="94" xml:id="img_0094"/>
+            <pb facs="#facs_94" n="94" xml:id="img_0094"/>
             
-            <ab  facs="#facs_94_r1">
+            <ab facs="#facs_94_r1">
                <lb facs="#facs_94_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_94_r1l2" n="N002"/><seg type="wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_94_r1l3" n="N003"/>Mitls Anbringen de ps: 14<hi style="superscript">ten</hi> Junii 745 N<hi style="superscript">o</hi> 2198 hat der <rs type="person" ref="wkfm__46930">Müllnitsch</rs> den mit der <rs type="person" ref="wkfm__46931">Maria Anna Theresia

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_50">
+    <surface ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_50">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0718.jpg" width="2994px" height="4530px"/>
          <zone points="503,220 503,3407 2907,3407 2907,220" rendition="TextRegion" xml:id="facs_50_r1">
             <zone points="1281,331 1341,328 1402,326 1463,326 1524,326 1584,328 1645,329 1706,331 1767,334 1827,335 1888,338 1949,340 2010,343 2070,344 2131,346 2192,347 2253,349 2313,349 2374,349 2435,347 2496,346 2496,240 2435,241 2374,243 2313,243 2253,243 2192,241 2131,240 2070,238 2010,237 1949,234 1888,232 1827,229 1767,228 1706,225 1645,223 1584,222 1524,220 1463,220 1402,220 1341,222 1281,225" rendition="Line" xml:id="facs_50_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_50" n="50" xml:id="img_0050"/>
+            <pb facs="#facs_50" n="50" xml:id="img_0050"/>
             
-            <ab  facs="#facs_50_r1">
+            <ab facs="#facs_50_r1">
                <lb facs="#facs_50_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_50_r1l2" n="N002"/>In obigen Anbringen de ps: 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 725 N<hi style="superscript">o</hi> 340 hat sich
                <lb facs="#facs_50_r1l3" n="N003"/>der <rs type="person" ref="wkfm__47086">Feilmayr</rs> erklähret das er seine Handlung ohne Compagnon

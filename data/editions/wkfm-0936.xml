@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4520" xml:id="facs_16">
+    <surface ulx="0" uly="0" lrx="2994" lry="4520" xml:id="facs_16">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0936.jpg" width="2994px" height="4520px"/>
          <zone points="171,229 171,3410 2832,3410 2832,229" rendition="TextRegion" xml:id="facs_16_r1">
             <zone points="1133,358 1194,351 1255,345 1317,339 1378,335 1439,332 1501,329 1562,328 1623,325 1685,324 1746,322 1807,322 1869,320 1930,319 1991,317 2053,316 2114,314 2175,311 2237,308 2298,304 2360,299 2360,229 2298,234 2237,238 2175,241 2114,244 2053,246 1991,247 1930,249 1869,250 1807,252 1746,252 1685,254 1623,255 1562,258 1501,259 1439,262 1378,265 1317,269 1255,275 1194,281 1133,288" rendition="Line" xml:id="facs_16_r1l1"/>
@@ -79,9 +79,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_16" n="16" xml:id="img_0016"/>
+            <pb facs="#facs_16" n="16" xml:id="img_0016"/>
             
-            <ab  facs="#facs_16_r1">
+            <ab facs="#facs_16_r1">
                <lb facs="#facs_16_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_16_r1l2" n="N002"/>In obigen Anbringen de ps: 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 1961 hat sich der <rs type="person" ref="wkfm__11795">Philipp Joseph
                <lb break="no" facs="#facs_16_r1l3" n="N003"/>Haymerl</rs> zugleich mit dem <rs type="person" ref="wkfm__24831">Johann Wolfgang Haymerl</rs> erklähret, das sie ihre

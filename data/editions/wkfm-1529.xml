@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3023" lry="4477" xml:id="facs_71">
+    <surface ulx="0" uly="0" lrx="3023" lry="4477" xml:id="facs_71">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1529.jpg" width="3023px" height="4477px"/>
          <zone points="320,80 320,2978 2844,2978 2844,80" rendition="TextRegion" xml:id="facs_71_r1">
             <zone points="2691,392 2716,394 2742,394 2767,392 2793,391 2818,393 2844,395 2844,245 2818,243 2793,241 2767,242 2742,244 2716,244 2691,242" rendition="Line" xml:id="facs_71_r1l2" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_71" n="71" xml:id="img_0071"/>
+            <pb facs="#facs_71" n="71" xml:id="img_0071"/>
             
-            <ab  facs="#facs_71_r1">
+            <ab facs="#facs_71_r1">
                <lb facs="#facs_71_r1l2" n="N001"/>757
                <lb facs="#facs_71_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_71_r1l3" n="N003"/><rs type="person" ref="wkfm__10901">Stiermb Anton Joseph</rs> burgerlicher Handlsmann

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3015" lry="4468" xml:id="facs_75">
+    <surface ulx="0" uly="0" lrx="3015" lry="4468" xml:id="facs_75">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1781.jpg" width="3015px" height="4468px"/>
          <zone points="180,214 180,3052 2777,3055 2777,217" rendition="TextRegion" xml:id="facs_75_r1">
             <zone points="2618,237 2775,237 2775,340 2618,340" rendition="Line" xml:id="facs_75_line_1626183387270_955" subtype="page-number"/>
@@ -70,9 +70,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_75" n="75" xml:id="img_0075"/>
+            <pb facs="#facs_75" n="75" xml:id="img_0075"/>
             
-            <ab  facs="#facs_75_r1">
+            <ab facs="#facs_75_r1">
                <lb facs="#facs_75_line_1626183387270_955" n="N001"/>883
                <lb facs="#facs_75_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_75_r1l2" n="N003"/><rs type="person" ref="wkfm__21287">Westhäußer Johann Georg</rs> burgerlicher Handlsmann

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3003" lry="4530" xml:id="facs_76">
+    <surface ulx="0" uly="0" lrx="3003" lry="4530" xml:id="facs_76">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0576.jpg" width="3003px" height="4530px"/>
          <zone points="201,252 201,3993 2862,3993 2862,252" rendition="TextRegion" xml:id="facs_76_r1">
             <zone points="1094,309 1162,308 1230,306 1299,306 1367,306 1436,308 1504,309 1573,312 1641,314 1710,317 1778,319 1846,321 1915,324 1983,326 2052,327 2120,329 2189,329 2257,329 2326,328 2394,326 2463,323 2463,269 2394,272 2326,274 2257,275 2189,275 2120,275 2052,273 1983,272 1915,270 1846,267 1778,265 1710,263 1641,260 1573,258 1504,255 1436,254 1367,252 1299,252 1230,252 1162,254 1094,255" rendition="Line" xml:id="facs_76_r1l1"/>
@@ -100,9 +100,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_76" n="76" xml:id="img_0076"/>
+            <pb facs="#facs_76" n="76" xml:id="img_0076"/>
             
-            <ab  facs="#facs_76_r1">
+            <ab facs="#facs_76_r1">
                <lb facs="#facs_76_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_76_r1l2" n="N002"/>In obigen Anbringen de ps: 1<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 734 N<hi style="superscript">o</hi> 1919 hat sich der <rs type="person" ref="wkfm__29551">Franz Decret</rs> und
                <lb facs="#facs_76_r1l3" n="N003"/><rs type="person" ref="wkfm__46150, Personen ID=46253">Crettier</rs> erklähret, daß sie <hi>beede</hi> miteinander ohne weithern interessenten
@@ -122,7 +122,7 @@
                <lb facs="#facs_76_r1l18" n="N017"/>Mitls obigen Anbringen de ps: 5<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 741 N<hi style="superscript">o</hi> 1923 hat der <rs type="person" ref="wkfm__29551">Franz Decret</rs> angezeiget, das er sich seinen bruder
                <lb facs="#facs_76_r1l19" n="N018"/><rs type="person" ref="wkfm__46250">Ludwig Decret</rs> associiret habe anbey den mit selben untern 7<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> abgeschlossenen societaets contract N<hi style="superscript">o</hi> 1922 einge-
                <lb facs="#facs_76_r1l20" n="N019"/>leget, krafft welchen der <rs type="person" ref="wkfm__29551">Franz Decret</rs> alle capitalien und Waaren so sich dermahlen darinnen befinden in der handlung
-               <lb facs="#facs_76_r1l21" n="N020"/>der <rs type="person" ref="wkfm__46250">Ludwig Decret</rs> aber seine 800 fl in der handlung ligen zu lassen sich verbindet der <rs type="person" ref="wkfm__46250">Ludwig Decret</rs> solle <comment comment="Fortsetzung\u0020unter\u0020der\u0020Rubrik\u0020\u0022Anmerkungen\u0022"><hi>0</hi></comment> 
+               <lb facs="#facs_76_r1l21" n="N020"/>der <rs type="person" ref="wkfm__46250">Ludwig Decret</rs> aber seine 800 fl in der handlung ligen zu lassen sich verbindet der <rs type="person" ref="wkfm__46250">Ludwig Decret</rs> solle <seg type="editorial_comment_seg"><hi>0</hi><note type="editorial_comment_note">Fortsetzung unter der Rubrik Anmerkungen</note></seg> 
                <lb facs="#facs_76_r1l22" n="N021"/><seg type="wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_76_r1l23" n="N022"/>Mitls Anbringen de ps: 6<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 744 N<hi style="superscript">o</hi> 2136 hat der socius des <rs type="person" ref="wkfm__29551">Franz Decret</rs> unter
                <lb facs="#facs_76_r1l24" n="N023"/>der Raggion <rs type="person" ref="wkfm__46251">Gebrüder Decret</rs> <rs type="person" ref="wkfm__46250">Ludwig Decret</rs> den mit der <rs type="person" ref="wkfm__46252">Maria Salliet</rs> untern

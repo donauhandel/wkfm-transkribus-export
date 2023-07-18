@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_232">
+    <surface ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_232">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0286.jpg" width="2934px" height="4501px"/>
          <zone points="273,220 273,3364 2414,3364 2414,220" rendition="TextRegion" xml:id="facs_232_r1">
             <zone points="935,372 1012,367 1090,362 1168,360 1246,357 1324,357 1402,355 1479,355 1557,357 1635,357 1713,357 1791,358 1869,358 1946,360 2024,360 2102,358 2180,357 2258,356 2336,354 2414,349 2414,220 2336,225 2258,227 2180,228 2102,229 2024,231 1946,231 1869,229 1791,229 1713,228 1635,228 1557,228 1479,226 1402,226 1324,228 1246,228 1168,231 1090,233 1012,238 935,243" rendition="Line" xml:id="facs_232_r1l1"/>
@@ -65,9 +65,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_232" n="232" xml:id="img_0232"/>
+            <pb facs="#facs_232" n="232" xml:id="img_0232"/>
             
-            <ab  facs="#facs_232_r1">
+            <ab facs="#facs_232_r1">
                <lb facs="#facs_232_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_232_r1l2" n="N002"/><seg type="wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_232_r1l3" n="N003"/><seg type="wedding_contract">Heuraths Contract</seg> dd<hi style="superscript">to</hi> 12<hi style="superscript">ten</hi> Novembris 747 sub <choice><expan/><abbr>nro:</abbr></choice> 2116.

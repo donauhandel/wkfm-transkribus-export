@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2940" lry="4464" xml:id="facs_8">
+    <surface ulx="0" uly="0" lrx="2940" lry="4464" xml:id="facs_8">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1336.jpg" width="2940px" height="4464px"/>
          <zone points="339,150 339,3266 2826,3266 2826,150" rendition="TextRegion" xml:id="facs_8_r1">
             <zone points="1052,313 1115,301 1179,293 1243,286 1307,281 1371,278 1434,277 1498,275 1562,275 1626,277 1690,277 1753,278 1817,280 1881,281 1945,281 2009,281 2072,281 2136,279 2200,276 2264,271 2328,265 2328,150 2264,156 2200,161 2136,164 2072,166 2009,166 1945,166 1881,166 1817,165 1753,163 1690,162 1626,162 1562,160 1498,160 1434,162 1371,163 1307,166 1243,171 1179,178 1115,186 1052,198" rendition="Line" xml:id="facs_8_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_8" n="8" xml:id="img_0008"/>
+            <pb facs="#facs_8" n="8" xml:id="img_0008"/>
             
-            <ab  facs="#facs_8_r1">
+            <ab facs="#facs_8_r1">
                <lb facs="#facs_8_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_8_r1l2" n="N002"/>In obigen Anbringen de ps: 23<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 725 N<hi style="superscript">o</hi> 612 hat sich der <rs type="person" ref="wkfm__22849">Ott</rs>
                <lb facs="#facs_8_r1l3" n="N003"/>erklähret, daß er keinen Compagnon habe.

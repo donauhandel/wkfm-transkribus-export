@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2934" lry="4530" xml:id="facs_16">
+    <surface ulx="0" uly="0" lrx="2934" lry="4530" xml:id="facs_16">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0021.jpg" width="2934px" height="4530px"/>
          <zone points="381,310 381,3435 2751,3435 2751,310" rendition="TextRegion" xml:id="facs_16_r1">
             <zone points="870,432 936,428 1002,426 1069,424 1135,423 1202,421 1268,421 1334,423 1401,423 1467,424 1534,426 1600,427 1666,429 1733,432 1799,433 1866,435 1932,438 1998,439 2065,441 2131,442 2198,444 2198,333 2131,331 2065,330 1998,328 1932,327 1866,324 1799,322 1733,321 1666,318 1600,316 1534,315 1467,313 1401,312 1334,312 1268,310 1202,310 1135,312 1069,313 1002,315 936,317 870,321" rendition="Line" xml:id="facs_16_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_16" n="16" xml:id="img_0016"/>
+            <pb facs="#facs_16" n="16" xml:id="img_0016"/>
             
-            <ab  facs="#facs_16_r1">
+            <ab facs="#facs_16_r1">
                <lb facs="#facs_16_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_16_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 8 hat sich der
                <lb facs="#facs_16_r1l3" n="N003"/><rs type="person" ref="wkfm__8490">Albrechtsberger </rs>geäusseret das er seine Handlung ohne Compagnon

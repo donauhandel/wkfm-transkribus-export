@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2929" lry="4455" xml:id="facs_64">
+    <surface ulx="0" uly="0" lrx="2929" lry="4455" xml:id="facs_64">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1522.jpg" width="2929px" height="4455px"/>
          <zone points="278,163 278,3331 2796,3331 2796,163" rendition="TextRegion" xml:id="facs_64_r1">
             <zone points="1064,310 1125,300 1187,293 1248,287 1310,284 1371,281 1433,278 1494,277 1556,276 1617,275 1679,275 1740,274 1802,274 1863,272 1925,270 1986,267 2048,263 2109,258 2171,251 2232,242 2294,232 2294,163 2232,173 2171,182 2109,189 2048,194 1986,198 1925,201 1863,203 1802,205 1740,205 1679,206 1617,206 1556,207 1494,208 1433,209 1371,212 1310,215 1248,218 1187,224 1125,231 1064,241" rendition="Line" xml:id="facs_64_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_64" n="64" xml:id="img_0064"/>
+            <pb facs="#facs_64" n="64" xml:id="img_0064"/>
             
-            <ab  facs="#facs_64_r1">
+            <ab facs="#facs_64_r1">
                <lb facs="#facs_64_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_64_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 687 hat sich 
                <lb facs="#facs_64_r1l4" n="N003"/>der <rs type="person" ref="wkfm__10324">Sebaldt</rs> geäusseret, daß <unclear>kheine</unclear> interessenten negotire

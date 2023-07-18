@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2886" lry="4476" xml:id="facs_28">
+    <surface ulx="0" uly="0" lrx="2886" lry="4476" xml:id="facs_28">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1734.jpg" width="2886px" height="4476px"/>
          <zone points="299,291 299,3433 2804,3433 2804,291" rendition="TextRegion" xml:id="facs_28_r1">
             <zone points="1107,400 1168,395 1229,391 1291,388 1352,388 1414,388 1475,389 1537,391 1598,392 1660,395 1721,398 1782,401 1844,404 1905,406 1967,408 2028,409 2090,409 2151,407 2213,403 2274,397 2336,391 2336,294 2274,300 2213,306 2151,310 2090,312 2028,312 1967,311 1905,309 1844,307 1782,304 1721,301 1660,298 1598,295 1537,294 1475,292 1414,291 1352,291 1291,291 1229,294 1168,298 1107,303" rendition="Line" xml:id="facs_28_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_28" n="28" xml:id="img_0028"/>
+            <pb facs="#facs_28" n="28" xml:id="img_0028"/>
             
-            <ab  facs="#facs_28_r1">
+            <ab facs="#facs_28_r1">
                <lb facs="#facs_28_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_28_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 796 hat sich der <rs type="person" ref="wkfm__9489">Wolf-
                <lb break="no" facs="#facs_28_r1l5" n="N003"/>ramb</rs> geäusseret, das er keinen Compagnon habe

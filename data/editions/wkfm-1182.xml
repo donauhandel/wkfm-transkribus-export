@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2982" lry="4530" xml:id="facs_82">
+    <surface ulx="0" uly="0" lrx="2982" lry="4530" xml:id="facs_82">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1182.jpg" width="2982px" height="4530px"/>
          <graphic url="" width="2982px" height="4530px"/>
          <zone points="104,273 104,3431 2789,3431 2789,273" rendition="TextRegion" xml:id="facs_82_r1">
@@ -92,9 +92,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_82" n="82" xml:id="img_0082"/>
+            <pb facs="#facs_82" n="82" xml:id="img_0082"/>
             
-            <ab  facs="#facs_82_r1">
+            <ab facs="#facs_82_r1">
                <lb facs="#facs_82_line_1624520459477_2478" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_82_line_1629149557392_373" n="N002"/>Der <rs type="person" ref="wkfm__46785">Jacob Lang</rs> und <rs type="person" ref="wkfm__46850">Johann Paul Solderer</rs> haben den zwischen ihnen untern 2<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 75<gap/>
                <lb facs="#facs_82_line_1629149652788_398" n="N003"/><hi>dahin</hi> errichteten societaets Contract de ps: 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> N<hi style="superscript">o</hi> 1994 in <choice><expan/><abbr>orig:</abbr></choice> eingeleget kraft welchen vorgesehen

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3049" lry="4436" xml:id="facs_27">
+    <surface ulx="0" uly="0" lrx="3049" lry="4436" xml:id="facs_27">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0527.jpg" width="3049px" height="4436px"/>
          <zone points="369,189 369,2927 2945,2927 2945,189" rendition="TextRegion" xml:id="facs_27_r4">
             <zone points="2810,303 2837,303 2864,305 2891,307 2918,309 2945,306 2945,243 2918,246 2891,244 2864,242 2837,240 2810,240" rendition="Line" xml:id="facs_27_r4l2" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_27" n="27" xml:id="img_0027"/>
+            <pb facs="#facs_27" n="27" xml:id="img_0027"/>
             
-            <ab  facs="#facs_27_r4">
+            <ab facs="#facs_27_r4">
                <lb facs="#facs_27_r4l2" n="N001"/>261
                <lb facs="#facs_27_r4l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_27_r4l3" n="N003"/><rs type="person" ref="wkfm__46210">Deckh Franz Carl</rs> burgerlicher Handlsmann

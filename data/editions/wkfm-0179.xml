@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2945" lry="4473" xml:id="facs_126">
+    <surface ulx="0" uly="0" lrx="2945" lry="4473" xml:id="facs_126">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0179.jpg" width="2945px" height="4473px"/>
          <zone points="543,204 543,3346 2774,3346 2774,204" rendition="TextRegion" xml:id="facs_126_r1">
             <zone points="1277,319 1351,328 1426,339 1500,348 1575,357 1649,367 1724,376 1798,383 1873,391 1947,398 2022,403 2097,409 2171,412 2246,415 2320,416 2395,415 2469,413 2544,410 2618,404 2693,398 2768,389 2768,274 2693,283 2618,289 2544,295 2469,298 2395,300 2320,301 2246,300 2171,297 2097,294 2022,288 1947,283 1873,276 1798,268 1724,261 1649,252 1575,242 1500,233 1426,224 1351,213 1277,204" rendition="Line" xml:id="facs_126_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_126" n="126" xml:id="img_0126"/>
+            <pb facs="#facs_126" n="126" xml:id="img_0126"/>
             
-            <ab  facs="#facs_126_r1">
+            <ab facs="#facs_126_r1">
                <lb facs="#facs_126_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_126_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 2<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 727 N<hi style="superscript">o</hi> 82 hat sich 
                <lb facs="#facs_126_r1l3" n="N003"/>der <rs type="person" ref="wkfm__8423">Bidermann</rs> geäusseret, daß er ohne Compagnie

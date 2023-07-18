@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3116" lry="4569" xml:id="facs_11">
+    <surface ulx="0" uly="0" lrx="3116" lry="4569" xml:id="facs_11">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0064.jpg" width="3116px" height="4569px"/>
          <zone points="258,178 258,2987 2867,2987 2867,178" rendition="TextRegion" xml:id="facs_11_r1">
             <zone points="2705,266 2733,269 2762,269 2790,271 2819,275 2819,205 2790,201 2762,199 2733,199 2705,196" rendition="Line" xml:id="facs_11_r1l2" subtype="page-number"/>
@@ -79,9 +79,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_11" n="11" xml:id="img_0011"/>
+            <pb facs="#facs_11" n="11" xml:id="img_0011"/>
             
-            <ab  facs="#facs_11_r1">
+            <ab facs="#facs_11_r1">
                <lb facs="#facs_11_r1l2" n="N001"/>30
                <lb facs="#facs_11_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_11_r1l3" n="N003"/><rs type="person" ref="wkfm__9481">Premblechner Lorenz Anton</rs> burgerlicher <choice><expan>Tuchlaubensverwandter</expan><abbr>Tuchlaubensverw</abbr></choice>.

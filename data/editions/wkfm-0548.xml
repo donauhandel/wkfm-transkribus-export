@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3051" lry="4530" xml:id="facs_48">
+    <surface ulx="0" uly="0" lrx="3051" lry="4530" xml:id="facs_48">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0548.jpg" width="3051px" height="4530px"/>
          <zone points="507,243 507,3430 2978,3430 2978,243" rendition="TextRegion" xml:id="facs_48_r1">
             <zone points="1341,361 1401,360 1462,358 1522,358 1583,357 1643,357 1704,358 1764,358 1825,358 1885,358 1946,360 2007,360 2067,360 2128,360 2188,359 2249,358 2309,357 2370,355 2430,353 2491,351 2552,346 2552,243 2491,248 2430,250 2370,252 2309,254 2249,255 2188,256 2128,257 2067,257 2007,257 1946,257 1885,255 1825,255 1764,255 1704,255 1643,254 1583,254 1522,255 1462,255 1401,257 1341,258" rendition="Line" xml:id="facs_48_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_48" n="48" xml:id="img_0048"/>
+            <pb facs="#facs_48" n="48" xml:id="img_0048"/>
             
-            <ab  facs="#facs_48_r1">
+            <ab facs="#facs_48_r1">
                <lb facs="#facs_48_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_48_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 264 hat 
                <lb facs="#facs_48_r1l3" n="N003"/>der <rs type="person" ref="wkfm__41221">Tonolino</rs> angezeiget, daß er seine Handlung in pro-

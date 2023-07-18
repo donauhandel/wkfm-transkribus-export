@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2954" lry="4493" xml:id="facs_257">
+    <surface ulx="0" uly="0" lrx="2954" lry="4493" xml:id="facs_257">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0311.jpg" width="2954px" height="4493px"/>
          <zone points="122,198 122,3008 2715,3008 2715,198" rendition="TextRegion" xml:id="facs_257_r1">
             <zone points="2577,282 2604,281 2632,282 2659,282 2687,282 2715,279 2715,198 2687,201 2659,201 2632,201 2604,200 2577,201" rendition="Line" xml:id="facs_257_r1l1" subtype="page-number"/>
@@ -75,9 +75,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_257" n="257" xml:id="img_0257"/>
+            <pb facs="#facs_257" n="257" xml:id="img_0257"/>
             
-            <ab  facs="#facs_257_r1">
+            <ab facs="#facs_257_r1">
                <lb facs="#facs_257_r1l1" n="N001"/>153
                <lb facs="#facs_257_r1l2" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_257_r1l3" n="N003"/><rs type="person" ref="wkfm__44037">Bader Emerich Felix</rs> k. k. Niderlags Verwanter

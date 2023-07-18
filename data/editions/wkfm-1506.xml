@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2929" lry="4455" xml:id="facs_48">
+    <surface ulx="0" uly="0" lrx="2929" lry="4455" xml:id="facs_48">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1506.jpg" width="2929px" height="4455px"/>
          <zone points="267,161 267,3315 2802,3315 2802,161" rendition="TextRegion" xml:id="facs_48_r1">
             <zone points="1068,297 1135,296 1202,294 1269,294 1337,294 1404,294 1471,294 1539,294 1606,294 1673,293 1741,293 1808,291 1875,290 1942,288 2010,285 2077,282 2144,278 2212,273 2279,266 2346,259 2414,251 2414,161 2346,169 2279,176 2212,183 2144,188 2077,192 2010,195 1942,198 1875,200 1808,201 1741,203 1673,203 1606,204 1539,204 1471,204 1404,204 1337,204 1269,204 1202,204 1135,206 1068,207" rendition="Line" xml:id="facs_48_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_48" n="48" xml:id="img_0048"/>
+            <pb facs="#facs_48" n="48" xml:id="img_0048"/>
             
-            <ab  facs="#facs_48_r1">
+            <ab facs="#facs_48_r1">
                <lb facs="#facs_48_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_48_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 679 hat sich der
                <lb facs="#facs_48_r1l3" n="N003"/><rs type="person" ref="wkfm__8802">Setti</rs> geäusseret, daß er für sich allein negotire

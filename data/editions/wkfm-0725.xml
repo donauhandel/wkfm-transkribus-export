@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3095" lry="4496" xml:id="facs_57">
+    <surface ulx="0" uly="0" lrx="3095" lry="4496" xml:id="facs_57">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0725.jpg" width="3095px" height="4496px"/>
          <zone points="293,204 293,3045 2748,3045 2748,204" rendition="TextRegion" xml:id="facs_57_r1">
             <zone points="2601,407 2630,410 2659,412 2689,413 2718,414 2748,413 2748,287 2718,288 2689,287 2659,286 2630,284 2601,281" rendition="Line" xml:id="facs_57_r1l2" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_57" n="57" xml:id="img_0057"/>
+            <pb facs="#facs_57" n="57" xml:id="img_0057"/>
             
-            <ab  facs="#facs_57_r1">
+            <ab facs="#facs_57_r1">
                <lb facs="#facs_57_r1l2" n="N001"/>360
                <lb facs="#facs_57_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_57_r1l3" n="N003"/><rs type="person" ref="wkfm__8411">Vanossi Domenico</rs> burgerlicher Handlsmann

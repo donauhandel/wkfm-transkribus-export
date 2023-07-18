@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2954" lry="4378" xml:id="facs_50">
+    <surface ulx="0" uly="0" lrx="2954" lry="4378" xml:id="facs_50">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0103.jpg" width="2954px" height="4378px"/>
          <zone points="510,109 510,3213 2850,3213 2850,109" rendition="TextRegion" xml:id="facs_50_r1">
             <zone points="782,202 858,202 935,204 1012,205 1089,207 1166,208 1243,210 1319,212 1396,214 1473,216 1550,219 1627,220 1704,222 1781,225 1857,226 1934,228 2011,229 2088,231 2165,232 2242,234 2319,234 2319,141 2242,141 2165,139 2088,138 2011,136 1934,135 1857,133 1781,132 1704,129 1627,127 1550,126 1473,123 1396,121 1319,119 1243,117 1166,115 1089,114 1012,112 935,111 858,109 782,109" rendition="Line" xml:id="facs_50_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_50" n="50" xml:id="img_0050"/>
+            <pb facs="#facs_50" n="50" xml:id="img_0050"/>
             
-            <ab  facs="#facs_50_r1">
+            <ab facs="#facs_50_r1">
                <lb facs="#facs_50_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_50_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 43 hat sich der <rs type="person" ref="wkfm__9136">Barberi</rs>
                <lb facs="#facs_50_r1l3" n="N003"/>geäussert, das er seine Handlung ohne Compagnon führe

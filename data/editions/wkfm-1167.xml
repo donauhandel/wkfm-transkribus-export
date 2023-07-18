@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3048" lry="4521" xml:id="facs_67">
+    <surface ulx="0" uly="0" lrx="3048" lry="4521" xml:id="facs_67">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1167.jpg" width="3048px" height="4521px"/>
          <zone points="131,256 131,4085 2899,4079 2899,250" rendition="TextRegion" xml:id="facs_67_r1">
             <zone points="2714,370 2887,370 2887,479 2714,479" rendition="Line" xml:id="facs_67_line_1624531907061_4519" subtype="page-number"/>
@@ -77,9 +77,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_67" n="67" xml:id="img_0067"/>
+            <pb facs="#facs_67" n="67" xml:id="img_0067"/>
             
-            <ab  facs="#facs_67_r1">
+            <ab facs="#facs_67_r1">
                <lb facs="#facs_67_line_1624531907061_4519" n="N001"/>577
                <lb facs="#facs_67_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_67_r1l2" n="N003"/><rs type="person" ref="wkfm__46827">Laßnig Urban</rs> burgerlicher Handlsmann
@@ -92,7 +92,7 @@
                <lb facs="#facs_67_r1l9" n="N010"/><choice><expan/><abbr>Febr:</abbr></choice> 738 N<hi style="superscript">o</hi> 1574 <choice><expan/><abbr>pr</abbr></choice> 4312 fl 43 wavon ihm die helfte Eigenthumlich
                <lb facs="#facs_67_r1l10" n="N011"/><choice><expan/><abbr>pr</abbr></choice> 2156 fl 21 1/2 x<hi style="superscript">r</hi>
                <lb facs="#facs_67_r1l12" n="N012"/>Dann ein von dessen Ehewirthin untern 6<hi style="superscript">ten</hi> ej: dahin augestelte
-               <lb facs="#facs_67_r1l16" n="N013"/><comment comment="wahrscheinlich\u0020\u0022certiorirte\u0022">cortiorirte</comment> <choice><expan/><abbr>orig:</abbr></choice> Erklährung N<hi style="superscript">o</hi> 1575 das sie von der ihr Eigenthumlich
+               <lb facs="#facs_67_r1l16" n="N013"/><seg type="editorial_comment_seg">cortiorirte<note type="editorial_comment_note">wahrscheinlich certiorirte</note></seg> <choice><expan/><abbr>orig:</abbr></choice> Erklährung N<hi style="superscript">o</hi> 1575 das sie von der ihr Eigenthumlich
                <lb facs="#facs_67_r1l17" n="N014"/>gehörigen handlungs Halbscheid zu Sicherheit deren Creditoren gewid-
                <lb facs="#facs_67_r1l18" n="N015"/>met haben woll 2000 fl
                <lb facs="#facs_67_r1l20" n="N016"/><choice><expan/><abbr>Sa</abbr></choice> 4156 fl 21 1/2 x<hi style="superscript">r</hi>

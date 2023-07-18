@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3095" lry="4410" xml:id="facs_101">
+    <surface ulx="0" uly="0" lrx="3095" lry="4410" xml:id="facs_101">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1021.jpg" width="3095px" height="4410px"/>
          <graphic url="" width="3095px" height="4410px"/>
          <zone points="210,163 210,3710 2943,3710 2943,163" rendition="TextRegion" xml:id="facs_101_r1">
@@ -78,9 +78,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_101" n="101" xml:id="img_0101"/>
+            <pb facs="#facs_101" n="101" xml:id="img_0101"/>
             
-            <ab  facs="#facs_101_r1">
+            <ab facs="#facs_101_r1">
                <lb facs="#facs_101_r1l2" n="N001"/>503
                <lb facs="#facs_101_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_101_r1l3" n="N003"/><rs type="person" ref="wkfm__46518">Hofstätter Matthias</rs> burgerlicher Handlsmann
@@ -94,7 +94,7 @@
                <lb facs="#facs_101_r1l12" n="N011"/>Der <rs type="person" ref="wkfm__46518">Hofstätter</rs> hat seinen Handlungsfundum mitls der <choice><expan/><abbr>orig:</abbr></choice> Inventur
                <lb facs="#facs_101_r1l15" n="N012"/>dd<hi style="superscript">to</hi> 31<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 738 N<hi style="superscript">o</hi> 1508 <choice><expan/><abbr>pr</abbr></choice> 3918 fl 56 
                <lb facs="#facs_101_r1l16" n="N013"/>dann einen von seiner Ehewirthin <rs type="person" ref="wkfm__46520">Maria Magdalena</rs> untern 1<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> d. a.
-               <lb facs="#facs_101_r1l17" n="N014"/>dahin ausgestelten <comment comment="wahrscheinlich\u0020\u0022certiorirten\u0022">cortiorirten</comment> <choice><expan/><abbr>orig:</abbr></choice> Cautions Instrument N<hi style="superscript">o</hi> 1509, daß
+               <lb facs="#facs_101_r1l17" n="N014"/>dahin ausgestelten <seg type="editorial_comment_seg">cortiorirten<note type="editorial_comment_note">wahrscheinlich certiorirten</note></seg> <choice><expan/><abbr>orig:</abbr></choice> Cautions Instrument N<hi style="superscript">o</hi> 1509, daß
                <lb facs="#facs_101_r1l18" n="N015"/>sie von der ihr zugehörigen halbschaid des Vermögens zur Sicherheit
                <lb facs="#facs_101_r1l19" n="N016"/>denen Creditoren 2000 fl gewidmet haben wolle.
             </ab>

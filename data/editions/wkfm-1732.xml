@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2886" lry="4476" xml:id="facs_26">
+    <surface ulx="0" uly="0" lrx="2886" lry="4476" xml:id="facs_26">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1732.jpg" width="2886px" height="4476px"/>
          <zone points="342,294 342,3422 2793,3422 2793,294" rendition="TextRegion" xml:id="facs_26_r1">
             <zone points="1097,402 1161,394 1225,390 1289,386 1353,384 1417,384 1481,385 1545,388 1609,390 1673,394 1737,397 1801,401 1865,403 1929,405 1993,406 2057,406 2121,405 2185,402 2249,397 2313,390 2378,379 2378,294 2313,305 2249,312 2185,317 2121,320 2057,321 1993,321 1929,320 1865,318 1801,316 1737,312 1673,309 1609,305 1545,303 1481,300 1417,299 1353,299 1289,301 1225,305 1161,309 1097,317" rendition="Line" xml:id="facs_26_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_26" n="26" xml:id="img_0026"/>
+            <pb facs="#facs_26" n="26" xml:id="img_0026"/>
             
-            <ab  facs="#facs_26_r1">
+            <ab facs="#facs_26_r1">
                <lb facs="#facs_26_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_26_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 795 hat sich der <rs type="person" ref="wkfm__7269">Weiß</rs>
                <lb facs="#facs_26_r1l3" n="N003"/>geäusseret, das er seine Handlung in proprio für sich führe

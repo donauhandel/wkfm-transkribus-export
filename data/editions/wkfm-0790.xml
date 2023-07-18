@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_122">
+    <surface ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_122">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0790.jpg" width="2994px" height="4530px"/>
          <graphic url="" width="2994px" height="4530px"/>
          <zone points="267,253 267,3711 2886,3711 2886,253" rendition="TextRegion" xml:id="facs_122_r1">
@@ -84,9 +84,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_122" n="122" xml:id="img_0122"/>
+            <pb facs="#facs_122" n="122" xml:id="img_0122"/>
             
-            <ab  facs="#facs_122_r1">
+            <ab facs="#facs_122_r1">
                <lb facs="#facs_122_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_122_r1l2" n="N002"/>In obiger Erklährung sine dato N<hi style="superscript">o</hi> 374 hat sich der <rs type="person" ref="wkfm__47156">Fläschiz</rs> geäuss[ert]
                <lb facs="#facs_122_r1l3" n="N003"/>daß er sein negotium alß Socius von <unclear>deren</unclear> <rs type="person" ref="wkfm__47157">Michäl Schikh Erben</rs> <hi>unter</hi> <unclear>füh[re]</unclear>

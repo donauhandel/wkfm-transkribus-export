@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2866" lry="4476" xml:id="facs_8">
+    <surface ulx="0" uly="0" lrx="2866" lry="4476" xml:id="facs_8">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1714.jpg" width="2866px" height="4476px"/>
          <zone points="138,212 138,3361 2783,3361 2783,212" rendition="TextRegion" xml:id="facs_8_r1">
             <zone points="1019,356 1087,351 1156,347 1225,342 1294,340 1363,338 1432,337 1500,335 1569,335 1638,335 1707,335 1776,335 1845,334 1914,334 1982,332 2051,329 2120,326 2189,322 2258,315 2327,308 2396,299 2396,212 2327,221 2258,228 2189,235 2120,239 2051,242 1982,245 1914,247 1845,247 1776,248 1707,248 1638,248 1569,248 1500,248 1432,250 1363,251 1294,253 1225,255 1156,260 1087,264 1019,269" rendition="Line" xml:id="facs_8_r1l1"/>
@@ -70,9 +70,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_8" n="8" xml:id="img_0008"/>
+            <pb facs="#facs_8" n="8" xml:id="img_0008"/>
             
-            <ab  facs="#facs_8_r1">
+            <ab facs="#facs_8_r1">
                <lb facs="#facs_8_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_8_r1l2" n="N002"/>In obigen Anbringen de ps: 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 2063 hat sich der <rs type="person" ref="wkfm__8272">Wührer</rs> er-
                <lb facs="#facs_8_r1l3" n="N003"/>klähret, das unter der Raggion <rs type="person" ref="wkfm__10345">Ferdinand Wühret et <choice><expan/><abbr>Comp:</abbr></choice></rs> der <rs type="person" ref="wkfm__8754">Matthias

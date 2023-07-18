@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_250">
+    <surface ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_250">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0304.jpg" width="2934px" height="4501px"/>
          <zone points="278,226 278,3345 2513,3345 2513,226" rendition="TextRegion" xml:id="facs_250_r1">
             <zone points="905,326 977,322 1049,319 1121,316 1193,314 1265,313 1337,313 1410,313 1482,313 1554,313 1626,313 1698,313 1770,314 1842,314 1915,314 1987,314 2059,313 2131,311 2203,310 2275,307 2348,304 2348,226 2275,229 2203,232 2131,233 2059,235 1987,236 1915,236 1842,236 1770,236 1698,235 1626,235 1554,235 1482,235 1410,235 1337,235 1265,235 1193,236 1121,238 1049,241 977,244 905,248" rendition="Line" xml:id="facs_250_r1l1"/>
@@ -68,9 +68,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_250" n="250" xml:id="img_0250"/>
+            <pb facs="#facs_250" n="250" xml:id="img_0250"/>
             
-            <ab  facs="#facs_250_r1">
+            <ab facs="#facs_250_r1">
                <lb facs="#facs_250_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_250_r1l3" n="N002"/>Untern 13<hi style="superscript">ten <choice><expan/><abbr/></choice></hi><choice><expan/><abbr>X<hi style="superscript">bris</hi></abbr></choice> 763 hat sich der <rs type="person" ref="wkfm__43996">Franz Joseph Bargehr</rs>
                <lb facs="#facs_250_r1l4" n="N003"/>erklaret, das er seinen Bruder <rs type="person" ref="wkfm__43999">Johann Benedict Bargehr</rs>

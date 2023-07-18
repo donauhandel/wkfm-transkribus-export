@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2973" lry="4530" xml:id="facs_38">
+    <surface ulx="0" uly="0" lrx="2973" lry="4530" xml:id="facs_38">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1138.jpg" width="2973px" height="4530px"/>
          <zone points="300,156 300,3409 2925,3409 2925,156" rendition="TextRegion" xml:id="facs_38_r1">
             <zone points="1178,348 1235,340 1293,333 1351,328 1409,322 1467,319 1525,317 1583,315 1641,313 1699,313 1757,312 1814,312 1872,312 1930,310 1988,310 2046,309 2104,307 2162,306 2220,302 2278,299 2336,294 2336,156 2278,161 2220,164 2162,168 2104,169 2046,171 1988,172 1930,172 1872,174 1814,174 1757,174 1699,175 1641,175 1583,177 1525,179 1467,181 1409,184 1351,190 1293,195 1235,202 1178,210" rendition="Line" xml:id="facs_38_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_38" n="38" xml:id="img_0038"/>
+            <pb facs="#facs_38" n="38" xml:id="img_0038"/>
             
-            <ab  facs="#facs_38_r1">
+            <ab facs="#facs_38_r1">
                <lb facs="#facs_38_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_38_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 4<hi style="superscript">ten</hi> Junii 725 N<hi style="superscript">o</hi> 523 hat sich der <rs type="person" ref="wkfm__46806">Leeb</rs>
                <lb facs="#facs_38_r1l3" n="N003"/>geäusseret, daß er mit keiner Compagnie auf keinerley Arth behaftet seye.

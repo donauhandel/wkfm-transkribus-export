@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3051" lry="4473" xml:id="facs_18">
+    <surface ulx="0" uly="0" lrx="3051" lry="4473" xml:id="facs_18">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0518.jpg" width="3051px" height="4473px"/>
          <zone points="573,162 573,3288 2970,3288 2970,162" rendition="TextRegion" xml:id="facs_18_r1">
             <zone points="1290,250 1356,252 1423,254 1490,257 1557,260 1623,262 1690,264 1757,267 1824,269 1890,271 1957,274 2024,275 2091,275 2157,277 2224,277 2291,277 2358,277 2424,275 2491,274 2558,271 2625,268 2625,180 2558,183 2491,186 2424,187 2358,189 2291,189 2224,189 2157,189 2091,187 2024,187 1957,186 1890,183 1824,181 1757,179 1690,176 1623,174 1557,172 1490,169 1423,166 1356,164 1290,162" rendition="Line" xml:id="facs_18_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_18" n="18" xml:id="img_0018"/>
+            <pb facs="#facs_18" n="18" xml:id="img_0018"/>
             
-            <ab  facs="#facs_18_r1">
+            <ab facs="#facs_18_r1">
                <lb facs="#facs_18_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_18_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Ap</abbr></choice>r: 725 N<hi style="superscript">o</hi> 250 hat sich
                <lb facs="#facs_18_r1l3" n="N003"/>der <rs type="person" ref="wkfm__46202">Dybalt</rs> geäusseret das er seine Handlung ganz allein führe

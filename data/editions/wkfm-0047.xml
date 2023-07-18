@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2839" lry="4530" xml:id="facs_42">
+    <surface ulx="0" uly="0" lrx="2839" lry="4530" xml:id="facs_42">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0047.jpg" width="2839px" height="4530px"/>
          <zone points="177,285 177,3372 2724,3372 2724,285" rendition="TextRegion" xml:id="facs_42_r1">
             <zone points="603,357 670,357 738,357 805,359 873,360 940,361 1008,362 1075,363 1143,365 1210,366 1278,369 1345,370 1413,371 1480,372 1548,374 1615,374 1683,375 1750,375 1818,374 1885,374 1953,372 1953,300 1885,302 1818,302 1750,303 1683,303 1615,302 1548,302 1480,300 1413,299 1345,298 1278,297 1210,294 1143,293 1075,291 1008,290 940,289 873,288 805,287 738,285 670,285 603,285" rendition="Line" xml:id="facs_42_r1l1"/>
@@ -86,9 +86,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_42" n="42" xml:id="img_0042"/>
+            <pb facs="#facs_42" n="42" xml:id="img_0042"/>
             
-            <ab  facs="#facs_42_r1">
+            <ab facs="#facs_42_r1">
                <lb facs="#facs_42_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_42_r1l2" n="N002"/>laut obigen Anbringen de ps: 20<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 738 N<hi style="superscript">o</hi> 22 haben <rs type="person">Appoldt und Gnaedl</rs>
                <lb facs="#facs_42_r1l3" n="N003"/>sich geäusseret das sie ihre handlung unter dieser societaetsfirma zu führen

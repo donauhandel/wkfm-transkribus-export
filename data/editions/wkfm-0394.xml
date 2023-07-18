@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_74">
+    <surface ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_74">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0394.jpg" width="2934px" height="4501px"/>
          <zone points="351,216 351,3383 2880,3383 2880,216" rendition="TextRegion" xml:id="facs_74_r1">
             <zone points="1130,365 1197,361 1265,358 1332,355 1400,352 1467,350 1535,350 1602,349 1670,349 1737,349 1805,349 1872,349 1940,349 2007,349 2075,348 2142,347 2210,346 2277,343 2345,340 2412,336 2480,331 2480,216 2412,221 2345,225 2277,228 2210,231 2142,232 2075,233 2007,234 1940,234 1872,234 1805,234 1737,234 1670,234 1602,234 1535,235 1467,235 1400,237 1332,240 1265,243 1197,246 1130,250" rendition="Line" xml:id="facs_74_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_74" n="74" xml:id="img_0074"/>
+            <pb facs="#facs_74" n="74" xml:id="img_0074"/>
             
-            <ab  facs="#facs_74_r1">
+            <ab facs="#facs_74_r1">
                <lb facs="#facs_74_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_74_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 725 N<hi style="superscript">o</hi> 195 hat sich der <rs type="person" ref="wkfm__46118">Kreps</rs>
                <lb facs="#facs_74_r1l3" n="N003"/>geäusseret, daß er seine Handlung für sich allein führe

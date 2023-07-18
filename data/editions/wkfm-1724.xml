@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2886" lry="4476" xml:id="facs_18">
+    <surface ulx="0" uly="0" lrx="2886" lry="4476" xml:id="facs_18">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1724.jpg" width="2886px" height="4476px"/>
          <zone points="339,276 339,3424 2817,3424 2817,276" rendition="TextRegion" xml:id="facs_18_r3">
             <zone points="1202,396 1266,391 1331,390 1396,388 1461,389 1526,391 1590,393 1655,397 1720,400 1785,404 1850,407 1914,409 1979,412 2044,414 2109,413 2174,412 2238,408 2303,401 2368,394 2433,383 2498,370 2498,276 2433,289 2368,300 2303,307 2238,314 2174,318 2109,319 2044,320 1979,318 1914,315 1850,313 1785,310 1720,306 1655,303 1590,299 1526,297 1461,295 1396,294 1331,296 1266,297 1202,302" rendition="Line" xml:id="facs_18_r3l1"/>
@@ -68,9 +68,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_18" n="18" xml:id="img_0018"/>
+            <pb facs="#facs_18" n="18" xml:id="img_0018"/>
             
-            <ab  facs="#facs_18_r3">
+            <ab facs="#facs_18_r3">
                <lb facs="#facs_18_r3l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_18_r3l3" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 29<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 725 N<hi style="superscript">o</hi> 2065 hat sich der
                <lb facs="#facs_18_r3l4" n="N003"/><rs type="person" ref="wkfm__29681">Johann Caspar Würth</rs> nebst seinem bruder<rs type="person" ref="wkfm__46959"> Georg Christoph

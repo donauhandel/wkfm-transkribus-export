@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3051" lry="4473" xml:id="facs_22">
+    <surface ulx="0" uly="0" lrx="3051" lry="4473" xml:id="facs_22">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0522.jpg" width="3051px" height="4473px"/>
          <zone points="570,162 570,3324 2972,3324 2972,162" rendition="TextRegion" xml:id="facs_22_r1">
             <zone points="1250,271 1319,268 1388,267 1458,265 1527,265 1596,265 1666,266 1735,268 1804,270 1874,272 1943,274 2012,277 2082,279 2151,282 2220,283 2290,285 2359,285 2428,285 2498,283 2567,282 2637,279 2637,176 2567,179 2498,180 2428,182 2359,182 2290,182 2220,180 2151,179 2082,176 2012,174 1943,171 1874,169 1804,167 1735,165 1666,163 1596,162 1527,162 1458,162 1388,164 1319,165 1250,168" rendition="Line" xml:id="facs_22_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_22" n="22" xml:id="img_0022"/>
+            <pb facs="#facs_22" n="22" xml:id="img_0022"/>
             
-            <ab  facs="#facs_22_r1">
+            <ab facs="#facs_22_r1">
                <lb facs="#facs_22_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_22_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 252 hat sich
                <lb facs="#facs_22_r1l3" n="N003"/>der <rs type="person" ref="wkfm__46206">Duvillard</rs> geäusseret, daß er für sich allein ohne Compagnon

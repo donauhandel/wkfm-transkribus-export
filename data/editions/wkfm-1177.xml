@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3048" lry="4615" xml:id="facs_77">
+    <surface ulx="0" uly="0" lrx="3048" lry="4615" xml:id="facs_77">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1177.jpg" width="3048px" height="4615px"/>
          <zone points="51,223 51,4484 2813,4484 2813,223" rendition="TextRegion" xml:id="facs_77_r2">
             <zone points="2690,471 2715,474 2740,474 2765,471 2790,469 2815,468 2840,468 2840,393 2815,393 2790,394 2765,396 2740,399 2715,399 2690,396" rendition="Line" xml:id="facs_77_r2l2" subtype="page-number"/>
@@ -83,9 +83,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_77" n="77" xml:id="img_0077"/>
+            <pb facs="#facs_77" n="77" xml:id="img_0077"/>
             
-            <ab  facs="#facs_77_r2">
+            <ab facs="#facs_77_r2">
                <lb facs="#facs_77_r2l2" n="N001"/>582
                <lb facs="#facs_77_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_77_r2l3" n="N003"/><rs type="person" ref="wkfm__46841"><unclear>Langenser</unclear> Johann Georg</rs> burgerlicher Handlsmann
@@ -99,7 +99,7 @@
                <lb facs="#facs_77_r2l12" n="N011"/>ausgewisen, nemlichen daß er eigenthumlich besize
                <lb facs="#facs_77_r2l13" n="N012"/>vermög der in Copia vidimata N<hi style="superscript">o</hi> 1589 eingelegten Huberischen Schuld-Verschreibung dd<hi style="superscript">to</hi>
                <lb facs="#facs_77_r2l14" n="N013"/>6<hi style="superscript">ten</hi> Julii 751 600 fl
-               <lb facs="#facs_77_r2l16" n="N014"/>Vermög attestati des <rs type="person" ref="wkfm__46843">Johann Englhart</rs> dd<hi style="superscript">to</hi> 14 x<hi style="superscript">r</hi> 752 N<hi style="superscript">o</hi> 1590 an 300 <comment comment="Eimer">Emmer</comment> Wein
+               <lb facs="#facs_77_r2l16" n="N014"/>Vermög attestati des <rs type="person" ref="wkfm__46843">Johann Englhart</rs> dd<hi style="superscript">to</hi> 14 x<hi style="superscript">r</hi> 752 N<hi style="superscript">o</hi> 1590 an 300 <seg type="editorial_comment_seg">Emmer<note type="editorial_comment_note">Eimer</note></seg> Wein
                <lb facs="#facs_77_r2l17" n="N015"/>à 6 fl 1800 fl
                <lb facs="#facs_77_r2l19" n="N016"/>an baaren Geld 600 fl
                <lb facs="#facs_77_r2l21" n="N017"/>zusamen Eigenthum 3000 fl

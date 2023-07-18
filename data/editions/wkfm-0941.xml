@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3095" lry="4469" xml:id="facs_21">
+    <surface ulx="0" uly="0" lrx="3095" lry="4469" xml:id="facs_21">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0941.jpg" width="3095px" height="4469px"/>
          <zone points="149,199 149,3026 2750,3026 2750,199" rendition="TextRegion" xml:id="facs_21_r1">
             <zone points="2580,343 2607,346 2635,348 2663,350 2691,350 2719,349 2747,347 2747,278 2719,280 2691,281 2663,281 2635,279 2607,277 2580,274" rendition="Line" xml:id="facs_21_r1l2" subtype="page-number"/>
@@ -74,9 +74,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_21" n="21" xml:id="img_0021"/>
+            <pb facs="#facs_21" n="21" xml:id="img_0021"/>
             
-            <ab  facs="#facs_21_r1">
+            <ab facs="#facs_21_r1">
                <lb facs="#facs_21_r1l2" n="N001"/>463
                <lb facs="#facs_21_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_21_r1l3" n="N003"/><rs type="person" ref="wkfm__46446">Heigl Lorenz</rs> k. k. Niderlags Verwanter

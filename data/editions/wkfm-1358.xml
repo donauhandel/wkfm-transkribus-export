@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2940" lry="4464" xml:id="facs_6">
+    <surface ulx="0" uly="0" lrx="2940" lry="4464" xml:id="facs_6">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1358.jpg" width="2940px" height="4464px"/>
          <zone points="447,168 447,3234 2871,3234 2871,168" rendition="TextRegion" xml:id="facs_6_r1">
             <zone points="1199,289 1261,285 1323,282 1385,279 1448,279 1510,279 1572,279 1634,279 1697,280 1759,282 1821,285 1883,286 1946,288 2008,289 2070,291 2132,291 2195,291 2257,289 2319,287 2381,283 2444,279 2444,168 2381,172 2319,176 2257,178 2195,180 2132,180 2070,180 2008,178 1946,177 1883,175 1821,174 1759,171 1697,169 1634,168 1572,168 1510,168 1448,168 1385,168 1323,171 1261,174 1199,178" rendition="Line" xml:id="facs_6_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_6" n="6" xml:id="img_0006"/>
+            <pb facs="#facs_6" n="6" xml:id="img_0006"/>
             
-            <ab  facs="#facs_6_r1">
+            <ab facs="#facs_6_r1">
                <lb facs="#facs_6_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_6_r1l2" n="N002"/>In obigen Anbringen de ps: 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 616 hat der <hi>R sich</hi> der
                <lb facs="#facs_6_r1l3" n="N003"/><rs type="person" ref="wkfm__9869">Rottmann</rs> erklähret, daß er sein negotium ohne societaet führe

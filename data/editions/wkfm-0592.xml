@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3003" lry="4530" xml:id="facs_92">
+    <surface ulx="0" uly="0" lrx="3003" lry="4530" xml:id="facs_92">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0592.jpg" width="3003px" height="4530px"/>
          <zone points="288,242 288,3419 2931,3419 2931,242" rendition="TextRegion" xml:id="facs_92_r1">
             <zone points="1149,324 1221,323 1294,323 1366,324 1439,326 1511,328 1584,332 1657,335 1729,339 1802,342 1874,346 1947,350 2019,353 2092,356 2165,359 2237,360 2310,362 2382,361 2455,360 2528,357 2528,276 2455,279 2382,280 2310,281 2237,279 2165,278 2092,275 2019,272 1947,269 1874,265 1802,261 1729,258 1657,254 1584,251 1511,247 1439,245 1366,243 1294,242 1221,242 1149,243" rendition="Line" xml:id="facs_92_r1l1"/>
@@ -77,9 +77,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_92" n="92" xml:id="img_0092"/>
+            <pb facs="#facs_92" n="92" xml:id="img_0092"/>
             
-            <ab  facs="#facs_92_r1">
+            <ab facs="#facs_92_r1">
                <lb facs="#facs_92_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_92_r1l2" n="N002"/>Der <rs type="person" ref="wkfm__46271">Dechamps</rs> hat in obiger Erklährung sine dato N<hi style="superscript">o</hi> 284 mit dem
                <lb facs="#facs_92_r1l3" n="N003"/><rs type="person" ref="wkfm__46273">Leopold Merkhl</rs> die Firma gemeinsam jedoch jedweder unter seinem

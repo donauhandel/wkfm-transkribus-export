@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_242">
+    <surface ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_242">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0296.jpg" width="2934px" height="4501px"/>
          <graphic url="" width="2934px" height="4501px"/>
          <zone points="293,240 293,3968 2663,3968 2663,240" rendition="TextRegion" xml:id="facs_242_r2">
@@ -87,9 +87,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_242" n="242" xml:id="img_0242"/>
+            <pb facs="#facs_242" n="242" xml:id="img_0242"/>
             
-            <ab  facs="#facs_242_r2">
+            <ab facs="#facs_242_r2">
                <lb facs="#facs_242_r2l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_242_r2l2" n="N002"/>Untern 25: <choice><expan/><abbr>8br:</abbr></choice> 773 hat die <rs type="person" ref="wkfm__43982">Maria Elisabeth Pachin</rs> ange-
                <lb facs="#facs_242_r2l3" n="N003"/>zeiget, das sie ihre Handlung vermög Billanz A:
@@ -111,8 +111,8 @@
                <lb facs="#facs_242_r2l19" n="N019"/>Handlungs Gerechtigkeit zu verbleiben contratiret wor-
                <lb facs="#facs_242_r2l20" n="N020"/>den pp. <choice><expan/><abbr>nro:</abbr></choice> 2119.
                <lb facs="#facs_242_r2l21" n="N021"/>Anmerckungen
-               <lb facs="#facs_242_r2l22" n="N022"/><comment comment="gesamter\u0020Absatz\u0020gestrichen"><hi>N: Anno 775: hat diese Handlung dessen Sohn Johann Hutter</hi>
-               <lb break="no" facs="#facs_242_r2l23" n="N023"/><hi>übernohmen <unclear>Cetera</unclear> cide Joh Hutter in Protocoll: 2<unclear>d</unclear>:</hi><unclear>d</unclear>:</comment>
+               <lb facs="#facs_242_r2l22" n="N022"/><seg type="editorial_comment_seg"><hi>N: Anno 775: hat diese Handlung dessen Sohn Johann Hutter</hi>
+               <lb break="no" facs="#facs_242_r2l23" n="N023"/><hi>übernohmen <unclear>Cetera</unclear> cide Joh Hutter in Protocoll: 2<unclear>d</unclear>:</hi><unclear>d</unclear>:<note type="editorial_comment_note">gesamter Absatz gestrichen</note></seg>
                <lb facs="#facs_242_r2l24" n="N024"/>N: Anno 775 hat diese Handl: dessen Sohn <rs type="person" ref="wkfm__43983">Franz Xav: Pach</rs>
                <lb facs="#facs_242_r2l25" n="N025"/>übernohmen
             </ab>

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2982" lry="4501" xml:id="facs_88">
+    <surface ulx="0" uly="0" lrx="2982" lry="4501" xml:id="facs_88">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0408.jpg" width="2982px" height="4501px"/>
          <zone points="275,251 275,3401 2865,3401 2865,251" rendition="TextRegion" xml:id="facs_88_r1">
             <zone points="1145,345 1215,341 1285,338 1356,335 1426,333 1496,332 1567,332 1637,332 1707,332 1778,332 1848,332 1918,332 1989,333 2059,333 2129,333 2200,332 2270,332 2340,330 2411,329 2481,326 2552,323 2552,251 2481,254 2411,257 2340,258 2270,260 2200,260 2129,261 2059,261 1989,261 1918,260 1848,260 1778,260 1707,260 1637,260 1567,260 1496,260 1426,261 1356,263 1285,266 1215,269 1145,273" rendition="Line" xml:id="facs_88_r1l1"/>
@@ -76,9 +76,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_88" n="88" xml:id="img_0088"/>
+            <pb facs="#facs_88" n="88" xml:id="img_0088"/>
             
-            <ab  facs="#facs_88_r1">
+            <ab facs="#facs_88_r1">
                <lb facs="#facs_88_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_88_r1l2" n="N002"/>In obigen Anbringen de ps: 4<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 726 N<hi style="superscript">o</hi> 1898 hat der <rs type="person" ref="wkfm__17087">Consoni</rs> <hi>angezei-</hi>
                <lb facs="#facs_88_r1l3" n="N003"/><hi>get</hi> sich erklähret, daß er sich von seinem Vetter <rs type="person" ref="wkfm__18128">Angelo Maria Consoni</rs>

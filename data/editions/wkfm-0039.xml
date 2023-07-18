@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2839" lry="4530" xml:id="facs_34">
+    <surface ulx="0" uly="0" lrx="2839" lry="4530" xml:id="facs_34">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0039.jpg" width="2839px" height="4530px"/>
          <zone points="266,266 266,3416 2661,3416 2661,266" rendition="TextRegion" xml:id="facs_34_r1">
             <zone points="878,401 946,398 1015,395 1084,393 1153,392 1222,392 1291,393 1359,393 1428,395 1497,396 1566,399 1635,401 1704,402 1773,404 1841,406 1910,407 1979,408 2048,408 2117,408 2186,407 2255,405 2255,279 2186,281 2117,282 2048,282 1979,282 1910,281 1841,280 1773,278 1704,276 1635,275 1566,273 1497,270 1428,269 1359,267 1291,267 1222,266 1153,266 1084,267 1015,269 946,272 878,275" rendition="Line" xml:id="facs_34_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_34" n="34" xml:id="img_0034"/>
+            <pb facs="#facs_34" n="34" xml:id="img_0034"/>
             
-            <ab  facs="#facs_34_r1">
+            <ab facs="#facs_34_r1">
                <lb facs="#facs_34_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_34_r1l2" n="N002"/>In obriger Erklährung dd<hi style="superscript">to</hi> 14<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 730 N<hi style="superscript">o</hi> 17 hat der <rs type="person" ref="wkfm__17118">Auchter</rs>
                <lb facs="#facs_34_r1l3" n="N003"/>keinen Compgnon zu haben vermeldet.

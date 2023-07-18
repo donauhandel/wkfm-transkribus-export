@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2886" lry="4476" xml:id="facs_38">
+    <surface ulx="0" uly="0" lrx="2886" lry="4476" xml:id="facs_38">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1744.jpg" width="2886px" height="4476px"/>
          <zone points="219,230 219,3427 2766,3427 2766,230" rendition="TextRegion" xml:id="facs_38_r1">
             <zone points="1133,385 1197,379 1262,376 1327,374 1392,371 1457,371 1521,371 1586,373 1651,374 1716,376 1781,377 1845,378 1910,379 1975,379 2040,378 2105,376 2169,374 2234,370 2299,362 2364,355 2429,344 2429,230 2364,241 2299,248 2234,256 2169,260 2105,262 2040,264 1975,265 1910,265 1845,264 1781,263 1716,262 1651,260 1586,259 1521,257 1457,257 1392,257 1327,260 1262,262 1197,265 1133,271" rendition="Line" xml:id="facs_38_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_38" n="38" xml:id="img_0038"/>
+            <pb facs="#facs_38" n="38" xml:id="img_0038"/>
             
-            <ab  facs="#facs_38_r1">
+            <ab facs="#facs_38_r1">
                <lb facs="#facs_38_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_38_r1l2" n="N002"/>In obiger Erklährung <hi>dd<hi style="superscript"/></hi>to<hi style="superscript">o</hi> 801 hat sich der <rs type="person" ref="wkfm__26085">Wurmscher</rs>
                <lb facs="#facs_38_r1l3" n="N003"/>geäusseret, das er sein negotium ohne Compagnon führe

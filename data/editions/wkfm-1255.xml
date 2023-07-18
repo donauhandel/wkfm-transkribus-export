@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3105" lry="4491" xml:id="facs_71">
+    <surface ulx="0" uly="0" lrx="3105" lry="4491" xml:id="facs_71">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1255.jpg" width="3105px" height="4491px"/>
          <zone points="218,133 218,2953 2790,2953 2790,133" rendition="TextRegion" xml:id="facs_71_r2">
             <zone points="2601,367 2628,368 2655,368 2682,368 2709,367 2736,365 2763,361 2790,358 2790,261 2763,264 2736,268 2709,270 2682,271 2655,271 2628,271 2601,270" rendition="Line" xml:id="facs_71_r2l2" subtype="page-number"/>
@@ -72,9 +72,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_71" n="71" xml:id="img_0071"/>
+            <pb facs="#facs_71" n="71" xml:id="img_0071"/>
             
-            <ab  facs="#facs_71_r2">
+            <ab facs="#facs_71_r2">
                <lb facs="#facs_71_r2l2" n="N001"/>621
                <lb facs="#facs_71_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_71_r2l3" n="N003"/><rs type="person" ref="wkfm__10641">Moser Carl Joseph</rs> burgerlicher Handlsmann

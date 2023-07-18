@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_22">
+    <surface ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_22">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0642.jpg" width="2994px" height="4530px"/>
          <zone points="290,231 290,3374 2856,3374 2856,231" rendition="TextRegion" xml:id="facs_22_r1">
             <zone points="1118,383 1184,377 1250,374 1316,371 1382,368 1448,365 1514,364 1580,362 1646,361 1712,361 1778,359 1844,359 1910,358 1976,358 2042,356 2108,356 2174,355 2240,353 2306,352 2372,349 2438,346 2438,231 2372,234 2306,237 2240,238 2174,240 2108,241 2042,241 1976,243 1910,243 1844,244 1778,244 1712,246 1646,246 1580,247 1514,249 1448,250 1382,253 1316,256 1250,259 1184,262 1118,268" rendition="Line" xml:id="facs_22_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_22" n="22" xml:id="img_0022"/>
+            <pb facs="#facs_22" n="22" xml:id="img_0022"/>
             
-            <ab  facs="#facs_22_r1">
+            <ab facs="#facs_22_r1">
                <lb facs="#facs_22_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_22_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 724 N<hi style="superscript">o</hi> 306 hat sich der
                <lb facs="#facs_22_r1l3" n="N003"/><rs type="person" ref="wkfm__8771">Eggendorfer</rs> geäusseret, daß er keinen Compagnon noch interessenten

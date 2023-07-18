@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_92">
+    <surface ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_92">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0760.jpg" width="2994px" height="4530px"/>
          <graphic url="" width="2994px" height="4530px"/>
          <zone points="177,213 177,4057 2886,4057 2886,213" rendition="TextRegion" xml:id="facs_92_r1">
@@ -110,9 +110,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_92" n="92" xml:id="img_0092"/>
+            <pb facs="#facs_92" n="92" xml:id="img_0092"/>
             
-            <ab  facs="#facs_92_r1">
+            <ab facs="#facs_92_r1">
                <lb facs="#facs_92_r1l2" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_92_r1l3" n="N002"/>Mitls Anbringen de ps: 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 735 N<hi style="superscript">o</hi> 1938 hat der <rs type="person" ref="wkfm__42886">Bernhard Falquet</rs> und <rs type="person" ref="wkfm__43810">Bernhard Franz 
                <lb break="no" facs="#facs_92_r1l4" n="N003"/>Violland</rs> angezeiget, daß sie beede in ihrem negotium societaeten stehen unter der Raggion <rs type="person" ref="wkfm__23970">Falquet und Vio[lland]</rs>
@@ -121,7 +121,7 @@
                <lb facs="#facs_92_r1l7" n="N006"/><unclear>Creditaribus</unclear> ihrer Raggion in Solidum zu haften schuldig seye solle.
                <lb facs="#facs_92_r1l8" n="N007"/>Mitls Anbringen de ps: 7<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 740 N<hi style="superscript">o</hi> 1431 hat die Raggion <rs type="person" ref="wkfm__39394">Falquet und Puthon</rs> angezeiget das 
                <lb facs="#facs_92_r1l9" n="N008"/>der <rs type="person" ref="wkfm__42886">Bernhard Falquet</rs> und <rs type="person" ref="wkfm__47120">Ludwig Puthon</rs> eine Societaet unter sich errichtet <unclear>nach</unclear> <hi><unclear>angezeige</unclear></hi> Ausweisung
-               <lb facs="#facs_92_r1l10" n="N009"/>des unter ihnen den 16<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 739 <comment comment="vielleicht\u0020erst\u0020\u0022errichtet\u0020untern\u0022,\u0020dann\u0020ein\u0020\u0022-en\u0022\u0020über\u0020\u0022untern\u0022\u0020darüber\u0020geschrieben\u0020und\u0020den\u0020Rest\u0020ausgestrichen?">errichtet[en]<hi><unclear>untern</unclear></hi></comment> Societaets Contract von welchen selbe einen von dem <rs type="person" ref="wkfm__42886">Falquet</rs>
+               <lb facs="#facs_92_r1l10" n="N009"/>des unter ihnen den 16<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 739 <seg type="editorial_comment_seg">errichtet[en]<hi><unclear>untern</unclear></hi><note type="editorial_comment_note">vielleicht erst errichtet untern, dann ein -en über untern darüber geschrieben und den Rest ausgestrichen?</note></seg> Societaets Contract von welchen selbe einen von dem <rs type="person" ref="wkfm__42886">Falquet</rs>
                <lb facs="#facs_92_r1l11" n="N010"/><hi>certificirten</hi> <hi><unclear>Extrac</unclear></hi> untern 6<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 740 attestirten Extracten N<hi style="superscript">o</hi> 1941 eingeleget, kraft welchen die Societaet
                <lb facs="#facs_92_r1l12" n="N011"/>von 1<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 740 biß <choice><expan/><abbr>det:</abbr></choice> 744 <unclear>fürdauren</unclear>, jedweder 20000 fl einlagen, Gewün und Verlust <hi>gleic</hi> zu gleichen
                <lb facs="#facs_92_r1l13" n="N012"/>Theilen, jedweder in Handlungs affairen in solidum zu haften schuldig, und die Raggion <rs type="person" ref="wkfm__39394">Falquet und Puthon</rs>

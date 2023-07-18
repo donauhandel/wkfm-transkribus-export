@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3003" lry="4530" xml:id="facs_66">
+    <surface ulx="0" uly="0" lrx="3003" lry="4530" xml:id="facs_66">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0566.jpg" width="3003px" height="4530px"/>
          <graphic url="" width="3003px" height="4530px"/>
          <zone points="233,296 233,3731 2871,3731 2871,296" rendition="TextRegion" xml:id="facs_66_r1">
@@ -82,9 +82,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_66" n="66" xml:id="img_0066"/>
+            <pb facs="#facs_66" n="66" xml:id="img_0066"/>
             
-            <ab  facs="#facs_66_r1">
+            <ab facs="#facs_66_r1">
                <lb facs="#facs_66_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_66_r1l3" n="N002"/>In obigen Anbringen de ps: 10<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 727 N<hi style="superscript">o</hi> 1918 und oblatorien dd<hi style="superscript">to</hi> 12<hi style="superscript">ten</hi> Junii 726 N<hi style="superscript">o</hi>
                <lb facs="#facs_66_r1l4" n="N003"/>1115 hat der <rs type="person" ref="wkfm__46239">Hermann Fridrich Dohm</rs> und <rs type="person" ref="wkfm__22683">Johann Georg Ely</rs> angezeiget und kund

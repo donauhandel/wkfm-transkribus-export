@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2886" lry="4455" xml:id="facs_2">
+    <surface ulx="0" uly="0" lrx="2886" lry="4455" xml:id="facs_2">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1460.jpg" width="2886px" height="4455px"/>
          <zone points="297,173 297,3387 2829,3387 2829,173" rendition="TextRegion" xml:id="facs_2_r1">
             <zone points="1062,315 1128,312 1194,308 1260,306 1326,303 1392,302 1458,300 1525,299 1591,297 1657,296 1723,294 1789,294 1855,293 1921,291 1988,289 2054,287 2120,286 2186,282 2252,280 2318,276 2385,273 2385,173 2318,176 2252,180 2186,182 2120,186 2054,187 1988,189 1921,191 1855,193 1789,194 1723,194 1657,196 1591,197 1525,199 1458,200 1392,202 1326,203 1260,206 1194,208 1128,212 1062,215" rendition="Line" xml:id="facs_2_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_2" n="2" xml:id="img_0002"/>
+            <pb facs="#facs_2" n="2" xml:id="img_0002"/>
             
-            <ab  facs="#facs_2_r1">
+            <ab facs="#facs_2_r1">
                <lb facs="#facs_2_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_2_r1l2" n="N002"/>In obigem Anbringen de ps: 14<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 657 hat sich der <rs type="person" ref="wkfm__12722">Scheigl</rs>
                <lb facs="#facs_2_r1l3" n="N003"/>erklähret das er keinen interessenten habe

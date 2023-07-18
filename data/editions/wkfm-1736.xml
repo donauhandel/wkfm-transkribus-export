@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2886" lry="4476" xml:id="facs_30">
+    <surface ulx="0" uly="0" lrx="2886" lry="4476" xml:id="facs_30">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1736.jpg" width="2886px" height="4476px"/>
          <zone points="213,254 213,3450 2790,3450 2790,254" rendition="TextRegion" xml:id="facs_30_r1">
             <zone points="966,416 1029,408 1093,402 1157,398 1221,393 1285,391 1349,389 1412,388 1476,387 1540,387 1604,387 1668,387 1732,387 1796,387 1859,387 1923,386 1987,385 2051,383 2115,380 2179,375 2243,371 2243,254 2179,258 2115,263 2051,266 1987,268 1923,269 1859,270 1796,270 1732,270 1668,270 1604,270 1540,270 1476,270 1412,271 1349,272 1285,274 1221,276 1157,281 1093,285 1029,291 966,299" rendition="Line" xml:id="facs_30_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_30" n="30" xml:id="img_0030"/>
+            <pb facs="#facs_30" n="30" xml:id="img_0030"/>
             
-            <ab  facs="#facs_30_r1">
+            <ab facs="#facs_30_r1">
                <lb facs="#facs_30_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_30_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 797 hat sich der
                <lb facs="#facs_30_r1l3" n="N003"/><rs type="person" ref="wkfm__46966">Waldhör</rs> geäusseret, das er seine Handlung jederzeit allein geführet

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2872" lry="4455" xml:id="facs_136">
+    <surface ulx="0" uly="0" lrx="2872" lry="4455" xml:id="facs_136">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1594.jpg" width="2872px" height="4455px"/>
          <zone points="231,105 231,3256 2730,3256 2730,105" rendition="TextRegion" xml:id="facs_136_r1">
             <zone points="1014,246 1073,235 1133,225 1192,218 1252,212 1312,209 1371,207 1431,205 1491,204 1550,204 1610,205 1670,205 1729,207 1789,207 1849,207 1908,205 1968,202 2028,199 2087,194 2147,188 2207,180 2207,105 2147,113 2087,119 2028,124 1968,127 1908,130 1849,132 1789,132 1729,132 1670,130 1610,130 1550,129 1491,129 1431,130 1371,132 1312,134 1252,137 1192,143 1133,150 1073,160 1014,171" rendition="Line" xml:id="facs_136_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_136" n="136" xml:id="img_0136"/>
+            <pb facs="#facs_136" n="136" xml:id="img_0136"/>
             
-            <ab  facs="#facs_136_r1">
+            <ab facs="#facs_136_r1">
                <lb facs="#facs_136_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_136_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 14<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 733 N<hi style="superscript">o</hi> 723 hat sich 
                <lb facs="#facs_136_r1l4" n="N003"/>der <rs type="person" ref="wkfm__47495">Scharrer</rs> geäusseret, das er seine Handlung ohne 

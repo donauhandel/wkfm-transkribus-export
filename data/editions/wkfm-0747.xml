@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3095" lry="4496" xml:id="facs_79">
+    <surface ulx="0" uly="0" lrx="3095" lry="4496" xml:id="facs_79">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0747.jpg" width="3095px" height="4496px"/>
          <zone points="207,211 207,3069 2748,3069 2748,211" rendition="TextRegion" xml:id="facs_79_r1">
             <zone points="2600,347 2614,346 2640,343 2665,342 2690,339 2715,336 2741,331 2741,440 2715,445 2690,448 2665,451 2640,452 2614,455 2600,456" rendition="Line" xml:id="facs_79_line_1621548046209_907" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_79" n="79" xml:id="img_0079"/>
+            <pb facs="#facs_79" n="79" xml:id="img_0079"/>
             
-            <ab  facs="#facs_79_r1">
+            <ab facs="#facs_79_r1">
                <lb facs="#facs_79_line_1621548046209_907" n="N001"/>371
                <lb facs="#facs_79_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_79_r1l3" n="N003"/><rs type="person" ref="wkfm__9478">Vareille Johann Isaac</rs> K.K. Niderlags Verwanter

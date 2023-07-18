@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2982" lry="4436" xml:id="facs_34">
+    <surface ulx="0" uly="0" lrx="2982" lry="4436" xml:id="facs_34">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1218.jpg" width="2982px" height="4436px"/>
          <zone points="374,187 374,3330 2808,3326 2808,183" rendition="TextRegion" xml:id="facs_34_r1">
             <zone points="1211,274 1267,269 1324,265 1381,263 1438,262 1495,262 1552,262 1609,262 1666,263 1723,266 1780,267 1836,269 1893,272 1950,274 2007,277 2064,279 2121,281 2178,283 2235,284 2292,284 2349,283 2349,204 2292,205 2235,205 2178,204 2121,202 2064,200 2007,198 1950,195 1893,193 1836,190 1780,188 1723,187 1666,184 1609,183 1552,183 1495,183 1438,183 1381,184 1324,186 1267,190 1211,195" rendition="Line" xml:id="facs_34_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_34" n="34" xml:id="img_0034"/>
+            <pb facs="#facs_34" n="34" xml:id="img_0034"/>
             
-            <ab  facs="#facs_34_r1">
+            <ab facs="#facs_34_r1">
                <lb facs="#facs_34_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_34_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 557
                <lb facs="#facs_34_r1l3" n="N003"/>hat sich der <rs type="person" ref="wkfm__8812">Maiz</rs> geäusseret, das er seine Handlung ohne

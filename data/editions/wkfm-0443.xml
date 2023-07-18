@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3009" lry="4436" xml:id="facs_123">
+    <surface ulx="0" uly="0" lrx="3009" lry="4436" xml:id="facs_123">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0443.jpg" width="3009px" height="4436px"/>
          <zone points="233,227 233,3023 2803,3023 2803,227" rendition="TextRegion" xml:id="facs_123_r1">
             <zone points="2606,253 2778,253 2778,383 2606,383" rendition="Line" xml:id="facs_123_line_1629449154466_764" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_123" n="123" xml:id="img_0123"/>
+            <pb facs="#facs_123" n="123" xml:id="img_0123"/>
             
-            <ab  facs="#facs_123_r1">
+            <ab facs="#facs_123_r1">
                <lb facs="#facs_123_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_123_r1l2" n="N003"/><rs type="person" ref="wkfm__8799">Carignanj Pompeo</rs> hofbefreyter Handlsmann
                <lb facs="#facs_123_r1l3" n="N004"/>Firma ad Raggion

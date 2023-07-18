@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_204">
+    <surface ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_204">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0258.jpg" width="2934px" height="4501px"/>
          <zone points="188,241 188,3306 2739,3306 2739,241" rendition="TextRegion" xml:id="facs_204_r1">
             <zone points="768,351 851,347 934,342 1017,339 1100,337 1183,336 1266,335 1349,335 1432,335 1515,336 1598,336 1681,338 1764,338 1847,339 1930,339 2013,338 2096,336 2179,335 2262,332 2345,328 2429,323 2429,241 2345,246 2262,250 2179,253 2096,254 2013,256 1930,257 1847,257 1764,256 1681,256 1598,254 1515,254 1432,253 1349,253 1266,253 1183,254 1100,255 1017,257 934,260 851,265 768,269" rendition="Line" xml:id="facs_204_r1l1"/>
@@ -74,9 +74,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_204" n="204" xml:id="img_0204"/>
+            <pb facs="#facs_204" n="204" xml:id="img_0204"/>
             
-            <ab  facs="#facs_204_r1">
+            <ab facs="#facs_204_r1">
                <lb facs="#facs_204_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_204_r1l2" n="N002"/>In obigen Anbringen de ps: 15<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 738 N<hi style="superscript">o</hi> 124 hat sich der 
                <lb facs="#facs_204_r1l3" n="N003"/><rs type="person" ref="wkfm__47366">Preisinger</rs> erklähret daß er <hi>sein</hi> die von seinem Vatter <choice><expan/><abbr>sel.</abbr></choice>

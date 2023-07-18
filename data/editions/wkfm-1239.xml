@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3105" lry="4491" xml:id="facs_55">
+    <surface ulx="0" uly="0" lrx="3105" lry="4491" xml:id="facs_55">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1239.jpg" width="3105px" height="4491px"/>
          <zone points="162,133 162,2974 2770,2972 2770,131" rendition="TextRegion" xml:id="facs_55_r2">
             <zone points="2721,251 2615,251 2615,388 2721,388" rendition="Line" xml:id="facs_55_line_1624960755441_1005" subtype="page-number"/>
@@ -70,9 +70,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_55" n="55" xml:id="img_0055"/>
+            <pb facs="#facs_55" n="55" xml:id="img_0055"/>
             
-            <ab  facs="#facs_55_r2">
+            <ab facs="#facs_55_r2">
                <lb facs="#facs_55_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_55_r2l2" n="N003"/><rs type="person" ref="wkfm__46887">a Marcha Dominicus</rs> burgerlicher Handlsmann
                <lb facs="#facs_55_r2l3" n="N004"/>Firma ad Raggion

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2982" lry="4436" xml:id="facs_20">
+    <surface ulx="0" uly="0" lrx="2982" lry="4436" xml:id="facs_20">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1204.jpg" width="2982px" height="4436px"/>
          <zone points="150,142 150,3325 2787,3325 2787,142" rendition="TextRegion" xml:id="facs_20_r1">
             <zone points="1110,256 1163,251 1216,247 1270,244 1323,241 1376,240 1430,239 1483,239 1536,239 1590,241 1643,241 1696,242 1750,243 1803,244 1856,245 1910,245 1963,245 2016,245 2070,244 2123,242 2177,241 2177,144 2123,145 2070,147 2016,148 1963,148 1910,148 1856,148 1803,147 1750,146 1696,145 1643,144 1590,144 1536,142 1483,142 1430,142 1376,143 1323,144 1270,147 1216,150 1163,154 1110,159" rendition="Line" xml:id="facs_20_r1l1"/>
@@ -73,9 +73,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_20" n="20" xml:id="img_0020"/>
+            <pb facs="#facs_20" n="20" xml:id="img_0020"/>
             
-            <ab  facs="#facs_20_r1">
+            <ab facs="#facs_20_r1">
                <lb facs="#facs_20_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_20_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 550 hat der <rs type="person" ref="wkfm__3764">Martinelli</rs> sich
                <lb facs="#facs_20_r1l3" n="N003"/>geäusseret, daß nimmand an seinem Negotio antheil habe.

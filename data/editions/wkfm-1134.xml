@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2973" lry="4530" xml:id="facs_34">
+    <surface ulx="0" uly="0" lrx="2973" lry="4530" xml:id="facs_34">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1134.jpg" width="2973px" height="4530px"/>
          <zone points="288,177 288,3396 2841,3396 2841,177" rendition="TextRegion" xml:id="facs_34_r1">
             <zone points="1238,333 1293,329 1349,327 1405,324 1461,322 1517,321 1572,321 1628,319 1684,319 1740,319 1796,321 1851,321 1907,321 1963,321 2019,321 2075,321 2130,321 2186,321 2242,319 2298,319 2354,316 2354,177 2298,180 2242,180 2186,182 2130,182 2075,182 2019,182 1963,182 1907,182 1851,182 1796,182 1740,180 1684,180 1628,180 1572,182 1517,182 1461,183 1405,185 1349,188 1293,190 1238,194" rendition="Line" xml:id="facs_34_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_34" n="34" xml:id="img_0034"/>
+            <pb facs="#facs_34" n="34" xml:id="img_0034"/>
             
-            <ab  facs="#facs_34_r1">
+            <ab facs="#facs_34_r1">
                <lb facs="#facs_34_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_34_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 521 hat sich der
                <lb facs="#facs_34_r1l3" n="N003"/><rs type="person" ref="wkfm__8514">Lindtner</rs> geäusseret das er keinen Compagnon habe.

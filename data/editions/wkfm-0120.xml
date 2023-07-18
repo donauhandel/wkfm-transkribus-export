@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2991" lry="4407" xml:id="facs_67">
+    <surface ulx="0" uly="0" lrx="2991" lry="4407" xml:id="facs_67">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0120.jpg" width="2991px" height="4407px"/>
          <zone points="171,128 171,2957 2622,2957 2622,128" rendition="TextRegion" xml:id="facs_67_r1">
             <zone points="2505,207 2534,206 2563,207 2592,207 2622,204 2622,131 2592,134 2563,134 2534,133 2505,134" rendition="Line" xml:id="facs_67_r1l1" subtype="page-number"/>
@@ -70,9 +70,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_67" n="67" xml:id="img_0067"/>
+            <pb facs="#facs_67" n="67" xml:id="img_0067"/>
             
-            <ab  facs="#facs_67_r1">
+            <ab facs="#facs_67_r1">
                <lb facs="#facs_67_r1l1" n="N001"/>58
                <lb facs="#facs_67_r1l2" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_67_r1l3" n="N003"/><rs type="person" ref="wkfm__43853">Polzer Johann Ferdinand</rs> burgerlicher Handlsmann

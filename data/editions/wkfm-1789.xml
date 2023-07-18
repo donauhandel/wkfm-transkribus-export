@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2951" lry="4468" xml:id="facs_83">
+    <surface ulx="0" uly="0" lrx="2951" lry="4468" xml:id="facs_83">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1789.jpg" width="2951px" height="4468px"/>
          <zone points="83,226 83,3012 2838,3011 2838,225" rendition="TextRegion" xml:id="facs_83_r1">
             <zone points="2682,255 2831,255 2831,397 2682,397" rendition="Line" xml:id="facs_83_line_1626183535518_1010" subtype="page-number"/>
@@ -78,9 +78,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_83" n="83" xml:id="img_0083"/>
+            <pb facs="#facs_83" n="83" xml:id="img_0083"/>
             
-            <ab  facs="#facs_83_r1">
+            <ab facs="#facs_83_r1">
                <lb facs="#facs_83_line_1626183535518_1010" n="N001"/>887
                <lb facs="#facs_83_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_83_r1l2" n="N003"/><rs type="person" ref="wkfm__24036">Wilckens</rs> kay: könig: Niderlags Verwanter

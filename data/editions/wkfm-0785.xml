@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3095" lry="4496" xml:id="facs_117">
+    <surface ulx="0" uly="0" lrx="3095" lry="4496" xml:id="facs_117">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0785.jpg" width="3095px" height="4496px"/>
          <zone points="254,210 254,3007 2816,3020 2816,223" rendition="TextRegion" xml:id="facs_117_r1">
             <zone points="2675,397 2804,397 2804,496 2675,496" rendition="Line" xml:id="facs_117_line_1629293537276_1275" subtype="page-number"/>
@@ -70,9 +70,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_117" n="117" xml:id="img_0117"/>
+            <pb facs="#facs_117" n="117" xml:id="img_0117"/>
             
-            <ab  facs="#facs_117_r1">
+            <ab facs="#facs_117_r1">
                <lb facs="#facs_117_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_117_r1l2" n="N003"/><rs type="person" ref="wkfm__47150">Fiegelmillner Joseph</rs> burgerlicher Handlsmann
                <lb facs="#facs_117_r1l3" n="N004"/>Firma ad Raggion

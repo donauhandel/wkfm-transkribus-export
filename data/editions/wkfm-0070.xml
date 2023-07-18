@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3135" lry="4568" xml:id="facs_17">
+    <surface ulx="0" uly="0" lrx="3135" lry="4568" xml:id="facs_17">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0070.jpg" width="3135px" height="4568px"/>
          <graphic url="" width="3135px" height="4568px"/>
          <zone points="164,215 164,4053 2850,4053 2850,215" rendition="TextRegion" xml:id="facs_17_r2">
@@ -95,9 +95,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_17" n="17" xml:id="img_0017"/>
+            <pb facs="#facs_17" n="17" xml:id="img_0017"/>
             
-            <ab  facs="#facs_17_r2">
+            <ab facs="#facs_17_r2">
                <lb facs="#facs_17_r2l2" n="N001"/>33
                <lb facs="#facs_17_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_17_r2l3" n="N003"/><rs type="person" ref="wkfm__4694">Perinet Johann Baptista</rs> K. K. Niederlags Verwanter

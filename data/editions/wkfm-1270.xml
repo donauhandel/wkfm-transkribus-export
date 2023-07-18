@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3019" lry="4503" xml:id="facs_86">
+    <surface ulx="0" uly="0" lrx="3019" lry="4503" xml:id="facs_86">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1270.jpg" width="3019px" height="4503px"/>
          <zone points="359,27 359,3187 2958,3187 2958,27" rendition="TextRegion" xml:id="facs_86_r1">
             <zone points="1256,289 1315,284 1375,280 1435,277 1495,275 1555,274 1615,274 1674,272 1734,274 1794,274 1854,274 1914,275 1974,275 2034,275 2093,275 2153,275 2213,274 2273,271 2333,269 2393,264 2453,259 2453,172 2393,177 2333,182 2273,184 2213,187 2153,188 2093,188 2034,188 1974,188 1914,188 1854,187 1794,187 1734,187 1674,185 1615,187 1555,187 1495,188 1435,190 1375,193 1315,197 1256,202" rendition="Line" xml:id="facs_86_r1l1"/>
@@ -72,9 +72,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_86" n="86" xml:id="img_0086"/>
+            <pb facs="#facs_86" n="86" xml:id="img_0086"/>
             
-            <ab  facs="#facs_86_r1">
+            <ab facs="#facs_86_r1">
                <lb facs="#facs_86_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_86_r1l2" n="N002"/><hi>Mitls Anbringen de ps 21<hi style="superscript"/></hi>ten
                <lb facs="#facs_86_r1l3" n="N003"/>In obiger Erklährung sine dato N<hi style="superscript">o</hi> 284 hat der <rs type="person" ref="wkfm__46273">Merkhl</rs> mit dem 

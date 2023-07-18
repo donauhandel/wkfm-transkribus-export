@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3086" lry="4491" xml:id="facs_15">
+    <surface ulx="0" uly="0" lrx="3086" lry="4491" xml:id="facs_15">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1199.jpg" width="3086px" height="4491px"/>
          <graphic url="" width="3086px" height="4491px"/>
          <zone points="292,107 260,2976 2818,2975 2850,106" rendition="TextRegion" xml:id="facs_15_r2">
@@ -70,9 +70,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_15" n="15" xml:id="img_0015"/>
+            <pb facs="#facs_15" n="15" xml:id="img_0015"/>
             
-            <ab  facs="#facs_15_r2">
+            <ab facs="#facs_15_r2">
                <lb facs="#facs_15_line_1624962831666_2343" n="N001"/>593
                <lb facs="#facs_15_line_1624962803156_2312" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_15_r2l1" n="N003"/><rs type="person" ref="wkfm__46860">Mobré<hi><unclear>r</unclear></hi> Peter</rs> hofbefreyter Handlsmann

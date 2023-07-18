@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3105" lry="4455" xml:id="facs_3">
+    <surface ulx="0" uly="0" lrx="3105" lry="4455" xml:id="facs_3">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1331.jpg" width="3105px" height="4455px"/>
          <zone points="249,168 249,2946 2906,2946 2906,168" rendition="TextRegion" xml:id="facs_3_r1">
             <zone points="2652,357 2677,359 2703,361 2729,363 2754,363 2780,363 2806,361 2832,358 2832,292 2806,295 2780,297 2754,297 2729,297 2703,295 2677,293 2652,291" rendition="Line" xml:id="facs_3_r1l2" subtype="page-number"/>
@@ -72,9 +72,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_3" n="3" xml:id="img_0003"/>
+            <pb facs="#facs_3" n="3" xml:id="img_0003"/>
             
-            <ab  facs="#facs_3_r1">
+            <ab facs="#facs_3_r1">
                <lb facs="#facs_3_r1l2" n="N001"/>658
                <lb facs="#facs_3_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_3_r1l3" n="N003"/><rs type="person" ref="wkfm__15430">Orsset Johann</rs> burgerlicher Handlsmann

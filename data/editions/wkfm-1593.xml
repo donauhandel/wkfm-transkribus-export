@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2880" lry="4477" xml:id="facs_135">
+    <surface ulx="0" uly="0" lrx="2880" lry="4477" xml:id="facs_135">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1593.jpg" width="2880px" height="4477px"/>
          <zone points="203,135 203,2926 2735,2926 2735,135" rendition="TextRegion" xml:id="facs_135_r1">
             <zone points="2600,323 2627,323 2654,325 2681,327 2708,328 2735,329 2735,286 2708,285 2681,284 2654,282 2627,280 2600,280" rendition="Line" xml:id="facs_135_r1l2" subtype="page-number"/>
@@ -70,9 +70,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_135" n="135" xml:id="img_0135"/>
+            <pb facs="#facs_135" n="135" xml:id="img_0135"/>
             
-            <ab  facs="#facs_135_r1">
+            <ab facs="#facs_135_r1">
                <lb facs="#facs_135_r1l2" n="N001"/>789
                <lb facs="#facs_135_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_135_r1l4" n="N003"/><rs type="person" ref="wkfm__47495">Scharrer Matthias Jacob</rs> burgerlicher Handlsmann

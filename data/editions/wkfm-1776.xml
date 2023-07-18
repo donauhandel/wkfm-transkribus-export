@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2886" lry="4476" xml:id="facs_70">
+    <surface ulx="0" uly="0" lrx="2886" lry="4476" xml:id="facs_70">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1776.jpg" width="2886px" height="4476px"/>
          <zone points="177,240 177,3395 2730,3395 2730,240" rendition="TextRegion" xml:id="facs_70_r1">
             <zone points="906,380 961,371 1017,365 1072,359 1128,356 1183,353 1239,351 1294,350 1350,348 1405,348 1461,350 1516,350 1572,351 1627,351 1683,353 1738,353 1794,354 1849,354 1905,354 1960,353 2016,351 2016,243 1960,245 1905,246 1849,246 1794,246 1738,245 1683,245 1627,243 1572,243 1516,242 1461,242 1405,240 1350,240 1294,242 1239,243 1183,245 1128,248 1072,251 1017,257 961,263 906,272" rendition="Line" xml:id="facs_70_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_70" n="70" xml:id="img_0070"/>
+            <pb facs="#facs_70" n="70" xml:id="img_0070"/>
             
-            <ab  facs="#facs_70_r1">
+            <ab facs="#facs_70_r1">
                <lb facs="#facs_70_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_70_r1l2" n="N002"/>In obiger Erkährung dd<hi style="superscript">to</hi> 8<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 729 N<hi style="superscript">o</hi> 815 hat sich der
                <lb facs="#facs_70_r1l3" n="N003"/><rs type="person" ref="wkfm__47000">Wimmer</rs> geäusseret, daß er keinen Compagnon habe

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3039" lry="4521" xml:id="facs_142">
+    <surface ulx="0" uly="0" lrx="3039" lry="4521" xml:id="facs_142">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0195.jpg" width="3039px" height="4521px"/>
          <graphic url="" width="3039px" height="4521px"/>
          <zone points="120,189 120,4281 2807,4281 2807,189" rendition="TextRegion" xml:id="facs_142_r1">
@@ -109,9 +109,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_142" n="142" xml:id="img_0142"/>
+            <pb facs="#facs_142" n="142" xml:id="img_0142"/>
             
-            <ab  facs="#facs_142_r1">
+            <ab facs="#facs_142_r1">
                <lb facs="#facs_142_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_142_r1l2" n="N002"/>Mitls obigen Anbringen de ps: 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 2039 hat die  Raggion <rs type="person" ref="wkfm__43903">Carl Joseph Starkh und
                <lb break="no" facs="#facs_142_r1l3" n="N003"/><expan/><abbr><rs type="person" ref="wkfm__43903">Compag:</rs></abbr></rs> angezeiget, daß unter dieser Raggion der <rs type="person" ref="wkfm__10683">Carl Joseph Starkh</rs> und <rs type="person" ref="wkfm__36354">Johann
@@ -133,7 +133,7 @@
                <lb facs="#facs_142_r1l19" n="N019"/>Laut Anbringen de ps: 5<hi style="superscript">ten</hi> <choice><expan/><abbr>Jul:</abbr></choice> 731 N<hi style="superscript">o</hi> 1858 und oblatorien dd<hi style="superscript">to</hi> 30<hi style="superscript">ten</hi> Junii d. a. hat <rs type="person" ref="wkfm__36354">Bormastino der
                <lb break="no" facs="#facs_142_line_1621466883827_2407" n="N020"/>jüngere</rs> die Erklährung gemacht, das das Negotium unter der Raggion <rs type="person" ref="wkfm__43903">Carl Joseph Starkh
                <lb break="no" facs="#facs_142_r1l22" n="N021"/>und <choice><expan/><abbr>Compag:</abbr></choice></rs> nebst dieser Raggion ihre gänzlich Endschafft mit 30<hi style="superscript">ten</hi> <choice><expan/><abbr>Jan:</abbr></choice> d. a. erreicht <hi>0</hi>
-               <lb facs="#facs_142_r1l23" n="N022"/>Heuraths <comment comment="Der\u0020folgende\u0020Text\u0020ist\u0020der\u0020Abschluss\u0020der\u0020vorigen\u0020Rubrik\u0020und\u0020betrifft\u0020nicht\u0020die\u0020Heiratsverträge">Contract</comment>
+               <lb facs="#facs_142_r1l23" n="N022"/>Heuraths <seg type="editorial_comment_seg">Contract<note type="editorial_comment_note">Der folgende Text ist der Abschluss der vorigen Rubrik und betrifft nicht die Heiratsverträge</note></seg>
                <lb facs="#facs_142_r1l24" n="N023"/><hi>0</hi> habe, und nunmehro unter der Raggion <rs type="person" ref="wkfm__36354">Johann Anton Bormastino der
                <lb break="no" facs="#facs_142_r1l25" n="N024"/>jüngere</rs> mit <choice><expan>Interesse</expan><abbr>intee</abbr></choice>. deren <rs type="person" ref="wkfm__9133">Bormastino e Butterna</rs> laufen werde.
                <lb facs="#facs_142_line_1621466944751_2435" n="N025"/>Mitls Anbringen de ps: 10<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 740 N<hi style="superscript">o</hi> 1171 hat <rs type="person" ref="wkfm__36354">Johann Anton Bormastino der jüngere</rs>
@@ -147,7 +147,7 @@
                <lb facs="#facs_142_line_1621467329195_2563" n="N033"/>von 60000 fl herzustellen schuldig seyn, denenselben aber von denen <rs type="person" ref="wkfm__46400">beiden Heimmerl</rs> 20000 fl
                <lb facs="#facs_142_r1l39" n="N034"/>dann der <rs type="person" ref="wkfm__16922">Hochmayr</rs> 10000 fl baar bezahlet werden, das Negotium unter dem Nahmen
                <lb facs="#facs_142_r1l40" n="N035"/><rs type="person" ref="wkfm__36354">Johann Anton Bormastino der jüngere</rs>, die Firma und directivo desselben von dem <hi>0</hi>
-               <lb facs="#facs_142_r1l41" n="N036"/><comment comment="Der\u0020folgenden\u0020Text\u0020gehört\u0020noch\u0020immer\u0020zur\u0020Rubrik\u0020\u0022Societaets\u0020Contract\u0020und\u0020Interessenten\u0022">Anmerkungen</comment>
+               <lb facs="#facs_142_r1l41" n="N036"/><seg type="editorial_comment_seg">Anmerkungen<note type="editorial_comment_note">Der folgenden Text gehört noch immer zur Rubrik Societaets Contract und Interessenten</note></seg>
                <lb facs="#facs_142_r1l42" n="N037"/><hi>0</hi> <rs type="person" ref="wkfm__16922">Hochmayr</rs> geführet werden. Der <rs type="person" ref="wkfm__36354">Johann Anton Bormastino der jüngere</rs> <unclear>zu</unclear>
                <lb facs="#facs_142_r1l43" n="N038"/>selben kein Capital in der Handlung ligen hat, solle hierann keine <unclear>Anforderung</unclear>
                <lb facs="#facs_142_r1l44" n="N039"/>haben, jedoch demselben wegen darleihenden Nahmen und Hoffreyheit zu <unclear>eine</unclear>

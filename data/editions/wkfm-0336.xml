@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_16">
+    <surface ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_16">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0336.jpg" width="2934px" height="4501px"/>
          <zone points="234,216 234,3349 2796,3349 2796,216" rendition="TextRegion" xml:id="facs_16_r1">
             <zone points="800,327 872,321 944,318 1016,315 1088,312 1160,310 1232,309 1304,309 1376,309 1448,309 1520,309 1592,310 1664,310 1736,312 1808,312 1880,312 1952,312 2024,312 2096,312 2168,310 2240,309 2240,216 2168,217 2096,219 2024,219 1952,219 1880,219 1808,219 1736,219 1664,217 1592,217 1520,216 1448,216 1376,216 1304,216 1232,216 1160,217 1088,219 1016,222 944,225 872,228 800,234" rendition="Line" xml:id="facs_16_r1l1"/>
@@ -70,9 +70,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_16" n="16" xml:id="img_0016"/>
+            <pb facs="#facs_16" n="16" xml:id="img_0016"/>
             
-            <ab  facs="#facs_16_r1">
+            <ab facs="#facs_16_r1">
                <lb facs="#facs_16_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_16_r1l2" n="N002"/>In obigen Anbringen de ps: 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 1893 hat sich der <rs type="person" ref="wkfm__18128">Consoni</rs>
                <lb facs="#facs_16_r1l3" n="N003"/>erklähret, daß er keinen Interessenten habe als seinen Nipote <rs type="person" ref="wkfm__17087">Caspar Consoni</rs>

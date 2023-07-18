@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_244">
+    <surface ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_244">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0298.jpg" width="2934px" height="4501px"/>
          <zone points="324,236 324,3408 2391,3408 2391,236" rendition="TextRegion" xml:id="facs_244_r1">
             <zone points="912,366 983,359 1054,352 1125,347 1196,342 1268,338 1339,336 1410,333 1481,332 1552,330 1624,330 1695,329 1766,329 1837,329 1908,330 1980,330 2051,330 2122,329 2193,329 2264,328 2336,326 2336,236 2264,238 2193,239 2122,239 2051,240 1980,240 1908,240 1837,239 1766,239 1695,239 1624,240 1552,240 1481,242 1410,243 1339,246 1268,248 1196,252 1125,257 1054,262 983,269 912,276" rendition="Line" xml:id="facs_244_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_244" n="244" xml:id="img_0244"/>
+            <pb facs="#facs_244" n="244" xml:id="img_0244"/>
             
-            <ab  facs="#facs_244_r1">
+            <ab facs="#facs_244_r1">
                <lb facs="#facs_244_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_244_r1l2" n="N002"/><seg type="wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_244_r1l3" n="N003"/><seg type="wedding_contract">Heuraths Contract</seg> mit <rs type="person" ref="wkfm__43985">Maria Theresia Peternaderin</rs>

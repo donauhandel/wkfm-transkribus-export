@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2973" lry="4391" xml:id="facs_79">
+    <surface ulx="0" uly="0" lrx="2973" lry="4391" xml:id="facs_79">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1431.jpg" width="2973px" height="4391px"/>
          <graphic url="" width="2973px" height="4391px"/>
          <zone points="140,186 140,3409 2744,3409 2744,186" rendition="TextRegion" xml:id="facs_79_r2">
@@ -74,9 +74,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_79" n="79" xml:id="img_0079"/>
+            <pb facs="#facs_79" n="79" xml:id="img_0079"/>
             
-            <ab  facs="#facs_79_r2">
+            <ab facs="#facs_79_r2">
                <lb facs="#facs_79_r2l2" n="N001"/>708
                <lb facs="#facs_79_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_79_r2l3" n="N003"/><rs type="person" ref="wkfm__46745">Reisinger Johann Michäl</rs> burgerlicher Handlsmann

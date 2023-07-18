@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2925" lry="4473" xml:id="facs_134">
+    <surface ulx="0" uly="0" lrx="2925" lry="4473" xml:id="facs_134">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0187.jpg" width="2925px" height="4473px"/>
          <zone points="392,208 392,3334 2754,3334 2754,208" rendition="TextRegion" xml:id="facs_134_r1">
             <zone points="861,251 935,250 1010,250 1084,251 1159,254 1234,257 1308,260 1383,265 1458,269 1532,274 1607,279 1682,284 1756,289 1831,293 1906,297 1980,301 2055,302 2130,304 2204,304 2279,302 2354,299 2354,257 2279,260 2204,262 2130,262 2055,260 1980,259 1906,255 1831,251 1756,247 1682,242 1607,237 1532,232 1458,227 1383,223 1308,218 1234,215 1159,212 1084,209 1010,208 935,208 861,209" rendition="Line" xml:id="facs_134_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_134" n="134" xml:id="img_0134"/>
+            <pb facs="#facs_134" n="134" xml:id="img_0134"/>
             
-            <ab  facs="#facs_134_r1">
+            <ab facs="#facs_134_r1">
                <lb facs="#facs_134_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_134_line_1621465586884_2093" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 15<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 730 N<hi style="superscript">o</hi> 1855 hat sich der <rs type="person" ref="wkfm__43896">Pillitischotti</rs> geäusseret
                <lb facs="#facs_134_r1l5" n="N003"/>daß er zu dem <rs type="person" ref="wkfm__43898">Franz Fischer</rs> in Compagnie getretten seye

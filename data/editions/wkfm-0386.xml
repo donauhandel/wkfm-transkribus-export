@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_66">
+    <surface ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_66">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0386.jpg" width="2934px" height="4501px"/>
          <zone points="282,233 282,3366 2826,3366 2826,233" rendition="TextRegion" xml:id="facs_66_r1">
             <zone points="965,357 1032,347 1100,339 1167,332 1235,327 1302,323 1370,320 1437,318 1505,317 1572,317 1640,317 1707,318 1775,318 1842,320 1910,320 1977,320 2045,320 2112,320 2180,319 2247,317 2315,314 2315,233 2247,236 2180,238 2112,239 2045,239 1977,239 1910,239 1842,239 1775,237 1707,237 1640,236 1572,236 1505,236 1437,237 1370,239 1302,242 1235,246 1167,251 1100,258 1032,266 965,276" rendition="Line" xml:id="facs_66_r1l1"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_66" n="66" xml:id="img_0066"/>
+            <pb facs="#facs_66" n="66" xml:id="img_0066"/>
             
-            <ab  facs="#facs_66_r1">
+            <ab facs="#facs_66_r1">
                <lb facs="#facs_66_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_66_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 191 hat sich
                <lb facs="#facs_66_r1l3" n="N003"/>der <rs type="person" ref="wkfm__8096">Cheret</rs> geäusseret das er in keiner Compagnie stehe.

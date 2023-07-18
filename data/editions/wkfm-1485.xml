@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3108" lry="4477" xml:id="facs_27">
+    <surface ulx="0" uly="0" lrx="3108" lry="4477" xml:id="facs_27">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1485.jpg" width="3108px" height="4477px"/>
          <zone points="164,170 164,2944 2850,2944 2850,170" rendition="TextRegion" xml:id="facs_27_r2">
             <zone points="2697,334 2722,339 2748,343 2773,344 2799,344 2824,344 2850,343 2850,274 2824,275 2799,275 2773,275 2748,274 2722,270 2697,265" rendition="Line" xml:id="facs_27_r2l2" subtype="page-number"/>
@@ -75,9 +75,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_27" n="27" xml:id="img_0027"/>
+            <pb facs="#facs_27" n="27" xml:id="img_0027"/>
             
-            <ab  facs="#facs_27_r2">
+            <ab facs="#facs_27_r2">
                <lb facs="#facs_27_r2l2" n="N001"/>735
                <lb facs="#facs_27_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_27_r2l3" n="N003"/><rs type="person" ref="wkfm__6108">Schmidt Johann Adam</rs> burgerlicher Handlsmann

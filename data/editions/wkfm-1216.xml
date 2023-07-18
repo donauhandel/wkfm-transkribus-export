@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2982" lry="4436" xml:id="facs_32">
+    <surface ulx="0" uly="0" lrx="2982" lry="4436" xml:id="facs_32">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1216.jpg" width="2982px" height="4436px"/>
          <zone points="432,155 432,3355 2829,3355 2829,155" rendition="TextRegion" xml:id="facs_32_r1">
             <zone points="1266,311 1323,308 1381,307 1438,305 1496,305 1554,305 1611,305 1669,307 1726,307 1784,308 1842,310 1899,311 1957,313 2014,314 2072,315 2130,316 2187,316 2245,316 2302,314 2360,313 2418,311 2418,161 2360,163 2302,164 2245,166 2187,166 2130,166 2072,165 2014,164 1957,163 1899,161 1842,160 1784,158 1726,157 1669,157 1611,155 1554,155 1496,155 1438,155 1381,157 1323,158 1266,161" rendition="Line" xml:id="facs_32_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_32" n="32" xml:id="img_0032"/>
+            <pb facs="#facs_32" n="32" xml:id="img_0032"/>
             
-            <ab  facs="#facs_32_r1">
+            <ab facs="#facs_32_r1">
                <lb facs="#facs_32_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_32_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 556 hat sich
                <lb facs="#facs_32_r1l3" n="N003"/>der <rs type="person" ref="wkfm__9008">Mäzinger</rs> geäusseret, das er keine interessenten habe.

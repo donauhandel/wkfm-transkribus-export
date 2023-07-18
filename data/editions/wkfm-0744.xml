@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_76">
+    <surface ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_76">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0744.jpg" width="2994px" height="4530px"/>
          <zone points="429,240 429,3432 2895,3432 2895,240" rendition="TextRegion" xml:id="facs_76_r1">
             <zone points="1346,380 1402,373 1458,368 1514,366 1571,362 1627,360 1683,359 1739,357 1796,357 1852,357 1908,357 1964,357 2021,357 2077,357 2133,357 2189,357 2246,357 2302,356 2358,354 2414,352 2471,348 2471,240 2414,244 2358,246 2302,248 2246,249 2189,249 2133,249 2077,249 2021,249 1964,249 1908,249 1852,249 1796,249 1739,249 1683,251 1627,252 1571,254 1514,258 1458,260 1402,265 1346,272" rendition="Line" xml:id="facs_76_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_76" n="76" xml:id="img_0076"/>
+            <pb facs="#facs_76" n="76" xml:id="img_0076"/>
             
-            <ab  facs="#facs_76_r1">
+            <ab facs="#facs_76_r1">
                <lb facs="#facs_76_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_76_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 23<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 730 N<hi style="superscript">o</hi> 351 hat sich
                <lb facs="#facs_76_r1l3" n="N003"/>der <rs type="person" ref="wkfm__47106">Fihrling</rs> geäusseret, daß er seine Handlung ohne Compa[gnon]

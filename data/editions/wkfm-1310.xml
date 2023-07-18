@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2940" lry="4464" xml:id="facs_18">
+    <surface ulx="0" uly="0" lrx="2940" lry="4464" xml:id="facs_18">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1310.jpg" width="2940px" height="4464px"/>
          <zone points="336,143 336,3241 2796,3241 2796,143" rendition="TextRegion" xml:id="facs_18_r1">
             <zone points="1091,310 1155,303 1219,295 1283,290 1347,285 1411,282 1475,279 1539,277 1603,274 1667,274 1731,273 1795,273 1859,271 1923,271 1987,270 2051,269 2115,268 2179,265 2243,263 2307,259 2372,255 2372,143 2307,147 2243,151 2179,153 2115,156 2051,157 1987,158 1923,159 1859,159 1795,161 1731,161 1667,162 1603,162 1539,165 1475,167 1411,170 1347,173 1283,178 1219,183 1155,191 1091,198" rendition="Line" xml:id="facs_18_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_18" n="18" xml:id="img_0018"/>
+            <pb facs="#facs_18" n="18" xml:id="img_0018"/>
             
-            <ab  facs="#facs_18_r1">
+            <ab facs="#facs_18_r1">
                <lb facs="#facs_18_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_18_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 26<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 729 N<hi style="superscript">o</hi> 605 hat sich der
                <lb facs="#facs_18_r1l3" n="N003"/><rs type="person" ref="wkfm__12736">Neymaister</rs> geäusseret, das er seine Handlung ohne Compagno führe

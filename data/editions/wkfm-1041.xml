@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3057" lry="4521" xml:id="facs_121">
+    <surface ulx="0" uly="0" lrx="3057" lry="4521" xml:id="facs_121">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1041.jpg" width="3057px" height="4521px"/>
          <zone points="130,208 130,3057 2772,3057 2772,208" rendition="TextRegion" xml:id="facs_121_r2">
             <zone points="2642,398 2668,399 2694,398 2720,398 2746,397 2772,396 2772,305 2746,306 2720,307 2694,307 2668,308 2642,307" rendition="Line" xml:id="facs_121_r2l2" subtype="page-number"/>
@@ -71,9 +71,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_121" n="121" xml:id="img_0121"/>
+            <pb facs="#facs_121" n="121" xml:id="img_0121"/>
             
-            <ab  facs="#facs_121_r2">
+            <ab facs="#facs_121_r2">
                <lb facs="#facs_121_r2l2" n="N001"/>514
                <lb facs="#facs_121_r2l1" n="N003"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_121_r2l3" n="N004"/><rs type="person" ref="wkfm__46550">Haberpichler Martin</rs> burgerlicher Handlsmann

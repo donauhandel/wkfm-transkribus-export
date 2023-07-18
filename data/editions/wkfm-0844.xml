@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_32">
+    <surface ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_32">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0844.jpg" width="2994px" height="4530px"/>
          <zone points="359,290 359,3460 2835,3460 2835,290" rendition="TextRegion" xml:id="facs_32_r1">
             <zone points="1217,412 1283,409 1350,406 1417,405 1484,403 1550,403 1617,404 1684,405 1751,406 1817,406 1884,408 1951,409 2018,410 2084,411 2151,411 2218,411 2285,411 2351,409 2418,408 2485,405 2552,402 2552,290 2485,293 2418,296 2351,297 2285,299 2218,299 2151,299 2084,299 2018,298 1951,297 1884,296 1817,294 1751,294 1684,293 1617,292 1550,291 1484,291 1417,293 1350,294 1283,297 1217,300" rendition="Line" xml:id="facs_32_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_32" n="32" xml:id="img_0032"/>
+            <pb facs="#facs_32" n="32" xml:id="img_0032"/>
             
-            <ab  facs="#facs_32_r1">
+            <ab facs="#facs_32_r1">
                <lb facs="#facs_32_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_32_r1l2" n="N002"/>In obigen Anbringen dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 395 hat sich der
                <lb facs="#facs_32_r1l3" n="N003"/><rs type="person" ref="wkfm__41439">Gierardi</rs> geäusseret, das er sein negotium ohne Compagnon

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_42">
+    <surface ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_42">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0710.jpg" width="2994px" height="4530px"/>
          <zone points="429,206 429,3393 2916,3393 2916,206" rendition="TextRegion" xml:id="facs_42_r1">
             <zone points="1191,321 1256,319 1322,318 1387,318 1453,319 1519,319 1584,321 1650,322 1716,324 1781,325 1847,328 1913,330 1978,333 2044,334 2110,336 2175,337 2241,339 2307,339 2372,339 2438,339 2504,337 2504,225 2438,227 2372,227 2307,227 2241,227 2175,225 2110,224 2044,222 1978,221 1913,218 1847,216 1781,213 1716,212 1650,210 1584,209 1519,207 1453,207 1387,206 1322,206 1256,207 1191,209" rendition="Line" xml:id="facs_42_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_42" n="42" xml:id="img_0042"/>
+            <pb facs="#facs_42" n="42" xml:id="img_0042"/>
             
-            <ab  facs="#facs_42_r1">
+            <ab facs="#facs_42_r1">
                <lb facs="#facs_42_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_42_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 336 hat sich der
                <lb facs="#facs_42_r1l3" n="N003"/><rs type="person" ref="wkfm__8188">Visconti</rs> geäusseret, das er keinen Compagnon noch interessenten

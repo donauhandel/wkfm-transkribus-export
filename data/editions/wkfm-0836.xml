@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_24">
+    <surface ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_24">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0836.jpg" width="2994px" height="4530px"/>
          <zone points="327,274 327,3495 2826,3495 2826,274" rendition="TextRegion" xml:id="facs_24_r1">
             <zone points="1169,398 1236,395 1303,393 1370,392 1437,392 1505,390 1572,390 1639,390 1706,390 1773,390 1841,390 1908,390 1975,389 2042,389 2109,388 2177,387 2244,386 2311,384 2378,381 2445,377 2513,374 2513,274 2445,277 2378,281 2311,284 2244,286 2177,287 2109,288 2042,289 1975,289 1908,290 1841,290 1773,290 1706,290 1639,290 1572,290 1505,290 1437,292 1370,292 1303,293 1236,295 1169,298" rendition="Line" xml:id="facs_24_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_24" n="24" xml:id="img_0024"/>
+            <pb facs="#facs_24" n="24" xml:id="img_0024"/>
             
-            <ab  facs="#facs_24_r1">
+            <ab facs="#facs_24_r1">
                <lb facs="#facs_24_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_24_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 391 hat sich
                <lb facs="#facs_24_r1l3" n="N003"/>der <rs type="person" ref="wkfm__17436">Gallermayr</rs> geäusserert, daß er <hi>mit keinen</hi> weder hier

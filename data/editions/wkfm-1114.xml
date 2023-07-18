@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2973" lry="4530" xml:id="facs_14">
+    <surface ulx="0" uly="0" lrx="2973" lry="4530" xml:id="facs_14">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1114.jpg" width="2973px" height="4530px"/>
          <graphic url="" width="2973px" height="4530px"/>
          <zone points="246,196 246,3392 2814,3392 2814,196" rendition="TextRegion" xml:id="facs_14_r1">
@@ -68,9 +68,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_14" n="14" xml:id="img_0014"/>
+            <pb facs="#facs_14" n="14" xml:id="img_0014"/>
             
-            <ab  facs="#facs_14_r1">
+            <ab facs="#facs_14_r1">
                <lb facs="#facs_14_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_14_r1l2" n="N002"/>In obigen Anbringen de ps: 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 511 hat sich der <rs type="person" ref="wkfm__8266">Legoux</rs>
                <lb facs="#facs_14_r1l3" n="N003"/>erklähret, daß er sein negotium mit eigenen <choice><expan/><abbr>intee</abbr></choice> und obligo ohne

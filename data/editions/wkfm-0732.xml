@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_64">
+    <surface ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_64">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0732.jpg" width="2994px" height="4530px"/>
          <zone points="408,226 408,3444 2898,3444 2898,226" rendition="TextRegion" xml:id="facs_64_r1">
             <zone points="1211,360 1272,355 1333,352 1394,350 1455,348 1517,347 1578,347 1639,348 1700,348 1761,350 1823,351 1884,351 1945,353 2006,353 2067,353 2129,353 2190,351 2251,349 2312,345 2373,341 2435,335 2435,226 2373,232 2312,236 2251,240 2190,242 2129,244 2067,244 2006,244 1945,244 1884,242 1823,242 1761,241 1700,239 1639,239 1578,238 1517,238 1455,239 1394,241 1333,243 1272,246 1211,251" rendition="Line" xml:id="facs_64_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_64" n="64" xml:id="img_0064"/>
+            <pb facs="#facs_64" n="64" xml:id="img_0064"/>
             
-            <ab  facs="#facs_64_r1">
+            <ab facs="#facs_64_r1">
                <lb facs="#facs_64_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_64_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 7<hi style="superscript">ten</hi> Junii 728 N<hi style="superscript">o</hi> 347 hat sich
                <lb facs="#facs_64_r1l3" n="N003"/>der <rs type="person" ref="wkfm__43898">Fischer</rs> geäusseret, daß er seine Handlung ohne Compag[non]

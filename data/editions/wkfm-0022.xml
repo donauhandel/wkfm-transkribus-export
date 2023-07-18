@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2973" lry="4511" xml:id="facs_17">
+    <surface ulx="0" uly="0" lrx="2973" lry="4511" xml:id="facs_17">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0022.jpg" width="2973px" height="4511px"/>
          <zone points="578,237 578,2997 2726,2997 2726,237" rendition="TextRegion" xml:id="facs_17_r1">
             <zone points="2700,232 2821,232 2818,294 2696,299" rendition="Line" xml:id="facs_17_line_1619464545442_86" subtype="page-number"/>
@@ -70,9 +70,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_17" n="17" xml:id="img_0017"/>
+            <pb facs="#facs_17" n="17" xml:id="img_0017"/>
             
-            <ab  facs="#facs_17_r1">
+            <ab facs="#facs_17_r1">
                <lb facs="#facs_17_line_1619464545442_86" n="N001"/>9
                <lb facs="#facs_17_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_17_r1l2" n="N003"/><rs type="person" ref="wkfm__11199">Albrechtsberger Ferdinand </rs>burgerlicher Handlsmann

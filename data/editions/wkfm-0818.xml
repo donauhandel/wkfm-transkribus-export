@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_6">
+    <surface ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_6">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0818.jpg" width="2994px" height="4530px"/>
          <zone points="399,239 399,3456 2829,3456 2829,239" rendition="TextRegion" xml:id="facs_6_r1">
             <zone points="1137,398 1204,395 1271,392 1338,390 1405,388 1472,387 1539,387 1607,387 1674,387 1741,387 1808,387 1875,389 1942,389 2009,389 2077,390 2144,390 2211,389 2278,389 2345,387 2412,385 2480,383 2480,239 2412,241 2345,243 2278,245 2211,245 2144,246 2077,246 2009,245 1942,245 1875,245 1808,243 1741,243 1674,243 1607,243 1539,243 1472,243 1405,244 1338,246 1271,248 1204,251 1137,254" rendition="Line" xml:id="facs_6_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_6" n="6" xml:id="img_0006"/>
+            <pb facs="#facs_6" n="6" xml:id="img_0006"/>
             
-            <ab  facs="#facs_6_r1">
+            <ab facs="#facs_6_r1">
                <lb facs="#facs_6_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_6_r1l3" n="N002"/>In obigen Anbringen de ps: 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 385 hat sich
                <lb facs="#facs_6_r1l4" n="N003"/>der <rs type="person" ref="wkfm__14321">Gestefelt</rs> erklähret das er seine Handlung ganz allein führe

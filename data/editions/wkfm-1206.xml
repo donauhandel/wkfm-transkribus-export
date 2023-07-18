@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2982" lry="4436" xml:id="facs_22">
+    <surface ulx="0" uly="0" lrx="2982" lry="4436" xml:id="facs_22">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1206.jpg" width="2982px" height="4436px"/>
          <zone points="206,100 206,3347 2796,3347 2796,100" rendition="TextRegion" xml:id="facs_22_r1">
             <zone points="1157,270 1211,265 1265,260 1319,257 1374,254 1428,252 1482,250 1537,249 1591,247 1645,247 1700,247 1754,247 1808,247 1862,247 1917,247 1971,246 2025,246 2080,244 2134,243 2188,241 2243,238 2243,100 2188,103 2134,105 2080,106 2025,108 1971,108 1917,109 1862,109 1808,109 1754,109 1700,109 1645,109 1591,109 1537,111 1482,112 1428,114 1374,116 1319,119 1265,122 1211,127 1157,132" rendition="Line" xml:id="facs_22_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_22" n="22" xml:id="img_0022"/>
+            <pb facs="#facs_22" n="22" xml:id="img_0022"/>
             
-            <ab  facs="#facs_22_r1">
+            <ab facs="#facs_22_r1">
                <lb facs="#facs_22_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_22_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 551 hat sich der
                <lb facs="#facs_22_r1l3" n="N003"/><rs type="person" ref="wkfm__8405">Munier</rs> geäusserert, daß sein negotium ohne einigen interessenten <unclear>laufe</unclear>

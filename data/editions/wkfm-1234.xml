@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3019" lry="4436" xml:id="facs_50">
+    <surface ulx="0" uly="0" lrx="3019" lry="4436" xml:id="facs_50">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1234.jpg" width="3019px" height="4436px"/>
          <zone points="387,113 387,3327 2859,3327 2859,113" rendition="TextRegion" xml:id="facs_50_r1">
             <zone points="1253,287 1313,285 1374,281 1434,280 1495,278 1556,276 1616,276 1677,275 1737,275 1798,273 1859,273 1919,272 1980,270 2040,269 2101,267 2162,264 2222,261 2283,257 2343,252 2404,246 2465,239 2465,113 2404,120 2343,126 2283,131 2222,135 2162,138 2101,141 2040,143 1980,144 1919,146 1859,147 1798,147 1737,149 1677,149 1616,150 1556,150 1495,152 1434,154 1374,155 1313,159 1253,161" rendition="Line" xml:id="facs_50_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_50" n="50" xml:id="img_0050"/>
+            <pb facs="#facs_50" n="50" xml:id="img_0050"/>
             
-            <ab  facs="#facs_50_r1">
+            <ab facs="#facs_50_r1">
                <lb facs="#facs_50_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_50_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 14<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 730 N<hi style="superscript">o</hi> 564 hat sich der
                <lb facs="#facs_50_r1l3" n="N003"/><rs type="person" ref="wkfm__18974">Mathesy</rs> geäusseret, das er seine Handlung ohne Compagnon führe

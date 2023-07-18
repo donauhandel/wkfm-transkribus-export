@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4520" xml:id="facs_30">
+    <surface ulx="0" uly="0" lrx="2994" lry="4520" xml:id="facs_30">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0950.jpg" width="2994px" height="4520px"/>
          <zone points="228,244 228,3385 2856,3385 2856,244" rendition="TextRegion" xml:id="facs_30_r1">
             <zone points="1097,343 1157,338 1218,334 1279,331 1340,329 1401,327 1462,326 1523,326 1584,326 1645,326 1706,326 1766,327 1827,328 1888,328 1949,328 2010,328 2071,326 2132,324 2193,322 2254,319 2315,314 2315,244 2254,249 2193,252 2132,254 2071,256 2010,258 1949,258 1888,258 1827,258 1766,257 1706,256 1645,256 1584,256 1523,256 1462,256 1401,257 1340,259 1279,261 1218,264 1157,268 1097,273" rendition="Line" xml:id="facs_30_r1l1"/>
@@ -83,9 +83,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_30" n="30" xml:id="img_0030"/>
+            <pb facs="#facs_30" n="30" xml:id="img_0030"/>
             
-            <ab  facs="#facs_30_r1">
+            <ab facs="#facs_30_r1">
                <lb facs="#facs_30_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_30_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 439 und Anbringen de ps: 20<hi style="superscript">ten</hi> ej:
                <lb facs="#facs_30_r1l3" n="N003"/>N<hi style="superscript">o</hi> 440 hat sich der <rs type="person" ref="wkfm__8186">Joseph Hökhstainer</rs> geäusserert, daß er keinen Compagnon

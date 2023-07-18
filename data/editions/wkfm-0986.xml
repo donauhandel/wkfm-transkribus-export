@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4437" xml:id="facs_66">
+    <surface ulx="0" uly="0" lrx="2994" lry="4437" xml:id="facs_66">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0986.jpg" width="2994px" height="4437px"/>
          <zone points="414,180 414,3392 2769,3392 2769,180" rendition="TextRegion" xml:id="facs_66_r1">
             <zone points="1199,329 1257,324 1315,321 1374,318 1432,317 1490,315 1549,315 1607,315 1665,315 1724,315 1782,317 1840,317 1899,317 1957,317 2015,317 2074,315 2132,314 2190,311 2249,308 2307,303 2366,297 2366,180 2307,186 2249,191 2190,194 2132,197 2074,198 2015,200 1957,200 1899,200 1840,200 1782,200 1724,198 1665,198 1607,198 1549,198 1490,198 1432,200 1374,201 1315,204 1257,207 1199,212" rendition="Line" xml:id="facs_66_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_66" n="66" xml:id="img_0066"/>
+            <pb facs="#facs_66" n="66" xml:id="img_0066"/>
             
-            <ab  facs="#facs_66_r1">
+            <ab facs="#facs_66_r1">
                <lb facs="#facs_66_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_66_r1l2" n="N002"/>In obigen Anbringen de ps: 23<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 725 N<hi style="superscript">o</hi> 456 hat sich der
                <lb facs="#facs_66_r1l3" n="N003"/><rs type="person" ref="wkfm__9904">Helmreich</rs> erklähret, daß er keinen Compagnon habe

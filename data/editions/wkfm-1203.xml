@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3086" lry="4491" xml:id="facs_19">
+    <surface ulx="0" uly="0" lrx="3086" lry="4491" xml:id="facs_19">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1203.jpg" width="3086px" height="4491px"/>
          <zone points="161,158 161,2947 2892,2947 2892,158" rendition="TextRegion" xml:id="facs_19_r1">
             <zone points="2727,374 2754,375 2782,376 2809,375 2837,374 2864,373 2892,371 2892,302 2864,304 2837,305 2809,306 2782,307 2754,306 2727,305" rendition="Line" xml:id="facs_19_r1l2" subtype="page-number"/>
@@ -77,9 +77,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_19" n="19" xml:id="img_0019"/>
+            <pb facs="#facs_19" n="19" xml:id="img_0019"/>
             
-            <ab  facs="#facs_19_r1">
+            <ab facs="#facs_19_r1">
                <lb facs="#facs_19_r1l2" n="N001"/>595
                <lb facs="#facs_19_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_19_r1l3" n="N003"/><rs type="person" ref="wkfm__3764">Martinelli Franz</rs> burgerlicher Handlsmann

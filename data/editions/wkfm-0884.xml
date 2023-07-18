@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4442" xml:id="facs_72">
+    <surface ulx="0" uly="0" lrx="2994" lry="4442" xml:id="facs_72">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0884.jpg" width="2994px" height="4442px"/>
          <zone points="311,1102 311,3495 2886,3495 2886,1102" rendition="TextRegion" xml:id="facs_72_r1">
             <zone points="1322,287 1709,309 1754,309 1799,310 1844,311 1889,310 1934,309 1980,308 2025,306 2070,304 2115,302 2160,300 2205,297 2250,296 2296,293 2341,291 2386,289 2431,288 2476,287 2521,285 2567,284 2567,229 2521,230 2476,232 2431,233 2386,234 2341,236 2296,238 2250,241 2205,242 2160,245 2115,247 2070,249 2025,251 1980,253 1934,254 1889,255 1844,256 1799,255 1754,254 1709,254 1322,232" rendition="Line" xml:id="facs_72_r1l1"/>
@@ -70,9 +70,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_72" n="72" xml:id="img_0072"/>
+            <pb facs="#facs_72" n="72" xml:id="img_0072"/>
             
-            <ab  facs="#facs_72_r1">
+            <ab facs="#facs_72_r1">
                <lb facs="#facs_72_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_72_r1l2" n="N002"/><seg type="wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_72_r1l3" n="N003"/>Mitls Anbringen de ps: 30<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 738 N<hi style="superscript">o</hi> 2162 hat der <rs type="person" ref="wkfm__24248">Götz</rs> den mit

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3325" lry="4568" xml:id="facs_15">
+    <surface ulx="0" uly="0" lrx="3325" lry="4568" xml:id="facs_15">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0068.jpg" width="3325px" height="4568px"/>
          <zone points="156,278 156,3100 2819,3100 2819,278" rendition="TextRegion" xml:id="facs_15_r1">
             <zone points="2696,460 2726,460 2757,463 2788,466 2819,466 2819,408 2788,408 2757,405 2726,402 2696,402" rendition="Line" xml:id="facs_15_r1l2"/>
@@ -89,9 +89,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_15" n="15" xml:id="img_0015"/>
+            <pb facs="#facs_15" n="15" xml:id="img_0015"/>
             
-            <ab  facs="#facs_15_r1">
+            <ab facs="#facs_15_r1">
                <lb facs="#facs_15_r1l2" n="N001"/>32
                <lb facs="#facs_15_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_15_r1l3" n="N003"/><rs type="person" ref="wkfm__9690">Palm Gebrüder</rs> K. K. Niederlags Verwante
@@ -116,7 +116,7 @@
                <lb break="no" facs="#facs_15_r1l23" n="N022"/>Stammetz </rs>Nahmen nebst einem Fundo von 100000 fl anvertrautet haben, er
                <lb facs="#facs_15_r1l24" n="N023"/><rs type="person" ref="wkfm__13459">Stammetz </rs>sich auch mit 20000 fl und also um den 5<hi style="superscript">ten</hi> Theil interessiret habe.
                <lb facs="#facs_15_r1l25" n="N024"/>Diesen hat der <rs type="person" ref="wkfm__13459">Stammetz </rs>gleichmäßige oblatorien mit dem Beysaz das sein <unclear>eingenes </unclear>unter
-               <lb facs="#facs_15_r1l26" n="N025"/>der Raggion <rs type="person" ref="wkfm__43807">Christian Kalchschmid <choice><expan/><abbr>seel.</abbr></choice> Wittib e Compgano</rs> geführetes negotium <comment comment="gezogen\u0020werde\u0020ange-\u0020und\u0020zu\u0020ende\u0020die\u0020künftige\u0020firma\u0020Johann\u0020Heinrich\u0020Stammetz\u0020beygeruket\u0020ddto...\u0020No\u00201104">darzu</comment>
+               <lb facs="#facs_15_r1l26" n="N025"/>der Raggion <rs type="person" ref="wkfm__43807">Christian Kalchschmid <choice><expan/><abbr>seel.</abbr></choice> Wittib e Compgano</rs> geführetes negotium <seg type="editorial_comment_seg">darzu<note type="editorial_comment_note">gezogen werde ange- und zu ende die künftige firma Johann Heinrich Stammetz beygeruket ddto... No 1104</note></seg>
                <lb facs="#facs_15_r1l28" n="N026"/>gezogen worden seye. und zu ende <hi>sein</hi> die künftige firma Johann Heinrich Stametz
                <lb facs="#facs_15_r1l30" n="N027"/>beygeruket dd<hi style="superscript">to</hi> <unclear>eodem</unclear> N<hi style="superscript">o</hi> 1104.
                <lb facs="#facs_15_r1l31" n="N028"/><seg type="fundi">Fundi Ausweisung</seg>

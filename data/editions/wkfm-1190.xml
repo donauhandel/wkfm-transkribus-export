@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2982" lry="4436" xml:id="facs_6">
+    <surface ulx="0" uly="0" lrx="2982" lry="4436" xml:id="facs_6">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1190.jpg" width="2982px" height="4436px"/>
          <zone points="282,179 282,3404 2853,3404 2853,179" rendition="TextRegion" xml:id="facs_6_r1">
             <zone points="1193,323 1256,316 1320,311 1384,309 1448,306 1511,305 1575,304 1639,303 1703,305 1766,305 1830,305 1894,305 1958,305 2021,305 2085,303 2149,300 2213,297 2276,293 2340,287 2404,279 2468,270 2468,179 2404,188 2340,196 2276,202 2213,206 2149,209 2085,212 2021,214 1958,214 1894,214 1830,214 1766,214 1703,214 1639,212 1575,213 1511,214 1448,215 1384,218 1320,220 1256,225 1193,232" rendition="Line" xml:id="facs_6_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_6" n="6" xml:id="img_0006"/>
+            <pb facs="#facs_6" n="6" xml:id="img_0006"/>
             
-            <ab  facs="#facs_6_r1">
+            <ab facs="#facs_6_r1">
                <lb facs="#facs_6_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_6_r1l2" n="N002"/>In obigen Anbringen de ps: 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 1019 hat der <rs type="person" ref="wkfm__46856">Martinelli</rs> ange-
                <lb facs="#facs_6_r1l3" n="N003"/>zeiget das er mit seinen Brudern <rs type="person" ref="wkfm__34278">Johann Anton Martinelli</rs> <hi>se</hi> das negotium

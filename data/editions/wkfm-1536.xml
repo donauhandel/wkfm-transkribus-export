@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2929" lry="4455" xml:id="facs_78">
+    <surface ulx="0" uly="0" lrx="2929" lry="4455" xml:id="facs_78">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1536.jpg" width="2929px" height="4455px"/>
          <zone points="276,183 276,3334 2799,3334 2799,183" rendition="TextRegion" xml:id="facs_78_r1">
             <zone points="1010,302 1075,293 1140,286 1205,281 1270,275 1335,272 1400,269 1465,268 1530,266 1595,266 1661,266 1726,266 1791,266 1856,266 1921,266 1986,266 2051,265 2116,263 2181,260 2246,257 2312,253 2312,183 2246,187 2181,190 2116,193 2051,195 1986,196 1921,196 1856,196 1791,196 1726,196 1661,196 1595,196 1530,196 1465,198 1400,199 1335,202 1270,205 1205,211 1140,216 1075,223 1010,232" rendition="Line" xml:id="facs_78_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_78" n="78" xml:id="img_0078"/>
+            <pb facs="#facs_78" n="78" xml:id="img_0078"/>
             
-            <ab  facs="#facs_78_r1">
+            <ab facs="#facs_78_r1">
                <lb facs="#facs_78_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_78_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 694 hat sich der
                <lb facs="#facs_78_r1l4" n="N003"/><rs type="person" ref="wkfm__47448">Stüffer</rs> geäusseret, daß er keinen Compagnon habe

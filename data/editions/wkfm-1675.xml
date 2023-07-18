@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2952" lry="4468" xml:id="facs_217">
+    <surface ulx="0" uly="0" lrx="2952" lry="4468" xml:id="facs_217">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1675.jpg" width="2952px" height="4468px"/>
          <zone points="120,222 120,3900 2839,3904 2839,226" rendition="TextRegion" xml:id="facs_217_r3">
             <zone points="2634,291 2824,291 2824,389 2634,389" rendition="Line" xml:id="facs_217_line_1626767994378_322" subtype="page-number"/>
@@ -78,9 +78,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_217" n="217" xml:id="img_0217"/>
+            <pb facs="#facs_217" n="217" xml:id="img_0217"/>
             
-            <ab  facs="#facs_217_r3">
+            <ab facs="#facs_217_r3">
                <lb facs="#facs_217_line_1626767994378_322" n="N001"/>830
                <lb facs="#facs_217_r3l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_217_r3l2" n="N003"/><rs type="person" ref="wkfm__47580">Setti Franz</rs> burgerlicher Handlsmann

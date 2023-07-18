@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3095" lry="4469" xml:id="facs_7">
+    <surface ulx="0" uly="0" lrx="3095" lry="4469" xml:id="facs_7">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0927.jpg" width="3095px" height="4469px"/>
          <zone points="233,171 233,3021 2646,3021 2646,171" rendition="TextRegion" xml:id="facs_7_r1">
             <zone points="2487,345 2513,347 2540,347 2566,347 2593,345 2619,341 2646,338 2646,239 2619,242 2593,246 2566,248 2540,248 2513,248 2487,246" rendition="Line" xml:id="facs_7_r1l2" subtype="page-number"/>
@@ -70,9 +70,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_7" n="7" xml:id="img_0007"/>
+            <pb facs="#facs_7" n="7" xml:id="img_0007"/>
             
-            <ab  facs="#facs_7_r1">
+            <ab facs="#facs_7_r1">
                <lb facs="#facs_7_r1l2" n="N001"/>456
                <lb facs="#facs_7_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_7_r1l3" n="N003"/><rs type="person" ref="wkfm__10600">Härtl Norbert</rs> burgerlicher Handlsmann

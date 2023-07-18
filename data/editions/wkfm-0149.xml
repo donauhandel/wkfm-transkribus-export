@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2954" lry="4435" xml:id="facs_96">
+    <surface ulx="0" uly="0" lrx="2954" lry="4435" xml:id="facs_96">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0149.jpg" width="2954px" height="4435px"/>
          <zone points="480,175 480,3266 2751,3266 2751,175" rendition="TextRegion" xml:id="facs_96_r1">
             <zone points="728,320 803,324 878,326 953,327 1028,327 1104,326 1179,324 1254,323 1329,320 1404,318 1480,314 1555,311 1630,306 1705,303 1780,299 1856,295 1931,292 2006,290 2081,287 2156,285 2232,284 2232,175 2156,176 2081,178 2006,181 1931,183 1856,186 1780,190 1705,194 1630,197 1555,202 1480,205 1404,209 1329,211 1254,214 1179,215 1104,217 1028,218 953,218 878,217 803,215 728,211" rendition="Line" xml:id="facs_96_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_96" n="96" xml:id="img_0096"/>
+            <pb facs="#facs_96" n="96" xml:id="img_0096"/>
             
-            <ab  facs="#facs_96_r1">
+            <ab facs="#facs_96_r1">
                <lb facs="#facs_96_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_96_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> April 725 N<hi style="superscript">o</hi> 66 hat sich der
                <lb facs="#facs_96_r1l3" n="N003"/><rs type="person" ref="wkfm__43883">Planckh</rs> geäusseret daß er keine Compagnie nicht habe

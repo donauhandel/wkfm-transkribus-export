@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4437" xml:id="facs_38">
+    <surface ulx="0" uly="0" lrx="2994" lry="4437" xml:id="facs_38">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0958.jpg" width="2994px" height="4437px"/>
          <zone points="318,131 318,3338 2841,3338 2841,131" rendition="TextRegion" xml:id="facs_38_r1">
             <zone points="1001,277 1060,269 1119,262 1178,257 1237,252 1296,249 1355,247 1414,247 1473,245 1532,245 1592,247 1651,248 1710,250 1769,251 1828,253 1887,254 1946,256 2005,256 2064,257 2123,257 2183,256 2183,142 2123,143 2064,143 2005,142 1946,142 1887,140 1828,139 1769,137 1710,136 1651,134 1592,133 1532,131 1473,131 1414,133 1355,133 1296,135 1237,138 1178,143 1119,148 1060,155 1001,163" rendition="Line" xml:id="facs_38_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_38" n="38" xml:id="img_0038"/>
+            <pb facs="#facs_38" n="38" xml:id="img_0038"/>
             
-            <ab  facs="#facs_38_r1">
+            <ab facs="#facs_38_r1">
                <lb facs="#facs_38_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_38_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 442 hat sich der
                <lb facs="#facs_38_r1l3" n="N003"/><rs type="person" key="Personen ID=46463, ">Hofgartner</rs> geäusseret, daß er sich in seiner Handlung allein

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3087" lry="4530" xml:id="facs_2">
+    <surface ulx="0" uly="0" lrx="3087" lry="4530" xml:id="facs_2">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1102.jpg" width="3087px" height="4530px"/>
          <zone points="348,218 348,3434 2991,3434 2991,218" rendition="TextRegion" xml:id="facs_2_r1">
             <zone points="1442,362 1499,358 1557,356 1614,352 1672,350 1730,347 1787,344 1845,341 1902,339 1960,337 2018,334 2075,332 2133,329 2190,327 2248,324 2306,321 2363,320 2421,316 2478,314 2536,311 2594,308 2594,218 2536,221 2478,224 2421,226 2363,230 2306,231 2248,234 2190,237 2133,239 2075,242 2018,244 1960,247 1902,249 1845,251 1787,254 1730,257 1672,260 1614,262 1557,266 1499,268 1442,272" rendition="Line" xml:id="facs_2_r1l1"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_2" n="2" xml:id="img_0002"/>
+            <pb facs="#facs_2" n="2" xml:id="img_0002"/>
             
-            <ab  facs="#facs_2_r1">
+            <ab facs="#facs_2_r1">
                <lb facs="#facs_2_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_2_r1l2" n="N002"/>Mitls Anbringen de ps: 10<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 1986 haben <hi>weil</hi> des <rs type="person" ref="wkfm__17801">Hannß Christoph
                <lb break="no" facs="#facs_2_r1l3" n="N003"/>Löschenkohl <choice><expan/><abbr>seel:</abbr></choice> Erben</rs> <hi>angezeiget</hi> sich erklähret, daß unter dieser ihrer Raggion

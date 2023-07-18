@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3049" lry="4436" xml:id="facs_169">
+    <surface ulx="0" uly="0" lrx="3049" lry="4436" xml:id="facs_169">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0489.jpg" width="3049px" height="4436px"/>
          <graphic url="" width="3049px" height="4436px"/>
          <zone points="157,113 155,2943 2829,2943 2831,113" rendition="TextRegion" xml:id="facs_169_r4">
@@ -85,9 +85,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_169" n="169" xml:id="img_0169"/>
+            <pb facs="#facs_169" n="169" xml:id="img_0169"/>
             
-            <ab  facs="#facs_169_r4">
+            <ab facs="#facs_169_r4">
                <lb facs="#facs_169_r4l2" n="N002"/>242
                <lb facs="#facs_169_r4l1" n="N003"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_169_r4l3" n="N004"/><rs type="person" ref="wkfm__46183">Kehrnhofer Johann Anton</rs> oder <unclear>vielmehr</unclear>
@@ -98,7 +98,7 @@
                <lb facs="#facs_169_r4l8" n="N009"/><hi>757 und in selben beygerukter legalisirung dd<hi style="superscript"/></hi>to
                <lb facs="#facs_169_r4l9" n="N010"/>oblatorien dd<hi style="superscript">to</hi> Brünn den - <choice><expan/><abbr>Mart:</abbr></choice> 757 N<hi style="superscript">o</hi> 1114
                <lb facs="#facs_169_r4l10" n="N011"/><seg type="owner">Procura und Firmae Trager</seg>
-               <lb facs="#facs_169_r4l11" n="N012"/>Mitls Anbringen de ps: <comment comment="vielleicht\u0020doch\u002030.\u0020Juni?">36<hi style="superscript">ten</hi></comment> Junii 757 N<hi style="superscript">o</hi> 944 hat die <rs type="person" ref="wkfm__46185">privilegirte lehen bank</rs>
+               <lb facs="#facs_169_r4l11" n="N012"/>Mitls Anbringen de ps: <seg type="editorial_comment_seg">36<hi style="superscript">ten</hi><note type="editorial_comment_note">vielleicht doch 30. Juni?</note></seg> Junii 757 N<hi style="superscript">o</hi> 944 hat die <rs type="person" ref="wkfm__46185">privilegirte lehen bank</rs>
                <lb facs="#facs_169_r4l12" n="N013"/>zu Brünn unter der Raggion <hi>Kehrnhofer</hi> <rs type="person" ref="wkfm__46184">Johann Anton Kehrnhofer</rs>
                <lb facs="#facs_169_r4l13" n="N014"/><rs type="person" ref="wkfm__46184">und Compagnie</rs> die <choice><expan/><abbr>orig:</abbr></choice> Procura auf den <rs type="person" ref="wkfm__46186">David Meyer</rs> von Lindau
                <lb facs="#facs_169_r4l14" n="N015"/>dd<hi style="superscript">to</hi> 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 757 N<hi style="superscript">o</hi> 943 eingeleget.

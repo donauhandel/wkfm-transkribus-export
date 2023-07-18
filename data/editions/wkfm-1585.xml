@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2979" lry="4477" xml:id="facs_127">
+    <surface ulx="0" uly="0" lrx="2979" lry="4477" xml:id="facs_127">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1585.jpg" width="2979px" height="4477px"/>
          <zone points="125,92 125,2942 2715,2942 2715,92" rendition="TextRegion" xml:id="facs_127_r1">
             <zone points="2580,312 2607,315 2634,317 2661,317 2688,315 2715,312 2715,203 2688,206 2661,208 2634,208 2607,206 2580,203" rendition="Line" xml:id="facs_127_r1l2" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_127" n="127" xml:id="img_0127"/>
+            <pb facs="#facs_127" n="127" xml:id="img_0127"/>
             
-            <ab  facs="#facs_127_r1">
+            <ab facs="#facs_127_r1">
                <lb facs="#facs_127_r1l2" n="N001"/>785
                <lb facs="#facs_127_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_127_r1l3" n="N003"/><rs type="person" ref="wkfm__11998">Ständl Johann Michäl</rs> burgerlicher Handlsmann

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2982" lry="4473" xml:id="facs_124">
+    <surface ulx="0" uly="0" lrx="2982" lry="4473" xml:id="facs_124">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0444.jpg" width="2982px" height="4473px"/>
          <zone points="489,212 489,3382 2945,3382 2945,212" rendition="TextRegion" xml:id="facs_124_r1">
             <zone points="1286,317 1356,317 1427,317 1497,317 1568,319 1638,319 1709,320 1779,322 1850,323 1920,325 1991,326 2062,326 2132,328 2203,328 2273,328 2344,328 2414,328 2485,326 2555,323 2626,320 2697,317 2697,212 2626,215 2555,218 2485,221 2414,223 2344,223 2273,223 2203,223 2132,223 2062,221 1991,221 1920,220 1850,218 1779,217 1709,215 1638,214 1568,214 1497,212 1427,212 1356,212 1286,212" rendition="Line" xml:id="facs_124_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_124" n="124" xml:id="img_0124"/>
+            <pb facs="#facs_124" n="124" xml:id="img_0124"/>
             
-            <ab  facs="#facs_124_r1">
+            <ab facs="#facs_124_r1">
                <lb facs="#facs_124_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_124_r1l2" n="N002"/>In obigen Anbringen de ps: 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 738 N<hi style="superscript">o</hi> 218 hat sich der <rs type="person" ref="wkfm__8799">Carignanj</rs>
                <lb facs="#facs_124_r1l3" n="N003"/>erklähret das er keinen Compagnon habe.

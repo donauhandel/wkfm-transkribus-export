@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4437" xml:id="facs_84">
+    <surface ulx="0" uly="0" lrx="2994" lry="4437" xml:id="facs_84">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1004.jpg" width="2994px" height="4437px"/>
          <zone points="351,224 351,3418 2894,3411 2894,217" rendition="TextRegion" xml:id="facs_84_r1">
             <zone points="1247,375 1308,372 1370,370 1432,367 1494,366 1556,364 1617,363 1679,362 1741,361 1803,360 1865,358 1926,357 1988,355 2050,354 2112,352 2174,351 2235,349 2297,346 2359,343 2421,339 2483,336 2483,224 2421,227 2359,231 2297,234 2235,237 2174,239 2112,240 2050,242 1988,243 1926,245 1865,246 1803,248 1741,249 1679,250 1617,251 1556,252 1494,254 1432,255 1370,258 1308,260 1247,263" rendition="Line" xml:id="facs_84_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_84" n="84" xml:id="img_0084"/>
+            <pb facs="#facs_84" n="84" xml:id="img_0084"/>
             
-            <ab  facs="#facs_84_r1">
+            <ab facs="#facs_84_r1">
                <lb facs="#facs_84_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_84_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 13<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 733 N<hi style="superscript">o</hi> 463 hat sich
                <lb facs="#facs_84_r1l3" n="N003"/>der <rs type="person" ref="wkfm__46498">Halbax</rs> geäusseret, daß er seine Handlung für sich allein führe

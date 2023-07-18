@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3095" lry="4469" xml:id="facs_51">
+    <surface ulx="0" uly="0" lrx="3095" lry="4469" xml:id="facs_51">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0863.jpg" width="3095px" height="4469px"/>
          <zone points="167,117 167,3003 2801,3003 2801,117" rendition="TextRegion" xml:id="facs_51_r2">
             <zone points="2667,283 2696,286 2725,288 2754,290 2784,289 2784,201 2754,202 2725,200 2696,198 2667,195" rendition="Line" xml:id="facs_51_r2l2" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_51" n="51" xml:id="img_0051"/>
+            <pb facs="#facs_51" n="51" xml:id="img_0051"/>
             
-            <ab  facs="#facs_51_r2">
+            <ab facs="#facs_51_r2">
                <lb facs="#facs_51_r2l2" n="N001"/>429
                <lb facs="#facs_51_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_51_r2l3" n="N003"/><rs type="person" ref="wkfm__46331">von der Glokhen Johann Georg</rs> burger leinwathhandler

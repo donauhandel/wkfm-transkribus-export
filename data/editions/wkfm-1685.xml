@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3023" lry="4468" xml:id="facs_227">
+    <surface ulx="0" uly="0" lrx="3023" lry="4468" xml:id="facs_227">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1685.jpg" width="3023px" height="4468px"/>
          <graphic url="" width="3023px" height="4468px"/>
          <zone points="141,211 141,4322 2972,4325 2972,214" rendition="TextRegion" xml:id="facs_227_r2">
@@ -82,9 +82,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_227" n="227" xml:id="img_0227"/>
+            <pb facs="#facs_227" n="227" xml:id="img_0227"/>
             
-            <ab  facs="#facs_227_r2">
+            <ab facs="#facs_227_r2">
                <lb facs="#facs_227_line_1626338061307_2144" n="N001"/>835
                <lb facs="#facs_227_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_227_r2l2" n="N003"/><rs type="person" ref="wkfm__47598">Simmerl Andre</rs> burgerlicher Handslmann

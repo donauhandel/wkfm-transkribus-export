@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3095" lry="4469" xml:id="facs_79">
+    <surface ulx="0" uly="0" lrx="3095" lry="4469" xml:id="facs_79">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0891.jpg" width="3095px" height="4469px"/>
          <zone points="173,164 173,3828 2819,3828 2819,164" rendition="TextRegion" xml:id="facs_79_r1">
             <zone points="2658,320 2687,316 2716,317 2746,317 2775,316 2805,308 2805,212 2775,220 2746,221 2716,221 2687,220 2658,224" rendition="Line" xml:id="facs_79_r1l2" subtype="page-number"/>
@@ -76,9 +76,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_79" n="79" xml:id="img_0079"/>
+            <pb facs="#facs_79" n="79" xml:id="img_0079"/>
             
-            <ab  facs="#facs_79_r1">
+            <ab facs="#facs_79_r1">
                <lb facs="#facs_79_r1l2" n="N001"/>443
                <lb facs="#facs_79_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_79_r1l3" n="N003"/><rs type="person" ref="wkfm__46359">Gumpinger Anton Jacob</rs> burgerlicher Handlsmann

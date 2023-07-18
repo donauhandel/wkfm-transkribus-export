@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2839" lry="4530" xml:id="facs_36">
+    <surface ulx="0" uly="0" lrx="2839" lry="4530" xml:id="facs_36">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0041.jpg" width="2839px" height="4530px"/>
          <zone points="273,289 273,3436 2697,3436 2697,289" rendition="TextRegion" xml:id="facs_36_r1">
             <zone points="911,385 979,382 1047,380 1116,377 1184,376 1252,376 1321,376 1389,376 1457,376 1526,376 1594,376 1663,377 1731,379 1799,379 1868,380 1936,382 2004,382 2073,383 2141,383 2210,385 2210,298 2141,296 2073,296 2004,295 1936,295 1868,293 1799,292 1731,292 1663,290 1594,289 1526,289 1457,289 1389,289 1321,289 1252,289 1184,289 1116,290 1047,293 979,295 911,298" rendition="Line" xml:id="facs_36_r1l1"/>
@@ -71,9 +71,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_36" n="36" xml:id="img_0036"/>
+            <pb facs="#facs_36" n="36" xml:id="img_0036"/>
             
-            <ab  facs="#facs_36_r1">
+            <ab facs="#facs_36_r1">
                <lb facs="#facs_36_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_36_r1l2" n="N002"/>Laut obiger Erklährung dd<hi style="superscript">to</hi> 13<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 731 N<hi style="superscript">o</hi> 1990 hat sich der 
                <lb facs="#facs_36_r1l3" n="N003"/><rs type="person" ref="wkfm__28699">Ampach </rs>erklähret, daß er mit dem <rs type="person" ref="wkfm__37701">Philipp Joseph Langwider</rs>

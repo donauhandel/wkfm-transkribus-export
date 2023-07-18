@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3108" lry="4477" xml:id="facs_15">
+    <surface ulx="0" uly="0" lrx="3108" lry="4477" xml:id="facs_15">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1473.jpg" width="3108px" height="4477px"/>
          <zone points="284,132 284,2997 2863,3009 2863,144" rendition="TextRegion" xml:id="facs_15_r1">
             <zone points="2695,240 2865,240 2865,366 2695,366" rendition="Line" xml:id="facs_15_line_1626267998705_5255"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_15" n="15" xml:id="img_0015"/>
+            <pb facs="#facs_15" n="15" xml:id="img_0015"/>
             
-            <ab  facs="#facs_15_r1">
+            <ab facs="#facs_15_r1">
                <lb facs="#facs_15_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_15_r1l2" n="N003"/><rs type="person" ref="wkfm__47403">Sigg Johann Jacob</rs> hofbefreyter Goldarbeiter
                <lb facs="#facs_15_r1l3" n="N004"/>Firma ad Raggion

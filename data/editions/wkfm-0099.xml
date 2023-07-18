@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2991" lry="4378" xml:id="facs_46">
+    <surface ulx="0" uly="0" lrx="2991" lry="4378" xml:id="facs_46">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0099.jpg" width="2991px" height="4378px"/>
          <zone points="402,63 402,3147 2853,3147 2853,63" rendition="TextRegion" xml:id="facs_46_r1">
             <zone points="843,174 918,176 993,179 1068,183 1144,186 1219,190 1294,194 1369,198 1445,202 1520,205 1595,210 1670,213 1746,216 1821,220 1896,222 1971,225 2047,226 2122,228 2197,228 2272,229 2348,228 2348,117 2272,118 2197,117 2122,117 2047,115 1971,114 1896,111 1821,109 1746,105 1670,102 1595,99 1520,94 1445,91 1369,87 1294,83 1219,79 1144,75 1068,72 993,68 918,65 843,63" rendition="Line" xml:id="facs_46_r1l1"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_46" n="46" xml:id="img_0046"/>
+            <pb facs="#facs_46" n="46" xml:id="img_0046"/>
             
-            <ab  facs="#facs_46_r1">
+            <ab facs="#facs_46_r1">
                <lb facs="#facs_46_r1l1" n="N001"/>Societats Contract und Interessenten
                <lb facs="#facs_46_r1l2" n="N002"/>In obiger Erkährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>April:</abbr></choice> 725 N<hi style="superscript">o</hi> 41 hat sich der <rs type="person" ref="wkfm__8923">Bogner</rs>
                <lb facs="#facs_46_r1l3" n="N003"/>geäusseret daß er sein Negotium ohne einigen Compagnon führe

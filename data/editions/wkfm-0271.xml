@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2916" lry="4493" xml:id="facs_217">
+    <surface ulx="0" uly="0" lrx="2916" lry="4493" xml:id="facs_217">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0271.jpg" width="2916px" height="4493px"/>
          <zone points="242,187 242,2981 2642,2981 2642,187" rendition="TextRegion" xml:id="facs_217_r2">
             <zone points="2460,328 2488,329 2517,329 2546,329 2575,328 2604,325 2604,219 2575,222 2546,223 2517,223 2488,223 2460,222" rendition="Line" xml:id="facs_217_r2l2" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_217" n="217" xml:id="img_0217"/>
+            <pb facs="#facs_217" n="217" xml:id="img_0217"/>
             
-            <ab  facs="#facs_217_r2">
+            <ab facs="#facs_217_r2">
                <lb facs="#facs_217_r2l2" n="N001"/>133
                <lb facs="#facs_217_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_217_r2l3" n="N003"/><rs type="person" ref="wkfm__43928">Pieller Johann Adam</rs> burgerlicher Handlsmann

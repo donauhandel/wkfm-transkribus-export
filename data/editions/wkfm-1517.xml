@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3023" lry="4477" xml:id="facs_59">
+    <surface ulx="0" uly="0" lrx="3023" lry="4477" xml:id="facs_59">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1517.jpg" width="3023px" height="4477px"/>
          <zone points="339,126 339,2899 2881,2884 2881,111" rendition="TextRegion" xml:id="facs_59_r3">
             <zone points="2687,251 2883,251 2883,385 2687,385" rendition="Line" xml:id="facs_59_line_1626260339832_1237" subtype="page-number"/>
@@ -70,9 +70,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_59" n="59" xml:id="img_0059"/>
+            <pb facs="#facs_59" n="59" xml:id="img_0059"/>
             
-            <ab  facs="#facs_59_r3">
+            <ab facs="#facs_59_r3">
                <lb facs="#facs_59_line_1626260339832_1237" n="N001"/>751
                <lb facs="#facs_59_r3l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_59_r3l2" n="N003"/><rs type="person" ref="wkfm__47436">Singer Joseph</rs> burgerlicher Zukerbäker

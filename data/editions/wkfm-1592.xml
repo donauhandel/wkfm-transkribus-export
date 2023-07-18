@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2872" lry="4455" xml:id="facs_134">
+    <surface ulx="0" uly="0" lrx="2872" lry="4455" xml:id="facs_134">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1592.jpg" width="2872px" height="4455px"/>
          <graphic url="" width="2872px" height="4455px"/>
          <zone points="248,83 248,3632 2721,3632 2721,83" rendition="TextRegion" xml:id="facs_134_r1">
@@ -70,9 +70,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_134" n="134" xml:id="img_0134"/>
+            <pb facs="#facs_134" n="134" xml:id="img_0134"/>
             
-            <ab  facs="#facs_134_r1">
+            <ab facs="#facs_134_r1">
                <lb facs="#facs_134_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_134_r1l3" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 11<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 733 N<hi style="superscript">o</hi> 722 hat sich der 
                <lb facs="#facs_134_r1l4" n="N003"/><rs type="person" ref="wkfm__15956">Satzger</rs> geäusseret, das er seine Handlung ohne Compagnie führe

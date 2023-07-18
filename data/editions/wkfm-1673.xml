@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2952" lry="4468" xml:id="facs_215">
+    <surface ulx="0" uly="0" lrx="2952" lry="4468" xml:id="facs_215">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1673.jpg" width="2952px" height="4468px"/>
          <zone points="95,227 95,4212 2786,4212 2786,227" rendition="TextRegion" xml:id="facs_215_r1">
             <zone points="2633,376 2659,377 2685,378 2711,378 2737,375 2763,369 2763,302 2737,308 2711,311 2685,311 2659,310 2633,309" rendition="Line" xml:id="facs_215_r1l2" subtype="page-number"/>
@@ -81,9 +81,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_215" n="215" xml:id="img_0215"/>
+            <pb facs="#facs_215" n="215" xml:id="img_0215"/>
             
-            <ab  facs="#facs_215_r1">
+            <ab facs="#facs_215_r1">
                <lb facs="#facs_215_r1l2" n="N001"/>829
                <lb facs="#facs_215_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_215_r1l3" n="N003"/><rs type="person" ref="wkfm__47577">Simmerl Johann</rs> burgerlicher Handlsmann
@@ -101,7 +101,7 @@
                <lb facs="#facs_215_r1l18" n="N015"/>Schwiger Mutter <rs type="person" ref="wkfm__47579">Maria Magdalena Mayerhoferin</rs> <choice><expan/><abbr>pr</abbr></choice> 500 fl zusamen 1000 fl
                <lb facs="#facs_215_r1l19" n="N016"/>zusamen Eigenthum 1350 fl
                <lb facs="#facs_215_r1l20" n="N017"/>zu Completirung des übrigen hat die <rs type="person" ref="wkfm__47579">Maria Magdalena
-               <lb break="no" facs="#facs_215_r1l21" n="N018"/>Mayrhoferin</rs> das <choice><expan/><abbr>orig:</abbr></choice> <comment comment="wahrscheinlich\u0020\u0022Certiorirte\u0022">Cortiorirte</comment> Cautions Instrument dd<hi style="superscript">to</hi>
+               <lb break="no" facs="#facs_215_r1l21" n="N018"/>Mayrhoferin</rs> das <choice><expan/><abbr>orig:</abbr></choice> <seg type="editorial_comment_seg">Cortiorirte<note type="editorial_comment_note">wahrscheinlich Certiorirte</note></seg> Cautions Instrument dd<hi style="superscript">to</hi>
                <lb facs="#facs_215_r1l23" n="N019"/>8<hi style="superscript">ten</hi> Julii 751 N<hi style="superscript">o</hi> 1739 eingeleget <choice><expan/><abbr>pr</abbr></choice> 2650
                <lb facs="#facs_215_r1l25" n="N020"/><choice><expan/><abbr>Sa</abbr></choice> 4000 fl
             </ab>

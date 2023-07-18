@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_46">
+    <surface ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_46">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0366.jpg" width="2934px" height="4501px"/>
          <zone points="215,192 215,3469 2799,3469 2799,192" rendition="TextRegion" xml:id="facs_46_r1">
             <zone points="939,364 1003,357 1067,350 1131,345 1195,340 1259,336 1323,333 1388,330 1452,327 1516,325 1580,324 1644,322 1708,321 1772,321 1837,319 1901,319 1965,318 2029,316 2093,315 2157,313 2222,312 2222,192 2157,193 2093,195 2029,196 1965,198 1901,199 1837,199 1772,201 1708,201 1644,202 1580,204 1516,205 1452,207 1388,210 1323,213 1259,216 1195,220 1131,225 1067,230 1003,237 939,244" rendition="Line" xml:id="facs_46_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_46" n="46" xml:id="img_0046"/>
+            <pb facs="#facs_46" n="46" xml:id="img_0046"/>
             
-            <ab  facs="#facs_46_r1">
+            <ab facs="#facs_46_r1">
                <lb facs="#facs_46_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_46_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 181 hat sich der
                <lb facs="#facs_46_r1l3" n="N003"/><rs type="person" ref="wkfm__8744">Klingenbruner</rs> geäusseret, das er keinen interessenten habe.

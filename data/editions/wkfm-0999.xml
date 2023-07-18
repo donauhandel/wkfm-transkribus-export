@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3095" lry="4410" xml:id="facs_79">
+    <surface ulx="0" uly="0" lrx="3095" lry="4410" xml:id="facs_79">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0999.jpg" width="3095px" height="4410px"/>
          <zone points="209,181 209,3012 2807,3012 2807,181" rendition="TextRegion" xml:id="facs_79_r1">
             <zone points="2628,345 2657,347 2686,348 2716,348 2745,352 2775,360 2775,276 2745,268 2716,264 2686,264 2657,263 2628,261" rendition="Line" xml:id="facs_79_r1l2" subtype="page-number"/>
@@ -70,9 +70,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_79" n="79" xml:id="img_0079"/>
+            <pb facs="#facs_79" n="79" xml:id="img_0079"/>
             
-            <ab  facs="#facs_79_r1">
+            <ab facs="#facs_79_r1">
                <lb facs="#facs_79_r1l2" n="N001"/>492
                <lb facs="#facs_79_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_79_r1l3" n="N003"/><rs type="person" ref="wkfm__46496">Himmelberger Johann Adam</rs> burgerlicher Handlsmann

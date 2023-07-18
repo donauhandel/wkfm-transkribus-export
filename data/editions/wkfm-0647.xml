@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2963" lry="4566" xml:id="facs_27">
+    <surface ulx="0" uly="0" lrx="2963" lry="4566" xml:id="facs_27">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0647.jpg" width="2963px" height="4566px"/>
          <zone points="167,246 167,3033 2793,3033 2793,246" rendition="TextRegion" xml:id="facs_27_r2">
             <zone points="2609,411 2635,406 2661,405 2687,405 2714,406 2740,407 2766,406 2793,403 2793,336 2766,339 2740,340 2714,339 2687,338 2661,338 2635,339 2609,344" rendition="Line" xml:id="facs_27_r2l2" subtype="page-number"/>
@@ -73,9 +73,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_27" n="27" xml:id="img_0027"/>
+            <pb facs="#facs_27" n="27" xml:id="img_0027"/>
             
-            <ab  facs="#facs_27_r2">
+            <ab facs="#facs_27_r2">
                <lb facs="#facs_27_r2l2" n="N001"/>321
                <lb facs="#facs_27_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_27_r2l3" n="N003"/><rs type="person" ref="wkfm__23412">Egger Franz Dionisius</rs> burgerlicher Handlsmann

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2963" lry="4566" xml:id="facs_31">
+    <surface ulx="0" uly="0" lrx="2963" lry="4566" xml:id="facs_31">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0651.jpg" width="2963px" height="4566px"/>
          <zone points="66,260 66,3528 2796,3528 2796,260" rendition="TextRegion" xml:id="facs_31_r1">
             <zone points="2636,452 2662,453 2689,457 2716,459 2742,461 2769,463 2796,460 2796,391 2769,394 2742,392 2716,390 2689,388 2662,384 2636,383" rendition="Line" xml:id="facs_31_r1l2" subtype="page-number"/>
@@ -76,9 +76,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_31" n="31" xml:id="img_0031"/>
+            <pb facs="#facs_31" n="31" xml:id="img_0031"/>
             
-            <ab  facs="#facs_31_r1">
+            <ab facs="#facs_31_r1">
                <lb facs="#facs_31_r1l2" n="N001"/>323
                <lb facs="#facs_31_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_31_r1l3" n="N003"/><rs type="person" ref="wkfm__46423">Eberl Johann Caspar</rs> burgerlicher Handlsmann
@@ -91,7 +91,7 @@
                <lb facs="#facs_31_r1l10" n="N010"/><seg type="fundi">Fundi Ausweisung</seg>
                <lb facs="#facs_31_r1l11" n="N011"/>Der <rs type="person" ref="wkfm__46423">Eberl</rs> hat zu Ausweisung seines Fundi <hi>mit den</hi> mitls Anbringen de ps:
                <lb facs="#facs_31_line_1619281520756_128" n="N012"/>26<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 737 N<hi style="superscript">o</hi> 1406 den von seiner Ehewirthin <rs type="person" ref="wkfm__46425">Juliana Barbara</rs> untern
-               <lb facs="#facs_31_line_1619284686260_151" n="N013"/>23<hi style="superscript">ten</hi> <choice><expan/><abbr><comment comment="ejusdem\u0020(desselben)">ej:</comment></abbr></choice> <hi>ausa</hi> dahir ausgestelten <unclear>Cotionirten</unclear> <hi>Revers</hi> <choice><expan/><abbr>orig.</abbr></choice> Revers N<hi style="superscript">o</hi> 1405, daß
+               <lb facs="#facs_31_line_1619284686260_151" n="N013"/>23<hi style="superscript">ten</hi> <choice><expan/><abbr><seg type="editorial_comment_seg">ej:<note type="editorial_comment_note">ejusdem (desselben)</note></seg></abbr></choice> <hi>ausa</hi> dahir ausgestelten <unclear>Cotionirten</unclear> <hi>Revers</hi> <choice><expan/><abbr>orig.</abbr></choice> Revers N<hi style="superscript">o</hi> 1405, daß
                <lb facs="#facs_31_r1l16" n="N014"/>sie von dem ihrigen zur Sicherheit deren Handlungs Creditoren <unclear>gewidmet</unclear>
                <lb facs="#facs_31_line_1620595856586_266" n="N015"/>haben wolle 2000 fl
             </ab>

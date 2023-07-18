@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2962" lry="4521" xml:id="facs_150">
+    <surface ulx="0" uly="0" lrx="2962" lry="4521" xml:id="facs_150">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0203.jpg" width="2962px" height="4521px"/>
          <zone points="386,263 386,3392 2799,3392 2799,263" rendition="TextRegion" xml:id="facs_150_r1">
             <zone points="918,299 996,300 1075,303 1154,308 1233,311 1311,314 1390,318 1469,322 1548,326 1626,329 1705,333 1784,336 1863,339 1941,341 2020,342 2099,344 2178,344 2256,342 2335,341 2414,338 2493,333 2493,297 2414,302 2335,305 2256,306 2178,308 2099,308 2020,306 1941,305 1863,303 1784,300 1705,297 1626,293 1548,290 1469,286 1390,282 1311,278 1233,275 1154,272 1075,267 996,264 918,263" rendition="Line" xml:id="facs_150_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_150" n="150" xml:id="img_0150"/>
+            <pb facs="#facs_150" n="150" xml:id="img_0150"/>
             
-            <ab  facs="#facs_150_r1">
+            <ab facs="#facs_150_r1">
                <lb facs="#facs_150_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_150_line_1621468146840_2749" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 733 N<hi style="superscript">o</hi> 92 hat sich der <rs type="person" ref="wkfm__22697">Pöttenberger</rs>
                <lb facs="#facs_150_r1l4" n="N003"/>geäusseret, das er seine Handlung allein führe.

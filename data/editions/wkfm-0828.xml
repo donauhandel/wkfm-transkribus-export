@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_16">
+    <surface ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_16">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0828.jpg" width="2994px" height="4530px"/>
          <zone points="165,847 165,4008 2802,4008 2802,847" rendition="TextRegion" xml:id="facs_16_r1">
             <zone points="917,428 996,422 1075,416 1154,413 1233,410 1313,407 1392,406 1471,404 1550,404 1629,403 1709,403 1788,401 1867,401 1946,400 2025,398 2105,397 2184,394 2263,389 2342,385 2421,379 2501,371 2501,302 2421,310 2342,316 2263,320 2184,325 2105,328 2025,329 1946,331 1867,332 1788,332 1709,334 1629,334 1550,335 1471,335 1392,337 1313,338 1233,341 1154,344 1075,347 996,353 917,359" rendition="Line" xml:id="facs_16_r1l1"/>
@@ -79,9 +79,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_16" n="16" xml:id="img_0016"/>
+            <pb facs="#facs_16" n="16" xml:id="img_0016"/>
             
-            <ab  facs="#facs_16_r1">
+            <ab facs="#facs_16_r1">
                <lb facs="#facs_16_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_16_r1l2" n="N002"/>In obigen Anbringen de ps: 21<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 980 haben die <rs type="person" ref="wkfm__16221">Gundianischen
                <lb break="no" facs="#facs_16_r1l3" n="N003"/>Erben</rs> sich erklähret, daß sie ihr Negotium unter ihnen 7 Erben annoch 

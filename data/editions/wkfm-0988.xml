@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4437" xml:id="facs_68">
+    <surface ulx="0" uly="0" lrx="2994" lry="4437" xml:id="facs_68">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0988.jpg" width="2994px" height="4437px"/>
          <zone points="402,201 402,3375 2850,3375 2850,201" rendition="TextRegion" xml:id="facs_68_r1">
             <zone points="1158,328 1219,321 1281,317 1343,312 1405,309 1467,307 1529,304 1591,304 1653,303 1715,303 1777,303 1838,303 1900,303 1962,304 2024,305 2086,306 2148,306 2210,307 2272,307 2334,307 2396,306 2396,204 2334,205 2272,205 2210,205 2148,204 2086,204 2024,203 1962,202 1900,201 1838,201 1777,201 1715,201 1653,201 1591,202 1529,202 1467,205 1405,207 1343,210 1281,215 1219,219 1158,226" rendition="Line" xml:id="facs_68_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_68" n="68" xml:id="img_0068"/>
+            <pb facs="#facs_68" n="68" xml:id="img_0068"/>
             
-            <ab  facs="#facs_68_r1">
+            <ab facs="#facs_68_r1">
                <lb facs="#facs_68_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_68_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 5<hi style="superscript">ten</hi> Julii 726 N<hi style="superscript">o</hi> 457 hat sich
                <lb facs="#facs_68_r1l3" n="N003"/>der <rs type="person" ref="wkfm__16579">Hauer</rs> geäusseret, daß er seine Handlung allein habe.

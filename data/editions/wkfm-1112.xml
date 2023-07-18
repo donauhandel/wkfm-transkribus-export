@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2973" lry="4530" xml:id="facs_12">
+    <surface ulx="0" uly="0" lrx="2973" lry="4530" xml:id="facs_12">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1112.jpg" width="2973px" height="4530px"/>
          <zone points="224,178 224,3403 2826,3403 2826,178" rendition="TextRegion" xml:id="facs_12_r1">
             <zone points="1076,337 1135,334 1194,331 1254,328 1313,327 1373,325 1432,323 1491,322 1551,321 1610,321 1670,321 1729,321 1788,321 1848,321 1907,319 1967,319 2026,319 2085,319 2145,318 2204,317 2264,316 2264,178 2204,179 2145,180 2085,181 2026,181 1967,181 1907,181 1848,183 1788,183 1729,183 1670,183 1610,183 1551,183 1491,184 1432,185 1373,187 1313,189 1254,190 1194,193 1135,196 1076,199" rendition="Line" xml:id="facs_12_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_12" n="12" xml:id="img_0012"/>
+            <pb facs="#facs_12" n="12" xml:id="img_0012"/>
             
-            <ab  facs="#facs_12_r1">
+            <ab facs="#facs_12_r1">
                <lb facs="#facs_12_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_12_r1l2" n="N002"/>In obigen Anbringen de ps: 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 510 hat die <rs type="person" ref="wkfm__12091">Leeb: Wittib</rs>
                <lb facs="#facs_12_r1l3" n="N003"/>sich erklähret, daß sie ihr negotium als ihr Eigenthum allein führe.

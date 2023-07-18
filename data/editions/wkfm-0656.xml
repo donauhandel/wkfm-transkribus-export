@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_36">
+    <surface ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_36">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0656.jpg" width="2994px" height="4530px"/>
          <zone points="342,260 342,3408 2931,3408 2931,260" rendition="TextRegion" xml:id="facs_36_r1">
             <zone points="1242,303 1302,300 1363,299 1424,297 1485,297 1545,297 1606,299 1667,300 1728,302 1788,303 1849,305 1910,308 1971,309 2031,311 2092,312 2153,314 2214,314 2274,314 2335,314 2396,312 2457,309 2457,272 2396,275 2335,277 2274,277 2214,277 2153,277 2092,275 2031,274 1971,272 1910,271 1849,268 1788,266 1728,265 1667,263 1606,262 1545,260 1485,260 1424,260 1363,262 1302,263 1242,266" rendition="Line" xml:id="facs_36_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_36" n="36" xml:id="img_0036"/>
+            <pb facs="#facs_36" n="36" xml:id="img_0036"/>
             
-            <ab  facs="#facs_36_r1">
+            <ab facs="#facs_36_r1">
                <lb facs="#facs_36_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_36_line_1620651405205_79" n="N002"/>In obiger Erklährung sine dato N<hi style="superscript">o</hi> 314 hat der <rs type="person" ref="wkfm__46428">Eysenkohl</rs> die Societaets Firma
                <lb facs="#facs_36_r1l4" n="N003"/><rs type="person" ref="wkfm__46429">Eysenkohl und Mayr</rs> eingeleget

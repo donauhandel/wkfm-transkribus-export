@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3116" lry="4569" xml:id="facs_1">
+    <surface ulx="0" uly="0" lrx="3116" lry="4569" xml:id="facs_1">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0054.jpg" width="3116px" height="4569px"/>
          <zone points="519,144 519,2951 2852,2951 2852,144" rendition="TextRegion" xml:id="facs_1_r1">
             <zone points="2342,244 2367,246 2393,247 2418,250 2444,250 2469,252 2495,253 2520,254 2546,255 2571,255 2597,256 2622,256 2648,256 2673,258 2699,258 2724,259 2750,260 2775,262 2801,262 2801,214 2775,214 2750,212 2724,211 2699,210 2673,210 2648,208 2622,208 2597,208 2571,207 2546,207 2520,206 2495,205 2469,204 2444,202 2418,202 2393,199 2367,198 2342,196" rendition="Line" xml:id="facs_1_r1l2"/>
@@ -70,10 +70,10 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_1" n="1" xml:id="img_0001"/>
+            <pb facs="#facs_1" n="1" xml:id="img_0001"/>
             
-            <ab  facs="#facs_1_r1">
-               <lb facs="#facs_1_r1l2" n="N001"/><comment comment="Buchstaben\u0020B\u0020und\u0020P">lit. B et P</comment>
+            <ab facs="#facs_1_r1">
+               <lb facs="#facs_1_r1l2" n="N001"/><seg type="editorial_comment_seg">lit. B et P<note type="editorial_comment_note">Buchstaben B und P</note></seg>
                <lb facs="#facs_1_r1l3" n="N002"/>25
                <lb facs="#facs_1_r1l1" n="N003"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_1_r1l4" n="N004"/><rs type="person" ref="wkfm__11577">Burger Georg</rs> Hofbefreyter Handlsmann

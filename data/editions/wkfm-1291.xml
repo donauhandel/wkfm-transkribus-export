@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3105" lry="4455" xml:id="facs_107">
+    <surface ulx="0" uly="0" lrx="3105" lry="4455" xml:id="facs_107">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1291.jpg" width="3105px" height="4455px"/>
          <zone points="152,153 152,3369 2822,3369 2822,153" rendition="TextRegion" xml:id="facs_107_r1">
             <zone points="2661,261 2821,261 2821,378 2661,378" rendition="Line" xml:id="facs_107_line_1624961554379_1503" subtype="page-number"/>
@@ -72,9 +72,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_107" n="107" xml:id="img_0107"/>
+            <pb facs="#facs_107" n="107" xml:id="img_0107"/>
             
-            <ab  facs="#facs_107_r1">
+            <ab facs="#facs_107_r1">
                <lb facs="#facs_107_line_1624961554379_1503" n="N001"/>638
                <lb facs="#facs_107_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_107_r1l2" n="N003"/><rs type="person" ref="wkfm__46946">Mäzinger Joseph</rs> burgerlicher Handlsmann

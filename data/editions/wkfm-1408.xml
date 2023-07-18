@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2953" lry="4400" xml:id="facs_56">
+    <surface ulx="0" uly="0" lrx="2953" lry="4400" xml:id="facs_56">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1408.jpg" width="2953px" height="4400px"/>
          <zone points="377,197 377,3353 2865,3353 2865,197" rendition="TextRegion" xml:id="facs_56_r1">
             <zone points="1008,314 1071,309 1135,308 1199,305 1263,303 1327,303 1391,303 1455,303 1519,303 1583,303 1647,305 1710,305 1774,306 1838,306 1902,306 1966,306 2030,305 2094,303 2158,302 2222,300 2286,296 2286,197 2222,201 2158,203 2094,204 2030,206 1966,207 1902,207 1838,207 1774,207 1710,206 1647,206 1583,204 1519,204 1455,204 1391,204 1327,204 1263,204 1199,206 1135,209 1071,210 1008,215" rendition="Line" xml:id="facs_56_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_56" n="56" xml:id="img_0056"/>
+            <pb facs="#facs_56" n="56" xml:id="img_0056"/>
             
-            <ab  facs="#facs_56_r1">
+            <ab facs="#facs_56_r1">
                <lb facs="#facs_56_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_56_r1l2" n="N002"/>In obigen Anbringen de ps: 12<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 728 N<hi style="superscript">o</hi> 2021 hat sich der
                <lb facs="#facs_56_r1l3" n="N003"/><rs type="person" ref="wkfm__9686">Riesch</rs> erklähret, daß er sein negotium mit eignem Capitalien

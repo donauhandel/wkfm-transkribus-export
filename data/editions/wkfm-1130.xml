@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2973" lry="4530" xml:id="facs_30">
+    <surface ulx="0" uly="0" lrx="2973" lry="4530" xml:id="facs_30">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1130.jpg" width="2973px" height="4530px"/>
          <zone points="198,152 198,3382 2762,3382 2762,152" rendition="TextRegion" xml:id="facs_30_r1">
             <zone points="1065,347 1125,338 1185,331 1246,324 1306,319 1367,314 1427,312 1487,308 1548,306 1608,304 1669,304 1729,302 1789,301 1850,301 1910,299 1971,298 2031,296 2091,295 2152,292 2212,287 2273,284 2273,152 2212,155 2152,160 2091,163 2031,164 1971,166 1910,167 1850,169 1789,169 1729,170 1669,172 1608,172 1548,174 1487,176 1427,180 1367,182 1306,187 1246,192 1185,199 1125,206 1065,215" rendition="Line" xml:id="facs_30_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_30" n="30" xml:id="img_0030"/>
+            <pb facs="#facs_30" n="30" xml:id="img_0030"/>
             
-            <ab  facs="#facs_30_r1">
+            <ab facs="#facs_30_r1">
                <lb facs="#facs_30_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_30_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 9<hi style="superscript">ten</hi> Junii 725 N<hi style="superscript">o</hi> 519 hat sich der
                <lb facs="#facs_30_r1l3" n="N003"/><rs type="person" ref="wkfm__46800">Lehner</rs> geäusseret, daß er ohne Compagno stehe

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2973" lry="4530" xml:id="facs_24">
+    <surface ulx="0" uly="0" lrx="2973" lry="4530" xml:id="facs_24">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1124.jpg" width="2973px" height="4530px"/>
          <zone points="267,178 267,3391 2849,3391 2849,178" rendition="TextRegion" xml:id="facs_24_r1">
             <zone points="986,338 1040,331 1094,324 1148,319 1202,315 1256,311 1310,309 1364,307 1418,305 1472,305 1526,304 1580,304 1634,304 1688,304 1742,304 1796,304 1850,304 1904,303 1958,303 2012,302 2066,301 2066,178 2012,179 1958,180 1904,180 1850,181 1796,181 1742,181 1688,181 1634,181 1580,181 1526,181 1472,182 1418,182 1364,184 1310,186 1256,188 1202,192 1148,196 1094,201 1040,208 986,215" rendition="Line" xml:id="facs_24_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_24" n="24" xml:id="img_0024"/>
+            <pb facs="#facs_24" n="24" xml:id="img_0024"/>
             
-            <ab  facs="#facs_24_r1">
+            <ab facs="#facs_24_r1">
                <lb facs="#facs_24_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_24_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 516 hat sich der
                <lb facs="#facs_24_r1l3" n="N003"/><rs type="person" ref="wkfm__46795">Lex</rs> geäusseret, das er keinen Compagnon habe.

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2794" lry="4398" xml:id="facs_8">
+    <surface ulx="0" uly="0" lrx="2794" lry="4398" xml:id="facs_8">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1838.jpg" width="2794px" height="4398px"/>
          <zone points="141,82 141,3234 2565,3234 2565,82" rendition="TextRegion" xml:id="facs_8_r2">
             <zone points="887,228 955,225 1024,222 1093,222 1161,222 1230,222 1299,223 1367,225 1436,225 1505,226 1574,228 1642,228 1711,229 1780,228 1848,226 1917,223 1986,219 2054,213 2123,205 2192,196 2261,184 2261,82 2192,94 2123,103 2054,111 1986,117 1917,121 1848,124 1780,126 1711,127 1642,126 1574,126 1505,124 1436,123 1367,123 1299,121 1230,120 1161,120 1093,120 1024,120 955,123 887,126" rendition="Line" xml:id="facs_8_r2l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_8" n="8" xml:id="img_0008"/>
+            <pb facs="#facs_8" n="8" xml:id="img_0008"/>
             
-            <ab  facs="#facs_8_r2">
+            <ab facs="#facs_8_r2">
                <lb facs="#facs_8_r2l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_8_r2l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 9<hi style="superscript">ten</hi> Julii 726 N<hi style="superscript">o</hi> 845 hat sich der
                <lb facs="#facs_8_r2l3" n="N003"/><rs type="person" ref="wkfm__46604">Zöhrer</rs> geäusseret, das er seine Handlung ohne Compagnon führe

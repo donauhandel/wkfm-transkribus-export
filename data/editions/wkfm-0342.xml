@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_22">
+    <surface ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_22">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0342.jpg" width="2934px" height="4501px"/>
          <zone points="269,198 269,3347 2835,3347 2835,198" rendition="TextRegion" xml:id="facs_22_r1">
             <zone points="944,335 1017,332 1090,329 1163,326 1236,323 1309,322 1382,320 1455,319 1528,319 1601,317 1674,317 1747,317 1820,316 1893,315 1966,314 2039,312 2112,310 2185,307 2258,303 2331,299 2405,295 2405,198 2331,202 2258,206 2185,210 2112,213 2039,215 1966,217 1893,218 1820,219 1747,220 1674,220 1601,220 1528,222 1455,222 1382,223 1309,225 1236,226 1163,229 1090,232 1017,235 944,238" rendition="Line" xml:id="facs_22_r1l1"/>
@@ -68,9 +68,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_22" n="22" xml:id="img_0022"/>
+            <pb facs="#facs_22" n="22" xml:id="img_0022"/>
             
-            <ab  facs="#facs_22_r1">
+            <ab facs="#facs_22_r1">
                <lb facs="#facs_22_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_22_r1l2" n="N002"/>In obigen Anbringen de ps: 21<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 1895 hat sich der <rs type="person" ref="wkfm__46105">Daniel
                <lb break="no" facs="#facs_22_r1l3" n="N003"/>Castelmuro</rs> und <rs type="person" ref="wkfm__41865">Gaudentius Castelmuro</rs> Erklähret, das sie ihre handlung

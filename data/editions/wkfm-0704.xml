@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_36">
+    <surface ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_36">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0704.jpg" width="2994px" height="4530px"/>
          <zone points="405,188 405,3447 2883,3447 2883,188" rendition="TextRegion" xml:id="facs_36_r1">
             <zone points="1308,330 1369,327 1430,327 1491,327 1552,327 1614,327 1675,329 1736,331 1797,333 1858,334 1920,337 1981,340 2042,342 2103,345 2164,346 2226,348 2287,350 2348,351 2409,351 2470,351 2532,351 2532,212 2470,212 2409,212 2348,212 2287,211 2226,209 2164,207 2103,206 2042,203 1981,201 1920,198 1858,195 1797,194 1736,192 1675,190 1614,188 1552,188 1491,188 1430,188 1369,188 1308,191" rendition="Line" xml:id="facs_36_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_36" n="36" xml:id="img_0036"/>
+            <pb facs="#facs_36" n="36" xml:id="img_0036"/>
             
-            <ab  facs="#facs_36_r1">
+            <ab facs="#facs_36_r1">
                <lb facs="#facs_36_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_36_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 13<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 333 hat sich
                <lb facs="#facs_36_r1l3" n="N003"/>der <rs type="person" ref="wkfm__17700">Fröschl</rs> geäusseret das er ohne Compagnon stehe

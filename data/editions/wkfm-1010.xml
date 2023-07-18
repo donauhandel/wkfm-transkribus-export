@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4437" xml:id="facs_90">
+    <surface ulx="0" uly="0" lrx="2994" lry="4437" xml:id="facs_90">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1010.jpg" width="2994px" height="4437px"/>
          <zone points="275,217 275,3392 2880,3392 2880,217" rendition="TextRegion" xml:id="facs_90_r2">
             <zone points="1206,368 1266,362 1327,357 1387,352 1448,347 1508,343 1569,338 1629,335 1690,332 1750,329 1811,326 1872,323 1932,320 1993,317 2053,314 2114,311 2174,307 2235,303 2295,298 2356,294 2417,287 2417,217 2356,224 2295,228 2235,233 2174,237 2114,241 2053,244 1993,247 1932,250 1872,253 1811,256 1750,259 1690,262 1629,265 1569,268 1508,273 1448,277 1387,282 1327,287 1266,292 1206,298" rendition="Line" xml:id="facs_90_r2l1"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_90" n="90" xml:id="img_0090"/>
+            <pb facs="#facs_90" n="90" xml:id="img_0090"/>
             
-            <ab  facs="#facs_90_r2">
+            <ab facs="#facs_90_r2">
                <lb facs="#facs_90_r2l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_90_r2l2" n="N002"/><seg type="wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_90_r2l3" n="N003"/>Mitls Anbringen de ps: 23<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 744 N<hi style="superscript">o</hi> 2144 hat der <rs type="person" ref="wkfm__39393">Hütter</rs> den mit

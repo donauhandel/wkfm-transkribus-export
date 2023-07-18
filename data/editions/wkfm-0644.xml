@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_24">
+    <surface ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_24">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0644.jpg" width="2994px" height="4530px"/>
          <zone points="315,210 315,3402 2865,3402 2865,210" rendition="TextRegion" xml:id="facs_24_r1">
             <zone points="1145,360 1213,359 1281,357 1349,356 1417,355 1485,354 1553,353 1621,351 1689,350 1757,348 1826,347 1894,345 1962,344 2030,342 2098,341 2166,339 2234,336 2302,335 2370,332 2438,329 2507,327 2507,210 2438,212 2370,215 2302,218 2234,219 2166,222 2098,224 2030,225 1962,227 1894,228 1826,230 1757,231 1689,233 1621,234 1553,236 1485,237 1417,238 1349,239 1281,240 1213,242 1145,243" rendition="Line" xml:id="facs_24_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_24" n="24" xml:id="img_0024"/>
+            <pb facs="#facs_24" n="24" xml:id="img_0024"/>
             
-            <ab  facs="#facs_24_r1">
+            <ab facs="#facs_24_r1">
                <lb facs="#facs_24_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_24_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 14<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 730 N<hi style="superscript">o</hi> 307 hat sich der
                <lb facs="#facs_24_r1l3" n="N003"/><rs type="person" ref="wkfm__40592">Entner</rs> geäusseret, daß er seine Handlung ohne Compagnon führe

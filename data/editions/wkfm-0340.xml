@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_20">
+    <surface ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_20">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0340.jpg" width="2934px" height="4501px"/>
          <zone points="365,222 365,3368 2811,3368 2811,222" rendition="TextRegion" xml:id="facs_20_r1">
             <zone points="977,343 1054,337 1131,332 1208,329 1285,328 1362,328 1439,328 1516,329 1593,331 1670,333 1748,335 1825,337 1902,340 1979,341 2056,343 2133,343 2210,343 2287,341 2364,340 2441,335 2519,331 2519,225 2441,229 2364,234 2287,235 2210,237 2133,237 2056,237 1979,235 1902,234 1825,231 1748,229 1670,227 1593,225 1516,223 1439,222 1362,222 1285,222 1208,223 1131,226 1054,231 977,237" rendition="Line" xml:id="facs_20_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_20" n="20" xml:id="img_0020"/>
+            <pb facs="#facs_20" n="20" xml:id="img_0020"/>
             
-            <ab  facs="#facs_20_r1">
+            <ab facs="#facs_20_r1">
                <lb facs="#facs_20_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_20_r1l2" n="N002"/>Mitls obigen Oblatorien dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 723 N<hi style="superscript">o</hi> 1108 hat der <rs type="person" ref="wkfm__8743">v. Chur-
                <lb break="no" facs="#facs_20_r1l3" n="N003"/>feld</rs> kund gemacht, daß er das negotium mit eignen Capitalien an 

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3003" lry="4530" xml:id="facs_96">
+    <surface ulx="0" uly="0" lrx="3003" lry="4530" xml:id="facs_96">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0596.jpg" width="3003px" height="4530px"/>
          <zone points="236,212 236,3368 2919,3368 2919,212" rendition="TextRegion" xml:id="facs_96_r1">
             <zone points="1131,303 1196,299 1261,296 1326,294 1391,293 1456,293 1521,293 1586,293 1651,294 1716,295 1781,297 1846,299 1911,301 1976,303 2041,305 2106,308 2171,309 2236,312 2301,314 2366,314 2432,315 2432,234 2366,233 2301,233 2236,231 2171,228 2106,227 2041,224 1976,222 1911,220 1846,218 1781,216 1716,214 1651,213 1586,212 1521,212 1456,212 1391,212 1326,213 1261,215 1196,218 1131,222" rendition="Line" xml:id="facs_96_r1l1"/>
@@ -74,9 +74,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_96" n="96" xml:id="img_0096"/>
+            <pb facs="#facs_96" n="96" xml:id="img_0096"/>
             
-            <ab  facs="#facs_96_r1">
+            <ab facs="#facs_96_r1">
                <lb facs="#facs_96_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_96_r1l2" n="N002"/><hi>Mitsls Anbringen de ps: 11<hi style="superscript"/></hi>ten
                <lb facs="#facs_96_r1l3" n="N003"/><hi><rs type="person" ref="wkfm__37748">Johann Dietschi</rs> und dessen Bruder <rs type="person" ref="wkfm__43997">Johann Georg Dietschi</rs> ange-</hi>

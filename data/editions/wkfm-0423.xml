@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2943" lry="4493" xml:id="facs_103">
+    <surface ulx="0" uly="0" lrx="2943" lry="4493" xml:id="facs_103">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0423.jpg" width="2943px" height="4493px"/>
          <graphic url="" width="2943px" height="4493px"/>
          <zone points="146,227 146,3162 2825,3162 2825,227" rendition="TextRegion" xml:id="facs_103_r2">
@@ -99,9 +99,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_103" n="103" xml:id="img_0103"/>
+            <pb facs="#facs_103" n="103" xml:id="img_0103"/>
             
-            <ab  facs="#facs_103_r2">
+            <ab facs="#facs_103_r2">
                <lb facs="#facs_103_r2l2" n="N001"/>209
                <lb facs="#facs_103_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_103_r2l3" n="N003"/><rs type="person" ref="wkfm__37955">Küner Jacob</rs> <choice><expan/><abbr>kay:</abbr></choice> <choice><expan/><abbr>könig:</abbr></choice> Niderlagsverwanter
@@ -137,7 +137,7 @@
                <lb facs="#facs_103_r2l37" n="N033"/>Societaet seye gegen von dem <rs type="person" ref="wkfm__37955">Küner</rs> <unclear>beschehner</unclear> Befridigung des <rs type="person" ref="wkfm__46134">Riesch</rs> und <unclear>Ubernehmung</unclear> des Stralico geendiget worden
                <lb facs="#facs_103_line_1621958356527_1359" n="N034"/>der <rs type="person" ref="wkfm__37955">Küner</rs> werde das negotium unter nemlicher Dita <hi>und</hi> jedoch mit seinen alleinigen obligo continuiren die Firma <hi>0</hi>
                <lb facs="#facs_103_r2l40" n="N035"/><seg type="fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_103_r2l41" n="N036"/><comment comment="Fortsetzung\u0020der\u0020obigen\u0020Rubrik,\u0020Zeile\u002034"><hi>0</hi></comment> werde nebst dem <rs type="person" ref="wkfm__37955">Küner</rs> dessen Tochtermann <rs type="person" ref="wkfm__46132">Eberhard Fridrich Wagner</rs> und der
+               <lb facs="#facs_103_r2l41" n="N036"/><seg type="editorial_comment_seg"><hi>0</hi><note type="editorial_comment_note">Fortsetzung der obigen Rubrik, Zeile 34</note></seg> werde nebst dem <rs type="person" ref="wkfm__37955">Küner</rs> dessen Tochtermann <rs type="person" ref="wkfm__46132">Eberhard Fridrich Wagner</rs> und der
                <lb facs="#facs_103_r2l42" n="N037"/>in dem Negotio befindliche <rs type="person" ref="wkfm__46133">Jacob Zollikhofer</rs> wie solche in fine beygeruket führen
             </ab>
             

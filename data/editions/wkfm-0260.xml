@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_206">
+    <surface ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_206">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0260.jpg" width="2934px" height="4501px"/>
          <zone points="197,209 197,3312 2730,3312 2730,209" rendition="TextRegion" xml:id="facs_206_r1">
             <zone points="972,285 1040,284 1108,282 1176,281 1244,281 1312,281 1380,281 1448,281 1516,281 1584,281 1652,281 1720,281 1788,279 1856,279 1924,278 1992,277 2060,275 2128,273 2196,270 2264,266 2333,263 2333,209 2264,212 2196,216 2128,219 2060,221 1992,223 1924,224 1856,225 1788,225 1720,227 1652,227 1584,227 1516,227 1448,227 1380,227 1312,227 1244,227 1176,227 1108,228 1040,230 972,231" rendition="Line" xml:id="facs_206_r1l1"/>
@@ -83,9 +83,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_206" n="206" xml:id="img_0206"/>
+            <pb facs="#facs_206" n="206" xml:id="img_0206"/>
             
-            <ab  facs="#facs_206_r1">
+            <ab facs="#facs_206_r1">
                <lb facs="#facs_206_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_206_r1l2" n="N002"/>Der <rs type="person" ref="wkfm__37177">Joseph Bolza</rs> hat mit dem <rs type="person" ref="wkfm__8799">Pompejo Corignoni</rs> untern 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 738 einen
                <lb facs="#facs_206_r1l3" n="N003"/>Societaets Contract abgeschlossen und in Copia vidimata N<hi style="superscript">o</hi> 1860 eingeleget kraft 

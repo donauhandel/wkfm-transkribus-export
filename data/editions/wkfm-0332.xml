@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_12">
+    <surface ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_12">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0332.jpg" width="2934px" height="4501px"/>
          <zone points="342,179 342,3394 2766,3394 2766,179" rendition="TextRegion" xml:id="facs_12_r1">
             <zone points="998,355 1073,351 1149,348 1224,345 1300,343 1376,341 1451,340 1527,340 1602,338 1678,338 1754,338 1829,337 1905,337 1980,335 2056,334 2132,332 2207,329 2283,325 2358,322 2434,317 2510,311 2510,179 2434,185 2358,190 2283,193 2207,197 2132,200 2056,202 1980,203 1905,205 1829,205 1754,206 1678,206 1602,206 1527,208 1451,208 1376,209 1300,211 1224,213 1149,216 1073,219 998,223" rendition="Line" xml:id="facs_12_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_12" n="12" xml:id="img_0012"/>
+            <pb facs="#facs_12" n="12" xml:id="img_0012"/>
             
-            <ab  facs="#facs_12_r1">
+            <ab facs="#facs_12_r1">
                <lb facs="#facs_12_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_12_r1l2" n="N002"/>In obigen Anbringen de ps: 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 169 hat sich der 
                <lb facs="#facs_12_r1l3" n="N003"/><rs type="person" ref="wkfm__41601">Kircheisen</rs> geäusseret, daß er keinen Compagnon habe.

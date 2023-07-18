@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2940" lry="4464" xml:id="facs_14">
+    <surface ulx="0" uly="0" lrx="2940" lry="4464" xml:id="facs_14">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1306.jpg" width="2940px" height="4464px"/>
          <zone points="297,140 297,3216 2814,3216 2814,140" rendition="TextRegion" xml:id="facs_14_r1">
             <zone points="1025,269 1088,260 1151,252 1214,247 1278,243 1341,242 1404,240 1468,241 1531,242 1594,243 1658,246 1721,248 1784,249 1847,252 1911,252 1974,254 2037,254 2101,252 2164,249 2227,245 2291,239 2291,140 2227,146 2164,150 2101,153 2037,155 1974,155 1911,153 1847,153 1784,150 1721,149 1658,147 1594,144 1531,143 1468,142 1404,141 1341,143 1278,144 1214,148 1151,153 1088,161 1025,170" rendition="Line" xml:id="facs_14_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_14" n="14" xml:id="img_0014"/>
+            <pb facs="#facs_14" n="14" xml:id="img_0014"/>
             
-            <ab  facs="#facs_14_r1">
+            <ab facs="#facs_14_r1">
                <lb facs="#facs_14_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_14_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 603 hat sich der <rs type="person" ref="wkfm__8109">Niller</rs>
                <lb facs="#facs_14_r1l3" n="N003"/>geäusseret, das er seine handlung ohne mitinteressenten führe

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3087" lry="4530" xml:id="facs_22">
+    <surface ulx="0" uly="0" lrx="3087" lry="4530" xml:id="facs_22">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1086.jpg" width="3087px" height="4530px"/>
          <zone points="334,201 332,3402 2984,3402 2986,201" rendition="TextRegion" xml:id="facs_22_r1">
             <zone points="1060,357 2247,357 2247,191 1060,191" rendition="Line" xml:id="facs_22_line_1619604192005_1465"/>
@@ -77,9 +77,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_22" n="22" xml:id="img_0022"/>
+            <pb facs="#facs_22" n="22" xml:id="img_0022"/>
             
-            <ab  facs="#facs_22_r1">
+            <ab facs="#facs_22_r1">
                <lb facs="#facs_22_r1l2" n="N002"/><seg type="wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_22_r1l3" n="N003"/>Mitls Anbringen de ps: 16<hi style="superscript">ten</hi> Junii 744 N<hi style="superscript">o</hi> 2187 hat der <rs type="person" ref="wkfm__27714">Ipditsch</rs> den mit der
                <lb facs="#facs_22_r1l4" n="N004"/><rs type="person" ref="wkfm__43873">Maria Francisca Wolfmayrin</rs> untern 5<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 742 errichteten Heuraths

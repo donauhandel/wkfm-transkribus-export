@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4442" xml:id="facs_54">
+    <surface ulx="0" uly="0" lrx="2994" lry="4442" xml:id="facs_54">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0866.jpg" width="2994px" height="4442px"/>
          <zone points="329,197 329,3691 2862,3691 2862,197" rendition="TextRegion" xml:id="facs_54_r2">
             <zone points="1289,313 1357,311 1425,310 1493,308 1561,308 1629,308 1697,308 1765,308 1833,308 1901,308 1969,308 2037,308 2105,308 2173,308 2241,308 2309,307 2377,305 2445,303 2513,301 2581,297 2649,293 2649,197 2581,201 2513,205 2445,207 2377,209 2309,211 2241,212 2173,212 2105,212 2037,212 1969,212 1901,212 1833,212 1765,212 1697,212 1629,212 1561,212 1493,212 1425,214 1357,215 1289,217" rendition="Line" xml:id="facs_54_r2l1"/>
@@ -73,9 +73,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_54" n="54" xml:id="img_0054"/>
+            <pb facs="#facs_54" n="54" xml:id="img_0054"/>
             
-            <ab  facs="#facs_54_r2">
+            <ab facs="#facs_54_r2">
                <lb facs="#facs_54_r2l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_54_r2l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 18<hi style="superscript">ten</hi> Julii 726 N<hi style="superscript">o</hi> 407 hat sich der
                <lb facs="#facs_54_r2l3" n="N003"/><rs type="person" ref="wkfm__19817">Gouttro</rs> geäusseret, daß er mit keinen Compagnon verstanden seye.

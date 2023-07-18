@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_60">
+    <surface ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_60">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0728.jpg" width="2994px" height="4530px"/>
          <zone points="450,206 450,3399 2910,3399 2910,206" rendition="TextRegion" xml:id="facs_60_r1">
             <zone points="1311,321 1373,318 1435,317 1497,315 1560,315 1622,317 1684,318 1746,320 1809,322 1871,324 1933,326 1995,329 2058,332 2120,333 2182,335 2244,335 2307,335 2369,335 2431,332 2493,330 2556,326 2556,217 2493,221 2431,223 2369,226 2307,226 2244,226 2182,226 2120,224 2058,223 1995,220 1933,217 1871,215 1809,213 1746,211 1684,209 1622,208 1560,206 1497,206 1435,208 1373,209 1311,212" rendition="Line" xml:id="facs_60_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_60" n="60" xml:id="img_0060"/>
+            <pb facs="#facs_60" n="60" xml:id="img_0060"/>
             
-            <ab  facs="#facs_60_r1">
+            <ab facs="#facs_60_r1">
                <lb facs="#facs_60_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_60_r1l2" n="N002"/>In obiger Erklährung <hi>hat sich</hi> dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 728 N<hi style="superscript">o</hi> 345
                <lb facs="#facs_60_r1l3" n="N003"/>hat sich der <rs type="person" ref="wkfm__8801">Früeß</rs> geäusseret, das er für sich allein handle

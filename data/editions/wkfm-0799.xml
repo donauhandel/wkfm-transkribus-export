@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3095" lry="4496" xml:id="facs_131">
+    <surface ulx="0" uly="0" lrx="3095" lry="4496" xml:id="facs_131">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0799.jpg" width="3095px" height="4496px"/>
          <graphic url="" width="3095px" height="4496px"/>
          <zone points="185,231 185,2982 2879,2982 2879,231" rendition="TextRegion" xml:id="facs_131_r1">
@@ -88,9 +88,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_131" n="131" xml:id="img_0131"/>
+            <pb facs="#facs_131" n="131" xml:id="img_0131"/>
             
-            <ab  facs="#facs_131_r1">
+            <ab facs="#facs_131_r1">
                <lb facs="#facs_131_r1l2" n="N001"/>397
                <lb facs="#facs_131_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_131_r1l3" n="N003"/><rs type="person" ref="wkfm__43810">Violland Bernhard Franz</rs> K. K. Niderlags Verwanter

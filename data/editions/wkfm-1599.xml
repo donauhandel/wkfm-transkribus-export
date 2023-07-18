@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2880" lry="4477" xml:id="facs_141">
+    <surface ulx="0" uly="0" lrx="2880" lry="4477" xml:id="facs_141">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1599.jpg" width="2880px" height="4477px"/>
          <zone points="160,110 160,2958 2757,2946 2757,98" rendition="TextRegion" xml:id="facs_141_r2">
             <zone points="2631,336 2656,344 2681,346 2706,345 2731,346 2757,351 2757,257 2731,252 2706,251 2681,252 2656,250 2631,242" rendition="Line" xml:id="facs_141_r2l2" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_141" n="141" xml:id="img_0141"/>
+            <pb facs="#facs_141" n="141" xml:id="img_0141"/>
             
-            <ab  facs="#facs_141_r2">
+            <ab facs="#facs_141_r2">
                <lb facs="#facs_141_r2l2" n="N001"/>792
                <lb facs="#facs_141_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_141_r2l3" n="N003"/><rs type="person" ref="wkfm__16488">Schreyer Franz Adam</rs> burgerlicher Handlsmann

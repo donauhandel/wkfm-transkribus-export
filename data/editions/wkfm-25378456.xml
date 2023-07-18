@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2940" lry="4464" xml:id="facs_6">
+    <surface ulx="0" uly="0" lrx="2940" lry="4464" xml:id="facs_6">
          <graphic url="25378456.jpg" width="2940px" height="4464px"/>
          <graphic url="https://files.transkribus.eu/Get?id=NTKJATFBAPKPATPAXBIYKDVU&amp;fileType=view" width="2940px" height="4464px"/>
          <zone points="237,130 237,3227 2936,3227 2936,130" rendition="TextRegion" xml:id="facs_6_r1">
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_6" n="6" xml:id="img_0006"/>
+            <pb facs="#facs_6" n="6" xml:id="img_0006"/>
             
-            <ab  facs="#facs_6_r1">
+            <ab facs="#facs_6_r1">
                <lb facs="#facs_6_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_6_line_1621462562946_1216" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 599 hat sich der <rs type="person" ref="wkfm__626">De
                <lb break="no" facs="#facs_6_r1l3" n="N003"/>St. Nicolo</rs> geäusseret, das niemand mit ihm in Compagnie stehe.

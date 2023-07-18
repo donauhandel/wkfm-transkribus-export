@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_214">
+    <surface ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_214">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0268.jpg" width="2934px" height="4501px"/>
          <zone points="315,236 315,3401 2796,3401 2796,236" rendition="TextRegion" xml:id="facs_214_r1">
             <zone points="981,342 1053,340 1125,339 1198,338 1270,337 1343,336 1415,334 1487,334 1560,333 1632,331 1705,330 1777,328 1849,327 1922,325 1994,322 2067,319 2139,317 2211,313 2284,311 2356,306 2429,303 2429,236 2356,239 2284,244 2211,246 2139,250 2067,252 1994,255 1922,258 1849,260 1777,261 1705,263 1632,264 1560,266 1487,267 1415,267 1343,269 1270,270 1198,271 1125,272 1053,273 981,275" rendition="Line" xml:id="facs_214_r1l1"/>
@@ -75,9 +75,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_214" n="214" xml:id="img_0214"/>
+            <pb facs="#facs_214" n="214" xml:id="img_0214"/>
             
-            <ab  facs="#facs_214_r1">
+            <ab facs="#facs_214_r1">
                <lb facs="#facs_214_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_214_r1l2" n="N002"/>Der <rs type="person" ref="wkfm__43956">Pirnbaum</rs> hat mit der <rs type="person" ref="wkfm__43957">Maria Magdalena Bognerin</rs> untern 13<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice>
                <lb facs="#facs_214_r1l3" n="N003"/>740 den in <choice><expan/><abbr>orig:</abbr></choice> N<hi style="superscript">o</hi> 1875 eingelegten Societaets Contract dahin abgeschlossen, daß

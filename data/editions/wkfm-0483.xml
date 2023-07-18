@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3001" lry="4436" xml:id="facs_163">
+    <surface ulx="0" uly="0" lrx="3001" lry="4436" xml:id="facs_163">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0483.jpg" width="3001px" height="4436px"/>
          <zone points="78,159 78,4309 2805,4309 2805,159" rendition="TextRegion" xml:id="facs_163_r1">
             <zone points="2664,298 2692,301 2720,301 2748,301 2776,299 2805,298 2805,237 2776,238 2748,240 2720,240 2692,240 2664,237" rendition="Line" xml:id="facs_163_r1l2" subtype="page-number"/>
@@ -89,9 +89,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_163" n="163" xml:id="img_0163"/>
+            <pb facs="#facs_163" n="163" xml:id="img_0163"/>
             
-            <ab  facs="#facs_163_r1">
+            <ab facs="#facs_163_r1">
                <lb facs="#facs_163_r1l2" n="N001"/>239
                <lb facs="#facs_163_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_163_r1l3" n="N003"/><rs type="person" ref="wkfm__46176">Kraschinkh Joseph</rs> burgerlicher Handlsmann

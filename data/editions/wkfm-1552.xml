@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2929" lry="4455" xml:id="facs_94">
+    <surface ulx="0" uly="0" lrx="2929" lry="4455" xml:id="facs_94">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1552.jpg" width="2929px" height="4455px"/>
          <graphic url="" width="2929px" height="4455px"/>
          <zone points="282,108 282,3343 2841,3343 2841,108" rendition="TextRegion" xml:id="facs_94_r1">
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_94" n="94" xml:id="img_0094"/>
+            <pb facs="#facs_94" n="94" xml:id="img_0094"/>
             
-            <ab  facs="#facs_94_r1">
+            <ab facs="#facs_94_r1">
                <lb facs="#facs_94_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_94_r1l2" n="N002"/>In obigen Anbringen de ps: 23<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 725 N<hi style="superscript">o</hi> 702 hat sich der
                <lb facs="#facs_94_r1l3" n="N003"/><rs type="person" ref="wkfm__24868">Scharnagl</rs> erklähret, das er keinen Compagnon habe

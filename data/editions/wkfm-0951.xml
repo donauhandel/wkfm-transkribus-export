@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3095" lry="4469" xml:id="facs_31">
+    <surface ulx="0" uly="0" lrx="3095" lry="4469" xml:id="facs_31">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0951.jpg" width="3095px" height="4469px"/>
          <zone points="135,179 135,3017 2826,3017 2826,179" rendition="TextRegion" xml:id="facs_31_r4">
             <zone points="2649,398 2674,401 2699,403 2724,403 2750,402 2775,399 2800,396 2826,394 2826,333 2800,335 2775,338 2750,341 2724,342 2699,342 2674,340 2649,337" rendition="Line" xml:id="facs_31_r4l3" subtype="page-number"/>
@@ -80,9 +80,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_31" n="31" xml:id="img_0031"/>
+            <pb facs="#facs_31" n="31" xml:id="img_0031"/>
             
-            <ab  facs="#facs_31_r4">
+            <ab facs="#facs_31_r4">
                <lb facs="#facs_31_r4l3" n="N001"/>468
                <lb facs="#facs_31_r4l2" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_31_r4l4" n="N003"/><rs type="person" ref="wkfm__9703">Hauzenberger Johann Jacob</rs> hofbefreyter Handlsmann

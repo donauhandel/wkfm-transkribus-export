@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4442" xml:id="facs_46">
+    <surface ulx="0" uly="0" lrx="2994" lry="4442" xml:id="facs_46">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0858.jpg" width="2994px" height="4442px"/>
          <zone points="343,243 345,3408 2825,3408 2823,243" rendition="TextRegion" xml:id="facs_46_r1">
             <zone points="1253,393 1316,387 1379,384 1442,381 1505,379 1568,378 1631,376 1695,376 1758,376 1821,376 1884,376 1947,376 2010,376 2073,375 2137,373 2200,372 2263,369 2326,364 2389,360 2452,353 2516,346 2516,225 2452,232 2389,239 2326,243 2263,248 2200,251 2137,252 2073,254 2010,255 1947,255 1884,255 1821,255 1758,255 1695,255 1631,255 1568,257 1505,258 1442,260 1379,263 1316,266 1253,272" rendition="Line" xml:id="facs_46_r1l2"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_46" n="46" xml:id="img_0046"/>
+            <pb facs="#facs_46" n="46" xml:id="img_0046"/>
             
-            <ab  facs="#facs_46_r1">
+            <ab facs="#facs_46_r1">
                <lb facs="#facs_46_r1l2" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_46_r1l3" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 hat sich der 
                <lb facs="#facs_46_r1l4" n="N003"/><rs type="person" ref="wkfm__12379">Gugenberger</rs> geäusseret, daß er seine Handlung ohne

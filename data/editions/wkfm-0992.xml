@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4437" xml:id="facs_72">
+    <surface ulx="0" uly="0" lrx="2994" lry="4437" xml:id="facs_72">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0992.jpg" width="2994px" height="4437px"/>
          <zone points="440,187 440,3390 2906,3390 2906,187" rendition="TextRegion" xml:id="facs_72_r1">
             <zone points="1274,339 1335,332 1396,325 1458,319 1519,315 1580,312 1642,311 1703,309 1764,308 1826,308 1887,308 1948,308 2010,308 2071,309 2132,308 2194,308 2255,307 2316,306 2378,303 2439,301 2501,296 2501,187 2439,192 2378,194 2316,197 2255,198 2194,199 2132,199 2071,200 2010,199 1948,199 1887,199 1826,199 1764,199 1703,200 1642,202 1580,203 1519,206 1458,210 1396,216 1335,223 1274,230" rendition="Line" xml:id="facs_72_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_72" n="72" xml:id="img_0072"/>
+            <pb facs="#facs_72" n="72" xml:id="img_0072"/>
             
-            <ab  facs="#facs_72_r1">
+            <ab facs="#facs_72_r1">
                <lb facs="#facs_72_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_72_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 5<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 728 N<hi style="superscript">o</hi> 457 hat sich der
                <lb facs="#facs_72_r1l3" n="N003"/><rs type="person" ref="wkfm__46488">Hänrich</rs> geäusseret, daß er seine Handlung ohne Compagnon

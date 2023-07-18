@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2982" lry="4464" xml:id="facs_125">
+    <surface ulx="0" uly="0" lrx="2982" lry="4464" xml:id="facs_125">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0178.jpg" width="2982px" height="4464px"/>
          <zone points="257,269 257,3114 2823,3114 2823,269" rendition="TextRegion" xml:id="facs_125_r1">
             <zone points="2669,386 2702,384 2735,379 2768,380 2768,290 2735,289 2702,294 2669,296" rendition="Line" xml:id="facs_125_r1l2" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_125" n="125" xml:id="img_0125"/>
+            <pb facs="#facs_125" n="125" xml:id="img_0125"/>
             
-            <ab  facs="#facs_125_r1">
+            <ab facs="#facs_125_r1">
                <lb facs="#facs_125_r1l2" n="N001"/>87
                <lb facs="#facs_125_line_1621465228741_1991" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_125_r1l3" n="N003"/><rs type="person" ref="wkfm__8423">Bidermann Matthias</rs> burgerlicher Handlsmann

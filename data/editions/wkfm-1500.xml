@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2929" lry="4455" xml:id="facs_42">
+    <surface ulx="0" uly="0" lrx="2929" lry="4455" xml:id="facs_42">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1500.jpg" width="2929px" height="4455px"/>
          <zone points="306,130 306,3263 2763,3263 2763,130" rendition="TextRegion" xml:id="facs_42_r1">
             <zone points="896,324 962,317 1029,311 1095,306 1162,303 1229,300 1295,298 1362,298 1428,297 1495,297 1562,297 1628,296 1695,295 1761,294 1828,292 1894,290 1961,287 2028,282 2094,277 2161,269 2228,259 2228,130 2161,140 2094,148 2028,153 1961,158 1894,161 1828,163 1761,165 1695,166 1628,167 1562,168 1495,168 1428,168 1362,169 1295,169 1229,171 1162,174 1095,177 1029,182 962,188 896,195" rendition="Line" xml:id="facs_42_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_42" n="42" xml:id="img_0042"/>
+            <pb facs="#facs_42" n="42" xml:id="img_0042"/>
             
-            <ab  facs="#facs_42_r1">
+            <ab facs="#facs_42_r1">
                <lb facs="#facs_42_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_42_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 676 hat sich der
                <lb facs="#facs_42_r1l3" n="N003"/><rs type="person" ref="wkfm__12358">Schwaifer</rs> geäusseret, das er seine Handlung ganz allein stehe

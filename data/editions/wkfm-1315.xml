@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3105" lry="4455" xml:id="facs_23">
+    <surface ulx="0" uly="0" lrx="3105" lry="4455" xml:id="facs_23">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1315.jpg" width="3105px" height="4455px"/>
          <zone points="200,144 200,2875 2750,2875 2750,144" rendition="TextRegion" xml:id="facs_23_r2">
             <zone points="2550,359 2576,359 2602,359 2628,359 2654,359 2680,359 2706,359 2706,280 2680,280 2654,280 2628,280 2602,280 2576,280 2550,280" rendition="Line" xml:id="facs_23_r2l2" subtype="page-number"/>
@@ -72,9 +72,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_23" n="23" xml:id="img_0023"/>
+            <pb facs="#facs_23" n="23" xml:id="img_0023"/>
             
-            <ab  facs="#facs_23_r2">
+            <ab facs="#facs_23_r2">
                <lb facs="#facs_23_r2l2" n="N001"/>650
                <lb facs="#facs_23_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_23_r2l3" n="N003"/><rs type="person" ref="wkfm__26325">Negri Gioachimo</rs> burgerlicher Handlsmann

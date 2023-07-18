@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2982" lry="4436" xml:id="facs_42">
+    <surface ulx="0" uly="0" lrx="2982" lry="4436" xml:id="facs_42">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1226.jpg" width="2982px" height="4436px"/>
          <zone points="375,141 375,3355 2808,3355 2808,141" rendition="TextRegion" xml:id="facs_42_r1">
             <zone points="1202,283 1261,280 1321,277 1381,274 1440,272 1500,271 1560,270 1619,268 1679,267 1739,267 1799,265 1858,264 1918,263 1978,262 2037,261 2097,259 2157,257 2216,254 2276,251 2336,247 2396,243 2396,141 2336,145 2276,149 2216,152 2157,155 2097,157 2037,159 1978,160 1918,161 1858,162 1799,163 1739,165 1679,165 1619,166 1560,168 1500,169 1440,170 1381,172 1321,175 1261,178 1202,181" rendition="Line" xml:id="facs_42_r1l1"/>
@@ -68,9 +68,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_42" n="42" xml:id="img_0042"/>
+            <pb facs="#facs_42" n="42" xml:id="img_0042"/>
             
-            <ab  facs="#facs_42_r1">
+            <ab facs="#facs_42_r1">
                <lb facs="#facs_42_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_42_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 9<hi style="superscript">ten</hi> Junii 728 N<hi style="superscript">o</hi> 1998 hat sich der
                <lb facs="#facs_42_r1l3" n="N003"/><rs type="person" ref="wkfm__46876">Martin</rs> mit dem <rs type="person" ref="wkfm__46877">Rafeßeder</rs> zugleich erklähret, das sie

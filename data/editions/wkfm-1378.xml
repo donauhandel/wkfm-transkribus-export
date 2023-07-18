@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2953" lry="4400" xml:id="facs_26">
+    <surface ulx="0" uly="0" lrx="2953" lry="4400" xml:id="facs_26">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1378.jpg" width="2953px" height="4400px"/>
          <zone points="351,186 351,3320 2790,3320 2790,186" rendition="TextRegion" xml:id="facs_26_r1">
             <zone points="1086,308 1147,302 1208,298 1269,295 1331,292 1392,289 1453,287 1515,287 1576,286 1637,284 1699,284 1760,284 1821,284 1882,283 1944,283 2005,283 2066,281 2128,280 2189,278 2250,277 2312,274 2312,186 2250,189 2189,190 2128,192 2066,193 2005,195 1944,195 1882,195 1821,196 1760,196 1699,196 1637,196 1576,198 1515,199 1453,199 1392,201 1331,204 1269,207 1208,210 1147,214 1086,220" rendition="Line" xml:id="facs_26_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_26" n="26" xml:id="img_0026"/>
+            <pb facs="#facs_26" n="26" xml:id="img_0026"/>
             
-            <ab  facs="#facs_26_r1">
+            <ab facs="#facs_26_r1">
                <lb facs="#facs_26_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_26_r1l2" n="N002"/>In obigen Anbringen de ps: 21<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 624 und Erklährung
                <lb facs="#facs_26_r1l3" n="N003"/>dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> ej: N<hi style="superscript">o</hi> 625 hat sich der <rs type="person" ref="wkfm__9396">Rappenmoßer</rs> geäusseret, daß

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2940" lry="4464" xml:id="facs_28">
+    <surface ulx="0" uly="0" lrx="2940" lry="4464" xml:id="facs_28">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1320.jpg" width="2940px" height="4464px"/>
          <zone points="272,181 272,3215 2820,3215 2820,181" rendition="TextRegion" xml:id="facs_28_r1">
             <zone points="1172,289 1233,281 1294,275 1355,270 1416,266 1478,265 1539,263 1600,263 1661,263 1722,264 1784,265 1845,266 1906,268 1967,269 2028,269 2090,271 2151,271 2212,269 2273,267 2334,265 2396,260 2396,181 2334,186 2273,188 2212,190 2151,192 2090,192 2028,190 1967,190 1906,189 1845,187 1784,186 1722,185 1661,184 1600,184 1539,184 1478,186 1416,187 1355,191 1294,196 1233,202 1172,210" rendition="Line" xml:id="facs_28_r1l1"/>
@@ -71,9 +71,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_28" n="28" xml:id="img_0028"/>
+            <pb facs="#facs_28" n="28" xml:id="img_0028"/>
             
-            <ab  facs="#facs_28_r1">
+            <ab facs="#facs_28_r1">
                <lb facs="#facs_28_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_28_r1l2" n="N002"/><seg type="wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_28_r1l3" n="N003"/>Mitls Anbringen de ps: 9<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 736 N<hi style="superscript">o</hi> 2203 hat der <rs type="person" ref="wkfm__18406">de st Nicolo</rs> den mit 

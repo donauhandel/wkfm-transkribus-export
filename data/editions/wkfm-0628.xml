@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_8">
+    <surface ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_8">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0628.jpg" width="2994px" height="4530px"/>
          <zone points="240,146 247,3401 2887,3397 2880,142" rendition="TextRegion" xml:id="facs_8_r1">
             <zone points="1007,311 1078,306 1150,304 1221,302 1293,301 1364,300 1436,301 1507,302 1579,303 1650,305 1722,306 1793,308 1865,309 1936,311 2008,312 2079,312 2151,312 2222,312 2294,311 2366,308 2366,227 2294,230 2222,231 2151,231 2079,231 2008,231 1936,230 1865,228 1793,227 1722,225 1650,224 1579,222 1507,221 1436,220 1364,219 1293,220 1221,221 1150,223 1078,225 1007,230" rendition="Line" xml:id="facs_8_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_8" n="8" xml:id="img_0008"/>
+            <pb facs="#facs_8" n="8" xml:id="img_0008"/>
             
-            <ab  facs="#facs_8_r1">
+            <ab facs="#facs_8_r1">
                <lb facs="#facs_8_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_8_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 299 hat sich
                <lb facs="#facs_8_r1l3" n="N003"/>der <rs type="person" ref="wkfm__41690">Eybeckher</rs> geäusseret, daß er weder in - noch ausser Land in

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2923" lry="4436" xml:id="facs_149">
+    <surface ulx="0" uly="0" lrx="2923" lry="4436" xml:id="facs_149">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0469.jpg" width="2923px" height="4436px"/>
          <zone points="117,154 117,3433 2855,3435 2855,156" rendition="TextRegion" xml:id="facs_149_r1">
             <zone points="2674,206 2850,206 2850,309 2674,309" rendition="Line" xml:id="facs_149_line_1629449533875_978" subtype="page-number"/>
@@ -78,9 +78,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_149" n="149" xml:id="img_0149"/>
+            <pb facs="#facs_149" n="149" xml:id="img_0149"/>
             
-            <ab  facs="#facs_149_r1">
+            <ab facs="#facs_149_r1">
                <lb facs="#facs_149_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_149_r1l2" n="N003"/><rs type="person" ref="wkfm__29693">Kolman Joseph</rs> <choice><expan/><abbr>kay:</abbr></choice> <choice><expan/><abbr>könig:</abbr></choice> Niderlags Verwanter
                <lb facs="#facs_149_r1l3" n="N004"/>Firma ad Raggion
@@ -92,7 +92,7 @@
                <lb facs="#facs_149_r1l9" n="N010"/><seg type="oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_149_r1l10" n="N011"/><seg type="fundi">Fundi Ausweisung</seg>
                <lb facs="#facs_149_r1l13" n="N012"/>Zu Ausweisung seines Handlungs Fundi hat der <rs type="person" ref="wkfm__29693">Kolman</rs> die <choice><expan/><abbr>orig:</abbr></choice>
-               <lb facs="#facs_149_line_1621962048128_2836" n="N013"/>Billanz N<hi style="superscript">o</hi> 1317 eingeleget an <comment comment="ital.\u0020\u0022Überschuss\u0022">avanzo</comment> <choice><expan/><abbr>pr</abbr></choice> 32345 fl
+               <lb facs="#facs_149_line_1621962048128_2836" n="N013"/>Billanz N<hi style="superscript">o</hi> 1317 eingeleget an <seg type="editorial_comment_seg">avanzo<note type="editorial_comment_note">ital. Überschuss</note></seg> <choice><expan/><abbr>pr</abbr></choice> 32345 fl
                <lb facs="#facs_149_r1l17" n="N014"/>und solche laut beygerukter Formula jurandi untern 2<hi style="superscript">ten</hi> Junii 747
                <lb facs="#facs_149_r1l18" n="N015"/>mit einem Cörperlichen Eyd dahin bestättiget, daß er an gutten Waaren
                <lb facs="#facs_149_r1l19" n="N016"/>und gutten activen Schulden wenigstens 30000 fl eigenthumlich besize.

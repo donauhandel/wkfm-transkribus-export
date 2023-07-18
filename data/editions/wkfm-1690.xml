@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2866" lry="4476" xml:id="facs_232">
+    <surface ulx="0" uly="0" lrx="2866" lry="4476" xml:id="facs_232">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1690.jpg" width="2866px" height="4476px"/>
          <zone points="246,285 246,3407 2775,3407 2775,285" rendition="TextRegion" xml:id="facs_232_r1">
             <zone points="1083,403 1149,394 1216,388 1283,384 1349,381 1416,379 1483,379 1549,379 1616,380 1683,381 1750,382 1816,384 1883,385 1950,385 2016,385 2083,384 2150,381 2216,376 2283,370 2350,362 2417,351 2417,285 2350,296 2283,304 2216,310 2150,315 2083,318 2016,319 1950,319 1883,319 1816,318 1750,316 1683,315 1616,314 1549,313 1483,313 1416,313 1349,315 1283,318 1216,322 1149,328 1083,337" rendition="Line" xml:id="facs_232_r1l1"/>
@@ -70,9 +70,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_232" n="232" xml:id="img_0232"/>
+            <pb facs="#facs_232" n="232" xml:id="img_0232"/>
             
-            <ab  facs="#facs_232_r1">
+            <ab facs="#facs_232_r1">
                <lb facs="#facs_232_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_232_r1l2" n="N002"/>Mitls Anbringen de ps: 22<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 754 N<hi style="superscript">o</hi> 780 hat der <rs type="person" ref="wkfm__47576">Franz Schwarzleith-
                <lb break="no" facs="#facs_232_r1l3" n="N003"/>ner</rs> angezeiget, daß nachdem sein Vatter <rs type="person" ref="wkfm__8487">Joseph Schwarzleithner</rs>

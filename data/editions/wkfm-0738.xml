@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_70">
+    <surface ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_70">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0738.jpg" width="2994px" height="4530px"/>
          <zone points="510,224 510,3467 2916,3467 2916,224" rendition="TextRegion" xml:id="facs_70_r1">
             <zone points="1224,400 1290,397 1356,395 1422,394 1489,392 1555,392 1621,392 1687,392 1754,392 1820,392 1886,392 1952,392 2019,392 2085,392 2151,391 2217,389 2284,388 2350,385 2416,382 2482,379 2549,374 2549,224 2482,229 2416,232 2350,235 2284,238 2217,239 2151,241 2085,242 2019,242 1952,242 1886,242 1820,242 1754,242 1687,242 1621,242 1555,242 1489,242 1422,244 1356,245 1290,247 1224,250" rendition="Line" xml:id="facs_70_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_70" n="70" xml:id="img_0070"/>
+            <pb facs="#facs_70" n="70" xml:id="img_0070"/>
             
-            <ab  facs="#facs_70_r1">
+            <ab facs="#facs_70_r1">
                <lb facs="#facs_70_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_70_r1l2" n="N002"/>In obigem Anbringen de ps: 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 730 hat sich der
                <lb facs="#facs_70_r1l3" n="N003"/><rs type="person" ref="wkfm__47101">Vollandt</rs> erklähret, das er seine Handlung allein führe

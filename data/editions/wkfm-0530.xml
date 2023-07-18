@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3051" lry="4473" xml:id="facs_30">
+    <surface ulx="0" uly="0" lrx="3051" lry="4473" xml:id="facs_30">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0530.jpg" width="3051px" height="4473px"/>
          <zone points="408,134 408,3311 2973,3311 2973,134" rendition="TextRegion" xml:id="facs_30_r1">
             <zone points="1158,237 1226,236 1295,234 1363,234 1432,234 1501,234 1569,236 1638,237 1707,239 1775,240 1844,242 1913,243 1981,246 2050,247 2119,248 2187,249 2256,251 2325,251 2393,251 2462,251 2531,249 2531,149 2462,151 2393,151 2325,151 2256,151 2187,149 2119,148 2050,147 1981,146 1913,143 1844,142 1775,140 1707,139 1638,137 1569,136 1501,134 1432,134 1363,134 1295,134 1226,136 1158,137" rendition="Line" xml:id="facs_30_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_30" n="30" xml:id="img_0030"/>
+            <pb facs="#facs_30" n="30" xml:id="img_0030"/>
             
-            <ab  facs="#facs_30_r1">
+            <ab facs="#facs_30_r1">
                <lb facs="#facs_30_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_30_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 256 hat sich  
                <lb facs="#facs_30_r1l3" n="N003"/>der <rs type="person" ref="wkfm__46212">Della Rovere</rs> geäusseret, daß er keinen Interessenten habe

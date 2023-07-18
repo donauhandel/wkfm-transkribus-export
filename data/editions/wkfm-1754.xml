@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2886" lry="4476" xml:id="facs_48">
+    <surface ulx="0" uly="0" lrx="2886" lry="4476" xml:id="facs_48">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1754.jpg" width="2886px" height="4476px"/>
          <zone points="483,222 483,3410 2820,3410 2820,222" rendition="TextRegion" xml:id="facs_48_r1">
             <zone points="1217,413 1277,410 1338,406 1399,404 1460,403 1520,403 1581,403 1642,403 1703,403 1763,403 1824,403 1885,403 1946,403 2006,401 2067,400 2128,397 2189,393 2249,388 2310,382 2371,373 2432,364 2432,222 2371,231 2310,240 2249,246 2189,251 2128,255 2067,258 2006,259 1946,261 1885,261 1824,261 1763,261 1703,261 1642,261 1581,261 1520,261 1460,261 1399,262 1338,264 1277,268 1217,271" rendition="Line" xml:id="facs_48_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_48" n="48" xml:id="img_0048"/>
+            <pb facs="#facs_48" n="48" xml:id="img_0048"/>
             
-            <ab  facs="#facs_48_r1">
+            <ab facs="#facs_48_r1">
                <lb facs="#facs_48_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_48_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 806 hat sich der
                <lb facs="#facs_48_r1l3" n="N003"/><rs type="person" ref="wkfm__46980">Widtmann</rs> geäusseret, das er mit niemand in Compagnie seye

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_44">
+    <surface ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_44">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0712.jpg" width="2994px" height="4530px"/>
          <zone points="560,187 560,3405 2925,3405 2925,187" rendition="TextRegion" xml:id="facs_44_r1">
             <zone points="1292,318 1353,317 1415,315 1477,314 1539,314 1601,315 1662,317 1724,317 1786,320 1848,321 1910,323 1971,326 2033,327 2095,330 2157,332 2219,333 2280,335 2342,335 2404,335 2466,335 2528,333 2528,206 2466,208 2404,208 2342,208 2280,208 2219,206 2157,205 2095,203 2033,200 1971,199 1910,196 1848,194 1786,193 1724,190 1662,190 1601,188 1539,187 1477,187 1415,188 1353,190 1292,191" rendition="Line" xml:id="facs_44_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_44" n="44" xml:id="img_0044"/>
+            <pb facs="#facs_44" n="44" xml:id="img_0044"/>
             
-            <ab  facs="#facs_44_r1">
+            <ab facs="#facs_44_r1">
                <lb facs="#facs_44_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_44_r1l2" n="N002"/>In obiger Erklährhung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 337 hat
                <lb facs="#facs_44_r1l3" n="N003"/>sich der <rs type="person" ref="wkfm__47082"><unclear>Uhl</unclear></rs> geäusseret, das er allein handle

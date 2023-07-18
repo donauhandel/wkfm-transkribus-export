@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3095" lry="4553" xml:id="facs_25">
+    <surface ulx="0" uly="0" lrx="3095" lry="4553" xml:id="facs_25">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0837.jpg" width="3095px" height="4553px"/>
          <zone points="168,214 168,3078 2730,3078 2730,214" rendition="TextRegion" xml:id="facs_25_r2">
             <zone points="2574,402 2600,394 2626,393 2652,393 2678,393 2704,390 2730,381 2730,254 2704,263 2678,266 2652,266 2626,266 2600,267 2574,275" rendition="Line" xml:id="facs_25_r2l2" subtype="page-number"/>
@@ -70,9 +70,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_25" n="25" xml:id="img_0025"/>
+            <pb facs="#facs_25" n="25" xml:id="img_0025"/>
             
-            <ab  facs="#facs_25_r2">
+            <ab facs="#facs_25_r2">
                <lb facs="#facs_25_r2l2" n="N001"/>416
                <lb facs="#facs_25_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_25_r2l3" n="N003"/><rs type="person" ref="wkfm__1864">Güsser Michäl Franz</rs> bürgerlicher Handlsmann

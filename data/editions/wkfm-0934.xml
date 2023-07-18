@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4520" xml:id="facs_14">
+    <surface ulx="0" uly="0" lrx="2994" lry="4520" xml:id="facs_14">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0934.jpg" width="2994px" height="4520px"/>
          <zone points="267,233 267,3522 2847,3522 2847,233" rendition="TextRegion" xml:id="facs_14_r1">
             <zone points="1083,375 1139,370 1195,365 1251,361 1307,357 1363,354 1419,351 1475,347 1531,345 1587,342 1643,341 1699,338 1755,336 1811,333 1867,330 1923,327 1979,324 2035,320 2091,317 2147,311 2204,306 2204,233 2147,238 2091,244 2035,247 1979,251 1923,254 1867,257 1811,260 1755,263 1699,265 1643,268 1587,269 1531,272 1475,274 1419,278 1363,281 1307,284 1251,288 1195,292 1139,297 1083,302" rendition="Line" xml:id="facs_14_r1l1"/>
@@ -79,9 +79,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_14" n="14" xml:id="img_0014"/>
+            <pb facs="#facs_14" n="14" xml:id="img_0014"/>
             
-            <ab  facs="#facs_14_r1">
+            <ab facs="#facs_14_r1">
                <lb facs="#facs_14_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_14_r1l2" n="N002"/>In obigen Anbringen de ps: 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 1961 hat sich der <rs type="person" ref="wkfm__24831">Johann Wolf-
                <lb break="no" facs="#facs_14_r1l3" n="N003"/>gang Haymerl</rs> <hi>und</hi> zugleich mit dem <rs type="person" ref="wkfm__11795">Philipp Joseph Haymerl</rs> erklähret
@@ -93,13 +93,13 @@
                <lb facs="#facs_14_r1l9" n="N009"/>fortpflanzung einer Gold und Silber Fabriqua untern 30<hi style="superscript">ten</hi> Junii 727 eine
                <lb facs="#facs_14_r1l10" n="N010"/>societaet und Einverständnuß errichtet worden seye.
                <lb facs="#facs_14_r1l12" n="N011"/>Mitls Anbringen de ps: 14<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 748 N<hi style="superscript">o</hi> 1980 haben die gerichtlich aufgestelte
-               <lb facs="#facs_14_r1l13" n="N012"/>administratoren der Verlassenschaft des <rs type="person" ref="wkfm__24831">Johann Wolfgang Haymerl</rs> <comment comment="Fortsetzung\u0020unten\u0020unter\u0020\u0022Anmerckungen\u0022"><hi>0</hi></comment> angezeiget,
+               <lb facs="#facs_14_r1l13" n="N012"/>administratoren der Verlassenschaft des <rs type="person" ref="wkfm__24831">Johann Wolfgang Haymerl</rs> <seg type="editorial_comment_seg"><hi>0</hi><note type="editorial_comment_note">Fortsetzung unten unter Anmerckungen</note></seg> angezeiget,
                <lb facs="#facs_14_r1l14" n="N013"/>daß die Handlung unter der Raggion <rs type="person" ref="wkfm__13569">Butterna und Haymerl</rs> worunter der <rs type="person" ref="wkfm__24831"><unclear>Joh.</unclear>
                <lb break="no" facs="#facs_14_r1l15" n="N014"/>Wolfgang</rs> und <rs type="person" ref="wkfm__11795">Philipp Joseph Haymerl</rs> mitinteressenten waren, bereits geendigt
                <lb facs="#facs_14_r1l16" n="N015"/>seye, und haben <gap/> gebetten diese societaet individualiter <unclear>aufzuheben</unclear>
                <lb facs="#facs_14_r1l17" n="N016"/><seg type="wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_14_r1l18" n="N017"/>Anmerckungen
-               <lb facs="#facs_14_r1l19" n="N018"/><comment comment="Einschub\u0020in\u0020der\u0020Rubrik\u0020\u0022Societaets\u0020Contract\u0020und\u0020Interessenten\u0022"><hi>0</hi></comment> <rs type="person" ref="wkfm__43905">Sigmund Joachim v. Haymerl</rs> und <rs type="person" ref="wkfm__43906">Bernhard von Haymerl</rs>
+               <lb facs="#facs_14_r1l19" n="N018"/><seg type="editorial_comment_seg"><hi>0</hi><note type="editorial_comment_note">Einschub in der Rubrik Societaets Contract und Interessenten</note></seg> <rs type="person" ref="wkfm__43905">Sigmund Joachim v. Haymerl</rs> und <rs type="person" ref="wkfm__43906">Bernhard von Haymerl</rs>
             </ab>
             
         </div>

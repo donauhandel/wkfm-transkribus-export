@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3095" lry="4496" xml:id="facs_87">
+    <surface ulx="0" uly="0" lrx="3095" lry="4496" xml:id="facs_87">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0755.jpg" width="3095px" height="4496px"/>
          <zone points="198,202 198,3051 2844,3059 2844,210" rendition="TextRegion" xml:id="facs_87_r2">
             <zone points="1137,288 1170,287 1203,285 1237,285 1270,284 1304,284 1337,284 1371,284 1404,285 1438,285 1471,287 1504,287 1538,287 1571,288 1605,290 1638,290 1672,290 1705,291 1739,291 1772,291 1806,290 1806,208 1772,209 1739,209 1705,209 1672,208 1638,208 1605,208 1571,206 1538,205 1504,205 1471,205 1438,203 1404,203 1371,202 1337,202 1304,202 1270,202 1237,203 1203,203 1170,205 1137,206" rendition="Line" xml:id="facs_87_r2l1"/>
@@ -69,11 +69,11 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_87" n="87" xml:id="img_0087"/>
+            <pb facs="#facs_87" n="87" xml:id="img_0087"/>
             
-            <ab  facs="#facs_87_r2">
+            <ab facs="#facs_87_r2">
                <lb facs="#facs_87_r2l1" n="N001"/><seg type="name">Nahmen und Class</seg>
-               <lb facs="#facs_87_r2l2" n="N003"/><rs type="person" ref="wkfm__9487">Fetzer Franz Stephan</rs> <comment comment="Wahrscheinlich\u0020sollte\u0020hier\u0020\u0022bürgerlicher\u0020Handelsmann\u0022\u0020stehen">b</comment>
+               <lb facs="#facs_87_r2l2" n="N003"/><rs type="person" ref="wkfm__9487">Fetzer Franz Stephan</rs> <seg type="editorial_comment_seg">b<note type="editorial_comment_note">Wahrscheinlich sollte hier bürgerlicher Handelsmann stehen</note></seg>
                <lb facs="#facs_87_r2l3" n="N004"/>Firma ad Raggion
                <lb facs="#facs_87_r2l4" n="N005"/><rs type="person" ref="wkfm__47116">Franz Stephan Fetzer</rs> laut Anbringen de ps: 7<hi style="superscript">ten</hi> Julii 735 N<hi style="superscript">o</hi> 358
                <lb facs="#facs_87_r2l5" n="N006"/><seg type="owner">Procura und Firmae Trager</seg>

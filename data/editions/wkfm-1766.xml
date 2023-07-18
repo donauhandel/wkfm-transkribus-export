@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2886" lry="4476" xml:id="facs_60">
+    <surface ulx="0" uly="0" lrx="2886" lry="4476" xml:id="facs_60">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1766.jpg" width="2886px" height="4476px"/>
          <zone points="213,301 213,3421 2804,3421 2804,301" rendition="TextRegion" xml:id="facs_60_r1">
             <zone points="1067,388 1133,381 1199,377 1265,374 1331,374 1397,374 1463,376 1529,378 1595,381 1661,383 1727,388 1793,391 1859,392 1925,394 1991,395 2057,394 2123,391 2189,387 2255,380 2321,372 2388,361 2388,301 2321,312 2255,320 2189,327 2123,331 2057,334 1991,335 1925,334 1859,332 1793,331 1727,328 1661,323 1595,321 1529,318 1463,316 1397,314 1331,314 1265,314 1199,317 1133,321 1067,328" rendition="Line" xml:id="facs_60_r1l1"/>
@@ -75,9 +75,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_60" n="60" xml:id="img_0060"/>
+            <pb facs="#facs_60" n="60" xml:id="img_0060"/>
             
-            <ab  facs="#facs_60_r1">
+            <ab facs="#facs_60_r1">
                <lb facs="#facs_60_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_60_r1l2" n="N002"/>In obigen Anbringen de ps: 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 1894 hat sich der <rs type="person" ref="wkfm__46109">Eberhard
                <lb break="no" facs="#facs_60_r1l3" n="N003"/>Krahmer</rs> und <rs type="person" ref="wkfm__8331">Thomas Wellner</rs> miteinander <hi>g</hi> erklähret, das sie außer

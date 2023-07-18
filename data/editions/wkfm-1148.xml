@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2973" lry="4530" xml:id="facs_48">
+    <surface ulx="0" uly="0" lrx="2973" lry="4530" xml:id="facs_48">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1148.jpg" width="2973px" height="4530px"/>
          <zone points="279,167 279,3395 2868,3395 2868,167" rendition="TextRegion" xml:id="facs_48_r1">
             <zone points="1236,335 1294,330 1352,325 1411,321 1469,318 1528,316 1586,314 1645,312 1703,311 1762,311 1820,311 1878,311 1937,311 1995,309 2054,309 2112,309 2171,309 2229,308 2288,306 2346,306 2405,303 2405,167 2346,170 2288,170 2229,172 2171,173 2112,173 2054,173 1995,173 1937,175 1878,175 1820,175 1762,175 1703,175 1645,176 1586,178 1528,180 1469,182 1411,185 1352,189 1294,194 1236,199" rendition="Line" xml:id="facs_48_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_48" n="48" xml:id="img_0048"/>
+            <pb facs="#facs_48" n="48" xml:id="img_0048"/>
             
-            <ab  facs="#facs_48_r1">
+            <ab facs="#facs_48_r1">
                <lb facs="#facs_48_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_48_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> Junii 728 N<hi style="superscript">o</hi> 528 hat sich der
                <lb facs="#facs_48_r1l3" n="N003"/><rs type="person" ref="wkfm__46815">Landerer</rs> geäusseret, daß er in seiner Handlung frey und ohne

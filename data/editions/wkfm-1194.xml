@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2982" lry="4436" xml:id="facs_10">
+    <surface ulx="0" uly="0" lrx="2982" lry="4436" xml:id="facs_10">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1194.jpg" width="2982px" height="4436px"/>
          <zone points="306,178 306,3337 2850,3337 2850,178" rendition="TextRegion" xml:id="facs_10_r1">
             <zone points="1173,308 1234,301 1295,296 1356,293 1417,289 1479,287 1540,286 1601,284 1662,284 1723,284 1785,286 1846,287 1907,287 1968,289 2029,290 2091,292 2152,292 2213,293 2274,293 2335,293 2397,292 2397,186 2335,187 2274,187 2213,187 2152,186 2091,186 2029,184 1968,183 1907,181 1846,181 1785,180 1723,178 1662,178 1601,178 1540,180 1479,181 1417,183 1356,187 1295,190 1234,195 1173,202" rendition="Line" xml:id="facs_10_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_10" n="10" xml:id="img_0010"/>
+            <pb facs="#facs_10" n="10" xml:id="img_0010"/>
             
-            <ab  facs="#facs_10_r1">
+            <ab facs="#facs_10_r1">
                <lb facs="#facs_10_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_10_r1l2" n="N002"/>In obigen Anbringen de ps: 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 546 hat der <rs type="person" ref="wkfm__8095">Müll-
                <lb break="no" facs="#facs_10_r1l3" n="N003"/>nitsch</rs> angezeiget, das er sein negotium allein führe

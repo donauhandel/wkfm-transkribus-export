@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_132">
+    <surface ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_132">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0800.jpg" width="2994px" height="4530px"/>
          <graphic url="" width="2994px" height="4530px"/>
          <zone points="141,288 141,3417 2852,3417 2852,288" rendition="TextRegion" xml:id="facs_132_r1">
@@ -101,9 +101,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_132" n="132" xml:id="img_0132"/>
+            <pb facs="#facs_132" n="132" xml:id="img_0132"/>
             
-            <ab  facs="#facs_132_r1">
+            <ab facs="#facs_132_r1">
                <lb facs="#facs_132_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_132_r1l2" n="N002"/>Mitls Anbringen de ps: 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 735 N<hi style="superscript">o</hi> 1938 hat der <rs type="person" ref="wkfm__42886">Bernhard Falquet</rs> und <rs type="person" ref="wkfm__43810">Bernhard
                <lb break="no" facs="#facs_132_line_1621035494400_355" n="N003"/>Franz Violland</rs> angezeiget, daß sie in ihrem Negotio in <unclear>societaet</unclear> stehen unter der Ragg[ion]

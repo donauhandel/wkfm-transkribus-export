@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2964" lry="4502" xml:id="facs_174">
+    <surface ulx="0" uly="0" lrx="2964" lry="4502" xml:id="facs_174">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0228.jpg" width="2964px" height="4502px"/>
          <zone points="359,193 359,3329 2763,3329 2763,193" rendition="TextRegion" xml:id="facs_174_r1">
             <zone points="818,308 889,304 960,301 1031,299 1103,298 1174,298 1245,298 1317,299 1388,301 1459,302 1531,304 1602,307 1673,308 1744,311 1816,314 1887,316 1958,319 2030,320 2101,322 2172,322 2244,323 2244,218 2172,217 2101,217 2030,215 1958,214 1887,211 1816,209 1744,206 1673,203 1602,202 1531,199 1459,197 1388,196 1317,194 1245,193 1174,193 1103,193 1031,194 960,196 889,199 818,203" rendition="Line" xml:id="facs_174_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_174" n="174" xml:id="img_0174"/>
+            <pb facs="#facs_174" n="174" xml:id="img_0174"/>
             
-            <ab  facs="#facs_174_r1">
+            <ab facs="#facs_174_r1">
                <lb facs="#facs_174_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_174_r1l2" n="N002"/>In obigen Anbringen de ps: 22<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 735 N<hi style="superscript">o</hi> 104 hat sich der
                <lb facs="#facs_174_r1l3" n="N003"/><rs type="person" ref="wkfm__24968">Polz</rs> erklähret, das niemand in seiner Handlung mitinteressiert

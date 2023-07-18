@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2886" lry="4476" xml:id="facs_24">
+    <surface ulx="0" uly="0" lrx="2886" lry="4476" xml:id="facs_24">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1730.jpg" width="2886px" height="4476px"/>
          <zone points="230,235 230,3424 2800,3420 2800,231" rendition="TextRegion" xml:id="facs_24_r1">
             <zone points="1083,384 1149,377 1216,372 1283,368 1350,367 1417,366 1484,367 1550,369 1617,372 1684,375 1751,377 1818,380 1885,382 1952,384 2018,385 2085,384 2152,382 2219,379 2286,374 2353,366 2420,355 2420,235 2353,246 2286,254 2219,259 2152,262 2085,264 2018,265 1952,264 1885,262 1818,260 1751,257 1684,255 1617,252 1550,249 1484,247 1417,246 1350,247 1283,248 1216,252 1149,257 1083,264" rendition="Line" xml:id="facs_24_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_24" n="24" xml:id="img_0024"/>
+            <pb facs="#facs_24" n="24" xml:id="img_0024"/>
             
-            <ab  facs="#facs_24_r1">
+            <ab facs="#facs_24_r1">
                <lb facs="#facs_24_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_24_r1l3" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 794 hat sich
                <lb facs="#facs_24_r1l4" n="N003"/>der <rs type="person" ref="wkfm__8326">Weisenbekh</rs> geäusseret, das er ohne Verständnuß für sich allein

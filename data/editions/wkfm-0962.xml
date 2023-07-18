@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4437" xml:id="facs_42">
+    <surface ulx="0" uly="0" lrx="2994" lry="4437" xml:id="facs_42">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0962.jpg" width="2994px" height="4437px"/>
          <zone points="369,168 369,3385 2865,3385 2865,168" rendition="TextRegion" xml:id="facs_42_r1">
             <zone points="1127,326 1189,320 1251,315 1313,311 1375,308 1437,305 1499,304 1561,303 1623,302 1685,302 1748,302 1810,302 1872,302 1934,302 1996,302 2058,301 2120,299 2182,296 2244,293 2306,288 2369,283 2369,168 2306,173 2244,178 2182,181 2120,184 2058,186 1996,187 1934,187 1872,187 1810,187 1748,187 1685,187 1623,187 1561,188 1499,189 1437,190 1375,193 1313,196 1251,200 1189,205 1127,211" rendition="Line" xml:id="facs_42_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_42" n="42" xml:id="img_0042"/>
+            <pb facs="#facs_42" n="42" xml:id="img_0042"/>
             
-            <ab  facs="#facs_42_r1">
+            <ab facs="#facs_42_r1">
                <lb facs="#facs_42_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_42_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 444 hat sich der
                <lb facs="#facs_42_r1l3" n="N003"/><rs type="person" ref="wkfm__13519">Heldt</rs> geäusseret, das er seine Handlung ohne Compagnie führe

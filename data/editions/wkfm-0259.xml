@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2991" lry="4541" xml:id="facs_205">
+    <surface ulx="0" uly="0" lrx="2991" lry="4541" xml:id="facs_205">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0259.jpg" width="2991px" height="4541px"/>
          <zone points="134,189 134,2984 2661,2984 2661,189" rendition="TextRegion" xml:id="facs_205_r2">
             <zone points="2478,312 2505,315 2532,317 2559,315 2586,315 2613,314 2640,315 2640,243 2613,242 2586,243 2559,243 2532,245 2505,243 2478,240" rendition="Line" xml:id="facs_205_r2l2" subtype="page-number"/>
@@ -82,9 +82,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_205" n="205" xml:id="img_0205"/>
+            <pb facs="#facs_205" n="205" xml:id="img_0205"/>
             
-            <ab  facs="#facs_205_r2">
+            <ab facs="#facs_205_r2">
                <lb facs="#facs_205_r2l2" n="N001"/>127
                <lb facs="#facs_205_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_205_r2l3" n="N003"/><rs type="person" ref="wkfm__37177">Bolza Joseph</rs> k. k. Niderlags Verwanter

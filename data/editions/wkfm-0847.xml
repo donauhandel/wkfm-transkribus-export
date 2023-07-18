@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3095" lry="4553" xml:id="facs_35">
+    <surface ulx="0" uly="0" lrx="3095" lry="4553" xml:id="facs_35">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0847.jpg" width="3095px" height="4553px"/>
          <zone points="209,242 209,3081 2753,3081 2753,242" rendition="TextRegion" xml:id="facs_35_r1">
             <zone points="2600,425 2630,421 2661,420 2692,419 2723,416 2723,326 2692,329 2661,330 2630,331 2600,335" rendition="Line" xml:id="facs_35_r1l2" subtype="page-number"/>
@@ -70,9 +70,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_35" n="35" xml:id="img_0035"/>
+            <pb facs="#facs_35" n="35" xml:id="img_0035"/>
             
-            <ab  facs="#facs_35_r1">
+            <ab facs="#facs_35_r1">
                <lb facs="#facs_35_r1l2" n="N001"/>421
                <lb facs="#facs_35_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_35_r1l3" n="N003"/><rs type="person" ref="wkfm__22393">v. Gotesching Wenzl Franz</rs> burgerlicher Handlsmann

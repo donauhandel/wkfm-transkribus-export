@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2794" lry="4476" xml:id="facs_112">
+    <surface ulx="0" uly="0" lrx="2794" lry="4476" xml:id="facs_112">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1818.jpg" width="2794px" height="4476px"/>
          <zone points="63,153 63,4382 2532,4382 2532,153" rendition="TextRegion" xml:id="facs_112_r1">
             <zone points="873,281 1916,254 1942,253 1968,251 1994,249 2020,245 2046,242 2071,240 2097,238 2123,236 2149,235 2175,235 2201,235 2201,156 2175,156 2149,156 2123,157 2097,159 2071,161 2046,163 2020,166 1994,170 1968,172 1942,174 1916,175 873,202" rendition="Line" xml:id="facs_112_r1l1"/>
@@ -77,9 +77,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_112" n="112" xml:id="img_0112"/>
+            <pb facs="#facs_112" n="112" xml:id="img_0112"/>
             
-            <ab  facs="#facs_112_r1">
+            <ab facs="#facs_112_r1">
                <lb facs="#facs_112_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_112_r1l2" n="N002"/><seg type="wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_112_r1l3" n="N003"/><choice><expan/><abbr>Ao:</abbr></choice> 764 hat der <rs type="person" ref="wkfm__47043">Johann Andre Weygant</rs> seinen mit der <rs type="person" ref="wkfm__47045">Elisabeth

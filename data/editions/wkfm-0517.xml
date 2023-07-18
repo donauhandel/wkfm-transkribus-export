@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3049" lry="4436" xml:id="facs_17">
+    <surface ulx="0" uly="0" lrx="3049" lry="4436" xml:id="facs_17">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0517.jpg" width="3049px" height="4436px"/>
          <zone points="336,132 336,2923 2835,2923 2835,132" rendition="TextRegion" xml:id="facs_17_r2">
             <zone points="2649,355 2675,355 2701,355 2728,354 2754,352 2781,349 2807,346 2834,342 2834,230 2807,234 2781,237 2754,240 2728,242 2701,243 2675,243 2649,243" rendition="Line" xml:id="facs_17_r2l2" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_17" n="17" xml:id="img_0017"/>
+            <pb facs="#facs_17" n="17" xml:id="img_0017"/>
             
-            <ab  facs="#facs_17_r2">
+            <ab facs="#facs_17_r2">
                <lb facs="#facs_17_r2l2" n="N001"/>256
                <lb facs="#facs_17_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_17_r2l3" n="N003"/><rs type="person" ref="wkfm__46202">Dybalt Johann Georg</rs> burgerlicher Handlsmann

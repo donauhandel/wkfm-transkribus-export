@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3023" lry="4477" xml:id="facs_65">
+    <surface ulx="0" uly="0" lrx="3023" lry="4477" xml:id="facs_65">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1523.jpg" width="3023px" height="4477px"/>
          <zone points="321,103 321,2894 2886,2894 2886,103" rendition="TextRegion" xml:id="facs_65_r2">
             <zone points="2754,322 2780,320 2806,320 2833,323 2859,326 2886,329 2886,250 2859,247 2833,244 2806,241 2780,241 2754,243" rendition="Line" xml:id="facs_65_r2l2" subtype="page-number"/>
@@ -70,9 +70,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_65" n="65" xml:id="img_0065"/>
+            <pb facs="#facs_65" n="65" xml:id="img_0065"/>
             
-            <ab  facs="#facs_65_r2">
+            <ab facs="#facs_65_r2">
                <lb facs="#facs_65_r2l2" n="N001"/>754
                <lb facs="#facs_65_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_65_r2l3" n="N003"/><rs type="person" ref="wkfm__18219">Scharnagl Johann Georg</rs> burgerlicher Handlsmann

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3057" lry="4521" xml:id="facs_17">
+    <surface ulx="0" uly="0" lrx="3057" lry="4521" xml:id="facs_17">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1081.jpg" width="3057px" height="4521px"/>
          <zone points="249,204 249,3079 2843,3079 2843,204" rendition="TextRegion" xml:id="facs_17_r2">
             <zone points="2699,427 2727,432 2756,436 2785,437 2814,437 2843,436 2843,321 2814,322 2785,322 2756,321 2727,317 2699,312" rendition="Line" xml:id="facs_17_r2l2" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_17" n="17" xml:id="img_0017"/>
+            <pb facs="#facs_17" n="17" xml:id="img_0017"/>
             
-            <ab  facs="#facs_17_r2">
+            <ab facs="#facs_17_r2">
                <lb facs="#facs_17_r2l2" n="N001"/>534
                <lb facs="#facs_17_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_17_r2l3" n="N003"/><rs type="person" ref="wkfm__43871">Illing Anton Joseph</rs> burgerlicher Handlsmann

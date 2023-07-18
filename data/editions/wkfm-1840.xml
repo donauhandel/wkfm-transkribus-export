@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2893" lry="4398" xml:id="facs_10">
+    <surface ulx="0" uly="0" lrx="2893" lry="4398" xml:id="facs_10">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1840.jpg" width="2893px" height="4398px"/>
          <zone points="192,46 192,3264 2691,3264 2691,46" rendition="TextRegion" xml:id="facs_10_r1">
             <zone points="1055,228 1128,228 1202,228 1275,228 1349,228 1422,228 1496,228 1569,228 1643,228 1716,227 1790,226 1864,224 1937,221 2011,218 2084,215 2158,209 2231,203 2305,194 2378,186 2452,176 2526,164 2526,46 2452,58 2378,68 2305,76 2231,85 2158,91 2084,97 2011,100 1937,103 1864,106 1790,108 1716,109 1643,110 1569,110 1496,110 1422,110 1349,110 1275,110 1202,110 1128,110 1055,110" rendition="Line" xml:id="facs_10_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_10" n="10" xml:id="img_0010"/>
+            <pb facs="#facs_10" n="10" xml:id="img_0010"/>
             
-            <ab  facs="#facs_10_r1">
+            <ab facs="#facs_10_r1">
                <lb facs="#facs_10_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_10_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 25<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 733 N<hi style="superscript">o</hi> 847 hat sich der
                <lb facs="#facs_10_r1l3" n="N003"/><rs type="person" ref="wkfm__43858">Zetner</rs> geäusseret, das er seine Handlung ohne Compagnon führe

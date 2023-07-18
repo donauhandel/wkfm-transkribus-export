@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2886" lry="4476" xml:id="facs_44">
+    <surface ulx="0" uly="0" lrx="2886" lry="4476" xml:id="facs_44">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1750.jpg" width="2886px" height="4476px"/>
          <zone points="330,251 330,3384 2763,3384 2763,251" rendition="TextRegion" xml:id="facs_44_r1">
             <zone points="1085,402 1149,397 1213,392 1277,389 1341,387 1405,387 1469,387 1533,387 1597,387 1661,389 1725,390 1789,390 1853,392 1917,392 1981,390 2045,389 2109,386 2173,381 2237,377 2301,369 2366,359 2366,251 2301,261 2237,269 2173,273 2109,278 2045,281 1981,282 1917,284 1853,284 1789,282 1725,282 1661,281 1597,279 1533,279 1469,279 1405,279 1341,279 1277,281 1213,284 1149,289 1085,294" rendition="Line" xml:id="facs_44_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_44" n="44" xml:id="img_0044"/>
+            <pb facs="#facs_44" n="44" xml:id="img_0044"/>
             
-            <ab  facs="#facs_44_r1">
+            <ab facs="#facs_44_r1">
                <lb facs="#facs_44_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_44_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 804 hat sich der
                <lb facs="#facs_44_r1l3" n="N003"/><rs type="person" ref="wkfm__46977">Wibmer</rs> geäusseret das er mit niemand in Compagnie stehe

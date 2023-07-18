@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_70">
+    <surface ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_70">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0390.jpg" width="2934px" height="4501px"/>
          <zone points="351,203 351,3358 2841,3358 2841,203" rendition="TextRegion" xml:id="facs_70_r1">
             <zone points="1022,318 1087,313 1153,309 1219,305 1285,303 1351,300 1417,299 1482,298 1548,298 1614,298 1680,298 1746,298 1812,298 1878,298 1943,300 2009,300 2075,300 2141,300 2207,298 2273,298 2339,297 2339,203 2273,204 2207,204 2141,206 2075,206 2009,206 1943,206 1878,204 1812,204 1746,204 1680,204 1614,204 1548,204 1482,204 1417,205 1351,206 1285,209 1219,211 1153,215 1087,219 1022,224" rendition="Line" xml:id="facs_70_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_70" n="70" xml:id="img_0070"/>
+            <pb facs="#facs_70" n="70" xml:id="img_0070"/>
             
-            <ab  facs="#facs_70_r1">
+            <ab facs="#facs_70_r1">
                <lb facs="#facs_70_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_70_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 193 hat
                <lb facs="#facs_70_r1l3" n="N003"/>sich der <rs type="person" ref="wkfm__46116">Kellner</rs> geäusseret, daß er sich in seinem Negotio

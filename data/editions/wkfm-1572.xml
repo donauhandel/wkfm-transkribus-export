@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2929" lry="4455" xml:id="facs_114">
+    <surface ulx="0" uly="0" lrx="2929" lry="4455" xml:id="facs_114">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1572.jpg" width="2929px" height="4455px"/>
          <zone points="354,159 354,3323 2865,3323 2865,159" rendition="TextRegion" xml:id="facs_114_r1">
             <zone points="1106,281 1177,271 1249,264 1320,259 1392,255 1463,252 1535,251 1606,251 1678,251 1749,252 1821,253 1892,254 1964,255 2035,255 2107,254 2178,252 2250,250 2321,246 2393,239 2465,231 2465,159 2393,167 2321,174 2250,178 2178,180 2107,182 2035,183 1964,183 1892,182 1821,181 1749,180 1678,179 1606,179 1535,179 1463,180 1392,183 1320,187 1249,192 1177,199 1106,209" rendition="Line" xml:id="facs_114_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_114" n="114" xml:id="img_0114"/>
+            <pb facs="#facs_114" n="114" xml:id="img_0114"/>
             
-            <ab  facs="#facs_114_r1">
+            <ab facs="#facs_114_r1">
                <lb facs="#facs_114_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_114_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 15<hi style="superscript">ten</hi> Julii 729 N<hi style="superscript">o</hi> 718 hat sich der
                <lb facs="#facs_114_r1l6" n="N003"/><rs type="person" ref="wkfm__31324">Schaldbaur</rs> geäusseret das er seine Handlung ohne Compagnon führe

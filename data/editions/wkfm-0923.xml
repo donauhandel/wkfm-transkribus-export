@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3095" lry="4469" xml:id="facs_3">
+    <surface ulx="0" uly="0" lrx="3095" lry="4469" xml:id="facs_3">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0923.jpg" width="3095px" height="4469px"/>
          <zone points="213,171 213,2976 2844,2976 2844,171" rendition="TextRegion" xml:id="facs_3_r1">
             <zone points="2730,294 2758,296 2787,297 2815,297 2844,300 2844,233 2815,230 2787,230 2758,229 2730,227" rendition="Line" xml:id="facs_3_r1l2" subtype="page-number"/>
@@ -78,9 +78,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_3" n="3" xml:id="img_0003"/>
+            <pb facs="#facs_3" n="3" xml:id="img_0003"/>
             
-            <ab  facs="#facs_3_r1">
+            <ab facs="#facs_3_r1">
                <lb facs="#facs_3_r1l2" n="N001"/>454
                <lb facs="#facs_3_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_3_r1l3" n="N003"/><rs type="person" ref="wkfm__11674">Haider Stephan Joseph</rs> burgerlicher Tuchlaubens Verwanter

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2866" lry="4476" xml:id="facs_6">
+    <surface ulx="0" uly="0" lrx="2866" lry="4476" xml:id="facs_6">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1712.jpg" width="2866px" height="4476px"/>
          <zone points="75,256 75,3386 2738,3386 2738,256" rendition="TextRegion" xml:id="facs_6_r1">
             <zone points="872,403 936,392 1001,383 1065,375 1130,369 1194,364 1259,359 1323,358 1388,355 1452,353 1517,352 1581,352 1646,350 1710,349 1775,348 1839,346 1904,344 1968,341 2033,337 2097,332 2162,326 2162,256 2097,262 2033,267 1968,271 1904,274 1839,276 1775,278 1710,279 1646,280 1581,282 1517,282 1452,283 1388,285 1323,288 1259,289 1194,294 1130,299 1065,305 1001,313 936,322 872,333" rendition="Line" xml:id="facs_6_r1l1"/>
@@ -75,9 +75,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_6" n="6" xml:id="img_0006"/>
+            <pb facs="#facs_6" n="6" xml:id="img_0006"/>
             
-            <ab  facs="#facs_6_r1">
+            <ab facs="#facs_6_r1">
                <lb facs="#facs_6_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_6_r1l2" n="N002"/>In obigen Anbringen de ps: 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 2062 hat sich der <rs type="person" ref="wkfm__46950">Arnold Philipp
                <lb break="no" facs="#facs_6_r1l3" n="N003"/>von Werzelli</rs> nebst dem <rs type="person" ref="wkfm__44148">Giulio Maria Sonzogno</rs> erklähret, das <hi>sie beede</hi>

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3051" lry="4473" xml:id="facs_140">
+    <surface ulx="0" uly="0" lrx="3051" lry="4473" xml:id="facs_140">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0460.jpg" width="3051px" height="4473px"/>
          <zone points="311,177 311,3282 2955,3282 2955,177" rendition="TextRegion" xml:id="facs_140_r1">
             <zone points="1064,294 1127,289 1191,284 1254,281 1318,279 1382,275 1445,273 1509,271 1572,270 1636,268 1700,267 1763,265 1827,264 1890,263 1954,262 2018,261 2081,259 2145,258 2208,256 2272,253 2336,252 2336,177 2272,178 2208,181 2145,183 2081,184 2018,186 1954,187 1890,188 1827,189 1763,190 1700,192 1636,193 1572,195 1509,196 1445,198 1382,200 1318,204 1254,206 1191,209 1127,214 1064,219" rendition="Line" xml:id="facs_140_r1l1"/>
@@ -71,9 +71,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_140" n="140" xml:id="img_0140"/>
+            <pb facs="#facs_140" n="140" xml:id="img_0140"/>
             
-            <ab  facs="#facs_140_r1">
+            <ab facs="#facs_140_r1">
                <lb facs="#facs_140_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_140_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 729 N<hi style="superscript">o</hi> 1854 hat sich der <rs type="person" ref="wkfm__43894">Johann
                <lb break="no" facs="#facs_140_r1l3" n="N003"/>Joseph Peter</rs> und <rs type="person" ref="wkfm__43895">Michäl Justus Kratzer</rs> <hi>erklährert</hi> geäusseret, daß 

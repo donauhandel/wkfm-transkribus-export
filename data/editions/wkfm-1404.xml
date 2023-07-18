@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2953" lry="4400" xml:id="facs_52">
+    <surface ulx="0" uly="0" lrx="2953" lry="4400" xml:id="facs_52">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1404.jpg" width="2953px" height="4400px"/>
          <zone points="396,187 396,3323 2874,3323 2874,187" rendition="TextRegion" xml:id="facs_52_r1">
             <zone points="1171,296 1297,296 1359,295 1421,295 1484,295 1546,295 1608,296 1671,296 1733,296 1795,296 1858,296 1920,296 1982,296 2044,296 2107,295 2169,295 2231,293 2294,292 2356,290 2418,288 2481,284 2481,187 2418,191 2356,193 2294,195 2231,196 2169,198 2107,198 2044,199 1982,199 1920,199 1858,199 1795,199 1733,199 1671,199 1608,199 1546,198 1484,198 1421,198 1359,198 1297,199 1171,199" rendition="Line" xml:id="facs_52_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_52" n="52" xml:id="img_0052"/>
+            <pb facs="#facs_52" n="52" xml:id="img_0052"/>
             
-            <ab  facs="#facs_52_r1">
+            <ab facs="#facs_52_r1">
                <lb facs="#facs_52_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_52_r1l2" n="N002"/>In obiger Erkährung dd<hi style="superscript">to</hi> 26<hi style="superscript">ten</hi> Julii 727 N<hi style="superscript">o</hi> 634 hat sich der
                <lb facs="#facs_52_r1l3" n="N003"/><rs type="person" ref="wkfm__38711">Raschat</rs> geäusseret, daß er keinen Compagnon habe.

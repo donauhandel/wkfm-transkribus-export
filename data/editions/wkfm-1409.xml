@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2973" lry="4391" xml:id="facs_57">
+    <surface ulx="0" uly="0" lrx="2973" lry="4391" xml:id="facs_57">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1409.jpg" width="2973px" height="4391px"/>
          <graphic url="" width="2973px" height="4391px"/>
          <zone points="152,196 152,2946 2759,2946 2759,196" rendition="TextRegion" xml:id="facs_57_r1">
@@ -76,9 +76,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_57" n="57" xml:id="img_0057"/>
+            <pb facs="#facs_57" n="57" xml:id="img_0057"/>
             
-            <ab  facs="#facs_57_r1">
+            <ab facs="#facs_57_r1">
                <lb facs="#facs_57_r1l2" n="N001"/>697
                <lb facs="#facs_57_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_57_r1l3" n="N003"/><rs type="person" ref="wkfm__16702">Rosina Franz Maria</rs> k. k. Niderlags Verwanter

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2929" lry="4455" xml:id="facs_68">
+    <surface ulx="0" uly="0" lrx="2929" lry="4455" xml:id="facs_68">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1526.jpg" width="2929px" height="4455px"/>
          <zone points="345,123 345,3311 2873,3287 2873,99" rendition="TextRegion" xml:id="facs_68_r1">
             <zone points="1073,313 1138,307 1203,302 1269,298 1334,294 1400,292 1465,290 1530,289 1596,287 1661,286 1727,286 1792,284 1857,283 1923,281 1988,278 2054,276 2119,272 2184,268 2250,262 2315,255 2381,247 2381,123 2315,131 2250,138 2184,144 2119,148 2054,152 1988,154 1923,157 1857,159 1792,160 1727,162 1661,162 1596,163 1530,165 1465,166 1400,168 1334,170 1269,174 1203,178 1138,183 1073,189" rendition="Line" xml:id="facs_68_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_68" n="68" xml:id="img_0068"/>
+            <pb facs="#facs_68" n="68" xml:id="img_0068"/>
             
-            <ab  facs="#facs_68_r1">
+            <ab facs="#facs_68_r1">
                <lb facs="#facs_68_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_68_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 689 hat sich der
                <lb facs="#facs_68_r1l3" n="N003"/><rs type="person" ref="wkfm__8202">Stietga</rs> geäusseret, daß er keinen Compagnon habe

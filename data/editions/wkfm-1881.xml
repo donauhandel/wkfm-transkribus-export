@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2979" lry="4383" xml:id="facs_27">
+    <surface ulx="0" uly="0" lrx="2979" lry="4383" xml:id="facs_27">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1881.jpg" width="2979px" height="4383px"/>
          <zone points="137,162 137,2947 2762,2947 2762,162" rendition="TextRegion" xml:id="facs_27_r4">
             <zone points="2627,421 2654,423 2681,426 2708,428 2735,426 2762,424 2762,345 2735,347 2708,349 2681,347 2654,344 2627,342" rendition="Line" xml:id="facs_27_r4l2" subtype="page-number"/>
@@ -73,9 +73,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_27" n="27" xml:id="img_0027"/>
+            <pb facs="#facs_27" n="27" xml:id="img_0027"/>
             
-            <ab  facs="#facs_27_r4">
+            <ab facs="#facs_27_r4">
                <lb facs="#facs_27_r4l2" n="N001"/>933
                <lb facs="#facs_27_r4l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_27_r4l3" n="N003"/><rs type="person" ref="wkfm__9652">Schleßinger Marx </rs>Jud

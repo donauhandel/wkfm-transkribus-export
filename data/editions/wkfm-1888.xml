@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2893" lry="4398" xml:id="facs_34">
+    <surface ulx="0" uly="0" lrx="2893" lry="4398" xml:id="facs_34">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1888.jpg" width="2893px" height="4398px"/>
          <zone points="155,127 155,3292 2748,3292 2748,127" rendition="TextRegion" xml:id="facs_34_r1">
             <zone points="1055,236 1118,232 1182,230 1246,229 1310,229 1374,229 1438,230 1502,232 1566,234 1630,236 1694,238 1757,241 1821,242 1885,244 1949,244 2013,244 2077,242 2141,240 2205,236 2269,231 2333,223 2333,127 2269,135 2205,140 2141,144 2077,146 2013,148 1949,148 1885,148 1821,146 1757,145 1694,142 1630,140 1566,138 1502,136 1438,134 1374,133 1310,133 1246,133 1182,134 1118,136 1055,140" rendition="Line" xml:id="facs_34_r1l1"/>
@@ -68,9 +68,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_34" n="34" xml:id="img_0034"/>
+            <pb facs="#facs_34" n="34" xml:id="img_0034"/>
             
-            <ab  facs="#facs_34_r1">
+            <ab facs="#facs_34_r1">
                <lb facs="#facs_34_r1l1" n="N001"/>Societats Contract und Interessenten
                <lb facs="#facs_34_r1l2" n="N002"/>Mitls Anbringen de ps: 11<hi style="superscript">ten</hi> May 725 N<hi style="superscript">o</hi> 868 hat die <rs type="person" ref="wkfm__43829">Freitcha Simonin</rs>
                <lb facs="#facs_34_r1l3" n="N003"/>des <rs type="person" ref="wkfm__25401, 38514">Samuel Simons</rs> Ehewirthin angezeiget, daß ihr damahl <unclear>abwender</unclear>

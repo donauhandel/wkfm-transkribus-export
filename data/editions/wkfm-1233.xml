@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2954" lry="4491" xml:id="facs_49">
+    <surface ulx="0" uly="0" lrx="2954" lry="4491" xml:id="facs_49">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1233.jpg" width="2954px" height="4491px"/>
          <zone points="130,112 130,2942 2793,2940 2793,110" rendition="TextRegion" xml:id="facs_49_r2">
             <zone points="148,245 237,245 237,389 148,389" rendition="Line" xml:id="facs_49_line_1624960651839_940"/>
@@ -70,9 +70,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_49" n="49" xml:id="img_0049"/>
+            <pb facs="#facs_49" n="49" xml:id="img_0049"/>
             
-            <ab  facs="#facs_49_r2">
+            <ab facs="#facs_49_r2">
                <lb facs="#facs_49_r2l1" n="N003"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_49_r2l3" n="N004"/><rs type="person" ref="wkfm__18974">Mathesy Sebastian</rs> burgerlicher Handlsmann
                <lb facs="#facs_49_r2l4" n="N005"/>Firma ad Raggion

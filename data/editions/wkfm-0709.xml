@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3095" lry="4496" xml:id="facs_41">
+    <surface ulx="0" uly="0" lrx="3095" lry="4496" xml:id="facs_41">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0709.jpg" width="3095px" height="4496px"/>
          <zone points="223,212 223,3048 2844,3053 2844,217" rendition="TextRegion" xml:id="facs_41_r2">
             <zone points="2664,400 2691,404 2718,406 2745,407 2772,406 2799,406 2826,406 2826,309 2799,309 2772,309 2745,310 2718,309 2691,307 2664,303" rendition="Line" xml:id="facs_41_r2l2" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_41" n="41" xml:id="img_0041"/>
+            <pb facs="#facs_41" n="41" xml:id="img_0041"/>
             
-            <ab  facs="#facs_41_r2">
+            <ab facs="#facs_41_r2">
                <lb facs="#facs_41_r2l2" n="N001"/>352
                <lb facs="#facs_41_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_41_r2l3" n="N003"/><rs type="person" ref="wkfm__8188">Visconti Ludwig Anton</rs> burgerlicher Handlsmann

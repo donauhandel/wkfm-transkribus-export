@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3105" lry="4455" xml:id="facs_3">
+    <surface ulx="0" uly="0" lrx="3105" lry="4455" xml:id="facs_3">
          <graphic url="25378450.jpg" width="3105px" height="4455px"/>
          <graphic url="https://files.transkribus.eu/Get?id=DZLHJCRRCBHQAQLQWRTUZWTJ&amp;fileType=view" width="3105px" height="4455px"/>
          <zone points="215,148 215,2873 2741,2873 2741,148" rendition="TextRegion" xml:id="facs_3_r1">
@@ -71,9 +71,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_3" n="3" xml:id="img_0003"/>
+            <pb facs="#facs_3" n="3" xml:id="img_0003"/>
             
-            <ab  facs="#facs_3_r1">
+            <ab facs="#facs_3_r1">
                <lb facs="#facs_3_r1l1" n="N001"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_3_r1l2" n="N002"/><hi>527</hi> 640
                <lb facs="#facs_3_r1l3" n="N003"/><rs type="person" ref="wkfm__46652">Niggl Christoph Jacob <hi>burg</hi> <choice><expan/><abbr>seel.</abbr></choice> Wittib</rs> hofbefreyte Handlsfrau

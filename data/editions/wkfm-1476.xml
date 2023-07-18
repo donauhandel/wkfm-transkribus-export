@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2929" lry="4455" xml:id="facs_18">
+    <surface ulx="0" uly="0" lrx="2929" lry="4455" xml:id="facs_18">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1476.jpg" width="2929px" height="4455px"/>
          <zone points="117,151 117,3268 2766,3268 2766,151" rendition="TextRegion" xml:id="facs_18_r1">
             <zone points="939,290 1003,283 1067,278 1131,274 1195,272 1260,270 1324,269 1388,269 1452,269 1516,271 1581,272 1645,272 1709,274 1773,274 1837,275 1902,274 1966,272 2030,271 2094,268 2158,263 2223,257 2223,151 2158,157 2094,162 2030,165 1966,166 1902,168 1837,169 1773,168 1709,168 1645,166 1581,166 1516,165 1452,163 1388,163 1324,163 1260,164 1195,166 1131,168 1067,172 1003,177 939,184" rendition="Line" xml:id="facs_18_r1l1"/>
@@ -68,9 +68,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_18" n="18" xml:id="img_0018"/>
+            <pb facs="#facs_18" n="18" xml:id="img_0018"/>
             
-            <ab  facs="#facs_18_r1">
+            <ab facs="#facs_18_r1">
                <lb facs="#facs_18_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_18_r1l2" n="N002"/>In obigen Anbringen de ps: 21<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 2040 und Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725
                <lb facs="#facs_18_r1l3" n="N003"/>N<hi style="superscript">o</hi> 2041 hat die Raggion <rs type="person" ref="wkfm__20968">Nicolaus Salliet et Compagnie</rs> dann der <rs type="person" ref="wkfm__13222">Niclas Salliet</rs> angezei-

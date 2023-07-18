@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2925" lry="4473" xml:id="facs_136">
+    <surface ulx="0" uly="0" lrx="2925" lry="4473" xml:id="facs_136">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0189.jpg" width="2925px" height="4473px"/>
          <graphic url="" width="2925px" height="4473px"/>
          <zone points="416,154 416,3337 2736,3337 2736,154" rendition="TextRegion" xml:id="facs_136_r1">
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_136" n="136" xml:id="img_0136"/>
+            <pb facs="#facs_136" n="136" xml:id="img_0136"/>
             
-            <ab  facs="#facs_136_r1">
+            <ab facs="#facs_136_r1">
                <lb facs="#facs_136_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_136_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 14<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 730 N<hi style="superscript">o</hi> 88 hat sich der <rs type="person" ref="wkfm__43899">Praun</rs>
                <lb facs="#facs_136_r1l3" n="N003"/>geäusseret, das er keinen Compagnon habe.

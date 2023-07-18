@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3059" lry="4473" xml:id="facs_133">
+    <surface ulx="0" uly="0" lrx="3059" lry="4473" xml:id="facs_133">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0186.jpg" width="3059px" height="4473px"/>
          <zone points="251,167 251,2997 2636,2997 2636,167" rendition="TextRegion" xml:id="facs_133_r2">
             <zone points="2501,240 2528,235 2555,232 2582,229 2609,227 2636,225 2636,167 2609,169 2582,171 2555,174 2528,177 2501,182" rendition="Line" xml:id="facs_133_r2l1" subtype="page-number"/>
@@ -71,9 +71,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_133" n="133" xml:id="img_0133"/>
+            <pb facs="#facs_133" n="133" xml:id="img_0133"/>
             
-            <ab  facs="#facs_133_r2">
+            <ab facs="#facs_133_r2">
                <lb facs="#facs_133_r2l1" n="N001"/>91
                <lb facs="#facs_133_r2l2" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_133_r2l3" n="N003"/><rs type="person" ref="wkfm__43896">Pillitschotti Ignaz</rs> burgerlicher Handlsmann

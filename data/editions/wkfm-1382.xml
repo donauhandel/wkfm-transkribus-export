@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2953" lry="4400" xml:id="facs_30">
+    <surface ulx="0" uly="0" lrx="2953" lry="4400" xml:id="facs_30">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1382.jpg" width="2953px" height="4400px"/>
          <zone points="266,169 266,3325 2865,3325 2865,169" rendition="TextRegion" xml:id="facs_30_r1">
             <zone points="1010,286 1077,277 1144,269 1211,263 1279,259 1346,256 1413,255 1481,254 1548,254 1615,256 1683,257 1750,258 1817,259 1885,260 1952,260 2019,260 2087,260 2154,257 2221,254 2289,248 2289,169 2221,175 2154,178 2087,181 2019,181 1952,181 1885,181 1817,180 1750,179 1683,178 1615,177 1548,175 1481,175 1413,176 1346,177 1279,180 1211,184 1144,190 1077,198 1010,207" rendition="Line" xml:id="facs_30_r1l1"/>
@@ -74,9 +74,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_30" n="30" xml:id="img_0030"/>
+            <pb facs="#facs_30" n="30" xml:id="img_0030"/>
             
-            <ab  facs="#facs_30_r1">
+            <ab facs="#facs_30_r1">
                <lb facs="#facs_30_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_30_r1l2" n="N002"/>In obigen Anbringen de ps: 8<hi style="superscript">ten</hi> May 725 N<hi style="superscript">o</hi> 1051 und <hi>Anbringen de ps:</hi> Er-
                <lb facs="#facs_30_r1l3" n="N003"/>klährung dd<hi style="superscript">to</hi> 26<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 1050 hat der <rs type="person" ref="wkfm__46698">v. Rauner der Jüngere</rs> nebst

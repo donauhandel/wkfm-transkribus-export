@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4437" xml:id="facs_46">
+    <surface ulx="0" uly="0" lrx="2994" lry="4437" xml:id="facs_46">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0966.jpg" width="2994px" height="4437px"/>
          <zone points="422,211 422,3392 2828,3392 2828,211" rendition="TextRegion" xml:id="facs_46_r1">
             <zone points="1202,338 1262,332 1322,326 1382,323 1443,320 1503,317 1563,316 1624,316 1684,316 1744,316 1805,316 1865,317 1925,317 1985,319 2046,319 2106,319 2166,320 2227,319 2287,319 2347,317 2408,316 2408,211 2347,212 2287,214 2227,214 2166,215 2106,214 2046,214 1985,214 1925,212 1865,212 1805,211 1744,211 1684,211 1624,211 1563,211 1503,212 1443,215 1382,218 1322,221 1262,227 1202,233" rendition="Line" xml:id="facs_46_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_46" n="46" xml:id="img_0046"/>
+            <pb facs="#facs_46" n="46" xml:id="img_0046"/>
             
-            <ab  facs="#facs_46_r1">
+            <ab facs="#facs_46_r1">
                <lb facs="#facs_46_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_46_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 446 hat sich
                <lb facs="#facs_46_r1l3" n="N003"/>der <rs type="person" ref="wkfm__46470">Haslacher</rs> geäusseret, daß er seine Handlung ohne

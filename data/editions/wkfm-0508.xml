@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3051" lry="4473" xml:id="facs_8">
+    <surface ulx="0" uly="0" lrx="3051" lry="4473" xml:id="facs_8">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0508.jpg" width="3051px" height="4473px"/>
          <zone points="402,192 402,3253 2886,3253 2886,192" rendition="TextRegion" xml:id="facs_8_r1">
             <zone points="1031,316 1107,310 1183,306 1260,303 1336,300 1412,298 1489,295 1565,295 1641,294 1718,294 1794,294 1870,294 1947,294 2023,294 2099,294 2176,293 2252,292 2328,292 2405,291 2481,288 2558,286 2558,192 2481,194 2405,197 2328,198 2252,198 2176,199 2099,200 2023,200 1947,200 1870,200 1794,200 1718,200 1641,200 1565,201 1489,201 1412,204 1336,206 1260,209 1183,212 1107,216 1031,222" rendition="Line" xml:id="facs_8_r1l1"/>
@@ -68,9 +68,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_8" n="8" xml:id="img_0008"/>
+            <pb facs="#facs_8" n="8" xml:id="img_0008"/>
             
-            <ab  facs="#facs_8_r1">
+            <ab facs="#facs_8_r1">
                <lb facs="#facs_8_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_8_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 244 dann in dem
                <lb facs="#facs_8_r1l3" n="N003"/>Anbringen de ps: 20<hi style="superscript">ten</hi> ej: N<hi style="superscript">o</hi> 245 hat sich der <rs type="person" ref="wkfm__638">Deyß</rs> geäusseret das

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2953" lry="4400" xml:id="facs_16">
+    <surface ulx="0" uly="0" lrx="2953" lry="4400" xml:id="facs_16">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1368.jpg" width="2953px" height="4400px"/>
          <zone points="407,151 407,3259 2838,3259 2838,151" rendition="TextRegion" xml:id="facs_16_r1">
             <zone points="1211,283 1272,283 1334,283 1395,283 1457,283 1518,285 1580,285 1641,286 1703,286 1764,288 1826,288 1887,288 1949,288 2010,288 2072,288 2133,286 2195,285 2256,282 2318,280 2379,276 2441,271 2441,151 2379,156 2318,160 2256,162 2195,165 2133,166 2072,168 2010,168 1949,168 1887,168 1826,168 1764,168 1703,166 1641,166 1580,165 1518,165 1457,163 1395,163 1334,163 1272,163 1211,163" rendition="Line" xml:id="facs_16_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_16" n="16" xml:id="img_0016"/>
+            <pb facs="#facs_16" n="16" xml:id="img_0016"/>
             
-            <ab  facs="#facs_16_r1">
+            <ab facs="#facs_16_r1">
                <lb facs="#facs_16_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_16_r1l2" n="N002"/>In obigen Anbringen de ps: 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 618 hat der <rs type="person" ref="wkfm__46685">Rambstor-
                <lb break="no" facs="#facs_16_r1l3" n="N003"/>fer</rs> sich erklähret, das er keinen Compagnon habe.

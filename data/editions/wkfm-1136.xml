@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2973" lry="4530" xml:id="facs_36">
+    <surface ulx="0" uly="0" lrx="2973" lry="4530" xml:id="facs_36">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1136.jpg" width="2973px" height="4530px"/>
          <zone points="261,190 261,3373 2889,3373 2889,190" rendition="TextRegion" xml:id="facs_36_r1">
             <zone points="1206,332 1261,327 1316,323 1371,319 1426,317 1481,314 1536,313 1592,311 1647,311 1702,310 1757,310 1812,310 1867,310 1922,310 1978,310 2033,310 2088,310 2143,310 2198,308 2253,305 2309,304 2309,190 2253,191 2198,194 2143,196 2088,196 2033,196 1978,196 1922,196 1867,196 1812,196 1757,196 1702,196 1647,197 1592,197 1536,199 1481,200 1426,203 1371,205 1316,209 1261,213 1206,218" rendition="Line" xml:id="facs_36_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_36" n="36" xml:id="img_0036"/>
+            <pb facs="#facs_36" n="36" xml:id="img_0036"/>
             
-            <ab  facs="#facs_36_r1">
+            <ab facs="#facs_36_r1">
                <lb facs="#facs_36_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_36_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 522 hat <hi>der</hi> sich der <rs type="person" ref="wkfm__13796">Leeb</rs>
                <lb facs="#facs_36_r1l3" n="N003"/>geäusseret, daß er mit seinem alleinigen intee und obligo ohne Compagnon

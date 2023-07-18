@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3087" lry="4530" xml:id="facs_6">
+    <surface ulx="0" uly="0" lrx="3087" lry="4530" xml:id="facs_6">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0059.jpg" width="3087px" height="4530px"/>
          <zone points="485,176 485,3322 2928,3322 2928,176" rendition="TextRegion" xml:id="facs_6_r1">
             <zone points="854,278 930,277 1007,277 1084,275 1160,274 1237,274 1314,272 1390,272 1467,272 1544,272 1621,272 1697,272 1774,272 1851,272 1927,274 2004,275 2081,277 2157,278 2234,280 2311,283 2388,286 2388,190 2311,187 2234,184 2157,182 2081,181 2004,179 1927,178 1851,176 1774,176 1697,176 1621,176 1544,176 1467,176 1390,176 1314,176 1237,178 1160,178 1084,179 1007,181 930,181 854,182" rendition="Line" xml:id="facs_6_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_6" n="6" xml:id="img_0006"/>
+            <pb facs="#facs_6" n="6" xml:id="img_0006"/>
             
-            <ab  facs="#facs_6_r1">
+            <ab facs="#facs_6_r1">
                <lb facs="#facs_6_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_6_r1l2" n="N002"/>Laut obigen Anbringen de ps: 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 27. hat der <rs type="person" ref="wkfm__11869">Babas</rs>
                <lb facs="#facs_6_r1l3" n="N003"/>sich geäusseret, daß er keinen Compagnon habe.

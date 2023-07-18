@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3108" lry="4477" xml:id="facs_33">
+    <surface ulx="0" uly="0" lrx="3108" lry="4477" xml:id="facs_33">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1491.jpg" width="3108px" height="4477px"/>
          <graphic url="" width="3108px" height="4477px"/>
          <zone points="230,141 230,2953 2807,2955 2807,143" rendition="TextRegion" xml:id="facs_33_r2">
@@ -70,9 +70,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_33" n="33" xml:id="img_0033"/>
+            <pb facs="#facs_33" n="33" xml:id="img_0033"/>
             
-            <ab  facs="#facs_33_r2">
+            <ab facs="#facs_33_r2">
                <lb facs="#facs_33_line_1626267794863_5110" n="N001"/>738
                <lb facs="#facs_33_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_33_r2l2" n="N003"/><rs type="person" ref="wkfm__15475">Silber Zacharias</rs> burgerlicher Handlsmann

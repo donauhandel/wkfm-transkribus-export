@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2953" lry="4400" xml:id="facs_54">
+    <surface ulx="0" uly="0" lrx="2953" lry="4400" xml:id="facs_54">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1406.jpg" width="2953px" height="4400px"/>
          <zone points="282,177 282,3692 2853,3692 2853,177" rendition="TextRegion" xml:id="facs_54_r1">
             <zone points="1143,310 1207,307 1271,304 1336,301 1400,298 1465,296 1529,295 1594,293 1658,292 1723,290 1787,287 1851,286 1916,284 1980,281 2045,280 2109,277 2174,274 2238,269 2303,266 2367,262 2432,256 2432,177 2367,183 2303,187 2238,190 2174,195 2109,198 2045,201 1980,202 1916,205 1851,207 1787,208 1723,211 1658,213 1594,214 1529,216 1465,217 1400,219 1336,222 1271,225 1207,228 1143,231" rendition="Line" xml:id="facs_54_r1l1"/>
@@ -70,9 +70,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_54" n="54" xml:id="img_0054"/>
+            <pb facs="#facs_54" n="54" xml:id="img_0054"/>
             
-            <ab  facs="#facs_54_r1">
+            <ab facs="#facs_54_r1">
                <lb facs="#facs_54_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_54_r1l2" n="N002"/><hi>In obiger Erklährung dd<hi style="superscript"/></hi>to
                <lb facs="#facs_54_r1l3" n="N003"/>Mitls Anbringen de ps: 27<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 732 N<hi style="superscript">o</hi> 2022 hat der <rs type="person" ref="wkfm__5636">Rigati</rs> angezei-

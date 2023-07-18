@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2936" lry="4468" xml:id="facs_103">
+    <surface ulx="0" uly="0" lrx="2936" lry="4468" xml:id="facs_103">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1809.jpg" width="2936px" height="4468px"/>
          <zone points="132,228 132,3657 2699,3657 2699,228" rendition="TextRegion" xml:id="facs_103_r1">
             <zone points="2525,240 2696,240 2696,350 2525,350" rendition="Line" xml:id="facs_103_line_1626245134340_140" subtype="page-number"/>
@@ -76,9 +76,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_103" n="103" xml:id="img_0103"/>
+            <pb facs="#facs_103" n="103" xml:id="img_0103"/>
             
-            <ab  facs="#facs_103_r1">
+            <ab facs="#facs_103_r1">
                <lb facs="#facs_103_line_1626245134340_140" n="N001"/>897
                <lb facs="#facs_103_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_103_r1l2" n="N003"/><rs type="person" ref="wkfm__25597">Weigl Johann Michäl</rs> burgerlicher Handlsmann

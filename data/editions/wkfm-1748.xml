@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2886" lry="4476" xml:id="facs_42">
+    <surface ulx="0" uly="0" lrx="2886" lry="4476" xml:id="facs_42">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1748.jpg" width="2886px" height="4476px"/>
          <zone points="366,258 366,3415 2751,3415 2751,258" rendition="TextRegion" xml:id="facs_42_r1">
             <zone points="1109,397 1173,390 1237,387 1301,383 1365,381 1429,379 1493,379 1557,379 1621,379 1685,381 1749,381 1813,382 1877,382 1941,382 2005,381 2069,379 2133,376 2197,372 2261,368 2325,361 2390,352 2390,258 2325,267 2261,274 2197,278 2133,282 2069,285 2005,287 1941,288 1877,288 1813,288 1749,287 1685,287 1621,285 1557,285 1493,285 1429,285 1365,287 1301,289 1237,293 1173,296 1109,303" rendition="Line" xml:id="facs_42_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_42" n="42" xml:id="img_0042"/>
+            <pb facs="#facs_42" n="42" xml:id="img_0042"/>
             
-            <ab  facs="#facs_42_r1">
+            <ab facs="#facs_42_r1">
                <lb facs="#facs_42_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_42_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 803 hat sich der
                <lb facs="#facs_42_r1l3" n="N003"/><rs type="person" ref="wkfm__9964">Wider</rs> geäusseret, das er keinen Compagnon noch socium habe

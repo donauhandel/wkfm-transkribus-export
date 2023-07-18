@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3019" lry="4436" xml:id="facs_66">
+    <surface ulx="0" uly="0" lrx="3019" lry="4436" xml:id="facs_66">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1250.jpg" width="3019px" height="4436px"/>
          <zone points="378,153 378,3323 2877,3323 2877,153" rendition="TextRegion" xml:id="facs_66_r1">
             <zone points="1310,269 1372,268 1434,267 1496,266 1559,266 1621,266 1683,268 1745,268 1808,268 1870,269 1932,269 1994,269 2057,269 2119,268 2181,268 2243,266 2306,264 2368,262 2430,259 2492,254 2555,250 2555,153 2492,157 2430,162 2368,165 2306,167 2243,169 2181,171 2119,171 2057,172 1994,172 1932,172 1870,172 1808,171 1745,171 1683,171 1621,169 1559,169 1496,169 1434,170 1372,171 1310,172" rendition="Line" xml:id="facs_66_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_66" n="66" xml:id="img_0066"/>
+            <pb facs="#facs_66" n="66" xml:id="img_0066"/>
             
-            <ab  facs="#facs_66_r1">
+            <ab facs="#facs_66_r1">
                <lb facs="#facs_66_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_66_r1l2" n="N002"/>In obigen Anbringen de ps: 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 735 N<hi style="superscript">o</hi> 572 hat sich der <rs type="person" ref="wkfm__8263">Monath</rs>
                <lb facs="#facs_66_r1l3" n="N003"/>erklähret, das niemand theil an seinem Negotio habe

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2895" lry="4391" xml:id="facs_31">
+    <surface ulx="0" uly="0" lrx="2895" lry="4391" xml:id="facs_31">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1383.jpg" width="2895px" height="4391px"/>
          <zone points="251,117 251,3188 2805,3188 2805,117" rendition="TextRegion" xml:id="facs_31_r2">
             <zone points="2615,376 2643,374 2671,373 2699,371 2727,373 2756,376 2756,315 2727,312 2699,310 2671,312 2643,313 2615,315" rendition="Line" xml:id="facs_31_r2l3" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_31" n="31" xml:id="img_0031"/>
+            <pb facs="#facs_31" n="31" xml:id="img_0031"/>
             
-            <ab  facs="#facs_31_r2">
+            <ab facs="#facs_31_r2">
                <lb facs="#facs_31_r2l3" n="N001"/>684
                <lb facs="#facs_31_line_1624023492512_86" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_31_r2l4" n="N003"/><rs type="person" ref="wkfm__46701">Rathgeb Balthasar Johann</rs> burgerlicher Handlsman

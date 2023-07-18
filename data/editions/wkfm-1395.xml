@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2895" lry="4391" xml:id="facs_43">
+    <surface ulx="0" uly="0" lrx="2895" lry="4391" xml:id="facs_43">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1395.jpg" width="2895px" height="4391px"/>
          <zone points="234,131 234,2993 2821,2994 2821,132" rendition="TextRegion" xml:id="facs_43_r1">
             <zone points="2660,289 2815,289 2815,476 2660,476" rendition="Line" xml:id="facs_43_line_1625045856728_1636" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_43" n="43" xml:id="img_0043"/>
+            <pb facs="#facs_43" n="43" xml:id="img_0043"/>
             
-            <ab  facs="#facs_43_r1">
+            <ab facs="#facs_43_r1">
                <lb facs="#facs_43_line_1625045856728_1636" n="N001"/>690
                <lb facs="#facs_43_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_43_r1l2" n="N003"/><rs type="person" ref="wkfm__12131">Rappatsch Gebrüder</rs> burgerliche Handlsleuthe

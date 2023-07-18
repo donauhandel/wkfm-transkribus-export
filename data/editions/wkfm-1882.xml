@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2893" lry="4398" xml:id="facs_28">
+    <surface ulx="0" uly="0" lrx="2893" lry="4398" xml:id="facs_28">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1882.jpg" width="2893px" height="4398px"/>
          <zone points="173,107 173,3339 2676,3339 2676,107" rendition="TextRegion" xml:id="facs_28_r1">
             <zone points="998,252 1058,244 1118,239 1178,236 1238,234 1298,233 1358,234 1418,236 1478,237 1538,240 1598,242 1658,246 1718,248 1778,251 1838,252 1898,254 1958,254 2018,254 2078,251 2138,247 2198,242 2198,116 2138,121 2078,125 2018,128 1958,128 1898,128 1838,126 1778,125 1718,122 1658,120 1598,116 1538,114 1478,111 1418,110 1358,108 1298,107 1238,108 1178,110 1118,113 1058,118 998,126" rendition="Line" xml:id="facs_28_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_28" n="28" xml:id="img_0028"/>
+            <pb facs="#facs_28" n="28" xml:id="img_0028"/>
             
-            <ab  facs="#facs_28_r1">
+            <ab facs="#facs_28_r1">
                <lb facs="#facs_28_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_28_r1l2" n="N002"/>In obigen Anbringen de ps: 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 861 hat sich der
                <lb facs="#facs_28_r1l3" n="N003"/><rs type="person" ref="wkfm__9652">Schlesinger</rs> erklähret, das er keinen Compagnon noch in-

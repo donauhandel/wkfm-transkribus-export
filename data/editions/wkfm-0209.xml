@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2962" lry="4521" xml:id="facs_156">
+    <surface ulx="0" uly="0" lrx="2962" lry="4521" xml:id="facs_156">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0209.jpg" width="2962px" height="4521px"/>
          <zone points="381,210 381,3398 2763,3398 2763,210" rendition="TextRegion" xml:id="facs_156_r1">
             <zone points="905,318 983,324 1061,330 1139,335 1217,339 1296,342 1374,344 1452,347 1530,348 1608,348 1687,350 1765,350 1843,350 1921,350 1999,350 2078,350 2156,350 2234,350 2312,350 2390,351 2469,353 2469,245 2390,243 2312,242 2234,242 2156,242 2078,242 1999,242 1921,242 1843,242 1765,242 1687,242 1608,240 1530,240 1452,239 1374,236 1296,234 1217,231 1139,227 1061,222 983,216 905,210" rendition="Line" xml:id="facs_156_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_156" n="156" xml:id="img_0156"/>
+            <pb facs="#facs_156" n="156" xml:id="img_0156"/>
             
-            <ab  facs="#facs_156_r1">
+            <ab facs="#facs_156_r1">
                <lb facs="#facs_156_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_156_r1l2" n="N002"/>In obigen Anbringen de ps: 6<hi style="superscript">ten</hi> Junii 735 N<hi style="superscript">o</hi> 97 hat sich der <rs type="person" ref="wkfm__39083">Prauneyß</rs> er-
                <lb facs="#facs_156_r1l3" n="N003"/>klähret, daß er ohne einigen interessenten negotire.

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3095" lry="4410" xml:id="facs_99">
+    <surface ulx="0" uly="0" lrx="3095" lry="4410" xml:id="facs_99">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1019.jpg" width="3095px" height="4410px"/>
          <zone points="221,196 221,4365 2921,4365 2921,196" rendition="TextRegion" xml:id="facs_99_r1">
             <zone points="2726,299 2894,299 2894,417 2726,417" rendition="Line" xml:id="facs_99_line_1624882398711_247" subtype="page-number"/>
@@ -81,9 +81,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_99" n="99" xml:id="img_0099"/>
+            <pb facs="#facs_99" n="99" xml:id="img_0099"/>
             
-            <ab  facs="#facs_99_r1">
+            <ab facs="#facs_99_r1">
                <lb facs="#facs_99_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_99_r1l2" n="N003"/><rs type="person" ref="wkfm__46515">Humbl Ferdinand Johann</rs> burgerlicher Handlsmann
                <lb facs="#facs_99_r1l4" n="N004"/>Firma ad Raggion
@@ -96,13 +96,13 @@
                <lb facs="#facs_99_r1l13" n="N011"/>Dann eines von seinem Bruder <hi>Johann</hi> <rs type="person" ref="wkfm__46517">Franz Ferdinand Humbl</rs> einge-
                <lb facs="#facs_99_r1l15" n="N012"/>legten Cautions Instrument ausgewisen <choice><expan/><abbr>pr</abbr></choice> 2000 fl
                <lb facs="#facs_99_r1l18" n="N013"/><choice><expan/><abbr>Sa</abbr></choice> 3945 fl 3 x<hi style="superscript">r</hi>
-               <lb facs="#facs_99_r1l19" n="N014"/>Über die von dem Conventen <hi>Johann</hi> <rs type="person" ref="wkfm__46517">Franz Ferdinand Humbl</rs> gemachte anzeige <comment comment="Es\u0020folgt\u0020ein\u0020Einschub"><hi>0</hi></comment> daß
+               <lb facs="#facs_99_r1l19" n="N014"/>Über die von dem Conventen <hi>Johann</hi> <rs type="person" ref="wkfm__46517">Franz Ferdinand Humbl</rs> gemachte anzeige <seg type="editorial_comment_seg"><hi>0</hi><note type="editorial_comment_note">Es folgt ein Einschub</note></seg> daß
                <lb facs="#facs_99_r1l20" n="N015"/>sein Bruder <rs type="person" ref="wkfm__46515">Ferdinand Johann</rs> seine Handlung käuflichen <unclear>hindann</unclear> gelassen
                <lb facs="#facs_99_r1l21" n="N016"/>ist demselben die Extradirung des Cautions Instruments mit dem beysaz
                <lb facs="#facs_99_r1l22" n="N017"/>daß selber jedoch denen sich allenfals hervorthuenden Handlungs <unclear>Schulden</unclear>
                <lb facs="#facs_99_r1l23" n="N018"/>zu hafte schuldig seye solle verwilliget, ein solches auch laut beyeruk-
                <lb facs="#facs_99_r1l24" n="N019"/>ter Quittung dd<hi style="superscript">to</hi> 4<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 748 extradiret worden.
-               <lb facs="#facs_99_r1l25" n="N020"/><comment comment="Einschub\u0020\u0020von\u0020oben"><hi>0</hi></comment> de ps: 6<hi style="superscript">ten</hi> May 748 N<hi style="superscript">o</hi> 1514
+               <lb facs="#facs_99_r1l25" n="N020"/><seg type="editorial_comment_seg"><hi>0</hi><note type="editorial_comment_note">Einschub  von oben</note></seg> de ps: 6<hi style="superscript">ten</hi> May 748 N<hi style="superscript">o</hi> 1514
             </ab>
             
         </div>

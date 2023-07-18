@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2929" lry="4455" xml:id="facs_98">
+    <surface ulx="0" uly="0" lrx="2929" lry="4455" xml:id="facs_98">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1556.jpg" width="2929px" height="4455px"/>
          <graphic url="" width="2929px" height="4455px"/>
          <zone points="327,115 327,3338 2852,3338 2852,115" rendition="TextRegion" xml:id="facs_98_r1">
@@ -68,9 +68,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_98" n="98" xml:id="img_0098"/>
+            <pb facs="#facs_98" n="98" xml:id="img_0098"/>
             
-            <ab  facs="#facs_98_r1">
+            <ab facs="#facs_98_r1">
                <lb facs="#facs_98_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_98_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 20<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 725 N<hi style="superscript">o</hi> 704 hat sich der
                <lb facs="#facs_98_r1l3" n="N003"/><rs type="person" ref="wkfm__47465">Schreiber</rs> geäusseret, daß er sein negotium in proprio fuhr sich allein

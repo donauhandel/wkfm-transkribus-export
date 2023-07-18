@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2951" lry="4468" xml:id="facs_85">
+    <surface ulx="0" uly="0" lrx="2951" lry="4468" xml:id="facs_85">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1791.jpg" width="2951px" height="4468px"/>
          <zone points="89,229 89,3098 2842,3108 2842,239" rendition="TextRegion" xml:id="facs_85_r1">
             <zone points="2678,378 2839,378 2839,475 2678,475" rendition="Line" xml:id="facs_85_line_1626183569598_1032" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_85" n="85" xml:id="img_0085"/>
+            <pb facs="#facs_85" n="85" xml:id="img_0085"/>
             
-            <ab  facs="#facs_85_r1">
+            <ab facs="#facs_85_r1">
                <lb facs="#facs_85_line_1626183569598_1032" n="N001"/>888
                <lb facs="#facs_85_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_85_r1l2" n="N003"/><rs type="person" ref="wkfm__21604">Wagner Joseph</rs> burgerlicher Handlsmann

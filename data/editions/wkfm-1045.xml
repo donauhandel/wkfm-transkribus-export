@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3057" lry="4521" xml:id="facs_125">
+    <surface ulx="0" uly="0" lrx="3057" lry="4521" xml:id="facs_125">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1045.jpg" width="3057px" height="4521px"/>
          <zone points="174,216 174,4056 2793,4056 2793,216" rendition="TextRegion" xml:id="facs_125_r1">
             <zone points="2628,382 2657,384 2686,382 2715,379 2744,376 2774,378 2774,302 2744,300 2715,303 2686,306 2657,308 2628,306" rendition="Line" xml:id="facs_125_r1l2" subtype="page-number"/>
@@ -79,9 +79,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_125" n="125" xml:id="img_0125"/>
+            <pb facs="#facs_125" n="125" xml:id="img_0125"/>
             
-            <ab  facs="#facs_125_r1">
+            <ab facs="#facs_125_r1">
                <lb facs="#facs_125_r1l2" n="N001"/>516
                <lb facs="#facs_125_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_125_r1l3" n="N003"/><rs type="person" ref="wkfm__46553">Hipp Franz Ignaz</rs> burgerlicher Handlsmann

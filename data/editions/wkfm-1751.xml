@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3015" lry="4468" xml:id="facs_45">
+    <surface ulx="0" uly="0" lrx="3015" lry="4468" xml:id="facs_45">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1751.jpg" width="3015px" height="4468px"/>
          <zone points="185,165 185,2985 2688,2985 2688,165" rendition="TextRegion" xml:id="facs_45_r1">
             <zone points="2525,320 2552,318 2579,317 2606,317 2633,315 2660,314 2688,312 2688,222 2660,224 2633,225 2606,227 2579,227 2552,228 2525,230" rendition="Line" xml:id="facs_45_r1l2" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_45" n="45" xml:id="img_0045"/>
+            <pb facs="#facs_45" n="45" xml:id="img_0045"/>
             
-            <ab  facs="#facs_45_r1">
+            <ab facs="#facs_45_r1">
                <lb facs="#facs_45_r1l2" n="N001"/>868
                <lb facs="#facs_45_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_45_r1l3" n="N003"/><rs type="person" ref="wkfm__8595">Wintersteiner Franz</rs> burgerlicher Handlsmann

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2973" lry="4391" xml:id="facs_75">
+    <surface ulx="0" uly="0" lrx="2973" lry="4391" xml:id="facs_75">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1427.jpg" width="2973px" height="4391px"/>
          <zone points="147,213 147,3994 2831,3994 2831,213" rendition="TextRegion" xml:id="facs_75_r1">
             <zone points="2645,412 2670,412 2695,412 2720,411 2745,410 2770,409 2796,410 2830,323 2770,339 2745,340 2720,341 2722,324 2679,318 2645,342" rendition="Line" xml:id="facs_75_r1l2" subtype="page-number"/>
@@ -82,9 +82,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_75" n="75" xml:id="img_0075"/>
+            <pb facs="#facs_75" n="75" xml:id="img_0075"/>
             
-            <ab  facs="#facs_75_r1">
+            <ab facs="#facs_75_r1">
                <lb facs="#facs_75_r1l2" n="N001"/>706
                <lb facs="#facs_75_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_75_r1l3" n="N003"/><rs type="person" ref="wkfm__46738">Reindl Ferdinand</rs> burgerlicher Handlsmann
@@ -103,7 +103,7 @@
                <lb facs="#facs_75_r1l16" n="N016"/><hi>daß</hi> eingelegt, daß er <rs type="person" ref="wkfm__46738">Reindl</rs> von ihm an erspahrten salario und eigenem
                <lb facs="#facs_75_r1l17" n="N017"/>Mitlen empfangen habe 4600 fl
                <lb facs="#facs_75_r1l20" n="N018"/>zu Completirung des übrigen hat dessen Ehewirthin <rs type="person" ref="wkfm__46742">Barbara</rs> das
-               <lb facs="#facs_75_r1l22" n="N019"/><choice><expan/><abbr>orig:</abbr></choice> <comment comment="wahrscheinlich\u0020\u0022Certiorirte\u0022">Cortiorirte</comment> Cautions Instrument dd<hi style="superscript">to</hi> 29<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 738 N<hi style="superscript">o</hi> 1667 einge-
+               <lb facs="#facs_75_r1l22" n="N019"/><choice><expan/><abbr>orig:</abbr></choice> <seg type="editorial_comment_seg">Cortiorirte<note type="editorial_comment_note">wahrscheinlich Certiorirte</note></seg> Cautions Instrument dd<hi style="superscript">to</hi> 29<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 738 N<hi style="superscript">o</hi> 1667 einge-
                <lb facs="#facs_75_r1l23" n="N020"/>leget <choice><expan/><abbr>pr</abbr></choice> 3913 fl
                <lb facs="#facs_75_r1l25" n="N021"/><choice><expan/><abbr>Sa</abbr></choice> 8513 fl
             </ab>

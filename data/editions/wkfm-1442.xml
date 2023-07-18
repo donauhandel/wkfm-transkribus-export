@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2886" lry="4400" xml:id="facs_90">
+    <surface ulx="0" uly="0" lrx="2886" lry="4400" xml:id="facs_90">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1442.jpg" width="2886px" height="4400px"/>
          <zone points="153,272 153,3379 2774,3379 2774,272" rendition="TextRegion" xml:id="facs_90_r1">
             <zone points="1122,352 1186,351 1250,349 1315,348 1379,348 1444,348 1508,348 1573,348 1637,348 1702,348 1766,349 1830,349 1895,349 1959,349 2024,349 2088,349 2153,348 2217,346 2282,345 2346,342 2411,339 2411,272 2346,275 2282,278 2217,279 2153,281 2088,282 2024,282 1959,282 1895,282 1830,282 1766,282 1702,281 1637,281 1573,281 1508,281 1444,281 1379,281 1315,281 1250,282 1186,284 1122,285" rendition="Line" xml:id="facs_90_r1l1"/>
@@ -71,9 +71,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_90" n="90" xml:id="img_0090"/>
+            <pb facs="#facs_90" n="90" xml:id="img_0090"/>
             
-            <ab  facs="#facs_90_r1">
+            <ab facs="#facs_90_r1">
                <lb facs="#facs_90_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_90_r1l3" n="N002"/><seg type="wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_90_r1l4" n="N003"/>Mitls Anbringen de ps: 8<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 753 N<hi style="superscript">o</hi> 2217 hat der <rs type="person" ref="wkfm__46758">Ristl</rs> den mit der

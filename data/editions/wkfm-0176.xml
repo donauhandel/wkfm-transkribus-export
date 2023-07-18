@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2982" lry="4464" xml:id="facs_123">
+    <surface ulx="0" uly="0" lrx="2982" lry="4464" xml:id="facs_123">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0176.jpg" width="2982px" height="4464px"/>
          <zone points="98,172 98,3056 2672,3056 2672,172" rendition="TextRegion" xml:id="facs_123_r3">
             <zone points="2493,290 2521,289 2549,285 2577,280 2606,277 2606,172 2577,175 2549,180 2521,184 2493,185" rendition="Line" xml:id="facs_123_r3l1" subtype="page-number"/>
@@ -70,9 +70,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_123" n="123" xml:id="img_0123"/>
+            <pb facs="#facs_123" n="123" xml:id="img_0123"/>
             
-            <ab  facs="#facs_123_r3">
+            <ab facs="#facs_123_r3">
                <lb facs="#facs_123_r3l1" n="N001"/>86
                <lb facs="#facs_123_r3l2" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_123_r3l3" n="N003"/><rs type="person" ref="wkfm__8594">Pfitzenreiter Johann Christoph</rs> burgerlicher Handlsmann

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_14">
+    <surface ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_14">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0682.jpg" width="2994px" height="4530px"/>
          <zone points="396,230 396,3386 2882,3386 2882,230" rendition="TextRegion" xml:id="facs_14_r1">
             <zone points="1304,328 1374,325 1444,322 1515,320 1585,320 1656,319 1726,320 1797,320 1867,321 1938,322 2008,323 2079,323 2149,323 2220,323 2290,323 2361,322 2431,320 2502,317 2572,313 2643,308 2643,230 2572,235 2502,239 2431,242 2361,244 2290,245 2220,245 2149,245 2079,245 2008,245 1938,244 1867,243 1797,242 1726,242 1656,241 1585,242 1515,242 1444,244 1374,247 1304,250" rendition="Line" xml:id="facs_14_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_14" n="14" xml:id="img_0014"/>
+            <pb facs="#facs_14" n="14" xml:id="img_0014"/>
             
-            <ab  facs="#facs_14_r1">
+            <ab facs="#facs_14_r1">
                <lb facs="#facs_14_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_14_r1l2" n="N002"/>In obigen Anbringen de ps: 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 324 hat sich der <rs type="person">Ferroni</rs>
                <lb facs="#facs_14_r1l3" n="N003"/>erklähret das er seine Handlung mit eigenen <choice><expan/><abbr>intee</abbr></choice> und obligo ohne

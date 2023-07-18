@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_78">
+    <surface ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_78">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0398.jpg" width="2934px" height="4501px"/>
          <zone points="333,213 333,3416 2817,3416 2817,213" rendition="TextRegion" xml:id="facs_78_r1">
             <zone points="1058,378 1129,371 1201,365 1272,360 1344,357 1415,354 1487,353 1558,351 1630,350 1701,350 1773,350 1844,348 1916,348 1987,347 2059,345 2130,342 2202,339 2273,334 2345,328 2417,321 2417,213 2345,220 2273,226 2202,231 2130,234 2059,237 1987,239 1916,240 1844,240 1773,242 1701,242 1630,242 1558,243 1487,245 1415,246 1344,249 1272,252 1201,257 1129,263 1058,270" rendition="Line" xml:id="facs_78_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_78" n="78" xml:id="img_0078"/>
+            <pb facs="#facs_78" n="78" xml:id="img_0078"/>
             
-            <ab  facs="#facs_78_r1">
+            <ab facs="#facs_78_r1">
                <lb facs="#facs_78_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_78_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 20<hi style="superscript">ten</hi> Junii 725 N<hi style="superscript">o</hi> 196 hat sich der
                <lb facs="#facs_78_r1l3" n="N003"/><rs type="person" ref="wkfm__8752">Kepler</rs> geäusseret, das er keinen Compagnon habe.

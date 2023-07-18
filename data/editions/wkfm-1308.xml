@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2940" lry="4464" xml:id="facs_16">
+    <surface ulx="0" uly="0" lrx="2940" lry="4464" xml:id="facs_16">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1308.jpg" width="2940px" height="4464px"/>
          <zone points="321,141 321,3232 2807,3232 2807,141" rendition="TextRegion" xml:id="facs_16_r1">
             <zone points="942,295 1003,284 1065,275 1127,268 1189,262 1250,258 1312,255 1374,252 1436,250 1497,249 1559,249 1621,247 1683,247 1744,247 1806,247 1868,246 1930,246 1991,244 2053,241 2115,237 2177,234 2177,141 2115,144 2053,148 1991,151 1930,153 1868,153 1806,154 1744,154 1683,154 1621,154 1559,156 1497,156 1436,157 1374,159 1312,162 1250,165 1189,169 1127,175 1065,182 1003,191 942,202" rendition="Line" xml:id="facs_16_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_16" n="16" xml:id="img_0016"/>
+            <pb facs="#facs_16" n="16" xml:id="img_0016"/>
             
-            <ab  facs="#facs_16_r1">
+            <ab facs="#facs_16_r1">
                <lb facs="#facs_16_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_16_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 3<hi style="superscript">ten</hi> Julii 726 N<hi style="superscript">o</hi> 604 hat sich der <rs type="person" ref="wkfm__8588">Negri</rs>
                <lb facs="#facs_16_r1l3" n="N003"/>geäusseret das er seine Handlung fur sich allein führe

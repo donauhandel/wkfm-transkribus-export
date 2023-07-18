@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2954" lry="4435" xml:id="facs_62">
+    <surface ulx="0" uly="0" lrx="2954" lry="4435" xml:id="facs_62">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0115.jpg" width="2954px" height="4435px"/>
          <zone points="453,173 453,3290 2835,3290 2835,173" rendition="TextRegion" xml:id="facs_62_r1">
             <zone points="816,283 894,276 973,270 1051,265 1130,262 1209,260 1287,260 1366,260 1444,260 1523,262 1602,264 1680,266 1759,269 1837,271 1916,274 1995,277 2073,278 2152,280 2230,281 2309,281 2388,281 2388,194 2309,194 2230,194 2152,193 2073,191 1995,190 1916,187 1837,184 1759,182 1680,179 1602,177 1523,175 1444,173 1366,173 1287,173 1209,173 1130,175 1051,178 973,183 894,189 816,196" rendition="Line" xml:id="facs_62_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_62" n="62" xml:id="img_0062"/>
+            <pb facs="#facs_62" n="62" xml:id="img_0062"/>
             
-            <ab  facs="#facs_62_r1">
+            <ab facs="#facs_62_r1">
                <lb facs="#facs_62_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_62_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 49 hat sich die <rs type="person" ref="wkfm__43851">Pfandtnerin</rs>
                <lb facs="#facs_62_r1l3" n="N003"/>geäusseret daß sie in ihrem Negotio allein stehe.

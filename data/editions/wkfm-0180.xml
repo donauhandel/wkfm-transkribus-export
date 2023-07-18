@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2982" lry="4464" xml:id="facs_127">
+    <surface ulx="0" uly="0" lrx="2982" lry="4464" xml:id="facs_127">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0180.jpg" width="2982px" height="4464px"/>
          <graphic url="" width="2982px" height="4464px"/>
          <zone points="168,257 168,3124 2643,3124 2643,257" rendition="TextRegion" xml:id="facs_127_r1">
@@ -72,9 +72,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_127" n="127" xml:id="img_0127"/>
+            <pb facs="#facs_127" n="127" xml:id="img_0127"/>
             
-            <ab  facs="#facs_127_r1">
+            <ab facs="#facs_127_r1">
                <lb facs="#facs_127_r1l3" n="N001"/>88
                <lb facs="#facs_127_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_127_r1l4" n="N003"/><rs type="person" ref="wkfm__10013">Bahn Johann Christian</rs> k. k. Niderlags Verwanter

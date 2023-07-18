@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3039" lry="4473" xml:id="facs_139">
+    <surface ulx="0" uly="0" lrx="3039" lry="4473" xml:id="facs_139">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0192.jpg" width="3039px" height="4473px"/>
          <zone points="176,221 176,3012 2646,3012 2646,221" rendition="TextRegion" xml:id="facs_139_r2">
             <zone points="2505,366 2533,368 2562,362 2590,354 2619,354 2619,263 2590,263 2562,271 2533,277 2505,275" rendition="Line" xml:id="facs_139_r2l2" subtype="page-number"/>
@@ -70,9 +70,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_139" n="139" xml:id="img_0139"/>
+            <pb facs="#facs_139" n="139" xml:id="img_0139"/>
             
-            <ab  facs="#facs_139_r2">
+            <ab facs="#facs_139_r2">
                <lb facs="#facs_139_r2l2" n="N001"/>94
                <lb facs="#facs_139_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_139_r2l3" n="N003"/><rs type="person" ref="wkfm__43902">Pruner Johann Georg</rs> burgerlicher Zukerbäker

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2929" lry="4455" xml:id="facs_62">
+    <surface ulx="0" uly="0" lrx="2929" lry="4455" xml:id="facs_62">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1520.jpg" width="2929px" height="4455px"/>
          <zone points="312,167 312,3360 2754,3360 2754,167" rendition="TextRegion" xml:id="facs_62_r1">
             <zone points="1008,330 1076,323 1145,318 1214,315 1283,311 1352,308 1420,306 1489,304 1558,302 1627,301 1696,299 1764,297 1833,296 1902,293 1971,291 2040,287 2108,284 2177,278 2246,272 2315,264 2384,257 2384,167 2315,174 2246,182 2177,188 2108,194 2040,197 1971,201 1902,203 1833,206 1764,207 1696,209 1627,211 1558,212 1489,214 1420,216 1352,218 1283,221 1214,225 1145,228 1076,233 1008,240" rendition="Line" xml:id="facs_62_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_62" n="62" xml:id="img_0062"/>
+            <pb facs="#facs_62" n="62" xml:id="img_0062"/>
             
-            <ab  facs="#facs_62_r1">
+            <ab facs="#facs_62_r1">
                <lb facs="#facs_62_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_62_r1l2" n="N002"/>In obigen Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 785 N<hi style="superscript">o</hi> 686 hat sich der
                <lb facs="#facs_62_r1l4" n="N003"/><rs type="person" ref="wkfm__15292">Stembler</rs> geäusseret, daß er keine societaet habe

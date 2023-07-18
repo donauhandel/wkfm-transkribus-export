@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_36">
+    <surface ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_36">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0356.jpg" width="2934px" height="4501px"/>
          <zone points="336,179 336,3371 2805,3371 2805,179" rendition="TextRegion" xml:id="facs_36_r1">
             <zone points="914,330 982,321 1050,313 1118,308 1186,303 1254,299 1322,297 1390,296 1458,296 1526,296 1595,297 1663,298 1731,300 1799,302 1867,303 1935,305 2003,307 2071,308 2139,309 2207,309 2276,308 2276,191 2207,192 2139,192 2071,191 2003,190 1935,188 1867,186 1799,185 1731,183 1663,181 1595,180 1526,179 1458,179 1390,179 1322,180 1254,182 1186,186 1118,191 1050,196 982,204 914,213" rendition="Line" xml:id="facs_36_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_36" n="36" xml:id="img_0036"/>
+            <pb facs="#facs_36" n="36" xml:id="img_0036"/>
             
-            <ab  facs="#facs_36_r1">
+            <ab facs="#facs_36_r1">
                <lb facs="#facs_36_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_36_r1l2" n="N002"/>In obigen Anbringen de ps: 8<hi style="superscript">ten</hi> May 725 N<hi style="superscript">o</hi> 177 hat sich der 
                <lb facs="#facs_36_r1l3" n="N003"/><rs type="person" ref="wkfm__2848">Kern</rs> geäusseret, daß er keinen Compagnon noch interessenten

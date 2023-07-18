@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3009" lry="4436" xml:id="facs_111">
+    <surface ulx="0" uly="0" lrx="3009" lry="4436" xml:id="facs_111">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0431.jpg" width="3009px" height="4436px"/>
          <zone points="209,190 209,2962 2795,2962 2795,190" rendition="TextRegion" xml:id="facs_111_r2">
             <zone points="2672,374 2702,379 2733,380 2764,380 2795,383 2795,287 2764,284 2733,284 2702,283 2672,278" rendition="Line" xml:id="facs_111_r2l2" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_111" n="111" xml:id="img_0111"/>
+            <pb facs="#facs_111" n="111" xml:id="img_0111"/>
             
-            <ab  facs="#facs_111_r2">
+            <ab facs="#facs_111_r2">
                <lb facs="#facs_111_r2l2" n="N001"/>213
                <lb facs="#facs_111_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_111_r2l3" n="N003"/><rs type="person" ref="wkfm__46138">Klebinder Johann Georg</rs> burgerlicher Handlsmann

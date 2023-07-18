@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2973" lry="4530" xml:id="facs_42">
+    <surface ulx="0" uly="0" lrx="2973" lry="4530" xml:id="facs_42">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1142.jpg" width="2973px" height="4530px"/>
          <zone points="257,184 257,3393 2856,3393 2856,184" rendition="TextRegion" xml:id="facs_42_r1">
             <zone points="1241,338 1299,330 1358,324 1416,318 1475,315 1533,312 1592,311 1650,309 1709,309 1767,309 1826,309 1884,309 1943,309 2001,311 2060,311 2118,311 2177,311 2235,309 2294,308 2352,305 2411,302 2411,184 2352,187 2294,190 2235,191 2177,193 2118,193 2060,193 2001,193 1943,191 1884,191 1826,191 1767,191 1709,191 1650,191 1592,193 1533,194 1475,197 1416,200 1358,206 1299,212 1241,220" rendition="Line" xml:id="facs_42_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_42" n="42" xml:id="img_0042"/>
+            <pb facs="#facs_42" n="42" xml:id="img_0042"/>
             
-            <ab  facs="#facs_42_r1">
+            <ab facs="#facs_42_r1">
                <lb facs="#facs_42_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_42_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 29<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 725 N<hi style="superscript">o</hi> 525 hat sich der
                <lb facs="#facs_42_r1l3" n="N003"/><rs type="person" ref="wkfm__46809">Lochner</rs> geäusseret das er mit keinen Compagnon versehen.

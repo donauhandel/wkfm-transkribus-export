@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3049" lry="4436" xml:id="facs_19">
+    <surface ulx="0" uly="0" lrx="3049" lry="4436" xml:id="facs_19">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0519.jpg" width="3049px" height="4436px"/>
          <zone points="314,116 314,2907 2877,2907 2877,116" rendition="TextRegion" xml:id="facs_19_r2">
             <zone points="2712,295 2739,291 2767,288 2794,285 2822,283 2849,279 2877,274 2877,180 2849,185 2822,189 2794,191 2767,194 2739,197 2712,201" rendition="Line" xml:id="facs_19_r2l2" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_19" n="19" xml:id="img_0019"/>
+            <pb facs="#facs_19" n="19" xml:id="img_0019"/>
             
-            <ab  facs="#facs_19_r2">
+            <ab facs="#facs_19_r2">
                <lb facs="#facs_19_r2l2" n="N001"/>257
                <lb facs="#facs_19_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_19_r2l3" n="N003"/><rs type="person" ref="wkfm__46204">Drigler Johann Adam</rs> burgerlicher Handlsmann

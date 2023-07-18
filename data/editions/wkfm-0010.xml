@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3115" lry="4511" xml:id="facs_5">
+    <surface ulx="0" uly="0" lrx="3115" lry="4511" xml:id="facs_5">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0010.jpg" width="3115px" height="4511px"/>
          <zone points="521,216 521,2972 2829,2972 2829,216" rendition="TextRegion" xml:id="facs_5_r1">
             <zone points="2730,308 2763,309 2796,308 2829,314 2829,242 2796,236 2763,237 2730,236" rendition="Line" xml:id="facs_5_r1l2" subtype="page-number"/>
@@ -70,9 +70,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_5" n="5" xml:id="img_0005"/>
+            <pb facs="#facs_5" n="5" xml:id="img_0005"/>
             
-            <ab  facs="#facs_5_r1">
+            <ab facs="#facs_5_r1">
                <lb facs="#facs_5_r1l2" n="N001"/>3
                <lb facs="#facs_5_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_5_r1l3" n="N003"/><rs type="person" ref="wkfm__8191">Andre Lorenz</rs> burgerlicher Tuchlaubens Verwanter

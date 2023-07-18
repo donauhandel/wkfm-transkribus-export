@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3015" lry="4468" xml:id="facs_61">
+    <surface ulx="0" uly="0" lrx="3015" lry="4468" xml:id="facs_61">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1767.jpg" width="3015px" height="4468px"/>
          <zone points="228,169 228,3002 2863,2996 2863,163" rendition="TextRegion" xml:id="facs_61_r1">
             <zone points="2654,294 2850,294 2850,169 2654,169" rendition="Line" xml:id="facs_61_line_1626183262291_871" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_61" n="61" xml:id="img_0061"/>
+            <pb facs="#facs_61" n="61" xml:id="img_0061"/>
             
-            <ab  facs="#facs_61_r1">
+            <ab facs="#facs_61_r1">
                <lb facs="#facs_61_line_1626183262291_871" n="N001"/>876
                <lb facs="#facs_61_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_61_r1l2" n="N003"/><rs type="person" ref="wkfm__46992">Weigl Benedict</rs> burgerlicher Leinwathandler

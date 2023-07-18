@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2954" lry="4378" xml:id="facs_56">
+    <surface ulx="0" uly="0" lrx="2954" lry="4378" xml:id="facs_56">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0109.jpg" width="2954px" height="4378px"/>
          <zone points="627,117 627,3159 2870,3162 2870,120" rendition="TextRegion" xml:id="facs_56_r1">
             <zone points="872,178 948,173 1024,168 1100,166 1177,165 1253,165 1329,166 1405,168 1482,171 1558,174 1634,177 1710,181 1787,186 1863,190 1939,196 2015,199 2092,204 2168,207 2244,210 2320,211 2397,213 2397,165 2320,163 2244,162 2168,159 2092,156 2015,151 1939,148 1863,142 1787,138 1710,133 1634,129 1558,126 1482,123 1405,120 1329,118 1253,117 1177,117 1100,118 1024,120 948,125 872,130" rendition="Line" xml:id="facs_56_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_56" n="56" xml:id="img_0056"/>
+            <pb facs="#facs_56" n="56" xml:id="img_0056"/>
             
-            <ab  facs="#facs_56_r1">
+            <ab facs="#facs_56_r1">
                <lb facs="#facs_56_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_56_line_1628441405554_474" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 46 hat sich die <rs type="person" ref="wkfm__43849">Bandianin</rs> geäusseret das sie keinen
                <lb facs="#facs_56_r1l4" n="N003"/>Socio habe.

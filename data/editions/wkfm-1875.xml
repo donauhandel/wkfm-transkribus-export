@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2979" lry="4383" xml:id="facs_21">
+    <surface ulx="0" uly="0" lrx="2979" lry="4383" xml:id="facs_21">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1875.jpg" width="2979px" height="4383px"/>
          <zone points="368,-18 368,2791 2954,2791 2954,-18" rendition="TextRegion" xml:id="facs_21_r2">
             <zone points="2600,332 2634,325 2665,323 2696,324 2742,323 2742,241 2696,242 2665,241 2634,243 2600,250" rendition="Line" xml:id="facs_21_r2l2" subtype="page-number"/>
@@ -70,9 +70,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_21" n="21" xml:id="img_0021"/>
+            <pb facs="#facs_21" n="21" xml:id="img_0021"/>
             
-            <ab  facs="#facs_21_r2">
+            <ab facs="#facs_21_r2">
                <lb facs="#facs_21_r2l2" n="N001"/>930
                <lb facs="#facs_21_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_21_r2l3" n="N003"/><rs type="person" ref="wkfm__24326">Oppenheimberin Judith </rs>Wittib Jüdin

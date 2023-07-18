@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4442" xml:id="facs_70">
+    <surface ulx="0" uly="0" lrx="2994" lry="4442" xml:id="facs_70">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0882.jpg" width="2994px" height="4442px"/>
          <zone points="365,190 365,3424 2826,3424 2826,190" rendition="TextRegion" xml:id="facs_70_r1">
             <zone points="1238,328 1301,326 1364,324 1427,322 1490,320 1553,319 1616,317 1680,316 1743,314 1806,313 1869,311 1932,310 1995,308 2058,306 2122,304 2185,302 2248,299 2311,297 2374,294 2437,291 2501,287 2501,190 2437,194 2374,197 2311,200 2248,202 2185,205 2122,207 2058,209 1995,211 1932,213 1869,214 1806,216 1743,217 1680,219 1616,220 1553,222 1490,223 1427,225 1364,227 1301,229 1238,231" rendition="Line" xml:id="facs_70_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_70" n="70" xml:id="img_0070"/>
+            <pb facs="#facs_70" n="70" xml:id="img_0070"/>
             
-            <ab  facs="#facs_70_r1">
+            <ab facs="#facs_70_r1">
                <lb facs="#facs_70_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_70_r1l2" n="N002"/>In obigen Anbringen de ps: 29<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 735 N<hi style="superscript">o</hi> 412 hat sich der <rs type="person" ref="wkfm__46347">Gäbler</rs>
                <lb facs="#facs_70_r1l3" n="N003"/>erklähret, daß er seine Handlung ohne Compagnon führe

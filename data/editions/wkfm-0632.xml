@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_12">
+    <surface ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_12">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0632.jpg" width="2994px" height="4530px"/>
          <zone points="314,223 314,3368 2853,3368 2853,223" rendition="TextRegion" xml:id="facs_12_r1">
             <zone points="1301,305 1366,306 1432,306 1497,308 1563,309 1628,309 1694,311 1759,311 1825,311 1890,312 1956,312 2022,312 2087,312 2153,312 2218,312 2284,312 2349,312 2415,312 2480,311 2546,311 2612,309 2612,227 2546,229 2480,229 2415,230 2349,230 2284,230 2218,230 2153,230 2087,230 2022,230 1956,230 1890,230 1825,229 1759,229 1694,229 1628,227 1563,227 1497,226 1432,224 1366,224 1301,223" rendition="Line" xml:id="facs_12_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_12" n="12" xml:id="img_0012"/>
+            <pb facs="#facs_12" n="12" xml:id="img_0012"/>
             
-            <ab  facs="#facs_12_r1">
+            <ab facs="#facs_12_r1">
                <lb facs="#facs_12_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_12_r1l2" n="N002"/>In obiger Erklahrung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 301 hat sich der
                <lb facs="#facs_12_r1l3" n="N003"/><rs type="person" ref="wkfm__46408">Erwart</rs> geäusseret, daß er für sich allein handle.

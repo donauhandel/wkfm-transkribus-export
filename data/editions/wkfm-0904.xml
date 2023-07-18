@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4442" xml:id="facs_92">
+    <surface ulx="0" uly="0" lrx="2994" lry="4442" xml:id="facs_92">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0904.jpg" width="2994px" height="4442px"/>
          <zone points="270,214 270,3385 2877,3385 2877,214" rendition="TextRegion" xml:id="facs_92_r1">
             <zone points="1181,308 1414,315 1467,315 1520,313 1573,313 1625,313 1678,313 1731,313 1784,313 1836,313 1889,313 1942,313 1995,312 2047,310 2100,309 2153,307 2206,306 2258,303 2311,299 2364,294 2417,289 2417,214 2364,219 2311,224 2258,228 2206,231 2153,232 2100,234 2047,235 1995,237 1942,238 1889,238 1836,238 1784,238 1731,238 1678,238 1625,238 1573,238 1520,238 1467,240 1414,240 1181,233" rendition="Line" xml:id="facs_92_r1l1"/>
@@ -74,9 +74,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_92" n="92" xml:id="img_0092"/>
+            <pb facs="#facs_92" n="92" xml:id="img_0092"/>
             
-            <ab  facs="#facs_92_r1">
+            <ab facs="#facs_92_r1">
                <lb facs="#facs_92_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_92_r1l2" n="N002"/><seg type="wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_92_r1l3" n="N003"/>Der <rs type="person" ref="wkfm__46380">Gapieller</rs> hat den mit der <hi>Fr</hi> <rs type="person" ref="wkfm__46381">Maria Franzisca Jptischin</rs>

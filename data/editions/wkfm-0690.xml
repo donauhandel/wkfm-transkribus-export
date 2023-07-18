@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_22">
+    <surface ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_22">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0690.jpg" width="2994px" height="4530px"/>
          <zone points="317,243 317,3389 2889,3389 2889,243" rendition="TextRegion" xml:id="facs_22_r1">
             <zone points="1301,340 1361,339 1422,337 1483,337 1544,337 1605,339 1666,340 1727,342 1788,343 1849,345 1910,348 1970,348 2031,351 2092,351 2153,352 2214,352 2275,352 2336,351 2397,349 2458,346 2519,343 2519,249 2458,252 2397,255 2336,257 2275,258 2214,258 2153,258 2092,257 2031,257 1970,254 1910,254 1849,251 1788,249 1727,248 1666,246 1605,245 1544,243 1483,243 1422,243 1361,245 1301,246" rendition="Line" xml:id="facs_22_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_22" n="22" xml:id="img_0022"/>
+            <pb facs="#facs_22" n="22" xml:id="img_0022"/>
             
-            <ab  facs="#facs_22_r1">
+            <ab facs="#facs_22_r1">
                <lb facs="#facs_22_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_22_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 327 hat sich der
                <lb facs="#facs_22_r1l3" n="N003"/><rs type="person" ref="wkfm__1321">Fridrich</rs> geäusseret daß er seine Handlung für sich allein

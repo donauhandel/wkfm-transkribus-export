@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2945" lry="4473" xml:id="facs_128">
+    <surface ulx="0" uly="0" lrx="2945" lry="4473" xml:id="facs_128">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0181.jpg" width="2945px" height="4473px"/>
          <zone points="323,273 323,3418 2757,3418 2757,273" rendition="TextRegion" xml:id="facs_128_r2">
             <zone points="1061,357 1129,360 1198,363 1266,366 1335,368 1403,370 1472,372 1540,374 1609,376 1677,377 1746,378 1815,379 1883,379 1952,379 2020,378 2089,376 2157,375 2226,373 2294,370 2363,366 2432,361 2432,277 2363,282 2294,286 2226,289 2157,291 2089,292 2020,294 1952,295 1883,295 1815,295 1746,294 1677,293 1609,292 1540,290 1472,288 1403,286 1335,284 1266,282 1198,279 1129,276 1061,273" rendition="Line" xml:id="facs_128_r2l1"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_128" n="128" xml:id="img_0128"/>
+            <pb facs="#facs_128" n="128" xml:id="img_0128"/>
             
-            <ab  facs="#facs_128_r2">
+            <ab facs="#facs_128_r2">
                <lb facs="#facs_128_r2l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_128_r2l2" n="N002"/>In obigen Anbringen hat de ps: 1<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 729 N<hi style="superscript">o</hi> 83 hat sich der
                <lb facs="#facs_128_r2l3" n="N003"/><rs type="person" ref="wkfm__10013">Bahn</rs> erklähret, daß er sein Negotium mit eignen interesse

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2801" lry="4476" xml:id="facs_212">
+    <surface ulx="0" uly="0" lrx="2801" lry="4476" xml:id="facs_212">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1670.jpg" width="2801px" height="4476px"/>
          <zone points="126,258 126,3376 2796,3376 2796,258" rendition="TextRegion" xml:id="facs_212_r1">
             <zone points="1142,327 1205,325 1268,324 1331,324 1395,324 1458,324 1521,325 1585,327 1648,328 1711,330 1775,333 1838,334 1901,336 1964,337 2028,337 2091,337 2154,337 2218,336 2281,333 2344,328 2408,324 2408,258 2344,262 2281,267 2218,270 2154,271 2091,271 2028,271 1964,271 1901,270 1838,268 1775,267 1711,264 1648,262 1585,261 1521,259 1458,258 1395,258 1331,258 1268,258 1205,259 1142,261" rendition="Line" xml:id="facs_212_r1l1"/>
@@ -80,9 +80,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_212" n="212" xml:id="img_0212"/>
+            <pb facs="#facs_212" n="212" xml:id="img_0212"/>
             
-            <ab  facs="#facs_212_r1">
+            <ab facs="#facs_212_r1">
                <lb facs="#facs_212_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_212_r1l2" n="N002"/>Die Raggion <rs type="person" ref="wkfm__44048">Zacharias Kriner Schmidt et <choice><expan/><abbr>Comp:</abbr></choice></rs> hat mitls obigen Anbringen
                <lb facs="#facs_212_r1l3" n="N003"/>de ps: 9<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 727 N<hi style="superscript">o</hi> 1899 angezeiget, das der <rs type="person" ref="wkfm__44054">Johann Georg Schmidt</rs> sich <unclear>aus</unclear>

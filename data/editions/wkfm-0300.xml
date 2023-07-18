@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_246">
+    <surface ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_246">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0300.jpg" width="2934px" height="4501px"/>
          <zone points="216,211 216,3348 2766,3348 2766,211" rendition="TextRegion" xml:id="facs_246_r1">
             <zone points="882,330 956,323 1030,317 1105,313 1179,309 1253,305 1328,303 1402,301 1476,300 1551,299 1625,297 1699,297 1774,296 1848,296 1922,294 1997,294 2071,293 2145,291 2220,289 2294,287 2369,284 2369,211 2294,214 2220,216 2145,218 2071,220 1997,221 1922,221 1848,223 1774,223 1699,224 1625,224 1551,226 1476,227 1402,228 1328,230 1253,232 1179,236 1105,240 1030,244 956,250 882,257" rendition="Line" xml:id="facs_246_r1l1"/>
@@ -73,9 +73,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_246" n="246" xml:id="img_0246"/>
+            <pb facs="#facs_246" n="246" xml:id="img_0246"/>
             
-            <ab  facs="#facs_246_r1">
+            <ab facs="#facs_246_r1">
                <lb facs="#facs_246_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_246_r1l2" n="N002"/><seg type="wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_246_r1l3" n="N003"/>Der <rs type="person" ref="wkfm__43986">Pürker</rs> hat mitls obigen Anbringen de ps: 18<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 753 N<hi style="superscript">o</hi> 152 den

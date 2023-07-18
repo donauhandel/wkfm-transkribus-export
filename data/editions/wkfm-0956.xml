@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4520" xml:id="facs_36">
+    <surface ulx="0" uly="0" lrx="2994" lry="4520" xml:id="facs_36">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0956.jpg" width="2994px" height="4520px"/>
          <zone points="399,236 399,3420 2969,3420 2969,236" rendition="TextRegion" xml:id="facs_36_r1">
             <zone points="1289,360 1348,356 1408,352 1468,350 1527,348 1587,347 1647,347 1706,347 1766,348 1826,348 1886,350 1945,350 2005,351 2065,351 2124,351 2184,351 2244,350 2303,348 2363,345 2423,341 2483,335 2483,236 2423,242 2363,246 2303,249 2244,251 2184,252 2124,252 2065,252 2005,252 1945,251 1886,251 1826,249 1766,249 1706,248 1647,248 1587,248 1527,249 1468,251 1408,253 1348,257 1289,261" rendition="Line" xml:id="facs_36_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_36" n="36" xml:id="img_0036"/>
+            <pb facs="#facs_36" n="36" xml:id="img_0036"/>
             
-            <ab  facs="#facs_36_r1">
+            <ab facs="#facs_36_r1">
                <lb facs="#facs_36_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_36_r1l2" n="N002"/>In obiger erklahrung dd<hi style="superscript">to</hi> 14<hi style="superscript">ten</hi> May 725 N<hi style="superscript">o</hi> 441 hat sich der
                <lb facs="#facs_36_r1l3" n="N003"/><rs type="person" ref="wkfm__46461">Hertzog</rs> geäusserert, daß er seine Handlung für sich allein

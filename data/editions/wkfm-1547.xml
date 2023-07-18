@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3072" lry="4477" xml:id="facs_89">
+    <surface ulx="0" uly="0" lrx="3072" lry="4477" xml:id="facs_89">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1547.jpg" width="3072px" height="4477px"/>
          <zone points="326,119 326,2937 2924,2937 2924,119" rendition="TextRegion" xml:id="facs_89_r2">
             <zone points="2792,345 2818,348 2844,348 2871,348 2897,347 2924,348 2924,258 2897,257 2871,258 2844,258 2818,258 2792,255" rendition="Line" xml:id="facs_89_r2l2" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_89" n="89" xml:id="img_0089"/>
+            <pb facs="#facs_89" n="89" xml:id="img_0089"/>
             
-            <ab  facs="#facs_89_r2">
+            <ab facs="#facs_89_r2">
                <lb facs="#facs_89_r2l2" n="N001"/>766
                <lb facs="#facs_89_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_89_r2l3" n="N003"/><rs type="person" ref="wkfm__47458">Seuller Franz Ignaz</rs> burgerlicher Leinwathandler

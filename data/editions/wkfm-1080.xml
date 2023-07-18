@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3087" lry="4530" xml:id="facs_16">
+    <surface ulx="0" uly="0" lrx="3087" lry="4530" xml:id="facs_16">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1080.jpg" width="3087px" height="4530px"/>
          <zone points="360,180 360,3435 2916,3435 2916,180" rendition="TextRegion" xml:id="facs_16_r1">
             <zone points="1274,341 1330,337 1386,334 1442,332 1498,329 1554,326 1610,324 1666,321 1722,318 1778,315 1835,314 1891,311 1947,309 2003,307 2059,305 2115,303 2171,302 2227,300 2283,299 2339,298 2396,297 2396,180 2339,181 2283,182 2227,183 2171,185 2115,186 2059,188 2003,190 1947,192 1891,194 1835,197 1778,198 1722,201 1666,204 1610,207 1554,209 1498,212 1442,215 1386,217 1330,220 1274,224" rendition="Line" xml:id="facs_16_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_16" n="16" xml:id="img_0016"/>
+            <pb facs="#facs_16" n="16" xml:id="img_0016"/>
             
-            <ab  facs="#facs_16_r1">
+            <ab facs="#facs_16_r1">
                <lb facs="#facs_16_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_16_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 500 hat sich der 
                <lb facs="#facs_16_r1l3" n="N003"/><rs type="person" ref="wkfm__8671">Jeitner</rs> geäusseret, daß er seine Handlung in proprio für sich führe

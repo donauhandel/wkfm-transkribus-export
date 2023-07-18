@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3105" lry="4455" xml:id="facs_99">
+    <surface ulx="0" uly="0" lrx="3105" lry="4455" xml:id="facs_99">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1283.jpg" width="3105px" height="4455px"/>
          <graphic url="" width="3105px" height="4455px"/>
          <zone points="179,132 179,4064 2925,4064 2925,132" rendition="TextRegion" xml:id="facs_99_r2">
@@ -83,9 +83,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_99" n="99" xml:id="img_0099"/>
+            <pb facs="#facs_99" n="99" xml:id="img_0099"/>
             
-            <ab  facs="#facs_99_r2">
+            <ab facs="#facs_99_r2">
                <lb facs="#facs_99_r2l3" n="N001"/>639
                <lb facs="#facs_99_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_99_r2l2" n="N003"/><rs type="person" ref="wkfm__46940">Mülner Johann Michäl</rs> burgerlicher Handlsmann

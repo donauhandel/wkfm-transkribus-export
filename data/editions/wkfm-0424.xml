@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2982" lry="4473" xml:id="facs_104">
+    <surface ulx="0" uly="0" lrx="2982" lry="4473" xml:id="facs_104">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0424.jpg" width="2982px" height="4473px"/>
          <zone points="228,231 228,3332 2892,3332 2892,231" rendition="TextRegion" xml:id="facs_104_r1">
             <zone points="1041,305 1108,302 1176,299 1243,298 1311,296 1379,295 1446,295 1514,293 1581,293 1649,293 1717,295 1784,295 1852,295 1919,295 1987,295 2054,293 2122,292 2190,290 2257,289 2325,286 2393,283 2393,231 2325,234 2257,237 2190,238 2122,240 2054,241 1987,243 1919,243 1852,243 1784,243 1717,243 1649,241 1581,241 1514,241 1446,243 1379,243 1311,244 1243,246 1176,247 1108,250 1041,253" rendition="Line" xml:id="facs_104_r1l1"/>
@@ -85,9 +85,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_104" n="104" xml:id="img_0104"/>
+            <pb facs="#facs_104" n="104" xml:id="img_0104"/>
             
-            <ab  facs="#facs_104_r1">
+            <ab facs="#facs_104_r1">
                <lb facs="#facs_104_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_104_line_1621958681616_1438" n="N002"/>Mitls obigen Anbringen de ps: 28<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 732 N<hi style="superscript">o</hi> 1901 hat der <rs type="person" ref="wkfm__37955">Jacob Küner</rs> und <rs type="person" ref="wkfm__21476">Philipp Jacob Bender</rs>
                <lb facs="#facs_104_r1l4" n="N003"/>angezeiget, daß sie auf hiesigen Plaz unter ihren Nahmen obligo und interesse mit ult: <choice><expan/><abbr>Mart:</abbr></choice> d. a.

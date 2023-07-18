@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2979" lry="4383" xml:id="facs_15">
+    <surface ulx="0" uly="0" lrx="2979" lry="4383" xml:id="facs_15">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1869.jpg" width="2979px" height="4383px"/>
          <zone points="231,150 231,2996 2824,2996 2824,150" rendition="TextRegion" xml:id="facs_15_r1">
             <zone points="2638,309 2826,309 2829,381 2641,381" rendition="Line" xml:id="facs_15_line_1619464724569_106" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_15" n="15" xml:id="img_0015"/>
+            <pb facs="#facs_15" n="15" xml:id="img_0015"/>
             
-            <ab  facs="#facs_15_r1">
+            <ab facs="#facs_15_r1">
                <lb facs="#facs_15_line_1619464724569_106" n="N001"/>927
                <lb facs="#facs_15_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_15_r1l2" n="N003"/><rs type="person" ref="wkfm__43824">Leidesdorf Samuel Isaac</rs> Jud

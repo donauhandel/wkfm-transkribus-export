@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3003" lry="4530" xml:id="facs_54">
+    <surface ulx="0" uly="0" lrx="3003" lry="4530" xml:id="facs_54">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0554.jpg" width="3003px" height="4530px"/>
          <zone points="228,255 228,3372 2862,3372 2862,255" rendition="TextRegion" xml:id="facs_54_r1">
             <zone points="1047,348 1117,343 1187,340 1257,338 1328,336 1398,336 1468,336 1539,338 1609,339 1679,341 1750,342 1820,345 1890,347 1960,348 2031,350 2101,351 2171,351 2242,350 2312,349 2382,347 2453,342 2453,261 2382,266 2312,268 2242,269 2171,270 2101,270 2031,269 1960,267 1890,266 1820,264 1750,261 1679,260 1609,258 1539,257 1468,255 1398,255 1328,255 1257,257 1187,259 1117,262 1047,267" rendition="Line" xml:id="facs_54_r1l1"/>
@@ -74,9 +74,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_54" n="54" xml:id="img_0054"/>
+            <pb facs="#facs_54" n="54" xml:id="img_0054"/>
             
-            <ab  facs="#facs_54_r1">
+            <ab facs="#facs_54_r1">
                <lb facs="#facs_54_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_54_r1l2" n="N002"/>In obiger Erkährung dd<hi style="superscript">to</hi> 20<hi style="superscript">ten</hi> Junii 725 N<hi style="superscript">o</hi> 268 hat sich der <rs type="person" ref="wkfm__43997">Johann Georg
                <lb break="no" facs="#facs_54_r1l3" n="N003"/>Dietschi</rs> geäusseret, daß seine Handlung ohne Compagnon führe

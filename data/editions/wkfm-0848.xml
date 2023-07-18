@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_36">
+    <surface ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_36">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0848.jpg" width="2994px" height="4530px"/>
          <zone points="348,248 348,3471 2841,3471 2841,248" rendition="TextRegion" xml:id="facs_36_r1">
             <zone points="1304,398 1368,396 1432,396 1497,396 1561,396 1625,396 1690,396 1754,398 1818,398 1883,398 1947,399 2011,399 2076,399 2140,398 2204,396 2269,395 2333,393 2397,390 2462,385 2526,381 2591,375 2591,248 2526,254 2462,258 2397,263 2333,266 2269,268 2204,269 2140,271 2076,272 2011,272 1947,272 1883,271 1818,271 1754,271 1690,269 1625,269 1561,269 1497,269 1432,269 1368,269 1304,271" rendition="Line" xml:id="facs_36_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_36" n="36" xml:id="img_0036"/>
+            <pb facs="#facs_36" n="36" xml:id="img_0036"/>
             
-            <ab  facs="#facs_36_r1">
+            <ab facs="#facs_36_r1">
                <lb facs="#facs_36_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_36_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 397 hat sich
                <lb facs="#facs_36_r1l3" n="N003"/>der <rs type="person" ref="wkfm__22393">Gotesching</rs> geäusseret, daß er als vorhin <unclear>Buzischer</unclear>

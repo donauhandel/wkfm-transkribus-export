@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_130">
+    <surface ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_130">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0798.jpg" width="2994px" height="4530px"/>
          <zone points="309,261 309,3976 2802,3976 2802,261" rendition="TextRegion" xml:id="facs_130_r1">
             <zone points="1259,382 1321,375 1384,368 1446,363 1509,361 1571,358 1634,355 1696,353 1759,353 1821,353 1884,352 1947,352 2009,352 2072,352 2134,350 2197,350 2259,347 2322,345 2384,341 2447,336 2510,331 2510,261 2447,266 2384,271 2322,275 2259,277 2197,280 2134,280 2072,282 2009,282 1947,282 1884,282 1821,283 1759,283 1696,283 1634,285 1571,288 1509,291 1446,293 1384,298 1321,305 1259,312" rendition="Line" xml:id="facs_130_r1l1"/>
@@ -74,9 +74,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_130" n="130" xml:id="img_0130"/>
+            <pb facs="#facs_130" n="130" xml:id="img_0130"/>
             
-            <ab  facs="#facs_130_r1">
+            <ab facs="#facs_130_r1">
                <lb facs="#facs_130_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_130_r1l2" n="N002"/>Untern 28<hi style="superscript">ten</hi> Decembris 763 hat der <rs type="person" ref="wkfm__47175">Franz Favai</rs> ange-
                <lb facs="#facs_130_r1l3" n="N003"/>zeiget, daß in seiner Handlung der <rs type="person" ref="wkfm__42886"><choice><expan/><abbr><unclear>H:</unclear></abbr></choice> Bernhard Falquet</rs>, und

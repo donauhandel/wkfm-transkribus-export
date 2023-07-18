@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2886" lry="4476" xml:id="facs_20">
+    <surface ulx="0" uly="0" lrx="2886" lry="4476" xml:id="facs_20">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1726.jpg" width="2886px" height="4476px"/>
          <zone points="165,268 165,3411 2766,3411 2766,268" rendition="TextRegion" xml:id="facs_20_r1">
             <zone points="1034,382 1099,376 1165,370 1231,365 1296,363 1362,361 1428,361 1493,361 1559,363 1625,364 1691,366 1756,367 1822,368 1888,369 1953,369 2019,367 2085,366 2150,363 2216,358 2282,351 2348,343 2348,268 2282,276 2216,283 2150,288 2085,291 2019,292 1953,294 1888,294 1822,293 1756,292 1691,291 1625,289 1559,288 1493,286 1428,286 1362,286 1296,288 1231,290 1165,295 1099,301 1034,307" rendition="Line" xml:id="facs_20_r1l1"/>
@@ -68,9 +68,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_20" n="20" xml:id="img_0020"/>
+            <pb facs="#facs_20" n="20" xml:id="img_0020"/>
             
-            <ab  facs="#facs_20_r1">
+            <ab facs="#facs_20_r1">
                <lb facs="#facs_20_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_20_r1l2" n="N002"/>In obigen Anbringen de ps: 8<hi style="superscript">ten</hi> Junii 725 N<hi style="superscript">o</hi> 792 hat sich die <rs type="person" ref="wkfm__46960">Winkhlerin
                <lb break="no" facs="#facs_20_r1l3" n="N003"/>vorhin Sprintzlin</rs> sich erklähret, das sie in dem vorhin unter ihres Ehewirthen

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2801" lry="4419" xml:id="facs_196">
+    <surface ulx="0" uly="0" lrx="2801" lry="4419" xml:id="facs_196">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1654.jpg" width="2801px" height="4419px"/>
          <zone points="96,-23 31,3354 2682,3356 2747,-21" rendition="TextRegion" xml:id="facs_196_r1">
             <zone points="950,266 1014,258 1079,252 1144,248 1209,244 1274,242 1338,240 1403,240 1468,240 1533,242 1598,242 1662,243 1727,245 1792,246 1857,246 1922,246 1986,246 2051,243 2116,242 2181,237 2246,233 2246,187 2181,191 2116,196 2051,197 1986,200 1922,200 1857,200 1792,200 1727,199 1662,197 1598,196 1533,196 1468,194 1403,194 1338,194 1274,196 1209,198 1144,202 1079,206 1014,212 950,220" rendition="Line" xml:id="facs_196_r1l1"/>
@@ -78,9 +78,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_196" n="196" xml:id="img_0196"/>
+            <pb facs="#facs_196" n="196" xml:id="img_0196"/>
             
-            <ab  facs="#facs_196_r1">
+            <ab facs="#facs_196_r1">
                <lb facs="#facs_196_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_196_r1l4" n="N002"/><seg type="wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_196_r1l6" n="N003"/>Mitls Anbringen de ps: 29<hi style="superscript">ten</hi> May 745 N<hi style="superscript">o</hi> 2241 hat der <rs type="person" ref="wkfm__47558">Salvini</rs> den mit der 

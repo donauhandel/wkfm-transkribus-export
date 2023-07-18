@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3116" lry="4569" xml:id="facs_7">
+    <surface ulx="0" uly="0" lrx="3116" lry="4569" xml:id="facs_7">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0060.jpg" width="3116px" height="4569px"/>
          <zone points="168,154 168,2940 2733,2940 2733,154" rendition="TextRegion" xml:id="facs_7_r1">
             <zone points="2622,258 2649,259 2677,258 2705,258 2733,261 2733,195 2705,192 2677,192 2649,193 2622,192" rendition="Line" xml:id="facs_7_r1l2" subtype="page-number"/>
@@ -75,9 +75,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_7" n="7" xml:id="img_0007"/>
+            <pb facs="#facs_7" n="7" xml:id="img_0007"/>
             
-            <ab  facs="#facs_7_r1">
+            <ab facs="#facs_7_r1">
                <lb facs="#facs_7_r1l2" n="N001"/>28
                <lb facs="#facs_7_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_7_r1l3" n="N003"/><rs type="person" ref="wkfm__9684">Brandegsky Franz Joseph</rs> K. K. Niderlags Verwanter

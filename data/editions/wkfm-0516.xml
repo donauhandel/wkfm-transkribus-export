@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3051" lry="4473" xml:id="facs_16">
+    <surface ulx="0" uly="0" lrx="3051" lry="4473" xml:id="facs_16">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0516.jpg" width="3051px" height="4473px"/>
          <zone points="498,160 498,3288 2922,3288 2922,160" rendition="TextRegion" xml:id="facs_16_r1">
             <zone points="1197,269 1269,269 1342,269 1414,269 1487,269 1559,270 1632,271 1705,272 1777,273 1850,275 1922,276 1995,276 2067,278 2140,279 2213,281 2285,281 2358,282 2430,282 2503,282 2576,282 2576,173 2503,173 2430,173 2358,173 2285,172 2213,172 2140,170 2067,169 1995,167 1922,167 1850,166 1777,164 1705,163 1632,162 1559,161 1487,160 1414,160 1342,160 1269,160 1197,160" rendition="Line" xml:id="facs_16_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_16" n="16" xml:id="img_0016"/>
+            <pb facs="#facs_16" n="16" xml:id="img_0016"/>
             
-            <ab  facs="#facs_16_r1">
+            <ab facs="#facs_16_r1">
                <lb facs="#facs_16_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_16_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 945 hat sich 
                <lb facs="#facs_16_r1l3" n="N003"/>der <rs type="person" ref="wkfm__10359">Dietman</rs> geäusseret das er keinen Compagnon habe.

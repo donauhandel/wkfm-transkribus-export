@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2940" lry="4464" xml:id="facs_12">
+    <surface ulx="0" uly="0" lrx="2940" lry="4464" xml:id="facs_12">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1304.jpg" width="2940px" height="4464px"/>
          <zone points="270,106 270,3208 2799,3208 2799,106" rendition="TextRegion" xml:id="facs_12_r1">
             <zone points="1007,250 1067,244 1128,237 1189,234 1250,232 1310,231 1371,231 1432,231 1493,232 1553,234 1614,235 1675,238 1736,240 1796,241 1857,241 1918,243 1979,241 2039,240 2100,237 2161,233 2222,226 2222,106 2161,113 2100,117 2039,120 1979,121 1918,123 1857,121 1796,121 1736,120 1675,118 1614,115 1553,114 1493,112 1432,111 1371,111 1310,111 1250,112 1189,114 1128,117 1067,124 1007,130" rendition="Line" xml:id="facs_12_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_12" n="12" xml:id="img_0012"/>
+            <pb facs="#facs_12" n="12" xml:id="img_0012"/>
             
-            <ab  facs="#facs_12_r1">
+            <ab facs="#facs_12_r1">
                <lb facs="#facs_12_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_12_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 602 hat sich der <rs type="person" ref="wkfm__46656">Nau-
                <lb break="no" facs="#facs_12_r1l3" n="N003"/>big</rs> geäusseret, das er <hi>kein</hi> seine handlung für sich allein führe

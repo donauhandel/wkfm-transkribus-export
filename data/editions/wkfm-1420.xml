@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2953" lry="4400" xml:id="facs_68">
+    <surface ulx="0" uly="0" lrx="2953" lry="4400" xml:id="facs_68">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1420.jpg" width="2953px" height="4400px"/>
          <graphic url="" width="2953px" height="4400px"/>
          <zone points="189,221 189,3353 2883,3353 2883,221" rendition="TextRegion" xml:id="facs_68_r1">
@@ -82,9 +82,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_68" n="68" xml:id="img_0068"/>
+            <pb facs="#facs_68" n="68" xml:id="img_0068"/>
             
-            <ab  facs="#facs_68_r1">
+            <ab facs="#facs_68_r1">
                <lb facs="#facs_68_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_68_r1l2" n="N002"/>Mitls Anbringen de ps: 5<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 744 N<hi style="superscript">o</hi> 2032 hat der <rs type="person" ref="wkfm__29325">Rebay</rs> und <rs type="person" ref="wkfm__46729">Joseph Mayer</rs> der zwischen
                <lb facs="#facs_68_r1l3" n="N003"/>ihnen untern 29<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 744 abgeschlossenen societaets Contract in <choice><expan/><abbr>orig:</abbr></choice> N<hi style="superscript">o</hi> 2031 eingeleget

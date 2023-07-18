@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2893" lry="4398" xml:id="facs_2">
+    <surface ulx="0" uly="0" lrx="2893" lry="4398" xml:id="facs_2">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1856.jpg" width="2893px" height="4398px"/>
          <zone points="306,94 306,3281 2754,3281 2754,94" rendition="TextRegion" xml:id="facs_2_r1">
             <zone points="1143,223 1209,221 1276,221 1343,221 1410,221 1476,221 1543,223 1610,223 1677,224 1743,224 1810,224 1877,224 1944,224 2010,221 2077,220 2144,217 2211,212 2277,207 2344,200 2411,191 2478,182 2478,94 2411,103 2344,112 2277,119 2211,124 2144,129 2077,132 2010,133 1944,136 1877,136 1810,136 1743,136 1677,136 1610,135 1543,135 1476,133 1410,133 1343,133 1276,133 1209,133 1143,135" rendition="Line" xml:id="facs_2_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_2" n="2" xml:id="img_0002"/>
+            <pb facs="#facs_2" n="2" xml:id="img_0002"/>
             
-            <ab  facs="#facs_2_r1">
+            <ab facs="#facs_2_r1">
                <lb facs="#facs_2_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_2_r1l3" n="N002"/>In obigen Anbringen de p: 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 858 hat sich der <rs type="person" ref="wkfm__8271">Arnsteiner</rs>
                <lb facs="#facs_2_r1l4" n="N003"/>Erklähret, das er sein negotium mit eignen <choice><expan/><abbr>intee</abbr></choice> und <unclear>obligo </unclear>ohne Compagnon

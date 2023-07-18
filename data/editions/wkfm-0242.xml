@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2877" lry="4502" xml:id="facs_188">
+    <surface ulx="0" uly="0" lrx="2877" lry="4502" xml:id="facs_188">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0242.jpg" width="2877px" height="4502px"/>
          <zone points="221,203 221,3308 2799,3308 2799,203" rendition="TextRegion" xml:id="facs_188_r2">
             <zone points="893,296 963,290 1034,285 1104,281 1175,278 1246,276 1316,276 1387,276 1458,276 1528,278 1599,279 1670,281 1740,282 1811,284 1882,285 1952,287 2023,287 2094,287 2164,287 2235,285 2306,282 2306,209 2235,212 2164,214 2094,214 2023,214 1952,214 1882,212 1811,211 1740,209 1670,208 1599,206 1528,205 1458,203 1387,203 1316,203 1246,203 1175,205 1104,208 1034,212 963,217 893,223" rendition="Line" xml:id="facs_188_r2l1"/>
@@ -80,9 +80,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_188" n="188" xml:id="img_0188"/>
+            <pb facs="#facs_188" n="188" xml:id="img_0188"/>
             
-            <ab  facs="#facs_188_r2">
+            <ab facs="#facs_188_r2">
                <lb facs="#facs_188_r2l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_188_r2l2" n="N002"/>Mitls oblatorien dd<hi style="superscript">to</hi> 2<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 751 N<hi style="superscript">o</hi> 1102 hat der <rs type="person" ref="wkfm__21476">Bender</rs> kund
                <lb facs="#facs_188_r2l3" n="N003"/>gemacht, daß er sich mit seinem Schwager <rs type="person" ref="wkfm__43936">Johann Carl Mühl</rs>

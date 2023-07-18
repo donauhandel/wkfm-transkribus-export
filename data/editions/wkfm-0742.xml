@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_74">
+    <surface ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_74">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0742.jpg" width="2994px" height="4530px"/>
          <zone points="456,224 456,3445 2886,3445 2886,224" rendition="TextRegion" xml:id="facs_74_r1">
             <zone points="1290,346 1343,345 1397,342 1451,340 1505,340 1559,339 1612,337 1666,337 1720,337 1774,336 1828,336 1881,336 1935,334 1989,334 2043,333 2097,331 2150,330 2204,327 2258,324 2312,321 2366,318 2366,224 2312,227 2258,230 2204,233 2150,236 2097,237 2043,239 1989,240 1935,240 1881,242 1828,242 1774,242 1720,243 1666,243 1612,243 1559,245 1505,246 1451,246 1397,248 1343,251 1290,252" rendition="Line" xml:id="facs_74_r1l1"/>
@@ -71,9 +71,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_74" n="74" xml:id="img_0074"/>
+            <pb facs="#facs_74" n="74" xml:id="img_0074"/>
             
-            <ab  facs="#facs_74_r1">
+            <ab facs="#facs_74_r1">
                <lb facs="#facs_74_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_74_r1l2" n="N002"/>In obigen Anbringen de ps: 27<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 732 N<hi style="superscript">o</hi> 1935 hat sich
                <lb facs="#facs_74_r1l3" n="N003"/>der <rs type="person" ref="wkfm__30269">Franz Joseph Fünffer</rs> und <rs type="person" ref="wkfm__46767">Matthias Pränkhl</rs> erklähret

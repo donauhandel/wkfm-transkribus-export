@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3023" lry="4477" xml:id="facs_35">
+    <surface ulx="0" uly="0" lrx="3023" lry="4477" xml:id="facs_35">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1493.jpg" width="3023px" height="4477px"/>
          <zone points="240,152 240,2962 2835,2962 2835,152" rendition="TextRegion" xml:id="facs_35_r1">
             <zone points="2652,330 2678,328 2704,329 2730,333 2756,336 2782,337 2808,336 2808,251 2782,252 2756,251 2730,248 2704,244 2678,243 2652,245" rendition="Line" xml:id="facs_35_r1l2" subtype="page-number"/>
@@ -70,9 +70,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_35" n="35" xml:id="img_0035"/>
+            <pb facs="#facs_35" n="35" xml:id="img_0035"/>
             
-            <ab  facs="#facs_35_r1">
+            <ab facs="#facs_35_r1">
                <lb facs="#facs_35_r1l2" n="N001"/>739
                <lb facs="#facs_35_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_35_r1l4" n="N003"/><rs type="person" ref="wkfm__47419">Schwaighofer Joseph <choice><expan/><abbr>seel:</abbr></choice> Wittib</rs> burgerliche Handlsfrau

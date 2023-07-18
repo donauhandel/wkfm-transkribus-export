@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_240">
+    <surface ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_240">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0294.jpg" width="2934px" height="4501px"/>
          <zone points="300,249 300,3405 2426,3405 2426,249" rendition="TextRegion" xml:id="facs_240_r1">
             <zone points="966,387 1039,383 1112,379 1185,376 1258,373 1331,370 1404,366 1477,363 1550,360 1623,357 1696,354 1769,351 1842,346 1915,343 1988,340 2061,337 2134,333 2207,329 2280,325 2353,321 2426,316 2426,249 2353,254 2280,258 2207,262 2134,266 2061,270 1988,273 1915,276 1842,279 1769,284 1696,287 1623,290 1550,293 1477,296 1404,299 1331,303 1258,306 1185,309 1112,312 1039,316 966,320" rendition="Line" xml:id="facs_240_r1l1"/>
@@ -71,9 +71,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_240" n="240" xml:id="img_0240"/>
+            <pb facs="#facs_240" n="240" xml:id="img_0240"/>
             
-            <ab  facs="#facs_240_r1">
+            <ab facs="#facs_240_r1">
                <lb facs="#facs_240_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_240_r1l2" n="N002"/><seg type="wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_240_r1l3" n="N003"/>Anno 766 hat der <rs type="person" ref="wkfm__43979">Joseph Pichler</rs> seinen mit der <rs type="person" ref="wkfm__43980">Elisabet

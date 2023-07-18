@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3095" lry="4496" xml:id="facs_69">
+    <surface ulx="0" uly="0" lrx="3095" lry="4496" xml:id="facs_69">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0737.jpg" width="3095px" height="4496px"/>
          <zone points="194,210 194,3096 2790,3096 2790,210" rendition="TextRegion" xml:id="facs_69_r2">
             <zone points="2550,373 2575,372 2600,370 2625,370 2650,368 2675,367 2700,366 2726,366 2726,263 2700,263 2675,264 2650,265 2625,267 2600,267 2575,269 2550,270" rendition="Line" xml:id="facs_69_r2l2" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_69" n="69" xml:id="img_0069"/>
+            <pb facs="#facs_69" n="69" xml:id="img_0069"/>
             
-            <ab  facs="#facs_69_r2">
+            <ab facs="#facs_69_r2">
                <lb facs="#facs_69_r2l2" n="N001"/>366
                <lb facs="#facs_69_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_69_r2l3" n="N003"/><rs type="person" ref="wkfm__47101">Vollandt Johann Ferdinand</rs> <hi>burg</hi>Hofbefreyter Leinwathandler

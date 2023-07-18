@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2973" lry="4530" xml:id="facs_52">
+    <surface ulx="0" uly="0" lrx="2973" lry="4530" xml:id="facs_52">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1152.jpg" width="2973px" height="4530px"/>
          <zone points="299,196 299,3383 2910,3383 2910,196" rendition="TextRegion" xml:id="facs_52_r1">
             <zone points="1220,343 1280,339 1341,335 1402,333 1463,331 1524,328 1585,326 1646,325 1707,323 1768,322 1829,320 1889,319 1950,319 2011,317 2072,316 2133,314 2194,312 2255,310 2316,307 2377,304 2438,301 2438,196 2377,199 2316,202 2255,205 2194,207 2133,209 2072,211 2011,212 1950,214 1889,214 1829,215 1768,217 1707,218 1646,220 1585,221 1524,223 1463,226 1402,228 1341,230 1280,234 1220,238" rendition="Line" xml:id="facs_52_r1l1"/>
@@ -68,9 +68,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_52" n="52" xml:id="img_0052"/>
+            <pb facs="#facs_52" n="52" xml:id="img_0052"/>
             
-            <ab  facs="#facs_52_r1">
+            <ab facs="#facs_52_r1">
                <lb facs="#facs_52_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_52_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 14<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 730 N<hi style="superscript">o</hi> 1989 hat der <rs type="person" ref="wkfm__25421">Ludwig</rs>
                <lb facs="#facs_52_r1l3" n="N003"/>nebst dem <rs type="person" ref="wkfm__18524">Leopold Lidl</rs> angezeiget, das sie ihr negotium miteinander

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2839" lry="4530" xml:id="facs_38">
+    <surface ulx="0" uly="0" lrx="2839" lry="4530" xml:id="facs_38">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0043.jpg" width="2839px" height="4530px"/>
          <zone points="290,221 290,3306 2738,3306 2738,221" rendition="TextRegion" xml:id="facs_38_r1">
             <zone points="755,315 822,318 890,321 958,324 1025,327 1093,331 1161,333 1228,337 1296,340 1364,343 1432,347 1499,350 1567,354 1635,359 1702,363 1770,368 1838,373 1905,379 1973,386 2041,392 2109,400 2109,306 2041,298 1973,292 1905,285 1838,279 1770,274 1702,269 1635,265 1567,260 1499,256 1432,253 1364,249 1296,246 1228,243 1161,239 1093,237 1025,233 958,230 890,227 822,224 755,221" rendition="Line" xml:id="facs_38_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_38" n="38" xml:id="img_0038"/>
+            <pb facs="#facs_38" n="38" xml:id="img_0038"/>
             
-            <ab  facs="#facs_38_r1">
+            <ab facs="#facs_38_r1">
                <lb facs="#facs_38_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_38_r1l2" n="N002"/>In obigen Anbringen de ps: 22<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 735 N<hi style="superscript">o</hi> 20 hat sich der <rs type="person" ref="wkfm__22543">Alliuß</rs> er-
                <lb facs="#facs_38_r1l3" n="N003"/>klähret, daß er sein Negotium ohne einiger societaet führe.

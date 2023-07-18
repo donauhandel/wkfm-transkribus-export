@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2953" lry="4400" xml:id="facs_40">
+    <surface ulx="0" uly="0" lrx="2953" lry="4400" xml:id="facs_40">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1392.jpg" width="2953px" height="4400px"/>
          <zone points="366,188 366,3420 2862,3420 2862,188" rendition="TextRegion" xml:id="facs_40_r1">
             <zone points="1112,321 1175,315 1239,311 1303,307 1367,306 1430,304 1494,304 1558,304 1622,306 1685,307 1749,309 1813,309 1877,310 1940,312 2004,312 2068,310 2132,309 2195,307 2259,303 2323,298 2387,291 2387,188 2323,195 2259,200 2195,204 2132,206 2068,207 2004,209 1940,209 1877,207 1813,206 1749,206 1685,204 1622,203 1558,201 1494,201 1430,201 1367,203 1303,204 1239,208 1175,212 1112,218" rendition="Line" xml:id="facs_40_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_40" n="40" xml:id="img_0040"/>
+            <pb facs="#facs_40" n="40" xml:id="img_0040"/>
             
-            <ab  facs="#facs_40_r1">
+            <ab facs="#facs_40_r1">
                <lb facs="#facs_40_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_40_r1l2" n="N002"/>In obiger Erkährung dd<hi style="superscript">to</hi> 15<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 629 hat sich
                <lb facs="#facs_40_r1l3" n="N003"/>der <rs type="person" ref="wkfm__9092">Reiner</rs> geäusseret, daß er keinen Compagnon noch interessenten

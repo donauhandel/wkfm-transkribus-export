@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2973" lry="4530" xml:id="facs_6">
+    <surface ulx="0" uly="0" lrx="2973" lry="4530" xml:id="facs_6">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1106.jpg" width="2973px" height="4530px"/>
          <zone points="132,200 132,3365 2724,3365 2724,200" rendition="TextRegion" xml:id="facs_6_r1">
             <zone points="1058,332 1113,327 1168,324 1223,321 1278,318 1333,315 1388,314 1443,312 1498,311 1553,309 1608,308 1663,306 1718,305 1773,303 1828,301 1883,299 1938,296 1993,293 2048,290 2103,286 2159,282 2159,200 2103,204 2048,208 1993,211 1938,214 1883,217 1828,219 1773,221 1718,223 1663,224 1608,226 1553,227 1498,229 1443,230 1388,232 1333,233 1278,236 1223,239 1168,242 1113,245 1058,250" rendition="Line" xml:id="facs_6_r1l1"/>
@@ -71,9 +71,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_6" n="6" xml:id="img_0006"/>
+            <pb facs="#facs_6" n="6" xml:id="img_0006"/>
             
-            <ab  facs="#facs_6_r1">
+            <ab facs="#facs_6_r1">
                <lb facs="#facs_6_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_6_r1l2" n="N002"/>In obigen Anbringen de ps: 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 1987 hat der <rs type="person" ref="wkfm__3658">Luz</rs> angezeiget das 
                <lb facs="#facs_6_r1l3" n="N003"/>er sein negotium unter seines <rs type="person" ref="wkfm__46778">Johann Luz</rs> alleinigen Nahmen mit seinem und

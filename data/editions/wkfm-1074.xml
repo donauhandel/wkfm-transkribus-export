@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3087" lry="4530" xml:id="facs_10">
+    <surface ulx="0" uly="0" lrx="3087" lry="4530" xml:id="facs_10">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1074.jpg" width="3087px" height="4530px"/>
          <zone points="440,215 440,3440 2934,3440 2934,215" rendition="TextRegion" xml:id="facs_10_r1">
             <zone points="1214,369 1272,367 1331,365 1390,362 1449,360 1508,359 1566,359 1625,357 1684,356 1743,356 1802,354 1860,352 1919,350 1978,348 2037,345 2096,342 2154,339 2213,334 2272,329 2331,323 2390,315 2390,215 2331,223 2272,229 2213,234 2154,239 2096,242 2037,245 1978,248 1919,250 1860,252 1802,254 1743,256 1684,256 1625,257 1566,259 1508,259 1449,260 1390,262 1331,265 1272,267 1214,269" rendition="Line" xml:id="facs_10_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_10" n="10" xml:id="img_0010"/>
+            <pb facs="#facs_10" n="10" xml:id="img_0010"/>
             
-            <ab  facs="#facs_10_r1">
+            <ab facs="#facs_10_r1">
                <lb facs="#facs_10_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_10_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 497 hat sich der 
                <lb facs="#facs_10_r1l3" n="N003"/><rs type="person" ref="wkfm__28298">Jenamy</rs> geäusseret, das er seine Handlung ohne einigen interessenten

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_222">
+    <surface ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_222">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0276.jpg" width="2934px" height="4501px"/>
          <zone points="180,266 180,4275 2706,4275 2706,266" rendition="TextRegion" xml:id="facs_222_r1">
             <zone points="857,369 933,364 1010,358 1087,354 1164,351 1241,350 1317,348 1394,348 1471,350 1548,350 1625,351 1701,351 1778,353 1855,354 1932,354 2009,354 2085,353 2162,351 2239,348 2316,345 2393,339 2393,266 2316,272 2239,275 2162,278 2085,280 2009,281 1932,281 1855,281 1778,280 1701,278 1625,278 1548,277 1471,277 1394,275 1317,275 1241,277 1164,278 1087,281 1010,285 933,291 857,296" rendition="Line" xml:id="facs_222_r1l1"/>
@@ -79,9 +79,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_222" n="222" xml:id="img_0222"/>
+            <pb facs="#facs_222" n="222" xml:id="img_0222"/>
             
-            <ab  facs="#facs_222_r1">
+            <ab facs="#facs_222_r1">
                <lb facs="#facs_222_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_222_r1l2" n="N002"/><seg type="wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_222_r1l3" n="N003"/>Mitls Anbringen de ps: 12<hi style="superscript">ten</hi> Julii 742 N<hi style="superscript">o</hi> 2100 hat der <rs type="person" ref="wkfm__25660">Beda</rs> den mit

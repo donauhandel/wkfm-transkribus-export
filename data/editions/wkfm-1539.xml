@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3072" lry="4477" xml:id="facs_81">
+    <surface ulx="0" uly="0" lrx="3072" lry="4477" xml:id="facs_81">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1539.jpg" width="3072px" height="4477px"/>
          <graphic url="" width="3072px" height="4477px"/>
          <zone points="342,125 342,2929 2916,2929 2916,125" rendition="TextRegion" xml:id="facs_81_r1">
@@ -71,9 +71,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_81" n="81" xml:id="img_0081"/>
+            <pb facs="#facs_81" n="81" xml:id="img_0081"/>
             
-            <ab  facs="#facs_81_r1">
+            <ab facs="#facs_81_r1">
                <lb facs="#facs_81_line_1629123366408_2048" n="N001"/>762
                <lb facs="#facs_81_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_81_r1l3" n="N003"/><rs type="person" ref="wkfm__47452">Steigmiller Johann Ernst</rs> burgerlicher <hi>Handlsmann</hi> Zukerbäker

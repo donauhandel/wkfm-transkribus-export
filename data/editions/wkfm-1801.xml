@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2956" lry="4468" xml:id="facs_95">
+    <surface ulx="0" uly="0" lrx="2956" lry="4468" xml:id="facs_95">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1801.jpg" width="2956px" height="4468px"/>
          <zone points="173,272 173,3065 2763,3069 2763,276" rendition="TextRegion" xml:id="facs_95_r1">
             <zone points="2562,371 2748,371 2748,511 2562,511" rendition="Line" xml:id="facs_95_line_1626245021819_83" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_95" n="95" xml:id="img_0095"/>
+            <pb facs="#facs_95" n="95" xml:id="img_0095"/>
             
-            <ab  facs="#facs_95_r1">
+            <ab facs="#facs_95_r1">
                <lb facs="#facs_95_line_1626245021819_83" n="N001"/>893
                <lb facs="#facs_95_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_95_r1l2" n="N003"/><rs type="person" ref="wkfm__47022">Wöber Lorenz</rs> burgerlicher Handlsmann

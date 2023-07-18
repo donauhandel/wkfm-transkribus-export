@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3049" lry="4436" xml:id="facs_41">
+    <surface ulx="0" uly="0" lrx="3049" lry="4436" xml:id="facs_41">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0541.jpg" width="3049px" height="4436px"/>
          <graphic url="" width="3049px" height="4436px"/>
          <zone points="294,124 294,2944 2897,2944 2897,124" rendition="TextRegion" xml:id="facs_41_r1">
@@ -71,9 +71,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_41" n="41" xml:id="img_0041"/>
+            <pb facs="#facs_41" n="41" xml:id="img_0041"/>
             
-            <ab  facs="#facs_41_r1">
+            <ab facs="#facs_41_r1">
                <lb facs="#facs_41_r1l2" n="N001"/>268
                <lb facs="#facs_41_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_41_r1l4" n="N003"/><rs type="person" ref="wkfm__46221">Domenegone Giacomo Antonius</rs> burgerlicher Handlsmann

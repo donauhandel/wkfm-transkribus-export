@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2954" lry="4493" xml:id="facs_7">
+    <surface ulx="0" uly="0" lrx="2954" lry="4493" xml:id="facs_7">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0327.jpg" width="2954px" height="4493px"/>
          <zone points="164,174 164,2974 2721,2974 2721,174" rendition="TextRegion" xml:id="facs_7_r2">
             <zone points="2598,334 2628,336 2659,335 2690,332 2721,331 2721,237 2690,238 2659,241 2628,242 2598,240" rendition="Line" xml:id="facs_7_r2l2" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_7" n="7" xml:id="img_0007"/>
+            <pb facs="#facs_7" n="7" xml:id="img_0007"/>
             
-            <ab  facs="#facs_7_r2">
+            <ab facs="#facs_7_r2">
                <lb facs="#facs_7_r2l2" n="N001"/>161
                <lb facs="#facs_7_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_7_r2l3" n="N003"/><rs type="person" ref="wkfm__46104">Capieu La Veuve d'Estienne</rs> k. k. Niderlagsverwanter

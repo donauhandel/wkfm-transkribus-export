@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3029" lry="4464" xml:id="facs_161">
+    <surface ulx="0" uly="0" lrx="3029" lry="4464" xml:id="facs_161">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0215.jpg" width="3029px" height="4464px"/>
          <zone points="66,60 66,4246 2763,4246 2763,60" rendition="TextRegion" xml:id="facs_161_r3">
             <zone points="2479,88 2664,88 2664,202 2479,202" rendition="Line" xml:id="facs_161_line_1629708333365_788" subtype="page-number"/>
@@ -84,9 +84,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_161" n="161" xml:id="img_0161"/>
+            <pb facs="#facs_161" n="161" xml:id="img_0161"/>
             
-            <ab  facs="#facs_161_r3">
+            <ab facs="#facs_161_r3">
                <lb facs="#facs_161_r3l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_161_r3l2" n="N003"/><rs type="person" ref="wkfm__25146">Barbieri Joseph</rs> burgerlicher Handlsmann
                <lb facs="#facs_161_line_1621469204390_3093" n="N004"/>Firma oder Raggion

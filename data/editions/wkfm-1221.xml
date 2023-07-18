@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3086" lry="4491" xml:id="facs_37">
+    <surface ulx="0" uly="0" lrx="3086" lry="4491" xml:id="facs_37">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1221.jpg" width="3086px" height="4491px"/>
          <zone points="125,133 125,2960 2783,2968 2783,141" rendition="TextRegion" xml:id="facs_37_r2">
             <zone points="259,309 142,309 142,455 259,455" rendition="Line" xml:id="facs_37_line_1624960562129_892"/>
@@ -71,9 +71,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_37" n="37" xml:id="img_0037"/>
+            <pb facs="#facs_37" n="37" xml:id="img_0037"/>
             
-            <ab  facs="#facs_37_r2">
+            <ab facs="#facs_37_r2">
                <lb facs="#facs_37_r2l2" n="N002"/>604
                <lb facs="#facs_37_r2l1" n="N003"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_37_r2l3" n="N004"/><rs type="person" ref="wkfm__46873">Mariano Johann Bapt:</rs>

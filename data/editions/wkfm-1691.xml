@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2945" lry="4468" xml:id="facs_233">
+    <surface ulx="0" uly="0" lrx="2945" lry="4468" xml:id="facs_233">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1691.jpg" width="2945px" height="4468px"/>
          <zone points="234,156 234,2993 2771,2993 2771,156" rendition="TextRegion" xml:id="facs_233_r1">
             <zone points="2612,331 2638,335 2665,337 2691,337 2718,336 2744,333 2771,328 2771,249 2744,254 2718,257 2691,258 2665,258 2638,256 2612,252" rendition="Line" xml:id="facs_233_r1l2" subtype="page-number"/>
@@ -70,9 +70,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_233" n="233" xml:id="img_0233"/>
+            <pb facs="#facs_233" n="233" xml:id="img_0233"/>
             
-            <ab  facs="#facs_233_r1">
+            <ab facs="#facs_233_r1">
                <lb facs="#facs_233_r1l2" n="N001"/>838
                <lb facs="#facs_233_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_233_r1l3" n="N003"/><rs type="person" ref="wkfm__22079">Sörgel Johann Georg</rs> kay: könig: Niderlags Verwanter

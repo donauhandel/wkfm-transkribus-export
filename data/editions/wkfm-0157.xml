@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2954" lry="4435" xml:id="facs_104">
+    <surface ulx="0" uly="0" lrx="2954" lry="4435" xml:id="facs_104">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0157.jpg" width="2954px" height="4435px"/>
          <zone points="534,157 534,3209 2820,3209 2820,157" rendition="TextRegion" xml:id="facs_104_r1">
             <zone points="881,271 952,274 1024,276 1096,278 1168,281 1240,283 1312,284 1383,286 1455,287 1527,289 1599,289 1671,290 1743,292 1815,292 1886,293 1958,295 2030,296 2102,296 2174,298 2246,301 2318,302 2318,188 2246,187 2174,184 2102,182 2030,182 1958,181 1886,179 1815,178 1743,178 1671,176 1599,175 1527,175 1455,173 1383,172 1312,170 1240,169 1168,167 1096,164 1024,162 952,160 881,157" rendition="Line" xml:id="facs_104_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_104" n="104" xml:id="img_0104"/>
+            <pb facs="#facs_104" n="104" xml:id="img_0104"/>
             
-            <ab  facs="#facs_104_r1">
+            <ab facs="#facs_104_r1">
                <lb facs="#facs_104_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_104_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 20<hi style="superscript">ten</hi> Junii 725 hat sich der <rs type="person" ref="wkfm__43888">Balthausser</rs>
                <lb facs="#facs_104_r1l3" n="N003"/>geäusseret das er seine Handlung ohne Compagnon führe

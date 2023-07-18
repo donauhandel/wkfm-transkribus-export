@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3105" lry="4511" xml:id="facs_47">
+    <surface ulx="0" uly="0" lrx="3105" lry="4511" xml:id="facs_47">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0547.jpg" width="3105px" height="4511px"/>
          <zone points="243,195 243,2982 2853,2982 2853,195" rendition="TextRegion" xml:id="facs_47_r1">
             <zone points="2733,407 2763,407 2793,407 2823,407 2853,407 2853,290 2823,290 2793,290 2763,290 2733,290" rendition="Line" xml:id="facs_47_r1l2" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_47" n="47" xml:id="img_0047"/>
+            <pb facs="#facs_47" n="47" xml:id="img_0047"/>
             
-            <ab  facs="#facs_47_r1">
+            <ab facs="#facs_47_r1">
                <lb facs="#facs_47_r1l2" n="N001"/>271
                <lb facs="#facs_47_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_47_r1l3" n="N003"/><rs type="person" ref="wkfm__41221">Tonolino Hieronimus</rs> burgerlicher Handlsmann

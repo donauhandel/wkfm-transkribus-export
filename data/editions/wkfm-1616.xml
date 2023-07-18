@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2872" lry="4419" xml:id="facs_158">
+    <surface ulx="0" uly="0" lrx="2872" lry="4419" xml:id="facs_158">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1616.jpg" width="2872px" height="4419px"/>
          <zone points="312,117 312,3258 2799,3258 2799,117" rendition="TextRegion" xml:id="facs_158_r1">
             <zone points="1130,286 1194,279 1259,274 1323,268 1388,265 1453,260 1517,258 1582,255 1647,253 1711,252 1776,250 1841,248 1905,246 1970,244 2035,242 2099,238 2164,235 2229,230 2293,226 2358,219 2423,211 2423,117 2358,125 2293,132 2229,136 2164,141 2099,144 2035,148 1970,150 1905,152 1841,154 1776,156 1711,158 1647,159 1582,161 1517,164 1453,166 1388,171 1323,174 1259,180 1194,185 1130,192" rendition="Line" xml:id="facs_158_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_158" n="158" xml:id="img_0158"/>
+            <pb facs="#facs_158" n="158" xml:id="img_0158"/>
             
-            <ab  facs="#facs_158_r1">
+            <ab facs="#facs_158_r1">
                <lb facs="#facs_158_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_158_r1l2" n="N002"/>In obigen Anbringen de ps: 15<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 735 N<hi style="superscript">o</hi> 738 hat sich der <rs type="person" ref="wkfm__23529">Sinabell</rs>
                <lb facs="#facs_158_r1l3" n="N003"/>erklähret das er seine Handlung mit eigenem interesse führe

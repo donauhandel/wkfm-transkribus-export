@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3023" lry="4477" xml:id="facs_67">
+    <surface ulx="0" uly="0" lrx="3023" lry="4477" xml:id="facs_67">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1525.jpg" width="3023px" height="4477px"/>
          <zone points="338,86 338,2912 2890,2910 2890,84" rendition="TextRegion" xml:id="facs_67_r2">
             <zone points="2668,231 2882,231 2882,363 2668,363" rendition="Line" xml:id="facs_67_line_1626260705558_1321" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_67" n="67" xml:id="img_0067"/>
+            <pb facs="#facs_67" n="67" xml:id="img_0067"/>
             
-            <ab  facs="#facs_67_r2">
+            <ab facs="#facs_67_r2">
                <lb facs="#facs_67_line_1626260705558_1321" n="N001"/>755
                <lb facs="#facs_67_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_67_r2l2" n="N003"/><rs type="person" ref="wkfm__8202">Stietga Jacob</rs> burgerlicher Handlsmann

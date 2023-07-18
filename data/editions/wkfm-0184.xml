@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3059" lry="4473" xml:id="facs_131">
+    <surface ulx="0" uly="0" lrx="3059" lry="4473" xml:id="facs_131">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0184.jpg" width="3059px" height="4473px"/>
          <zone points="197,173 197,3036 2723,3036 2723,173" rendition="TextRegion" xml:id="facs_131_r3">
             <zone points="2604,309 2631,305 2659,302 2686,301 2714,299 2714,190 2686,192 2659,193 2631,196 2604,200" rendition="Line" xml:id="facs_131_r3l2" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_131" n="131" xml:id="img_0131"/>
+            <pb facs="#facs_131" n="131" xml:id="img_0131"/>
             
-            <ab  facs="#facs_131_r3">
+            <ab facs="#facs_131_r3">
                <lb facs="#facs_131_r3l2" n="N001"/>90
                <lb facs="#facs_131_r3l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_131_r3l3" n="N003"/><rs type="person" ref="wkfm__43788">Buechhaimer Johann Georg</rs> burgerlicher Handlsmann

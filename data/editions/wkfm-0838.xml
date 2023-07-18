@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_26">
+    <surface ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_26">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0838.jpg" width="2994px" height="4530px"/>
          <zone points="351,271 351,3475 2814,3475 2814,271" rendition="TextRegion" xml:id="facs_26_r1">
             <zone points="1193,419 1254,413 1316,407 1377,403 1439,401 1500,398 1562,398 1623,398 1685,398 1746,400 1808,400 1869,401 1931,403 1992,404 2054,404 2115,404 2177,404 2238,403 2300,401 2361,398 2423,394 2423,271 2361,275 2300,278 2238,280 2177,281 2115,281 2054,281 1992,281 1931,280 1869,278 1808,277 1746,277 1685,275 1623,275 1562,275 1500,275 1439,278 1377,280 1316,284 1254,290 1193,296" rendition="Line" xml:id="facs_26_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_26" n="26" xml:id="img_0026"/>
+            <pb facs="#facs_26" n="26" xml:id="img_0026"/>
             
-            <ab  facs="#facs_26_r1">
+            <ab facs="#facs_26_r1">
                <lb facs="#facs_26_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_26_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 392 hat sich der
                <lb facs="#facs_26_r1l3" n="N003"/><rs type="person" ref="wkfm__1864">Güsser</rs> geäusseret, das er sein negotium ohne Compagnon führe

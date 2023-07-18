@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_66">
+    <surface ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_66">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0734.jpg" width="2994px" height="4530px"/>
          <zone points="374,209 374,3436 2871,3436 2871,209" rendition="TextRegion" xml:id="facs_66_r1">
             <zone points="1253,376 1316,373 1379,370 1443,367 1506,364 1570,363 1633,361 1697,360 1760,358 1824,357 1887,355 1950,354 2014,352 2077,351 2141,348 2204,346 2268,343 2331,340 2395,337 2458,334 2522,330 2522,209 2458,213 2395,216 2331,219 2268,222 2204,225 2141,227 2077,230 2014,231 1950,233 1887,234 1824,236 1760,237 1697,239 1633,240 1570,242 1506,243 1443,246 1379,249 1316,252 1253,255" rendition="Line" xml:id="facs_66_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_66" n="66" xml:id="img_0066"/>
+            <pb facs="#facs_66" n="66" xml:id="img_0066"/>
             
-            <ab  facs="#facs_66_r1">
+            <ab facs="#facs_66_r1">
                <lb facs="#facs_66_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_66_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 7<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 729 N<hi style="superscript">o</hi> 348 hat sich
                <lb facs="#facs_66_r1l3" n="N003"/>der <rs type="person" ref="wkfm__14315">Fäber</rs> geäusseret, daß er seine Handlung fur sich

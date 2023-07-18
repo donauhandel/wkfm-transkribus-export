@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2893" lry="4398" xml:id="facs_18">
+    <surface ulx="0" uly="0" lrx="2893" lry="4398" xml:id="facs_18">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1848.jpg" width="2893px" height="4398px"/>
          <zone points="327,-33 242,3330 2465,3330 2550,-33" rendition="TextRegion" xml:id="facs_18_r1">
             <zone points="1228,306 2463,306 2463,82 1228,82" rendition="Line" xml:id="facs_18_line_1619514480161_720"/>
@@ -72,9 +72,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_18" n="18" xml:id="img_0018"/>
+            <pb facs="#facs_18" n="18" xml:id="img_0018"/>
             
-            <ab  facs="#facs_18_r1">
+            <ab facs="#facs_18_r1">
                <lb facs="#facs_18_line_1619514480161_720" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_18_r1l1" n="N002"/><seg type="wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_18_r1l2" n="N003"/><choice><expan/><abbr>Ao:</abbr></choice> 764 hat der <rs type="person" ref="wkfm__43862">Philipp Mathias Ziegler</rs> seinen mit der <rs type="person" ref="wkfm__43864">Maria

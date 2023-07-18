@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2964" lry="4502" xml:id="facs_168">
+    <surface ulx="0" uly="0" lrx="2964" lry="4502" xml:id="facs_168">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0222.jpg" width="2964px" height="4502px"/>
          <zone points="375,172 375,3325 2798,3325 2798,172" rendition="TextRegion" xml:id="facs_168_r1">
             <zone points="879,260 955,265 1031,269 1107,275 1183,280 1259,284 1335,289 1411,295 1487,299 1563,304 1639,309 1715,311 1791,316 1867,319 1943,320 2019,322 2095,322 2171,322 2247,320 2323,319 2400,314 2400,226 2323,231 2247,232 2171,234 2095,234 2019,234 1943,232 1867,231 1791,228 1715,223 1639,221 1563,216 1487,211 1411,207 1335,201 1259,196 1183,192 1107,187 1031,181 955,177 879,172" rendition="Line" xml:id="facs_168_r1l1"/>
@@ -72,9 +72,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_168" n="168" xml:id="img_0168"/>
+            <pb facs="#facs_168" n="168" xml:id="img_0168"/>
             
-            <ab  facs="#facs_168_r1">
+            <ab facs="#facs_168_r1">
                <lb facs="#facs_168_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_168_r1l2" n="N002"/>In obigen Anbringen de ps: 13<hi style="superscript">ten</hi> Junii 735 N<hi style="superscript">o</hi> 1033 hat sich der <rs type="person" ref="wkfm__43918">Praestinari</rs>
                <lb facs="#facs_168_r1l3" n="N003"/>geäusseret, daß er mit sinem Schwiger-Vattern <rs type="person" ref="wkfm__3764">Franz Martinelli</rs>

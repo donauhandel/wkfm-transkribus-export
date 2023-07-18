@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2944" lry="4473" xml:id="facs_155">
+    <surface ulx="0" uly="0" lrx="2944" lry="4473" xml:id="facs_155">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0208.jpg" width="2944px" height="4473px"/>
          <zone points="197,162 197,2980 2522,2980 2522,162" rendition="TextRegion" xml:id="facs_155_r1">
             <zone points="2415,272 2441,270 2468,268 2495,268 2522,268 2522,162 2495,162 2468,162 2441,164 2415,166" rendition="Line" xml:id="facs_155_r1l1" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_155" n="155" xml:id="img_0155"/>
+            <pb facs="#facs_155" n="155" xml:id="img_0155"/>
             
-            <ab  facs="#facs_155_r1">
+            <ab facs="#facs_155_r1">
                <lb facs="#facs_155_r1l1" n="N001"/>102
                <lb facs="#facs_155_r1l2" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_155_r1l3" n="N003"/><rs type="person" ref="wkfm__39083">Prauneyß Joseph Johann</rs> burgerlicher Handlsmann

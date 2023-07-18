@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3057" lry="4521" xml:id="facs_15">
+    <surface ulx="0" uly="0" lrx="3057" lry="4521" xml:id="facs_15">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1079.jpg" width="3057px" height="4521px"/>
          <zone points="269,187 269,3040 2864,3040 2864,187" rendition="TextRegion" xml:id="facs_15_r2">
             <zone points="2705,367 2731,368 2758,368 2784,368 2811,370 2837,370 2864,373 2864,267 2837,264 2811,264 2784,262 2758,262 2731,262 2705,261" rendition="Line" xml:id="facs_15_r2l2" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_15" n="15" xml:id="img_0015"/>
+            <pb facs="#facs_15" n="15" xml:id="img_0015"/>
             
-            <ab  facs="#facs_15_r2">
+            <ab facs="#facs_15_r2">
                <lb facs="#facs_15_r2l2" n="N001"/>533
                <lb facs="#facs_15_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_15_r2l3" n="N003"/><rs type="person" ref="wkfm__8671">Jeitner Joseph Alosius</rs> burgerlicher Handlsmann

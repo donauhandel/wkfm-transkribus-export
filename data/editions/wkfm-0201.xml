@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2962" lry="4521" xml:id="facs_148">
+    <surface ulx="0" uly="0" lrx="2962" lry="4521" xml:id="facs_148">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0201.jpg" width="2962px" height="4521px"/>
          <zone points="465,178 465,3405 2745,3405 2745,178" rendition="TextRegion" xml:id="facs_148_r1">
             <zone points="1125,287 1196,293 1267,297 1339,303 1410,308 1482,312 1553,318 1624,322 1696,326 1767,330 1839,334 1910,338 1981,340 2053,342 2124,344 2196,345 2267,345 2338,345 2410,345 2481,343 2553,341 2553,232 2481,234 2410,236 2338,236 2267,236 2196,236 2124,235 2053,233 1981,231 1910,229 1839,225 1767,221 1696,217 1624,213 1553,209 1482,203 1410,199 1339,194 1267,188 1196,184 1125,178" rendition="Line" xml:id="facs_148_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_148" n="148" xml:id="img_0148"/>
+            <pb facs="#facs_148" n="148" xml:id="img_0148"/>
             
-            <ab  facs="#facs_148_r1">
+            <ab facs="#facs_148_r1">
                <lb facs="#facs_148_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_148_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 733 N<hi style="superscript">o</hi> 91 hat sich der
                <lb facs="#facs_148_r1l3" n="N003"/><rs type="person" ref="wkfm__43909">Piwänkho</rs> geäusseret, daß er seine Handlung für sich allein

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3001" lry="4436" xml:id="facs_165">
+    <surface ulx="0" uly="0" lrx="3001" lry="4436" xml:id="facs_165">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0485.jpg" width="3001px" height="4436px"/>
          <graphic url="" width="3001px" height="4436px"/>
          <zone points="140,167 140,3569 2820,3569 2820,167" rendition="TextRegion" xml:id="facs_165_r1">
@@ -80,9 +80,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_165" n="165" xml:id="img_0165"/>
+            <pb facs="#facs_165" n="165" xml:id="img_0165"/>
             
-            <ab  facs="#facs_165_r1">
+            <ab facs="#facs_165_r1">
                <lb facs="#facs_165_r1l2" n="N001"/>240
                <lb facs="#facs_165_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_165_r1l3" n="N003"/><rs type="person" ref="wkfm__43887">Kleinrath Franz</rs> burgerlicher Handlsmann

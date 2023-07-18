@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2991" lry="4541" xml:id="facs_199">
+    <surface ulx="0" uly="0" lrx="2991" lry="4541" xml:id="facs_199">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0253.jpg" width="2991px" height="4541px"/>
          <zone points="54,113 57,4196 2720,4196 2717,113" rendition="TextRegion" xml:id="facs_199_r1">
             <zone points="2535,138 2689,138 2689,243 2535,243" rendition="Line" xml:id="facs_199_line_1629708593443_958" subtype="page-number"/>
@@ -81,9 +81,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_199" n="199" xml:id="img_0199"/>
+            <pb facs="#facs_199" n="199" xml:id="img_0199"/>
             
-            <ab  facs="#facs_199_r1">
+            <ab facs="#facs_199_r1">
                <lb facs="#facs_199_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_199_r1l2" n="N003"/><rs type="person" ref="wkfm__43950"><unclear>Bacil<hi>l</hi>er</unclear> Paul Anton</rs> hofbefreyter Handlsmann
                <lb facs="#facs_199_r1l3" n="N004"/>Firma ad Raggion

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2991" lry="4407" xml:id="facs_61">
+    <surface ulx="0" uly="0" lrx="2991" lry="4407" xml:id="facs_61">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0114.jpg" width="2991px" height="4407px"/>
          <zone points="123,147 123,2942 2669,2942 2669,147" rendition="TextRegion" xml:id="facs_61_r2">
             <zone points="2538,224 2563,226 2588,225 2613,223 2638,221 2663,220 2663,150 2638,151 2613,153 2588,155 2563,156 2538,154" rendition="Line" xml:id="facs_61_r2l2" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_61" n="61" xml:id="img_0061"/>
+            <pb facs="#facs_61" n="61" xml:id="img_0061"/>
             
-            <ab  facs="#facs_61_r2">
+            <ab facs="#facs_61_r2">
                <lb facs="#facs_61_r2l2" n="N001"/>55
                <lb facs="#facs_61_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_61_r2l3" n="N003"/><rs type="person" ref="wkfm__43851">Pfandtnerin Maria Judith</rs> burgerliche Handlsfrau

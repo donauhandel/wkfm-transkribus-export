@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2945" lry="4407" xml:id="facs_109">
+    <surface ulx="0" uly="0" lrx="2945" lry="4407" xml:id="facs_109">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0162.jpg" width="2945px" height="4407px"/>
          <zone points="204,138 204,3000 2595,3000 2595,138" rendition="TextRegion" xml:id="facs_109_r2">
             <zone points="2528,294 2556,287 2585,279 2585,168 2556,176 2528,183" rendition="Line" xml:id="facs_109_r2l2" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_109" n="109" xml:id="img_0109"/>
+            <pb facs="#facs_109" n="109" xml:id="img_0109"/>
             
-            <ab  facs="#facs_109_r2">
+            <ab facs="#facs_109_r2">
                <lb facs="#facs_109_r2l2" n="N001"/>79
                <lb facs="#facs_109_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_109_r2l3" n="N003"/><rs type="person" ref="wkfm__23646">Preißinger Leopold</rs> burgerlicher Leinwathandler

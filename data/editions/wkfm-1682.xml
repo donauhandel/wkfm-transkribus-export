@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2830" lry="4476" xml:id="facs_224">
+    <surface ulx="0" uly="0" lrx="2830" lry="4476" xml:id="facs_224">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1682.jpg" width="2830px" height="4476px"/>
          <zone points="182,238 182,4295 2640,4295 2640,238" rendition="TextRegion" xml:id="facs_224_r1">
             <zone points="1203,318 1314,328 1377,323 1440,320 1503,319 1566,317 1629,317 1692,317 1755,317 1818,319 1882,319 1945,320 2008,322 2071,322 2134,322 2197,322 2260,320 2323,319 2386,316 2449,311 2513,307 2513,238 2449,242 2386,247 2323,250 2260,251 2197,253 2134,253 2071,253 2008,253 1945,251 1882,250 1818,250 1755,248 1692,248 1629,248 1566,248 1503,250 1440,251 1377,254 1314,259 1203,249" rendition="Line" xml:id="facs_224_r1l1"/>
@@ -77,9 +77,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_224" n="224" xml:id="img_0224"/>
+            <pb facs="#facs_224" n="224" xml:id="img_0224"/>
             
-            <ab  facs="#facs_224_r1">
+            <ab facs="#facs_224_r1">
                <lb facs="#facs_224_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_224_r1l2" n="N002"/><seg type="wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_224_r1l3" n="N003"/><choice><expan/><abbr>Ao</abbr></choice> 765 hat der <rs type="person" ref="wkfm__47593">Franz Carl Sotscheck</rs> seinen mit <rs type="person" ref="wkfm__47595">Francisca Barbara

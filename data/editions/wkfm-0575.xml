@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3077" lry="4511" xml:id="facs_75">
+    <surface ulx="0" uly="0" lrx="3077" lry="4511" xml:id="facs_75">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0575.jpg" width="3077px" height="4511px"/>
          <zone points="183,288 183,3766 2892,3766 2892,288" rendition="TextRegion" xml:id="facs_75_r2">
             <zone points="2756,441 2783,438 2810,436 2837,436 2864,434 2892,430 2892,373 2864,377 2837,379 2810,379 2783,381 2756,384" rendition="Line" xml:id="facs_75_r2l2" subtype="page-number"/>
@@ -84,9 +84,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_75" n="75" xml:id="img_0075"/>
+            <pb facs="#facs_75" n="75" xml:id="img_0075"/>
             
-            <ab  facs="#facs_75_r2">
+            <ab facs="#facs_75_r2">
                <lb facs="#facs_75_r2l2" n="N001"/>285
                <lb facs="#facs_75_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_75_r2l3" n="N003"/><rs type="person" ref="wkfm__29551">Decret Franz</rs> k. k. Niderlags Verwanter

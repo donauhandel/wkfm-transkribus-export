@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3095" lry="4469" xml:id="facs_17">
+    <surface ulx="0" uly="0" lrx="3095" lry="4469" xml:id="facs_17">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0937.jpg" width="3095px" height="4469px"/>
          <zone points="137,221 137,3054 2805,3052 2805,219" rendition="TextRegion" xml:id="facs_17_r1">
             <zone points="2630,318 2797,318 2797,431 2630,431" rendition="Line" xml:id="facs_17_line_1624793571876_581" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_17" n="17" xml:id="img_0017"/>
+            <pb facs="#facs_17" n="17" xml:id="img_0017"/>
             
-            <ab  facs="#facs_17_r1">
+            <ab facs="#facs_17_r1">
                <lb facs="#facs_17_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_17_r1l2" n="N003"/><rs type="person" ref="wkfm__19704">Hofeckher Niclas</rs> hofbefreyter Handlsmann
                <lb facs="#facs_17_r1l3" n="N004"/>Firma ad Raggion

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3049" lry="4436" xml:id="facs_171">
+    <surface ulx="0" uly="0" lrx="3049" lry="4436" xml:id="facs_171">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0491.jpg" width="3049px" height="4436px"/>
          <zone points="626,127 626,2980 2908,2987 2908,134" rendition="TextRegion" xml:id="facs_171_r1">
             <zone points="2716,209 2901,209 2901,323 2716,323" rendition="Line" xml:id="facs_171_line_1629449878104_1115" subtype="page-number"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_171" n="171" xml:id="img_0171"/>
+            <pb facs="#facs_171" n="171" xml:id="img_0171"/>
             
-            <ab  facs="#facs_171_r1">
+            <ab facs="#facs_171_r1">
                <lb facs="#facs_171_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_171_r1l2" n="N003"/>Firma ad Raggion
                <lb facs="#facs_171_r1l3" n="N004"/><seg type="owner">Procura und Firmae Trager</seg>

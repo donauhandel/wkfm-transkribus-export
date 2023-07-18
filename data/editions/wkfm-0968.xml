@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4437" xml:id="facs_48">
+    <surface ulx="0" uly="0" lrx="2994" lry="4437" xml:id="facs_48">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0968.jpg" width="2994px" height="4437px"/>
          <zone points="411,183 411,3387 2868,3387 2868,183" rendition="TextRegion" xml:id="facs_48_r1">
             <zone points="1085,300 1139,295 1194,291 1249,288 1304,285 1359,283 1414,282 1469,280 1524,280 1579,280 1634,280 1688,280 1743,280 1798,280 1853,280 1908,280 1963,280 2018,279 2073,279 2128,277 2183,276 2183,183 2128,184 2073,186 2018,186 1963,187 1908,187 1853,187 1798,187 1743,187 1688,187 1634,187 1579,187 1524,187 1469,187 1414,189 1359,190 1304,192 1249,195 1194,198 1139,202 1085,207" rendition="Line" xml:id="facs_48_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_48" n="48" xml:id="img_0048"/>
+            <pb facs="#facs_48" n="48" xml:id="img_0048"/>
             
-            <ab  facs="#facs_48_r1">
+            <ab facs="#facs_48_r1">
                <lb facs="#facs_48_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_48_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 447 hat sich der
                <lb facs="#facs_48_r1l3" n="N003"/><rs type="person" ref="wkfm__9484">Horvath</rs> geäusseret, daß seine handlung ihm allein aigen seye

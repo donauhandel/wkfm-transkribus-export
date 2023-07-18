@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2872" lry="4419" xml:id="facs_166">
+    <surface ulx="0" uly="0" lrx="2872" lry="4419" xml:id="facs_166">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1624.jpg" width="2872px" height="4419px"/>
          <graphic url="" width="2872px" height="4419px"/>
          <zone points="140,97 140,3238 2738,3238 2738,97" rendition="TextRegion" xml:id="facs_166_r1">
@@ -78,9 +78,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_166" n="166" xml:id="img_0166"/>
+            <pb facs="#facs_166" n="166" xml:id="img_0166"/>
             
-            <ab  facs="#facs_166_r1">
+            <ab facs="#facs_166_r1">
                <lb facs="#facs_166_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_166_r1l2" n="N002"/>Der <rs type="person" ref="wkfm__47519">Schönthann</rs> hat <hi>der mit</hi> nebst obiger von <rs type="person" ref="wkfm__8105">Philipp Gundian <choice><expan/><abbr>seel:</abbr></choice> Erben</rs>
                <lb facs="#facs_166_r1l3" n="N003"/>untern 9<hi style="superscript">ten</hi> Julii 736 dahin ausgestelten <hi>societaets contract</hi> Instrument N<hi style="superscript">o</hi> <unclear>1710</unclear>

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3105" lry="4491" xml:id="facs_67">
+    <surface ulx="0" uly="0" lrx="3105" lry="4491" xml:id="facs_67">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1251.jpg" width="3105px" height="4491px"/>
          <zone points="305,137 305,2969 2871,2969 2871,137" rendition="TextRegion" xml:id="facs_67_r2">
             <zone points="2730,417 2758,416 2786,417 2814,419 2842,416 2871,405 2871,306 2842,317 2814,320 2786,318 2758,317 2730,318" rendition="Line" xml:id="facs_67_r2l2" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_67" n="67" xml:id="img_0067"/>
+            <pb facs="#facs_67" n="67" xml:id="img_0067"/>
             
-            <ab  facs="#facs_67_r2">
+            <ab facs="#facs_67_r2">
                <lb facs="#facs_67_r2l2" n="N001"/>619
                <lb facs="#facs_67_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_67_r2l3" n="N003"/><rs type="person" ref="wkfm__9611">Manßrieder Joseph</rs> kay: könig: Niderlags Verwanter

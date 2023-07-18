@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4442" xml:id="facs_52">
+    <surface ulx="0" uly="0" lrx="2994" lry="4442" xml:id="facs_52">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0864.jpg" width="2994px" height="4442px"/>
          <zone points="246,173 246,3441 2822,3441 2822,173" rendition="TextRegion" xml:id="facs_52_r1">
             <zone points="1223,320 1287,317 1351,313 1416,311 1480,309 1544,308 1609,308 1673,309 1737,309 1802,309 1866,311 1930,312 1995,312 2059,314 2123,314 2188,312 2252,312 2316,311 2381,308 2445,303 2510,299 2510,173 2445,177 2381,182 2316,185 2252,186 2188,186 2123,188 2059,188 1995,186 1930,186 1866,185 1802,183 1737,183 1673,183 1609,182 1544,182 1480,183 1416,185 1351,187 1287,191 1223,194" rendition="Line" xml:id="facs_52_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_52" n="52" xml:id="img_0052"/>
+            <pb facs="#facs_52" n="52" xml:id="img_0052"/>
             
-            <ab  facs="#facs_52_r1">
+            <ab facs="#facs_52_r1">
                <lb facs="#facs_52_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_52_r1l2" n="N002"/>In obigen Anbringen de ps: 23<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 725 N<hi style="superscript">o</hi> 405 hat sich der
                <lb facs="#facs_52_r1l3" n="N003"/><rs type="person" ref="wkfm__46331">VonderGlokhen</rs> erklähret, daß er keinen Compagnon habe.

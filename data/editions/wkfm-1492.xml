@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2929" lry="4455" xml:id="facs_34">
+    <surface ulx="0" uly="0" lrx="2929" lry="4455" xml:id="facs_34">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1492.jpg" width="2929px" height="4455px"/>
          <zone points="252,152 252,3308 2766,3308 2766,152" rendition="TextRegion" xml:id="facs_34_r1">
             <zone points="990,290 1051,283 1112,279 1173,275 1235,272 1296,272 1357,272 1419,272 1480,274 1541,275 1603,277 1664,278 1725,280 1786,280 1848,280 1909,280 1970,278 2032,275 2093,271 2154,265 2216,257 2216,152 2154,160 2093,166 2032,170 1970,173 1909,175 1848,175 1786,175 1725,175 1664,173 1603,172 1541,170 1480,169 1419,167 1357,167 1296,167 1235,167 1173,170 1112,174 1051,178 990,185" rendition="Line" xml:id="facs_34_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_34" n="34" xml:id="img_0034"/>
+            <pb facs="#facs_34" n="34" xml:id="img_0034"/>
             
-            <ab  facs="#facs_34_r1">
+            <ab facs="#facs_34_r1">
                <lb facs="#facs_34_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_34_r1l3" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 672 hat sich
                <lb facs="#facs_34_r1l4" n="N003"/>der <rs type="person" ref="wkfm__15475">Silber</rs> geäusseret, das er sein negotium fur sich allein

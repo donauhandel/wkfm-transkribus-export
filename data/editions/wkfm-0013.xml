@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2934" lry="4530" xml:id="facs_8">
+    <surface ulx="0" uly="0" lrx="2934" lry="4530" xml:id="facs_8">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0013.jpg" width="2934px" height="4530px"/>
          <zone points="473,298 473,3907 2796,3907 2796,298" rendition="TextRegion" xml:id="facs_8_r1">
             <zone points="978,403 1048,404 1119,404 1189,407 1260,409 1331,410 1401,413 1472,415 1542,416 1613,419 1684,422 1754,424 1825,427 1895,430 1966,432 2037,434 2107,437 2178,440 2248,442 2319,443 2390,446 2390,341 2319,338 2248,337 2178,335 2107,332 2037,329 1966,327 1895,325 1825,322 1754,319 1684,317 1613,314 1542,311 1472,310 1401,308 1331,305 1260,304 1189,302 1119,299 1048,299 978,298" rendition="Line" xml:id="facs_8_r1l1"/>
@@ -70,18 +70,18 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_8" n="8" xml:id="img_0008"/>
+            <pb facs="#facs_8" n="8" xml:id="img_0008"/>
             
-            <ab  facs="#facs_8_r1">
+            <ab facs="#facs_8_r1">
                <lb facs="#facs_8_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_8_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 4 hat sich
                <lb facs="#facs_8_r1l3" n="N003"/>der <rs type="person" ref="wkfm__43786">Au</rs> geäusseret, daß er seine Handlung ohne Compagnon
                <lb facs="#facs_8_r1l4" n="N004"/>führe.
                <lb facs="#facs_8_r1l5" n="N005"/><seg type="wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_8_r1l6" n="N006"/><seg type="other_notes">Anmerkungen</seg>
-               <lb facs="#facs_8_r1l7" n="N007"/><comment comment="Im\u0020Original\u0020ist\u0020der\u0020gesamte\u0020Abschnitt\u0020gestrichen.">Der <rs type="person" ref="wkfm__43787">Paul Sorbait</rs> hat in seiner Erklährung dd<hi style="superscript">to</hi> 26<hi style="superscript">ten</hi>
+               <lb facs="#facs_8_r1l7" n="N007"/><seg type="editorial_comment_seg">Der <rs type="person" ref="wkfm__43787">Paul Sorbait</rs> hat in seiner Erklährung dd<hi style="superscript">to</hi> 26<hi style="superscript">ten</hi>
                <lb break="no" facs="#facs_8_r1l8" n="N008"/><choice><expan/><abbr>Jun:</abbr></choice> <hi>N<hi style="superscript"/></hi>o<hi/> 728 N<hi style="superscript">o</hi> 712 beygebracht das er des <rs type="person" ref="wkfm__46580">Johann</rs>
-               <lb break="no" facs="#facs_8_r1l9" n="N009"/><rs type="person" ref="wkfm__46580">Peter Au</rs> handlung käuflichen an sich gebracht habe.</comment>
+               <lb break="no" facs="#facs_8_r1l9" n="N009"/><rs type="person" ref="wkfm__46580">Peter Au</rs> handlung käuflichen an sich gebracht habe.<note type="editorial_comment_note">Im Original ist der gesamte Abschnitt gestrichen.</note></seg>
             </ab>
             
         </div>

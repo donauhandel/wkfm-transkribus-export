@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2973" lry="4391" xml:id="facs_73">
+    <surface ulx="0" uly="0" lrx="2973" lry="4391" xml:id="facs_73">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1425.jpg" width="2973px" height="4391px"/>
          <zone points="134,220 134,3796 2849,3804 2849,228" rendition="TextRegion" xml:id="facs_73_r1">
             <zone points="2682,346 2826,346 2826,486 2682,486" rendition="Line" xml:id="facs_73_line_1625046240722_1829" subtype="page-number"/>
@@ -76,9 +76,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_73" n="73" xml:id="img_0073"/>
+            <pb facs="#facs_73" n="73" xml:id="img_0073"/>
             
-            <ab  facs="#facs_73_r1">
+            <ab facs="#facs_73_r1">
                <lb facs="#facs_73_line_1625046240722_1829" n="N001"/>705
                <lb facs="#facs_73_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_73_r1l2" n="N003"/><rs type="person" ref="wkfm__46735">Reyell Anton</rs> burgerlicher Handlsmann

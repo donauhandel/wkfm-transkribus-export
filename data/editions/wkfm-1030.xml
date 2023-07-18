@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3030" lry="4437" xml:id="facs_110">
+    <surface ulx="0" uly="0" lrx="3030" lry="4437" xml:id="facs_110">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1030.jpg" width="3030px" height="4437px"/>
          <zone points="225,212 225,3390 2913,3390 2913,212" rendition="TextRegion" xml:id="facs_110_r1">
             <zone points="1077,338 1141,330 1206,325 1271,321 1336,318 1401,315 1466,314 1531,312 1596,312 1661,312 1726,312 1790,312 1855,312 1920,312 1985,311 2050,309 2115,306 2180,303 2245,298 2310,292 2375,285 2375,212 2310,219 2245,225 2180,230 2115,233 2050,236 1985,238 1920,239 1855,239 1790,239 1726,239 1661,239 1596,239 1531,239 1466,241 1401,242 1336,245 1271,248 1206,252 1141,257 1077,265" rendition="Line" xml:id="facs_110_r1l1"/>
@@ -74,9 +74,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_110" n="110" xml:id="img_0110"/>
+            <pb facs="#facs_110" n="110" xml:id="img_0110"/>
             
-            <ab  facs="#facs_110_r1">
+            <ab facs="#facs_110_r1">
                <lb facs="#facs_110_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_110_r1l2" n="N002"/>In obiger Erklährung sine dato N<hi style="superscript">o</hi> 475 hat der <rs type="person" ref="wkfm__46527">Johann Huetter</rs> mit dem
                <lb facs="#facs_110_r1l3" n="N003"/><rs type="person" ref="wkfm__46530">Franz Waizmann</rs> die ihren beeden gemeinsame societaets firma <rs type="person" ref="wkfm__46528">Huetter

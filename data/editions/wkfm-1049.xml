@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3057" lry="4521" xml:id="facs_129">
+    <surface ulx="0" uly="0" lrx="3057" lry="4521" xml:id="facs_129">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1049.jpg" width="3057px" height="4521px"/>
          <graphic url="" width="3057px" height="4521px"/>
          <zone points="206,197 206,4352 2829,4352 2829,197" rendition="TextRegion" xml:id="facs_129_r2">
@@ -87,9 +87,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_129" n="129" xml:id="img_0129"/>
+            <pb facs="#facs_129" n="129" xml:id="img_0129"/>
             
-            <ab  facs="#facs_129_r2">
+            <ab facs="#facs_129_r2">
                <lb facs="#facs_129_r2l2" n="N001"/>518
                <lb facs="#facs_129_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_129_r2l3" n="N003"/><rs type="person" ref="wkfm__46559">Hilbert Carl Joseph</rs> burgerlicher Handlsmann

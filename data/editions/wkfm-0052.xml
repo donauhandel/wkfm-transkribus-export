@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3116" lry="4569" xml:id="facs_47">
+    <surface ulx="0" uly="0" lrx="3116" lry="4569" xml:id="facs_47">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0052.jpg" width="3116px" height="4569px"/>
          <graphic url="" width="3116px" height="4569px"/>
          <zone points="131,175 131,4395 2786,4395 2786,175" rendition="TextRegion" xml:id="facs_47_r1">
@@ -86,9 +86,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_47" n="47" xml:id="img_0047"/>
+            <pb facs="#facs_47" n="47" xml:id="img_0047"/>
             
-            <ab  facs="#facs_47_r1">
+            <ab facs="#facs_47_r1">
                <lb facs="#facs_47_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_47_r1l2" n="N003"/><rs type="person" ref="wkfm__43801">Antreich Johann Georg</rs> burgerlicher Handlsmann
                <lb facs="#facs_47_r1l3" n="N004"/>Firma oder Raggion
@@ -110,7 +110,7 @@
                <lb facs="#facs_47_r1l23" n="N020"/>zu Completirung des Fundi hat der <rs type="person" ref="wkfm__43802">Johann Bapt. Ruard</rs> das <choice><expan/><abbr>orig.</abbr></choice> <unclear>Caut:</unclear>
                <lb facs="#facs_47_line_1621284301195_290" n="N021"/>Instrument dd<hi style="superscript">to</hi> 8<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 748 N<hi style="superscript">o</hi> 1163 eingeleget <choice><expan/><abbr>pr</abbr></choice> 2880 fl
                <lb facs="#facs_47_r1l28" n="N022"/><choice><expan/><abbr>Sa</abbr></choice> 8000 fl
-               <lb facs="#facs_47_r1l26" n="N023"/>Dieses Cautions Instrument ist Anno 767 dem <comment comment="Kavent,\u0020Bürge\u003a\u0020https\u003a//www.duden.de/rechtschreibung/Kavent">Caventen </comment>widerum
+               <lb facs="#facs_47_r1l26" n="N023"/>Dieses Cautions Instrument ist Anno 767 dem <seg type="editorial_comment_seg">Caventen <note type="editorial_comment_note">Kavent, Bürge\u003a https\u003a//www.duden.de/rechtschreibung/Kavent</note></seg>widerum
                <lb facs="#facs_47_r1l27" n="N024"/>extradiert, und die Auflage an dessen statt sub <choice><expan/><abbr>nro</abbr></choice> 1163 aufbehalten worden.
             </ab>
             

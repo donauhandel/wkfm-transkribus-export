@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2929" lry="4455" xml:id="facs_90">
+    <surface ulx="0" uly="0" lrx="2929" lry="4455" xml:id="facs_90">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1548.jpg" width="2929px" height="4455px"/>
          <zone points="213,126 213,3341 2799,3341 2799,126" rendition="TextRegion" xml:id="facs_90_r1">
             <zone points="998,298 1063,288 1129,280 1194,273 1260,267 1326,263 1391,261 1457,259 1522,257 1588,257 1654,257 1719,257 1785,257 1850,257 1916,257 1981,257 2047,256 2113,253 2178,250 2244,246 2310,241 2310,126 2244,131 2178,135 2113,138 2047,141 1981,142 1916,142 1850,142 1785,142 1719,142 1654,142 1588,142 1522,142 1457,144 1391,146 1326,148 1260,152 1194,158 1129,165 1063,173 998,183" rendition="Line" xml:id="facs_90_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_90" n="90" xml:id="img_0090"/>
+            <pb facs="#facs_90" n="90" xml:id="img_0090"/>
             
-            <ab  facs="#facs_90_r1">
+            <ab facs="#facs_90_r1">
                <lb facs="#facs_90_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_90_r1l2" n="N002"/>In obiger Anbringen de ps: 23<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 725 N<hi style="superscript">o</hi> 700 hat sich der
                <lb facs="#facs_90_r1l3" n="N003"/><rs type="person" ref="wkfm__47458">Seuller</rs> erklähret, daß er keinen Compagnon habe

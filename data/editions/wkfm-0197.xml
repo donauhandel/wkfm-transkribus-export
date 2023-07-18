@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2962" lry="4521" xml:id="facs_144">
+    <surface ulx="0" uly="0" lrx="2962" lry="4521" xml:id="facs_144">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0197.jpg" width="2962px" height="4521px"/>
          <zone points="444,177 444,3373 2838,3373 2838,177" rendition="TextRegion" xml:id="facs_144_r1">
             <zone points="1113,261 1182,266 1252,272 1321,278 1391,283 1460,288 1530,292 1599,297 1669,302 1738,306 1808,310 1878,313 1947,316 2017,318 2086,320 2156,322 2225,322 2295,324 2364,322 2434,322 2504,321 2504,237 2434,238 2364,238 2295,240 2225,238 2156,238 2086,236 2017,234 1947,232 1878,229 1808,226 1738,222 1669,218 1599,213 1530,208 1460,204 1391,199 1321,194 1252,188 1182,182 1113,177" rendition="Line" xml:id="facs_144_r1l1"/>
@@ -71,9 +71,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_144" n="144" xml:id="img_0144"/>
+            <pb facs="#facs_144" n="144" xml:id="img_0144"/>
             
-            <ab  facs="#facs_144_r1">
+            <ab facs="#facs_144_r1">
                <lb facs="#facs_144_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_144_r1l2" n="N002"/>In obigen Anbringen de ps: 21<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 732 N<hi style="superscript">o</hi> 1861 hat der <rs type="person" ref="wkfm__4646">Peisser</rs> sich
                <lb facs="#facs_144_r1l3" n="N003"/>erklähret, daß er mit dem <hi>Rigo</hi> <rs type="person" ref="wkfm__5636">Hieronimo Riggotti</rs> in societaet

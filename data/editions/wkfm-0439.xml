@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3009" lry="4436" xml:id="facs_119">
+    <surface ulx="0" uly="0" lrx="3009" lry="4436" xml:id="facs_119">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0439.jpg" width="3009px" height="4436px"/>
          <graphic url="" width="3009px" height="4436px"/>
          <zone points="192,207 192,4416 2922,4416 2922,207" rendition="TextRegion" xml:id="facs_119_r1">
@@ -75,9 +75,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_119" n="119" xml:id="img_0119"/>
+            <pb facs="#facs_119" n="119" xml:id="img_0119"/>
             
-            <ab  facs="#facs_119_r1">
+            <ab facs="#facs_119_r1">
                <lb facs="#facs_119_r1l2" n="N001"/>217
                <lb facs="#facs_119_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_119_r1l4" n="N003"/><rs type="person" ref="wkfm__13619">Klezl Franz Anton</rs> hofbefreyter <hi>Handlsmann</hi> Tuchhandlsmann <hi>laubens</hi>

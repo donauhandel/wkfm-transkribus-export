@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2979" lry="4383" xml:id="facs_23">
+    <surface ulx="0" uly="0" lrx="2979" lry="4383" xml:id="facs_23">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1877.jpg" width="2979px" height="4383px"/>
          <zone points="188,146 230,4301 2791,4307 2749,152" rendition="TextRegion" xml:id="facs_23_r1">
             <zone points="2579,223 2757,223 2757,340 2579,340" rendition="Line" xml:id="facs_23_line_1627633380032_214" subtype="page-number"/>
@@ -70,9 +70,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_23" n="23" xml:id="img_0023"/>
+            <pb facs="#facs_23" n="23" xml:id="img_0023"/>
             
-            <ab  facs="#facs_23_r1">
+            <ab facs="#facs_23_r1">
                <lb facs="#facs_23_line_1627633380032_214" n="N001"/>931
                <lb facs="#facs_23_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_23_r1l2" n="N003"/><rs type="person" ref="wkfm__43826">Oppenheimber Samuel Emanuel</rs> Jud

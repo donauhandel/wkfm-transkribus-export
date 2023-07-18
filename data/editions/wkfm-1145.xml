@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3134" lry="4521" xml:id="facs_45">
+    <surface ulx="0" uly="0" lrx="3134" lry="4521" xml:id="facs_45">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1145.jpg" width="3134px" height="4521px"/>
          <zone points="290,196 290,3059 2882,3059 2882,196" rendition="TextRegion" xml:id="facs_45_r2">
             <zone points="2700,417 2726,416 2752,414 2778,412 2804,411 2830,409 2856,407 2882,404 2882,295 2856,298 2830,300 2804,302 2778,303 2752,305 2726,307 2700,308" rendition="Line" xml:id="facs_45_r2l2" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_45" n="45" xml:id="img_0045"/>
+            <pb facs="#facs_45" n="45" xml:id="img_0045"/>
             
-            <ab  facs="#facs_45_r2">
+            <ab facs="#facs_45_r2">
                <lb facs="#facs_45_r2l2" n="N001"/>566
                <lb facs="#facs_45_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_45_r2l3" n="N003"/><rs type="person" ref="wkfm__46813">Leuthner Franz</rs> burgerlicher Handlsmann

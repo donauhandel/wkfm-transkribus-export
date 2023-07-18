@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2953" lry="4400" xml:id="facs_48">
+    <surface ulx="0" uly="0" lrx="2953" lry="4400" xml:id="facs_48">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1400.jpg" width="2953px" height="4400px"/>
          <zone points="234,153 234,3330 2844,3330 2844,153" rendition="TextRegion" xml:id="facs_48_r1">
             <zone points="998,268 1054,261 1110,256 1166,251 1222,247 1278,244 1334,243 1390,241 1446,240 1502,239 1558,238 1614,238 1670,238 1726,238 1782,238 1838,238 1894,237 1950,237 2006,235 2062,232 2118,229 2118,153 2062,156 2006,159 1950,161 1894,161 1838,162 1782,162 1726,162 1670,162 1614,162 1558,162 1502,163 1446,164 1390,165 1334,167 1278,168 1222,171 1166,175 1110,180 1054,185 998,192" rendition="Line" xml:id="facs_48_r1l1"/>
@@ -74,9 +74,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_48" n="48" xml:id="img_0048"/>
+            <pb facs="#facs_48" n="48" xml:id="img_0048"/>
             
-            <ab  facs="#facs_48_r1">
+            <ab facs="#facs_48_r1">
                <lb facs="#facs_48_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_48_r1l2" n="N002"/>In obigen Anbringe de ps: 5<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 726 N<hi style="superscript">o</hi> 2020 hat der <rs type="person" ref="wkfm__23214">Rufin</rs>
                <lb facs="#facs_48_r1l3" n="N003"/>angezeiget, daß er sein negotium mitinteresse des <rs type="person" ref="wkfm__43793">Johann Jacob

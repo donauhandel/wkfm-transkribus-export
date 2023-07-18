@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2929" lry="4455" xml:id="facs_120">
+    <surface ulx="0" uly="0" lrx="2929" lry="4455" xml:id="facs_120">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1578.jpg" width="2929px" height="4455px"/>
          <zone points="248,123 248,3328 2871,3328 2871,123" rendition="TextRegion" xml:id="facs_120_r1">
             <zone points="996,301 1060,288 1124,278 1188,270 1252,262 1316,258 1380,253 1444,250 1508,249 1572,249 1636,249 1700,249 1764,249 1828,249 1892,250 1956,249 2020,249 2084,247 2148,244 2212,240 2277,235 2277,123 2212,128 2148,132 2084,135 2020,137 1956,137 1892,138 1828,137 1764,137 1700,137 1636,137 1572,137 1508,137 1444,138 1380,141 1316,146 1252,150 1188,158 1124,166 1060,176 996,189" rendition="Line" xml:id="facs_120_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_120" n="120" xml:id="img_0120"/>
+            <pb facs="#facs_120" n="120" xml:id="img_0120"/>
             
-            <ab  facs="#facs_120_r1">
+            <ab facs="#facs_120_r1">
                <lb facs="#facs_120_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_120_r1l2" n="N002"/>In obigen Anbringen de ps: 31<hi style="superscript">ten</hi> Martii 732 N<hi style="superscript">o</hi> 716 hat sich der <rs type="person" ref="wkfm__47483">Schwe-
                <lb break="no" facs="#facs_120_r1l3" n="N003"/>hel</rs> erklähret, das er seine Handlung ohne Compagnon und interesse

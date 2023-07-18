@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2988" lry="4468" xml:id="facs_9">
+    <surface ulx="0" uly="0" lrx="2988" lry="4468" xml:id="facs_9">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1715.jpg" width="2988px" height="4468px"/>
          <zone points="179,233 179,3034 2811,3035 2811,234" rendition="TextRegion" xml:id="facs_9_r2">
             <zone points="2607,278 2791,278 2791,363 2607,363" rendition="Line" xml:id="facs_9_line_1626246266186_694" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_9" n="9" xml:id="img_0009"/>
+            <pb facs="#facs_9" n="9" xml:id="img_0009"/>
             
-            <ab  facs="#facs_9_r2">
+            <ab facs="#facs_9_r2">
                <lb facs="#facs_9_line_1626246266186_694" n="N001"/>850
                <lb facs="#facs_9_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_9_r2l2" n="N003"/><rs type="person" ref="wkfm__12542">Wöss Carl</rs> Hofbefreyter Handlsmann

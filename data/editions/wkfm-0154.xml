@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2945" lry="4407" xml:id="facs_101">
+    <surface ulx="0" uly="0" lrx="2945" lry="4407" xml:id="facs_101">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0154.jpg" width="2945px" height="4407px"/>
          <zone points="123,106 123,2988 2673,2988 2673,106" rendition="TextRegion" xml:id="facs_101_r2">
             <zone points="2511,195 2541,198 2572,195 2603,188 2603,106 2572,113 2541,116 2511,113" rendition="Line" xml:id="facs_101_r2l1" subtype="page-number"/>
@@ -72,9 +72,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_101" n="101" xml:id="img_0101"/>
+            <pb facs="#facs_101" n="101" xml:id="img_0101"/>
             
-            <ab  facs="#facs_101_r2">
+            <ab facs="#facs_101_r2">
                <lb facs="#facs_101_r2l1" n="N001"/>75
                <lb facs="#facs_101_r2l2" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_101_r2l3" n="N003"/><rs type="person" ref="wkfm__9548">Prager Johann Franz</rs> burgerlicher Handlsmann

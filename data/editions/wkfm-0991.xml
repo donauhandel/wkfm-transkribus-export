@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3095" lry="4410" xml:id="facs_71">
+    <surface ulx="0" uly="0" lrx="3095" lry="4410" xml:id="facs_71">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0991.jpg" width="3095px" height="4410px"/>
          <zone points="248,194 248,3012 2730,3012 2730,194" rendition="TextRegion" xml:id="facs_71_r2">
             <zone points="2580,426 2605,428 2630,428 2655,426 2680,425 2705,423 2730,420 2730,330 2705,333 2680,335 2655,336 2630,338 2605,338 2580,336" rendition="Line" xml:id="facs_71_r2l2" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_71" n="71" xml:id="img_0071"/>
+            <pb facs="#facs_71" n="71" xml:id="img_0071"/>
             
-            <ab  facs="#facs_71_r2">
+            <ab facs="#facs_71_r2">
                <lb facs="#facs_71_r2l2" n="N001"/>488
                <lb facs="#facs_71_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_71_r2l3" n="N003"/><rs type="person" ref="wkfm__46488">Hänrich Jacob</rs> burgerlicher Handlsmann

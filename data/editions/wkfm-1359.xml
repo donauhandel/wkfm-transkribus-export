@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3105" lry="4455" xml:id="facs_7">
+    <surface ulx="0" uly="0" lrx="3105" lry="4455" xml:id="facs_7">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1359.jpg" width="3105px" height="4455px"/>
          <zone points="383,145 383,4364 2930,4364 2930,145" rendition="TextRegion" xml:id="facs_7_r2">
             <zone points="2789,304 2815,307 2841,309 2867,310 2893,313 2919,315 2919,239 2893,237 2867,234 2841,233 2815,231 2789,228" rendition="Line" xml:id="facs_7_r2l2" subtype="page-number"/>
@@ -70,9 +70,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_7" n="7" xml:id="img_0007"/>
+            <pb facs="#facs_7" n="7" xml:id="img_0007"/>
             
-            <ab  facs="#facs_7_r2">
+            <ab facs="#facs_7_r2">
                <lb facs="#facs_7_r2l2" n="N001"/>672
                <lb facs="#facs_7_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_7_r2l3" n="N003"/><rs type="person" ref="wkfm__20834">Rieders Johann Michäl <choice><expan/><abbr>seel:</abbr></choice> Wittib</rs> hofbefreyte Leinwathandlerin

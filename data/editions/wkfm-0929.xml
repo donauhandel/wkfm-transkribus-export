@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3095" lry="4469" xml:id="facs_9">
+    <surface ulx="0" uly="0" lrx="3095" lry="4469" xml:id="facs_9">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0929.jpg" width="3095px" height="4469px"/>
          <zone points="124,182 122,3013 2763,3018 2765,187" rendition="TextRegion" xml:id="facs_9_r4">
             <zone points="2585,312 2760,312 2760,432 2585,432" rendition="Line" xml:id="facs_9_line_1624790224031_395" subtype="page-number"/>
@@ -72,9 +72,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_9" n="9" xml:id="img_0009"/>
+            <pb facs="#facs_9" n="9" xml:id="img_0009"/>
             
-            <ab  facs="#facs_9_r4">
+            <ab facs="#facs_9_r4">
                <lb facs="#facs_9_r4l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_9_r4l2" n="N003"/><rs type="person" ref="wkfm__8508">Hoffman Isidor</rs> k. k. Niderlags Verwanter
                <lb facs="#facs_9_r4l3" n="N004"/>Firma ad Raggion

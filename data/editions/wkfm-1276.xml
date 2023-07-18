@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3019" lry="4503" xml:id="facs_92">
+    <surface ulx="0" uly="0" lrx="3019" lry="4503" xml:id="facs_92">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1276.jpg" width="3019px" height="4503px"/>
          <zone points="224,168 224,3320 2910,3320 2910,168" rendition="TextRegion" xml:id="facs_92_r1">
             <zone points="1088,258 1153,252 1218,248 1284,243 1349,240 1415,237 1480,236 1545,236 1611,234 1676,234 1742,234 1807,234 1872,234 1938,234 2003,234 2069,233 2134,233 2199,231 2265,230 2330,226 2396,222 2396,168 2330,172 2265,176 2199,177 2134,179 2069,179 2003,180 1938,180 1872,180 1807,180 1742,180 1676,180 1611,180 1545,182 1480,182 1415,183 1349,186 1284,189 1218,194 1153,198 1088,204" rendition="Line" xml:id="facs_92_r1l1"/>
@@ -82,9 +82,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_92" n="92" xml:id="img_0092"/>
+            <pb facs="#facs_92" n="92" xml:id="img_0092"/>
             
-            <ab  facs="#facs_92_r1">
+            <ab facs="#facs_92_r1">
                <lb facs="#facs_92_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_92_r1l3" n="N002"/>Der <rs type="person" ref="wkfm__46729">Mayer</rs> hat in obiger Erklährung sine dato N<hi style="superscript">o</hi> 586 mit <rs type="person" ref="wkfm__29325">Johann Heinrich Re-
                <lb break="no" facs="#facs_92_r1l4" n="N003"/>bay</rs> die societaets Firma <rs type="person" ref="wkfm__46728">Rebay und Mayer</rs> eingeleget.

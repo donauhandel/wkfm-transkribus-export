@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3015" lry="4468" xml:id="facs_77">
+    <surface ulx="0" uly="0" lrx="3015" lry="4468" xml:id="facs_77">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1783.jpg" width="3015px" height="4468px"/>
          <zone points="137,188 137,3038 2949,3036 2949,186" rendition="TextRegion" xml:id="facs_77_r1">
             <zone points="149,285 220,285 220,452 149,452" rendition="Line" xml:id="facs_77_line_1626351809747_4038"/>
@@ -70,9 +70,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_77" n="77" xml:id="img_0077"/>
+            <pb facs="#facs_77" n="77" xml:id="img_0077"/>
             
-            <ab  facs="#facs_77_r1">
+            <ab facs="#facs_77_r1">
                <lb facs="#facs_77_line_1626351809747_4038" n="N001"/>149
                <lb facs="#facs_77_line_1626183407380_969" n="N002"/>884
                <lb facs="#facs_77_r1l1" n="N003"/><seg type="name">Nahmen und Class</seg>

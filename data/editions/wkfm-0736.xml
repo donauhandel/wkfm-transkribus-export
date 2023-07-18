@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_68">
+    <surface ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_68">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0736.jpg" width="2994px" height="4530px"/>
          <zone points="264,221 264,3404 2883,3404 2883,221" rendition="TextRegion" xml:id="facs_68_r1">
             <zone points="1178,342 1246,339 1315,338 1383,335 1452,333 1520,332 1589,330 1657,329 1726,327 1794,326 1863,324 1932,323 2000,322 2069,320 2137,318 2206,317 2274,315 2343,312 2411,309 2480,306 2549,302 2549,221 2480,225 2411,228 2343,231 2274,234 2206,236 2137,237 2069,239 2000,241 1932,242 1863,243 1794,245 1726,246 1657,248 1589,249 1520,251 1452,252 1383,254 1315,257 1246,258 1178,261" rendition="Line" xml:id="facs_68_r1l1"/>
@@ -73,9 +73,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_68" n="68" xml:id="img_0068"/>
+            <pb facs="#facs_68" n="68" xml:id="img_0068"/>
             
-            <ab  facs="#facs_68_r1">
+            <ab facs="#facs_68_r1">
                <lb facs="#facs_68_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_68_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 8<hi style="superscript">ten</hi> Junii 729 N<hi style="superscript">o</hi> 349 hat sich
                <lb facs="#facs_68_r1l3" n="N003"/>der <rs type="person" ref="wkfm__47098">Vollandt</rs> geäusseret, daß er für sich allein und mit kein[em]

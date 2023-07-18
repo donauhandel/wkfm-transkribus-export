@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2945" lry="4473" xml:id="facs_124">
+    <surface ulx="0" uly="0" lrx="2945" lry="4473" xml:id="facs_124">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0177.jpg" width="2945px" height="4473px"/>
          <zone points="648,228 648,3404 2876,3404 2876,228" rendition="TextRegion" xml:id="facs_124_r1">
             <zone points="1149,352 1225,354 1301,357 1377,362 1453,367 1529,373 1605,379 1681,386 1757,394 1833,400 1909,407 1985,413 2061,419 2137,424 2213,428 2289,430 2365,431 2441,430 2517,427 2593,422 2670,415 2670,291 2593,298 2517,303 2441,306 2365,307 2289,306 2213,304 2137,300 2061,295 1985,289 1909,283 1833,276 1757,270 1681,262 1605,255 1529,249 1453,243 1377,238 1301,233 1225,230 1149,228" rendition="Line" xml:id="facs_124_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_124" n="124" xml:id="img_0124"/>
+            <pb facs="#facs_124" n="124" xml:id="img_0124"/>
             
-            <ab  facs="#facs_124_r1">
+            <ab facs="#facs_124_r1">
                <lb facs="#facs_124_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_124_r1l2" n="N002"/>In obigene Erklährung dd<hi style="superscript">to</hi> 29<hi style="superscript">ten</hi> <choice><expan/><abbr>Jul:</abbr></choice> 829 N<hi style="superscript">o</hi> 81 hat sich der
                <lb facs="#facs_124_r1l3" n="N003"/><rs type="person" ref="wkfm__8594">Pfitzenreiter</rs> geäusseret, das er keinen Compagnon habe.

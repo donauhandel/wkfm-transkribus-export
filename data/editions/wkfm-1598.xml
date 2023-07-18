@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2872" lry="4455" xml:id="facs_140">
+    <surface ulx="0" uly="0" lrx="2872" lry="4455" xml:id="facs_140">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1598.jpg" width="2872px" height="4455px"/>
          <zone points="204,111 204,3272 2753,3272 2753,111" rendition="TextRegion" xml:id="facs_140_r1">
             <zone points="1008,239 1070,232 1133,227 1195,222 1258,219 1320,218 1383,216 1445,216 1508,215 1570,215 1633,216 1695,216 1758,216 1820,216 1883,215 1945,213 2008,212 2070,210 2133,205 2195,200 2258,192 2258,111 2195,119 2133,124 2070,129 2008,131 1945,132 1883,134 1820,135 1758,135 1695,135 1633,135 1570,134 1508,134 1445,135 1383,135 1320,137 1258,138 1195,141 1133,146 1070,151 1008,158" rendition="Line" xml:id="facs_140_r1l1"/>
@@ -71,9 +71,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_140" n="140" xml:id="img_0140"/>
+            <pb facs="#facs_140" n="140" xml:id="img_0140"/>
             
-            <ab  facs="#facs_140_r1">
+            <ab facs="#facs_140_r1">
                <lb facs="#facs_140_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_140_r1l2" n="N002"/>Mitls Anbringen de ps: 19<hi style="superscript">ten</hi> Junii 734 N<hi style="superscript">o</hi> 727 hat der <rs type="person" ref="wkfm__8802">Lucas Setti</rs>
                <lb facs="#facs_140_r1l3" n="N003"/>für seine zwey Söhne <rs type="person" ref="wkfm__26327">Franz</rs> et <rs type="person" ref="wkfm__23727">Ferdinand</rs> <hi>Setti</hi> die Societaets

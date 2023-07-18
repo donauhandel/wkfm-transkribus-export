@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2886" lry="4400" xml:id="facs_86">
+    <surface ulx="0" uly="0" lrx="2886" lry="4400" xml:id="facs_86">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1438.jpg" width="2886px" height="4400px"/>
          <zone points="183,248 183,3409 2778,3409 2778,248" rendition="TextRegion" xml:id="facs_86_r1">
             <zone points="981,337 1047,332 1113,329 1180,326 1246,324 1313,322 1379,321 1445,321 1512,321 1578,321 1645,322 1711,322 1777,324 1844,324 1910,324 1977,325 2043,324 2109,323 2176,321 2242,319 2309,315 2309,248 2242,252 2176,254 2109,256 2043,257 1977,258 1910,257 1844,257 1777,257 1711,255 1645,255 1578,254 1512,254 1445,254 1379,254 1313,255 1246,257 1180,259 1113,262 1047,265 981,270" rendition="Line" xml:id="facs_86_r1l1"/>
@@ -88,9 +88,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_86" n="86" xml:id="img_0086"/>
+            <pb facs="#facs_86" n="86" xml:id="img_0086"/>
             
-            <ab  facs="#facs_86_r1">
+            <ab facs="#facs_86_r1">
                <lb facs="#facs_86_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_86_r1l2" n="N002"/>Mitls Anbringen de ps: 18<hi style="superscript">ten</hi> May 747 N<hi style="superscript">o</hi> 2038 hat der <rs type="person" ref="wkfm__43802">Johann Baptista Ruard</rs> den mit
                <lb facs="#facs_86_r1l3" n="N003"/>seinem bruder <rs type="person" ref="wkfm__46754">Valentin Ruard</rs> untern 4<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 746 errichteten <choice><expan/><abbr>orig:</abbr></choice> societaets contract

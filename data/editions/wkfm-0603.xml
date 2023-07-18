@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3011" lry="4511" xml:id="facs_103">
+    <surface ulx="0" uly="0" lrx="3011" lry="4511" xml:id="facs_103">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0603.jpg" width="3011px" height="4511px"/>
          <zone points="254,242 254,3057 2795,3057 2795,242" rendition="TextRegion" xml:id="facs_103_r1">
             <zone points="2652,512 2680,516 2709,517 2737,518 2766,518 2795,522 2795,423 2766,419 2737,419 2709,418 2680,417 2652,413" rendition="Line" xml:id="facs_103_r1l2" subtype="page-number"/>
@@ -70,9 +70,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_103" n="103" xml:id="img_0103"/>
+            <pb facs="#facs_103" n="103" xml:id="img_0103"/>
             
-            <ab  facs="#facs_103_r1">
+            <ab facs="#facs_103_r1">
                <lb facs="#facs_103_r1l2" n="N001"/>299
                <lb facs="#facs_103_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_103_r1l3" n="N003"/><rs type="person" ref="wkfm__46286">Diewalt Joseph Leopold</rs> burgerlicher Handlsmann

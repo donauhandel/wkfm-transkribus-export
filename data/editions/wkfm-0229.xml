@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2905" lry="4407" xml:id="facs_175">
+    <surface ulx="0" uly="0" lrx="2905" lry="4407" xml:id="facs_175">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0229.jpg" width="2905px" height="4407px"/>
          <zone points="75,147 75,3496 2589,3496 2589,147" rendition="TextRegion" xml:id="facs_175_r1">
             <zone points="2442,244 2467,240 2493,238 2519,238 2545,236 2571,232 2571,147 2545,151 2519,153 2493,153 2467,155 2442,159" rendition="Line" xml:id="facs_175_r1l1" subtype="page-number"/>
@@ -74,9 +74,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_175" n="175" xml:id="img_0175"/>
+            <pb facs="#facs_175" n="175" xml:id="img_0175"/>
             
-            <ab  facs="#facs_175_r1">
+            <ab facs="#facs_175_r1">
                <lb facs="#facs_175_r1l1" n="N001"/>112
                <lb facs="#facs_175_r1l2" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_175_r1l3" n="N003"/><rs type="person" ref="wkfm__22485">Piller Matthias</rs> burgerlicher Handlsmann

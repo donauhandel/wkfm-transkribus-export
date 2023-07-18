@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3095" lry="4469" xml:id="facs_59">
+    <surface ulx="0" uly="0" lrx="3095" lry="4469" xml:id="facs_59">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0871.jpg" width="3095px" height="4469px"/>
          <graphic url="" width="3095px" height="4469px"/>
          <zone points="218,177 218,3027 2756,3027 2756,177" rendition="TextRegion" xml:id="facs_59_r3">
@@ -71,14 +71,14 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_59" n="59" xml:id="img_0059"/>
+            <pb facs="#facs_59" n="59" xml:id="img_0059"/>
             
-            <ab  facs="#facs_59_r3">
+            <ab facs="#facs_59_r3">
                <lb facs="#facs_59_r3l2" n="N001"/>433
                <lb facs="#facs_59_r3l1" n="N002"/><seg type="name">Nahmen und Class</seg>
-               <lb facs="#facs_59_r3l3" n="N003"/><rs type="person" ref="wkfm__17649">Gugenberger Johann <unclear><comment comment="Dominicus\u0020(?)">D<hi style="superscript"/></comment><hi style="superscript">co</hi></unclear><hi style="superscript">co</hi></rs> burgerlicher Handlsmann
+               <lb facs="#facs_59_r3l3" n="N003"/><rs type="person" ref="wkfm__17649">Gugenberger Johann <unclear><seg type="editorial_comment_seg">D<hi style="superscript"/><note type="editorial_comment_note">Dominicus (?)</note></seg><hi style="superscript">co</hi></unclear><hi style="superscript">co</hi></rs> burgerlicher Handlsmann
                <lb facs="#facs_59_r3l4" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_59_r3l5" n="N005"/><hi>Johan</hi> <rs type="person" ref="wkfm__46340">Johann <comment comment="Dominico\u0020(?)">D<hi style="superscript">co</hi></comment> Gugenberger</rs> laut Erklährung dd<hi style="superscript">to</hi> 9<hi style="superscript">ten</hi> Junii
+               <lb facs="#facs_59_r3l5" n="N005"/><hi>Johan</hi> <rs type="person" ref="wkfm__46340">Johann <seg type="editorial_comment_seg">D<hi style="superscript">co</hi><note type="editorial_comment_note">Dominico (?)</note></seg> Gugenberger</rs> laut Erklährung dd<hi style="superscript">to</hi> 9<hi style="superscript">ten</hi> Junii
                <lb facs="#facs_59_r3l6" n="N006"/>728 N<hi style="superscript">o</hi> 409
                <lb facs="#facs_59_r3l7" n="N007"/><seg type="owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_59_r3l8" n="N008"/><seg type="oblatorien">Oblatorien und Avocatorien</seg>

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2953" lry="4400" xml:id="facs_12">
+    <surface ulx="0" uly="0" lrx="2953" lry="4400" xml:id="facs_12">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1364.jpg" width="2953px" height="4400px"/>
          <zone points="263,130 263,3162 2799,3162 2799,130" rendition="TextRegion" xml:id="facs_12_r1">
             <zone points="1086,259 1149,259 1213,259 1276,259 1340,258 1403,256 1467,255 1530,254 1594,252 1657,250 1721,248 1785,245 1848,243 1912,241 1975,238 2039,235 2102,232 2166,231 2229,228 2293,226 2357,223 2357,130 2293,133 2229,135 2166,138 2102,139 2039,142 1975,145 1912,148 1848,150 1785,152 1721,155 1657,157 1594,159 1530,161 1467,162 1403,163 1340,165 1276,166 1213,166 1149,166 1086,166" rendition="Line" xml:id="facs_12_r1l1"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_12" n="12" xml:id="img_0012"/>
+            <pb facs="#facs_12" n="12" xml:id="img_0012"/>
             
-            <ab  facs="#facs_12_r1">
+            <ab facs="#facs_12_r1">
                <lb facs="#facs_12_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_12_r1l2" n="N002"/>In obigen Anbringen de ps: 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 2018 hat der <rs type="person" ref="wkfm__21607">Reiß-
                <lb break="no" facs="#facs_12_r1l3" n="N003"/>miller</rs> mit dem <rs type="person" ref="wkfm__46681">Carl Alexander Rotta</rs> die gemeinsame Anzeige

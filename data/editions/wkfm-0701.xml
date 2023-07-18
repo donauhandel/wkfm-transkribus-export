@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3095" lry="4496" xml:id="facs_33">
+    <surface ulx="0" uly="0" lrx="3095" lry="4496" xml:id="facs_33">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0701.jpg" width="3095px" height="4496px"/>
          <zone points="242,235 242,3057 2802,3057 2802,235" rendition="TextRegion" xml:id="facs_33_r1">
             <zone points="2643,443 2669,446 2696,449 2722,449 2749,449 2775,447 2802,446 2802,355 2775,356 2749,358 2722,358 2696,358 2669,355 2643,352" rendition="Line" xml:id="facs_33_r1l2" subtype="page-number"/>
@@ -70,9 +70,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_33" n="33" xml:id="img_0033"/>
+            <pb facs="#facs_33" n="33" xml:id="img_0033"/>
             
-            <ab  facs="#facs_33_r1">
+            <ab facs="#facs_33_r1">
                <lb facs="#facs_33_r1l2" n="N001"/>348
                <lb facs="#facs_33_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_33_r1l3" n="N003"/><rs type="person" ref="wkfm__12874">Fiegelmielner Michäl</rs> burgerlicher Handlsmann

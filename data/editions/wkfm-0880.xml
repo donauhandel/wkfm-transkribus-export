@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4442" xml:id="facs_68">
+    <surface ulx="0" uly="0" lrx="2994" lry="4442" xml:id="facs_68">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0880.jpg" width="2994px" height="4442px"/>
          <zone points="342,215 342,3399 2883,3399 2883,215" rendition="TextRegion" xml:id="facs_68_r1">
             <zone points="1151,330 1212,327 1274,324 1335,321 1397,321 1459,320 1520,320 1582,320 1644,321 1705,321 1767,322 1829,323 1890,323 1952,323 2014,321 2075,320 2137,317 2199,314 2260,309 2322,303 2384,296 2384,215 2322,222 2260,228 2199,233 2137,236 2075,239 2014,240 1952,242 1890,242 1829,242 1767,241 1705,240 1644,240 1582,239 1520,239 1459,239 1397,240 1335,240 1274,243 1212,246 1151,249" rendition="Line" xml:id="facs_68_r1l1"/>
@@ -72,9 +72,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_68" n="68" xml:id="img_0068"/>
+            <pb facs="#facs_68" n="68" xml:id="img_0068"/>
             
-            <ab  facs="#facs_68_r1">
+            <ab facs="#facs_68_r1">
                <lb facs="#facs_68_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_68_r1l2" n="N002"/>Mitls obigen Erklährungen <hi>sine</hi> dd<hi style="superscript">to</hi> 13<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 733 N<hi style="superscript">o</hi> 1957 und sine dato
                <lb facs="#facs_68_r1l3" n="N003"/>N<hi style="superscript">o</hi> 1958 hat sich der <rs type="person" ref="wkfm__28324">Grambsreither</rs> geäusseret, daß er seine Handlung mit dem

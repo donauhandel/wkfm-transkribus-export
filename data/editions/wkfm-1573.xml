@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2979" lry="4477" xml:id="facs_115">
+    <surface ulx="0" uly="0" lrx="2979" lry="4477" xml:id="facs_115">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1573.jpg" width="2979px" height="4477px"/>
          <zone points="243,108 243,2916 2819,2922 2819,114" rendition="TextRegion" xml:id="facs_115_r2">
             <zone points="2650,153 2818,153 2818,293 2650,293" rendition="Line" xml:id="facs_115_line_1626262165024_1725" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_115" n="115" xml:id="img_0115"/>
+            <pb facs="#facs_115" n="115" xml:id="img_0115"/>
             
-            <ab  facs="#facs_115_r2">
+            <ab facs="#facs_115_r2">
                <lb facs="#facs_115_line_1626262165024_1725" n="N001"/>779
                <lb facs="#facs_115_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_115_r2l2" n="N003"/><rs type="person" ref="wkfm__12099">Schwab Franz Anton</rs> burgerlicher Handlsmann

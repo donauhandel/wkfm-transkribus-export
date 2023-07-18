@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3108" lry="4477" xml:id="facs_17">
+    <surface ulx="0" uly="0" lrx="3108" lry="4477" xml:id="facs_17">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1475.jpg" width="3108px" height="4477px"/>
          <zone points="197,162 197,2949 2937,2952 2937,165" rendition="TextRegion" xml:id="facs_17_r2">
             <zone points="2721,257 2916,257 2916,370 2721,370" rendition="Line" xml:id="facs_17_line_1626336299168_1205"/>
@@ -73,9 +73,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_17" n="17" xml:id="img_0017"/>
+            <pb facs="#facs_17" n="17" xml:id="img_0017"/>
             
-            <ab  facs="#facs_17_r2">
+            <ab facs="#facs_17_r2">
                <lb facs="#facs_17_line_1626336299168_1205" n="N001"/>730
                <lb facs="#facs_17_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_17_r2l2" n="N003"/><rs type="person" ref="wkfm__13222">Salliet Niclas</rs> burgerlicher Handlsmann

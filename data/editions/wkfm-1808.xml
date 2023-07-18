@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2922" lry="4419" xml:id="facs_102">
+    <surface ulx="0" uly="0" lrx="2922" lry="4419" xml:id="facs_102">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1808.jpg" width="2922px" height="4419px"/>
          <zone points="190,173 138,3395 2786,3395 2838,173" rendition="TextRegion" xml:id="facs_102_r1">
             <zone points="901,347 2252,347 2252,202 901,202" rendition="Line" xml:id="facs_102_line_1626248586714_1714"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_102" n="102" xml:id="img_0102"/>
+            <pb facs="#facs_102" n="102" xml:id="img_0102"/>
             
-            <ab  facs="#facs_102_r1">
+            <ab facs="#facs_102_r1">
                <lb facs="#facs_102_line_1626248586714_1714" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_102_r1l1" n="N002"/><seg type="wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_102_r1l2" n="N003"/>Mitls Anbringen de ps: 30<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 733 N<hi style="superscript">o</hi> 2255 hat der <rs type="person" ref="wkfm__36452">Johann Anton Wolf</rs>

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3015" lry="4468" xml:id="facs_39">
+    <surface ulx="0" uly="0" lrx="3015" lry="4468" xml:id="facs_39">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1745.jpg" width="3015px" height="4468px"/>
          <zone points="236,191 236,3041 2885,3040 2885,190" rendition="TextRegion" xml:id="facs_39_r1">
             <zone points="2692,284 2876,284 2876,406 2692,406" rendition="Line" xml:id="facs_39_line_1626246101007_588" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_39" n="39" xml:id="img_0039"/>
+            <pb facs="#facs_39" n="39" xml:id="img_0039"/>
             
-            <ab  facs="#facs_39_r1">
+            <ab facs="#facs_39_r1">
                <lb facs="#facs_39_line_1626246101007_588" n="N001"/>865
                <lb facs="#facs_39_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_39_r1l2" n="N003"/><rs type="person" ref="wkfm__8924">Wittiber Augustin</rs> burgerlicher Handlsmann

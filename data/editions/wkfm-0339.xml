@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2954" lry="4493" xml:id="facs_19">
+    <surface ulx="0" uly="0" lrx="2954" lry="4493" xml:id="facs_19">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0339.jpg" width="2954px" height="4493px"/>
          <zone points="120,187 120,2969 2720,2969 2720,187" rendition="TextRegion" xml:id="facs_19_r2">
             <zone points="2552,237 2579,230 2606,224 2633,219 2660,212 2687,208 2698,205 2698,284 2687,287 2660,291 2633,298 2606,303 2579,309 2552,316" rendition="Line" xml:id="facs_19_line_1621954138896_293" subtype="page-number"/>
@@ -81,9 +81,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_19" n="19" xml:id="img_0019"/>
+            <pb facs="#facs_19" n="19" xml:id="img_0019"/>
             
-            <ab  facs="#facs_19_r2">
+            <ab facs="#facs_19_r2">
                <lb facs="#facs_19_line_1621954138896_293" n="N001"/>167
                <lb facs="#facs_19_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_19_r2l3" n="N003"/><rs type="person" ref="wkfm__8743">v. Churfeld Franz</rs> k. k. Niderlags Verwanter
@@ -102,7 +102,7 @@
                <lb facs="#facs_19_r2l16" n="N016"/>und die Raggion <rs type="person" ref="wkfm__20653">Stephan Knoll und Compagno</rs> untern lezten <choice><expan/><abbr>Janu:</abbr></choice> 723
                <lb facs="#facs_19_r2l18" n="N017"/>ihr Endschafft erreichet habe, <hi>er</hi> und er alß Knollischer Compagno das 
                <lb facs="#facs_19_r2l19" n="N018"/>Negotium mit eignen Capitalien an sich gebracht und <hi><unclear>lat</unclear></hi> auf dem Fuß
-               <lb facs="#facs_19_r2l20" n="N019"/>der vorigen Raggion <comment comment="continuieren">continuren</comment> werde.
+               <lb facs="#facs_19_r2l20" n="N019"/>der vorigen Raggion <seg type="editorial_comment_seg">continuren<note type="editorial_comment_note">continuieren</note></seg> werde.
                <lb facs="#facs_19_r2l22" n="N020"/><seg type="fundi">Fundi Ausweisung</seg>
             </ab>
             

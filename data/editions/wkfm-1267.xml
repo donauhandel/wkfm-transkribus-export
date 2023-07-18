@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3105" lry="4548" xml:id="facs_83">
+    <surface ulx="0" uly="0" lrx="3105" lry="4548" xml:id="facs_83">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1267.jpg" width="3105px" height="4548px"/>
          <graphic url="" width="3105px" height="4548px"/>
          <zone points="179,149 179,4037 2958,4040 2958,152" rendition="TextRegion" xml:id="facs_83_r1">
@@ -78,9 +78,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_83" n="83" xml:id="img_0083"/>
+            <pb facs="#facs_83" n="83" xml:id="img_0083"/>
             
-            <ab  facs="#facs_83_r1">
+            <ab facs="#facs_83_r1">
                <lb facs="#facs_83_line_1624961087774_1193" n="N001"/>627
                <lb facs="#facs_83_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_83_r1l2" n="N003"/><rs type="person" ref="wkfm__46922">Mayrhofer Johann</rs> burgerlicher Handlsmann
@@ -93,7 +93,7 @@
                <lb facs="#facs_83_r1l9" n="N010"/>dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 738 N<hi style="superscript">o</hi> 1618 eingeleget <choice><expan/><abbr>pr</abbr></choice> 4745 fl 21 x<hi style="superscript">r</hi> wovon ihm die Halb-
                <lb facs="#facs_83_r1l10" n="N011"/>scheid gehörig <choice><expan/><abbr>pr</abbr></choice> 2372 fl 40 1/2 x<hi style="superscript">r</hi>
                <lb facs="#facs_83_r1l12" n="N012"/>Dann ein von seiner Ehewirthin <rs type="person" ref="wkfm__46924">Elisabeth</rs> untern - <choice><expan/><abbr>Mart:</abbr></choice> 738
-               <lb facs="#facs_83_r1l13" n="N013"/>dahin ausgestelt <comment comment="wahrscheinlich\u0020\u0022certiorirtes\u0022">cortiorirtes</comment> <choice><expan/><abbr>orig:</abbr></choice> Instrument N<hi style="superscript">o</hi> 1619 daß
+               <lb facs="#facs_83_r1l13" n="N013"/>dahin ausgestelt <seg type="editorial_comment_seg">cortiorirtes<note type="editorial_comment_note">wahrscheinlich certiorirtes</note></seg> <choice><expan/><abbr>orig:</abbr></choice> Instrument N<hi style="superscript">o</hi> 1619 daß
                <lb facs="#facs_83_r1l14" n="N014"/>sie von der ihm eigenthumlichen Halbscheid des Vermögens und
                <lb facs="#facs_83_r1l15" n="N015"/>der Handlung zur Sicherheit der Creditoren gewidmet haben wolle 2000 fl
                <lb facs="#facs_83_r1l16" n="N016"/><choice><expan/><abbr>Sa</abbr></choice> 4372 fl 40 1/2 x<hi style="superscript">r</hi>

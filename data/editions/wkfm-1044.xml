@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3087" lry="4530" xml:id="facs_124">
+    <surface ulx="0" uly="0" lrx="3087" lry="4530" xml:id="facs_124">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1044.jpg" width="3087px" height="4530px"/>
          <zone points="318,206 318,3381 2913,3381 2913,206" rendition="TextRegion" xml:id="facs_124_r1">
             <zone points="1127,343 1187,339 1248,334 1308,330 1369,325 1430,323 1490,318 1551,316 1611,313 1672,310 1733,307 1793,305 1854,302 1914,300 1975,296 2036,294 2096,289 2157,285 2217,282 2278,277 2339,273 2339,206 2278,210 2217,215 2157,218 2096,222 2036,227 1975,229 1914,233 1854,235 1793,238 1733,240 1672,243 1611,246 1551,249 1490,251 1430,256 1369,258 1308,263 1248,267 1187,272 1127,276" rendition="Line" xml:id="facs_124_r1l1"/>
@@ -74,9 +74,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_124" n="124" xml:id="img_0124"/>
+            <pb facs="#facs_124" n="124" xml:id="img_0124"/>
             
-            <ab  facs="#facs_124_r1">
+            <ab facs="#facs_124_r1">
                <lb facs="#facs_124_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_124_r1l2" n="N002"/><seg type="wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_124_r1l3" n="N003"/>Der <rs type="person" ref="wkfm__46162">Höcker</rs> hat mitls Anbringen de ps: 14<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 750 N<hi style="superscript">o</hi> 2176 den mit der

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2940" lry="4464" xml:id="facs_10">
+    <surface ulx="0" uly="0" lrx="2940" lry="4464" xml:id="facs_10">
          <graphic url="25378465.jpg" width="2940px" height="4464px"/>
          <graphic url="https://files.transkribus.eu/Get?id=ZKGOBTMBAADROFXUVBDDOSPY&amp;fileType=view" width="2940px" height="4464px"/>
          <zone points="260,131 260,3230 2760,3230 2760,131" rendition="TextRegion" xml:id="facs_10_r1">
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_10" n="10" xml:id="img_0010"/>
+            <pb facs="#facs_10" n="10" xml:id="img_0010"/>
             
-            <ab  facs="#facs_10_r1">
+            <ab facs="#facs_10_r1">
                <lb facs="#facs_10_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_10_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 601 hat sich der
                <lb facs="#facs_10_r1l3" n="N003"/><rs type="person" ref="wkfm__8273">Niller</rs> geäusseret, daß keinen interessenten habe.

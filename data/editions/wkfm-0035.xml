@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2688" lry="4530" xml:id="facs_30">
+    <surface ulx="0" uly="0" lrx="2688" lry="4530" xml:id="facs_30">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0035.jpg" width="2688px" height="4530px"/>
          <zone points="443,234 443,3407 2685,3407 2685,234" rendition="TextRegion" xml:id="facs_30_r1">
             <zone points="900,342 963,345 1026,348 1090,350 1153,353 1217,354 1280,357 1343,360 1407,362 1470,365 1534,368 1597,371 1660,374 1724,376 1787,380 1851,383 1914,386 1977,389 2041,392 2104,395 2168,399 2168,291 2104,287 2041,284 1977,281 1914,278 1851,275 1787,272 1724,268 1660,266 1597,263 1534,260 1470,257 1407,254 1343,252 1280,249 1217,246 1153,245 1090,242 1026,240 963,237 900,234" rendition="Line" xml:id="facs_30_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_30" n="30" xml:id="img_0030"/>
+            <pb facs="#facs_30" n="30" xml:id="img_0030"/>
             
-            <ab  facs="#facs_30_r1">
+            <ab facs="#facs_30_r1">
                <lb facs="#facs_30_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_30_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 12<hi style="superscript">ten</hi> <choice><expan/><abbr>Jul:</abbr></choice> 729 N<hi style="superscript">o</hi> 15 hat der <hi>Arm</hi>
                <lb facs="#facs_30_r1l3" n="N003"/><rs type="person" ref="wkfm__15439">Arminger</rs> sich geäusseret, das er seine Handlung für sich allein 

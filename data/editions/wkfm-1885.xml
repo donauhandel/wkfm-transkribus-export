@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2979" lry="4383" xml:id="facs_31">
+    <surface ulx="0" uly="0" lrx="2979" lry="4383" xml:id="facs_31">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1885.jpg" width="2979px" height="4383px"/>
          <zone points="276,205 276,2952 2757,2952 2757,205" rendition="TextRegion" xml:id="facs_31_r1">
             <zone points="2607,432 2632,432 2657,432 2682,428 2707,425 2732,419 2757,412 2757,337 2732,344 2707,350 2682,353 2657,357 2632,357 2607,357" rendition="Line" xml:id="facs_31_r1l2" subtype="page-number"/>
@@ -70,9 +70,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_31" n="31" xml:id="img_0031"/>
+            <pb facs="#facs_31" n="31" xml:id="img_0031"/>
             
-            <ab  facs="#facs_31_r1">
+            <ab facs="#facs_31_r1">
                <lb facs="#facs_31_r1l2" n="N001"/>935
                <lb facs="#facs_31_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_31_r1l3" n="N003"/><rs type="person" ref="wkfm__8187">Spitz Hirschl</rs> Jud

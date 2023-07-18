@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2895" lry="4391" xml:id="facs_29">
+    <surface ulx="0" uly="0" lrx="2895" lry="4391" xml:id="facs_29">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1381.jpg" width="2895px" height="4391px"/>
          <zone points="119,157 119,2978 2796,2978 2796,157" rendition="TextRegion" xml:id="facs_29_r1">
             <zone points="2607,336 2633,334 2660,333 2687,332 2714,331 2741,329 2741,256 2714,258 2687,259 2660,260 2633,261 2607,263" rendition="Line" xml:id="facs_29_r1l2" subtype="page-number"/>
@@ -74,9 +74,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_29" n="29" xml:id="img_0029"/>
+            <pb facs="#facs_29" n="29" xml:id="img_0029"/>
             
-            <ab  facs="#facs_29_r1">
+            <ab facs="#facs_29_r1">
                <lb facs="#facs_29_r1l2" n="N001"/>683
                <lb facs="#facs_29_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_29_r1l3" n="N003"/><rs type="person" ref="wkfm__46698">v. Rauner der jüngere</rs> kay: könig: Niderlags Verwanter

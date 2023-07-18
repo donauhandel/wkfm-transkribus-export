@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2895" lry="4391" xml:id="facs_27">
+    <surface ulx="0" uly="0" lrx="2895" lry="4391" xml:id="facs_27">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1379.jpg" width="2895px" height="4391px"/>
          <zone points="119,170 119,2910 2796,2910 2796,170" rendition="TextRegion" xml:id="facs_27_r1">
             <zone points="2591,354 2618,357 2646,359 2673,359 2701,361 2729,366 2729,302 2701,297 2673,295 2646,295 2618,293 2591,290" rendition="Line" xml:id="facs_27_r1l2" subtype="page-number"/>
@@ -75,12 +75,12 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_27" n="27" xml:id="img_0027"/>
+            <pb facs="#facs_27" n="27" xml:id="img_0027"/>
             
-            <ab  facs="#facs_27_r1">
+            <ab facs="#facs_27_r1">
                <lb facs="#facs_27_r1l2" n="N001"/>682
                <lb facs="#facs_27_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
-               <lb facs="#facs_27_r1l3" n="N003"/><rs type="person" ref="wkfm__18191"><comment comment="Rietschl?"><unclear>Reitschl</unclear></comment> Daniel Xaverius</rs>
+               <lb facs="#facs_27_r1l3" n="N003"/><rs type="person" ref="wkfm__18191"><seg type="editorial_comment_seg"><unclear>Reitschl</unclear><note type="editorial_comment_note">Rietschl?</note></seg> Daniel Xaverius</rs>
                <lb facs="#facs_27_line_1624023323848_29" n="N004"/>Firma ad Raggion
                <lb facs="#facs_27_r1l5" n="N005"/><rs type="person" ref="wkfm__46696">Reitschlische Massa</rs> laut Anbringen deren administratoren de ps: 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725
                <lb facs="#facs_27_r1l6" n="N006"/>N<hi style="superscript">o</hi> 1049

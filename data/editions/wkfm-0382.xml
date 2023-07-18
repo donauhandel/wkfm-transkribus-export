@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_62">
+    <surface ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_62">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0382.jpg" width="2934px" height="4501px"/>
          <zone points="336,197 336,3356 2748,3356 2748,197" rendition="TextRegion" xml:id="facs_62_r1">
             <zone points="842,356 906,347 971,340 1036,334 1100,330 1165,326 1230,323 1294,322 1359,320 1424,320 1489,320 1553,322 1618,323 1683,323 1747,325 1812,326 1877,327 1941,328 2006,328 2071,328 2136,328 2136,205 2071,205 2006,205 1941,205 1877,204 1812,203 1747,202 1683,200 1618,200 1553,199 1489,197 1424,197 1359,197 1294,199 1230,200 1165,203 1100,207 1036,211 971,217 906,224 842,233" rendition="Line" xml:id="facs_62_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_62" n="62" xml:id="img_0062"/>
+            <pb facs="#facs_62" n="62" xml:id="img_0062"/>
             
-            <ab  facs="#facs_62_r1">
+            <ab facs="#facs_62_r1">
                <lb facs="#facs_62_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_62_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 189 hat sich
                <lb facs="#facs_62_r1l3" n="N003"/>der <rs type="person" ref="wkfm__16003">Kreitter</rs> geäusseret, das er in keiner societaet stehe.

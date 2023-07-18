@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2880" lry="4477" xml:id="facs_131">
+    <surface ulx="0" uly="0" lrx="2880" lry="4477" xml:id="facs_131">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1589.jpg" width="2880px" height="4477px"/>
          <zone points="164,99 164,2943 2735,2943 2735,99" rendition="TextRegion" xml:id="facs_131_r2">
             <zone points="2588,351 2617,351 2646,351 2676,351 2705,351 2735,348 2735,254 2705,257 2676,257 2646,257 2617,257 2588,257" rendition="Line" xml:id="facs_131_r2l2" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_131" n="131" xml:id="img_0131"/>
+            <pb facs="#facs_131" n="131" xml:id="img_0131"/>
             
-            <ab  facs="#facs_131_r2">
+            <ab facs="#facs_131_r2">
                <lb facs="#facs_131_r2l2" n="N001"/>787
                <lb facs="#facs_131_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_131_r2l3" n="N003"/><rs type="person" ref="wkfm__26303">Sartory Johann Georg</rs> burgerlicher Handlsmann

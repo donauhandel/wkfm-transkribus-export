@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2923" lry="4436" xml:id="facs_133">
+    <surface ulx="0" uly="0" lrx="2923" lry="4436" xml:id="facs_133">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0453.jpg" width="2923px" height="4436px"/>
          <zone points="47,151 47,3969 2754,3975 2754,157" rendition="TextRegion" xml:id="facs_133_r2">
             <zone points="2547,185 2748,185 2748,306 2547,306" rendition="Line" xml:id="facs_133_line_1629449301396_828" subtype="page-number"/>
@@ -82,9 +82,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_133" n="133" xml:id="img_0133"/>
+            <pb facs="#facs_133" n="133" xml:id="img_0133"/>
             
-            <ab  facs="#facs_133_r2">
+            <ab facs="#facs_133_r2">
                <lb facs="#facs_133_r2l1" n="N003"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_133_r2l2" n="N004"/><rs type="person" ref="wkfm__46148">Korber Joseph</rs> burgerlicher Handlsmann
                <lb facs="#facs_133_r2l3" n="N005"/>Firma ad Raggion

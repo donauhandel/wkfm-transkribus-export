@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2982" lry="4464" xml:id="facs_111">
+    <surface ulx="0" uly="0" lrx="2982" lry="4464" xml:id="facs_111">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0164.jpg" width="2982px" height="4464px"/>
          <zone points="98,185 98,2978 2643,2978 2643,185" rendition="TextRegion" xml:id="facs_111_r2">
             <zone points="2504,260 2532,253 2561,250 2589,249 2618,248 2618,185 2589,186 2561,187 2532,190 2504,197" rendition="Line" xml:id="facs_111_r2l1" subtype="page-number"/>
@@ -77,12 +77,12 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_111" n="111" xml:id="img_0111"/>
+            <pb facs="#facs_111" n="111" xml:id="img_0111"/>
             
-            <ab  facs="#facs_111_r2">
+            <ab facs="#facs_111_r2">
                <lb facs="#facs_111_r2l1" n="N001"/>80
                <lb facs="#facs_111_r2l2" n="N002"/><seg type="name">Nahmen und Class</seg>
-               <lb facs="#facs_111_r2l3" n="N003"/>von <rs type="person" ref="wkfm__9072"><comment comment="Sic!">Bereininj</comment> Joseph Gebrüder</rs>
+               <lb facs="#facs_111_r2l3" n="N003"/>von <rs type="person" ref="wkfm__9072"><seg type="editorial_comment_seg">Bereininj<note type="editorial_comment_note">Sic!</note></seg> Joseph Gebrüder</rs>
                <lb facs="#facs_111_r2l4" n="N004"/>Firma oder Raggion
                <lb facs="#facs_111_r2l5" n="N005"/><rs type="person" ref="wkfm__9072">Joseph Gebrüder von Berninj</rs> laut Anbringen de ps: 5<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 725 N<hi style="superscript">o</hi> 74
                <lb facs="#facs_111_r2l7" n="N006"/><seg type="owner">Procura und Firmae Trager</seg>

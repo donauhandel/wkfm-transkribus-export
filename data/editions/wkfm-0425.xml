@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3009" lry="4436" xml:id="facs_105">
+    <surface ulx="0" uly="0" lrx="3009" lry="4436" xml:id="facs_105">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0425.jpg" width="3009px" height="4436px"/>
          <zone points="291,190 291,2941 2843,2941 2843,190" rendition="TextRegion" xml:id="facs_105_r2">
             <zone points="2729,322 2757,325 2786,325 2814,327 2843,331 2843,247 2814,243 2786,241 2757,241 2729,238" rendition="Line" xml:id="facs_105_r2l2" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_105" n="105" xml:id="img_0105"/>
+            <pb facs="#facs_105" n="105" xml:id="img_0105"/>
             
-            <ab  facs="#facs_105_r2">
+            <ab facs="#facs_105_r2">
                <lb facs="#facs_105_r2l2" n="N001"/>210
                <lb facs="#facs_105_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_105_r2l3" n="N003"/><rs type="person" ref="wkfm__23514">Kallmünzer Franz Anton</rs> burgerlicher Handlsmann

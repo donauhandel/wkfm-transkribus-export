@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2991" lry="4407" xml:id="facs_31">
+    <surface ulx="0" uly="0" lrx="2991" lry="4407" xml:id="facs_31">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0084.jpg" width="2991px" height="4407px"/>
          <zone points="357,101 357,2969 2703,2969 2703,101" rendition="TextRegion" xml:id="facs_31_r2">
             <zone points="2613,196 2640,196 2667,196 2694,199 2694,121 2667,118 2640,118 2613,118" rendition="Line" xml:id="facs_31_r2l1" subtype="page-number"/>
@@ -71,9 +71,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_31" n="31" xml:id="img_0031"/>
+            <pb facs="#facs_31" n="31" xml:id="img_0031"/>
             
-            <ab  facs="#facs_31_r2">
+            <ab facs="#facs_31_r2">
                <lb facs="#facs_31_r2l1" n="N001"/>40
                <lb facs="#facs_31_r2l2" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_31_r2l3" n="N003"/><hi>B Büttner</hi>

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2988" lry="4468" xml:id="facs_23">
+    <surface ulx="0" uly="0" lrx="2988" lry="4468" xml:id="facs_23">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1729.jpg" width="2988px" height="4468px"/>
          <zone points="219,190 219,3037 2914,3046 2914,199" rendition="TextRegion" xml:id="facs_23_r2">
             <zone points="2740,286 2909,286 2909,421 2740,421" rendition="Line" xml:id="facs_23_line_1626246191956_646"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_23" n="23" xml:id="img_0023"/>
+            <pb facs="#facs_23" n="23" xml:id="img_0023"/>
             
-            <ab  facs="#facs_23_r2">
+            <ab facs="#facs_23_r2">
                <lb facs="#facs_23_line_1626246191956_646" n="N001"/><unclear>857</unclear>
                <lb facs="#facs_23_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_23_r2l2" n="N003"/><rs type="person" ref="wkfm__8326">Weisenbeckh Matthias</rs> burgerlicher Handlsmann

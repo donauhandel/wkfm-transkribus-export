@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3095" lry="4469" xml:id="facs_29">
+    <surface ulx="0" uly="0" lrx="3095" lry="4469" xml:id="facs_29">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0949.jpg" width="3095px" height="4469px"/>
          <zone points="143,204 143,3718 2846,3718 2846,204" rendition="TextRegion" xml:id="facs_29_r1">
             <zone points="2690,392 2715,389 2741,389 2766,388 2792,387 2817,384 2843,380 2843,308 2817,312 2792,315 2766,316 2741,317 2715,317 2690,320" rendition="Line" xml:id="facs_29_r1l2" subtype="page-number"/>
@@ -79,15 +79,15 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_29" n="29" xml:id="img_0029"/>
+            <pb facs="#facs_29" n="29" xml:id="img_0029"/>
             
-            <ab  facs="#facs_29_r1">
+            <ab facs="#facs_29_r1">
                <lb facs="#facs_29_r1l2" n="N001"/>467
                <lb facs="#facs_29_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_29_r1l3" n="N003"/><rs type="person" ref="wkfm__8186">Hökhstainer Joseph</rs> burgerlicher Handelsmann
                <lb facs="#facs_29_r1l4" n="N004"/>Firma ad Raggion
                <lb facs="#facs_29_r1l5" n="N005"/><rs type="person" ref="wkfm__46452">Joseph Höckstainer</rs> laut Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 439
-               <lb facs="#facs_29_r1l6" n="N006"/><rs type="person" ref="wkfm__46453">Joseph Hökhstainer <choice><expan/><abbr>seel:</abbr></choice> Wittib und Sohn</rs> laut Erklährung <comment comment="erst\u0020\u0022ddto\u0022,\u0020dann\u0020\u0022sine\u0022\u0020darüber\u0020geschrieben">sine</comment> dat N<hi style="superscript">o</hi>
+               <lb facs="#facs_29_r1l6" n="N006"/><rs type="person" ref="wkfm__46453">Joseph Hökhstainer <choice><expan/><abbr>seel:</abbr></choice> Wittib und Sohn</rs> laut Erklährung <seg type="editorial_comment_seg">sine<note type="editorial_comment_note">erst ddto, dann sine darüber geschrieben</note></seg> dat N<hi style="superscript">o</hi>
                <lb facs="#facs_29_r1l7" n="N007"/>474 welche der Hökhstainer: Sohn <rs type="person" ref="wkfm__46454">Franz Carl</rs> mitls Anbringen de ps: 28<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 739 N<hi style="superscript">o</hi> 1971
                <lb facs="#facs_29_r1l8" n="N008"/>eingeleget
                <lb facs="#facs_29_r1l9" n="N009"/><seg type="owner">Procura und Firmae Trager</seg>

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2877" lry="4502" xml:id="facs_184">
+    <surface ulx="0" uly="0" lrx="2877" lry="4502" xml:id="facs_184">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0238.jpg" width="2877px" height="4502px"/>
          <zone points="132,206 132,3281 2697,3281 2697,206" rendition="TextRegion" xml:id="facs_184_r1">
             <zone points="774,261 854,261 935,261 1016,263 1097,266 1178,267 1259,270 1339,272 1420,275 1501,278 1582,281 1663,282 1744,284 1825,285 1905,285 1986,285 2067,284 2148,281 2229,276 2310,272 2391,264 2391,209 2310,217 2229,221 2148,226 2067,229 1986,230 1905,230 1825,230 1744,229 1663,227 1582,226 1501,223 1420,220 1339,217 1259,215 1178,212 1097,211 1016,208 935,206 854,206 774,206" rendition="Line" xml:id="facs_184_r1l1"/>
@@ -76,9 +76,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_184" n="184" xml:id="img_0184"/>
+            <pb facs="#facs_184" n="184" xml:id="img_0184"/>
             
-            <ab  facs="#facs_184_r1">
+            <ab facs="#facs_184_r1">
                <lb facs="#facs_184_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_184_r1l2" n="N002"/><seg type="wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_184_r1l3" n="N003"/>Mitls Anbringen de ps: <unclear>27</unclear> <choice><expan/><abbr>Janu:</abbr></choice> 738 N<hi style="superscript">o</hi> 2092 hat der <rs type="person" ref="wkfm__29663">Bertolla</rs> den mit

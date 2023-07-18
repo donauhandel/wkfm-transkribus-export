@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2880" lry="4477" xml:id="facs_143">
+    <surface ulx="0" uly="0" lrx="2880" lry="4477" xml:id="facs_143">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1601.jpg" width="2880px" height="4477px"/>
          <zone points="168,85 168,2949 2772,2949 2772,85" rendition="TextRegion" xml:id="facs_143_r1">
             <zone points="2609,369 2636,371 2663,372 2690,374 2717,374 2744,376 2772,380 2772,271 2744,267 2717,265 2690,265 2663,263 2636,262 2609,260" rendition="Line" xml:id="facs_143_r1l2" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_143" n="143" xml:id="img_0143"/>
+            <pb facs="#facs_143" n="143" xml:id="img_0143"/>
             
-            <ab  facs="#facs_143_r1">
+            <ab facs="#facs_143_r1">
                <lb facs="#facs_143_r1l2" n="N001"/>793
                <lb facs="#facs_143_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_143_r1l3" n="N003"/><rs type="person" ref="wkfm__47501">Sandt Augustin Joseph</rs> burgerlicher Handlsmann

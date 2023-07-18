@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3023" lry="4477" xml:id="facs_43">
+    <surface ulx="0" uly="0" lrx="3023" lry="4477" xml:id="facs_43">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1501.jpg" width="3023px" height="4477px"/>
          <zone points="258,130 258,2912 2864,2912 2864,130" rendition="TextRegion" xml:id="facs_43_r1">
             <zone points="2721,409 2749,410 2778,413 2806,415 2835,416 2864,416 2864,311 2835,311 2806,310 2778,308 2749,305 2721,304" rendition="Line" xml:id="facs_43_r1l2" subtype="page-number"/>
@@ -70,9 +70,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_43" n="43" xml:id="img_0043"/>
+            <pb facs="#facs_43" n="43" xml:id="img_0043"/>
             
-            <ab  facs="#facs_43_r1">
+            <ab facs="#facs_43_r1">
                <lb facs="#facs_43_r1l2" n="N001"/>743
                <lb facs="#facs_43_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_43_r1l4" n="N003"/><rs type="person" ref="wkfm__9735">Stapf Johann Anton</rs> burgerlicher Handlsmann

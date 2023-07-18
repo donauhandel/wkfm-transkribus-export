@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3039" lry="4521" xml:id="facs_19">
+    <surface ulx="0" uly="0" lrx="3039" lry="4521" xml:id="facs_19">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0072.jpg" width="3039px" height="4521px"/>
          <zone points="219,123 222,3010 2745,3010 2742,123" rendition="TextRegion" xml:id="facs_19_r1">
             <zone points="2577,142 2737,142 2737,256 2577,256" rendition="Line" xml:id="facs_19_line_1629707241813_293" subtype="page-number"/>
@@ -78,9 +78,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_19" n="19" xml:id="img_0019"/>
+            <pb facs="#facs_19" n="19" xml:id="img_0019"/>
             
-            <ab  facs="#facs_19_r1">
+            <ab facs="#facs_19_r1">
                <lb facs="#facs_19_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_19_r1l2" n="N003"/><rs type="person" ref="wkfm__9414">Pichenini Paul</rs> K. K. Niederlags Verwanter
                <lb facs="#facs_19_r1l3" n="N004"/>Firma oder Raggion

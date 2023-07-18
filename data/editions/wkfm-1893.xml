@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2979" lry="4383" xml:id="facs_39">
+    <surface ulx="0" uly="0" lrx="2979" lry="4383" xml:id="facs_39">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1893.jpg" width="2979px" height="4383px"/>
          <zone points="260,152 260,2972 2850,2972 2850,152" rendition="TextRegion" xml:id="facs_39_r2">
             <zone points="2687,353 2712,355 2738,353 2763,348 2789,343 2814,342 2840,347 2840,277 2814,272 2789,273 2763,278 2738,283 2712,285 2687,283" rendition="Line" xml:id="facs_39_r2l2" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_39" n="39" xml:id="img_0039"/>
+            <pb facs="#facs_39" n="39" xml:id="img_0039"/>
             
-            <ab  facs="#facs_39_r2">
+            <ab facs="#facs_39_r2">
                <lb facs="#facs_39_r2l2" n="N001"/>939
                <lb facs="#facs_39_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_39_r2l3" n="N003"/><rs type="person" ref="wkfm__8492">Wertheimber Wolff </rs>Jud und K. K. wie K. Pohlnischer Oberfactor

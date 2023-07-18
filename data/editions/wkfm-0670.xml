@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_2">
+    <surface ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_2">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0670.jpg" width="2994px" height="4530px"/>
          <zone points="465,223 465,3394 2892,3394 2892,223" rendition="TextRegion" xml:id="facs_2_r1">
             <zone points="1278,325 1338,323 1399,320 1460,319 1521,319 1582,320 1643,320 1704,323 1765,325 1826,327 1887,329 1947,332 2008,335 2069,338 2130,340 2191,343 2252,344 2313,346 2374,347 2435,347 2496,346 2496,250 2435,251 2374,251 2313,250 2252,248 2191,247 2130,244 2069,242 2008,239 1947,236 1887,233 1826,231 1765,229 1704,227 1643,224 1582,224 1521,223 1460,223 1399,224 1338,227 1278,229" rendition="Line" xml:id="facs_2_r1l1"/>
@@ -68,9 +68,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_2" n="2" xml:id="img_0002"/>
+            <pb facs="#facs_2" n="2" xml:id="img_0002"/>
             
-            <ab  facs="#facs_2_r1">
+            <ab facs="#facs_2_r1">
                <lb facs="#facs_2_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_2_r1l2" n="N002"/>Der <rs type="person" ref="wkfm__8333">Jacob Föhr</rs> hat in obigen Anbringen de ps: 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 1931
                <lb facs="#facs_2_r1l3" n="N003"/>mit dem <rs type="person" ref="wkfm__47049">Johann Wanner</rs> die gemeinsame Societaets Raggion

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_90">
+    <surface ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_90">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0758.jpg" width="2994px" height="4530px"/>
          <zone points="579,267 579,3497 2991,3497 2991,267" rendition="TextRegion" xml:id="facs_90_r2">
             <zone points="1473,368 1534,366 1595,366 1656,366 1717,366 1778,367 1839,368 1900,371 1961,372 2022,375 2083,377 2144,379 2205,381 2266,382 2327,384 2388,384 2449,386 2510,386 2571,386 2632,384 2694,381 2694,282 2632,285 2571,287 2510,287 2449,287 2388,285 2327,285 2266,283 2205,282 2144,280 2083,278 2022,276 1961,273 1900,272 1839,269 1778,268 1717,267 1656,267 1595,267 1534,267 1473,269" rendition="Line" xml:id="facs_90_r2l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_90" n="90" xml:id="img_0090"/>
+            <pb facs="#facs_90" n="90" xml:id="img_0090"/>
             
-            <ab  facs="#facs_90_r2">
+            <ab facs="#facs_90_r2">
                <lb facs="#facs_90_r2l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_90_r2l2" n="N002"/>In obigen Anbringen de ps: 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 735 N<hi style="superscript">o</hi> 359 hat sich der <rs type="person" ref="wkfm__22363">Frölich</rs> er-
                <lb facs="#facs_90_r2l3" n="N003"/>kläret, daß ersein negotium mit eigenen <choice><expan/><abbr>intee</abbr></choice> führe.

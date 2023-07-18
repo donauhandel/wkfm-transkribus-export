@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2925" lry="4530" xml:id="facs_16">
+    <surface ulx="0" uly="0" lrx="2925" lry="4530" xml:id="facs_16">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0069.jpg" width="2925px" height="4530px"/>
          <zone points="261,250 261,3374 2823,3382 2823,258" rendition="TextRegion" xml:id="facs_16_r1">
             <zone points="684,296 763,295 843,293 922,293 1002,295 1082,296 1161,298 1241,299 1321,302 1400,305 1480,308 1560,311 1639,314 1719,317 1799,319 1878,322 1958,323 2038,325 2117,326 2197,326 2277,325 2277,282 2197,283 2117,283 2038,282 1958,280 1878,279 1799,276 1719,274 1639,271 1560,268 1480,265 1400,262 1321,259 1241,256 1161,255 1082,253 1002,252 922,250 843,250 763,252 684,253" rendition="Line" xml:id="facs_16_r1l1"/>
@@ -79,9 +79,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_16" n="16" xml:id="img_0016"/>
+            <pb facs="#facs_16" n="16" xml:id="img_0016"/>
             
-            <ab  facs="#facs_16_r1">
+            <ab facs="#facs_16_r1">
                <lb facs="#facs_16_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_16_line_1628381645762_469" n="N002"/>In obigen Anbringen de ps: 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 1846 haben sich die <rs type="person" ref="wkfm__30430">Gebrüder Palm</rs> erklähret das ihre 
                <lb facs="#facs_16_r1l4" n="N003"/>Handlung nach Inhalt des unter ihnen errichteten Contracts dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 723

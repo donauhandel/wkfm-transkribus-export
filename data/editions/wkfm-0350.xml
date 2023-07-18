@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_30">
+    <surface ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_30">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0350.jpg" width="2934px" height="4501px"/>
          <zone points="350,223 350,3431 2856,3431 2856,223" rendition="TextRegion" xml:id="facs_30_r1">
             <zone points="845,385 911,377 978,370 1045,364 1112,359 1179,356 1246,353 1313,351 1380,350 1447,349 1514,349 1580,349 1647,349 1714,350 1781,350 1848,350 1915,350 1982,350 2049,350 2116,349 2183,347 2183,223 2116,225 2049,226 1982,226 1915,226 1848,226 1781,226 1714,226 1647,225 1580,225 1514,225 1447,225 1380,226 1313,227 1246,229 1179,232 1112,235 1045,240 978,246 911,253 845,261" rendition="Line" xml:id="facs_30_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_30" n="30" xml:id="img_0030"/>
+            <pb facs="#facs_30" n="30" xml:id="img_0030"/>
             
-            <ab  facs="#facs_30_r1">
+            <ab facs="#facs_30_r1">
                <lb facs="#facs_30_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_30_r1l2" n="N002"/>In obigen Anbringen de ps: 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 174 hat sich der <rs type="person" ref="wkfm__8515">Kratzer</rs>
                <lb facs="#facs_30_r1l3" n="N003"/>geäusseret das er seinee Handlung ohne Compagnon führe.

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2963" lry="4496" xml:id="facs_11">
+    <surface ulx="0" uly="0" lrx="2963" lry="4496" xml:id="facs_11">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0679.jpg" width="2963px" height="4496px"/>
          <zone points="185,222 185,2998 2784,2998 2784,222" rendition="TextRegion" xml:id="facs_11_r1">
             <zone points="2609,406 2634,407 2659,407 2684,406 2709,404 2734,402 2759,400 2784,398 2784,320 2759,322 2734,324 2709,326 2684,328 2659,329 2634,329 2609,328" rendition="Line" xml:id="facs_11_r1l3" subtype="page-number"/>
@@ -72,9 +72,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_11" n="11" xml:id="img_0011"/>
+            <pb facs="#facs_11" n="11" xml:id="img_0011"/>
             
-            <ab  facs="#facs_11_r1">
+            <ab facs="#facs_11_r1">
                <lb facs="#facs_11_r1l3" n="N001"/>337
                <lb facs="#facs_11_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_11_r1l4" n="N003"/><rs type="person" ref="wkfm__47055">Vetterin Maria Rosina</rs> burgerliche <hi>Handlsmannswittib</hi> Tuchlaubens Verwante

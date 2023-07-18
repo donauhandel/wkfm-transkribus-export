@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3095" lry="4496" xml:id="facs_15">
+    <surface ulx="0" uly="0" lrx="3095" lry="4496" xml:id="facs_15">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0683.jpg" width="3095px" height="4496px"/>
          <zone points="170,233 170,3028 2879,3037 2879,242" rendition="TextRegion" xml:id="facs_15_r2">
             <zone points="2635,311 2856,311 2856,471 2635,471" rendition="Line" xml:id="facs_15_line_1629285202613_516" subtype="page-number"/>
@@ -72,9 +72,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_15" n="15" xml:id="img_0015"/>
+            <pb facs="#facs_15" n="15" xml:id="img_0015"/>
             
-            <ab  facs="#facs_15_r2">
+            <ab facs="#facs_15_r2">
                <lb facs="#facs_15_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_15_r2l2" n="N003"/><rs type="person" ref="wkfm__16575">Farovino Johann Jacob</rs> Hofbefreyter Handlsmann.
                <lb facs="#facs_15_r2l3" n="N004"/>Firma ad Raggion

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3095" lry="4469" xml:id="facs_95">
+    <surface ulx="0" uly="0" lrx="3095" lry="4469" xml:id="facs_95">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0907.jpg" width="3095px" height="4469px"/>
          <zone points="167,150 167,4164 2817,4164 2817,150" rendition="TextRegion" xml:id="facs_95_r2">
             <zone points="2613,291 2638,295 2664,296 2689,298 2715,298 2740,298 2766,298 2792,298 2792,205 2766,205 2740,205 2715,205 2689,205 2664,203 2638,202 2613,198" rendition="Line" xml:id="facs_95_r2l2" subtype="page-number"/>
@@ -78,9 +78,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_95" n="95" xml:id="img_0095"/>
+            <pb facs="#facs_95" n="95" xml:id="img_0095"/>
             
-            <ab  facs="#facs_95_r2">
+            <ab facs="#facs_95_r2">
                <lb facs="#facs_95_r2l2" n="N001"/>451
                <lb facs="#facs_95_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_95_r2l3" n="N003"/><rs type="person" ref="wkfm__46385">Grueber Andre</rs> burgerlicher Tuchlaubens Verwanter

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4442" xml:id="facs_40">
+    <surface ulx="0" uly="0" lrx="2994" lry="4442" xml:id="facs_40">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0852.jpg" width="2994px" height="4442px"/>
          <zone points="312,218 312,3386 2823,3386 2823,218" rendition="TextRegion" xml:id="facs_40_r1">
             <zone points="1235,347 1299,343 1363,340 1427,338 1491,338 1555,338 1619,338 1683,339 1747,342 1811,344 1875,345 1939,348 2003,350 2067,351 2131,351 2195,351 2259,351 2323,350 2387,347 2451,343 2516,336 2516,218 2451,225 2387,229 2323,232 2259,233 2195,233 2131,233 2067,233 2003,232 1939,230 1875,227 1811,226 1747,224 1683,221 1619,220 1555,220 1491,220 1427,220 1363,222 1299,225 1235,229" rendition="Line" xml:id="facs_40_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_40" n="40" xml:id="img_0040"/>
+            <pb facs="#facs_40" n="40" xml:id="img_0040"/>
             
-            <ab  facs="#facs_40_r1">
+            <ab facs="#facs_40_r1">
                <lb facs="#facs_40_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_40_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 399 hat sich der
                <lb facs="#facs_40_r1l3" n="N003"/><rs type="person" ref="wkfm__46319">Goffet</rs> geäusseret, das er keinen Compagnon habe.

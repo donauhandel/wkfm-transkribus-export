@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_68">
+    <surface ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_68">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0388.jpg" width="2934px" height="4501px"/>
          <zone points="327,200 327,3378 2823,3378 2823,200" rendition="TextRegion" xml:id="facs_68_r1">
             <zone points="1094,347 1156,339 1219,333 1282,327 1344,323 1407,320 1470,318 1532,318 1595,317 1658,317 1721,318 1783,318 1846,320 1909,320 1971,321 2034,321 2097,321 2159,321 2222,321 2285,320 2348,317 2348,200 2285,203 2222,204 2159,204 2097,204 2034,204 1971,204 1909,203 1846,203 1783,201 1721,201 1658,200 1595,200 1532,201 1470,201 1407,203 1344,206 1282,210 1219,216 1156,222 1094,230" rendition="Line" xml:id="facs_68_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_68" n="68" xml:id="img_0068"/>
+            <pb facs="#facs_68" n="68" xml:id="img_0068"/>
             
-            <ab  facs="#facs_68_r1">
+            <ab facs="#facs_68_r1">
                <lb facs="#facs_68_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_68_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 192 hat sich
                <lb facs="#facs_68_r1l3" n="N003"/>der <rs type="person" ref="wkfm__46115">Kayser</rs> geäusseret, daß er sein Negotium allein führe.

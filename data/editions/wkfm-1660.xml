@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2801" lry="4419" xml:id="facs_202">
+    <surface ulx="0" uly="0" lrx="2801" lry="4419" xml:id="facs_202">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1660.jpg" width="2801px" height="4419px"/>
          <zone points="309,217 309,3937 2772,3940 2772,220" rendition="TextRegion" xml:id="facs_202_r1">
             <zone points="1203,301 1265,295 1328,289 1391,286 1453,285 1516,283 1579,285 1641,286 1704,289 1767,292 1830,295 1892,300 1955,303 2018,306 2080,309 2143,310 2206,310 2268,310 2331,307 2394,304 2457,298 2457,232 2394,238 2331,241 2268,244 2206,244 2143,244 2080,243 2018,240 1955,237 1892,234 1830,229 1767,226 1704,223 1641,220 1579,219 1516,217 1453,219 1391,220 1328,223 1265,229 1203,235" rendition="Line" xml:id="facs_202_r1l1"/>
@@ -74,9 +74,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_202" n="202" xml:id="img_0202"/>
+            <pb facs="#facs_202" n="202" xml:id="img_0202"/>
             
-            <ab  facs="#facs_202_r1">
+            <ab facs="#facs_202_r1">
                <lb facs="#facs_202_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_202_r1l2" n="N002"/><seg type="wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_202_r1l3" n="N003"/>Der <rs type="person" ref="wkfm__47565">Schnirer</rs> hat Mitls Anbringen de ps: 29<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 745 N<hi style="superscript">o</hi> 2245 mit der 

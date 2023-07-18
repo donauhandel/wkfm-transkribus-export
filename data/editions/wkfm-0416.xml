@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2982" lry="4501" xml:id="facs_96">
+    <surface ulx="0" uly="0" lrx="2982" lry="4501" xml:id="facs_96">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0416.jpg" width="2982px" height="4501px"/>
          <zone points="290,230 290,3402 2847,3402 2847,230" rendition="TextRegion" xml:id="facs_96_r1">
             <zone points="1112,328 1179,326 1246,324 1313,322 1380,322 1447,322 1514,322 1581,322 1648,322 1715,324 1782,324 1849,324 1916,325 1983,325 2050,324 2117,324 2184,322 2251,319 2318,316 2385,312 2453,306 2453,230 2385,236 2318,240 2251,243 2184,246 2117,248 2050,248 1983,249 1916,249 1849,248 1782,248 1715,248 1648,246 1581,246 1514,246 1447,246 1380,246 1313,246 1246,248 1179,250 1112,252" rendition="Line" xml:id="facs_96_r1l1"/>
@@ -75,9 +75,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_96" n="96" xml:id="img_0096"/>
+            <pb facs="#facs_96" n="96" xml:id="img_0096"/>
             
-            <ab  facs="#facs_96_r1">
+            <ab facs="#facs_96_r1">
                <lb facs="#facs_96_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_96_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 9<hi style="superscript">ten</hi> Junii 728 N<hi style="superscript">o</hi> 204 hat sich
                <lb facs="#facs_96_r1l3" n="N003"/>der <rs type="person" ref="wkfm__46128">Königßberger</rs> geäusseret, daß er keinen Compagnon habe.

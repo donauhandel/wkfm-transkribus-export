@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2964" lry="4502" xml:id="facs_166">
+    <surface ulx="0" uly="0" lrx="2964" lry="4502" xml:id="facs_166">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0220.jpg" width="2964px" height="4502px"/>
          <zone points="293,179 293,3324 2808,3324 2808,179" rendition="TextRegion" xml:id="facs_166_r1">
             <zone points="845,261 911,260 978,260 1044,260 1111,260 1178,261 1244,263 1311,266 1378,269 1444,271 1511,275 1578,278 1644,281 1711,284 1778,288 1844,290 1911,292 1978,294 2044,295 2111,296 2178,296 2178,215 2111,215 2044,214 1978,213 1911,211 1844,209 1778,207 1711,203 1644,200 1578,197 1511,194 1444,190 1378,188 1311,185 1244,182 1178,180 1111,179 1044,179 978,179 911,179 845,180" rendition="Line" xml:id="facs_166_r1l1"/>
@@ -70,9 +70,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_166" n="166" xml:id="img_0166"/>
+            <pb facs="#facs_166" n="166" xml:id="img_0166"/>
             
-            <ab  facs="#facs_166_r1">
+            <ab facs="#facs_166_r1">
                <lb facs="#facs_166_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_166_r1l2" n="N002"/>In obiger Erklährung N<hi style="superscript">o</hi> 100 hat sich der <rs type="person" ref="wkfm__29664">Baumann</rs> geäusseret,
                <lb facs="#facs_166_r1l3" n="N003"/>daß er sein Negotium allein führe.

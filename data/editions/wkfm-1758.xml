@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2886" lry="4476" xml:id="facs_52">
+    <surface ulx="0" uly="0" lrx="2886" lry="4476" xml:id="facs_52">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1758.jpg" width="2886px" height="4476px"/>
          <zone points="398,261 398,3426 2777,3426 2777,261" rendition="TextRegion" xml:id="facs_52_r1">
             <zone points="1169,411 1229,407 1290,404 1351,402 1412,400 1472,400 1533,400 1594,402 1655,402 1715,403 1776,405 1837,406 1898,406 1958,408 2019,408 2080,406 2141,406 2201,403 2262,400 2323,396 2384,391 2384,261 2323,266 2262,270 2201,273 2141,276 2080,276 2019,278 1958,278 1898,276 1837,276 1776,275 1715,273 1655,272 1594,272 1533,270 1472,270 1412,270 1351,272 1290,274 1229,277 1169,281" rendition="Line" xml:id="facs_52_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_52" n="52" xml:id="img_0052"/>
+            <pb facs="#facs_52" n="52" xml:id="img_0052"/>
             
-            <ab  facs="#facs_52_r1">
+            <ab facs="#facs_52_r1">
                <lb facs="#facs_52_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_52_r1l3" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 808 hat sich der
                <lb facs="#facs_52_r1l4" n="N003"/><rs type="person" ref="wkfm__10180">Walkher</rs> geäusseret das er in seinem negotio allein stehe

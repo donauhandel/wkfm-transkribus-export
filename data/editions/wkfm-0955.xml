@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3095" lry="4469" xml:id="facs_35">
+    <surface ulx="0" uly="0" lrx="3095" lry="4469" xml:id="facs_35">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0955.jpg" width="3095px" height="4469px"/>
          <zone points="246,198 246,3009 2823,3009 2823,198" rendition="TextRegion" xml:id="facs_35_r1">
             <zone points="2562,351 2587,350 2612,351 2638,352 2663,353 2688,351 2714,347 2714,275 2688,279 2663,281 2638,280 2612,279 2587,278 2562,279" rendition="Line" xml:id="facs_35_r1l2" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_35" n="35" xml:id="img_0035"/>
+            <pb facs="#facs_35" n="35" xml:id="img_0035"/>
             
-            <ab  facs="#facs_35_r1">
+            <ab facs="#facs_35_r1">
                <lb facs="#facs_35_r1l2" n="N001"/>470
                <lb facs="#facs_35_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_35_r1l3" n="N003"/><rs type="person" ref="wkfm__46461">Hertzog Franz Daniel</rs> burgerlicher Handlsmann

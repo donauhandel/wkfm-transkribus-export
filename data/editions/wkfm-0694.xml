@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_26">
+    <surface ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_26">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0694.jpg" width="2994px" height="4530px"/>
          <zone points="312,226 312,3434 2853,3434 2853,226" rendition="TextRegion" xml:id="facs_26_r1">
             <zone points="1209,352 1270,350 1332,350 1393,350 1455,350 1517,350 1578,350 1640,350 1702,352 1763,352 1825,353 1887,354 1948,355 2010,356 2072,358 2133,358 2195,359 2257,359 2318,359 2380,359 2442,359 2442,235 2380,235 2318,235 2257,235 2195,235 2133,234 2072,234 2010,232 1948,231 1887,230 1825,229 1763,228 1702,228 1640,226 1578,226 1517,226 1455,226 1393,226 1332,226 1270,226 1209,228" rendition="Line" xml:id="facs_26_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_26" n="26" xml:id="img_0026"/>
+            <pb facs="#facs_26" n="26" xml:id="img_0026"/>
             
-            <ab  facs="#facs_26_r1">
+            <ab facs="#facs_26_r1">
                <lb facs="#facs_26_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_26_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 1932 hat sich der
                <lb facs="#facs_26_r1l3" n="N003"/><rs type="person" ref="wkfm__12360">Fuchß</rs> geäusseret daß er seinen Sohn <rs type="person">Joseph Lindmayr</rs> alß

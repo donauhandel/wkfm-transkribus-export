@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2973" lry="4530" xml:id="facs_46">
+    <surface ulx="0" uly="0" lrx="2973" lry="4530" xml:id="facs_46">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1146.jpg" width="2973px" height="4530px"/>
          <zone points="278,180 278,3415 2889,3415 2889,180" rendition="TextRegion" xml:id="facs_46_r1">
             <zone points="1232,328 1290,324 1349,321 1407,318 1466,315 1524,313 1583,312 1641,310 1700,310 1758,309 1817,309 1876,309 1934,309 1993,309 2051,310 2110,310 2168,310 2227,310 2285,310 2344,310 2403,310 2403,181 2344,181 2285,181 2227,181 2168,181 2110,181 2051,181 1993,180 1934,180 1876,180 1817,180 1758,180 1700,181 1641,181 1583,183 1524,184 1466,186 1407,189 1349,192 1290,195 1232,199" rendition="Line" xml:id="facs_46_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_46" n="46" xml:id="img_0046"/>
+            <pb facs="#facs_46" n="46" xml:id="img_0046"/>
             
-            <ab  facs="#facs_46_r1">
+            <ab facs="#facs_46_r1">
                <lb facs="#facs_46_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_46_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 6<hi style="superscript">ten</hi> Julii 726 N<hi style="superscript">o</hi> 527 hat sich der <rs type="person" ref="wkfm__46813">Leuthner</rs>
                <lb facs="#facs_46_r1l3" n="N003"/>geäusseret, daß er seine Handlung unter seinen eigenen Nahmen habe 

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2872" lry="4419" xml:id="facs_174">
+    <surface ulx="0" uly="0" lrx="2872" lry="4419" xml:id="facs_174">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1632.jpg" width="2872px" height="4419px"/>
          <zone points="189,130 189,3302 2780,3302 2780,130" rendition="TextRegion" xml:id="facs_174_r1">
             <zone points="1076,262 1132,258 1189,255 1246,253 1303,250 1360,248 1417,248 1473,247 1530,247 1587,245 1644,245 1701,244 1758,242 1815,241 1871,239 1928,236 1985,233 2042,227 2099,223 2156,216 2213,208 2213,130 2156,138 2099,145 2042,149 1985,155 1928,158 1871,161 1815,163 1758,164 1701,166 1644,167 1587,167 1530,169 1473,169 1417,170 1360,170 1303,172 1246,175 1189,177 1132,180 1076,184" rendition="Line" xml:id="facs_174_r1l1"/>
@@ -75,9 +75,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_174" n="174" xml:id="img_0174"/>
+            <pb facs="#facs_174" n="174" xml:id="img_0174"/>
             
-            <ab  facs="#facs_174_r1">
+            <ab facs="#facs_174_r1">
                <lb facs="#facs_174_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_174_r1l2" n="N002"/>In obigen Anbringen de ps: 13<hi style="superscript">ten</hi> Junii 738 N<hi style="superscript">o</hi> 749 hat sich der <rs type="person" ref="wkfm__38569">Schwar-
                <lb break="no" facs="#facs_174_r1l3" n="N003"/>zenberger</rs> erklähret, daß er keinen Compagnon noch interessenten

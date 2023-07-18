@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3134" lry="4521" xml:id="facs_13">
+    <surface ulx="0" uly="0" lrx="3134" lry="4521" xml:id="facs_13">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1113.jpg" width="3134px" height="4521px"/>
          <zone points="273,211 287,3038 2948,3044 2934,217" rendition="TextRegion" xml:id="facs_13_r3">
             <zone points="2734,294 2897,294 2897,427 2734,427" rendition="Line" xml:id="facs_13_line_1628001995383_772" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_13" n="13" xml:id="img_0013"/>
+            <pb facs="#facs_13" n="13" xml:id="img_0013"/>
             
-            <ab  facs="#facs_13_r3">
+            <ab facs="#facs_13_r3">
                <lb facs="#facs_13_r3l1" n="N003"/><rs type="person" ref="wkfm__8266">Legoux Philibert</rs> kay: könig: Niderlags Verwanter
                <lb facs="#facs_13_r3l2" n="N004"/>Firma ad Raggion
                <lb facs="#facs_13_r3l3" n="N005"/><rs type="person" ref="wkfm__46787">Philibert Legoux</rs> laut Anbringen de ps: 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 511

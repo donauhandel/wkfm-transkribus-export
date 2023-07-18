@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2954" lry="4493" xml:id="facs_11">
+    <surface ulx="0" uly="0" lrx="2954" lry="4493" xml:id="facs_11">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0331.jpg" width="2954px" height="4493px"/>
          <zone points="200,170 200,2960 2691,2960 2691,170" rendition="TextRegion" xml:id="facs_11_r2">
             <zone points="2570,330 2598,329 2626,330 2654,330 2682,329 2682,230 2654,231 2626,231 2598,230 2570,231" rendition="Line" xml:id="facs_11_r2l2" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_11" n="11" xml:id="img_0011"/>
+            <pb facs="#facs_11" n="11" xml:id="img_0011"/>
             
-            <ab  facs="#facs_11_r2">
+            <ab facs="#facs_11_r2">
                <lb facs="#facs_11_r2l2" n="N001"/>163
                <lb facs="#facs_11_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_11_r2l3" n="N003"/><rs type="person" ref="wkfm__41601">Kircheisen <hi>k. k.</hi> Christian</rs> Niderlags Verwanter

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3036" lry="4391" xml:id="facs_91">
+    <surface ulx="0" uly="0" lrx="3036" lry="4391" xml:id="facs_91">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1443.jpg" width="3036px" height="4391px"/>
          <zone points="111,223 111,4342 2738,4342 2738,223" rendition="TextRegion" xml:id="facs_91_r1">
             <zone points="2556,416 2586,418 2616,420 2646,422 2676,425 2676,352 2646,349 2616,347 2586,345 2556,343" rendition="Line" xml:id="facs_91_r1l2" subtype="page-number"/>
@@ -84,9 +84,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_91" n="91" xml:id="img_0091"/>
+            <pb facs="#facs_91" n="91" xml:id="img_0091"/>
             
-            <ab  facs="#facs_91_r1">
+            <ab facs="#facs_91_r1">
                <lb facs="#facs_91_r1l2" n="N001"/>714
                <lb facs="#facs_91_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_91_r1l3" n="N003"/><hi>R</hi> <rs type="person" ref="wkfm__46760">Razer Georg Franz</rs> burgerlicher Handlsmann
@@ -109,7 +109,7 @@
                <lb facs="#facs_91_r1l26" n="N020"/><choice><expan/><abbr>Sa</abbr></choice> 8000 fl
                <lb facs="#facs_91_r1l25" n="N021"/>Not: vermög Anbringen de ps: 26<hi style="superscript">ten</hi> Julij 769
                <lb facs="#facs_91_r1l27" n="N022"/>ist dem <rs type="person" ref="wkfm__8109">Johann Michael Niller</rs> das für den <rs type="person" ref="wkfm__46761">Razer</rs> eingelegte Cautions
-               <lb facs="#facs_91_r1l28" n="N023"/><comment comment="Fortsetzung\u0020auf\u0020der\u0020nächsten\u0020Seite\u0020unter\u0020\u0022Anmerckungen\u0022"><hi>0</hi></comment>
+               <lb facs="#facs_91_r1l28" n="N023"/><seg type="editorial_comment_seg"><hi>0</hi><note type="editorial_comment_note">Fortsetzung auf der nächsten Seite unter Anmerckungen</note></seg>
             </ab>
             
         </div>

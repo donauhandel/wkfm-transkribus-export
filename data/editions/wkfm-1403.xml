@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2973" lry="4391" xml:id="facs_51">
+    <surface ulx="0" uly="0" lrx="2973" lry="4391" xml:id="facs_51">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1403.jpg" width="2973px" height="4391px"/>
          <zone points="179,168 179,2980 2760,2980 2760,168" rendition="TextRegion" xml:id="facs_51_r1">
             <zone points="2589,414 2615,416 2641,418 2667,419 2693,421 2719,421 2745,423 2745,320 2719,318 2693,318 2667,316 2641,315 2615,313 2589,311" rendition="Line" xml:id="facs_51_r1l2" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_51" n="51" xml:id="img_0051"/>
+            <pb facs="#facs_51" n="51" xml:id="img_0051"/>
             
-            <ab  facs="#facs_51_r1">
+            <ab facs="#facs_51_r1">
                <lb facs="#facs_51_r1l2" n="N001"/>694
                <lb facs="#facs_51_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_51_r1l3" n="N003"/><rs type="person" ref="wkfm__38711">Roschat Johann Baptista</rs> burgerlicher Handlsmann

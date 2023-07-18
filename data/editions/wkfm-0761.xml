@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3095" lry="4496" xml:id="facs_93">
+    <surface ulx="0" uly="0" lrx="3095" lry="4496" xml:id="facs_93">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0761.jpg" width="3095px" height="4496px"/>
          <graphic url="" width="3095px" height="4496px"/>
          <zone points="203,167 203,3009 2791,3017 2791,175" rendition="TextRegion" xml:id="facs_93_r1">
@@ -70,9 +70,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_93" n="93" xml:id="img_0093"/>
+            <pb facs="#facs_93" n="93" xml:id="img_0093"/>
             
-            <ab  facs="#facs_93_r1">
+            <ab facs="#facs_93_r1">
                <lb facs="#facs_93_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_93_r1l2" n="N003"/><rs type="person" ref="wkfm__28972">Fischer Ignaz Christoph</rs> burgerlicher Eysenhandler
                <lb facs="#facs_93_r1l3" n="N004"/>Firma ad Raggion

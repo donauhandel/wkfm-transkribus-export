@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2953" lry="4400" xml:id="facs_60">
+    <surface ulx="0" uly="0" lrx="2953" lry="4400" xml:id="facs_60">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1412.jpg" width="2953px" height="4400px"/>
          <zone points="315,168 315,3345 2790,3345 2790,168" rendition="TextRegion" xml:id="facs_60_r1">
             <zone points="1067,312 1125,308 1183,303 1241,299 1299,296 1358,294 1416,293 1474,291 1532,291 1590,291 1649,291 1707,291 1765,290 1823,290 1881,288 1940,287 1998,285 2056,282 2114,279 2172,274 2231,267 2231,168 2172,175 2114,180 2056,183 1998,186 1940,188 1881,189 1823,191 1765,191 1707,192 1649,192 1590,192 1532,192 1474,192 1416,194 1358,195 1299,197 1241,200 1183,204 1125,209 1067,213" rendition="Line" xml:id="facs_60_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_60" n="60" xml:id="img_0060"/>
+            <pb facs="#facs_60" n="60" xml:id="img_0060"/>
             
-            <ab  facs="#facs_60_r1">
+            <ab facs="#facs_60_r1">
                <lb facs="#facs_60_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_60_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 13<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 731 N<hi style="superscript">o</hi> 637 hat sich der <rs type="person" ref="wkfm__46719">Ritsch</rs>
                <lb facs="#facs_60_r1l3" n="N003"/>geäusseret, daß er sein negotium für sich allein führe.

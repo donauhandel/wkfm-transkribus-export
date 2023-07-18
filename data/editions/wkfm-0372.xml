@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_52">
+    <surface ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_52">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0372.jpg" width="2934px" height="4501px"/>
          <zone points="345,212 345,3391 2808,3391 2808,212" rendition="TextRegion" xml:id="facs_52_r1">
             <zone points="1061,370 1130,364 1199,359 1269,356 1338,352 1408,349 1477,347 1547,346 1616,344 1686,343 1755,343 1824,341 1894,341 1963,340 2033,340 2102,338 2172,337 2241,335 2311,332 2380,329 2450,326 2450,212 2380,215 2311,218 2241,221 2172,223 2102,224 2033,226 1963,226 1894,227 1824,227 1755,229 1686,229 1616,230 1547,232 1477,233 1408,235 1338,238 1269,242 1199,245 1130,250 1061,256" rendition="Line" xml:id="facs_52_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_52" n="52" xml:id="img_0052"/>
+            <pb facs="#facs_52" n="52" xml:id="img_0052"/>
             
-            <ab  facs="#facs_52_r1">
+            <ab facs="#facs_52_r1">
                <lb facs="#facs_52_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_52_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 184 hat
                <lb facs="#facs_52_r1l3" n="N003"/>sich der <rs type="person" ref="wkfm__46112">Kunerth</rs> geäusseret, das er keinen Compagnon habe

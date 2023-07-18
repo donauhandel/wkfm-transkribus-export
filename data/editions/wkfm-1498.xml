@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2929" lry="4455" xml:id="facs_40">
+    <surface ulx="0" uly="0" lrx="2929" lry="4455" xml:id="facs_40">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1498.jpg" width="2929px" height="4455px"/>
          <zone points="192,137 192,3238 2787,3238 2787,137" rendition="TextRegion" xml:id="facs_40_r1">
             <zone points="765,310 839,298 914,288 988,279 1063,273 1138,266 1212,262 1287,258 1362,256 1436,254 1511,252 1586,250 1660,249 1735,247 1810,245 1884,243 1959,238 2034,234 2108,229 2183,222 2258,213 2258,137 2183,146 2108,153 2034,158 1959,162 1884,167 1810,169 1735,171 1660,173 1586,174 1511,176 1436,178 1362,180 1287,182 1212,186 1138,190 1063,197 988,203 914,212 839,222 765,234" rendition="Line" xml:id="facs_40_r1l1"/>
@@ -78,9 +78,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_40" n="40" xml:id="img_0040"/>
+            <pb facs="#facs_40" n="40" xml:id="img_0040"/>
             
-            <ab  facs="#facs_40_r1">
+            <ab facs="#facs_40_r1">
                <lb facs="#facs_40_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_40_r1l2" n="N002"/>Mitls Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 2042 hat der <rs type="person" ref="wkfm__21800">Matthias
                <lb break="no" facs="#facs_40_r1l3" n="N003"/>Stockhinger</rs> nebst dem <rs type="person" ref="wkfm__47422">Georg Albrecht Eberhard</rs> sich geäusseret

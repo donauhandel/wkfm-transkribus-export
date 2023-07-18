@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3095" lry="4410" xml:id="facs_45">
+    <surface ulx="0" uly="0" lrx="3095" lry="4410" xml:id="facs_45">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0965.jpg" width="3095px" height="4410px"/>
          <zone points="165,179 165,3038 2807,3038 2807,179" rendition="TextRegion" xml:id="facs_45_r2">
             <zone points="2586,438 2611,439 2637,440 2662,441 2688,440 2713,436 2739,429 2739,321 2713,328 2688,332 2662,333 2637,332 2611,331 2586,330" rendition="Line" xml:id="facs_45_r2l2" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_45" n="45" xml:id="img_0045"/>
+            <pb facs="#facs_45" n="45" xml:id="img_0045"/>
             
-            <ab  facs="#facs_45_r2">
+            <ab facs="#facs_45_r2">
                <lb facs="#facs_45_r2l2" n="N001"/>475
                <lb facs="#facs_45_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_45_r2l3" n="N003"/><rs type="person" ref="wkfm__46470">Haslacher Franz Michäl</rs> burgerlicher Handlsmann

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2940" lry="4464" xml:id="facs_102">
+    <surface ulx="0" uly="0" lrx="2940" lry="4464" xml:id="facs_102">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1286.jpg" width="2940px" height="4464px"/>
          <graphic url="" width="2940px" height="4464px"/>
          <zone points="99,142 99,3383 2790,3383 2790,142" rendition="TextRegion" xml:id="facs_102_r1">
@@ -84,9 +84,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_102" n="102" xml:id="img_0102"/>
+            <pb facs="#facs_102" n="102" xml:id="img_0102"/>
             
-            <ab  facs="#facs_102_r1">
+            <ab facs="#facs_102_r1">
                <lb facs="#facs_102_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_102_r1l2" n="N002"/>Mitls Anbringen de ps: 14<hi style="superscript">ten</hi> Junii 751 N<hi style="superscript">o</hi> 2011 hat der <rs type="person" ref="wkfm__46784">Mayer</rs> angezeiget, das er
                <lb facs="#facs_102_r1l3" n="N003"/>mit dem <rs type="person" ref="wkfm__8089">Anton Lang</rs> in eine offentliche societaet getretten seye, auch den zwischen ihnen
@@ -106,7 +106,7 @@
                <lb facs="#facs_102_r1l19" n="N017"/>zu gleichen theilen seyn bey <unclear>ereignenden</unclear> todfall solle der Stand der Handlung durch zwey verständige <unclear>mercatori</unclear>
                <lb facs="#facs_102_r1l20" n="N018"/><gap/> <unclear>entfernt,</unclear> und fals selbe nicht ubereinkommen durch den dritten, wie auch alle zwistigkeiten <unclear>kunftig</unclear>
                <lb facs="#facs_102_r1l21" n="N019"/><seg type="wedding_contract">Heuraths Contract</seg>
-               <lb facs="#facs_102_r1l22" n="N020"/><comment comment="Fortsetzung\u0020der\u0020Rubrik\u0020\u0022Societaets\u0020Contract\u0020und\u0020Interessenten\u0022">Anmerckungen</comment>
+               <lb facs="#facs_102_r1l22" n="N020"/><seg type="editorial_comment_seg">Anmerckungen<note type="editorial_comment_note">Fortsetzung der Rubrik Societaets Contract und Interessenten</note></seg>
                <lb facs="#facs_102_r1l23" n="N021"/><hi>0</hi> zwey verständige entschiden werden, und jeder bey 1000 fl Pönn zu <unclear>aquiesciren</unclear>
                <lb facs="#facs_102_r1l24" n="N022"/>schuldig seye
             </ab>

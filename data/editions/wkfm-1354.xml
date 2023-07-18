@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2940" lry="4464" xml:id="facs_2">
+    <surface ulx="0" uly="0" lrx="2940" lry="4464" xml:id="facs_2">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1354.jpg" width="2940px" height="4464px"/>
          <zone points="357,164 357,3205 2868,3205 2868,164" rendition="TextRegion" xml:id="facs_2_r1">
             <zone points="1226,290 1291,289 1357,287 1423,287 1488,287 1554,287 1620,287 1685,289 1751,289 1817,290 1883,290 1948,290 2014,290 2080,289 2145,287 2211,286 2277,283 2342,280 2408,274 2474,268 2540,260 2540,164 2474,172 2408,178 2342,184 2277,187 2211,190 2145,191 2080,193 2014,194 1948,194 1883,194 1817,194 1751,193 1685,193 1620,191 1554,191 1488,191 1423,191 1357,191 1291,193 1226,194" rendition="Line" xml:id="facs_2_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_2" n="2" xml:id="img_0002"/>
+            <pb facs="#facs_2" n="2" xml:id="img_0002"/>
             
-            <ab  facs="#facs_2_r1">
+            <ab facs="#facs_2_r1">
                <lb facs="#facs_2_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_2_r1l2" n="N002"/>In obigen Anbringen de ps: 10<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 615 hat sich der <rs type="person" ref="wkfm__10181">Rohrwürth</rs>
                <lb facs="#facs_2_r1l3" n="N003"/>erklährert, das er keinen Compagnon habe.

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_234">
+    <surface ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_234">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0288.jpg" width="2934px" height="4501px"/>
          <zone points="344,242 344,3449 2495,3449 2495,242" rendition="TextRegion" xml:id="facs_234_r1">
             <zone points="983,383 1053,372 1123,365 1193,358 1263,352 1333,348 1403,345 1473,344 1543,342 1613,341 1683,341 1753,339 1823,339 1893,339 1963,339 2033,338 2103,336 2173,335 2243,331 2313,327 2384,323 2384,242 2313,246 2243,250 2173,254 2103,255 2033,257 1963,258 1893,258 1823,258 1753,258 1683,260 1613,260 1543,261 1473,263 1403,264 1333,267 1263,271 1193,277 1123,284 1053,291 983,302" rendition="Line" xml:id="facs_234_r1l1"/>
@@ -68,9 +68,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_234" n="234" xml:id="img_0234"/>
+            <pb facs="#facs_234" n="234" xml:id="img_0234"/>
             
-            <ab  facs="#facs_234_r1">
+            <ab facs="#facs_234_r1">
                <lb facs="#facs_234_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_234_r1l2" n="N002"/>Unterm 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbris</abbr></choice> 763 hat sich der <rs type="person" ref="wkfm__43969">Joseph v. Patuzzi</rs>
                <lb facs="#facs_234_r1l3" n="N003"/>erkläret, daß er sich den<rs type="person" ref="wkfm__43973"> Bartholomaeum Antegnati</rs>

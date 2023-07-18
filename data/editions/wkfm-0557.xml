@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3077" lry="4511" xml:id="facs_57">
+    <surface ulx="0" uly="0" lrx="3077" lry="4511" xml:id="facs_57">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0557.jpg" width="3077px" height="4511px"/>
          <zone points="218,273 218,3114 2852,3114 2852,273" rendition="TextRegion" xml:id="facs_57_r2">
             <zone points="2688,460 2715,460 2742,460 2770,462 2797,462 2824,460 2852,459 2852,365 2824,366 2797,368 2770,368 2742,366 2715,366 2688,366" rendition="Line" xml:id="facs_57_r2l2" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_57" n="57" xml:id="img_0057"/>
+            <pb facs="#facs_57" n="57" xml:id="img_0057"/>
             
-            <ab  facs="#facs_57_r2">
+            <ab facs="#facs_57_r2">
                <lb facs="#facs_57_r2l2" n="N001"/>276
                <lb facs="#facs_57_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_57_r2l3" n="N003"/><rs type="person" ref="wkfm__46233">Thenhalter Matthias</rs> burgerlicher Leinwathandler

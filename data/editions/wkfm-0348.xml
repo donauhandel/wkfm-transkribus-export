@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_28">
+    <surface ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_28">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0348.jpg" width="2934px" height="4501px"/>
          <zone points="306,239 306,3392 2850,3392 2850,239" rendition="TextRegion" xml:id="facs_28_r1">
             <zone points="1007,366 1079,360 1151,354 1223,351 1296,348 1368,347 1440,347 1513,347 1585,347 1657,348 1730,348 1802,350 1874,351 1946,351 2019,351 2091,350 2163,349 2236,347 2308,343 2380,337 2453,330 2453,239 2380,246 2308,252 2236,256 2163,258 2091,259 2019,260 1946,260 1874,260 1802,259 1730,257 1657,257 1585,256 1513,256 1440,256 1368,256 1296,257 1223,260 1151,263 1079,269 1007,275" rendition="Line" xml:id="facs_28_r1l1"/>
@@ -70,9 +70,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_28" n="28" xml:id="img_0028"/>
+            <pb facs="#facs_28" n="28" xml:id="img_0028"/>
             
-            <ab  facs="#facs_28_r1">
+            <ab facs="#facs_28_r1">
                <lb facs="#facs_28_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_28_r1l2" n="N002"/>In obigen Anbringen de ps: 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 1894 hat sich der <rs type="person" ref="wkfm__46109">Eber-
                <lb break="no" facs="#facs_28_r1l3" n="N003"/>hard Krahmer</rs> und <rs type="person" ref="wkfm__8331">Thomas Wellner</rs> erklähret das sie ausser ihnen

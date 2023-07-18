@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2893" lry="4398" xml:id="facs_12">
+    <surface ulx="0" uly="0" lrx="2893" lry="4398" xml:id="facs_12">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1866.jpg" width="2893px" height="4398px"/>
          <zone points="116,105 116,3270 2744,3268 2744,103" rendition="TextRegion" xml:id="facs_12_r1">
             <zone points="968,227 1031,220 1095,216 1158,212 1222,211 1286,211 1349,211 1413,212 1476,214 1540,216 1604,218 1667,221 1731,223 1794,225 1858,227 1922,227 1985,227 2049,226 2112,224 2176,220 2240,214 2240,108 2176,114 2112,118 2049,120 1985,121 1922,121 1858,121 1794,119 1731,117 1667,115 1604,112 1540,110 1476,108 1413,106 1349,105 1286,105 1222,105 1158,106 1095,110 1031,114 968,121" rendition="Line" xml:id="facs_12_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_12" n="12" xml:id="img_0012"/>
+            <pb facs="#facs_12" n="12" xml:id="img_0012"/>
             
-            <ab  facs="#facs_12_r1">
+            <ab facs="#facs_12_r1">
                <lb facs="#facs_12_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_12_r1l3" n="N002"/>In obigen Anbringen de ps: 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 862 hat sich der <rs type="person" ref="wkfm__15480">Leidesdorfer</rs>
                <lb facs="#facs_12_r1l4" n="N003"/>erklähret, daß er mit niemand in Compagnie stehe.

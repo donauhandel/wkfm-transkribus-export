@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2973" lry="4468" xml:id="facs_93">
+    <surface ulx="0" uly="0" lrx="2973" lry="4468" xml:id="facs_93">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1799.jpg" width="2973px" height="4468px"/>
          <zone points="92,216 92,4329 2823,4328 2823,215" rendition="TextRegion" xml:id="facs_93_r1">
             <zone points="2642,329 2820,329 2820,476 2642,476" rendition="Line" xml:id="facs_93_line_1626244997569_66" subtype="page-number"/>
@@ -80,9 +80,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_93" n="93" xml:id="img_0093"/>
+            <pb facs="#facs_93" n="93" xml:id="img_0093"/>
             
-            <ab  facs="#facs_93_r1">
+            <ab facs="#facs_93_r1">
                <lb facs="#facs_93_line_1626244997569_66" n="N001"/>892
                <lb facs="#facs_93_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_93_r1l2" n="N003"/><rs type="person" ref="wkfm__47018">Wannerer Andre</rs> burgerlicher Handlsmann
@@ -94,10 +94,10 @@
                <lb facs="#facs_93_r1l9" n="N009"/>Der <rs type="person" ref="wkfm__47018">Wannerer</rs> hat zu ausweisung seines Handlungs Fundi ein von
                <lb facs="#facs_93_r1l10" n="N010"/>der <rs type="person" ref="wkfm__47020">Maria Antonia Wagnerin</rs> untern 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 741 ausgestelte be-
                <lb facs="#facs_93_r1l11" n="N011"/>kantnuß N<hi style="superscript">o</hi> 1804 in Copia vidimata, das sie ihm <rs type="person" ref="wkfm__47018">Wannerer</rs> an rukstän-
-               <lb facs="#facs_93_r1l12" n="N012"/>digen salario und legat von ihren <comment comment="Gemeint\u0020ist\u0020wohl\u0020\u0022Ehewirten\u0022">Ehewirthin</comment> 800 fl dann auf anweisung
+               <lb facs="#facs_93_r1l12" n="N012"/>digen salario und legat von ihren <seg type="editorial_comment_seg">Ehewirthin<note type="editorial_comment_note">Gemeint ist wohl Ehewirten</note></seg> 800 fl dann auf anweisung
                <lb facs="#facs_93_r1l13" n="N013"/>seiner Mutter 600 fl zusamen zu bezahlen schuldig seye 1400 fl
                <lb facs="#facs_93_r1l14" n="N014"/>zu Completirung des übrigen hat dessen Ehewirthin <rs type="person" ref="wkfm__47021"><unclear>Clara</unclear>
-               <lb break="no" facs="#facs_93_r1l15" n="N015"/><unclear>laisia</unclear></rs> das <choice><expan/><abbr>orig:</abbr></choice> <comment comment="wahrscheinlich\u0020\u0022Certiorirte\u0022">Cortiorirte</comment> Instrument dd<hi style="superscript">to</hi> 26<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 741
+               <lb break="no" facs="#facs_93_r1l15" n="N015"/><unclear>laisia</unclear></rs> das <choice><expan/><abbr>orig:</abbr></choice> <seg type="editorial_comment_seg">Cortiorirte<note type="editorial_comment_note">wahrscheinlich Certiorirte</note></seg> Instrument dd<hi style="superscript">to</hi> 26<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 741
                <lb facs="#facs_93_r1l17" n="N016"/>N<hi style="superscript">o</hi> 1805 <hi>das se</hi> eingelegten <hi>eingeleg</hi> das sie von der ihr eigenthumlich zuge-
                <lb facs="#facs_93_r1l18" n="N017"/><unclear>hörigen</unclear> Halbscheid des Vermögens zur Sicherheit deren Creditoren
                <lb facs="#facs_93_r1l19" n="N018"/>gewidmet haben wolle 2000 fl

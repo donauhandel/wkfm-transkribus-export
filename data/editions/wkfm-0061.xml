@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3087" lry="4530" xml:id="facs_8">
+    <surface ulx="0" uly="0" lrx="3087" lry="4530" xml:id="facs_8">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0061.jpg" width="3087px" height="4530px"/>
          <zone points="477,232 477,3330 2868,3330 2868,232" rendition="TextRegion" xml:id="facs_8_r1">
             <zone points="759,385 835,383 911,381 987,377 1063,373 1139,370 1215,367 1291,363 1367,358 1443,355 1519,350 1595,347 1671,343 1747,339 1823,335 1899,331 1975,328 2051,324 2127,321 2203,318 2280,316 2280,232 2203,234 2127,237 2051,240 1975,244 1899,247 1823,251 1747,255 1671,259 1595,263 1519,266 1443,271 1367,274 1291,279 1215,283 1139,286 1063,289 987,293 911,297 835,299 759,301" rendition="Line" xml:id="facs_8_r1l1"/>
@@ -74,9 +74,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_8" n="8" xml:id="img_0008"/>
+            <pb facs="#facs_8" n="8" xml:id="img_0008"/>
             
-            <ab  facs="#facs_8_r1">
+            <ab facs="#facs_8_r1">
                <lb facs="#facs_8_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_8_r1l2" n="N002"/>In obigen Anbringen de ps: 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 28 hat der <rs type="person" ref="wkfm__9684">Brandeg[sky]</rs>
                <lb facs="#facs_8_r1l3" n="N003"/>sich erklähret das er keinen Compagnon habe

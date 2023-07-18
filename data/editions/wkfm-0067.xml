@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2849" lry="4530" xml:id="facs_14">
+    <surface ulx="0" uly="0" lrx="2849" lry="4530" xml:id="facs_14">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0067.jpg" width="2849px" height="4530px"/>
          <zone points="290,289 290,3371 2712,3371 2712,289" rendition="TextRegion" xml:id="facs_14_r1">
             <zone points="816,341 901,341 986,341 1071,341 1156,341 1242,341 1327,341 1412,343 1497,343 1582,344 1668,346 1753,347 1838,350 1923,352 2008,355 2094,358 2179,361 2264,364 2349,367 2435,371 2435,319 2349,315 2264,312 2179,309 2094,306 2008,303 1923,300 1838,298 1753,295 1668,294 1582,292 1497,291 1412,291 1327,289 1242,289 1156,289 1071,289 986,289 901,289 816,289" rendition="Line" xml:id="facs_14_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_14" n="14" xml:id="img_0014"/>
+            <pb facs="#facs_14" n="14" xml:id="img_0014"/>
             
-            <ab  facs="#facs_14_r1">
+            <ab facs="#facs_14_r1">
                <lb facs="#facs_14_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_14_line_1628381000201_430" n="N002"/>In obigen Anbringen de ps: 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 886 hat sich der <rs type="person" ref="wkfm__8412">Prunner</rs> erklähr[t]
                <lb facs="#facs_14_r1l4" n="N003"/>das er seine Handlung für sich allein führe.

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2954" lry="4435" xml:id="facs_68">
+    <surface ulx="0" uly="0" lrx="2954" lry="4435" xml:id="facs_68">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0121.jpg" width="2954px" height="4435px"/>
          <zone points="608,153 608,3287 2859,3287 2859,153" rendition="TextRegion" xml:id="facs_68_r1">
             <zone points="1047,278 1123,275 1200,272 1277,271 1354,270 1430,270 1507,270 1584,272 1661,273 1737,273 1814,276 1891,278 1968,279 2044,282 2121,284 2198,285 2275,287 2351,288 2428,288 2505,288 2582,288 2582,171 2505,171 2428,171 2351,171 2275,170 2198,168 2121,167 2044,165 1968,162 1891,161 1814,159 1737,156 1661,156 1584,155 1507,153 1430,153 1354,153 1277,154 1200,155 1123,158 1047,161" rendition="Line" xml:id="facs_68_r1l1"/>
@@ -66,11 +66,11 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_68" n="68" xml:id="img_0068"/>
+            <pb facs="#facs_68" n="68" xml:id="img_0068"/>
             
-            <ab  facs="#facs_68_r1">
+            <ab facs="#facs_68_r1">
                <lb facs="#facs_68_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
-               <lb facs="#facs_68_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 52 hat sich der <comment comment="Polzer"><rs type="person" ref="wkfm__43853">P</rs></comment>
+               <lb facs="#facs_68_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 52 hat sich der <seg type="editorial_comment_seg"><rs type="person" ref="wkfm__43853">P</rs><note type="editorial_comment_note">Polzer</note></seg>
                <lb facs="#facs_68_r1l3" n="N003"/>geäussert das er seine Handlung ohne Compagnon führe
                <lb facs="#facs_68_r1l4" n="N004"/><seg type="wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_68_r1l5" n="N005"/><seg type="other_notes">Anmerkungen</seg>

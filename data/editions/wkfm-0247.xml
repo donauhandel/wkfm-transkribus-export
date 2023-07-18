@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2991" lry="4541" xml:id="facs_193">
+    <surface ulx="0" uly="0" lrx="2991" lry="4541" xml:id="facs_193">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0247.jpg" width="2991px" height="4541px"/>
          <zone points="99,104 102,4145 2783,4145 2780,104" rendition="TextRegion" xml:id="facs_193_r1">
             <zone points="2636,129 2775,129 2775,233 2636,233" rendition="Line" xml:id="facs_193_line_1629708558254_938" subtype="page-number"/>
@@ -79,9 +79,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_193" n="193" xml:id="img_0193"/>
+            <pb facs="#facs_193" n="193" xml:id="img_0193"/>
             
-            <ab  facs="#facs_193_r1">
+            <ab facs="#facs_193_r1">
                <lb facs="#facs_193_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_193_r1l2" n="N003"/><rs type="person" ref="wkfm__43940">Praun Johann</rs> burgerlicher Handlsmann
                <lb facs="#facs_193_r1l3" n="N004"/>Firma oder Raggion

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3095" lry="4496" xml:id="facs_45">
+    <surface ulx="0" uly="0" lrx="3095" lry="4496" xml:id="facs_45">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0713.jpg" width="3095px" height="4496px"/>
          <zone points="149,229 149,3019 2834,3019 2834,229" rendition="TextRegion" xml:id="facs_45_r2">
             <zone points="2640,472 2666,470 2693,470 2719,471 2746,472 2772,472 2799,470 2799,392 2772,394 2746,394 2719,393 2693,392 2666,392 2640,394" rendition="Line" xml:id="facs_45_r2l2" subtype="page-number"/>
@@ -73,9 +73,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_45" n="45" xml:id="img_0045"/>
+            <pb facs="#facs_45" n="45" xml:id="img_0045"/>
             
-            <ab  facs="#facs_45_r2">
+            <ab facs="#facs_45_r2">
                <lb facs="#facs_45_r2l2" n="N001"/>354
                <lb facs="#facs_45_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_45_r2l3" n="N003"/><rs type="person" ref="wkfm__9128">Veronese Georg</rs> burgerlicher Handlsmann

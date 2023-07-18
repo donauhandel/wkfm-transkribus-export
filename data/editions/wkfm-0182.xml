@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2982" lry="4464" xml:id="facs_129">
+    <surface ulx="0" uly="0" lrx="2982" lry="4464" xml:id="facs_129">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0182.jpg" width="2982px" height="4464px"/>
          <graphic url="" width="2982px" height="4464px"/>
          <zone points="183,184 183,3032 2568,3032 2568,184" rendition="TextRegion" xml:id="facs_129_r1">
@@ -73,9 +73,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_129" n="129" xml:id="img_0129"/>
+            <pb facs="#facs_129" n="129" xml:id="img_0129"/>
             
-            <ab  facs="#facs_129_r1">
+            <ab facs="#facs_129_r1">
                <lb facs="#facs_129_r1l1" n="N001"/>89
                <lb facs="#facs_129_r1l2" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_129_r1l3" n="N003"/><rs type="person" ref="wkfm__43894">Peter Johann Joseph</rs> burgerlicher Handlsmann

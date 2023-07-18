@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_78">
+    <surface ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_78">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0746.jpg" width="2994px" height="4530px"/>
          <zone points="426,248 426,3417 2886,3417 2886,248" rendition="TextRegion" xml:id="facs_78_r1">
             <zone points="1337,368 1393,364 1449,361 1506,359 1562,357 1619,355 1675,354 1731,353 1788,353 1844,353 1901,353 1957,353 2013,353 2070,351 2126,351 2183,351 2239,350 2295,348 2352,345 2408,344 2465,339 2465,248 2408,253 2352,254 2295,257 2239,259 2183,260 2126,260 2070,260 2013,262 1957,262 1901,262 1844,262 1788,262 1731,262 1675,263 1619,264 1562,266 1506,268 1449,270 1393,273 1337,277" rendition="Line" xml:id="facs_78_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_78" n="78" xml:id="img_0078"/>
+            <pb facs="#facs_78" n="78" xml:id="img_0078"/>
             
-            <ab  facs="#facs_78_r1">
+            <ab facs="#facs_78_r1">
                <lb facs="#facs_78_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_78_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 10<hi style="superscript">ten</hi> Junii 733 N<hi style="superscript">o</hi> 352 hat sich
                <lb facs="#facs_78_r1l3" n="N003"/>der <rs type="person" ref="wkfm__12455"><unclear>Varena</unclear></rs> geäusseret, daß er seine Handlung ohne Com-

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4442" xml:id="facs_48">
+    <surface ulx="0" uly="0" lrx="2994" lry="4442" xml:id="facs_48">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0860.jpg" width="2994px" height="4442px"/>
          <zone points="338,171 338,3392 2856,3392 2856,171" rendition="TextRegion" xml:id="facs_48_r1">
             <zone points="1289,299 1353,297 1417,297 1481,296 1545,296 1610,296 1674,296 1738,294 1802,294 1866,293 1931,293 1995,291 2059,290 2123,288 2187,287 2252,285 2316,283 2380,280 2444,278 2508,274 2573,270 2573,171 2508,175 2444,179 2380,181 2316,184 2252,186 2187,188 2123,189 2059,191 1995,192 1931,194 1866,194 1802,195 1738,195 1674,197 1610,197 1545,197 1481,197 1417,198 1353,198 1289,200" rendition="Line" xml:id="facs_48_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_48" n="48" xml:id="img_0048"/>
+            <pb facs="#facs_48" n="48" xml:id="img_0048"/>
             
-            <ab  facs="#facs_48_r1">
+            <ab facs="#facs_48_r1">
                <lb facs="#facs_48_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_48_r1l2" n="N002"/>In obigen Anbringen de ps: 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 725 N<hi style="superscript">o</hi> 403 hat sich 
                <lb facs="#facs_48_r1l3" n="N003"/>der <rs type="person" ref="wkfm__46327">Golthann</rs> erklähret, daß er seine Handlung ohne Com-

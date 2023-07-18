@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3095" lry="4496" xml:id="facs_13">
+    <surface ulx="0" uly="0" lrx="3095" lry="4496" xml:id="facs_13">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0681.jpg" width="3095px" height="4496px"/>
          <zone points="143,207 143,3509 2918,3509 2918,207" rendition="TextRegion" xml:id="facs_13_r2">
             <zone points="2724,383 2750,382 2777,380 2804,380 2831,380 2858,380 2885,379 2885,327 2858,328 2831,328 2804,328 2777,328 2750,330 2724,331" rendition="Line" xml:id="facs_13_r2l2" subtype="page-number"/>
@@ -90,9 +90,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_13" n="13" xml:id="img_0013"/>
+            <pb facs="#facs_13" n="13" xml:id="img_0013"/>
             
-            <ab  facs="#facs_13_r2">
+            <ab facs="#facs_13_r2">
                <lb facs="#facs_13_r2l2" n="N001"/>338
                <lb facs="#facs_13_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_13_r2l3" n="N003"/><rs type="person" ref="wkfm__1115">Ferroni Johann Baptist</rs>

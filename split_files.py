@@ -1,10 +1,13 @@
 import os
 import shutil
 import glob
+import lxml.etree as ET
+
 from jinja2 import Environment, FileSystemLoader
 from tqdm import tqdm
-import lxml.etree as ET
 from acdh_tei_pyutils.tei import TeiReader
+from saxonche import PySaxonProcessor
+
 
 environment = Environment(loader=FileSystemLoader("./"))
 template = environment.get_template("template.j2")
@@ -12,6 +15,7 @@ template = environment.get_template("template.j2")
 editions = os.path.join("data", "editions")
 shutil.rmtree(editions, ignore_errors=True)
 os.makedirs(editions, exist_ok=True)
+XSLT = "./fix_comment.xsl"
 
 headings = (
     ("/>Nahmen und Class", '/><seg type="name">Nahmen und Class</seg>'),
@@ -64,5 +68,10 @@ for i, x in enumerate(tqdm(files)):
             "ab_node": ab_text,
         }
         content = template.render(**page)
-        with open(os.path.join(editions, f"wkfm-{img_id}.xml"), "w") as f:
-            f.write(content)
+        with PySaxonProcessor(license=False) as proc:
+            xsltproc = proc.new_xslt30_processor()
+            document = proc.parse_xml(xml_text=content)
+            executable = xsltproc.compile_stylesheet(stylesheet_file=XSLT)
+            output = executable.transform_to_string(xdm_node=document).replace(r"\u0022", "")
+            with open(os.path.join(editions, f"wkfm-{img_id}.xml"), "w") as f:
+                f.write(output)

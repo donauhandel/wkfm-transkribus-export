@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2886" lry="4476" xml:id="facs_62">
+    <surface ulx="0" uly="0" lrx="2886" lry="4476" xml:id="facs_62">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1768.jpg" width="2886px" height="4476px"/>
          <zone points="188,252 188,3461 2757,3461 2757,252" rendition="TextRegion" xml:id="facs_62_r1">
             <zone points="984,419 1047,410 1110,403 1173,398 1237,394 1300,391 1363,388 1426,386 1490,386 1553,385 1616,385 1679,385 1743,385 1806,385 1869,383 1932,383 1996,381 2059,379 2122,376 2185,372 2249,367 2249,252 2185,257 2122,261 2059,264 1996,266 1932,268 1869,268 1806,270 1743,270 1679,270 1616,270 1553,270 1490,271 1426,271 1363,273 1300,276 1237,279 1173,283 1110,288 1047,295 984,304" rendition="Line" xml:id="facs_62_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_62" n="62" xml:id="img_0062"/>
+            <pb facs="#facs_62" n="62" xml:id="img_0062"/>
             
-            <ab  facs="#facs_62_r1">
+            <ab facs="#facs_62_r1">
                <lb facs="#facs_62_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_62_r1l2" n="N002"/>In obigen Anbringen de ps: 12<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 728 N<hi style="superscript">o</hi> 811 hat sich der <rs type="person" ref="wkfm__46992">Weigl</rs>
                <lb facs="#facs_62_r1l3" n="N003"/>erklähret, das er keinen Compagnon habe

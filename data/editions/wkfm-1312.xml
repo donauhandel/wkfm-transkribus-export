@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2940" lry="4464" xml:id="facs_20">
+    <surface ulx="0" uly="0" lrx="2940" lry="4464" xml:id="facs_20">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1312.jpg" width="2940px" height="4464px"/>
          <graphic url="" width="2940px" height="4464px"/>
          <zone points="254,137 254,3248 2796,3248 2796,137" rendition="TextRegion" xml:id="facs_20_r1">
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_20" n="20" xml:id="img_0020"/>
+            <pb facs="#facs_20" n="20" xml:id="img_0020"/>
             
-            <ab  facs="#facs_20_r1">
+            <ab facs="#facs_20_r1">
                <lb facs="#facs_20_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_20_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> Junii 733 N<hi style="superscript">o</hi> 2014 hat sich der
                <lb facs="#facs_20_r1l3" n="N003"/><rs type="person" ref="wkfm__46661">Neuner</rs> <hi>mit dem Lucas</hi> erklähret, das der <rs type="person" ref="wkfm__8802">Lucas Joseph Setti</rs> sein

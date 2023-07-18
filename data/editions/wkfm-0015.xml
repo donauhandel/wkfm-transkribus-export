@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2934" lry="4530" xml:id="facs_10">
+    <surface ulx="0" uly="0" lrx="2934" lry="4530" xml:id="facs_10">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0015.jpg" width="2934px" height="4530px"/>
          <zone points="306,329 306,3471 2762,3471 2762,329" rendition="TextRegion" xml:id="facs_10_r1">
             <zone points="891,435 961,432 1031,431 1101,429 1172,429 1242,431 1312,432 1383,434 1453,435 1523,438 1594,440 1664,443 1734,446 1804,448 1875,451 1945,453 2015,455 2086,457 2156,458 2226,459 2297,459 2297,359 2226,359 2156,358 2086,357 2015,355 1945,353 1875,351 1804,348 1734,346 1664,343 1594,340 1523,338 1453,335 1383,334 1312,332 1242,331 1172,329 1101,329 1031,331 961,332 891,335" rendition="Line" xml:id="facs_10_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_10" n="10" xml:id="img_0010"/>
+            <pb facs="#facs_10" n="10" xml:id="img_0010"/>
             
-            <ab  facs="#facs_10_r1">
+            <ab facs="#facs_10_r1">
                <lb facs="#facs_10_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_10_r1l2" n="N002"/>Laut obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 5 hat sich der
                <lb facs="#facs_10_r1l3" n="N003"/><rs type="person" ref="wkfm__8584">Amadej </rs>erklähret daß er ohne jemanden andern für sich <unclear>eigner</unclear>

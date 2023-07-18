@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3108" lry="4477" xml:id="facs_23">
+    <surface ulx="0" uly="0" lrx="3108" lry="4477" xml:id="facs_23">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1481.jpg" width="3108px" height="4477px"/>
          <zone points="219,123 219,2954 2814,2954 2814,123" rendition="TextRegion" xml:id="facs_23_r2">
             <zone points="2667,364 2696,370 2725,373 2755,373 2784,374 2814,376 2814,279 2784,277 2755,276 2725,276 2696,273 2667,267" rendition="Line" xml:id="facs_23_r2l2" subtype="page-number"/>
@@ -70,9 +70,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_23" n="23" xml:id="img_0023"/>
+            <pb facs="#facs_23" n="23" xml:id="img_0023"/>
             
-            <ab  facs="#facs_23_r2">
+            <ab facs="#facs_23_r2">
                <lb facs="#facs_23_r2l2" n="N001"/>733
                <lb facs="#facs_23_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_23_r2l3" n="N003"/><rs type="person" ref="wkfm__47411">Schickh Michäl <choice><expan/><abbr>seel:</abbr></choice> Erben</rs> burgerliche Handlsleuthe

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2954" lry="4493" xml:id="facs_263">
+    <surface ulx="0" uly="0" lrx="2954" lry="4493" xml:id="facs_263">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0317.jpg" width="2954px" height="4493px"/>
          <zone points="116,184 116,4378 2846,4378 2846,184" rendition="TextRegion" xml:id="facs_263_r1">
             <zone points="2639,320 2724,319 2773,317 2773,387 2724,389 2639,390" rendition="Line" xml:id="facs_263_line_1621475717834_6031" subtype="page-number"/>
@@ -84,9 +84,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_263" n="263" xml:id="img_0263"/>
+            <pb facs="#facs_263" n="263" xml:id="img_0263"/>
             
-            <ab  facs="#facs_263_r1">
+            <ab facs="#facs_263_r1">
                <lb facs="#facs_263_line_1621475717834_6031" n="N001"/>156
                <lb facs="#facs_263_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_263_line_1621475719322_6036" n="N003"/><rs type="person" ref="wkfm__44045">Braun Franz Ignaz</rs> burgerlicher Handlsmann

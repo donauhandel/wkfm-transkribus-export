@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2963" lry="4566" xml:id="facs_23">
+    <surface ulx="0" uly="0" lrx="2963" lry="4566" xml:id="facs_23">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0643.jpg" width="2963px" height="4566px"/>
          <zone points="182,239 182,3054 2795,3054 2795,239" rendition="TextRegion" xml:id="facs_23_r1">
             <zone points="2645,473 2670,474 2695,474 2720,474 2745,474 2770,474 2795,473 2795,383 2770,384 2745,384 2720,384 2695,384 2670,384 2645,383" rendition="Line" xml:id="facs_23_r1l2" subtype="page-number"/>
@@ -71,9 +71,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_23" n="23" xml:id="img_0023"/>
+            <pb facs="#facs_23" n="23" xml:id="img_0023"/>
             
-            <ab  facs="#facs_23_r1">
+            <ab facs="#facs_23_r1">
                <lb facs="#facs_23_r1l2" n="N001"/>319
                <lb facs="#facs_23_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_23_r1l3" n="N003"/><rs type="person" ref="wkfm__40592">Entner Johann Carl</rs> burgerlicher Handsmann

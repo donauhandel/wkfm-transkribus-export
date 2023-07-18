@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_40">
+    <surface ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_40">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0708.jpg" width="2994px" height="4530px"/>
          <zone points="432,204 432,3379 2922,3379 2922,204" rendition="TextRegion" xml:id="facs_40_r1">
             <zone points="1176,340 1237,335 1298,332 1359,330 1420,328 1481,328 1542,328 1603,328 1664,328 1725,329 1786,331 1847,332 1908,334 1969,335 2030,335 2091,337 2152,338 2213,338 2274,338 2335,337 2397,335 2397,211 2335,213 2274,214 2213,214 2152,214 2091,213 2030,211 1969,211 1908,210 1847,208 1786,207 1725,205 1664,204 1603,204 1542,204 1481,204 1420,204 1359,206 1298,208 1237,211 1176,216" rendition="Line" xml:id="facs_40_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_40" n="40" xml:id="img_0040"/>
+            <pb facs="#facs_40" n="40" xml:id="img_0040"/>
             
-            <ab  facs="#facs_40_r1">
+            <ab facs="#facs_40_r1">
                <lb facs="#facs_40_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_40_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 335 hat sich
                <lb facs="#facs_40_r1l3" n="N003"/>der <rs type="person" ref="wkfm__47079">Frankh</rs> geäusseret daß er für sich allein handle und mit

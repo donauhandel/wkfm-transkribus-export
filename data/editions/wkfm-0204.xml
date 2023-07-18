@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3039" lry="4473" xml:id="facs_151">
+    <surface ulx="0" uly="0" lrx="3039" lry="4473" xml:id="facs_151">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0204.jpg" width="3039px" height="4473px"/>
          <zone points="176,145 176,2974 2462,2974 2462,145" rendition="TextRegion" xml:id="facs_151_r1">
             <zone points="2312,262 2342,254 2373,249 2404,245 2435,241 2435,145 2404,149 2373,153 2342,158 2312,166" rendition="Line" xml:id="facs_151_r1l1" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_151" n="151" xml:id="img_0151"/>
+            <pb facs="#facs_151" n="151" xml:id="img_0151"/>
             
-            <ab  facs="#facs_151_r1">
+            <ab facs="#facs_151_r1">
                <lb facs="#facs_151_r1l1" n="N001"/>100
                <lb facs="#facs_151_r1l2" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_151_r1l3" n="N003"/><rs type="person" ref="wkfm__12565">Praun Andre</rs> burgerlicher Handlsmann

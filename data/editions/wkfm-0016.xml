@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2973" lry="4511" xml:id="facs_11">
+    <surface ulx="0" uly="0" lrx="2973" lry="4511" xml:id="facs_11">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0016.jpg" width="2973px" height="4511px"/>
          <zone points="74,265 74,2974 2757,2974 2757,265" rendition="TextRegion" xml:id="facs_11_r1">
             <zone points="2716,239 2871,239 2868,311 2716,311" rendition="Line" xml:id="facs_11_line_1619464379213_70" subtype="page-number"/>
@@ -79,9 +79,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_11" n="11" xml:id="img_0011"/>
+            <pb facs="#facs_11" n="11" xml:id="img_0011"/>
             
-            <ab  facs="#facs_11_r1">
+            <ab facs="#facs_11_r1">
                <lb facs="#facs_11_line_1619464379213_70" n="N001"/>6
                <lb facs="#facs_11_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_11_r1l2" n="N003"/><rs type="person" ref="wkfm__8591">Amadey Külian</rs> burgerlicher Handlsmann
@@ -91,13 +91,13 @@
                <lb facs="#facs_11_r1l6" n="N007"/><rs type="person" ref="wkfm__30445">Herculiano Amadey e Compagno</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 21.
                <lb facs="#facs_11_r1l7" n="N008"/>Procura und Firmae-Trager
                <lb facs="#facs_11_r1l9" n="N009"/>In folge des von dem <rs type="person" ref="wkfm__8591">Amdej</rs> <hi><unclear>eingelegten</unclear></hi> ausgestelten Macht brief dd<hi style="superscript">to</hi> 30<hi style="superscript">ten</hi>
-               <lb facs="#facs_11_line_1621240128497_156" n="N010"/>May <comment comment="Anschließend\u0020einzufügen\u003a\u0020No\u0020879.">729</comment>
-               <lb facs="#facs_11_r1l8" n="N011"/><comment comment="Bezieht\u0020sich\u0020auf\u0020das\u0020Folgende\u0020879.">N<hi style="superscript">o</hi></comment>
-               <lb facs="#facs_11_r1l10" n="N012"/><comment comment="Machtbrief\u0020vom\u002030.\u0020Mai\u00201729\u0020Nr.\u0020879">879</comment>
+               <lb facs="#facs_11_line_1621240128497_156" n="N010"/>May <seg type="editorial_comment_seg">729<note type="editorial_comment_note">Anschließend einzufügen\u003a No 879.</note></seg>
+               <lb facs="#facs_11_r1l8" n="N011"/><seg type="editorial_comment_seg">N<hi style="superscript">o</hi><note type="editorial_comment_note">Bezieht sich auf das Folgende 879.</note></seg>
+               <lb facs="#facs_11_r1l10" n="N012"/><seg type="editorial_comment_seg">879<note type="editorial_comment_note">Machtbrief vom 30. Mai 1729 Nr. 879</note></seg>
                <lb facs="#facs_11_line_1621240128497_155" n="N013"/>hat selber dem <rs type="person" ref="wkfm__43783">Melchior Spettel</rs> seinen bedienten wehrend seiner Abwe-
                <lb facs="#facs_11_r1l12" n="N014"/>senheit in Italien die Procura und Firma ertheilet auf diesen Macht brief
                <lb facs="#facs_11_line_1628196032760_562" n="N015"/>mitls des Anbringen de ps: 2<hi style="superscript">ten</hi> <choice><expan/><abbr>Jun:</abbr></choice> 729 <hi>No 888</hi> No 880 zu Mercantil gerichts Handen einge
-               <lb facs="#facs_11_r1l15" n="N016"/><comment comment="Es\u0020folgt\u0020eine\u0020unlesbare\u0020Streichung.">leget</comment> <hi>sub N<hi style="superscript"/></hi>o
+               <lb facs="#facs_11_r1l15" n="N016"/><seg type="editorial_comment_seg">leget<note type="editorial_comment_note">Es folgt eine unlesbare Streichung.</note></seg> <hi>sub N<hi style="superscript"/></hi>o
                <lb facs="#facs_11_r1l16" n="N017"/>Ablatorien und Avocatorien
                <lb facs="#facs_11_r1l17" n="N018"/><seg type="fundi">Fundi Ausweisung</seg>
             </ab>

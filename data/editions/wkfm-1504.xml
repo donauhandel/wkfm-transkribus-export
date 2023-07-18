@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2929" lry="4455" xml:id="facs_46">
+    <surface ulx="0" uly="0" lrx="2929" lry="4455" xml:id="facs_46">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1504.jpg" width="2929px" height="4455px"/>
          <zone points="285,162 285,3283 2766,3283 2766,162" rendition="TextRegion" xml:id="facs_46_r1">
             <zone points="962,315 1027,309 1093,305 1159,302 1225,300 1291,300 1357,298 1422,300 1488,300 1554,300 1620,300 1686,301 1752,301 1818,300 1883,298 1949,297 2015,293 2081,288 2147,282 2213,275 2279,265 2279,162 2213,172 2147,179 2081,185 2015,190 1949,194 1883,195 1818,197 1752,198 1686,198 1620,197 1554,197 1488,197 1422,197 1357,195 1291,197 1225,197 1159,199 1093,202 1027,206 962,212" rendition="Line" xml:id="facs_46_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_46" n="46" xml:id="img_0046"/>
+            <pb facs="#facs_46" n="46" xml:id="img_0046"/>
             
-            <ab  facs="#facs_46_r1">
+            <ab facs="#facs_46_r1">
                <lb facs="#facs_46_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_46_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 678 hat sich der
                <lb facs="#facs_46_r1l3" n="N003"/><rs type="person" ref="wkfm__47426">Schmidt</rs> geäusseret das er keine Compagnie noch Verständnuß habe

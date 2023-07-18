@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2886" lry="4476" xml:id="facs_32">
+    <surface ulx="0" uly="0" lrx="2886" lry="4476" xml:id="facs_32">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1738.jpg" width="2886px" height="4476px"/>
          <zone points="179,240 179,3409 2800,3367 2800,198" rendition="TextRegion" xml:id="facs_32_r1">
             <zone points="1002,407 1065,396 1128,388 1192,382 1255,377 1319,375 1382,374 1445,374 1509,375 1572,377 1636,379 1699,382 1762,383 1826,386 1889,388 1953,388 2016,388 2079,386 2143,384 2206,379 2270,373 2270,240 2206,246 2143,251 2079,253 2016,255 1953,255 1889,255 1826,253 1762,250 1699,249 1636,246 1572,244 1509,242 1445,241 1382,241 1319,242 1255,244 1192,249 1128,255 1065,263 1002,274" rendition="Line" xml:id="facs_32_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_32" n="32" xml:id="img_0032"/>
+            <pb facs="#facs_32" n="32" xml:id="img_0032"/>
             
-            <ab  facs="#facs_32_r1">
+            <ab facs="#facs_32_r1">
                <lb facs="#facs_32_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_32_r1l3" n="N002"/>In obiger Erkährung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 798 hat sich der
                <lb facs="#facs_32_r1l4" n="N003"/><rs type="person" ref="wkfm__8599">Wagner</rs> geäusseret, das er in keiner societaet stehe

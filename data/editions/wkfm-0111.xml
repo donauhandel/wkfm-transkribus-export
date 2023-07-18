@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2954" lry="4378" xml:id="facs_58">
+    <surface ulx="0" uly="0" lrx="2954" lry="4378" xml:id="facs_58">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0111.jpg" width="2954px" height="4378px"/>
          <zone points="500,98 500,3206 2808,3206 2808,98" rendition="TextRegion" xml:id="facs_58_r1">
             <zone points="788,203 862,205 936,207 1011,209 1085,209 1160,211 1234,212 1308,214 1383,215 1457,216 1532,217 1606,218 1680,220 1755,221 1829,222 1904,223 1978,225 2052,226 2127,229 2201,230 2276,233 2276,128 2201,125 2127,124 2052,121 1978,120 1904,118 1829,117 1755,116 1680,115 1606,113 1532,112 1457,111 1383,110 1308,109 1234,107 1160,106 1085,104 1011,104 936,102 862,100 788,98" rendition="Line" xml:id="facs_58_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_58" n="58" xml:id="img_0058"/>
+            <pb facs="#facs_58" n="58" xml:id="img_0058"/>
             
-            <ab  facs="#facs_58_r1">
+            <ab facs="#facs_58_r1">
                <lb facs="#facs_58_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_58_r1l2" n="N002"/>In obiger Erkährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 47 hat sich der
                <lb facs="#facs_58_r1l3" n="N003"/><rs type="person" ref="wkfm__20719">Brighenti</rs> geäusseret das er keinen Compagnon habe

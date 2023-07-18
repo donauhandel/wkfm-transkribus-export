@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2886" lry="4476" xml:id="facs_80">
+    <surface ulx="0" uly="0" lrx="2886" lry="4476" xml:id="facs_80">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1786.jpg" width="2886px" height="4476px"/>
          <zone points="273,311 273,3426 2802,3426 2802,311" rendition="TextRegion" xml:id="facs_80_r1">
             <zone points="1073,410 1136,404 1200,400 1264,396 1328,395 1392,393 1456,393 1520,395 1584,395 1648,397 1712,399 1775,401 1839,402 1903,404 1967,404 2031,404 2095,402 2159,399 2223,396 2287,391 2351,383 2351,311 2287,319 2223,324 2159,327 2095,330 2031,332 1967,332 1903,332 1839,330 1775,329 1712,327 1648,325 1584,323 1520,323 1456,321 1392,321 1328,323 1264,324 1200,328 1136,332 1073,338" rendition="Line" xml:id="facs_80_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_80" n="80" xml:id="img_0080"/>
+            <pb facs="#facs_80" n="80" xml:id="img_0080"/>
             
-            <ab  facs="#facs_80_r1">
+            <ab facs="#facs_80_r1">
                <lb facs="#facs_80_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_80_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 733 N<hi style="superscript">o</hi> 822 hat sich der
                <lb facs="#facs_80_r1l3" n="N003"/><rs type="person" ref="wkfm__23509">Wolf</rs> geäusseret, daß er seine Handlung ohne Compagnon führe

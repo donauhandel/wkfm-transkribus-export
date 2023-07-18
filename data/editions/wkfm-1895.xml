@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2979" lry="4383" xml:id="facs_41">
+    <surface ulx="0" uly="0" lrx="2979" lry="4383" xml:id="facs_41">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1895.jpg" width="2979px" height="4383px"/>
          <zone points="222,148 222,3006 2769,3006 2769,148" rendition="TextRegion" xml:id="facs_41_r1">
             <zone points="2619,334 2644,331 2669,331 2694,333 2719,334 2744,333 2769,330 2769,219 2744,222 2719,223 2694,222 2669,220 2644,220 2619,223" rendition="Line" xml:id="facs_41_r1l2" subtype="page-number"/>
@@ -71,9 +71,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_41" n="41" xml:id="img_0041"/>
+            <pb facs="#facs_41" n="41" xml:id="img_0041"/>
             
-            <ab  facs="#facs_41_r1">
+            <ab facs="#facs_41_r1">
                <lb facs="#facs_41_r1l2" n="N001"/>940
                <lb facs="#facs_41_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_41_r1l3" n="N003"/><rs type="person" ref="wkfm__14422">Wertheimber Löw </rs>Jud und Kay: <hi>Obe</hi> Factor

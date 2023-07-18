@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3015" lry="4468" xml:id="facs_49">
+    <surface ulx="0" uly="0" lrx="3015" lry="4468" xml:id="facs_49">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1755.jpg" width="3015px" height="4468px"/>
          <zone points="207,157 207,2954 2765,2948 2765,151" rendition="TextRegion" xml:id="facs_49_r1">
             <zone points="2593,206 2761,206 2761,360 2593,360" rendition="Line" xml:id="facs_49_line_1626183171332_819" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_49" n="49" xml:id="img_0049"/>
+            <pb facs="#facs_49" n="49" xml:id="img_0049"/>
             
-            <ab  facs="#facs_49_r1">
+            <ab facs="#facs_49_r1">
                <lb facs="#facs_49_line_1626183171332_819" n="N001"/>870
                <lb facs="#facs_49_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_49_r1l2" n="N003"/><rs type="person" ref="wkfm__24795">Wickhi Johann Georg</rs> burgerlicher Handlsmann

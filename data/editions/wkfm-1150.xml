@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2973" lry="4530" xml:id="facs_50">
+    <surface ulx="0" uly="0" lrx="2973" lry="4530" xml:id="facs_50">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1150.jpg" width="2973px" height="4530px"/>
          <zone points="380,174 380,3368 2907,3368 2907,174" rendition="TextRegion" xml:id="facs_50_r1">
             <zone points="1181,338 1240,335 1300,333 1360,332 1419,330 1479,329 1539,327 1598,326 1658,326 1718,324 1778,323 1837,321 1897,319 1957,317 2016,314 2076,312 2136,309 2195,306 2255,302 2315,297 2375,291 2375,174 2315,180 2255,185 2195,189 2136,192 2076,195 2016,197 1957,200 1897,202 1837,204 1778,206 1718,207 1658,209 1598,209 1539,210 1479,212 1419,213 1360,215 1300,216 1240,218 1181,221" rendition="Line" xml:id="facs_50_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_50" n="50" xml:id="img_0050"/>
+            <pb facs="#facs_50" n="50" xml:id="img_0050"/>
             
-            <ab  facs="#facs_50_r1">
+            <ab facs="#facs_50_r1">
                <lb facs="#facs_50_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_50_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> <choice><expan/><abbr>7br:</abbr></choice> 729 N<hi style="superscript">o</hi> 529 hat sich der <rs type="person" ref="wkfm__25095">Linner</rs>
                <lb facs="#facs_50_r1l3" n="N003"/>geäusseret, daß er seine Handlung ohne Compagnie übernohmen

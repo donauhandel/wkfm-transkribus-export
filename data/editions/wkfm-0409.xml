@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2943" lry="4493" xml:id="facs_89">
+    <surface ulx="0" uly="0" lrx="2943" lry="4493" xml:id="facs_89">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0409.jpg" width="2943px" height="4493px"/>
          <zone points="234,241 234,2984 2709,2984 2709,241" rendition="TextRegion" xml:id="facs_89_r1">
             <zone points="2570,371 2596,376 2622,377 2649,376 2675,375 2702,377 2702,286 2675,284 2649,285 2622,286 2596,285 2570,280" rendition="Line" xml:id="facs_89_r1l2" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_89" n="89" xml:id="img_0089"/>
+            <pb facs="#facs_89" n="89" xml:id="img_0089"/>
             
-            <ab  facs="#facs_89_r1">
+            <ab facs="#facs_89_r1">
                <lb facs="#facs_89_r1l2" n="N001"/>202
                <lb facs="#facs_89_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_89_r1l3" n="N003"/><rs type="person" ref="wkfm__46125">Kern Johann Leopold</rs> burgerlicher Handlsmann

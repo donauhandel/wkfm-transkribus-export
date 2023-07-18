@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3077" lry="4511" xml:id="facs_63">
+    <surface ulx="0" uly="0" lrx="3077" lry="4511" xml:id="facs_63">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0563.jpg" width="3077px" height="4511px"/>
          <graphic url="" width="3077px" height="4511px"/>
          <zone points="216,246 216,3068 2808,3068 2808,246" rendition="TextRegion" xml:id="facs_63_r2">
@@ -71,9 +71,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_63" n="63" xml:id="img_0063"/>
+            <pb facs="#facs_63" n="63" xml:id="img_0063"/>
             
-            <ab  facs="#facs_63_r2">
+            <ab facs="#facs_63_r2">
                <lb facs="#facs_63_r2l2" n="N001"/>279
                <lb facs="#facs_63_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_63_r2l3" n="N003"/><rs type="person" ref="wkfm__10173">Dußel Johann Dominicus</rs> burgerlicher Handlsmann

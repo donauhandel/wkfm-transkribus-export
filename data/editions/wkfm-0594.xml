@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3003" lry="4530" xml:id="facs_94">
+    <surface ulx="0" uly="0" lrx="3003" lry="4530" xml:id="facs_94">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0594.jpg" width="3003px" height="4530px"/>
          <graphic url="" width="3003px" height="4530px"/>
          <zone points="311,235 311,3389 2927,3389 2927,235" rendition="TextRegion" xml:id="facs_94_r1">
@@ -80,9 +80,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_94" n="94" xml:id="img_0094"/>
+            <pb facs="#facs_94" n="94" xml:id="img_0094"/>
             
-            <ab  facs="#facs_94_r1">
+            <ab facs="#facs_94_r1">
                <lb facs="#facs_94_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_94_r1l2" n="N002"/>Mitls Anbringen des ps: 11<hi style="superscript">ten </hi>Junii 742 N<hi style="superscript">o</hi> 1924 et 1925 hat der <rs type="person" ref="wkfm__37748">Joh:
                <lb break="no" facs="#facs_94_r1l3" n="N003"/>Dietschi</rs> und dessen Bruder <rs type="person" ref="wkfm__43997">Johann Georg Dietschi</rs> angezeiget, daß sie

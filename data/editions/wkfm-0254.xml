@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_200">
+    <surface ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_200">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0254.jpg" width="2934px" height="4501px"/>
          <zone points="392,253 392,3397 2856,3397 2856,253" rendition="TextRegion" xml:id="facs_200_r1">
             <zone points="860,403 937,395 1014,388 1091,383 1168,379 1245,374 1322,372 1399,370 1476,370 1553,368 1631,368 1708,368 1785,368 1862,368 1939,367 2016,367 2093,365 2170,362 2247,359 2324,356 2402,350 2402,253 2324,259 2247,262 2170,265 2093,268 2016,270 1939,270 1862,271 1785,271 1708,271 1631,271 1553,271 1476,273 1399,273 1322,275 1245,277 1168,282 1091,286 1014,291 937,298 860,306" rendition="Line" xml:id="facs_200_r1l1"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_200" n="200" xml:id="img_0200"/>
+            <pb facs="#facs_200" n="200" xml:id="img_0200"/>
             
-            <ab  facs="#facs_200_r1">
+            <ab facs="#facs_200_r1">
                <lb facs="#facs_200_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_200_r1l2" n="N002"/>Der <rs type="person" ref="wkfm__43950">Paul Anton Baciler</rs> und <rs type="person" ref="wkfm__43953">Christian Pichler</rs> haben diese socitaets firma
                <lb facs="#facs_200_r1l3" n="N003"/><rs type="person" ref="wkfm__43951">Baciler und Pichler</rs> als ihre gemeinsame Firma mitls anbringen de ps:

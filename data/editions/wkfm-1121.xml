@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3134" lry="4521" xml:id="facs_21">
+    <surface ulx="0" uly="0" lrx="3134" lry="4521" xml:id="facs_21">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1121.jpg" width="3134px" height="4521px"/>
          <zone points="263,209 263,3072 2906,3067 2906,204" rendition="TextRegion" xml:id="facs_21_r3">
             <zone points="2744,439 2771,442 2798,444 2825,446 2852,448 2879,449 2906,451 2906,340 2879,338 2852,337 2825,335 2798,333 2771,331 2744,328" rendition="Line" xml:id="facs_21_r3l2" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_21" n="21" xml:id="img_0021"/>
+            <pb facs="#facs_21" n="21" xml:id="img_0021"/>
             
-            <ab  facs="#facs_21_r3">
+            <ab facs="#facs_21_r3">
                <lb facs="#facs_21_r3l2" n="N001"/>554
                <lb facs="#facs_21_r3l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_21_r3l3" n="N003"/><rs type="person" ref="wkfm__46793">Loiprecht Johann Michäl</rs> hofbefreyter Wachshandler

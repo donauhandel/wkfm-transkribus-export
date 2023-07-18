@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2893" lry="4398" xml:id="facs_20">
+    <surface ulx="0" uly="0" lrx="2893" lry="4398" xml:id="facs_20">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1850.jpg" width="2893px" height="4398px"/>
          <zone points="207,119 207,3552 2439,3552 2439,119" rendition="TextRegion" xml:id="facs_20_r1">
             <zone points="1043,284 1105,274 1168,266 1231,259 1294,253 1357,248 1420,245 1482,242 1545,240 1608,237 1671,236 1734,234 1797,233 1860,231 1922,230 1985,227 2048,224 2111,220 2174,215 2237,210 2300,201 2300,119 2237,128 2174,133 2111,138 2048,142 1985,145 1922,148 1860,149 1797,151 1734,152 1671,154 1608,155 1545,158 1482,160 1420,163 1357,166 1294,171 1231,177 1168,184 1105,192 1043,202" rendition="Line" xml:id="facs_20_r1l1"/>
@@ -73,9 +73,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_20" n="20" xml:id="img_0020"/>
+            <pb facs="#facs_20" n="20" xml:id="img_0020"/>
             
-            <ab  facs="#facs_20_r1">
+            <ab facs="#facs_20_r1">
                <lb facs="#facs_20_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_20_r1l2" n="N002"/><seg type="wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_20_r1l3" n="N003"/><choice><expan/><abbr>Ao:</abbr></choice> 765 hat der <rs type="person" ref="wkfm__43865">Mathias Zacher</rs> seinen mit der <rs type="person" ref="wkfm__43866">Maria Anna

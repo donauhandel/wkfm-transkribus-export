@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3105" lry="4548" xml:id="facs_79">
+    <surface ulx="0" uly="0" lrx="3105" lry="4548" xml:id="facs_79">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1263.jpg" width="3105px" height="4548px"/>
          <zone points="196,144 162,4459 2879,4463 2913,148" rendition="TextRegion" xml:id="facs_79_r1">
             <zone points="2698,246 2907,246 2907,382 2698,382" rendition="Line" xml:id="facs_79_line_1625138424675_187" subtype="page-number"/>
@@ -94,9 +94,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_79" n="79" xml:id="img_0079"/>
+            <pb facs="#facs_79" n="79" xml:id="img_0079"/>
             
-            <ab  facs="#facs_79_r1">
+            <ab facs="#facs_79_r1">
                <lb facs="#facs_79_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_79_r1l2" n="N003"/><rs type="person" ref="wkfm__46543">Mayer Johann Michäl</rs> burgerlicher Handlsmann
                <lb facs="#facs_79_r1l3" n="N004"/>Firma ad Raggion
@@ -106,7 +106,7 @@
                <lb break="no" facs="#facs_79_r1l9" n="N008"/>Höltzl</rs> von beeden sociis <rs type="person" ref="wkfm__46543">Johann Michäl Mayer</rs> und <rs type="person" ref="wkfm__46542">Anton Höltzl</rs> einge-
                <lb facs="#facs_79_r1l10" n="N009"/>leget worden
                <lb facs="#facs_79_r1l11" n="N010"/><seg type="oblatorien">Oblatorien und Avocatorien</seg>
-               <lb facs="#facs_79_line_1625210430011_35" n="N011"/><comment comment="Fortsetzung\u0020der\u0020Rubrik\u0020\u0022Fundi\u0020Ausweisung\u0022">ad rubr: fundi ausweisung</comment>
+               <lb facs="#facs_79_line_1625210430011_35" n="N011"/><seg type="editorial_comment_seg">ad rubr: fundi ausweisung<note type="editorial_comment_note">Fortsetzung der Rubrik Fundi Ausweisung</note></seg>
                <lb facs="#facs_79_r1l13" n="N012"/>Der <rs type="person" ref="wkfm__46543">Mayer</rs> hat nach der Separation von dem <rs type="person" ref="wkfm__46542">Höltzl</rs> seinen fundum mitls des
                <lb facs="#facs_79_r1l14" n="N013"/>untern 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 747 auf 8000 fl beyedigten Extract aus der Billanz N<hi style="superscript">o</hi> 1625 dahin ausgewisen
                <lb facs="#facs_79_r1l15" n="N014"/>daß <hi>ihm</hi> er eigenthumlich besize an dem avanzo <choice><expan/><abbr>pr</abbr></choice> 15992 fl 44 x<hi style="superscript">r</hi> die halbscheid

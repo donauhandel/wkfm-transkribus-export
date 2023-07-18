@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2929" lry="4455" xml:id="facs_86">
+    <surface ulx="0" uly="0" lrx="2929" lry="4455" xml:id="facs_86">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1544.jpg" width="2929px" height="4455px"/>
          <zone points="354,127 354,3374 2844,3374 2844,127" rendition="TextRegion" xml:id="facs_86_r1">
             <zone points="1112,333 1181,326 1251,319 1321,314 1391,309 1460,306 1530,303 1600,302 1670,300 1739,299 1809,297 1879,297 1949,296 2018,294 2088,291 2158,287 2228,284 2297,278 2367,272 2437,262 2507,254 2507,127 2437,135 2367,145 2297,151 2228,157 2158,160 2088,164 2018,167 1949,169 1879,170 1809,170 1739,172 1670,173 1600,175 1530,176 1460,179 1391,182 1321,187 1251,192 1181,199 1112,206" rendition="Line" xml:id="facs_86_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_86" n="86" xml:id="img_0086"/>
+            <pb facs="#facs_86" n="86" xml:id="img_0086"/>
             
-            <ab  facs="#facs_86_r1">
+            <ab facs="#facs_86_r1">
                <lb facs="#facs_86_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_86_r1l2" n="N002"/>In obigen Anbringen de ps: 23<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 725 N<hi style="superscript">o</hi> 698 hat sich 
                <lb facs="#facs_86_r1l3" n="N003"/>der <rs type="person" ref="wkfm__21127">Saurer</rs> erklähret, das er keinen Compagnon habe

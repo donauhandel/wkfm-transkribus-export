@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3003" lry="4530" xml:id="facs_80">
+    <surface ulx="0" uly="0" lrx="3003" lry="4530" xml:id="facs_80">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0580.jpg" width="3003px" height="4530px"/>
          <zone points="261,234 261,3690 2913,3690 2913,234" rendition="TextRegion" xml:id="facs_80_r1">
             <zone points="1095,312 1161,310 1227,309 1293,309 1359,310 1425,310 1491,312 1557,315 1623,317 1689,319 1755,322 1821,325 1887,328 1953,330 2019,332 2085,334 2151,336 2217,336 2283,336 2349,336 2415,333 2415,258 2349,261 2283,261 2217,261 2151,261 2085,259 2019,257 1953,255 1887,253 1821,250 1755,247 1689,244 1623,242 1557,240 1491,237 1425,235 1359,235 1293,234 1227,234 1161,235 1095,237" rendition="Line" xml:id="facs_80_r1l1"/>
@@ -80,9 +80,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_80" n="80" xml:id="img_0080"/>
+            <pb facs="#facs_80" n="80" xml:id="img_0080"/>
             
-            <ab  facs="#facs_80_r1">
+            <ab facs="#facs_80_r1">
                <lb facs="#facs_80_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_80_r1l2" n="N002"/>In obigen <hi>Er</hi> Instrument dd<hi style="superscript">to</hi> 3<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 736 N<hi style="superscript">o</hi> 1354 hat sich der
                <lb facs="#facs_80_r1l3" n="N003"/><rs type="person" ref="wkfm__9344">Anton Matthias Kircher</rs> erklähret, daß er den <rs type="person" ref="wkfm__41599">Johann Peter Togniola</rs>

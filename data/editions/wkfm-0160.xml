@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2945" lry="4407" xml:id="facs_107">
+    <surface ulx="0" uly="0" lrx="2945" lry="4407" xml:id="facs_107">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0160.jpg" width="2945px" height="4407px"/>
          <zone points="156,102 156,2024 2537,2024 2537,102" rendition="TextRegion" xml:id="facs_107_r1">
             <zone points="2445,215 2475,212 2506,209 2537,211 2537,114 2506,112 2475,115 2445,118" rendition="Line" xml:id="facs_107_r1l2" subtype="page-number"/>
@@ -68,9 +68,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_107" n="107" xml:id="img_0107"/>
+            <pb facs="#facs_107" n="107" xml:id="img_0107"/>
             
-            <ab  facs="#facs_107_r1">
+            <ab facs="#facs_107_r1">
                <lb facs="#facs_107_r1l2" n="N001"/>78
                <lb facs="#facs_107_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_107_r1l3" n="N003"/><rs type="person" ref="wkfm__39771">Pänckhl Paul</rs> burgerlicher Handlsmann

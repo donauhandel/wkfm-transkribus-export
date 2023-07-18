@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4437" xml:id="facs_80">
+    <surface ulx="0" uly="0" lrx="2994" lry="4437" xml:id="facs_80">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1000.jpg" width="2994px" height="4437px"/>
          <zone points="315,207 315,3416 2865,3416 2865,207" rendition="TextRegion" xml:id="facs_80_r1">
             <zone points="1097,383 1155,375 1213,368 1272,363 1330,358 1388,355 1447,352 1505,350 1563,349 1622,348 1680,347 1738,347 1797,346 1855,344 1913,343 1972,340 2030,337 2088,332 2147,327 2205,322 2264,313 2264,207 2205,216 2147,221 2088,226 2030,231 1972,234 1913,237 1855,238 1797,240 1738,241 1680,241 1622,242 1563,243 1505,244 1447,246 1388,249 1330,252 1272,257 1213,262 1155,269 1097,277" rendition="Line" xml:id="facs_80_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_80" n="80" xml:id="img_0080"/>
+            <pb facs="#facs_80" n="80" xml:id="img_0080"/>
             
-            <ab  facs="#facs_80_r1">
+            <ab facs="#facs_80_r1">
                <lb facs="#facs_80_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_80_r1l2" n="N002"/>In obiger Erklahrung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 728 N<hi style="superscript">o</hi> 461 hat sich der 
                <lb facs="#facs_80_r1l3" n="N003"/><rs type="person" ref="wkfm__46496">Himmelberger</rs> geäusseret, daß er seine Handlung allein führe

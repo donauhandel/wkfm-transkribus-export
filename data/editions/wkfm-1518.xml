@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2929" lry="4455" xml:id="facs_60">
+    <surface ulx="0" uly="0" lrx="2929" lry="4455" xml:id="facs_60">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1518.jpg" width="2929px" height="4455px"/>
          <zone points="288,104 288,3302 2844,3302 2844,104" rendition="TextRegion" xml:id="facs_60_r1">
             <zone points="1035,301 1094,295 1153,290 1212,286 1271,284 1331,283 1390,281 1449,281 1508,283 1567,283 1627,284 1686,284 1745,284 1804,284 1863,283 1923,281 1982,280 2041,275 2100,270 2159,263 2219,254 2219,104 2159,113 2100,120 2041,125 1982,130 1923,131 1863,133 1804,134 1745,134 1686,134 1627,134 1567,133 1508,133 1449,131 1390,131 1331,133 1271,134 1212,136 1153,140 1094,145 1035,151" rendition="Line" xml:id="facs_60_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_60" n="60" xml:id="img_0060"/>
+            <pb facs="#facs_60" n="60" xml:id="img_0060"/>
             
-            <ab  facs="#facs_60_r1">
+            <ab facs="#facs_60_r1">
                <lb facs="#facs_60_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_60_r1l2" n="N002"/>In obiger Erklährung ddto 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 685 hat sich der
                <lb facs="#facs_60_r1l3" n="N003"/><rs type="person" ref="wkfm__47436">Singer</rs> geäusseret, daß er seine Handlung ohne Compagnie <unclear>führe</unclear>

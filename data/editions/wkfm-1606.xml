@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2872" lry="4455" xml:id="facs_148">
+    <surface ulx="0" uly="0" lrx="2872" lry="4455" xml:id="facs_148">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1606.jpg" width="2872px" height="4455px"/>
          <zone points="315,94 315,3243 2748,3243 2748,94" rendition="TextRegion" xml:id="facs_148_r1">
             <zone points="1160,259 1221,255 1283,251 1344,249 1406,247 1467,246 1529,246 1590,244 1652,244 1713,244 1775,243 1836,243 1898,241 1959,241 2021,238 2082,235 2144,232 2205,227 2267,221 2328,215 2390,205 2390,94 2328,104 2267,110 2205,116 2144,121 2082,124 2021,127 1959,130 1898,130 1836,132 1775,132 1713,133 1652,133 1590,133 1529,135 1467,135 1406,136 1344,138 1283,140 1221,144 1160,148" rendition="Line" xml:id="facs_148_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_148" n="148" xml:id="img_0148"/>
+            <pb facs="#facs_148" n="148" xml:id="img_0148"/>
             
-            <ab  facs="#facs_148_r1">
+            <ab facs="#facs_148_r1">
                <lb facs="#facs_148_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_148_r1l2" n="N002"/>In obigen Anbringen de ps: 27<hi style="superscript">ten</hi> Junii 735 N<hi style="superscript">o</hi> 732 hat sich der
                <lb facs="#facs_148_r1l3" n="N003"/><rs type="person" ref="wkfm__47505">Stöger</rs> erklähret, das er keinen Compagnon habe

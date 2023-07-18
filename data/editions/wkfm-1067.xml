@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3057" lry="4521" xml:id="facs_3">
+    <surface ulx="0" uly="0" lrx="3057" lry="4521" xml:id="facs_3">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1067.jpg" width="3057px" height="4521px"/>
          <zone points="215,206 215,3029 2837,3029 2837,206" rendition="TextRegion" xml:id="facs_3_r1">
             <zone points="2676,356 2702,357 2729,357 2755,356 2782,356 2808,357 2835,359 2835,286 2808,284 2782,283 2755,283 2729,284 2702,284 2676,283" rendition="Line" xml:id="facs_3_r1l2" subtype="page-number"/>
@@ -81,9 +81,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_3" n="3" xml:id="img_0003"/>
+            <pb facs="#facs_3" n="3" xml:id="img_0003"/>
             
-            <ab  facs="#facs_3_r1">
+            <ab facs="#facs_3_r1">
                <lb facs="#facs_3_r1l2" n="N001"/>527
                <lb facs="#facs_3_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_3_r1l3" n="N003"/><rs type="person" ref="wkfm__8324">Isenflam Johann Jacob</rs> K. K. Niderlags Verwanter

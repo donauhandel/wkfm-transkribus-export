@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2934" lry="4530" xml:id="facs_26">
+    <surface ulx="0" uly="0" lrx="2934" lry="4530" xml:id="facs_26">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0031.jpg" width="2934px" height="4530px"/>
          <zone points="447,300 447,3466 2711,3466 2711,300" rendition="TextRegion" xml:id="facs_26_r1">
             <zone points="867,353 933,352 1000,352 1067,352 1134,353 1201,355 1268,356 1334,357 1401,359 1468,362 1535,364 1602,367 1669,369 1736,373 1802,375 1869,377 1936,380 2003,383 2070,385 2137,388 2204,389 2204,337 2137,336 2070,333 2003,331 1936,328 1869,325 1802,323 1736,321 1669,317 1602,315 1535,312 1468,310 1401,307 1334,305 1268,304 1201,303 1134,301 1067,300 1000,300 933,300 867,301" rendition="Line" xml:id="facs_26_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_26" n="26" xml:id="img_0026"/>
+            <pb facs="#facs_26" n="26" xml:id="img_0026"/>
             
-            <ab  facs="#facs_26_r1">
+            <ab facs="#facs_26_r1">
                <lb facs="#facs_26_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_26_line_1621241865988_310" n="N002"/>In obigen Anbringen de ps: 23<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 725 N<hi style="superscript">o</hi> 13 und de ps: 27<hi style="superscript">ten</hi> <choice><expan/><abbr>Jun:</abbr></choice> 735 N<hi style="superscript">o</hi> 19. hat sich der <rs type="person" ref="wkfm__15941">Aigner</rs>
                <lb facs="#facs_26_r1l4" n="N003"/>erklahret, daß er keinen Compagnon habe.

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3134" lry="4521" xml:id="facs_35">
+    <surface ulx="0" uly="0" lrx="3134" lry="4521" xml:id="facs_35">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1135.jpg" width="3134px" height="4521px"/>
          <zone points="272,228 272,3049 2936,3049 2936,228" rendition="TextRegion" xml:id="facs_35_r2">
             <zone points="2745,472 2773,471 2801,472 2830,472 2858,471 2886,470 2915,468 2915,393 2886,395 2858,396 2830,397 2801,397 2773,396 2745,397" rendition="Line" xml:id="facs_35_r2l2" subtype="page-number"/>
@@ -73,9 +73,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_35" n="35" xml:id="img_0035"/>
+            <pb facs="#facs_35" n="35" xml:id="img_0035"/>
             
-            <ab  facs="#facs_35_r2">
+            <ab facs="#facs_35_r2">
                <lb facs="#facs_35_r2l2" n="N001"/>561
                <lb facs="#facs_35_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_35_r2l3" n="N003"/><rs type="person" ref="wkfm__13796">Leeb Georg Jacob</rs> burgerlicher Handlsmann

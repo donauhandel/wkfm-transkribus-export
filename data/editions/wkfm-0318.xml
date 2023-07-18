@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_264">
+    <surface ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_264">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0318.jpg" width="2934px" height="4501px"/>
          <zone points="333,220 333,3425 2850,3425 2850,220" rendition="TextRegion" xml:id="facs_264_r1">
             <zone points="1094,329 1160,324 1227,320 1294,317 1361,316 1427,314 1494,313 1561,311 1628,311 1694,311 1761,311 1828,311 1895,311 1961,310 2028,310 2095,308 2162,307 2228,304 2295,300 2362,296 2429,290 2429,220 2362,226 2295,230 2228,234 2162,237 2095,238 2028,240 1961,240 1895,241 1828,241 1761,241 1694,241 1628,241 1561,241 1494,243 1427,244 1361,246 1294,247 1227,250 1160,254 1094,259" rendition="Line" xml:id="facs_264_r1l1"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_264" n="264" xml:id="img_0264"/>
+            <pb facs="#facs_264" n="264" xml:id="img_0264"/>
             
-            <ab  facs="#facs_264_r1">
+            <ab facs="#facs_264_r1">
                <lb facs="#facs_264_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_264_r1l2" n="N002"/>Vermög Hofresolution dd<hi style="superscript">to</hi> 28<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 754 N<hi style="superscript">o</hi> 1275 ist dem <rs type="person" ref="wkfm__44045">Braun</rs> Ver-
                <lb facs="#facs_264_r1l3" n="N003"/>williget worden, daß er sich seinem Schwgervattern <rs type="person" ref="wkfm__8410">Joseph Förschl</rs>

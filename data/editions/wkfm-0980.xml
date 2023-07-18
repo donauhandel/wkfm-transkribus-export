@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4437" xml:id="facs_60">
+    <surface ulx="0" uly="0" lrx="2994" lry="4437" xml:id="facs_60">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0980.jpg" width="2994px" height="4437px"/>
          <zone points="369,218 369,3407 2873,3401 2873,212" rendition="TextRegion" xml:id="facs_60_r1">
             <zone points="1085,327 1210,327 1277,324 1345,321 1412,321 1479,320 1547,320 1614,321 1681,321 1749,323 1816,324 1883,324 1951,325 2018,324 2085,324 2153,323 2220,321 2287,318 2355,312 2422,308 2490,300 2490,218 2422,226 2355,230 2287,236 2220,239 2153,241 2085,242 2018,242 1951,243 1883,242 1816,242 1749,241 1681,239 1614,239 1547,238 1479,238 1412,239 1345,239 1277,242 1210,245 1085,245" rendition="Line" xml:id="facs_60_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_60" n="60" xml:id="img_0060"/>
+            <pb facs="#facs_60" n="60" xml:id="img_0060"/>
             
-            <ab  facs="#facs_60_r1">
+            <ab facs="#facs_60_r1">
                <lb facs="#facs_60_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_60_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 453 hat sich
                <lb facs="#facs_60_r1l3" n="N003"/>der <rs type="person" ref="wkfm__18243">Höffler</rs> geäusseret, das er in seiner Handlung für sich allein

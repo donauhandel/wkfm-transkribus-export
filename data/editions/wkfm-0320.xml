@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_266">
+    <surface ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_266">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0320.jpg" width="2934px" height="4501px"/>
          <zone points="1017,199 1017,3431 2489,3431 2489,199" rendition="TextRegion" xml:id="facs_266_r1">
             <zone points="1017,380 1090,373 1164,368 1237,364 1311,361 1385,359 1458,359 1532,359 1605,359 1679,359 1753,361 1826,362 1900,362 1973,364 2047,364 2121,364 2194,362 2268,361 2341,358 2415,354 2489,349 2489,199 2415,204 2341,208 2268,211 2194,212 2121,214 2047,214 1973,214 1900,212 1826,212 1753,211 1679,209 1605,209 1532,209 1458,209 1385,209 1311,211 1237,214 1164,218 1090,223 1017,230" rendition="Line" xml:id="facs_266_r1l1"/>
@@ -64,9 +64,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_266" n="266" xml:id="img_0266"/>
+            <pb facs="#facs_266" n="266" xml:id="img_0266"/>
             
-            <ab  facs="#facs_266_r1">
+            <ab facs="#facs_266_r1">
                <lb facs="#facs_266_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_266_r1l2" n="N002"/><seg type="wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_266_r1l3" n="N003"/>Anmerckungen

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2979" lry="4477" xml:id="facs_119">
+    <surface ulx="0" uly="0" lrx="2979" lry="4477" xml:id="facs_119">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1577.jpg" width="2979px" height="4477px"/>
          <zone points="278,80 278,2945 2892,2945 2892,80" rendition="TextRegion" xml:id="facs_119_r1">
             <zone points="2711,193 2884,193 2884,318 2711,318" rendition="Line" xml:id="facs_119_line_1626262229032_1752" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_119" n="119" xml:id="img_0119"/>
+            <pb facs="#facs_119" n="119" xml:id="img_0119"/>
             
-            <ab  facs="#facs_119_r1">
+            <ab facs="#facs_119_r1">
                <lb facs="#facs_119_line_1626262229032_1752" n="N001"/>781
                <lb facs="#facs_119_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_119_r1l2" n="N003"/><rs type="person" ref="wkfm__47483">Schwehel Johann Paul</rs> burgerlicher Handlsmann

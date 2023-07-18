@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2895" lry="4391" xml:id="facs_15">
+    <surface ulx="0" uly="0" lrx="2895" lry="4391" xml:id="facs_15">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1367.jpg" width="2895px" height="4391px"/>
          <zone points="159,151 159,4368 2678,4368 2678,151" rendition="TextRegion" xml:id="facs_15_r1">
             <zone points="2463,391 2490,394 2517,394 2544,394 2571,393 2598,393 2625,393 2652,394 2652,301 2625,300 2598,300 2571,300 2544,301 2517,301 2490,301 2463,298" rendition="Line" xml:id="facs_15_r1l2" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_15" n="15" xml:id="img_0015"/>
+            <pb facs="#facs_15" n="15" xml:id="img_0015"/>
             
-            <ab  facs="#facs_15_r1">
+            <ab facs="#facs_15_r1">
                <lb facs="#facs_15_r1l2" n="N001"/>676
                <lb facs="#facs_15_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_15_r1l3" n="N003"/><rs type="person" ref="wkfm__46685">Rambstorfer Johann</rs> hofbefreyter Leinwathandler

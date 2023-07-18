@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2991" lry="4541" xml:id="facs_203">
+    <surface ulx="0" uly="0" lrx="2991" lry="4541" xml:id="facs_203">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0257.jpg" width="2991px" height="4541px"/>
          <zone points="194,171 194,3028 2767,3016 2767,159" rendition="TextRegion" xml:id="facs_203_r2">
             <zone points="2556,212 2738,212 2738,338 2556,338" rendition="Line" xml:id="facs_203_line_1629708641404_993" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_203" n="203" xml:id="img_0203"/>
+            <pb facs="#facs_203" n="203" xml:id="img_0203"/>
             
-            <ab  facs="#facs_203_r2">
+            <ab facs="#facs_203_r2">
                <lb facs="#facs_203_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_203_r2l2" n="N003"/><rs type="person" ref="wkfm__47366">Preisinger Leopold</rs> burgerlicher Leinwathandler
                <lb facs="#facs_203_r2l3" n="N004"/>Firma ad Raggion

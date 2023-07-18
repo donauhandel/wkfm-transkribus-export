@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2953" lry="4400" xml:id="facs_28">
+    <surface ulx="0" uly="0" lrx="2953" lry="4400" xml:id="facs_28">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1380.jpg" width="2953px" height="4400px"/>
          <zone points="390,165 390,3269 2787,3269 2787,165" rendition="TextRegion" xml:id="facs_28_r1">
             <zone points="1128,290 1188,288 1248,287 1309,286 1369,284 1430,284 1490,284 1550,284 1611,284 1671,284 1732,284 1792,284 1852,284 1913,283 1973,283 2034,281 2094,281 2154,279 2215,277 2275,274 2336,271 2336,165 2275,168 2215,171 2154,173 2094,175 2034,175 1973,177 1913,177 1852,178 1792,178 1732,178 1671,178 1611,178 1550,178 1490,178 1430,178 1369,178 1309,180 1248,181 1188,182 1128,184" rendition="Line" xml:id="facs_28_r1l1"/>
@@ -68,9 +68,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_28" n="28" xml:id="img_0028"/>
+            <pb facs="#facs_28" n="28" xml:id="img_0028"/>
             
-            <ab  facs="#facs_28_r1">
+            <ab facs="#facs_28_r1">
                <lb facs="#facs_28_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_28_r1l2" n="N002"/>In obigen Anbringen de ps: 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 1049 haben die
                <lb facs="#facs_28_r1l3" n="N003"/>Reitschlische Massa Inspectores angezeiget das diese Handlung

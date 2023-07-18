@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2963" lry="4566" xml:id="facs_15">
+    <surface ulx="0" uly="0" lrx="2963" lry="4566" xml:id="facs_15">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0635.jpg" width="2963px" height="4566px"/>
          <zone points="594,237 594,3030 3256,3030 3256,237" rendition="TextRegion" xml:id="facs_15_r2">
             <zone points="2648,455 2674,457 2701,458 2728,460 2754,460 2781,458 2808,457 2808,360 2781,361 2754,363 2728,363 2701,361 2674,360 2648,358" rendition="Line" xml:id="facs_15_r2l2" subtype="page-number"/>
@@ -70,9 +70,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_15" n="15" xml:id="img_0015"/>
+            <pb facs="#facs_15" n="15" xml:id="img_0015"/>
             
-            <ab  facs="#facs_15_r2">
+            <ab facs="#facs_15_r2">
                <lb facs="#facs_15_r2l2" n="N001"/>315
                <lb facs="#facs_15_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_15_r2l3" n="N003"/><rs type="person" ref="wkfm__14142"><unclear>Eheman</unclear> Johann Wolfgang</rs> burgerlicher Handlsmann

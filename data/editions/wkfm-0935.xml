@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3095" lry="4469" xml:id="facs_15">
+    <surface ulx="0" uly="0" lrx="3095" lry="4469" xml:id="facs_15">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0935.jpg" width="3095px" height="4469px"/>
          <graphic url="" width="3095px" height="4469px"/>
          <zone points="134,194 134,3012 2831,3012 2831,194" rendition="TextRegion" xml:id="facs_15_r2">
@@ -79,9 +79,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_15" n="15" xml:id="img_0015"/>
+            <pb facs="#facs_15" n="15" xml:id="img_0015"/>
             
-            <ab  facs="#facs_15_r2">
+            <ab facs="#facs_15_r2">
                <lb facs="#facs_15_r2l2" n="N001"/>460
                <lb facs="#facs_15_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_15_r2l3" n="N003"/><rs type="person" ref="wkfm__11795">Haymerl Philipp Joseph</rs>

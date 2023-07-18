@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3023" lry="4477" xml:id="facs_39">
+    <surface ulx="0" uly="0" lrx="3023" lry="4477" xml:id="facs_39">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1497.jpg" width="3023px" height="4477px"/>
          <zone points="329,107 329,2947 2834,2977 2834,137" rendition="TextRegion" xml:id="facs_39_r2">
             <zone points="2622,242 2816,242 2816,376 2622,376" rendition="Line" xml:id="facs_39_line_1626267704146_5053" subtype="page-number"/>
@@ -68,9 +68,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_39" n="39" xml:id="img_0039"/>
+            <pb facs="#facs_39" n="39" xml:id="img_0039"/>
             
-            <ab  facs="#facs_39_r2">
+            <ab facs="#facs_39_r2">
                <lb facs="#facs_39_line_1626267704146_5053" n="N001"/>741
                <lb facs="#facs_39_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_39_r2l2" n="N003"/><rs type="person" ref="wkfm__21800">Stockhinger Matthias</rs> burgerlicher Handlsmann

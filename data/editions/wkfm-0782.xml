@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_114">
+    <surface ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_114">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0782.jpg" width="2994px" height="4530px"/>
          <zone points="231,239 231,3414 2847,3414 2847,239" rendition="TextRegion" xml:id="facs_114_r1">
             <zone points="1298,324 1358,323 1418,321 1478,320 1538,320 1599,320 1659,320 1719,321 1779,321 1839,322 1900,323 1960,324 2020,324 2080,325 2140,326 2201,326 2261,326 2321,326 2381,324 2441,323 2502,321 2502,240 2441,242 2381,243 2321,245 2261,245 2201,245 2140,245 2080,244 2020,243 1960,243 1900,242 1839,241 1779,240 1719,240 1659,239 1599,239 1538,239 1478,239 1418,240 1358,242 1298,243" rendition="Line" xml:id="facs_114_r1l1"/>
@@ -74,9 +74,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_114" n="114" xml:id="img_0114"/>
+            <pb facs="#facs_114" n="114" xml:id="img_0114"/>
             
-            <ab  facs="#facs_114_r1">
+            <ab facs="#facs_114_r1">
                <lb facs="#facs_114_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_114_r1l2" n="N002"/><choice><expan/><abbr>Ao</abbr></choice> 764 hat sich der <rs type="person" ref="wkfm__46838">Franz Fanzoni </rs>erkläret, daß er
                <lb facs="#facs_114_r1l3" n="N003"/>keinen Handlungs <choice><expan/><abbr>Compag:</abbr></choice> habe, vide Firma <choice><expan/><abbr>nro:</abbr></choice> 370 1/2

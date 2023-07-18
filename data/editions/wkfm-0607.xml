@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3054" lry="4566" xml:id="facs_107">
+    <surface ulx="0" uly="0" lrx="3054" lry="4566" xml:id="facs_107">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0607.jpg" width="3054px" height="4566px"/>
          <zone points="128,232 128,4484 2979,4484 2979,232" rendition="TextRegion" xml:id="facs_107_r1">
             <zone points="2835,466 2863,464 2892,464 2921,466 2950,466 2979,466 2979,405 2950,405 2921,405 2892,403 2863,403 2835,405" rendition="Line" xml:id="facs_107_r1l2" subtype="page-number"/>
@@ -84,9 +84,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_107" n="107" xml:id="img_0107"/>
+            <pb facs="#facs_107" n="107" xml:id="img_0107"/>
             
-            <ab  facs="#facs_107_r1">
+            <ab facs="#facs_107_r1">
                <lb facs="#facs_107_r1l2" n="N001"/>301
                <lb facs="#facs_107_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_107_r1l3" n="N003"/><rs type="person" ref="wkfm__46291">Tschofen Engelbert</rs> burgerlicher Handlsmann

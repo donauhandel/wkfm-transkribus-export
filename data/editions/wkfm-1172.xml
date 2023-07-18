@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3030" lry="4530" xml:id="facs_72">
+    <surface ulx="0" uly="0" lrx="3030" lry="4530" xml:id="facs_72">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1172.jpg" width="3030px" height="4530px"/>
          <zone points="284,253 284,3829 2883,3829 2883,253" rendition="TextRegion" xml:id="facs_72_r1">
             <zone points="1301,346 1361,344 1421,343 1481,343 1542,342 1602,341 1662,341 1723,340 1783,340 1843,338 1904,338 1964,338 2024,337 2084,337 2145,336 2205,335 2265,335 2326,334 2386,332 2446,332 2507,331 2507,253 2446,254 2386,254 2326,256 2265,257 2205,257 2145,258 2084,259 2024,259 1964,260 1904,260 1843,260 1783,262 1723,262 1662,263 1602,263 1542,264 1481,265 1421,265 1361,266 1301,268" rendition="Line" xml:id="facs_72_r1l1"/>
@@ -72,9 +72,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_72" n="72" xml:id="img_0072"/>
+            <pb facs="#facs_72" n="72" xml:id="img_0072"/>
             
-            <ab  facs="#facs_72_r1">
+            <ab facs="#facs_72_r1">
                <lb facs="#facs_72_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_72_r1l2" n="N002"/><seg type="wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_72_r1l4" n="N003"/>Mitls Anbringen de ps: 9<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 744 N<hi style="superscript">o</hi> 2191 hat der <rs type="person" ref="wkfm__46830">Lanser</rs> die mit

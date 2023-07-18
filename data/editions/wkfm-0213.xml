@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3029" lry="4464" xml:id="facs_159">
+    <surface ulx="0" uly="0" lrx="3029" lry="4464" xml:id="facs_159">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0213.jpg" width="3029px" height="4464px"/>
          <zone points="113,109 113,4261 2867,4261 2867,109" rendition="TextRegion" xml:id="facs_159_r1">
             <zone points="2430,236 2457,232 2485,228 2512,222 2540,220 2568,221 2568,152 2540,151 2512,153 2485,159 2457,163 2430,167" rendition="Line" xml:id="facs_159_r1l2" subtype="page-number"/>
@@ -93,9 +93,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_159" n="159" xml:id="img_0159"/>
+            <pb facs="#facs_159" n="159" xml:id="img_0159"/>
             
-            <ab  facs="#facs_159_r1">
+            <ab facs="#facs_159_r1">
                <lb facs="#facs_159_r1l2" n="N001"/>104
                <lb facs="#facs_159_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_159_line_1621468712109_2918" n="N003"/><rs type="person" ref="wkfm__19355">Polidoro Anton Lucas</rs> burgerlicher Handlsmann
@@ -103,7 +103,7 @@
                <lb facs="#facs_159_r1l6" n="N005"/><rs type="person" ref="wkfm__43913">Anton Polidoro e <choice><expan/><abbr>Comp:</abbr></choice></rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 98.
                <lb facs="#facs_159_r1l7" n="N006"/><rs type="person" ref="wkfm__47349">Anton Lucca Polidoro</rs> laut Oblatorien dd<hi style="superscript">to</hi> 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 736 N<hi style="superscript">o</hi> 1094
                <lb facs="#facs_159_r1l8" n="N007"/><seg type="owner">Procura und Firmae Trager</seg>
-               <lb facs="#facs_159_r1l9" n="N008"/>In obiger Erklährung N<hi style="superscript">o</hi> 98 ist die Firma <comment comment="Es\u0020folgt\u0020der\u0020Einschub\u0020Zeile\u002011"><hi>0</hi></comment> von dem <rs type="person" ref="wkfm__19355">Anton
+               <lb facs="#facs_159_r1l9" n="N008"/>In obiger Erklährung N<hi style="superscript">o</hi> 98 ist die Firma <seg type="editorial_comment_seg"><hi>0</hi><note type="editorial_comment_note">Es folgt der Einschub Zeile 11</note></seg> von dem <rs type="person" ref="wkfm__19355">Anton
                <lb break="no" facs="#facs_159_r1l10" n="N009"/>Polidoro</rs> und dessen Compagnon <rs type="person" ref="wkfm__25146">Joseph Barbieri</rs> eingeleget
                <lb facs="#facs_159_r1l11" n="N010"/>worden.
                <lb facs="#facs_159_r1l12" n="N011"/><hi>0</hi> der Raggion <rs type="person" ref="wkfm__43913">Anton Polidoro e <choice><expan/><abbr>Comp:</abbr></choice></rs>
@@ -119,7 +119,7 @@
                <lb facs="#facs_159_line_1621468791239_2938" n="N021"/>Halbscheid <choice><expan/><abbr>pr</abbr></choice> 2774 fl 35 x<hi style="superscript">r</hi>
                <lb facs="#facs_159_line_1621468801667_2947" n="N022"/>zusamen Eigenthum 4176 fl. 35 x<hi style="superscript">r</hi>
                <lb facs="#facs_159_r1l26" n="N023"/>Zu Completirung des übrigen hat die <rs type="person" ref="wkfm__43914">Anna Maria Löwinichin</rs> ein unter
-               <lb facs="#facs_159_line_1621468824425_2961" n="N024"/>1<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 736 dahin ausgestelt <comment comment="wahrscheinlich\u0020\u0022Certiorirtes\u0022">Cortiorirtes</comment> Instrument, daß sie in des
+               <lb facs="#facs_159_line_1621468824425_2961" n="N024"/>1<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 736 dahin ausgestelt <seg type="editorial_comment_seg">Cortiorirtes<note type="editorial_comment_note">wahrscheinlich Certiorirtes</note></seg> Instrument, daß sie in des
                <lb facs="#facs_159_r1l29" n="N025"/><rs type="person" ref="wkfm__19355">Polidoro</rs> Handlung eingeleget und biß zu gänzlichen befridigung <unclear>denen</unclear> Credi-
                <lb facs="#facs_159_line_1621468847686_2975" n="N026"/>toren liegen lassen wolle 4000 fl
                <lb facs="#facs_159_r1l31" n="N027"/><choice><expan>Summa</expan><abbr>Sa</abbr></choice> 8176 fl 35

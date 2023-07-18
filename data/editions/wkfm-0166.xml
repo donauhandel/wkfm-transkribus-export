@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2982" lry="4464" xml:id="facs_113">
+    <surface ulx="0" uly="0" lrx="2982" lry="4464" xml:id="facs_113">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0166.jpg" width="2982px" height="4464px"/>
          <zone points="251,214 251,3082 2661,3082 2661,214" rendition="TextRegion" xml:id="facs_113_r2">
             <zone points="2562,370 2595,363 2628,361 2661,358 2661,247 2628,250 2595,252 2562,259" rendition="Line" xml:id="facs_113_r2l3" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_113" n="113" xml:id="img_0113"/>
+            <pb facs="#facs_113" n="113" xml:id="img_0113"/>
             
-            <ab  facs="#facs_113_r2">
+            <ab facs="#facs_113_r2">
                <lb facs="#facs_113_r2l3" n="N001"/>81
                <lb facs="#facs_113_r2l2" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_113_r2l4" n="N003"/><rs type="person" ref="wkfm__43891">Burger Leopold</rs> burgerlicher Handlsmann

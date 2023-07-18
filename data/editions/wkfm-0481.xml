@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3001" lry="4436" xml:id="facs_161">
+    <surface ulx="0" uly="0" lrx="3001" lry="4436" xml:id="facs_161">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0481.jpg" width="3001px" height="4436px"/>
          <graphic url="" width="3001px" height="4436px"/>
          <zone points="99,137 99,4102 2823,4102 2823,137" rendition="TextRegion" xml:id="facs_161_r1">
@@ -82,9 +82,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_161" n="161" xml:id="img_0161"/>
+            <pb facs="#facs_161" n="161" xml:id="img_0161"/>
             
-            <ab  facs="#facs_161_r1">
+            <ab facs="#facs_161_r1">
                <lb facs="#facs_161_r1l2" n="N001"/>238
                <lb facs="#facs_161_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_161_r1l3" n="N003"/><rs type="person" ref="wkfm__46174">Krenn Franz Anton</rs> burgerlicher Handlsmann

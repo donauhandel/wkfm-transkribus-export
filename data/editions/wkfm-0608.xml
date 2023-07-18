@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3003" lry="4530" xml:id="facs_108">
+    <surface ulx="0" uly="0" lrx="3003" lry="4530" xml:id="facs_108">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0608.jpg" width="3003px" height="4530px"/>
          <zone points="257,214 257,3987 2784,3987 2784,214" rendition="TextRegion" xml:id="facs_108_r1">
             <zone points="1290,327 1356,326 1422,325 1489,325 1555,327 1622,328 1688,330 1755,331 1821,333 1888,336 1954,339 2020,341 2087,343 2153,345 2220,348 2286,349 2353,349 2419,349 2486,349 2552,349 2619,346 2619,235 2552,238 2486,238 2419,238 2353,238 2286,238 2220,237 2153,234 2087,232 2020,230 1954,228 1888,225 1821,222 1755,220 1688,219 1622,217 1555,216 1489,214 1422,214 1356,215 1290,216" rendition="Line" xml:id="facs_108_r1l1"/>
@@ -68,12 +68,12 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_108" n="108" xml:id="img_0108"/>
+            <pb facs="#facs_108" n="108" xml:id="img_0108"/>
             
-            <ab  facs="#facs_108_r1">
+            <ab facs="#facs_108_r1">
                <lb facs="#facs_108_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_108_r1l2" n="N002"/><seg type="wedding_contract">Heuraths Contract</seg>
-               <lb facs="#facs_108_r1l3" n="N003"/><comment comment="Diese\u0020Anmerkungen\u0020beziehen\u0020sich\u0020auf\u0020den\u0020folgenden\u0020Eintrag\u0020zu\u0020Franz\u0020Anton\u0020Diewald">Anmerckungen</comment>
+               <lb facs="#facs_108_r1l3" n="N003"/><seg type="editorial_comment_seg">Anmerckungen<note type="editorial_comment_note">Diese Anmerkungen beziehen sich auf den folgenden Eintrag zu Franz Anton Diewald</note></seg>
                <lb facs="#facs_108_r1l4" n="N004"/>Mittels Anbringen de psto: 16: May 771: haben die Joh: Jos: Mayr,
                <lb facs="#facs_108_r1l5" n="N005"/>und Bernhard Blumberger zu folge Decret A: das über die
                <lb facs="#facs_108_r1l6" n="N006"/><rs type="person" ref="wkfm__46295">Franz Ant: Diwaldische Handlung</rs> errichtete Invent: B ein-

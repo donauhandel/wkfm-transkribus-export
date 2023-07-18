@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2886" lry="4476" xml:id="facs_58">
+    <surface ulx="0" uly="0" lrx="2886" lry="4476" xml:id="facs_58">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1764.jpg" width="2886px" height="4476px"/>
          <zone points="315,290 315,3421 2786,3421 2786,290" rendition="TextRegion" xml:id="facs_58_r1">
             <zone points="1005,405 1065,397 1125,393 1185,388 1246,385 1306,384 1366,384 1426,384 1487,385 1547,386 1607,387 1667,390 1728,391 1788,393 1848,394 1908,394 1969,394 2029,394 2089,391 2149,388 2210,384 2210,290 2149,294 2089,297 2029,300 1969,300 1908,300 1848,300 1788,299 1728,297 1667,296 1607,293 1547,292 1487,291 1426,290 1366,290 1306,290 1246,291 1185,294 1125,299 1065,303 1005,311" rendition="Line" xml:id="facs_58_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_58" n="58" xml:id="img_0058"/>
+            <pb facs="#facs_58" n="58" xml:id="img_0058"/>
             
-            <ab  facs="#facs_58_r1">
+            <ab facs="#facs_58_r1">
                <lb facs="#facs_58_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_58_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 727 N<hi style="superscript">o</hi> 2067 hat sich der
                <lb facs="#facs_58_r1l3" n="N003"/><rs type="person" ref="wkfm__9643">Joh: Jacob Wattau</rs> geäusseret das er und der <rs type="person" ref="wkfm__46989">Pejrand</rs> die Handlung

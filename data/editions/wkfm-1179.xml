@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3048" lry="4615" xml:id="facs_79">
+    <surface ulx="0" uly="0" lrx="3048" lry="4615" xml:id="facs_79">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1179.jpg" width="3048px" height="4615px"/>
          <zone points="116,263 116,4417 2849,4421 2849,267" rendition="TextRegion" xml:id="facs_79_r1">
             <zone points="2707,401 2848,401 2848,501 2707,501" rendition="Line" xml:id="facs_79_line_1624531089729_4304" subtype="page-number"/>
@@ -82,9 +82,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_79" n="79" xml:id="img_0079"/>
+            <pb facs="#facs_79" n="79" xml:id="img_0079"/>
             
-            <ab  facs="#facs_79_r1">
+            <ab facs="#facs_79_r1">
                <lb facs="#facs_79_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_79_r1l2" n="N003"/><rs type="person" ref="wkfm__46846">Lölly Johann</rs> burgerlicher Handlsmann
                <lb facs="#facs_79_r1l3" n="N004"/>Firma ad Raggion

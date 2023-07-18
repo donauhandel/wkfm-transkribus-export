@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_38">
+    <surface ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_38">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0358.jpg" width="2934px" height="4501px"/>
          <zone points="285,296 285,3419 2790,3419 2790,296" rendition="TextRegion" xml:id="facs_38_r1">
             <zone points="858,392 928,387 999,384 1069,380 1140,378 1211,375 1281,374 1352,372 1423,371 1493,369 1564,369 1635,368 1705,368 1776,368 1847,368 1917,368 1988,368 2059,368 2129,368 2200,368 2271,368 2271,296 2200,296 2129,296 2059,296 1988,296 1917,296 1847,296 1776,296 1705,296 1635,296 1564,297 1493,297 1423,299 1352,300 1281,302 1211,303 1140,306 1069,308 999,312 928,315 858,320" rendition="Line" xml:id="facs_38_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_38" n="38" xml:id="img_0038"/>
+            <pb facs="#facs_38" n="38" xml:id="img_0038"/>
             
-            <ab  facs="#facs_38_r1">
+            <ab facs="#facs_38_r1">
                <lb facs="#facs_38_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_38_r1l2" n="N002"/>In obigen Anbringen de ps: 19<hi style="superscript">ten</hi> May 725 N<hi style="superscript">o</hi> 1896 hat sich die Raggion
                <lb facs="#facs_38_r1l3" n="N003"/><hi>Co</hi> <rs type="person" ref="wkfm__26954">Andreas Coith und <choice><expan/><abbr>Comp:</abbr></choice></rs><choice><expan/><abbr/></choice> erklähret, daß <hi>her</hi>unter selber der 

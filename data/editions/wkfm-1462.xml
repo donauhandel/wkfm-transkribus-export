@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2886" lry="4455" xml:id="facs_4">
+    <surface ulx="0" uly="0" lrx="2886" lry="4455" xml:id="facs_4">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1462.jpg" width="2886px" height="4455px"/>
          <zone points="198,155 198,3395 2811,3395 2811,155" rendition="TextRegion" xml:id="facs_4_r1">
             <zone points="1055,345 1122,337 1189,328 1256,323 1323,316 1390,312 1457,308 1524,305 1591,302 1658,299 1726,297 1793,294 1860,293 1927,290 1994,287 2061,285 2128,282 2195,278 2262,274 2329,268 2397,263 2397,155 2329,160 2262,166 2195,170 2128,174 2061,177 1994,179 1927,182 1860,185 1793,186 1726,189 1658,191 1591,194 1524,197 1457,200 1390,204 1323,208 1256,215 1189,220 1122,229 1055,237" rendition="Line" xml:id="facs_4_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_4" n="4" xml:id="img_0004"/>
+            <pb facs="#facs_4" n="4" xml:id="img_0004"/>
             
-            <ab  facs="#facs_4_r1">
+            <ab facs="#facs_4_r1">
                <lb facs="#facs_4_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_4_r1l2" n="N002"/>In obigen Anbringen de ps: 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 658 hat sich der <rs type="person" ref="wkfm__9867">Schweig-
                <lb break="no" facs="#facs_4_r1l3" n="N003"/>hauser</rs> erklähret, daß er keinen Compagnon habe.

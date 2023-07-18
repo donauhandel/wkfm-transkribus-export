@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2929" lry="4455" xml:id="facs_22">
+    <surface ulx="0" uly="0" lrx="2929" lry="4455" xml:id="facs_22">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1480.jpg" width="2929px" height="4455px"/>
          <zone points="216,119 216,3296 2769,3296 2769,119" rendition="TextRegion" xml:id="facs_22_r1">
             <zone points="1043,277 1109,271 1176,266 1243,263 1310,260 1377,259 1444,257 1511,257 1578,258 1645,259 1712,259 1778,259 1845,259 1912,259 1979,257 2046,256 2113,253 2180,248 2247,242 2314,234 2381,224 2381,119 2314,129 2247,137 2180,143 2113,148 2046,151 1979,152 1912,154 1845,154 1778,154 1712,154 1645,154 1578,153 1511,152 1444,152 1377,154 1310,155 1243,158 1176,161 1109,166 1043,172" rendition="Line" xml:id="facs_22_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_22" n="22" xml:id="img_0022"/>
+            <pb facs="#facs_22" n="22" xml:id="img_0022"/>
             
-            <ab  facs="#facs_22_r1">
+            <ab facs="#facs_22_r1">
                <lb facs="#facs_22_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_22_r1l2" n="N002"/>In obigen Anbringen de ps: 11<hi style="superscript">ten</hi> Junii 725 N<hi style="superscript">o</hi> 666 hat sich der <rs type="person" ref="wkfm__9920">Schwannasini</rs> er-
                <lb facs="#facs_22_r1l3" n="N003"/>klähret, das er sein negotium mit sein alleinigen interesse führe

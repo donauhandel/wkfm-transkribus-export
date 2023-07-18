@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_28">
+    <surface ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_28">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0840.jpg" width="2994px" height="4530px"/>
          <zone points="237,251 237,3500 2835,3500 2835,251" rendition="TextRegion" xml:id="facs_28_r1">
             <zone points="1196,428 1257,424 1318,421 1380,418 1441,416 1502,414 1564,413 1625,412 1686,410 1748,410 1809,410 1870,409 1932,409 1993,409 2054,409 2116,407 2177,407 2238,406 2300,404 2361,404 2423,401 2423,251 2361,254 2300,254 2238,256 2177,257 2116,257 2054,259 1993,259 1932,259 1870,259 1809,260 1748,260 1686,260 1625,262 1564,263 1502,264 1441,266 1380,268 1318,271 1257,274 1196,278" rendition="Line" xml:id="facs_28_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_28" n="28" xml:id="img_0028"/>
+            <pb facs="#facs_28" n="28" xml:id="img_0028"/>
             
-            <ab  facs="#facs_28_r1">
+            <ab facs="#facs_28_r1">
                <lb facs="#facs_28_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_28_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 393 hat sich der
                <lb facs="#facs_28_r1l3" n="N003"/><rs type="person" ref="wkfm__10872">Gläßer</rs> geäusseret, daß er seine Handlung ohne socio führe.

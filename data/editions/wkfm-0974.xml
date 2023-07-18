@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4437" xml:id="facs_54">
+    <surface ulx="0" uly="0" lrx="2994" lry="4437" xml:id="facs_54">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0974.jpg" width="2994px" height="4437px"/>
          <zone points="369,181 369,3378 2835,3378 2835,181" rendition="TextRegion" xml:id="facs_54_r1">
             <zone points="1115,303 1169,300 1223,297 1277,294 1331,293 1385,291 1439,290 1494,290 1548,290 1602,290 1656,290 1710,290 1764,290 1818,291 1873,291 1927,293 1981,294 2035,294 2089,294 2143,296 2198,296 2198,187 2143,187 2089,185 2035,185 1981,185 1927,184 1873,182 1818,182 1764,181 1710,181 1656,181 1602,181 1548,181 1494,181 1439,181 1385,182 1331,184 1277,185 1223,188 1169,191 1115,194" rendition="Line" xml:id="facs_54_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_54" n="54" xml:id="img_0054"/>
+            <pb facs="#facs_54" n="54" xml:id="img_0054"/>
             
-            <ab  facs="#facs_54_r1">
+            <ab facs="#facs_54_r1">
                <lb facs="#facs_54_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_54_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 450 hat sich
                <lb facs="#facs_54_r1l3" n="N003"/>der <rs type="person" ref="wkfm__46476">Haussner</rs> geäusseret, das er seine Handlung für <hi>sich</hi>

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3087" lry="4530" xml:id="facs_116">
+    <surface ulx="0" uly="0" lrx="3087" lry="4530" xml:id="facs_116">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1036.jpg" width="3087px" height="4530px"/>
          <zone points="159,221 159,4286 2901,4286 2901,221" rendition="TextRegion" xml:id="facs_116_r1">
             <zone points="1019,332 1079,324 1139,316 1199,310 1260,306 1320,303 1380,301 1441,299 1501,299 1561,299 1622,299 1682,299 1742,299 1802,299 1863,299 1923,299 1983,298 2044,295 2104,292 2164,287 2225,281 2225,221 2164,227 2104,232 2044,235 1983,238 1923,239 1863,239 1802,239 1742,239 1682,239 1622,239 1561,239 1501,239 1441,239 1380,241 1320,243 1260,246 1199,250 1139,256 1079,264 1019,272" rendition="Line" xml:id="facs_116_r1l1"/>
@@ -107,12 +107,12 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_116" n="116" xml:id="img_0116"/>
+            <pb facs="#facs_116" n="116" xml:id="img_0116"/>
             
-            <ab  facs="#facs_116_r1">
+            <ab facs="#facs_116_r1">
                <lb facs="#facs_116_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
-               <lb facs="#facs_116_r1l2" n="N002"/>Mitls anbringen de ps: 19<hi style="superscript">ten</hi> Junii 747 N<hi style="superscript">o</hi> 2005 hat der <comment comment="Vornamen\u0020der\u0020beiden\u0020Geschäftspartner\u0020vertauscht"><rs type="person" ref="wkfm__46536">Franz Mayer</rs></comment> und <comment comment="Vornamen\u0020der\u0020beiden\u0020Geschäftspartner\u0020vertauscht"><rs type="person" ref="wkfm__46535">Joseph</rs>
-               <lb break="no" facs="#facs_116_r1l3" n="N003"/><rs type="person" ref="wkfm__46535">Hakell</rs></comment> angezeiget, daß nachdem der <rs type="person" ref="wkfm__46536">Joseph Mayer</rs> sich von dem <rs type="person" ref="wkfm__29325">Johann Heinrich
+               <lb facs="#facs_116_r1l2" n="N002"/>Mitls anbringen de ps: 19<hi style="superscript">ten</hi> Junii 747 N<hi style="superscript">o</hi> 2005 hat der <seg type="editorial_comment_seg"><rs type="person" ref="wkfm__46536">Franz Mayer</rs><note type="editorial_comment_note">Vornamen der beiden Geschäftspartner vertauscht</note></seg> und <seg type="editorial_comment_seg"><rs type="person" ref="wkfm__46535">Joseph</rs>
+               <lb break="no" facs="#facs_116_r1l3" n="N003"/><rs type="person" ref="wkfm__46535">Hakell</rs><note type="editorial_comment_note">Vornamen der beiden Geschäftspartner vertauscht</note></seg> angezeiget, daß nachdem der <rs type="person" ref="wkfm__46536">Joseph Mayer</rs> sich von dem <rs type="person" ref="wkfm__29325">Johann Heinrich
                <lb break="no" facs="#facs_116_r1l4" n="N004"/>Rebay</rs> separiret sie beede in eine Compagnie von 1<hi style="superscript">ten</hi> ej: auf 5 Jahr getretten seye,
                <lb facs="#facs_116_r1l5" n="N005"/>wonebens solle dem societaets contract dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> Junii 747 N<hi style="superscript">o</hi> 2004 in <choice><expan/><abbr>orig:</abbr></choice> einge-
                <lb facs="#facs_116_r1l6" n="N006"/>leget kraft welchen die societaet durch 5 Jahr von 1<hi style="superscript">ten</hi> Junii 747 bis dat: 752 dergestalten

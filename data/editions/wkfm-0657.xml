@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2963" lry="4566" xml:id="facs_37">
+    <surface ulx="0" uly="0" lrx="2963" lry="4566" xml:id="facs_37">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0657.jpg" width="2963px" height="4566px"/>
          <zone points="74,220 74,4084 2798,4084 2798,220" rendition="TextRegion" xml:id="facs_37_r3">
             <zone points="2557,342 2581,341 2637,337 2762,334 2762,412 2637,415 2593,419 2557,420" rendition="Line" xml:id="facs_37_line_1619379423515_185" subtype="page-number"/>
@@ -79,9 +79,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_37" n="37" xml:id="img_0037"/>
+            <pb facs="#facs_37" n="37" xml:id="img_0037"/>
             
-            <ab  facs="#facs_37_r3">
+            <ab facs="#facs_37_r3">
                <lb facs="#facs_37_line_1619379423515_185" n="N001"/>326
                <lb facs="#facs_37_r3l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_37_line_1619379431095_190" n="N003"/><rs type="person" ref="wkfm__46430">Eybel Johann Heinrich</rs> burgerlicher Handlsmann

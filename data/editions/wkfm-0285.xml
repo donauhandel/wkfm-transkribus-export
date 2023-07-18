@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3011" lry="4493" xml:id="facs_231">
+    <surface ulx="0" uly="0" lrx="3011" lry="4493" xml:id="facs_231">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0285.jpg" width="3011px" height="4493px"/>
          <zone points="206,190 206,4330 2884,4333 2884,193" rendition="TextRegion" xml:id="facs_231_r1">
             <zone points="2725,211 2883,211 2883,345 2725,345" rendition="Line" xml:id="facs_231_line_1629709857419_1164" subtype="page-number"/>
@@ -89,21 +89,21 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_231" n="231" xml:id="img_0231"/>
+            <pb facs="#facs_231" n="231" xml:id="img_0231"/>
             
-            <ab  facs="#facs_231_r1">
+            <ab facs="#facs_231_r1">
                <lb facs="#facs_231_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_231_r1l3" n="N003"/><rs type="person" ref="wkfm__43968">Pillitschotti Joseph</rs> burgerlicher Handlsmann
                <lb facs="#facs_231_r1l4" n="N004"/>Firma ad Raggion
                <lb facs="#facs_231_r1l5" n="N005"/><rs type="person" ref="wkfm__43968">Joseph Pillitschotti</rs> laut Erklährung sine daton N<hi style="superscript">o</hi> 141
                <lb facs="#facs_231_r1l6" n="N006"/><seg type="owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_231_r1l7" n="N007"/><seg type="oblatorien">Oblatorien und Avocatorien</seg>
-               <lb facs="#facs_231_r1l8" n="N008"/><comment comment="Ende\u0020der\u0020Rubrik\u0020\u0022Fundi\u0020Ausweisung\u0022"><hi>0</hi></comment> in bahren besize und er <rs type="person" ref="wkfm__30347">Anton Pillitschotti</rs> für
+               <lb facs="#facs_231_r1l8" n="N008"/><seg type="editorial_comment_seg"><hi>0</hi><note type="editorial_comment_note">Ende der Rubrik Fundi Ausweisung</note></seg> in bahren besize und er <rs type="person" ref="wkfm__30347">Anton Pillitschotti</rs> für
                <lb facs="#facs_231_r1l9" n="N009"/>solche 8005 fl biß zu eigener legitimation Guttspruche sub N<hi style="superscript">o</hi> 1215 einge-
                <lb facs="#facs_231_r1l10" n="N010"/>leget.
                <lb facs="#facs_231_r1l11" n="N011"/><seg type="fundi">Fundi Ausweisung</seg>
                <lb facs="#facs_231_r1l12" n="N012"/>Der Pillitschotti hat in der eingelegten Specification sine dato N<hi style="superscript">o</hi> 1213 seinen
-               <lb facs="#facs_231_r1l13" n="N013"/>fundum folgender maßen ausgewisen das er Vermög einen Brief dd<hi style="superscript">to</hi> <comment comment="Znojmo\u0020(dt.\u0020Znaim)\u0020in\u0020Tschechien">Znaymb</comment> den
+               <lb facs="#facs_231_r1l13" n="N013"/>fundum folgender maßen ausgewisen das er Vermög einen Brief dd<hi style="superscript">to</hi> <seg type="editorial_comment_seg">Znaymb<note type="editorial_comment_note">Znojmo (dt. Znaim) in Tschechien</note></seg> den
                <lb facs="#facs_231_r1l14" n="N014"/>19<hi style="superscript">ten</hi> <choice><expan/><abbr>Jul:</abbr></choice> 746 <hi>aus</hi> (welcher aber nicht beyligt) zur gänzlichen Abfertigung an
                <lb facs="#facs_231_r1l15" n="N015"/>vätterlich- und mütterlicher Erbs Portion empfangen habe 4000 fl
                <lb facs="#facs_231_r1l16" n="N016"/>dann seye ihm von seiner Ähnl und <unclear>Vettern beede Droyfüßl</unclear> erblich zu-
@@ -118,7 +118,7 @@
                <lb facs="#facs_231_r1l27" n="N025"/>Herrschafft Jaßlowitz à 6 <choice><expan/><abbr>pC<hi style="superscript">to</hi></abbr></choice> anligend habe, welche ihm mit ult. <choice><expan/><abbr>Jul.</abbr></choice> d. a. <unclear>zurukbezahlet</unclear>
                <lb facs="#facs_231_r1l28" n="N026"/>werden sollen.
                <lb facs="#facs_231_r1l29" n="N027"/>Uber daß hat selber ein von dem <rs type="person" ref="wkfm__30347">Anton Pollitschotti</rs> dahin ausgesteltes <choice><expan/><abbr>orig:</abbr></choice> Cautions Instru-
-               <lb facs="#facs_231_r1l30" n="N028"/>ment <hi>das er 8005 fl besize</hi> dd<hi style="superscript">to</hi> 14 <choice><expan/><abbr>Aug:</abbr></choice> 746 das <hi>der</hi> <rs type="person" ref="wkfm__43968">Joseph Pilitschotti</rs> 8005 fl <comment comment="Der\u0020Satz\u0020geht\u0020oben\u0020in\u0020der\u0020Rubrik\u0020\u0022Oblatorien\u0020und\u0020Avocatorien\u0022\u0020weiter">aigenthumlich</comment> <hi>0</hi>
+               <lb facs="#facs_231_r1l30" n="N028"/>ment <hi>das er 8005 fl besize</hi> dd<hi style="superscript">to</hi> 14 <choice><expan/><abbr>Aug:</abbr></choice> 746 das <hi>der</hi> <rs type="person" ref="wkfm__43968">Joseph Pilitschotti</rs> 8005 fl <seg type="editorial_comment_seg">aigenthumlich<note type="editorial_comment_note">Der Satz geht oben in der Rubrik Oblatorien und Avocatorien weiter</note></seg> <hi>0</hi>
             </ab>
             
         </div>

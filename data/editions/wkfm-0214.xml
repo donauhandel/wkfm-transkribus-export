@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2964" lry="4502" xml:id="facs_160">
+    <surface ulx="0" uly="0" lrx="2964" lry="4502" xml:id="facs_160">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0214.jpg" width="2964px" height="4502px"/>
          <zone points="263,157 263,3287 2817,3287 2817,157" rendition="TextRegion" xml:id="facs_160_r1">
             <zone points="1041,230 1115,233 1189,237 1264,240 1338,243 1413,248 1487,253 1561,257 1636,261 1710,266 1785,270 1859,273 1933,276 2008,279 2082,281 2157,282 2231,282 2305,281 2380,279 2454,276 2529,273 2529,200 2454,203 2380,206 2305,208 2231,209 2157,209 2082,208 2008,206 1933,203 1859,200 1785,197 1710,193 1636,188 1561,184 1487,180 1413,175 1338,170 1264,167 1189,164 1115,160 1041,157" rendition="Line" xml:id="facs_160_r1l1"/>
@@ -86,9 +86,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_160" n="160" xml:id="img_0160"/>
+            <pb facs="#facs_160" n="160" xml:id="img_0160"/>
             
-            <ab  facs="#facs_160_r1">
+            <ab facs="#facs_160_r1">
                <lb facs="#facs_160_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_160_line_1621468921460_3003" n="N002"/>In obiger Erklährung N<hi style="superscript">o</hi> 98 haben der <rs type="person" ref="wkfm__19355">Polidoro</rs> und der <rs type="person" ref="wkfm__25146">Joseph
                <lb break="no" facs="#facs_160_r1l4" n="N003"/>Barbieri</rs> die Societaets Firma <rs type="person" ref="wkfm__43913">Anton Polidoro et <choice><expan/><abbr>Comp:</abbr></choice></rs> mit-

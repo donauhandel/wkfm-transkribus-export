@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3211" lry="4569" xml:id="facs_13">
+    <surface ulx="0" uly="0" lrx="3211" lry="4569" xml:id="facs_13">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0066.jpg" width="3211px" height="4569px"/>
          <zone points="186,260 186,3107 2814,3098 2814,251" rendition="TextRegion" xml:id="facs_13_r1">
             <zone points="2643,325 2805,325 2805,487 2643,487" rendition="Line" xml:id="facs_13_line_1629703782031_212" subtype="page-number"/>
@@ -72,9 +72,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_13" n="13" xml:id="img_0013"/>
+            <pb facs="#facs_13" n="13" xml:id="img_0013"/>
             
-            <ab  facs="#facs_13_r1">
+            <ab facs="#facs_13_r1">
                <lb facs="#facs_13_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_13_r1l2" n="N003"/><rs type="person" ref="wkfm__8412">Prunner Georg</rs> K. K. Niderlags Verwanter
                <lb facs="#facs_13_r1l3" n="N004"/>Firma oder Raggion

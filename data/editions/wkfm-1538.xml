@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2929" lry="4455" xml:id="facs_80">
+    <surface ulx="0" uly="0" lrx="2929" lry="4455" xml:id="facs_80">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1538.jpg" width="2929px" height="4455px"/>
          <zone points="396,147 396,3344 2843,3344 2843,147" rendition="TextRegion" xml:id="facs_80_r1">
             <zone points="1079,304 1145,296 1212,290 1279,285 1346,281 1413,279 1480,277 1547,276 1614,276 1681,277 1748,277 1814,277 1881,277 1948,276 2015,273 2082,271 2149,266 2216,261 2283,253 2350,243 2417,231 2417,147 2350,159 2283,169 2216,177 2149,182 2082,187 2015,189 1948,192 1881,193 1814,193 1748,193 1681,193 1614,192 1547,192 1480,193 1413,195 1346,197 1279,201 1212,206 1145,212 1079,220" rendition="Line" xml:id="facs_80_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_80" n="80" xml:id="img_0080"/>
+            <pb facs="#facs_80" n="80" xml:id="img_0080"/>
             
-            <ab  facs="#facs_80_r1">
+            <ab facs="#facs_80_r1">
                <lb facs="#facs_80_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_80_r1l4" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 695 hat sich der
                <lb facs="#facs_80_r1l5" n="N003"/><rs type="person" ref="wkfm__47450">Schuester</rs> geäusseret, daß er keinen Compagnon habe

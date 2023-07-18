@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2979" lry="4477" xml:id="facs_91">
+    <surface ulx="0" uly="0" lrx="2979" lry="4477" xml:id="facs_91">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1549.jpg" width="2979px" height="4477px"/>
          <zone points="230,139 230,2970 2751,2970 2751,139" rendition="TextRegion" xml:id="facs_91_r1">
             <zone points="2610,377 2637,378 2665,379 2692,382 2720,386 2748,389 2748,289 2720,286 2692,282 2665,279 2637,278 2610,277" rendition="Line" xml:id="facs_91_r1l2" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_91" n="91" xml:id="img_0091"/>
+            <pb facs="#facs_91" n="91" xml:id="img_0091"/>
             
-            <ab  facs="#facs_91_r1">
+            <ab facs="#facs_91_r1">
                <lb facs="#facs_91_r1l2" n="N001"/>767
                <lb facs="#facs_91_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_91_r1l3" n="N003"/><rs type="person" ref="wkfm__47460">Schreiber Franz</rs> burgerlicher Leinwathandler

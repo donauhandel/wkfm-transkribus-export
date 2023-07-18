@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_38">
+    <surface ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_38">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0658.jpg" width="2994px" height="4530px"/>
          <zone points="246,226 246,3404 2847,3404 2847,226" rendition="TextRegion" xml:id="facs_38_r1">
             <zone points="1176,301 1237,299 1298,296 1359,296 1420,296 1481,296 1542,296 1604,298 1665,298 1726,299 1787,301 1848,302 1909,304 1970,305 2032,307 2093,307 2154,308 2215,308 2276,308 2337,308 2399,307 2399,237 2337,238 2276,238 2215,238 2154,238 2093,237 2032,237 1970,235 1909,234 1848,232 1787,231 1726,229 1665,228 1604,228 1542,226 1481,226 1420,226 1359,226 1298,226 1237,229 1176,231" rendition="Line" xml:id="facs_38_r1l1"/>
@@ -70,9 +70,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_38" n="38" xml:id="img_0038"/>
+            <pb facs="#facs_38" n="38" xml:id="img_0038"/>
             
-            <ab  facs="#facs_38_r1">
+            <ab facs="#facs_38_r1">
                <lb facs="#facs_38_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_38_r1l2" n="N002"/><seg type="wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_38_r1l3" n="N003"/>Mitls Anbringen de ps 4<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 743 <hi>hat der</hi> N<hi style="superscript">o</hi> 2146 hat der <rs type="person" ref="wkfm__46430">Eybel</rs> den

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2953" lry="4400" xml:id="facs_50">
+    <surface ulx="0" uly="0" lrx="2953" lry="4400" xml:id="facs_50">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1402.jpg" width="2953px" height="4400px"/>
          <zone points="500,180 500,3342 2841,3342 2841,180" rendition="TextRegion" xml:id="facs_50_r1">
             <zone points="1116,297 1279,294 1338,289 1396,286 1455,283 1514,280 1572,279 1631,279 1689,279 1748,279 1807,280 1865,280 1924,282 1982,282 2041,283 2100,283 2158,283 2217,282 2275,280 2334,277 2393,274 2393,180 2334,183 2275,186 2217,188 2158,189 2100,189 2041,189 1982,188 1924,188 1865,186 1807,186 1748,185 1689,185 1631,185 1572,185 1514,186 1455,189 1396,192 1338,195 1279,200 1116,203" rendition="Line" xml:id="facs_50_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_50" n="50" xml:id="img_0050"/>
+            <pb facs="#facs_50" n="50" xml:id="img_0050"/>
             
-            <ab  facs="#facs_50_r1">
+            <ab facs="#facs_50_r1">
                <lb facs="#facs_50_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_50_r1l2" n="N002"/>In obiger Erkährung dd<hi style="superscript">to</hi> 18<hi style="superscript">ten</hi> Julii 726 N<hi style="superscript">o</hi> 633 hat sich der
                <lb facs="#facs_50_r1l3" n="N003"/><rs type="person" ref="wkfm__46713">Rezzina</rs> geäusseret, das er seine Handlung für sich habe.

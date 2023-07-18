@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2964" lry="4502" xml:id="facs_162">
+    <surface ulx="0" uly="0" lrx="2964" lry="4502" xml:id="facs_162">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0216.jpg" width="2964px" height="4502px"/>
          <graphic url="" width="2964px" height="4502px"/>
          <zone points="354,177 354,3340 2835,3340 2835,177" rendition="TextRegion" xml:id="facs_162_r1">
@@ -76,9 +76,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_162" n="162" xml:id="img_0162"/>
+            <pb facs="#facs_162" n="162" xml:id="img_0162"/>
             
-            <ab  facs="#facs_162_r1">
+            <ab facs="#facs_162_r1">
                <lb facs="#facs_162_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_162_r1l2" n="N002"/>In obiger Erklährung haben <rs type="person" ref="wkfm__19355">Anton Polidoro</rs> und <rs type="person" ref="wkfm__25146">Joseph
                <lb break="no" facs="#facs_162_r1l3" n="N003"/>Barbieri </rs>die Societaets Firma <rs type="person" ref="wkfm__25146">Anton Polidoro et <choice><expan/><abbr>Comp:</abbr></choice></rs>

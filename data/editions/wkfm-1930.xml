@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4398" xml:id="facs_28">
+    <surface ulx="0" uly="0" lrx="2994" lry="4398" xml:id="facs_28">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1930.jpg" width="2994px" height="4398px"/>
          <zone points="191,299 191,1862 1329,1862 1329,299" rendition="TextRegion" xml:id="facs_28_r1">
             <zone points="1056,368 1082,370 1108,372 1135,372 1161,372 1188,372 1214,374 1241,375 1241,329 1214,328 1188,326 1161,326 1135,326 1108,326 1082,324 1056,322" rendition="Line" xml:id="facs_28_r1l1"/>
@@ -156,9 +156,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_28" n="28" xml:id="img_0028"/>
+            <pb facs="#facs_28" n="28" xml:id="img_0028"/>
             
-            <ab  facs="#facs_28_r1">
+            <ab facs="#facs_28_r1">
                <lb facs="#facs_28_r1l1" n="N001"/>
                <lb facs="#facs_28_r1l2" n="N002"/>
                <lb facs="#facs_28_r1l3" n="N003"/>

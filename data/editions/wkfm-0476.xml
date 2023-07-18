@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3051" lry="4473" xml:id="facs_156">
+    <surface ulx="0" uly="0" lrx="3051" lry="4473" xml:id="facs_156">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0476.jpg" width="3051px" height="4473px"/>
          <zone points="516,148 516,3300 2982,3300 2982,148" rendition="TextRegion" xml:id="facs_156_r1">
             <zone points="1088,266 1151,260 1215,256 1279,252 1343,251 1407,248 1471,248 1535,248 1599,248 1663,248 1727,249 1790,249 1854,251 1918,251 1982,252 2046,252 2110,252 2174,252 2238,252 2302,251 2366,249 2366,149 2302,151 2238,152 2174,152 2110,152 2046,152 1982,152 1918,151 1854,151 1790,149 1727,149 1663,148 1599,148 1535,148 1471,148 1407,148 1343,151 1279,152 1215,156 1151,160 1088,166" rendition="Line" xml:id="facs_156_r1l1"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_156" n="156" xml:id="img_0156"/>
+            <pb facs="#facs_156" n="156" xml:id="img_0156"/>
             
-            <ab  facs="#facs_156_r1">
+            <ab facs="#facs_156_r1">
                <lb facs="#facs_156_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_156_r1l2" n="N002"/>In obigen Instrument dd<hi style="superscript">to</hi> 18<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 748 N<hi style="superscript">o</hi> 1322 hat sich der 
                <lb facs="#facs_156_r1l3" n="N003"/><rs type="person" ref="wkfm__9344">Anton Matthias Kircher</rs> erklähret, daß er entschlossen seine

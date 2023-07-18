@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3095" lry="4496" xml:id="facs_123">
+    <surface ulx="0" uly="0" lrx="3095" lry="4496" xml:id="facs_123">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0791.jpg" width="3095px" height="4496px"/>
          <graphic url="" width="3095px" height="4496px"/>
          <zone points="143,209 143,3609 2791,3618 2791,218" rendition="TextRegion" xml:id="facs_123_r1">
@@ -75,9 +75,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_123" n="123" xml:id="img_0123"/>
+            <pb facs="#facs_123" n="123" xml:id="img_0123"/>
             
-            <ab  facs="#facs_123_r1">
+            <ab facs="#facs_123_r1">
                <lb facs="#facs_123_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_123_r1l2" n="N003"/><rs type="person" ref="wkfm__43798">Ferrari Dominicus Anton</rs> burgerlicher Handlsmann
                <lb facs="#facs_123_r1l3" n="N004"/>Firma ad Raggion
@@ -86,7 +86,7 @@
                <lb facs="#facs_123_r1l6" n="N007"/><seg type="oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_123_r1l7" n="N008"/><seg type="fundi">Fundi Ausweisung</seg>
                <lb facs="#facs_123_r1l8" n="N009"/>Der <rs type="person" ref="wkfm__43798">Ferrari</rs> hat <unclear><hi>s</hi>e</unclear> zu Ausweisung seines Fundi das von dem <rs type="person" ref="wkfm__15300">Johann
-               <lb break="no" facs="#facs_123_r1l9" n="N010"/>Anton Bormastini</rs> <hi>dd<hi style="superscript"/></hi>to<comment comment="vermutl.\u0020eine\u0020Ortsangabe"><unclear>Moroco</unclear></comment> den 21<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 742 <hi>N<hi style="superscript"/></hi>o
+               <lb break="no" facs="#facs_123_r1l9" n="N010"/>Anton Bormastini</rs> <hi>dd<hi style="superscript"/></hi>to<seg type="editorial_comment_seg"><unclear>Moroco</unclear><note type="editorial_comment_note">vermutl. eine Ortsangabe</note></seg> den 21<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 742 <hi>N<hi style="superscript"/></hi>o
                <lb facs="#facs_123_r1l10" n="N011"/>stelte <choice><expan/><abbr>orig.</abbr></choice> attestatum N<hi style="superscript">o</hi> 1433 eingeleget, daß er <rs type="person" ref="wkfm__43798">Ferrari</rs> von seinem
                <lb facs="#facs_123_r1l11" n="N012"/>Oheim <rs type="person" ref="wkfm__47164">Joseph Carl Bormastini</rs> 7690 fl ererbet, und er <rs type="person" ref="wkfm__15300">Bormastini</rs>
                <lb facs="#facs_123_r1l12" n="N013"/>ihm diese Summam ausgezahlet habe.

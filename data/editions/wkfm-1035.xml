@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3095" lry="4410" xml:id="facs_115">
+    <surface ulx="0" uly="0" lrx="3095" lry="4410" xml:id="facs_115">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1035.jpg" width="3095px" height="4410px"/>
          <zone points="212,218 212,3439 2991,3439 2991,218" rendition="TextRegion" xml:id="facs_115_r2">
             <zone points="2822,388 2847,386 2872,385 2898,386 2923,386 2949,383 2949,323 2923,326 2898,326 2872,325 2847,326 2822,328" rendition="Line" xml:id="facs_115_r2l2" subtype="page-number"/>
@@ -77,9 +77,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_115" n="115" xml:id="img_0115"/>
+            <pb facs="#facs_115" n="115" xml:id="img_0115"/>
             
-            <ab  facs="#facs_115_r2">
+            <ab facs="#facs_115_r2">
                <lb facs="#facs_115_r2l2" n="N001"/>511
                <lb facs="#facs_115_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_115_r2l3" n="N003"/><hi>Hack</hi> <rs type="person" ref="wkfm__46535">Hackell Franz</rs> burgerlicher Handlsmann

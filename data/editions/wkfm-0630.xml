@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_10">
+    <surface ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_10">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0630.jpg" width="2994px" height="4530px"/>
          <zone points="230,211 230,3344 2835,3344 2835,211" rendition="TextRegion" xml:id="facs_10_r1">
             <zone points="1097,334 1160,325 1223,319 1286,314 1349,311 1412,308 1475,307 1538,307 1601,307 1664,308 1727,308 1790,310 1853,311 1916,313 1979,314 2042,314 2105,316 2168,314 2231,314 2294,312 2357,308 2357,212 2294,216 2231,218 2168,218 2105,220 2042,218 1979,218 1916,217 1853,215 1790,214 1727,212 1664,212 1601,211 1538,211 1475,211 1412,212 1349,215 1286,218 1223,223 1160,229 1097,238" rendition="Line" xml:id="facs_10_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_10" n="10" xml:id="img_0010"/>
+            <pb facs="#facs_10" n="10" xml:id="img_0010"/>
             
-            <ab  facs="#facs_10_r1">
+            <ab facs="#facs_10_r1">
                <lb facs="#facs_10_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_10_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 300 hat sich der
                <lb facs="#facs_10_r1l3" n="N003"/><rs type="person" ref="wkfm__46406">Engl</rs> geäusseret, daß für sich allein handle und mit niemand

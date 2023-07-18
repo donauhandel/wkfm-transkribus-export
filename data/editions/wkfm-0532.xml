@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3051" lry="4473" xml:id="facs_32">
+    <surface ulx="0" uly="0" lrx="3051" lry="4473" xml:id="facs_32">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0532.jpg" width="3051px" height="4473px"/>
          <zone points="410,122 410,3282 2961,3282 2961,122" rendition="TextRegion" xml:id="facs_32_r1">
             <zone points="1203,241 1263,238 1324,235 1385,234 1446,234 1506,234 1567,235 1628,235 1689,237 1749,239 1810,241 1871,244 1932,246 1992,247 2053,249 2114,250 2175,250 2235,250 2296,250 2357,249 2418,247 2418,135 2357,137 2296,138 2235,138 2175,138 2114,138 2053,137 1992,135 1932,134 1871,132 1810,129 1749,127 1689,125 1628,123 1567,123 1506,122 1446,122 1385,122 1324,123 1263,126 1203,129" rendition="Line" xml:id="facs_32_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_32" n="32" xml:id="img_0032"/>
+            <pb facs="#facs_32" n="32" xml:id="img_0032"/>
             
-            <ab  facs="#facs_32_r1">
+            <ab facs="#facs_32_r1">
                <lb facs="#facs_32_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_32_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 257 hat sich der
                <lb facs="#facs_32_r1l3" n="N003"/><rs type="person" ref="wkfm__8600">Dußell</rs> geäusseret, daß er keine Compagnia noch Verständ-

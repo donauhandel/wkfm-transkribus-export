@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2945" lry="4468" xml:id="facs_245">
+    <surface ulx="0" uly="0" lrx="2945" lry="4468" xml:id="facs_245">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1703.jpg" width="2945px" height="4468px"/>
          <zone points="684,155 684,3033 2739,3058 2739,180" rendition="TextRegion" xml:id="facs_245_r1">
             <zone points="2544,213 2720,213 2720,339 2544,339" rendition="Line" xml:id="facs_245_line_1626263905235_2600" subtype="page-number"/>
@@ -68,9 +68,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_245" n="245" xml:id="img_0245"/>
+            <pb facs="#facs_245" n="245" xml:id="img_0245"/>
             
-            <ab  facs="#facs_245_r1">
+            <ab facs="#facs_245_r1">
                <lb facs="#facs_245_line_1626263905235_2600" n="N001"/>844
                <lb facs="#facs_245_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_245_r1l2" n="N003"/>Hr <rs type="person" ref="wkfm__47513">Gebrüder Smittmer</rs>

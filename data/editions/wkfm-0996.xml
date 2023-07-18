@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4437" xml:id="facs_76">
+    <surface ulx="0" uly="0" lrx="2994" lry="4437" xml:id="facs_76">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0996.jpg" width="2994px" height="4437px"/>
          <graphic url="" width="2994px" height="4437px"/>
          <zone points="348,214 348,3380 2877,3380 2877,214" rendition="TextRegion" xml:id="facs_76_r1">
@@ -70,15 +70,15 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_76" n="76" xml:id="img_0076"/>
+            <pb facs="#facs_76" n="76" xml:id="img_0076"/>
             
-            <ab  facs="#facs_76_r1">
+            <ab facs="#facs_76_r1">
                <lb facs="#facs_76_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_76_r1l2" n="N002"/>In obigen Anbringen de ps: 24<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 729 N<hi style="superscript">o</hi> 1964 hat sich der 
                <lb facs="#facs_76_r1l3" n="N003"/><rs type="person" ref="wkfm__30048">Hoppe</rs> nebst den <rs type="person" ref="wkfm__46492">Ferdinand Aicher</rs> erklähret, daß sie
                <lb facs="#facs_76_r1l4" n="N004"/>sich miteinander in Compagnie stabilirert und ihre Handlung
                <lb facs="#facs_76_r1l5" n="N005"/>unter der Raggion <rs type="person" ref="wkfm__12260">Hoppe und Aicher</rs> mit ihren eignen interesse
-               <lb facs="#facs_76_r1l6" n="N006"/>und beederseithig <comment comment="Lesung\u0020mit\u0020Sicherheit\u0020falsch">resprogen</comment> obligo führen
+               <lb facs="#facs_76_r1l6" n="N006"/>und beederseithig <seg type="editorial_comment_seg">resprogen<note type="editorial_comment_note">Lesung mit Sicherheit falsch</note></seg> obligo führen
                <lb facs="#facs_76_r1l7" n="N007"/><seg type="wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_76_r1l8" n="N008"/>Anmerckungen
             </ab>

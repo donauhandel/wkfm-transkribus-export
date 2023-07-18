@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2982" lry="4407" xml:id="facs_177">
+    <surface ulx="0" uly="0" lrx="2982" lry="4407" xml:id="facs_177">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0231.jpg" width="2982px" height="4407px"/>
          <zone points="117,121 102,4199 2720,4199 2735,121" rendition="TextRegion" xml:id="facs_177_r3">
             <zone points="2547,174 2717,174 2717,278 2547,278" rendition="Line" xml:id="facs_177_line_1629708410544_838" subtype="page-number"/>
@@ -83,9 +83,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_177" n="177" xml:id="img_0177"/>
+            <pb facs="#facs_177" n="177" xml:id="img_0177"/>
             
-            <ab  facs="#facs_177_r3">
+            <ab facs="#facs_177_r3">
                <lb facs="#facs_177_r3l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_177_r3l2" n="N003"/><rs type="person" ref="wkfm__30347">Pillitschotti Anton</rs> burgerlicher Handlsmann
                <lb facs="#facs_177_r3l4" n="N004"/>Firma oder Raggion
@@ -97,7 +97,7 @@
                <lb facs="#facs_177_r3l10" n="N010"/>Der<rs type="person" ref="wkfm__30347"> Anton Pillitschotti</rs> hat mitls des Anbringens de ps: 9<hi style="superscript">ten</hi> <choice><expan/><abbr>Feb:</abbr></choice> 736
                <lb facs="#facs_177_line_1628451021255_1357" n="N011"/>N<hi style="superscript">o</hi> <hi>116</hi> 1065 folgender maßen ausgewisen, daß selber laut Raithandler Bericht
                <lb facs="#facs_177_r3l12" n="N012"/>Ausschlag (NB: welcher in dem Anbringen mit lit A in <choice><expan/><abbr>orig:</abbr></choice> allegiret
-               <lb facs="#facs_177_r3l14" n="N013"/>bey denen Mercantil actis aber nicht vorfündig ware, und an die <comment comment="Hofcammer?"><unclear>Hofc</unclear></comment>
+               <lb facs="#facs_177_r3l14" n="N013"/>bey denen Mercantil actis aber nicht vorfündig ware, und an die <seg type="editorial_comment_seg"><unclear>Hofc</unclear><note type="editorial_comment_note">Hofcammer?</note></seg>
                <lb facs="#facs_177_r3l15" n="N014"/>laut <unclear>Ubergabs Consignation</unclear>
                <lb facs="#facs_177_r3l16" n="N015"/>nicht übergeben worden) an ererbt <hi>dann</hi> und an erworbnen Gutt
                <lb facs="#facs_177_line_1621470019053_3362" n="N016"/>Alß eigenthumlich besize 4300 fl

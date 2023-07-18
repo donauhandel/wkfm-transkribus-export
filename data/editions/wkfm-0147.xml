@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2954" lry="4435" xml:id="facs_94">
+    <surface ulx="0" uly="0" lrx="2954" lry="4435" xml:id="facs_94">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0147.jpg" width="2954px" height="4435px"/>
          <zone points="293,172 293,3201 2826,3201 2826,172" rendition="TextRegion" xml:id="facs_94_r1">
             <zone points="822,247 899,252 977,257 1055,262 1132,267 1210,271 1288,277 1365,282 1443,286 1521,292 1599,297 1676,301 1754,305 1832,309 1909,313 1987,316 2065,319 2142,322 2220,324 2298,327 2376,328 2376,253 2298,252 2220,249 2142,247 2065,244 1987,241 1909,238 1832,234 1754,230 1676,226 1599,222 1521,217 1443,211 1365,207 1288,202 1210,196 1132,192 1055,187 977,182 899,177 822,172" rendition="Line" xml:id="facs_94_r1l1"/>
@@ -72,9 +72,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_94" n="94" xml:id="img_0094"/>
+            <pb facs="#facs_94" n="94" xml:id="img_0094"/>
             
-            <ab  facs="#facs_94_r1">
+            <ab facs="#facs_94_r1">
                <lb facs="#facs_94_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_94_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> Apr: 725 N<hi style="superscript">o</hi> 65 hat sich der
                <lb facs="#facs_94_r1l3" n="N003"/><rs type="person" ref="wkfm__9952">Preyßl</rs> geäusseret, daß er seine Handlung allein führe

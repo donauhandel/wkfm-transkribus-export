@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2982" lry="4436" xml:id="facs_16">
+    <surface ulx="0" uly="0" lrx="2982" lry="4436" xml:id="facs_16">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1200.jpg" width="2982px" height="4436px"/>
          <zone points="354,140 354,3352 2841,3352 2841,140" rendition="TextRegion" xml:id="facs_16_r1">
             <zone points="1217,288 1277,285 1337,280 1397,277 1457,276 1517,274 1577,273 1637,271 1697,271 1757,270 1817,270 1877,270 1937,268 1997,268 2057,267 2117,265 2177,264 2237,262 2297,259 2357,256 2417,252 2417,140 2357,144 2297,147 2237,150 2177,152 2117,153 2057,155 1997,156 1937,156 1877,158 1817,158 1757,158 1697,159 1637,159 1577,161 1517,162 1457,164 1397,165 1337,168 1277,173 1217,176" rendition="Line" xml:id="facs_16_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_16" n="16" xml:id="img_0016"/>
+            <pb facs="#facs_16" n="16" xml:id="img_0016"/>
             
-            <ab  facs="#facs_16_r1">
+            <ab facs="#facs_16_r1">
                <lb facs="#facs_16_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_16_r1l2" n="N002"/>In obigen Anbringen de ps: 26<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 549 hat sich der
                <lb facs="#facs_16_r1l3" n="N003"/><rs type="person" ref="wkfm__46860">Mobré</rs> erklähret, das er seine Handlung ohne Compagnie führe

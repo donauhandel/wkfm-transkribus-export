@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_6">
+    <surface ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_6">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0626.jpg" width="2994px" height="4530px"/>
          <zone points="255,223 255,3380 2847,3380 2847,223" rendition="TextRegion" xml:id="facs_6_r1">
             <zone points="1100,322 1167,322 1234,322 1301,322 1368,322 1436,322 1503,322 1570,320 1637,320 1704,320 1772,319 1839,319 1906,318 1973,317 2040,317 2108,316 2175,316 2242,314 2309,314 2376,313 2444,311 2444,223 2376,225 2309,226 2242,226 2175,228 2108,228 2040,229 1973,229 1906,230 1839,231 1772,231 1704,232 1637,232 1570,232 1503,234 1436,234 1368,234 1301,234 1234,234 1167,234 1100,234" rendition="Line" xml:id="facs_6_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_6" n="6" xml:id="img_0006"/>
+            <pb facs="#facs_6" n="6" xml:id="img_0006"/>
             
-            <ab  facs="#facs_6_r1">
+            <ab facs="#facs_6_r1">
                <lb facs="#facs_6_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_6_r1l2" n="N002"/>Im obig<hi>en</hi>er <hi>d</hi> Erklährung sine dato N<hi style="superscript">o</hi> 295 hat sich der <rs type="person" ref="wkfm__46403">Eberl</rs> geäussert
                <lb facs="#facs_6_r1l3" n="N003"/>daß er gahr keinen interessenten habe.

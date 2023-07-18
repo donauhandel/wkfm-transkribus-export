@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2893" lry="4398" xml:id="facs_10">
+    <surface ulx="0" uly="0" lrx="2893" lry="4398" xml:id="facs_10">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1864.jpg" width="2893px" height="4398px"/>
          <zone points="120,112 120,3275 2715,3275 2715,112" rendition="TextRegion" xml:id="facs_10_r1">
             <zone points="878,259 942,248 1006,239 1070,233 1134,230 1199,227 1263,226 1327,226 1391,227 1455,229 1520,230 1584,232 1648,235 1712,236 1776,236 1841,236 1905,235 1969,231 2033,226 2097,219 2162,209 2162,112 2097,122 2033,129 1969,134 1905,138 1841,139 1776,139 1712,139 1648,138 1584,135 1520,133 1455,132 1391,130 1327,129 1263,129 1199,130 1134,133 1070,136 1006,142 942,151 878,162" rendition="Line" xml:id="facs_10_r1l1"/>
@@ -71,9 +71,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_10" n="10" xml:id="img_0010"/>
+            <pb facs="#facs_10" n="10" xml:id="img_0010"/>
             
-            <ab  facs="#facs_10_r1">
+            <ab facs="#facs_10_r1">
                <lb facs="#facs_10_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_10_r1l2" n="N002"/>In obigen anbringen de ps: 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 1960 hat sich der <rs type="person" ref="wkfm__43823">Mayer
                <lb break="no" facs="#facs_10_r1l3" n="N003"/>Hierschel </rs>nebst seinem Bruder <rs type="person" ref="wkfm__11130">Marx Hierschel</rs> erklähret, daß unter

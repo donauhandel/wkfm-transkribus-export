@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2872" lry="4419" xml:id="facs_152">
+    <surface ulx="0" uly="0" lrx="2872" lry="4419" xml:id="facs_152">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1610.jpg" width="2872px" height="4419px"/>
          <zone points="207,78 207,3241 2867,3241 2867,78" rendition="TextRegion" xml:id="facs_152_r1">
             <zone points="1040,271 1104,265 1168,259 1232,254 1296,251 1361,250 1425,248 1489,247 1553,246 1617,245 1682,245 1746,244 1810,244 1874,242 1938,241 2003,238 2067,234 2131,229 2195,224 2259,216 2324,208 2324,147 2259,155 2195,163 2131,168 2067,173 2003,177 1938,180 1874,181 1810,183 1746,183 1682,184 1617,184 1553,185 1489,186 1425,187 1361,189 1296,190 1232,193 1168,198 1104,204 1040,210" rendition="Line" xml:id="facs_152_r1l2"/>
@@ -73,9 +73,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_152" n="152" xml:id="img_0152"/>
+            <pb facs="#facs_152" n="152" xml:id="img_0152"/>
             
-            <ab  facs="#facs_152_r1">
+            <ab facs="#facs_152_r1">
                <lb facs="#facs_152_r1l2" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_152_r1l3" n="N002"/>In obigen Anbringen de ps: 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 735 N<hi style="superscript">o</hi> 735 hat der <rs type="person" ref="wkfm__47182">Scholz</rs> angezeiget
                <lb facs="#facs_152_r1l4" n="N003"/>daß er seine Handlung mit eignen Capitalien führe

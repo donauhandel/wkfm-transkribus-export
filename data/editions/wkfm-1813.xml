@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2936" lry="4468" xml:id="facs_107">
+    <surface ulx="0" uly="0" lrx="2936" lry="4468" xml:id="facs_107">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1813.jpg" width="2936px" height="4468px"/>
          <zone points="180,230 180,3267 2780,3267 2780,230" rendition="TextRegion" xml:id="facs_107_r1">
             <zone points="2624,352 2650,354 2676,355 2702,355 2728,355 2754,355 2780,355 2780,297 2754,297 2728,297 2702,297 2676,297 2650,296 2624,294" rendition="Line" xml:id="facs_107_r1l2" subtype="page-number"/>
@@ -71,9 +71,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_107" n="107" xml:id="img_0107"/>
+            <pb facs="#facs_107" n="107" xml:id="img_0107"/>
             
-            <ab  facs="#facs_107_r1">
+            <ab facs="#facs_107_r1">
                <lb facs="#facs_107_r1l2" n="N001"/>899
                <lb facs="#facs_107_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_107_r1l3" n="N003"/><rs type="person" ref="wkfm__47036">Wöss Matthaeus Ferdinand</rs> burgerlicher Tuchlaubens Verwanter

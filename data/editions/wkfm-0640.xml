@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_20">
+    <surface ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_20">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0640.jpg" width="2994px" height="4530px"/>
          <zone points="336,247 336,3390 2862,3390 2862,247" rendition="TextRegion" xml:id="facs_20_r1">
             <zone points="1230,324 1291,322 1353,322 1414,322 1476,322 1537,322 1599,324 1660,324 1722,325 1783,325 1845,327 1906,328 1968,329 2029,330 2091,331 2152,332 2214,333 2275,334 2337,334 2398,334 2460,334 2460,259 2398,259 2337,259 2275,259 2214,258 2152,257 2091,256 2029,255 1968,254 1906,253 1845,252 1783,250 1722,250 1660,249 1599,249 1537,247 1476,247 1414,247 1353,247 1291,247 1230,249" rendition="Line" xml:id="facs_20_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_20" n="20" xml:id="img_0020"/>
+            <pb facs="#facs_20" n="20" xml:id="img_0020"/>
             
-            <ab  facs="#facs_20_r1">
+            <ab facs="#facs_20_r1">
                <lb facs="#facs_20_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_20_line_1621343162682_685" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 305 hat sich der <rs type="person" ref="wkfm__10250">Eckhartt</rs> geäussert
                <lb facs="#facs_20_r1l4" n="N003"/>daß er weder hier noch aussen einen Compagnon habe

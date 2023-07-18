@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3030" lry="4437" xml:id="facs_112">
+    <surface ulx="0" uly="0" lrx="3030" lry="4437" xml:id="facs_112">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1032.jpg" width="3030px" height="4437px"/>
          <zone points="302,221 302,3466 2934,3466 2934,221" rendition="TextRegion" xml:id="facs_112_r1">
             <zone points="1151,367 1212,361 1274,355 1335,350 1397,346 1459,343 1520,341 1582,339 1644,338 1705,337 1767,335 1829,334 1890,334 1952,332 2014,331 2075,329 2137,326 2199,323 2260,318 2322,313 2384,308 2384,221 2322,226 2260,231 2199,236 2137,239 2075,242 2014,244 1952,245 1890,247 1829,247 1767,248 1705,250 1644,251 1582,252 1520,254 1459,256 1397,259 1335,263 1274,268 1212,274 1151,280" rendition="Line" xml:id="facs_112_r1l1"/>
@@ -74,9 +74,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_112" n="112" xml:id="img_0112"/>
+            <pb facs="#facs_112" n="112" xml:id="img_0112"/>
             
-            <ab  facs="#facs_112_r1">
+            <ab facs="#facs_112_r1">
                <lb facs="#facs_112_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_112_r1l2" n="N002"/>In obiger Erklährung sine datto N<hi style="superscript">o</hi> 132 hat der <rs type="person" ref="wkfm__30193">Hillebrand</rs> mit 
                <lb facs="#facs_112_r1l3" n="N003"/>dem <rs type="person" ref="wkfm__46532">Johann Pöhamb</rs> die ihnen beeden gemeinsame societaets firma

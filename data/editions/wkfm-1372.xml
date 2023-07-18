@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2953" lry="4400" xml:id="facs_20">
+    <surface ulx="0" uly="0" lrx="2953" lry="4400" xml:id="facs_20">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1372.jpg" width="2953px" height="4400px"/>
          <zone points="411,198 411,3307 2823,3307 2823,198" rendition="TextRegion" xml:id="facs_20_r1">
             <zone points="1095,328 1156,326 1218,324 1279,322 1341,321 1403,319 1464,319 1526,318 1587,318 1649,317 1711,316 1772,315 1834,315 1895,313 1957,312 2019,310 2080,307 2142,304 2203,300 2265,296 2327,291 2327,198 2265,203 2203,207 2142,211 2080,214 2019,217 1957,219 1895,220 1834,222 1772,222 1711,223 1649,224 1587,225 1526,225 1464,226 1403,226 1341,228 1279,229 1218,231 1156,233 1095,235" rendition="Line" xml:id="facs_20_r1l1"/>
@@ -68,9 +68,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_20" n="20" xml:id="img_0020"/>
+            <pb facs="#facs_20" n="20" xml:id="img_0020"/>
             
-            <ab  facs="#facs_20_r1">
+            <ab facs="#facs_20_r1">
                <lb facs="#facs_20_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_20_r1l2" n="N002"/>In obigen Anbringen de ps: 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 620 hat der <rs type="person" ref="wkfm__8489">Rößler</rs>
                <lb facs="#facs_20_r1l3" n="N003"/>sich erklähret, daß er seine Handlung ganz allein führe.

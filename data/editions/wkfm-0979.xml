@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3095" lry="4410" xml:id="facs_59">
+    <surface ulx="0" uly="0" lrx="3095" lry="4410" xml:id="facs_59">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0979.jpg" width="3095px" height="4410px"/>
          <zone points="153,152 153,3055 2736,3055 2736,152" rendition="TextRegion" xml:id="facs_59_r2">
             <zone points="2571,358 2598,362 2625,366 2652,370 2679,371 2706,370 2706,220 2679,221 2652,220 2625,216 2598,212 2571,208" rendition="Line" xml:id="facs_59_r2l2" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_59" n="59" xml:id="img_0059"/>
+            <pb facs="#facs_59" n="59" xml:id="img_0059"/>
             
-            <ab  facs="#facs_59_r2">
+            <ab facs="#facs_59_r2">
                <lb facs="#facs_59_r2l2" n="N001"/>482
                <lb facs="#facs_59_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_59_r2l3" n="N003"/><rs type="person" ref="wkfm__18243">Höffler Niclas</rs> burgerlicher Handlsmann

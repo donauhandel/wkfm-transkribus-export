@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2929" lry="4455" xml:id="facs_112">
+    <surface ulx="0" uly="0" lrx="2929" lry="4455" xml:id="facs_112">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1570.jpg" width="2929px" height="4455px"/>
          <zone points="305,144 305,3300 2864,3300 2864,144" rendition="TextRegion" xml:id="facs_112_r1">
             <zone points="1103,310 1171,303 1239,297 1308,292 1376,289 1445,286 1513,285 1581,283 1650,282 1718,282 1787,280 1855,280 1923,279 1992,278 2060,276 2129,274 2197,270 2265,265 2334,260 2402,254 2471,246 2471,144 2402,152 2334,158 2265,163 2197,168 2129,172 2060,174 1992,176 1923,177 1855,178 1787,178 1718,180 1650,180 1581,181 1513,183 1445,184 1376,187 1308,190 1239,195 1171,201 1103,208" rendition="Line" xml:id="facs_112_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_112" n="112" xml:id="img_0112"/>
+            <pb facs="#facs_112" n="112" xml:id="img_0112"/>
             
-            <ab  facs="#facs_112_r1">
+            <ab facs="#facs_112_r1">
                <lb facs="#facs_112_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_112_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 13<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 729 N<hi style="superscript">o</hi> 2046 hat sich der
                <lb facs="#facs_112_r1l3" n="N003"/><rs type="person" ref="wkfm__47477">Schell</rs> nebst dem <rs type="person" ref="wkfm__47479">Appoldt</rs> geäusseret, daß sie beede ihre Handlung

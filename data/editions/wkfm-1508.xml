@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2929" lry="4455" xml:id="facs_50">
+    <surface ulx="0" uly="0" lrx="2929" lry="4455" xml:id="facs_50">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1508.jpg" width="2929px" height="4455px"/>
          <zone points="339,157 339,3301 2802,3301 2802,157" rendition="TextRegion" xml:id="facs_50_r1">
             <zone points="1067,325 1127,318 1187,312 1247,307 1308,302 1368,299 1428,298 1489,296 1549,295 1609,295 1670,293 1730,293 1790,292 1850,290 1911,289 1971,286 2031,282 2092,277 2152,271 2212,263 2273,253 2273,157 2212,167 2152,175 2092,181 2031,186 1971,190 1911,193 1850,194 1790,196 1730,197 1670,197 1609,199 1549,199 1489,200 1428,202 1368,203 1308,206 1247,211 1187,216 1127,222 1067,229" rendition="Line" xml:id="facs_50_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_50" n="50" xml:id="img_0050"/>
+            <pb facs="#facs_50" n="50" xml:id="img_0050"/>
             
-            <ab  facs="#facs_50_r1">
+            <ab facs="#facs_50_r1">
                <lb facs="#facs_50_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_50_r1l3" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 680 hat sich der
                <lb facs="#facs_50_r1l5" n="N003"/><rs type="person" ref="wkfm__16482">Schikh</rs> geäusseret, daß sein negotium ohne Compagnon geführet werde

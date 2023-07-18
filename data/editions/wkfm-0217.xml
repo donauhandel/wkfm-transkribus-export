@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3029" lry="4464" xml:id="facs_163">
+    <surface ulx="0" uly="0" lrx="3029" lry="4464" xml:id="facs_163">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0217.jpg" width="3029px" height="4464px"/>
          <zone points="180,110 180,2932 2627,2932 2627,110" rendition="TextRegion" xml:id="facs_163_r1">
             <zone points="2483,183 2508,176 2534,172 2560,171 2586,169 2612,168 2612,110 2586,111 2560,113 2534,114 2508,118 2483,125" rendition="Line" xml:id="facs_163_r1l1" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_163" n="163" xml:id="img_0163"/>
+            <pb facs="#facs_163" n="163" xml:id="img_0163"/>
             
-            <ab  facs="#facs_163_r1">
+            <ab facs="#facs_163_r1">
                <lb facs="#facs_163_r1l1" n="N001"/>106
                <lb facs="#facs_163_r1l2" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_163_r1l3" n="N003"/><rs type="person" ref="wkfm__23655">Brighenti Johann Anton</rs> burgerlicher Handlsmann

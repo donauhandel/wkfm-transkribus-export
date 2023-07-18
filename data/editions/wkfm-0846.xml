@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_34">
+    <surface ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_34">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0846.jpg" width="2994px" height="4530px"/>
          <zone points="363,291 363,3501 2832,3501 2832,291" rendition="TextRegion" xml:id="facs_34_r1">
             <zone points="1217,426 1279,423 1341,421 1403,421 1465,420 1527,420 1589,418 1651,420 1713,420 1775,420 1838,420 1900,420 1962,420 2024,420 2086,418 2148,418 2210,417 2272,414 2334,411 2396,406 2459,402 2459,291 2396,295 2334,300 2272,303 2210,306 2148,307 2086,307 2024,309 1962,309 1900,309 1838,309 1775,309 1713,309 1651,309 1589,307 1527,309 1465,309 1403,310 1341,310 1279,312 1217,315" rendition="Line" xml:id="facs_34_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_34" n="34" xml:id="img_0034"/>
+            <pb facs="#facs_34" n="34" xml:id="img_0034"/>
             
-            <ab  facs="#facs_34_r1">
+            <ab facs="#facs_34_r1">
                <lb facs="#facs_34_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_34_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 396 hat sich
                <lb facs="#facs_34_r1l3" n="N003"/>der <rs type="person" ref="wkfm__26080">Grindtler</rs> geäusseret, das er keinen Compagnon habe.

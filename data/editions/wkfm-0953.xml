@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3095" lry="4469" xml:id="facs_33">
+    <surface ulx="0" uly="0" lrx="3095" lry="4469" xml:id="facs_33">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0953.jpg" width="3095px" height="4469px"/>
          <zone points="180,111 180,2916 2808,2916 2808,111" rendition="TextRegion" xml:id="facs_33_r2">
             <zone points="2609,394 2637,392 2666,391 2695,390 2724,388 2753,382 2753,322 2724,328 2695,330 2666,331 2637,332 2609,334" rendition="Line" xml:id="facs_33_r2l2" subtype="page-number"/>
@@ -73,9 +73,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_33" n="33" xml:id="img_0033"/>
+            <pb facs="#facs_33" n="33" xml:id="img_0033"/>
             
-            <ab  facs="#facs_33_r2">
+            <ab facs="#facs_33_r2">
                <lb facs="#facs_33_r2l2" n="N001"/>469
                <lb facs="#facs_33_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_33_r2l3" n="N003"/><rs type="person" ref="wkfm__20866">Haaß Johann Christoph</rs> k. k. Niderlags Verwanter

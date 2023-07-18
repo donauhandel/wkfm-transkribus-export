@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3019" lry="4503" xml:id="facs_78">
+    <surface ulx="0" uly="0" lrx="3019" lry="4503" xml:id="facs_78">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1262.jpg" width="3019px" height="4503px"/>
          <zone points="326,204 326,3322 2735,3322 2735,204" rendition="TextRegion" xml:id="facs_78_r1">
             <zone points="1355,295 1414,292 1473,289 1532,288 1592,288 1651,286 1710,288 1770,288 1829,289 1888,291 1948,291 2007,292 2066,294 2125,294 2185,294 2244,294 2303,292 2363,291 2422,288 2481,285 2541,279 2541,204 2481,210 2422,213 2363,216 2303,217 2244,219 2185,219 2125,219 2066,219 2007,217 1948,216 1888,216 1829,214 1770,213 1710,213 1651,211 1592,213 1532,213 1473,214 1414,217 1355,220" rendition="Line" xml:id="facs_78_r1l1"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_78" n="78" xml:id="img_0078"/>
+            <pb facs="#facs_78" n="78" xml:id="img_0078"/>
             
-            <ab  facs="#facs_78_r1">
+            <ab facs="#facs_78_r1">
                <lb facs="#facs_78_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_78_r1l2" n="N002"/>Untern 21<hi style="superscript">ten</hi> Martij hat der <rs type="person" ref="wkfm__46914">Mathäus Maninger</rs> mit dem Anton
                <lb facs="#facs_78_r1l3" n="N003"/>Unterholzer eine Societät errichtet, vermög welcher der <rs type="person" ref="wkfm__46917">Unterholzer</rs>

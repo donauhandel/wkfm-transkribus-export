@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3051" lry="4473" xml:id="facs_36">
+    <surface ulx="0" uly="0" lrx="3051" lry="4473" xml:id="facs_36">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0536.jpg" width="3051px" height="4473px"/>
          <zone points="468,134 468,3266 2934,3266 2934,134" rendition="TextRegion" xml:id="facs_36_r1">
             <zone points="1262,239 1324,237 1386,236 1449,235 1511,234 1574,233 1636,233 1698,233 1761,233 1823,233 1886,233 1948,233 2010,233 2073,234 2135,234 2198,234 2260,234 2322,234 2385,234 2447,234 2510,234 2510,135 2447,135 2385,135 2322,135 2260,135 2198,135 2135,135 2073,135 2010,134 1948,134 1886,134 1823,134 1761,134 1698,134 1636,134 1574,134 1511,135 1449,136 1386,137 1324,138 1262,140" rendition="Line" xml:id="facs_36_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_36" n="36" xml:id="img_0036"/>
+            <pb facs="#facs_36" n="36" xml:id="img_0036"/>
             
-            <ab  facs="#facs_36_r1">
+            <ab facs="#facs_36_r1">
                <lb facs="#facs_36_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_36_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 259 hat
                <lb facs="#facs_36_r1l3" n="N003"/>sich der <rs type="person" ref="wkfm__21806">Diwaldt</rs> geäusseret, das er seine Handlung ohne

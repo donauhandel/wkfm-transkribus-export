@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2945" lry="4407" xml:id="facs_105">
+    <surface ulx="0" uly="0" lrx="2945" lry="4407" xml:id="facs_105">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0158.jpg" width="2945px" height="4407px"/>
          <zone points="195,144 195,2974 2598,2974 2598,144" rendition="TextRegion" xml:id="facs_105_r1">
             <zone points="2486,238 2513,237 2540,239 2567,241 2567,148 2540,146 2513,144 2486,145" rendition="Line" xml:id="facs_105_r1l1" subtype="page-number"/>
@@ -70,14 +70,14 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_105" n="105" xml:id="img_0105"/>
+            <pb facs="#facs_105" n="105" xml:id="img_0105"/>
             
-            <ab  facs="#facs_105_r1">
+            <ab facs="#facs_105_r1">
                <lb facs="#facs_105_r1l1" n="N001"/>77
                <lb facs="#facs_105_r1l2" n="N002"/>Nahmen u. Class
                <lb facs="#facs_105_r1l3" n="N003"/><rs type="person" ref="wkfm__15544">Benedetti Johann Georg</rs> burgerlicher Handlsmann
                <lb facs="#facs_105_r1l4" n="N004"/>Firma oder Raggion
-               <lb facs="#facs_105_r1l5" n="N005"/><rs type="person" ref="wkfm__47320">Johann <comment comment="Sic!">Jehorg</comment> Benedetti</rs> laut Erklährung dd<hi style="superscript">to</hi> 20<hi style="superscript">ten</hi> <unclear>Juni</unclear>
+               <lb facs="#facs_105_r1l5" n="N005"/><rs type="person" ref="wkfm__47320">Johann <seg type="editorial_comment_seg">Jehorg<note type="editorial_comment_note">Sic!</note></seg> Benedetti</rs> laut Erklährung dd<hi style="superscript">to</hi> 20<hi style="superscript">ten</hi> <unclear>Juni</unclear>
                <lb facs="#facs_105_r1l6" n="N006"/>725 N<hi style="superscript">o</hi> 71
                <lb facs="#facs_105_r1l7" n="N007"/><seg type="owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_105_r1l8" n="N008"/><seg type="oblatorien">Oblatorien und Avocatorien</seg>

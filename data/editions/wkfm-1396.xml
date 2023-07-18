@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2953" lry="4400" xml:id="facs_44">
+    <surface ulx="0" uly="0" lrx="2953" lry="4400" xml:id="facs_44">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1396.jpg" width="2953px" height="4400px"/>
          <zone points="279,159 279,3375 2835,3375 2835,159" rendition="TextRegion" xml:id="facs_44_r1">
             <zone points="996,323 1056,312 1116,304 1177,298 1237,292 1298,288 1358,285 1418,284 1479,284 1539,282 1600,284 1660,284 1720,285 1781,285 1841,285 1902,287 1962,285 2022,285 2083,283 2143,280 2204,276 2204,159 2143,163 2083,166 2022,168 1962,168 1902,170 1841,168 1781,168 1720,168 1660,167 1600,167 1539,165 1479,167 1418,167 1358,168 1298,171 1237,175 1177,181 1116,187 1056,195 996,206" rendition="Line" xml:id="facs_44_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_44" n="44" xml:id="img_0044"/>
+            <pb facs="#facs_44" n="44" xml:id="img_0044"/>
             
-            <ab  facs="#facs_44_r1">
+            <ab facs="#facs_44_r1">
                <lb facs="#facs_44_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_44_r1l2" n="N002"/>In obiger Erkährung haben sich die <rs type="person" ref="wkfm__12131">Gebrüder Rappatsch</rs> geäusseret
                <lb facs="#facs_44_r1l3" n="N003"/>daß sie mit einander für sich allein in Compagnie handlen

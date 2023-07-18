@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2973" lry="4391" xml:id="facs_67">
+    <surface ulx="0" uly="0" lrx="2973" lry="4391" xml:id="facs_67">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1419.jpg" width="2973px" height="4391px"/>
          <zone points="248,180 248,2982 2825,2974 2825,172" rendition="TextRegion" xml:id="facs_67_r1">
             <zone points="2669,278 2816,278 2816,425 2669,425" rendition="Line" xml:id="facs_67_line_1625046127082_1771" subtype="page-number"/>
@@ -70,9 +70,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_67" n="67" xml:id="img_0067"/>
+            <pb facs="#facs_67" n="67" xml:id="img_0067"/>
             
-            <ab  facs="#facs_67_r1">
+            <ab facs="#facs_67_r1">
                <lb facs="#facs_67_line_1625046127082_1771" n="N001"/>702
                <lb facs="#facs_67_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_67_r1l2" n="N003"/><rs type="person" ref="wkfm__29325">Rebay Johann Heinrich</rs> burgerlicher Handlsmann

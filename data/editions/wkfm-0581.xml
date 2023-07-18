@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3077" lry="4511" xml:id="facs_81">
+    <surface ulx="0" uly="0" lrx="3077" lry="4511" xml:id="facs_81">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0581.jpg" width="3077px" height="4511px"/>
          <zone points="194,290 194,3077 2864,3077 2864,290" rendition="TextRegion" xml:id="facs_81_r2">
             <zone points="2750,469 2778,469 2807,468 2835,467 2864,469 2864,409 2835,407 2807,408 2778,409 2750,409" rendition="Line" xml:id="facs_81_r2l2" subtype="page-number"/>
@@ -81,9 +81,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_81" n="81" xml:id="img_0081"/>
+            <pb facs="#facs_81" n="81" xml:id="img_0081"/>
             
-            <ab  facs="#facs_81_r2">
+            <ab facs="#facs_81_r2">
                <lb facs="#facs_81_r2l2" n="N001"/>288
                <lb facs="#facs_81_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_81_r2l3" n="N003"/><rs type="person" ref="wkfm__6849">Tech Erdmann</rs> k. k. Niderlagsverwanter 

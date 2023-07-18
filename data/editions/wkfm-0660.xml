@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_40">
+    <surface ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_40">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0660.jpg" width="2994px" height="4530px"/>
          <zone points="321,230 321,3404 2640,3404 2640,230" rendition="TextRegion" xml:id="facs_40_r1">
             <zone points="1319,236 1345,234 1424,231 1578,232 1720,233 1811,234 2495,246 2495,336 2358,336 1319,326" rendition="Line" xml:id="facs_40_line_1619366371827_184"/>
@@ -70,9 +70,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_40" n="40" xml:id="img_0040"/>
+            <pb facs="#facs_40" n="40" xml:id="img_0040"/>
             
-            <ab  facs="#facs_40_r1">
+            <ab facs="#facs_40_r1">
                <lb facs="#facs_40_line_1619366371827_184" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_40_r1l3" n="N002"/><seg type="wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_40_r1l4" n="N003"/><choice><expan/><abbr>Ao:</abbr></choice> 772 hat sich der <rs type="person" ref="wkfm__46433">Urban Ehrnhofer</rs> seinen mit der

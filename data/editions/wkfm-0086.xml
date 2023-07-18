@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2991" lry="4407" xml:id="facs_33">
+    <surface ulx="0" uly="0" lrx="2991" lry="4407" xml:id="facs_33">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0086.jpg" width="2991px" height="4407px"/>
          <graphic url="" width="2991px" height="4407px"/>
          <zone points="104,159 104,3373 2775,3373 2775,159" rendition="TextRegion" xml:id="facs_33_r1">
@@ -97,9 +97,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_33" n="33" xml:id="img_0033"/>
+            <pb facs="#facs_33" n="33" xml:id="img_0033"/>
             
-            <ab  facs="#facs_33_r1">
+            <ab facs="#facs_33_r1">
                <lb facs="#facs_33_r1l1" n="N001"/>41
                <lb facs="#facs_33_r1l2" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_33_r1l3" n="N003"/><hi>Buirette</hi>
@@ -131,7 +131,7 @@
                <lb facs="#facs_33_r1l31" n="N029"/>zu Continuiren um zwahr unter obiger <hi>Firma</hi> Raggion, worinn nebst seiner
                <lb facs="#facs_33_r1l32" n="N030"/>der <rs type="person" ref="wkfm__43838">Jaques du Tens</rs> die Firma führen werde.
                <lb facs="#facs_33_r1l33" n="N031"/><seg type="fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_33_r1l34" n="N032"/><comment comment="Der\u0020folgende\u0020Text\u0020seht\u0020am\u0020Ende\u0020der\u0020Rubrik\u0020\u0022Procura\u0020und\u0020Firmae\u0020Trager\u0022"><hi>0</hi></comment> laut Anbringen de ps: 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 740 N<hi style="superscript">o</hi> 923 und <choice><expan/><abbr>orig:</abbr></choice> Procura
+               <lb facs="#facs_33_r1l34" n="N032"/><seg type="editorial_comment_seg"><hi>0</hi><note type="editorial_comment_note">Der folgende Text seht am Ende der Rubrik Procura und Firmae Trager</note></seg> laut Anbringen de ps: 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 740 N<hi style="superscript">o</hi> 923 und <choice><expan/><abbr>orig:</abbr></choice> Procura
                <lb facs="#facs_33_r1l35" n="N033"/>dd<hi style="superscript">to</hi> <hi>17<hi style="superscript"/></hi>ten<hi style="superscript">o</hi> 922 ist die Firma dem <rs type="person" ref="wkfm__43838">Du Tens</rs> anwiderum
                <lb facs="#facs_33_r1l36" n="N034"/>abgenohmen und die unumschränkte Procura dem <rs type="person" ref="wkfm__43839">Johann Noe
                <lb break="no" facs="#facs_33_r1l37" n="N035"/>Buirette</rs> allein ertheilet worden.

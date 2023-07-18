@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3095" lry="4496" xml:id="facs_19">
+    <surface ulx="0" uly="0" lrx="3095" lry="4496" xml:id="facs_19">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0687.jpg" width="3095px" height="4496px"/>
          <zone points="194,236 194,3045 2816,3045 2816,236" rendition="TextRegion" xml:id="facs_19_r2">
             <zone points="2643,465 2671,470 2700,471 2729,471 2758,470 2787,468 2816,467 2816,386 2787,387 2758,389 2729,390 2700,390 2671,389 2643,384" rendition="Line" xml:id="facs_19_r2l2" subtype="page-number"/>
@@ -71,9 +71,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_19" n="19" xml:id="img_0019"/>
+            <pb facs="#facs_19" n="19" xml:id="img_0019"/>
             
-            <ab  facs="#facs_19_r2">
+            <ab facs="#facs_19_r2">
                <lb facs="#facs_19_r2l2" n="N001"/>341
                <lb facs="#facs_19_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_19_r2l3" n="N003"/><hi>Froitzheim</hi>

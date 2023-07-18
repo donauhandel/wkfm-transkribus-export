@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_216">
+    <surface ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_216">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0270.jpg" width="2934px" height="4501px"/>
          <zone points="278,226 278,3327 2727,3327 2727,226" rendition="TextRegion" xml:id="facs_216_r1">
             <zone points="797,353 870,349 943,347 1016,345 1089,344 1163,342 1236,342 1309,342 1382,344 1455,344 1529,344 1602,345 1675,345 1748,345 1821,344 1895,343 1968,341 2041,339 2114,336 2187,332 2261,326 2261,226 2187,232 2114,236 2041,239 1968,241 1895,243 1821,244 1748,245 1675,245 1602,245 1529,244 1455,244 1382,244 1309,242 1236,242 1163,242 1089,244 1016,245 943,247 870,249 797,253" rendition="Line" xml:id="facs_216_r1l1"/>
@@ -70,9 +70,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_216" n="216" xml:id="img_0216"/>
+            <pb facs="#facs_216" n="216" xml:id="img_0216"/>
             
-            <ab  facs="#facs_216_r1">
+            <ab facs="#facs_216_r1">
                <lb facs="#facs_216_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_216_r1l2" n="N002"/>Der <rs type="person" ref="wkfm__43958">Johann Pohamb</rs> hat mit dem <rs type="person" ref="wkfm__43959">Martin <hi>P</hi> Hillebrand</rs> seine
                <lb facs="#facs_216_r1l3" n="N003"/>Firma in obige Erklährung sine dato N<hi style="superscript">o</hi> 132 eingeleget.

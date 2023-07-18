@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2893" lry="4398" xml:id="facs_32">
+    <surface ulx="0" uly="0" lrx="2893" lry="4398" xml:id="facs_32">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1886.jpg" width="2893px" height="4398px"/>
          <zone points="251,145 251,3264 2685,3264 2685,145" rendition="TextRegion" xml:id="facs_32_r1">
             <zone points="972,264 1032,259 1093,255 1154,252 1215,252 1276,252 1337,253 1397,256 1458,259 1519,262 1580,265 1641,268 1702,271 1763,273 1823,274 1884,274 1945,273 2006,270 2067,265 2128,258 2189,247 2189,145 2128,156 2067,163 2006,168 1945,171 1884,172 1823,172 1763,171 1702,169 1641,166 1580,163 1519,160 1458,157 1397,154 1337,151 1276,150 1215,150 1154,150 1093,153 1032,157 972,162" rendition="Line" xml:id="facs_32_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_32" n="32" xml:id="img_0032"/>
+            <pb facs="#facs_32" n="32" xml:id="img_0032"/>
             
-            <ab  facs="#facs_32_r1">
+            <ab facs="#facs_32_r1">
                <lb facs="#facs_32_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_32_r1l2" n="N002"/>In obigen Anbringen de ps: 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 864 hat sich der
                <lb facs="#facs_32_r1l3" n="N003"/><rs type="person" ref="wkfm__8187">Spitz</rs> erklähret, das er keinen Compagnon noch interessenten

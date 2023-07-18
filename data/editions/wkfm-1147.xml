@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3134" lry="4521" xml:id="facs_47">
+    <surface ulx="0" uly="0" lrx="3134" lry="4521" xml:id="facs_47">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1147.jpg" width="3134px" height="4521px"/>
          <zone points="330,199 330,3040 3002,3040 3002,199" rendition="TextRegion" xml:id="facs_47_r2">
             <zone points="2819,470 2848,470 2877,472 2906,473 2936,473 2936,376 2906,376 2877,375 2848,373 2819,373" rendition="Line" xml:id="facs_47_r2l2" subtype="page-number"/>
@@ -70,9 +70,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_47" n="47" xml:id="img_0047"/>
+            <pb facs="#facs_47" n="47" xml:id="img_0047"/>
             
-            <ab  facs="#facs_47_r2">
+            <ab facs="#facs_47_r2">
                <lb facs="#facs_47_r2l2" n="N001"/>567
                <lb facs="#facs_47_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_47_r2l3" n="N003"/><rs type="person" ref="wkfm__46815">Landerer Johann Georg</rs> burgerlicher Handlsman

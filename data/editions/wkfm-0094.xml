@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2991" lry="4407" xml:id="facs_41">
+    <surface ulx="0" uly="0" lrx="2991" lry="4407" xml:id="facs_41">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0094.jpg" width="2991px" height="4407px"/>
          <zone points="285,128 285,2986 2747,2986 2747,128" rendition="TextRegion" xml:id="facs_41_r2">
             <zone points="2621,253 2646,250 2671,250 2696,251 2721,252 2747,253 2747,175 2721,174 2696,173 2671,172 2646,172 2621,175" rendition="Line" xml:id="facs_41_r2l2" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_41" n="41" xml:id="img_0041"/>
+            <pb facs="#facs_41" n="41" xml:id="img_0041"/>
             
-            <ab  facs="#facs_41_r2">
+            <ab facs="#facs_41_r2">
                <lb facs="#facs_41_r2l2" n="N001"/>45
                <lb facs="#facs_41_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_41_r2l3" n="N003"/><rs type="person" ref="wkfm__43842">Pior Franz <choice><expan/><abbr>seel:</abbr></choice> Wittib</rs> burgerliche Handlsfrau

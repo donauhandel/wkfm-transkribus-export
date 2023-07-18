@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3048" lry="4521" xml:id="facs_55">
+    <surface ulx="0" uly="0" lrx="3048" lry="4521" xml:id="facs_55">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1155.jpg" width="3048px" height="4521px"/>
          <zone points="251,227 251,3056 2928,3056 2928,227" rendition="TextRegion" xml:id="facs_55_r2">
             <zone points="2780,467 2809,464 2839,462 2868,461 2898,457 2928,450 2928,368 2898,375 2868,379 2839,380 2809,382 2780,385" rendition="Line" xml:id="facs_55_r2l2" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_55" n="55" xml:id="img_0055"/>
+            <pb facs="#facs_55" n="55" xml:id="img_0055"/>
             
-            <ab  facs="#facs_55_r2">
+            <ab facs="#facs_55_r2">
                <lb facs="#facs_55_r2l2" n="N001"/>571
                <lb facs="#facs_55_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_55_r2l3" n="N003"/><rs type="person" ref="wkfm__46818">Leithner Johann Anton</rs> burgerlicher Handlsmann

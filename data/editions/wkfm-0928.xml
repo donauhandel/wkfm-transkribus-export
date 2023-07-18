@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4520" xml:id="facs_8">
+    <surface ulx="0" uly="0" lrx="2994" lry="4520" xml:id="facs_8">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0928.jpg" width="2994px" height="4520px"/>
          <zone points="236,224 236,3388 2832,3388 2832,224" rendition="TextRegion" xml:id="facs_8_r1">
             <zone points="1241,308 1299,307 1358,305 1416,304 1475,304 1534,302 1592,304 1651,304 1710,304 1768,305 1827,306 1886,307 1944,308 2003,308 2062,310 2120,310 2179,310 2238,310 2296,308 2355,308 2414,305 2414,227 2355,230 2296,230 2238,232 2179,232 2120,232 2062,232 2003,230 1944,230 1886,229 1827,228 1768,227 1710,226 1651,226 1592,226 1534,224 1475,226 1416,226 1358,227 1299,229 1241,230" rendition="Line" xml:id="facs_8_r1l1"/>
@@ -77,9 +77,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_8" n="8" xml:id="img_0008"/>
+            <pb facs="#facs_8" n="8" xml:id="img_0008"/>
             
-            <ab  facs="#facs_8_r1">
+            <ab facs="#facs_8_r1">
                <lb facs="#facs_8_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_8_r1l2" n="N002"/><hi>Mitls Erkla obigen E</hi>
                <lb facs="#facs_8_r1l3" n="N003"/>In obigen Anbringen de ps: 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 431 und Erklährung dd<hi style="superscript">to</hi>

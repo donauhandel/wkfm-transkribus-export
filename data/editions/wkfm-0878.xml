@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4442" xml:id="facs_66">
+    <surface ulx="0" uly="0" lrx="2994" lry="4442" xml:id="facs_66">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0878.jpg" width="2994px" height="4442px"/>
          <zone points="380,204 380,3426 2838,3426 2838,204" rendition="TextRegion" xml:id="facs_66_r1">
             <zone points="1223,345 1284,342 1345,339 1407,338 1468,335 1529,333 1591,332 1652,330 1713,329 1775,327 1836,326 1897,324 1959,323 2020,321 2081,320 2143,318 2204,315 2265,313 2327,311 2388,308 2450,303 2450,204 2388,209 2327,212 2265,214 2204,216 2143,219 2081,221 2020,222 1959,224 1897,225 1836,227 1775,228 1713,230 1652,231 1591,233 1529,234 1468,236 1407,239 1345,240 1284,243 1223,246" rendition="Line" xml:id="facs_66_r1l1"/>
@@ -73,9 +73,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_66" n="66" xml:id="img_0066"/>
+            <pb facs="#facs_66" n="66" xml:id="img_0066"/>
             
-            <ab  facs="#facs_66_r1">
+            <ab facs="#facs_66_r1">
                <lb facs="#facs_66_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_66_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 23<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 733 N<hi style="superscript">o</hi> 411 hat sich
                <lb facs="#facs_66_r1l3" n="N003"/>der <rs type="person" ref="wkfm__46343">Gruber</rs> geäusserert, daß er seine Handlung ohne Com-

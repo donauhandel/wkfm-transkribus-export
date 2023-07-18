@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3095" lry="4469" xml:id="facs_67">
+    <surface ulx="0" uly="0" lrx="3095" lry="4469" xml:id="facs_67">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0879.jpg" width="3095px" height="4469px"/>
          <zone points="203,190 203,3029 2762,3029 2762,190" rendition="TextRegion" xml:id="facs_67_r1">
             <zone points="2612,336 2637,338 2662,337 2687,335 2712,333 2737,329 2762,327 2762,260 2737,262 2712,266 2687,268 2662,270 2637,271 2612,269" rendition="Line" xml:id="facs_67_r1l2" subtype="page-number"/>
@@ -70,9 +70,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_67" n="67" xml:id="img_0067"/>
+            <pb facs="#facs_67" n="67" xml:id="img_0067"/>
             
-            <ab  facs="#facs_67_r1">
+            <ab facs="#facs_67_r1">
                <lb facs="#facs_67_r1l2" n="N001"/>437
                <lb facs="#facs_67_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_67_r1l3" n="N003"/><rs type="person" ref="wkfm__28324">Grämbsreither Franz Joseph</rs> burgerlicher Handlsmann

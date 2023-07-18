@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2923" lry="4436" xml:id="facs_157">
+    <surface ulx="0" uly="0" lrx="2923" lry="4436" xml:id="facs_157">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0477.jpg" width="2923px" height="4436px"/>
          <zone points="134,145 134,3495 2861,3505 2861,155" rendition="TextRegion" xml:id="facs_157_r3">
             <zone points="245,195 300,195 300,289 245,289" rendition="Line" xml:id="facs_157_line_1629449780971_1052"/>
@@ -74,9 +74,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_157" n="157" xml:id="img_0157"/>
+            <pb facs="#facs_157" n="157" xml:id="img_0157"/>
             
-            <ab  facs="#facs_157_r3">
+            <ab facs="#facs_157_r3">
                <lb facs="#facs_157_r3l1" n="N003"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_157_r3l2" n="N004"/><rs type="person" ref="wkfm__46113">Kyenmayr Anton</rs> <hi>bu</hi> burgerlicher Handlsmann
                <lb facs="#facs_157_r3l3" n="N005"/>Firma ad Raggion

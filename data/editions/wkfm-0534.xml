@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3051" lry="4473" xml:id="facs_34">
+    <surface ulx="0" uly="0" lrx="3051" lry="4473" xml:id="facs_34">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0534.jpg" width="3051px" height="4473px"/>
          <zone points="515,108 515,3294 2946,3294 2946,108" rendition="TextRegion" xml:id="facs_34_r1">
             <zone points="1176,232 1243,228 1311,225 1379,223 1447,222 1515,222 1583,220 1651,222 1719,222 1787,223 1855,224 1922,226 1990,228 2058,229 2126,231 2194,232 2262,234 2330,235 2398,235 2466,235 2534,235 2534,123 2466,123 2398,123 2330,123 2262,122 2194,120 2126,119 2058,117 1990,116 1922,114 1855,112 1787,111 1719,110 1651,110 1583,108 1515,110 1447,110 1379,111 1311,113 1243,116 1176,120" rendition="Line" xml:id="facs_34_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_34" n="34" xml:id="img_0034"/>
+            <pb facs="#facs_34" n="34" xml:id="img_0034"/>
             
-            <ab  facs="#facs_34_r1">
+            <ab facs="#facs_34_r1">
                <lb facs="#facs_34_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_34_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 258 hat
                <lb facs="#facs_34_r1l3" n="N003"/>sich der <rs type="person" ref="wkfm__46215">Dreysch</rs> geäusseret, daß er keinen Compagnon nicht

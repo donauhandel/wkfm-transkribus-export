@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3023" lry="4477" xml:id="facs_79">
+    <surface ulx="0" uly="0" lrx="3023" lry="4477" xml:id="facs_79">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1537.jpg" width="3023px" height="4477px"/>
          <zone points="315,157 315,2980 2822,2980 2822,157" rendition="TextRegion" xml:id="facs_79_r2">
             <zone points="2688,337 2713,339 2738,341 2763,343 2788,344 2814,343 2814,264 2788,265 2763,264 2738,262 2713,260 2688,258" rendition="Line" xml:id="facs_79_r2l2" subtype="page-number"/>
@@ -70,9 +70,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_79" n="79" xml:id="img_0079"/>
+            <pb facs="#facs_79" n="79" xml:id="img_0079"/>
             
-            <ab  facs="#facs_79_r2">
+            <ab facs="#facs_79_r2">
                <lb facs="#facs_79_r2l2" n="N001"/>761
                <lb facs="#facs_79_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_79_r2l3" n="N003"/><rs type="person" ref="wkfm__47450">Schuester Johann Egidius</rs> burgerlicher Handlsmann

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3023" lry="4477" xml:id="facs_53">
+    <surface ulx="0" uly="0" lrx="3023" lry="4477" xml:id="facs_53">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1511.jpg" width="3023px" height="4477px"/>
          <zone points="327,115 327,2931 2897,2933 2897,117" rendition="TextRegion" xml:id="facs_53_r2">
             <zone points="2694,254 2872,254 2872,384 2694,384" rendition="Line" xml:id="facs_53_line_1626333281569_143" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_53" n="53" xml:id="img_0053"/>
+            <pb facs="#facs_53" n="53" xml:id="img_0053"/>
             
-            <ab  facs="#facs_53_r2">
+            <ab facs="#facs_53_r2">
                <lb facs="#facs_53_line_1626333281569_143" n="N001"/>748
                <lb facs="#facs_53_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_53_r2l2" n="N003"/><rs type="person" ref="wkfm__9053">Solder Georg</rs> burgerlicher Handlsmann

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_24">
+    <surface ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_24">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0344.jpg" width="2934px" height="4501px"/>
          <zone points="342,226 342,3345 2841,3345 2841,226" rendition="TextRegion" xml:id="facs_24_r1">
             <zone points="956,329 1040,323 1124,319 1208,317 1292,315 1376,314 1460,314 1545,315 1629,317 1713,317 1797,319 1881,321 1965,321 2050,323 2134,323 2218,323 2302,321 2386,318 2470,315 2555,308 2555,226 2470,233 2386,236 2302,239 2218,241 2134,241 2050,241 1965,239 1881,239 1797,237 1713,235 1629,235 1545,233 1460,232 1376,232 1292,233 1208,235 1124,237 1040,241 956,247" rendition="Line" xml:id="facs_24_r1l1"/>
@@ -68,9 +68,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_24" n="24" xml:id="img_0024"/>
+            <pb facs="#facs_24" n="24" xml:id="img_0024"/>
             
-            <ab  facs="#facs_24_r1">
+            <ab facs="#facs_24_r1">
                <lb facs="#facs_24_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_24_r1l2" n="N002"/>In obigen Anbringen de ps: 21<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 1895 hat sich der <hi>Da</hi>
                <lb facs="#facs_24_r1l3" n="N003"/><rs type="person" ref="wkfm__41865">Gaudenzio Castelmuro</rs> und <rs type="person" ref="wkfm__46105">Daniel Castelmuro</rs> miteinander er-

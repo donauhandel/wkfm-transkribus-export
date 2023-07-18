@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3051" lry="4473" xml:id="facs_38">
+    <surface ulx="0" uly="0" lrx="3051" lry="4473" xml:id="facs_38">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0538.jpg" width="3051px" height="4473px"/>
          <zone points="480,132 480,3285 2961,3285 2961,132" rendition="TextRegion" xml:id="facs_38_r1">
             <zone points="1226,264 1291,259 1357,258 1423,256 1488,255 1554,253 1620,253 1685,254 1751,255 1817,255 1883,256 1948,257 2014,258 2080,259 2145,259 2211,261 2277,261 2342,259 2408,259 2474,258 2540,255 2540,134 2474,137 2408,138 2342,138 2277,140 2211,140 2145,138 2080,138 2014,137 1948,136 1883,135 1817,134 1751,134 1685,133 1620,132 1554,132 1488,134 1423,135 1357,137 1291,138 1226,143" rendition="Line" xml:id="facs_38_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_38" n="38" xml:id="img_0038"/>
+            <pb facs="#facs_38" n="38" xml:id="img_0038"/>
             
-            <ab  facs="#facs_38_r1">
+            <ab facs="#facs_38_r1">
                <lb facs="#facs_38_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_38_r1l2" n="N002"/>In obiger Erklährung <hi>hat si</hi> dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> N<hi style="superscript">o</hi> 260
                <lb facs="#facs_38_r1l3" n="N003"/>hat sich der <rs type="person" ref="wkfm__46218">Dywaldt</rs> geäusseret daß er seine Handlung

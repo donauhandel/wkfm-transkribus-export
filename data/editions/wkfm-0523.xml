@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3049" lry="4436" xml:id="facs_23">
+    <surface ulx="0" uly="0" lrx="3049" lry="4436" xml:id="facs_23">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0523.jpg" width="3049px" height="4436px"/>
          <zone points="339,153 339,2932 2922,2932 2922,153" rendition="TextRegion" xml:id="facs_23_r2">
             <zone points="2769,355 2794,359 2820,361 2845,363 2871,364 2896,366 2922,366 2922,281 2896,281 2871,279 2845,278 2820,276 2794,274 2769,270" rendition="Line" xml:id="facs_23_r2l2" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_23" n="23" xml:id="img_0023"/>
+            <pb facs="#facs_23" n="23" xml:id="img_0023"/>
             
-            <ab  facs="#facs_23_r2">
+            <ab facs="#facs_23_r2">
                <lb facs="#facs_23_r2l2" n="N001"/>259
                <lb facs="#facs_23_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_23_r2l3" n="N003"/><rs type="person" ref="wkfm__8100">Durmayr Sebastian</rs> burgerlicher Handlsmann

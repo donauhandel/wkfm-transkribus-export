@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2877" lry="4502" xml:id="facs_186">
+    <surface ulx="0" uly="0" lrx="2877" lry="4502" xml:id="facs_186">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0240.jpg" width="2877px" height="4502px"/>
          <zone points="383,223 383,3323 2817,3323 2817,223" rendition="TextRegion" xml:id="facs_186_r1">
             <zone points="945,268 1015,265 1086,264 1156,262 1227,262 1298,264 1368,265 1439,267 1510,270 1580,273 1651,276 1722,279 1792,282 1863,285 1934,286 2004,289 2075,289 2146,291 2216,291 2287,289 2358,286 2358,247 2287,250 2216,252 2146,252 2075,250 2004,250 1934,247 1863,246 1792,243 1722,240 1651,237 1580,234 1510,231 1439,228 1368,226 1298,225 1227,223 1156,223 1086,225 1015,226 945,229" rendition="Line" xml:id="facs_186_r1l1"/>
@@ -71,9 +71,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_186" n="186" xml:id="img_0186"/>
+            <pb facs="#facs_186" n="186" xml:id="img_0186"/>
             
-            <ab  facs="#facs_186_r1">
+            <ab facs="#facs_186_r1">
                <lb facs="#facs_186_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_186_line_1621470541325_3519" n="N002"/>Der <rs type="person" ref="wkfm__28746">Bazzani</rs> hat mils obigen anbringen de ps: 6<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 736 N<hi style="superscript">o</hi> 1170 den mit dem <rs type="person" ref="wkfm__43889">Girolamo de Bernini</rs>
                <lb facs="#facs_186_r1l4" n="N003"/>unter 10<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 736 geschlossenen societaets contract N<hi style="superscript">o</hi> 1169 eingeleget, krafft

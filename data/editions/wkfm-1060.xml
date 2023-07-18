@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3087" lry="4530" xml:id="facs_140">
+    <surface ulx="0" uly="0" lrx="3087" lry="4530" xml:id="facs_140">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1060.jpg" width="3087px" height="4530px"/>
          <zone points="366,263 366,3429 2943,3429 2943,263" rendition="TextRegion" xml:id="facs_140_r1">
             <zone points="1175,361 1235,353 1296,348 1356,342 1417,337 1477,335 1538,333 1598,331 1659,331 1719,330 1780,331 1840,331 1901,332 1961,333 2022,334 2082,334 2143,334 2203,334 2264,333 2324,331 2385,330 2385,263 2324,264 2264,266 2203,267 2143,267 2082,267 2022,267 1961,266 1901,265 1840,264 1780,264 1719,263 1659,264 1598,264 1538,266 1477,268 1417,270 1356,275 1296,281 1235,286 1175,294" rendition="Line" xml:id="facs_140_r1l1"/>
@@ -72,9 +72,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_140" n="140" xml:id="img_0140"/>
+            <pb facs="#facs_140" n="140" xml:id="img_0140"/>
             
-            <ab  facs="#facs_140_r1">
+            <ab facs="#facs_140_r1">
                <lb facs="#facs_140_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_140_r1l2" n="N002"/><seg type="wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_140_r1l3" n="N003"/>Mitls Anbringen des ps: 19<hi style="superscript">ten</hi> Junii 756 N<hi style="superscript">o</hi> 2184 hat der <rs type="person" ref="wkfm__46572">Hölzl</rs> mit der <rs type="person" ref="wkfm__46573">Cunigonda

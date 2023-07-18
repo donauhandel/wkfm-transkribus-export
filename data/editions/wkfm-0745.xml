@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3095" lry="4496" xml:id="facs_77">
+    <surface ulx="0" uly="0" lrx="3095" lry="4496" xml:id="facs_77">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0745.jpg" width="3095px" height="4496px"/>
          <zone points="260,209 260,3025 2787,3025 2787,209" rendition="TextRegion" xml:id="facs_77_r2">
             <zone points="2649,398 2676,397 2704,395 2731,395 2759,394 2787,392 2787,323 2759,325 2731,326 2704,326 2676,328 2649,329" rendition="Line" xml:id="facs_77_r2l2" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_77" n="77" xml:id="img_0077"/>
+            <pb facs="#facs_77" n="77" xml:id="img_0077"/>
             
-            <ab  facs="#facs_77_r2">
+            <ab facs="#facs_77_r2">
                <lb facs="#facs_77_r2l2" n="N001"/>370
                <lb facs="#facs_77_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_77_r2l3" n="N003"/><rs type="person" ref="wkfm__12455"><unclear>Varena</unclear> Peter Anton</rs> burgerlicher Handlsmann

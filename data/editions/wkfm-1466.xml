@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2886" lry="4455" xml:id="facs_8">
+    <surface ulx="0" uly="0" lrx="2886" lry="4455" xml:id="facs_8">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1466.jpg" width="2886px" height="4455px"/>
          <zone points="306,194 306,3354 2816,3354 2816,194" rendition="TextRegion" xml:id="facs_8_r1">
             <zone points="1124,357 1191,353 1259,350 1327,346 1395,343 1463,341 1531,338 1598,337 1666,335 1734,333 1802,332 1870,329 1938,327 2006,326 2073,323 2141,319 2209,316 2277,311 2345,307 2413,300 2481,294 2481,194 2413,200 2345,207 2277,211 2209,216 2141,219 2073,223 2006,226 1938,227 1870,229 1802,232 1734,233 1666,235 1598,237 1531,238 1463,241 1395,243 1327,246 1259,250 1191,253 1124,257" rendition="Line" xml:id="facs_8_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_8" n="8" xml:id="img_0008"/>
+            <pb facs="#facs_8" n="8" xml:id="img_0008"/>
             
-            <ab  facs="#facs_8_r1">
+            <ab facs="#facs_8_r1">
                <lb facs="#facs_8_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_8_r1l2" n="N002"/>In obigen Anbringen de ps: 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 660 hat sich der <rs type="person" ref="wkfm__47399">Steg-
                <lb break="no" facs="#facs_8_r1l3" n="N003"/>ner</rs> erklähret, daß er keinen Compagnon habe

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2954" lry="4473" xml:id="facs_114">
+    <surface ulx="0" uly="0" lrx="2954" lry="4473" xml:id="facs_114">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0167.jpg" width="2954px" height="4473px"/>
          <zone points="393,226 393,3347 2775,3347 2775,226" rendition="TextRegion" xml:id="facs_114_r1">
             <zone points="942,353 1017,359 1093,365 1169,370 1245,374 1321,378 1397,381 1473,384 1549,386 1625,389 1701,390 1776,390 1852,392 1928,392 2004,392 2080,392 2156,392 2232,390 2308,390 2384,389 2460,387 2460,260 2384,262 2308,263 2232,263 2156,265 2080,265 2004,265 1928,265 1852,265 1776,263 1701,263 1625,262 1549,259 1473,257 1397,254 1321,251 1245,247 1169,243 1093,238 1017,232 942,226" rendition="Line" xml:id="facs_114_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_114" n="114" xml:id="img_0114"/>
+            <pb facs="#facs_114" n="114" xml:id="img_0114"/>
             
-            <ab  facs="#facs_114_r1">
+            <ab facs="#facs_114_r1">
                <lb facs="#facs_114_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_114_r1l2" n="N002"/>In obirger Erklährung dd<hi style="superscript">to</hi> 29<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 725 N<hi style="superscript">o</hi> 75 hat sich der 
                <lb facs="#facs_114_r1l3" n="N003"/><rs type="person" ref="wkfm__43891">Burger</rs> geäusseret das er keinen Compagnon habe.

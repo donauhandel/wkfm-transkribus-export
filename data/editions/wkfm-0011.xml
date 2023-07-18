@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2934" lry="4530" xml:id="facs_6">
+    <surface ulx="0" uly="0" lrx="2934" lry="4530" xml:id="facs_6">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0011.jpg" width="2934px" height="4530px"/>
          <zone points="473,285 473,3468 2738,3468 2738,285" rendition="TextRegion" xml:id="facs_6_r1">
             <zone points="897,396 965,396 1034,396 1103,396 1172,397 1241,399 1310,401 1378,403 1447,408 1516,411 1585,414 1654,418 1723,422 1792,426 1860,430 1929,433 1998,436 2067,439 2136,442 2205,445 2274,447 2274,336 2205,334 2136,331 2067,328 1998,325 1929,322 1860,319 1792,315 1723,311 1654,307 1585,303 1516,300 1447,297 1378,292 1310,290 1241,288 1172,286 1103,285 1034,285 965,285 897,285" rendition="Line" xml:id="facs_6_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_6" n="6" xml:id="img_0006"/>
+            <pb facs="#facs_6" n="6" xml:id="img_0006"/>
             
-            <ab  facs="#facs_6_r1">
+            <ab facs="#facs_6_r1">
                <lb facs="#facs_6_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_6_r1l2" n="N002"/>In obigen Anbringen de ps: 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 3 hat sich der
                <lb facs="#facs_6_r1l3" n="N003"/><rs type="person" ref="wkfm__8191">Andre</rs> erklähret das er sein Negotium als sein Eigenthum

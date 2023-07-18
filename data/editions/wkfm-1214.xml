@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2982" lry="4436" xml:id="facs_30">
+    <surface ulx="0" uly="0" lrx="2982" lry="4436" xml:id="facs_30">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1214.jpg" width="2982px" height="4436px"/>
          <zone points="360,172 360,3314 2814,3314 2814,172" rendition="TextRegion" xml:id="facs_30_r1">
             <zone points="1233,277 1293,275 1354,275 1415,274 1475,274 1536,274 1597,274 1657,274 1718,274 1779,274 1840,274 1900,274 1961,274 2022,273 2082,272 2143,271 2204,269 2264,268 2325,266 2386,262 2447,259 2447,172 2386,175 2325,179 2264,181 2204,182 2143,184 2082,185 2022,186 1961,187 1900,187 1840,187 1779,187 1718,187 1657,187 1597,187 1536,187 1475,187 1415,187 1354,188 1293,188 1233,190" rendition="Line" xml:id="facs_30_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_30" n="30" xml:id="img_0030"/>
+            <pb facs="#facs_30" n="30" xml:id="img_0030"/>
             
-            <ab  facs="#facs_30_r1">
+            <ab facs="#facs_30_r1">
                <lb facs="#facs_30_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_30_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 555 hat sich
                <lb facs="#facs_30_r1l4" n="N003"/>der <rs type="person" ref="wkfm__46273">Merkhl</rs> geäusseret das er niehmahlen eine Compagnie ge-

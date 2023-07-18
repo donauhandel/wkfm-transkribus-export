@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3095" lry="4496" xml:id="facs_31">
+    <surface ulx="0" uly="0" lrx="3095" lry="4496" xml:id="facs_31">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0699.jpg" width="3095px" height="4496px"/>
          <zone points="336,231 336,3075 2775,3075 2775,231" rendition="TextRegion" xml:id="facs_31_r1">
             <zone points="2615,432 2641,433 2668,433 2695,432 2721,431 2748,429 2775,427 2775,325 2748,327 2721,329 2695,330 2668,331 2641,331 2615,330" rendition="Line" xml:id="facs_31_r1l2" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_31" n="31" xml:id="img_0031"/>
+            <pb facs="#facs_31" n="31" xml:id="img_0031"/>
             
-            <ab  facs="#facs_31_r1">
+            <ab facs="#facs_31_r1">
                <lb facs="#facs_31_r1l2" n="N001"/>347
                <lb facs="#facs_31_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_31_r1l3" n="N003"/><rs type="person" ref="wkfm__1411">Fux Joseph Carl</rs> burgerlicher Handlsmann

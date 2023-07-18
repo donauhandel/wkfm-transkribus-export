@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2953" lry="4400" xml:id="facs_24">
+    <surface ulx="0" uly="0" lrx="2953" lry="4400" xml:id="facs_24">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1376.jpg" width="2953px" height="4400px"/>
          <zone points="240,177 240,3262 2835,3262 2835,177" rendition="TextRegion" xml:id="facs_24_r1">
             <zone points="1124,322 1187,319 1251,315 1315,310 1379,306 1443,302 1506,297 1570,294 1634,291 1698,287 1762,283 1825,280 1889,276 1953,274 2017,271 2081,269 2144,267 2208,265 2272,264 2336,262 2400,262 2400,177 2336,177 2272,179 2208,180 2144,182 2081,184 2017,186 1953,189 1889,191 1825,195 1762,198 1698,202 1634,206 1570,209 1506,212 1443,217 1379,221 1315,225 1251,230 1187,234 1124,237" rendition="Line" xml:id="facs_24_r1l1"/>
@@ -72,9 +72,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_24" n="24" xml:id="img_0024"/>
+            <pb facs="#facs_24" n="24" xml:id="img_0024"/>
             
-            <ab  facs="#facs_24_r1">
+            <ab facs="#facs_24_r1">
                <lb facs="#facs_24_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_24_r1l2" n="N002"/>In obigen Anbringen de ps: 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 623 hat sich der <rs type="person" ref="wkfm__46692">Roß-
                <lb break="no" facs="#facs_24_r1l3" n="N003"/>mann</rs> erklähret, daß er keinen Compagnon habe

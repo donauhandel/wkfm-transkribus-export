@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_14">
+    <surface ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_14">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0826.jpg" width="2994px" height="4530px"/>
          <zone points="342,252 342,3501 2850,3501 2850,252" rendition="TextRegion" xml:id="facs_14_r1">
             <zone points="1202,380 1273,381 1344,381 1416,381 1487,380 1559,380 1630,378 1702,377 1773,375 1845,374 1916,372 1987,371 2059,368 2130,366 2202,365 2273,362 2345,359 2416,357 2488,354 2559,353 2631,351 2631,252 2559,254 2488,255 2416,258 2345,260 2273,263 2202,266 2130,267 2059,269 1987,272 1916,273 1845,275 1773,276 1702,278 1630,279 1559,281 1487,281 1416,282 1344,282 1273,282 1202,281" rendition="Line" xml:id="facs_14_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_14" n="14" xml:id="img_0014"/>
+            <pb facs="#facs_14" n="14" xml:id="img_0014"/>
             
-            <ab  facs="#facs_14_r1">
+            <ab facs="#facs_14_r1">
                <lb facs="#facs_14_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_14_r1l2" n="N002"/>In obigen Anbringen de ps: 21<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 387 hat sich der <rs type="person" ref="wkfm__8414">Garttner</rs>
                <lb facs="#facs_14_r1l3" n="N003"/>erklähret daß er seine handlung ganz alleinig führe

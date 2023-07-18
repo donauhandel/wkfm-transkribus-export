@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2973" lry="4391" xml:id="facs_61">
+    <surface ulx="0" uly="0" lrx="2973" lry="4391" xml:id="facs_61">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1413.jpg" width="2973px" height="4391px"/>
          <zone points="152,173 152,3591 2820,3591 2820,173" rendition="TextRegion" xml:id="facs_61_r1">
             <zone points="2655,428 2683,431 2712,431 2740,429 2769,425 2798,418 2798,340 2788,290 2767,294 2715,308 2686,308 2655,350" rendition="Line" xml:id="facs_61_r1l2" subtype="page-number"/>
@@ -75,9 +75,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_61" n="61" xml:id="img_0061"/>
+            <pb facs="#facs_61" n="61" xml:id="img_0061"/>
             
-            <ab  facs="#facs_61_r1">
+            <ab facs="#facs_61_r1">
                <lb facs="#facs_61_r1l2" n="N001"/>699
                <lb facs="#facs_61_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_61_r1l3" n="N003"/><rs type="person" ref="wkfm__22544">Rögler Franz Zacharias</rs> burgerlicher Handlsmann

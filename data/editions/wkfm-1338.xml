@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2940" lry="4464" xml:id="facs_10">
+    <surface ulx="0" uly="0" lrx="2940" lry="4464" xml:id="facs_10">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1338.jpg" width="2940px" height="4464px"/>
          <zone points="279,178 279,3349 2843,3349 2843,178" rendition="TextRegion" xml:id="facs_10_r1">
             <zone points="1055,326 1125,320 1195,316 1266,311 1336,309 1407,307 1477,306 1548,305 1618,305 1689,306 1759,306 1830,308 1900,309 1971,310 2041,311 2112,312 2182,312 2253,312 2323,311 2394,309 2394,182 2323,184 2253,185 2182,185 2112,185 2041,184 1971,183 1900,182 1830,181 1759,179 1689,179 1618,178 1548,178 1477,179 1407,180 1336,182 1266,184 1195,189 1125,193 1055,199" rendition="Line" xml:id="facs_10_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_10" n="10" xml:id="img_0010"/>
+            <pb facs="#facs_10" n="10" xml:id="img_0010"/>
             
-            <ab  facs="#facs_10_r1">
+            <ab facs="#facs_10_r1">
                <lb facs="#facs_10_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_10_r1l2" n="N002"/>In obigen Anbringen de ps: 30<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 725 N<hi style="superscript">o</hi> 1045 hat sich der <rs type="person" ref="wkfm__9606">Oster-
                <lb break="no" facs="#facs_10_r1l3" n="N003"/>mayr</rs> geäusseret, daß er sein Negotium ohne Societaet habe.

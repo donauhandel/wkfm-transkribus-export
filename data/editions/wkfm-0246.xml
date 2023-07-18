@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2877" lry="4502" xml:id="facs_192">
+    <surface ulx="0" uly="0" lrx="2877" lry="4502" xml:id="facs_192">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0246.jpg" width="2877px" height="4502px"/>
          <zone points="155,216 155,3312 2774,3312 2774,216" rendition="TextRegion" xml:id="facs_192_r1">
             <zone points="855,288 930,280 1006,275 1081,271 1157,268 1232,266 1308,265 1383,265 1459,265 1534,265 1610,267 1686,268 1761,270 1837,271 1912,271 1988,273 2063,273 2139,273 2214,271 2290,270 2366,267 2366,218 2290,221 2214,222 2139,224 2063,224 1988,224 1912,222 1837,222 1761,221 1686,219 1610,218 1534,216 1459,216 1383,216 1308,216 1232,217 1157,219 1081,222 1006,226 930,231 855,239" rendition="Line" xml:id="facs_192_r1l1"/>
@@ -70,13 +70,13 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_192" n="192" xml:id="img_0192"/>
+            <pb facs="#facs_192" n="192" xml:id="img_0192"/>
             
-            <ab  facs="#facs_192_r1">
+            <ab facs="#facs_192_r1">
                <lb facs="#facs_192_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_192_r1l2" n="N002"/><seg type="wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_192_line_1621470999545_3690" n="N003"/>Mitls Anbringen de ps: 12<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 737 N<hi style="superscript">o</hi> 2080 hat der <rs type="person" ref="wkfm__30064">Praunschmidt</rs> den mit der
-               <lb facs="#facs_192_line_1621470945984_3676" n="N004"/><rs type="person" ref="wkfm__43939">Maria Anna Mayerin</rs> vorhin <comment comment="wahrscheinlich\u0020Mädchenname\u0020der\u0020Mayerin"><unclear>??neidlin</unclear></comment> untern 26<hi style="superscript">ten</hi> May 737 errichteten Heurathscontract N<hi style="superscript">o</hi>
+               <lb facs="#facs_192_line_1621470945984_3676" n="N004"/><rs type="person" ref="wkfm__43939">Maria Anna Mayerin</rs> vorhin <seg type="editorial_comment_seg"><unclear>??neidlin</unclear><note type="editorial_comment_note">wahrscheinlich Mädchenname der Mayerin</note></seg> untern 26<hi style="superscript">ten</hi> May 737 errichteten Heurathscontract N<hi style="superscript">o</hi>
                <lb facs="#facs_192_r1l7" n="N005"/>2079 in copia vidimata eingeleget, krafft welchen 1000 fl <hi>Widerlag</hi> Heurathsgutt
                <lb facs="#facs_192_r1l8" n="N006"/>nebst 2000 fl Widerlag auf Überleben, der Braut die 3000 fl so sie in der <unclear>Ha</unclear>
                <lb facs="#facs_192_r1l9" n="N007"/>ligend hat zum Voraus, all übriges aber, was wehrender Ehe erworben und

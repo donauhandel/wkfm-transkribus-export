@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2954" lry="4435" xml:id="facs_92">
+    <surface ulx="0" uly="0" lrx="2954" lry="4435" xml:id="facs_92">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0145.jpg" width="2954px" height="4435px"/>
          <zone points="593,140 593,3230 2882,3230 2882,140" rendition="TextRegion" xml:id="facs_92_r1">
             <zone points="1065,213 1136,218 1208,222 1279,225 1351,230 1423,233 1494,237 1566,240 1638,243 1709,246 1781,250 1853,252 1924,257 1996,260 2068,263 2139,267 2211,272 2283,276 2354,281 2426,285 2498,291 2498,218 2426,212 2354,208 2283,203 2211,199 2139,194 2068,190 1996,187 1924,184 1853,179 1781,177 1709,173 1638,170 1566,167 1494,164 1423,160 1351,157 1279,152 1208,149 1136,145 1065,140" rendition="Line" xml:id="facs_92_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_92" n="92" xml:id="img_0092"/>
+            <pb facs="#facs_92" n="92" xml:id="img_0092"/>
             
-            <ab  facs="#facs_92_r1">
+            <ab facs="#facs_92_r1">
                <lb facs="#facs_92_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_92_line_1628442216204_706" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 64 hat sich der <rs type="person" ref="wkfm__14705">Pertholdt</rs> geäusseret, daß
                <lb facs="#facs_92_r1l4" n="N003"/>er keinen Compagnon habe.

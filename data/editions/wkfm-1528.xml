@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2929" lry="4455" xml:id="facs_70">
+    <surface ulx="0" uly="0" lrx="2929" lry="4455" xml:id="facs_70">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1528.jpg" width="2929px" height="4455px"/>
          <zone points="378,115 378,3347 2799,3347 2799,115" rendition="TextRegion" xml:id="facs_70_r1">
             <zone points="1118,331 1180,327 1243,323 1306,322 1369,319 1432,317 1495,317 1557,316 1620,316 1683,314 1746,313 1809,311 1872,310 1935,307 1997,304 2060,300 2123,296 2186,290 2249,283 2312,274 2375,265 2375,115 2312,124 2249,133 2186,140 2123,146 2060,150 1997,154 1935,157 1872,160 1809,161 1746,163 1683,164 1620,166 1557,166 1495,167 1432,167 1369,169 1306,172 1243,173 1180,177 1118,181" rendition="Line" xml:id="facs_70_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_70" n="70" xml:id="img_0070"/>
+            <pb facs="#facs_70" n="70" xml:id="img_0070"/>
             
-            <ab  facs="#facs_70_r1">
+            <ab facs="#facs_70_r1">
                <lb facs="#facs_70_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_70_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 690 hat sich
                <lb facs="#facs_70_r1l3" n="N003"/>der <rs type="person" ref="wkfm__9051">Spann</rs> geäusseret, daß er keinen Compagnon habe

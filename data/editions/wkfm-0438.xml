@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2982" lry="4473" xml:id="facs_118">
+    <surface ulx="0" uly="0" lrx="2982" lry="4473" xml:id="facs_118">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0438.jpg" width="2982px" height="4473px"/>
          <zone points="411,176 411,3339 2877,3339 2877,176" rendition="TextRegion" xml:id="facs_118_r1">
             <zone points="1047,297 1113,294 1180,291 1247,288 1313,287 1380,285 1447,285 1513,285 1580,285 1647,287 1714,288 1780,290 1847,291 1914,293 1980,294 2047,295 2114,296 2180,297 2247,297 2314,297 2381,297 2381,188 2314,188 2247,188 2180,188 2114,187 2047,186 1980,185 1914,184 1847,182 1780,181 1714,179 1647,178 1580,176 1513,176 1447,176 1380,176 1313,178 1247,179 1180,182 1113,185 1047,188" rendition="Line" xml:id="facs_118_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_118" n="118" xml:id="img_0118"/>
+            <pb facs="#facs_118" n="118" xml:id="img_0118"/>
             
-            <ab  facs="#facs_118_r1">
+            <ab facs="#facs_118_r1">
                <lb facs="#facs_118_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_118_r1l2" n="N002"/>In obigen Anbringen de ps: 25<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 735 N<hi style="superscript">o</hi> 216 hat sich der
                <lb facs="#facs_118_r1l3" n="N003"/><rs type="person" ref="wkfm__46140">Kaufmann</rs> erklähret, daß er keinen Compagnon habe.

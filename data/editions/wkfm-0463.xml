@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2923" lry="4436" xml:id="facs_143">
+    <surface ulx="0" uly="0" lrx="2923" lry="4436" xml:id="facs_143">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0463.jpg" width="2923px" height="4436px"/>
          <zone points="86,146 86,3782 2693,3780 2693,144" rendition="TextRegion" xml:id="facs_143_r1">
             <zone points="2523,220 2689,220 2689,382 2523,382" rendition="Line" xml:id="facs_143_line_1629449444664_923" subtype="page-number"/>
@@ -77,9 +77,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_143" n="143" xml:id="img_0143"/>
+            <pb facs="#facs_143" n="143" xml:id="img_0143"/>
             
-            <ab  facs="#facs_143_r1">
+            <ab facs="#facs_143_r1">
                <lb facs="#facs_143_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_143_r1l2" n="N003"/><rs type="person" ref="wkfm__46159">Cura Franz</rs> burgerlicher Handlsmann
                <lb facs="#facs_143_r1l3" n="N004"/>Firma ad Raggion

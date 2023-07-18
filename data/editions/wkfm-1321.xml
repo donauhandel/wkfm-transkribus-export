@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3105" lry="4455" xml:id="facs_29">
+    <surface ulx="0" uly="0" lrx="3105" lry="4455" xml:id="facs_29">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1321.jpg" width="3105px" height="4455px"/>
          <zone points="188,137 188,3375 2795,3375 2795,137" rendition="TextRegion" xml:id="facs_29_r1">
             <zone points="2591,359 2618,359 2645,359 2672,359 2699,359 2726,358 2753,357 2780,356 2780,274 2753,275 2726,276 2699,277 2672,277 2645,277 2618,277 2591,277" rendition="Line" xml:id="facs_29_r1l2" subtype="page-number"/>
@@ -74,9 +74,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_29" n="29" xml:id="img_0029"/>
+            <pb facs="#facs_29" n="29" xml:id="img_0029"/>
             
-            <ab  facs="#facs_29_r1">
+            <ab facs="#facs_29_r1">
                <lb facs="#facs_29_r1l2" n="N001"/>653
                <lb facs="#facs_29_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_29_r1l3" n="N003"/><rs type="person" ref="wkfm__46674">Nägerl Wolf Anton</rs> burgerlicher Handlsmann

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4520" xml:id="facs_32">
+    <surface ulx="0" uly="0" lrx="2994" lry="4520" xml:id="facs_32">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0952.jpg" width="2994px" height="4520px"/>
          <zone points="351,301 351,3426 2859,3426 2859,301" rendition="TextRegion" xml:id="facs_32_r1">
             <zone points="1170,378 1230,370 1290,363 1350,357 1411,353 1471,350 1531,348 1591,347 1652,347 1712,348 1772,350 1832,351 1893,352 1953,354 2013,354 2073,356 2134,356 2194,356 2254,354 2314,352 2375,348 2375,302 2314,306 2254,308 2194,310 2134,310 2073,310 2013,308 1953,308 1893,306 1832,305 1772,304 1712,302 1652,301 1591,301 1531,302 1471,304 1411,307 1350,311 1290,317 1230,324 1170,332" rendition="Line" xml:id="facs_32_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_32" n="32" xml:id="img_0032"/>
+            <pb facs="#facs_32" n="32" xml:id="img_0032"/>
             
-            <ab  facs="#facs_32_r1">
+            <ab facs="#facs_32_r1">
                <lb facs="#facs_32_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_32_r1l2" n="N002"/>In obigen oblatorien dd<hi style="superscript">to</hi> 4<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 1719 N<hi style="superscript">o</hi> 1125 hat der <rs type="person" ref="wkfm__9703">Hauzenber-
                <lb break="no" facs="#facs_32_r1l4" n="N003"/>ger</rs> kund gemacht, daß er <hi>das</hi> sein negotium mit seinem <choice><expan/><abbr>intee</abbr></choice> und obligo

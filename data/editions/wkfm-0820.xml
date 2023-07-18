@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_8">
+    <surface ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_8">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0820.jpg" width="2994px" height="4530px"/>
          <zone points="312,272 312,3441 2852,3441 2852,272" rendition="TextRegion" xml:id="facs_8_r1">
             <zone points="1220,390 1285,387 1351,384 1416,383 1482,381 1547,380 1613,380 1678,379 1744,378 1809,378 1875,378 1941,378 2006,378 2072,377 2137,377 2203,375 2268,374 2334,372 2399,369 2465,365 2531,362 2531,272 2465,275 2399,279 2334,282 2268,284 2203,285 2137,287 2072,287 2006,288 1941,288 1875,288 1809,288 1744,288 1678,289 1613,290 1547,290 1482,291 1416,293 1351,294 1285,297 1220,300" rendition="Line" xml:id="facs_8_r1l1"/>
@@ -71,9 +71,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_8" n="8" xml:id="img_0008"/>
+            <pb facs="#facs_8" n="8" xml:id="img_0008"/>
             
-            <ab  facs="#facs_8_r1">
+            <ab facs="#facs_8_r1">
                <lb facs="#facs_8_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_8_r1l2" n="N002"/>In obigen Anbringen de ps: 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 1950 hat sich der <rs type="person" ref="wkfm__8421">Geramb</rs> erklähret
                <lb facs="#facs_8_r1l3" n="N003"/>daß der <rs type="person" ref="wkfm__8188">Ludwig Anton Visconti</rs> mit ihm interessiret seye ansonsten aber er

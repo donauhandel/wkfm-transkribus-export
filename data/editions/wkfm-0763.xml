@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3095" lry="4496" xml:id="facs_95">
+    <surface ulx="0" uly="0" lrx="3095" lry="4496" xml:id="facs_95">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0763.jpg" width="3095px" height="4496px"/>
          <graphic url="" width="3095px" height="4496px"/>
          <zone points="161,203 161,3607 2778,3607 2778,203" rendition="TextRegion" xml:id="facs_95_r2">
@@ -78,9 +78,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_95" n="95" xml:id="img_0095"/>
+            <pb facs="#facs_95" n="95" xml:id="img_0095"/>
             
-            <ab  facs="#facs_95_r2">
+            <ab facs="#facs_95_r2">
                <lb facs="#facs_95_r2l2" n="N001"/>379
                <lb facs="#facs_95_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_95_r2l3" n="N003"/><rs type="person" ref="wkfm__47125">Uhl Franz Thomas</rs> burgerlicher Handlsmann

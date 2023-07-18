@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3054" lry="4566" xml:id="facs_1">
+    <surface ulx="0" uly="0" lrx="3054" lry="4566" xml:id="facs_1">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0621.jpg" width="3054px" height="4566px"/>
          <zone points="281,250 281,3063 2906,3063 2906,250" rendition="TextRegion" xml:id="facs_1_r1">
             <zone points="2798,425 2825,430 2852,430 2879,429 2906,431 2906,358 2879,356 2852,357 2825,357 2798,352" rendition="Line" xml:id="facs_1_r1l2" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_1" n="1" xml:id="img_0001"/>
+            <pb facs="#facs_1" n="1" xml:id="img_0001"/>
             
-            <ab  facs="#facs_1_r1">
+            <ab facs="#facs_1_r1">
                <lb facs="#facs_1_r1l2" n="N001"/>308
                <lb facs="#facs_1_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_1_r1l3" n="N003"/><rs type="person" ref="wkfm__8956">Esslinger Johann Martin</rs> <hi>bur</hi> K.K. Niderlags Verwanter

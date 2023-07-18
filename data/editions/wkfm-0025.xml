@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2934" lry="4530" xml:id="facs_20">
+    <surface ulx="0" uly="0" lrx="2934" lry="4530" xml:id="facs_20">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0025.jpg" width="2934px" height="4530px"/>
          <zone points="473,272 473,3449 2790,3449 2790,272" rendition="TextRegion" xml:id="facs_20_r1">
             <zone points="1119,380 1186,381 1253,383 1320,384 1387,387 1454,389 1521,391 1588,394 1655,396 1722,399 1789,402 1856,404 1923,408 1990,410 2057,413 2124,415 2191,417 2258,420 2325,422 2392,424 2459,426 2459,318 2392,316 2325,314 2258,312 2191,309 2124,307 2057,305 1990,302 1923,300 1856,296 1789,294 1722,291 1655,288 1588,286 1521,283 1454,281 1387,279 1320,276 1253,275 1186,273 1119,272" rendition="Line" xml:id="facs_20_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_20" n="20" xml:id="img_0020"/>
+            <pb facs="#facs_20" n="20" xml:id="img_0020"/>
             
-            <ab  facs="#facs_20_r1">
+            <ab facs="#facs_20_r1">
                <lb facs="#facs_20_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_20_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 hat der <rs type="person" ref="wkfm__26962">Auer</rs> keinen
                <lb facs="#facs_20_r1l3" n="N003"/>Compagnon zu haben vermeldet.

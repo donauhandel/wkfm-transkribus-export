@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2982" lry="4501" xml:id="facs_100">
+    <surface ulx="0" uly="0" lrx="2982" lry="4501" xml:id="facs_100">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0420.jpg" width="2982px" height="4501px"/>
          <zone points="413,223 413,3258 2862,3258 2862,223" rendition="TextRegion" xml:id="facs_100_r1">
             <zone points="1047,274 1111,271 1175,269 1239,268 1303,268 1367,266 1431,267 1495,268 1559,268 1623,269 1687,269 1751,271 1815,271 1879,272 1943,274 2007,274 2071,274 2135,274 2199,274 2263,274 2328,272 2328,229 2263,231 2199,231 2135,231 2071,231 2007,231 1943,231 1879,229 1815,228 1751,228 1687,226 1623,226 1559,225 1495,225 1431,224 1367,223 1303,225 1239,225 1175,226 1111,228 1047,231" rendition="Line" xml:id="facs_100_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_100" n="100" xml:id="img_0100"/>
+            <pb facs="#facs_100" n="100" xml:id="img_0100"/>
             
-            <ab  facs="#facs_100_r1">
+            <ab facs="#facs_100_r1">
                <lb facs="#facs_100_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_100_line_1621958028970_1264" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 14<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 730 N<hi style="superscript">o</hi> 206 hat sich der <rs type="person" ref="wkfm__28337">Caramazza</rs>
                <lb facs="#facs_100_r1l4" n="N003"/>geäusseret, daß er keinen Compagnon habe.

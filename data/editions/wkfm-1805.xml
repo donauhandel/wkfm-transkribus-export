@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2936" lry="4468" xml:id="facs_99">
+    <surface ulx="0" uly="0" lrx="2936" lry="4468" xml:id="facs_99">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1805.jpg" width="2936px" height="4468px"/>
          <zone points="140,226 140,3806 2734,3805 2734,225" rendition="TextRegion" xml:id="facs_99_r2">
             <zone points="2552,249 2721,249 2721,377 2552,377" rendition="Line" xml:id="facs_99_line_1626245074775_110" subtype="page-number"/>
@@ -80,9 +80,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_99" n="99" xml:id="img_0099"/>
+            <pb facs="#facs_99" n="99" xml:id="img_0099"/>
             
-            <ab  facs="#facs_99_r2">
+            <ab facs="#facs_99_r2">
                <lb facs="#facs_99_line_1626245074775_110" n="N001"/>895
                <lb facs="#facs_99_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_99_r2l2" n="N003"/><rs type="person" ref="wkfm__47027">Wurschbaur Johann Jacob</rs> burgerlicher Handlsmann

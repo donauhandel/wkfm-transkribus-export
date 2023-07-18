@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2954" lry="4435" xml:id="facs_84">
+    <surface ulx="0" uly="0" lrx="2954" lry="4435" xml:id="facs_84">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0137.jpg" width="2954px" height="4435px"/>
          <zone points="387,131 387,3218 2787,3218 2787,131" rendition="TextRegion" xml:id="facs_84_r1">
             <zone points="747,240 827,242 907,243 987,245 1067,248 1147,249 1227,252 1307,255 1387,258 1467,260 1548,264 1628,267 1708,269 1788,272 1868,275 1948,278 2028,281 2108,284 2188,285 2268,287 2349,288 2349,179 2268,178 2188,176 2108,175 2028,172 1948,169 1868,166 1788,163 1708,160 1628,158 1548,155 1467,151 1387,149 1307,146 1227,143 1147,140 1067,139 987,136 907,134 827,133 747,131" rendition="Line" xml:id="facs_84_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_84" n="84" xml:id="img_0084"/>
+            <pb facs="#facs_84" n="84" xml:id="img_0084"/>
             
-            <ab  facs="#facs_84_r1">
+            <ab facs="#facs_84_r1">
                <lb facs="#facs_84_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_84_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 60 hat sich der <rs type="person" ref="wkfm__5112">Bollin</rs>
                <lb facs="#facs_84_r1l3" n="N003"/>geäusseret, daß er sich ohne Compagnie befinde

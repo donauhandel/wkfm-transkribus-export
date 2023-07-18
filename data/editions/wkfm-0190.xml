@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3039" lry="4473" xml:id="facs_137">
+    <surface ulx="0" uly="0" lrx="3039" lry="4473" xml:id="facs_137">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0190.jpg" width="3039px" height="4473px"/>
          <zone points="272,190 272,2999 2693,2999 2693,190" rendition="TextRegion" xml:id="facs_137_r1">
             <zone points="2573,335 2603,327 2633,322 2663,320 2693,320 2693,220 2663,220 2633,222 2603,227 2573,235" rendition="Line" xml:id="facs_137_r1l2" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_137" n="137" xml:id="img_0137"/>
+            <pb facs="#facs_137" n="137" xml:id="img_0137"/>
             
-            <ab  facs="#facs_137_r1">
+            <ab facs="#facs_137_r1">
                <lb facs="#facs_137_r1l2" n="N001"/>93
                <lb facs="#facs_137_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_137_r1l3" n="N003"/><rs type="person" ref="wkfm__43901">Pitter Matheus Johann</rs> burgerlicher Handlsmann

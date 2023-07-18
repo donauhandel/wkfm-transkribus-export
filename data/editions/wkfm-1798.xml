@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2894" lry="4476" xml:id="facs_92">
+    <surface ulx="0" uly="0" lrx="2894" lry="4476" xml:id="facs_92">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1798.jpg" width="2894px" height="4476px"/>
          <graphic url="" width="2894px" height="4476px"/>
          <zone points="347,263 347,3380 2813,3377 2813,260" rendition="TextRegion" xml:id="facs_92_r1">
@@ -70,9 +70,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_92" n="92" xml:id="img_0092"/>
+            <pb facs="#facs_92" n="92" xml:id="img_0092"/>
             
-            <ab  facs="#facs_92_r1">
+            <ab facs="#facs_92_r1">
                <lb facs="#facs_92_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_92_r1l2" n="N002"/><seg type="wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_92_r1l3" n="N003"/>Der <rs type="person" ref="wkfm__27475">Weissenbeckh</rs> hat den mit der <rs type="person" ref="wkfm__47017">Magdalena Paurin</rs> untern 26<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice>

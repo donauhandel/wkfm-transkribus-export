@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_10">
+    <surface ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_10">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0330.jpg" width="2934px" height="4501px"/>
          <zone points="344,190 344,3353 2793,3353 2793,190" rendition="TextRegion" xml:id="facs_10_r1">
             <zone points="986,352 1055,346 1124,341 1194,338 1263,334 1333,331 1402,329 1472,328 1541,326 1611,326 1680,325 1749,323 1819,323 1888,322 1958,320 2027,319 2097,317 2166,314 2236,312 2305,307 2375,304 2375,190 2305,193 2236,198 2166,200 2097,203 2027,205 1958,206 1888,208 1819,209 1749,209 1680,211 1611,212 1541,212 1472,214 1402,215 1333,217 1263,220 1194,224 1124,227 1055,232 986,238" rendition="Line" xml:id="facs_10_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_10" n="10" xml:id="img_0010"/>
+            <pb facs="#facs_10" n="10" xml:id="img_0010"/>
             
-            <ab  facs="#facs_10_r1">
+            <ab facs="#facs_10_r1">
                <lb facs="#facs_10_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_10_r1l2" n="N002"/>Der <rs type="person" ref="wkfm__9057">Chiny</rs> hat sich in obigen Anbringen de ps: 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 168
                <lb facs="#facs_10_r1l3" n="N003"/>geäusseret das er weder Compagnon noch interessenten habe.

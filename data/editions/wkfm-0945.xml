@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3095" lry="4469" xml:id="facs_25">
+    <surface ulx="0" uly="0" lrx="3095" lry="4469" xml:id="facs_25">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0945.jpg" width="3095px" height="4469px"/>
          <zone points="131,195 131,3028 2774,3028 2774,195" rendition="TextRegion" xml:id="facs_25_r3">
             <zone points="2648,352 2673,355 2698,355 2723,354 2748,351 2774,349 2774,271 2748,273 2723,276 2698,277 2673,277 2648,274" rendition="Line" xml:id="facs_25_r3l2" subtype="page-number"/>
@@ -70,9 +70,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_25" n="25" xml:id="img_0025"/>
+            <pb facs="#facs_25" n="25" xml:id="img_0025"/>
             
-            <ab  facs="#facs_25_r3">
+            <ab facs="#facs_25_r3">
                <lb facs="#facs_25_r3l2" n="N001"/>465
                <lb facs="#facs_25_r3l1" n="N003"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_25_r3l3" n="N004"/><rs type="person" ref="wkfm__46449">Hölbling Matthias Joseph</rs> hofbefreyter Leinwathandler

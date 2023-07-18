@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4437" xml:id="facs_78">
+    <surface ulx="0" uly="0" lrx="2994" lry="4437" xml:id="facs_78">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0998.jpg" width="2994px" height="4437px"/>
          <zone points="141,220 141,3370 2872,3385 2872,235" rendition="TextRegion" xml:id="facs_78_r1">
             <zone points="1208,345 1269,343 1330,340 1391,337 1452,333 1513,331 1574,328 1635,324 1696,321 1757,319 1818,315 1879,313 1940,309 2001,307 2062,304 2123,301 2184,297 2245,295 2306,292 2367,290 2429,288 2429,222 2367,224 2306,226 2245,229 2184,231 2123,235 2062,238 2001,241 1940,243 1879,247 1818,249 1757,253 1696,255 1635,258 1574,262 1513,265 1452,267 1391,271 1330,274 1269,277 1208,279" rendition="Line" xml:id="facs_78_r1l1"/>
@@ -71,9 +71,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_78" n="78" xml:id="img_0078"/>
+            <pb facs="#facs_78" n="78" xml:id="img_0078"/>
             
-            <ab  facs="#facs_78_r1">
+            <ab facs="#facs_78_r1">
                <lb facs="#facs_78_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_78_r1l2" n="N002"/>In obigen Anbringen de ps: 7<hi style="superscript">ten</hi> Julii 729 N<hi style="superscript">o</hi> 1965 hat der <rs type="person" ref="wkfm__15932">Heller</rs> sich er-
                <lb facs="#facs_78_r1l3" n="N003"/>klähret, daß der <rs type="person" ref="wkfm__8593">Johann Maria Tinti</rs> sein mitinteressent<hi>en</hi> seye

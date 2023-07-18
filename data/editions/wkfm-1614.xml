@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2872" lry="4419" xml:id="facs_156">
+    <surface ulx="0" uly="0" lrx="2872" lry="4419" xml:id="facs_156">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1614.jpg" width="2872px" height="4419px"/>
          <zone points="270,145 270,3226 2799,3226 2799,145" rendition="TextRegion" xml:id="facs_156_r1">
             <zone points="1059,238 1126,230 1193,224 1261,219 1328,215 1395,213 1463,211 1530,211 1597,211 1665,213 1732,213 1799,214 1867,216 1934,216 2001,217 2069,217 2136,216 2203,214 2271,211 2338,207 2406,202 2406,145 2338,150 2271,154 2203,157 2136,159 2069,160 2001,160 1934,159 1867,159 1799,157 1732,156 1665,156 1597,154 1530,154 1463,154 1395,156 1328,158 1261,162 1193,167 1126,173 1059,181" rendition="Line" xml:id="facs_156_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_156" n="156" xml:id="img_0156"/>
+            <pb facs="#facs_156" n="156" xml:id="img_0156"/>
             
-            <ab  facs="#facs_156_r1">
+            <ab facs="#facs_156_r1">
                <lb facs="#facs_156_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_156_r1l2" n="N002"/>In obigen Anbringen de ps: 22<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 735 N<hi style="superscript">o</hi> 737 hat sich der <rs type="person" ref="wkfm__14033">Schröckh</rs>
                <lb facs="#facs_156_r1l4" n="N003"/>erklähret, daß er sein negotium mit eigenem Capital führe

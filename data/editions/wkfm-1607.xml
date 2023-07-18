@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2880" lry="4477" xml:id="facs_149">
+    <surface ulx="0" uly="0" lrx="2880" lry="4477" xml:id="facs_149">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1607.jpg" width="2880px" height="4477px"/>
          <zone points="233,82 233,2908 2766,2908 2766,82" rendition="TextRegion" xml:id="facs_149_r1">
             <zone points="2622,292 2650,295 2679,296 2708,298 2737,297 2766,295 2766,198 2737,200 2708,201 2679,199 2650,198 2622,195" rendition="Line" xml:id="facs_149_r1l2" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_149" n="149" xml:id="img_0149"/>
+            <pb facs="#facs_149" n="149" xml:id="img_0149"/>
             
-            <ab  facs="#facs_149_r1">
+            <ab facs="#facs_149_r1">
                <lb facs="#facs_149_r1l2" n="N001"/>796
                <lb facs="#facs_149_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_149_r1l3" n="N003"/><rs type="person" ref="wkfm__23562">Schadt Franz <hi>Ferdinan</hi> Bernhard</rs> burgerlicher Handlsmann

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2982" lry="4453" xml:id="facs_26">
+    <surface ulx="0" uly="0" lrx="2982" lry="4453" xml:id="facs_26">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0079.jpg" width="2982px" height="4453px"/>
          <zone points="369,242 369,3403 2853,3403 2853,242" rendition="TextRegion" xml:id="facs_26_r1">
             <zone points="938,348 1003,346 1069,345 1134,343 1200,342 1266,339 1331,337 1397,335 1462,333 1528,330 1594,328 1659,326 1725,324 1790,321 1856,319 1921,317 1987,315 2053,313 2118,312 2184,310 2250,309 2250,242 2184,243 2118,245 2053,246 1987,248 1921,250 1856,252 1790,254 1725,257 1659,259 1594,261 1528,263 1462,266 1397,268 1331,270 1266,272 1200,275 1134,276 1069,278 1003,279 938,281" rendition="Line" xml:id="facs_26_r1l1"/>
@@ -77,9 +77,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_26" n="26" xml:id="img_0026"/>
+            <pb facs="#facs_26" n="26" xml:id="img_0026"/>
             
-            <ab  facs="#facs_26_r1">
+            <ab facs="#facs_26_r1">
                <lb facs="#facs_26_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_26_r1l2" n="N002"/>In obigen Anbringen de ps: 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 34 hat sich obiger <rs type="person" ref="wkfm__40680">Butterna</rs>
                <lb facs="#facs_26_r1l3" n="N003"/>dann der <rs type="person" ref="wkfm__15300">Johann Anton Bormastino</rs> erklähret das sie ihre Handlung
@@ -87,7 +87,7 @@
                <lb facs="#facs_26_r1l5" n="N005"/>In obigen Anbringen de ps: 23<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 728 N<hi style="superscript">o</hi> 1851 ist die Erklährung gemacht
                <lb facs="#facs_26_r1l6" n="N006"/>worden daß zwischen dem <rs type="person" ref="wkfm__40680">Butterna </rs>dann <rs type="person" ref="wkfm__24831">Wolfgang </rs>und <rs type="person" ref="wkfm__11795">Philipp Joseph
                <lb break="no" facs="#facs_26_r1l7" n="N007"/>Heymerl</rs> zu Aufricht und Fortpflanzung einer Gold und Silber <unclear>Fabrique</unclear>
-               <lb facs="#facs_26_r1l8" n="N008"/>untern 30<hi style="superscript">ten</hi> Junii 727 eine <comment comment="ein\u0020\u0022E\u0022\u0020und\u0020\u0022S\u0022\u0020übereinander"><hi><unclear>So</unclear></hi></comment> Societaet und Einverständnus errichtet
+               <lb facs="#facs_26_r1l8" n="N008"/>untern 30<hi style="superscript">ten</hi> Junii 727 eine <seg type="editorial_comment_seg"><hi><unclear>So</unclear></hi><note type="editorial_comment_note">ein E und S übereinander</note></seg> Societaet und Einverständnus errichtet
                <lb facs="#facs_26_r1l10" n="N009"/>worden seye.
                <lb facs="#facs_26_line_1628436152675_69" n="N010"/>Mitls Anbringen de ps: 14<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 748 N<hi style="superscript">o</hi> 1980 haben die gerichtlich <unclear>aufgestelte</unclear> <unclear>Administratorn</unclear>
                <lb facs="#facs_26_r1l12" n="N011"/>der Verlassenschaft des <rs type="person" ref="wkfm__24831">Johann Wolfgang Heymerl</rs> angezeiget, daß die

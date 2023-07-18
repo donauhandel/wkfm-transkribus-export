@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2952" lry="4398" xml:id="facs_195">
+    <surface ulx="0" uly="0" lrx="2952" lry="4398" xml:id="facs_195">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1653.jpg" width="2952px" height="4398px"/>
          <zone points="152,107 152,3302 2750,3303 2750,108" rendition="TextRegion" xml:id="facs_195_r1">
             <zone points="2564,174 2742,174 2742,360 2564,360" rendition="Line" xml:id="facs_195_line_1626263236912_2294" subtype="page-number"/>
@@ -73,9 +73,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_195" n="195" xml:id="img_0195"/>
+            <pb facs="#facs_195" n="195" xml:id="img_0195"/>
             
-            <ab  facs="#facs_195_r1">
+            <ab facs="#facs_195_r1">
                <lb facs="#facs_195_line_1626263236912_2294" n="N001"/>819
                <lb facs="#facs_195_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_195_r1l2" n="N003"/><rs type="person" ref="wkfm__47558">Salvini Franz</rs> burgerlicher Handlsmann

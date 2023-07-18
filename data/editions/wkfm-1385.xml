@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2895" lry="4391" xml:id="facs_33">
+    <surface ulx="0" uly="0" lrx="2895" lry="4391" xml:id="facs_33">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1385.jpg" width="2895px" height="4391px"/>
          <graphic url="" width="2895px" height="4391px"/>
          <zone points="228,145 228,2913 2726,2896 2726,128" rendition="TextRegion" xml:id="facs_33_r1">
@@ -70,9 +70,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_33" n="33" xml:id="img_0033"/>
+            <pb facs="#facs_33" n="33" xml:id="img_0033"/>
             
-            <ab  facs="#facs_33_r1">
+            <ab facs="#facs_33_r1">
                <lb facs="#facs_33_line_1625045763312_1571" n="N001"/>685
                <lb facs="#facs_33_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_33_r1l2" n="N003"/><rs type="person" ref="wkfm__5563"><unclear>Reesch</unclear> Johann Friderich</rs> burgerlicher Handlsmann

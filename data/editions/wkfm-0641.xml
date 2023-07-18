@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2963" lry="4566" xml:id="facs_21">
+    <surface ulx="0" uly="0" lrx="2963" lry="4566" xml:id="facs_21">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0641.jpg" width="2963px" height="4566px"/>
          <zone points="233,244 233,3031 2769,3031 2769,244" rendition="TextRegion" xml:id="facs_21_r1">
             <zone points="2630,467 2657,466 2685,468 2713,470 2741,470 2769,469 2769,373 2741,374 2713,374 2685,372 2657,370 2630,371" rendition="Line" xml:id="facs_21_r1l2" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_21" n="21" xml:id="img_0021"/>
+            <pb facs="#facs_21" n="21" xml:id="img_0021"/>
             
-            <ab  facs="#facs_21_r1">
+            <ab facs="#facs_21_r1">
                <lb facs="#facs_21_r1l2" n="N001"/>318
                <lb facs="#facs_21_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_21_line_1619204645603_955" n="N003"/><rs type="person" ref="wkfm__8771">Eggendorfer Franz</rs> burgerlicher Hands Mann

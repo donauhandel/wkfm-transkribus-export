@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3019" lry="4503" xml:id="facs_76">
+    <surface ulx="0" uly="0" lrx="3019" lry="4503" xml:id="facs_76">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1260.jpg" width="3019px" height="4503px"/>
          <zone points="326,177 326,3361 2763,3361 2763,177" rendition="TextRegion" xml:id="facs_76_r1">
             <zone points="1328,289 1391,286 1454,285 1517,283 1580,283 1643,283 1706,283 1769,283 1832,283 1895,283 1958,285 2021,285 2084,285 2147,285 2210,283 2273,283 2336,282 2399,280 2462,277 2525,274 2588,270 2588,177 2525,181 2462,184 2399,187 2336,189 2273,190 2210,190 2147,192 2084,192 2021,192 1958,192 1895,190 1832,190 1769,190 1706,190 1643,190 1580,190 1517,190 1454,192 1391,193 1328,196" rendition="Line" xml:id="facs_76_r1l1"/>
@@ -71,9 +71,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_76" n="76" xml:id="img_0076"/>
+            <pb facs="#facs_76" n="76" xml:id="img_0076"/>
             
-            <ab  facs="#facs_76_r1">
+            <ab facs="#facs_76_r1">
                <lb facs="#facs_76_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_76_r1l2" n="N002"/><seg type="wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_76_r1l3" n="N003"/><choice><expan/><abbr>Ao</abbr></choice> 772 hat der <rs type="person" ref="wkfm__46910">Johann Georg Mumb</rs> seinen mit der <rs type="person" ref="wkfm__46913">Ma: Anna

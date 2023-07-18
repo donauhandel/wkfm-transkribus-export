@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2979" lry="4468" xml:id="facs_97">
+    <surface ulx="0" uly="0" lrx="2979" lry="4468" xml:id="facs_97">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1803.jpg" width="2979px" height="4468px"/>
          <zone points="152,178 152,4136 2825,4136 2825,178" rendition="TextRegion" xml:id="facs_97_r1">
             <zone points="2649,311 2674,310 2699,310 2724,311 2749,311 2774,310 2799,310 2825,307 2825,247 2799,250 2774,250 2749,251 2724,251 2699,250 2674,250 2649,251" rendition="Line" xml:id="facs_97_r1l2" subtype="page-number"/>
@@ -87,9 +87,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_97" n="97" xml:id="img_0097"/>
+            <pb facs="#facs_97" n="97" xml:id="img_0097"/>
             
-            <ab  facs="#facs_97_r1">
+            <ab facs="#facs_97_r1">
                <lb facs="#facs_97_r1l2" n="N001"/>894
                <lb facs="#facs_97_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_97_r1l3" n="N003"/><rs type="person" ref="wkfm__43919">Waizmann Franz Anton</rs> burgerlicher Handlsmann

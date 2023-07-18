@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2944" lry="4473" xml:id="facs_157">
+    <surface ulx="0" uly="0" lrx="2944" lry="4473" xml:id="facs_157">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0210.jpg" width="2944px" height="4473px"/>
          <zone points="135,178 135,2990 2553,2990 2553,178" rendition="TextRegion" xml:id="facs_157_r2">
             <zone points="2388,333 2415,329 2443,326 2470,323 2498,319 2526,317 2526,244 2498,246 2470,250 2443,253 2415,256 2388,260" rendition="Line" xml:id="facs_157_r2l2" subtype="page-number"/>
@@ -73,9 +73,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_157" n="157" xml:id="img_0157"/>
+            <pb facs="#facs_157" n="157" xml:id="img_0157"/>
             
-            <ab  facs="#facs_157_r2">
+            <ab facs="#facs_157_r2">
                <lb facs="#facs_157_r2l2" n="N001"/>103
                <lb facs="#facs_157_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_157_line_1621468503442_2860" n="N003"/><rs type="person" ref="wkfm__43912">Pörner <hi>Peter</hi> Ferdinand</rs> burgerlicher Handlsmann

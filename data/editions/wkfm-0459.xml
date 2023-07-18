@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2923" lry="4436" xml:id="facs_139">
+    <surface ulx="0" uly="0" lrx="2923" lry="4436" xml:id="facs_139">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0459.jpg" width="2923px" height="4436px"/>
          <zone points="197,154 197,2888 2747,2888 2747,154" rendition="TextRegion" xml:id="facs_139_r1">
             <zone points="2606,352 2634,358 2662,359 2690,359 2718,358 2747,361 2747,292 2718,289 2690,290 2662,290 2634,289 2606,283" rendition="Line" xml:id="facs_139_r1l2" subtype="page-number"/>
@@ -73,9 +73,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_139" n="139" xml:id="img_0139"/>
+            <pb facs="#facs_139" n="139" xml:id="img_0139"/>
             
-            <ab  facs="#facs_139_r1">
+            <ab facs="#facs_139_r1">
                <lb facs="#facs_139_r1l2" n="N001"/>227
                <lb facs="#facs_139_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_139_r1l3" n="N003"/><rs type="person" ref="wkfm__43895">Kratzer Michäl Justus</rs> burgerlicher Handlsmann

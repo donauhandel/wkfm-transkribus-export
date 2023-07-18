@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2916" lry="4493" xml:id="facs_215">
+    <surface ulx="0" uly="0" lrx="2916" lry="4493" xml:id="facs_215">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0269.jpg" width="2916px" height="4493px"/>
          <zone points="176,164 185,3754 2778,3751 2769,161" rendition="TextRegion" xml:id="facs_215_r2">
             <zone points="2609,177 2770,177 2770,296 2609,296" rendition="Line" xml:id="facs_215_line_1629709391152_1083" subtype="page-number"/>
@@ -78,9 +78,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_215" n="215" xml:id="img_0215"/>
+            <pb facs="#facs_215" n="215" xml:id="img_0215"/>
             
-            <ab  facs="#facs_215_r2">
+            <ab facs="#facs_215_r2">
                <lb facs="#facs_215_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_215_r2l2" n="N003"/><rs type="person" ref="wkfm__43958">Pohamb Johann</rs> <choice><expan/><abbr>burg:</abbr></choice> Handlsmann
                <lb facs="#facs_215_r2l3" n="N004"/>Firma ad Raggion
@@ -96,7 +96,7 @@
                <lb facs="#facs_215_r2l13" n="N014"/><choice><expan>Summa</expan><abbr>Sa</abbr></choice> 33345 fl 32 x<hi style="superscript">r</hi>
                <lb facs="#facs_215_r2l14" n="N015"/>daß also über Abzug deren Creditoren <choice><expan/><abbr>pr</abbr></choice> 9259 fl 3 x<hi style="superscript">r</hi>
                <lb facs="#facs_215_line_1621472011293_4177" n="N016"/>an eigenthum verbleiben 24086 fl 9 x<hi style="superscript">r</hi>
-               <lb facs="#facs_215_r2l19" n="N017"/><comment comment="Verbesserung\u0020der\u0020ersten\u00203\u0020Ziffern\u0020der\u002024086\u0020fl">240</comment>
+               <lb facs="#facs_215_r2l19" n="N017"/><seg type="editorial_comment_seg">240<note type="editorial_comment_note">Verbesserung der ersten 3 Ziffern der 24086 fl</note></seg>
             </ab>
             
         </div>

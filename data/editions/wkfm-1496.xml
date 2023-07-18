@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2929" lry="4455" xml:id="facs_38">
+    <surface ulx="0" uly="0" lrx="2929" lry="4455" xml:id="facs_38">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1496.jpg" width="2929px" height="4455px"/>
          <zone points="258,137 258,3311 2778,3311 2778,137" rendition="TextRegion" xml:id="facs_38_r1">
             <zone points="992,293 1059,290 1126,287 1193,285 1260,283 1327,281 1394,280 1461,278 1528,277 1595,275 1662,274 1729,272 1796,271 1863,269 1930,266 1997,263 2064,260 2131,256 2198,253 2265,247 2333,242 2333,137 2265,142 2198,148 2131,151 2064,155 1997,158 1930,161 1863,164 1796,166 1729,167 1662,169 1595,170 1528,172 1461,173 1394,175 1327,176 1260,178 1193,180 1126,182 1059,185 992,188" rendition="Line" xml:id="facs_38_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_38" n="38" xml:id="img_0038"/>
+            <pb facs="#facs_38" n="38" xml:id="img_0038"/>
             
-            <ab  facs="#facs_38_r1">
+            <ab facs="#facs_38_r1">
                <lb facs="#facs_38_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_38_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 674 hat sich der
                <lb facs="#facs_38_r1l3" n="N003"/><rs type="person" ref="wkfm__8418">Straus</rs> geäusseret, das er seine Handlung für sich in proprio führe

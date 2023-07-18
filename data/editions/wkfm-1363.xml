@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3021" lry="4455" xml:id="facs_11">
+    <surface ulx="0" uly="0" lrx="3021" lry="4455" xml:id="facs_11">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1363.jpg" width="3021px" height="4455px"/>
          <zone points="179,133 179,2820 2750,2820 2750,133" rendition="TextRegion" xml:id="facs_11_r1">
             <zone points="2586,363 2611,363 2636,363 2662,366 2687,366 2712,364 2738,358 2738,265 2712,271 2687,273 2662,273 2636,270 2611,270 2586,270" rendition="Line" xml:id="facs_11_r1l2" subtype="page-number"/>
@@ -72,9 +72,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_11" n="11" xml:id="img_0011"/>
+            <pb facs="#facs_11" n="11" xml:id="img_0011"/>
             
-            <ab  facs="#facs_11_r1">
+            <ab facs="#facs_11_r1">
                <lb facs="#facs_11_r1l2" n="N001"/>674
                <lb facs="#facs_11_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_11_r1l3" n="N003"/><rs type="person" ref="wkfm__21607">Reißmiller Bernhard</rs> kay: könig: Niderlags Verwanter

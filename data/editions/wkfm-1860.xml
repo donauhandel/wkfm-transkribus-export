@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2893" lry="4398" xml:id="facs_6">
+    <surface ulx="0" uly="0" lrx="2893" lry="4398" xml:id="facs_6">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1860.jpg" width="2893px" height="4398px"/>
          <zone points="237,120 237,3285 2733,3285 2733,120" rendition="TextRegion" xml:id="facs_6_r1">
             <zone points="1100,223 1168,219 1236,216 1305,214 1373,213 1442,213 1510,214 1578,215 1647,217 1715,217 1784,219 1852,220 1920,220 1989,220 2057,220 2126,217 2194,214 2262,210 2331,203 2399,195 2468,186 2468,120 2399,129 2331,137 2262,144 2194,148 2126,151 2057,154 1989,154 1920,154 1852,154 1784,153 1715,151 1647,151 1578,149 1510,148 1442,147 1373,147 1305,148 1236,150 1168,153 1100,157" rendition="Line" xml:id="facs_6_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_6" n="6" xml:id="img_0006"/>
+            <pb facs="#facs_6" n="6" xml:id="img_0006"/>
             
-            <ab  facs="#facs_6_r1">
+            <ab facs="#facs_6_r1">
                <lb facs="#facs_6_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_6_r1l2" n="N002"/>In obigen Anbringen de ps: 30<hi style="superscript">ten</hi> Junii 735 N<hi style="superscript">o</hi> 872 hat sich der <rs type="person" ref="wkfm__16033">Gumpertz</rs>
                <lb facs="#facs_6_r1l3" n="N003"/>erklähret, daß er kein Compagnon habe.

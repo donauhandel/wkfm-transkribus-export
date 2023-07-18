@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2988" lry="4468" xml:id="facs_15">
+    <surface ulx="0" uly="0" lrx="2988" lry="4468" xml:id="facs_15">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1721.jpg" width="2988px" height="4468px"/>
          <zone points="192,184 192,2984 2852,2984 2852,184" rendition="TextRegion" xml:id="facs_15_r2">
             <zone points="2675,326 2703,325 2732,326 2761,328 2790,328 2819,323 2819,263 2790,268 2761,268 2732,266 2703,265 2675,266" rendition="Line" xml:id="facs_15_r2l2" subtype="page-number"/>
@@ -72,9 +72,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_15" n="15" xml:id="img_0015"/>
+            <pb facs="#facs_15" n="15" xml:id="img_0015"/>
             
-            <ab  facs="#facs_15_r2">
+            <ab facs="#facs_15_r2">
                <lb facs="#facs_15_r2l2" n="N001"/>853
                <lb facs="#facs_15_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_15_r2l3" n="N003"/><rs type="person" ref="wkfm__46959">Würth Georg Christoph</rs> kay: Niderlags Verwanter

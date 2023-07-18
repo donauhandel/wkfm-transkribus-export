@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2859" lry="4502" xml:id="facs_176">
+    <surface ulx="0" uly="0" lrx="2859" lry="4502" xml:id="facs_176">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0230.jpg" width="2859px" height="4502px"/>
          <zone points="111,373 111,4223 2716,4223 2716,373" rendition="TextRegion" xml:id="facs_176_r1">
             <zone points="794,244 866,241 939,239 1012,239 1085,239 1158,241 1230,242 1303,245 1376,249 1449,252 1522,256 1594,259 1667,262 1740,265 1813,268 1886,269 1958,271 2031,272 2104,271 2177,269 2250,266 2250,188 2177,191 2104,193 2031,194 1958,193 1886,191 1813,190 1740,187 1667,184 1594,181 1522,178 1449,174 1376,171 1303,167 1230,164 1158,163 1085,161 1012,161 939,161 866,163 794,166" rendition="Line" xml:id="facs_176_r1l1"/>
@@ -77,9 +77,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_176" n="176" xml:id="img_0176"/>
+            <pb facs="#facs_176" n="176" xml:id="img_0176"/>
             
-            <ab  facs="#facs_176_r1">
+            <ab facs="#facs_176_r1">
                <lb facs="#facs_176_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_176_r1l2" n="N002"/>In obigen Anbringen de ps: 9<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 736 N<hi style="superscript">o</hi> 108 et 106 hat sich der
                <lb facs="#facs_176_r1l3" n="N003"/><rs type="person" ref="wkfm__22485">Piller</rs> geäusseret, daß er keinen Compagnon habe.
@@ -90,7 +90,7 @@
                <lb facs="#facs_176_r1l8" n="N008"/>anbey, was wehrender Ehe erworben und ererbet wird, als ein
                <lb facs="#facs_176_r1l9" n="N009"/>gleiches Gutt pactiret worden.
                <lb facs="#facs_176_r1l10" n="N010"/><seg type="other_notes">Anmerkungen</seg>
-               <lb facs="#facs_176_r1l11" n="N011"/>Vermög Hofresolution dd<hi style="superscript">to</hi> 5<hi style="superscript">ten</hi> <comment comment="Lesung\u0020mit\u0020Sicherheit\u0020falsch"><unclear>untintim</unclear>:</comment> 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 735 N<hi style="superscript">o</hi> 107
+               <lb facs="#facs_176_r1l11" n="N011"/>Vermög Hofresolution dd<hi style="superscript">to</hi> 5<hi style="superscript">ten</hi> <seg type="editorial_comment_seg"><unclear>untintim</unclear>:<note type="editorial_comment_note">Lesung mit Sicherheit falsch</note></seg> 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 735 N<hi style="superscript">o</hi> 107
                <lb facs="#facs_176_r1l12" n="N012"/>ist der <rs type="person" ref="wkfm__22485">Piller</rs> von dem inhibitions decret und Fallitten Ordnung
                <lb facs="#facs_176_r1l13" n="N013"/>in ansehen das er seinen Handlungs Kauf Contract mit der <unclear>Mag</unclear>
                <lb facs="#facs_176_r1l14" n="N014"/>Wittib vor emanirung derenselben abgeschlossen, dispensiret worden

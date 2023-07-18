@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2872" lry="4455" xml:id="facs_132">
+    <surface ulx="0" uly="0" lrx="2872" lry="4455" xml:id="facs_132">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1590.jpg" width="2872px" height="4455px"/>
          <zone points="225,112 225,3284 2727,3284 2727,112" rendition="TextRegion" xml:id="facs_132_r1">
             <zone points="911,261 978,254 1046,247 1114,242 1182,239 1250,236 1317,234 1385,234 1453,233 1521,234 1589,234 1656,234 1724,235 1792,236 1860,234 1928,234 1995,231 2063,229 2131,225 2199,219 2267,212 2267,112 2199,119 2131,125 2063,129 1995,131 1928,134 1860,134 1792,136 1724,135 1656,134 1589,134 1521,134 1453,133 1385,134 1317,134 1250,136 1182,139 1114,142 1046,147 978,154 911,161" rendition="Line" xml:id="facs_132_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_132" n="132" xml:id="img_0132"/>
+            <pb facs="#facs_132" n="132" xml:id="img_0132"/>
             
-            <ab  facs="#facs_132_r1">
+            <ab facs="#facs_132_r1">
                <lb facs="#facs_132_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_132_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 14<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 733 N<hi style="superscript">o</hi> 721 hat sich der
                <lb facs="#facs_132_r1l3" n="N003"/><rs type="person" ref="wkfm__26303">Sartory</rs> geäusseret das er keine Compagnie habe

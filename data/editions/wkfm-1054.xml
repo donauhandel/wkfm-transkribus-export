@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3087" lry="4530" xml:id="facs_134">
+    <surface ulx="0" uly="0" lrx="3087" lry="4530" xml:id="facs_134">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1054.jpg" width="3087px" height="4530px"/>
          <zone points="378,240 378,3411 2951,3411 2951,240" rendition="TextRegion" xml:id="facs_134_r1">
             <zone points="1215,362 1280,355 1345,350 1410,345 1475,340 1540,336 1605,332 1670,329 1735,326 1800,323 1865,320 1930,318 1995,316 2060,314 2125,312 2190,311 2255,309 2320,308 2385,306 2450,305 2516,303 2516,240 2450,242 2385,243 2320,245 2255,246 2190,248 2125,249 2060,251 1995,253 1930,255 1865,257 1800,260 1735,263 1670,266 1605,269 1540,273 1475,277 1410,282 1345,287 1280,292 1215,299" rendition="Line" xml:id="facs_134_r1l1"/>
@@ -70,9 +70,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_134" n="134" xml:id="img_0134"/>
+            <pb facs="#facs_134" n="134" xml:id="img_0134"/>
             
-            <ab  facs="#facs_134_r1">
+            <ab facs="#facs_134_r1">
                <lb facs="#facs_134_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_134_r1l2" n="N002"/><seg type="wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_134_r1l3" n="N003"/>Mitls obigen Anbringen de ps: 18<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 753 N<hi style="superscript">o</hi> 482 hat der <rs type="person" ref="wkfm__46563">Hueber</rs> den mit der

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3134" lry="4521" xml:id="facs_27">
+    <surface ulx="0" uly="0" lrx="3134" lry="4521" xml:id="facs_27">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1127.jpg" width="3134px" height="4521px"/>
          <zone points="338,224 338,3012 2972,3012 2972,224" rendition="TextRegion" xml:id="facs_27_r2">
             <zone points="2783,498 2809,496 2835,495 2861,495 2887,497 2913,497 2940,497 2940,398 2913,398 2887,398 2861,396 2835,396 2809,397 2783,399" rendition="Line" xml:id="facs_27_r2l2" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_27" n="27" xml:id="img_0027"/>
+            <pb facs="#facs_27" n="27" xml:id="img_0027"/>
             
-            <ab  facs="#facs_27_r2">
+            <ab facs="#facs_27_r2">
                <lb facs="#facs_27_r2l2" n="N001"/>557
                <lb facs="#facs_27_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_27_r2l3" n="N003"/><rs type="person" ref="wkfm__46798">Lischon Jacob Franz</rs> burgerlicher Handlsmann

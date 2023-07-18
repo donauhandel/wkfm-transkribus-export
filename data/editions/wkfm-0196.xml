@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3039" lry="4473" xml:id="facs_143">
+    <surface ulx="0" uly="0" lrx="3039" lry="4473" xml:id="facs_143">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0196.jpg" width="3039px" height="4473px"/>
          <zone points="123,206 123,3011 2504,3011 2504,206" rendition="TextRegion" xml:id="facs_143_r1">
             <zone points="2348,281 2374,275 2400,270 2426,267 2452,265 2478,262 2504,260 2504,214 2478,216 2452,219 2426,221 2400,224 2374,229 2348,235" rendition="Line" xml:id="facs_143_r1l1" subtype="page-number"/>
@@ -71,9 +71,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_143" n="143" xml:id="img_0143"/>
+            <pb facs="#facs_143" n="143" xml:id="img_0143"/>
             
-            <ab  facs="#facs_143_r1">
+            <ab facs="#facs_143_r1">
                <lb facs="#facs_143_r1l1" n="N001"/>96
                <lb facs="#facs_143_r1l2" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_143_r1l3" n="N003"/><rs type="person" ref="wkfm__4646">Peisser Joseph</rs> burgerlicher Handlsmann

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2988" lry="4468" xml:id="facs_19">
+    <surface ulx="0" uly="0" lrx="2988" lry="4468" xml:id="facs_19">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1725.jpg" width="2988px" height="4468px"/>
          <zone points="251,187 251,3028 2919,3028 2919,187" rendition="TextRegion" xml:id="facs_19_r2">
             <zone points="2774,374 2802,374 2831,377 2860,379 2889,378 2918,373 2918,277 2889,282 2860,283 2831,281 2802,278 2774,278" rendition="Line" xml:id="facs_19_r2l2" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_19" n="19" xml:id="img_0019"/>
+            <pb facs="#facs_19" n="19" xml:id="img_0019"/>
             
-            <ab  facs="#facs_19_r2">
+            <ab facs="#facs_19_r2">
                <lb facs="#facs_19_r2l2" n="N001"/>855
                <lb facs="#facs_19_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_19_r2l3" n="N003"/><rs type="person" ref="wkfm__46960">Winkhlerin vorhin Sprintzlin Jacobina</rs> <hi>burg</hi> kay: könig: Niderlags Verwante

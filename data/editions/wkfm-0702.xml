@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_34">
+    <surface ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_34">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0702.jpg" width="2994px" height="4530px"/>
          <zone points="324,194 324,3409 2889,3409 2889,194" rendition="TextRegion" xml:id="facs_34_r1">
             <zone points="1206,333 1265,328 1325,325 1385,324 1444,324 1504,324 1564,325 1623,327 1683,330 1743,333 1803,336 1862,339 1922,342 1982,346 2041,348 2101,351 2161,353 2220,354 2280,355 2340,354 2400,354 2400,224 2340,224 2280,225 2220,224 2161,223 2101,221 2041,218 1982,216 1922,212 1862,209 1803,206 1743,203 1683,200 1623,197 1564,195 1504,194 1444,194 1385,194 1325,195 1265,198 1206,203" rendition="Line" xml:id="facs_34_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_34" n="34" xml:id="img_0034"/>
+            <pb facs="#facs_34" n="34" xml:id="img_0034"/>
             
-            <ab  facs="#facs_34_r1">
+            <ab facs="#facs_34_r1">
                <lb facs="#facs_34_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_34_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 332 hat
                <lb facs="#facs_34_r1l3" n="N003"/>sich der <rs type="person" ref="wkfm__12874">Fiegelmielner</rs> geäusseret das er keinen Compagnon

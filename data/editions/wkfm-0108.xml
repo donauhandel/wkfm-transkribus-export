@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2991" lry="4407" xml:id="facs_55">
+    <surface ulx="0" uly="0" lrx="2991" lry="4407" xml:id="facs_55">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0108.jpg" width="2991px" height="4407px"/>
          <zone points="186,135 186,2967 2694,2967 2694,135" rendition="TextRegion" xml:id="facs_55_r1">
             <zone points="2523,231 2551,230 2580,229 2608,228 2637,225 2637,135 2608,138 2580,139 2551,140 2523,141" rendition="Line" xml:id="facs_55_r1l1" subtype="page-number"/>
@@ -70,9 +70,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_55" n="55" xml:id="img_0055"/>
+            <pb facs="#facs_55" n="55" xml:id="img_0055"/>
             
-            <ab  facs="#facs_55_r1">
+            <ab facs="#facs_55_r1">
                <lb facs="#facs_55_r1l1" n="N001"/>52
                <lb facs="#facs_55_r1l2" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_55_r1l3" n="N003"/><rs type="person" ref="wkfm__43849">Bandian Johann Georg <choice><expan/><abbr>seel:</abbr></choice> Wittib</rs> burgerliche Handlsfrau

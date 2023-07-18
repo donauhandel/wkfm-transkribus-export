@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_26">
+    <surface ulx="0" uly="0" lrx="2934" lry="4501" xml:id="facs_26">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0346.jpg" width="2934px" height="4501px"/>
          <zone points="303,173 303,3365 2847,3365 2847,173" rendition="TextRegion" xml:id="facs_26_r1">
             <zone points="896,336 968,326 1041,317 1114,309 1187,303 1259,299 1332,296 1405,293 1478,291 1550,290 1623,290 1696,288 1769,288 1841,287 1914,285 1987,283 2060,280 2132,276 2205,270 2278,264 2351,255 2351,173 2278,182 2205,188 2132,194 2060,198 1987,201 1914,203 1841,205 1769,206 1696,206 1623,208 1550,208 1478,209 1405,211 1332,214 1259,217 1187,221 1114,227 1041,235 968,244 896,254" rendition="Line" xml:id="facs_26_r1l1"/>
@@ -79,9 +79,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_26" n="26" xml:id="img_0026"/>
+            <pb facs="#facs_26" n="26" xml:id="img_0026"/>
             
-            <ab  facs="#facs_26_r1">
+            <ab facs="#facs_26_r1">
                <lb facs="#facs_26_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_26_r1l2" n="N002"/>Im obigen Anbringen de ps: 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 173 hat sich der <rs type="person" ref="wkfm__9344">Kircher</rs>
                <lb facs="#facs_26_r1l4" n="N003"/>erklähret, das er keinen Compagnon und interessenten habe.
@@ -91,7 +91,7 @@
                <lb break="no" facs="#facs_26_r1l7" n="N007"/>Kircher</rs> geäusseret, daß er entschlossen seine Handlung gänzlich abzu-
                <lb facs="#facs_26_r1l8" n="N008"/>tretten und in solcher seinem leiblichen Sohn <rs type="person" ref="wkfm__46108">Joseph</rs> zu seinen Schwiger Sohn
                <lb facs="#facs_26_r1l9" n="N009"/>und dermahligen Compagnon <rs type="person" ref="wkfm__41599">Johann Peter Togniola</rs> zu accopagniren
-               <lb facs="#facs_26_line_1621954669276_382" n="N010"/><comment comment="Der\u0020folgende\u0020Abschnitt\u0020ist\u0020vor\u0020dem\u0020mit\u00202\u0020gekennzeichneten\u0020Abschnitt\u0020zu\u0020setzen">1</comment>
+               <lb facs="#facs_26_line_1621954669276_382" n="N010"/><seg type="editorial_comment_seg">1<note type="editorial_comment_note">Der folgende Abschnitt ist vor dem mit 2 gekennzeichneten Abschnitt zu setzen</note></seg>
                <lb facs="#facs_26_r1l10" n="N011"/>1
                <lb facs="#facs_26_line_1621954673577_387" n="N012"/>1
                <lb facs="#facs_26_r1l11" n="N013"/>Von dem <choice><expan/><abbr>orig:</abbr></choice> Instrument dd<hi style="superscript">to</hi> 3<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 736 N<hi style="superscript">o</hi> 1354 hat sich der

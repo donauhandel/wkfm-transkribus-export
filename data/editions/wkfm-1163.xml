@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3048" lry="4521" xml:id="facs_63">
+    <surface ulx="0" uly="0" lrx="3048" lry="4521" xml:id="facs_63">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1163.jpg" width="3048px" height="4521px"/>
          <zone points="143,250 143,3062 2826,3062 2826,250" rendition="TextRegion" xml:id="facs_63_r2">
             <zone points="2670,462 2696,461 2722,461 2748,461 2774,462 2800,462 2826,459 2826,359 2800,362 2774,362 2748,361 2722,361 2696,361 2670,362" rendition="Line" xml:id="facs_63_r2l2" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_63" n="63" xml:id="img_0063"/>
+            <pb facs="#facs_63" n="63" xml:id="img_0063"/>
             
-            <ab  facs="#facs_63_r2">
+            <ab facs="#facs_63_r2">
                <lb facs="#facs_63_r2l2" n="N001"/>575
                <lb facs="#facs_63_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_63_r2l3" n="N003"/><rs type="person" ref="wkfm__21313">Lobmayr Wolff Michäl</rs> burgerlicher Leinwathandler

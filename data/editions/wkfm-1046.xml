@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3087" lry="4530" xml:id="facs_126">
+    <surface ulx="0" uly="0" lrx="3087" lry="4530" xml:id="facs_126">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1046.jpg" width="3087px" height="4530px"/>
          <graphic url="" width="3087px" height="4530px"/>
          <zone points="318,200 318,3389 2937,3389 2937,200" rendition="TextRegion" xml:id="facs_126_r1">
@@ -72,9 +72,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_126" n="126" xml:id="img_0126"/>
+            <pb facs="#facs_126" n="126" xml:id="img_0126"/>
             
-            <ab  facs="#facs_126_r1">
+            <ab facs="#facs_126_r1">
                <lb facs="#facs_126_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_126_r1l2" n="N002"/><seg type="wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_126_r1l3" n="N003"/>Mitls obigen Anbringen de ps: 25<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 753 N<hi style="superscript">o</hi> 483 hat der <rs type="person" ref="wkfm__46553">Hipp</rs> den mit der

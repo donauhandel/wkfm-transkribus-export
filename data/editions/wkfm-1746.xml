@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2886" lry="4476" xml:id="facs_40">
+    <surface ulx="0" uly="0" lrx="2886" lry="4476" xml:id="facs_40">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1746.jpg" width="2886px" height="4476px"/>
          <zone points="260,229 260,3446 2796,3452 2796,235" rendition="TextRegion" xml:id="facs_40_r1">
             <zone points="1133,392 1196,389 1259,386 1322,385 1386,383 1449,383 1512,385 1576,385 1639,386 1702,386 1766,386 1829,386 1892,386 1955,385 2019,382 2082,379 2145,374 2209,367 2272,359 2335,348 2399,335 2399,229 2335,242 2272,253 2209,261 2145,268 2082,273 2019,276 1955,279 1892,280 1829,280 1766,280 1702,280 1639,280 1576,279 1512,279 1449,277 1386,277 1322,279 1259,280 1196,283 1133,286" rendition="Line" xml:id="facs_40_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_40" n="40" xml:id="img_0040"/>
+            <pb facs="#facs_40" n="40" xml:id="img_0040"/>
             
-            <ab  facs="#facs_40_r1">
+            <ab facs="#facs_40_r1">
                <lb facs="#facs_40_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_40_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 802 hat sich der <rs type="person" ref="wkfm__8924">Wittiber</rs>
                <lb facs="#facs_40_r1l3" n="N003"/>geäusseret, das er <hi>kein</hi> mit niehmand eine Verständnus habe.

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_134">
+    <surface ulx="0" uly="0" lrx="2994" lry="4530" xml:id="facs_134">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0802.jpg" width="2994px" height="4530px"/>
          <zone points="236,259 236,3778 2802,3778 2802,259" rendition="TextRegion" xml:id="facs_134_r1">
             <zone points="1163,413 1228,407 1293,401 1359,395 1424,392 1490,389 1555,386 1620,385 1686,383 1751,383 1817,382 1882,380 1947,380 2013,379 2078,376 2144,374 2209,371 2274,367 2340,361 2405,355 2471,346 2471,259 2405,268 2340,274 2274,280 2209,284 2144,287 2078,289 2013,292 1947,293 1882,293 1817,295 1751,296 1686,296 1620,298 1555,299 1490,302 1424,305 1359,308 1293,314 1228,320 1163,326" rendition="Line" xml:id="facs_134_r1l1"/>
@@ -71,9 +71,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_134" n="134" xml:id="img_0134"/>
+            <pb facs="#facs_134" n="134" xml:id="img_0134"/>
             
-            <ab  facs="#facs_134_r1">
+            <ab facs="#facs_134_r1">
                <lb facs="#facs_134_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_134_r1l2" n="N002"/><hi>M</hi> In obigen Ablatorien dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 751 N<hi style="superscript">o</hi> 1121 hat der <rs type="person" ref="wkfm__47178">Volkmar</rs> kund ge-
                <lb facs="#facs_134_r1l3" n="N003"/>macht, das die zwischen ihm und dem <rs type="person" ref="wkfm__47181">Carl Heinrich Tittel</rs> <hi>for</hi> in fortsezung der
@@ -81,7 +81,7 @@
                <lb break="no" facs="#facs_134_line_1621876973407_436" n="N005"/>und Compagnie</rs> vorgeweste Societaet unter nemlichen dato geendiget, und er die <rs type="person" ref="wkfm__47184">Kircheisische</rs> übernohmene
                <lb facs="#facs_134_r1l7" n="N006"/>Handlung unter seinen alleinigen Nahmen und obligo forsezen werde.
                <lb facs="#facs_134_r1l8" n="N007"/><seg type="wedding_contract">Heuraths Contract</seg>
-               <lb facs="#facs_134_r1l9" n="N008"/><comment comment="Diese\u0020Anmerkung\u0020bezieht\u0020sich\u0020auf\u0020den\u0020folgenden\u0020Eintrag\u0020zu\u0020\u0022Anton\u0020Faber\u0022">Anmerckungen</comment>
+               <lb facs="#facs_134_r1l9" n="N008"/><seg type="editorial_comment_seg">Anmerckungen<note type="editorial_comment_note">Diese Anmerkung bezieht sich auf den folgenden Eintrag zu Anton Faber</note></seg>
                <lb facs="#facs_134_r1l10" n="N009"/>Anno 795. hat dessen Sohn <rs type="person" ref="wkfm__47187">Franz Joh Faber</rs> die Handlung
                <lb facs="#facs_134_r1l11" n="N010"/>übernohmen P. <unclear>ot Mr</unclear> III. F. 71. <unclear>fog</unclear> 12.
             </ab>

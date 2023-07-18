@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2982" lry="4436" xml:id="facs_44">
+    <surface ulx="0" uly="0" lrx="2982" lry="4436" xml:id="facs_44">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1228.jpg" width="2982px" height="4436px"/>
          <zone points="162,152 162,3322 2742,3322 2742,152" rendition="TextRegion" xml:id="facs_44_r1">
             <zone points="1086,277 1143,274 1200,271 1257,270 1314,268 1371,267 1428,267 1485,267 1542,267 1599,267 1656,267 1713,267 1770,267 1827,267 1884,267 1941,267 1998,265 2055,264 2112,261 2169,258 2226,255 2226,152 2169,155 2112,158 2055,161 1998,162 1941,164 1884,164 1827,164 1770,164 1713,164 1656,164 1599,164 1542,164 1485,164 1428,164 1371,164 1314,165 1257,167 1200,168 1143,171 1086,174" rendition="Line" xml:id="facs_44_r1l1"/>
@@ -68,9 +68,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_44" n="44" xml:id="img_0044"/>
+            <pb facs="#facs_44" n="44" xml:id="img_0044"/>
             
-            <ab  facs="#facs_44_r1">
+            <ab facs="#facs_44_r1">
                <lb facs="#facs_44_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_44_r1l2" n="N002"/><hi>J</hi> Mitls Anbringen de ps: 15<hi style="superscript">ten</hi> <hi>Ap</hi> <choice><expan/><abbr>Mart:</abbr></choice> 734 N<hi style="superscript">o</hi> 2000 hat der
                <lb facs="#facs_44_r1l3" n="N003"/><rs type="person" ref="wkfm__10730">Mader</rs> angezeiget, daß sich sein mit dem <rs type="person" ref="wkfm__5636 ?">Rigotti</rs> in des <rs type="person" ref="wkfm__46716 ?">Rigot-

@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2954" lry="4435" xml:id="facs_106">
+    <surface ulx="0" uly="0" lrx="2954" lry="4435" xml:id="facs_106">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0159.jpg" width="2954px" height="4435px"/>
          <zone points="561,149 561,3191 2822,3191 2822,149" rendition="TextRegion" xml:id="facs_106_r1">
             <zone points="818,249 888,254 959,258 1029,263 1100,266 1170,270 1241,274 1311,277 1382,281 1452,284 1523,288 1594,290 1664,294 1735,297 1805,300 1876,302 1946,305 2017,308 2087,309 2158,312 2229,314 2229,214 2158,212 2087,209 2017,208 1946,205 1876,202 1805,200 1735,197 1664,194 1594,190 1523,188 1452,184 1382,181 1311,177 1241,174 1170,170 1100,166 1029,163 959,158 888,154 818,149" rendition="Line" xml:id="facs_106_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_106" n="106" xml:id="img_0106"/>
+            <pb facs="#facs_106" n="106" xml:id="img_0106"/>
             
-            <ab  facs="#facs_106_r1">
+            <ab facs="#facs_106_r1">
                <lb facs="#facs_106_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_106_r1l2" n="N002"/>In obiger Erklährung <hi>hat</hi> dd<hi style="superscript">to</hi> 20<hi style="superscript">ten</hi> Junii 725 N<hi style="superscript">o</hi> 71 hat
                <lb facs="#facs_106_r1l3" n="N003"/>sich der <rs type="person" ref="wkfm__15544">Benedetti</rs> geäusseret das er keinen Compagnon habe.

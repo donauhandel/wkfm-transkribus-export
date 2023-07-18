@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3058" lry="4511" xml:id="facs_39">
+    <surface ulx="0" uly="0" lrx="3058" lry="4511" xml:id="facs_39">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0044.jpg" width="3058px" height="4511px"/>
          <zone points="170,238 170,3049 2817,3049 2817,238" rendition="TextRegion" xml:id="facs_39_r1">
             <zone points="2666,308 2693,307 2720,309 2747,313 2774,311 2774,242 2747,244 2720,240 2693,238 2666,239" rendition="Line" xml:id="facs_39_r1l2" subtype="page-number"/>
@@ -75,9 +75,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_39" n="39" xml:id="img_0039"/>
+            <pb facs="#facs_39" n="39" xml:id="img_0039"/>
             
-            <ab  facs="#facs_39_r1">
+            <ab facs="#facs_39_r1">
                <lb facs="#facs_39_r1l2" n="N001"/>20
                <lb facs="#facs_39_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_39_r1l3" n="N003"/><rs type="person" ref="wkfm__15550">Adam Bernhard</rs> K. K. Niederlags Verwanter

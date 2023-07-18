@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2925" lry="4397" xml:id="facs_130">
+    <surface ulx="0" uly="0" lrx="2925" lry="4397" xml:id="facs_130">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0183.jpg" width="2925px" height="4397px"/>
          <zone points="510,149 510,3299 2829,3299 2829,149" rendition="TextRegion" xml:id="facs_130_r1">
             <zone points="1136,239 1208,243 1280,249 1352,252 1425,258 1497,261 1569,266 1642,269 1714,272 1786,275 1859,278 1931,279 2003,281 2075,282 2148,284 2220,285 2292,285 2365,285 2437,285 2509,284 2582,282 2582,192 2509,194 2437,195 2365,195 2292,195 2220,195 2148,194 2075,192 2003,191 1931,189 1859,188 1786,185 1714,182 1642,179 1569,176 1497,171 1425,168 1352,162 1280,159 1208,153 1136,149" rendition="Line" xml:id="facs_130_r1l1"/>
@@ -71,9 +71,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_130" n="130" xml:id="img_0130"/>
+            <pb facs="#facs_130" n="130" xml:id="img_0130"/>
             
-            <ab  facs="#facs_130_r1">
+            <ab facs="#facs_130_r1">
                <lb facs="#facs_130_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_130_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 729 N<hi style="superscript">o</hi> 1854 ist die Erklährung
                <lb facs="#facs_130_r1l3" n="N003"/>eingereichet worden das das Negotium unter der Societaets Firma

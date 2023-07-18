@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3019" lry="4503" xml:id="facs_98">
+    <surface ulx="0" uly="0" lrx="3019" lry="4503" xml:id="facs_98">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1282.jpg" width="3019px" height="4503px"/>
          <zone points="308,167 308,3334 2883,3334 2883,167" rendition="TextRegion" xml:id="facs_98_r1">
             <zone points="1304,263 1366,259 1429,257 1492,254 1555,253 1617,251 1680,251 1743,250 1806,250 1868,250 1931,250 1994,250 2057,250 2119,250 2182,250 2245,248 2308,247 2370,245 2433,243 2496,241 2559,236 2559,167 2496,172 2433,174 2370,176 2308,178 2245,179 2182,181 2119,181 2057,181 1994,181 1931,181 1868,181 1806,181 1743,181 1680,182 1617,182 1555,184 1492,185 1429,188 1366,190 1304,194" rendition="Line" xml:id="facs_98_r1l1"/>
@@ -79,9 +79,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_98" n="98" xml:id="img_0098"/>
+            <pb facs="#facs_98" n="98" xml:id="img_0098"/>
             
-            <ab  facs="#facs_98_r1">
+            <ab facs="#facs_98_r1">
                <lb facs="#facs_98_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_98_r1l2" n="N002"/>Mitls Anbringen des ps: 24<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> N<hi style="superscript">o</hi> 2008 hat der <rs type="person" ref="wkfm__46937">Mayr</rs> angezeiget, daß
                <lb facs="#facs_98_r1l3" n="N003"/><hi>ihn</hi> durch allerhochste Hofresolution dd<hi style="superscript">to</hi> 14<hi style="superscript">ten</hi> et intimato 28<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 749 N<hi style="superscript">o</hi> 2006 in

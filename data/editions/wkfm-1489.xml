@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3108" lry="4477" xml:id="facs_31">
+    <surface ulx="0" uly="0" lrx="3108" lry="4477" xml:id="facs_31">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1489.jpg" width="3108px" height="4477px"/>
          <zone points="278,131 278,2983 2820,2983 2820,131" rendition="TextRegion" xml:id="facs_31_r2">
             <zone points="2661,369 2687,371 2714,373 2740,374 2767,375 2793,372 2820,369 2820,257 2793,260 2767,263 2740,262 2714,261 2687,259 2661,257" rendition="Line" xml:id="facs_31_r2l2" subtype="page-number"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_31" n="31" xml:id="img_0031"/>
+            <pb facs="#facs_31" n="31" xml:id="img_0031"/>
             
-            <ab  facs="#facs_31_r2">
+            <ab facs="#facs_31_r2">
                <lb facs="#facs_31_r2l2" n="N001"/>737
                <lb facs="#facs_31_r2l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_31_r2l3" n="N003"/><rs type="person" ref="wkfm__47416">Schneyder Johann</rs> burgerlicher Handlsmann

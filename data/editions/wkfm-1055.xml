@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3057" lry="4521" xml:id="facs_135">
+    <surface ulx="0" uly="0" lrx="3057" lry="4521" xml:id="facs_135">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1055.jpg" width="3057px" height="4521px"/>
          <graphic url="" width="3057px" height="4521px"/>
          <zone points="192,214 192,4387 2816,4387 2816,214" rendition="TextRegion" xml:id="facs_135_r1">
@@ -82,9 +82,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_135" n="135" xml:id="img_0135"/>
+            <pb facs="#facs_135" n="135" xml:id="img_0135"/>
             
-            <ab  facs="#facs_135_r1">
+            <ab facs="#facs_135_r1">
                <lb facs="#facs_135_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_135_r1l2" n="N003"/><rs type="person" ref="wkfm__46566">Heigl Johann Sebastian</rs> burgerlicher Handlsmann
                <lb facs="#facs_135_r1l3" n="N004"/>Firma ad Raggion

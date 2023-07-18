@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3051" lry="4473" xml:id="facs_20">
+    <surface ulx="0" uly="0" lrx="3051" lry="4473" xml:id="facs_20">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0520.jpg" width="3051px" height="4473px"/>
          <zone points="515,151 515,3293 2979,3293 2979,151" rendition="TextRegion" xml:id="facs_20_r1">
             <zone points="1341,239 1404,236 1467,235 1530,234 1593,233 1656,234 1719,234 1783,236 1846,237 1909,239 1972,240 2035,242 2098,245 2161,246 2225,248 2288,248 2351,249 2414,249 2477,249 2540,247 2604,245 2604,163 2540,165 2477,167 2414,167 2351,167 2288,166 2225,166 2161,164 2098,163 2035,160 1972,158 1909,157 1846,155 1783,154 1719,152 1656,152 1593,151 1530,152 1467,153 1404,154 1341,157" rendition="Line" xml:id="facs_20_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_20" n="20" xml:id="img_0020"/>
+            <pb facs="#facs_20" n="20" xml:id="img_0020"/>
             
-            <ab  facs="#facs_20_r1">
+            <ab facs="#facs_20_r1">
                <lb facs="#facs_20_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_20_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 251 hat sich der
                <lb facs="#facs_20_r1l3" n="N003"/><rs type="person" ref="wkfm__46204">Drigler</rs> geäusseret, daß er für sich allein handle.

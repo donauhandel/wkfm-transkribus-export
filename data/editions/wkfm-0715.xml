@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3095" lry="4496" xml:id="facs_47">
+    <surface ulx="0" uly="0" lrx="3095" lry="4496" xml:id="facs_47">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0715.jpg" width="3095px" height="4496px"/>
          <zone points="293,223 293,3012 2825,3012 2825,223" rendition="TextRegion" xml:id="facs_47_r1">
             <zone points="2649,398 2673,396 2699,394 2724,393 2749,392 2774,390 2799,386 2825,381 2825,465 2799,470 2774,474 2749,476 2724,477 2699,478 2673,480 2649,482" rendition="Line" xml:id="facs_47_line_1621535853702_340" subtype="page-number"/>
@@ -70,9 +70,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_47" n="47" xml:id="img_0047"/>
+            <pb facs="#facs_47" n="47" xml:id="img_0047"/>
             
-            <ab  facs="#facs_47_r1">
+            <ab facs="#facs_47_r1">
                <lb facs="#facs_47_line_1621535853702_340" n="N001"/>355
                <lb facs="#facs_47_r1l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_47_r1l3" n="N003"/><rs type="person" ref="wkfm__18166">Unger Matthias Anton</rs> burgerlicher Handlsmann

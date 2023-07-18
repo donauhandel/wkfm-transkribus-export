@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3057" lry="4521" xml:id="facs_117">
+    <surface ulx="0" uly="0" lrx="3057" lry="4521" xml:id="facs_117">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1037.jpg" width="3057px" height="4521px"/>
          <zone points="143,246 143,3807 2801,3807 2801,246" rendition="TextRegion" xml:id="facs_117_r5">
             <zone points="2646,448 2671,446 2697,445 2723,444 2749,444 2775,445 2801,447 2801,380 2775,378 2749,377 2723,377 2697,378 2671,379 2646,381" rendition="Line" xml:id="facs_117_r5l2" subtype="page-number"/>
@@ -80,9 +80,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_117" n="117" xml:id="img_0117"/>
+            <pb facs="#facs_117" n="117" xml:id="img_0117"/>
             
-            <ab  facs="#facs_117_r5">
+            <ab facs="#facs_117_r5">
                <lb facs="#facs_117_r5l2" n="N001"/>512
                <lb facs="#facs_117_r5l1" n="N002"/><seg type="name">Nahmen und Class</seg>
                <lb facs="#facs_117_r5l3" n="N003"/><rs type="person" ref="wkfm__46542">Höltzl Anton Matthias</rs> burgerlicher Handlsmann

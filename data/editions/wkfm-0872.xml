@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2994" lry="4442" xml:id="facs_60">
+    <surface ulx="0" uly="0" lrx="2994" lry="4442" xml:id="facs_60">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0872.jpg" width="2994px" height="4442px"/>
          <zone points="353,171 353,3429 2862,3429 2862,171" rendition="TextRegion" xml:id="facs_60_r1">
             <zone points="1253,302 1318,300 1383,300 1448,300 1513,300 1578,302 1643,302 1708,302 1773,303 1838,303 1904,303 1969,303 2034,303 2099,303 2164,302 2229,302 2294,300 2359,297 2424,296 2489,292 2555,288 2555,171 2489,175 2424,179 2359,180 2294,183 2229,185 2164,185 2099,186 2034,186 1969,186 1904,186 1838,186 1773,186 1708,185 1643,185 1578,185 1513,183 1448,183 1383,183 1318,183 1253,185" rendition="Line" xml:id="facs_60_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_60" n="60" xml:id="img_0060"/>
+            <pb facs="#facs_60" n="60" xml:id="img_0060"/>
             
-            <ab  facs="#facs_60_r1">
+            <ab facs="#facs_60_r1">
                <lb facs="#facs_60_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_60_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 9<hi style="superscript">ten</hi> Junii 728 N<hi style="superscript">o</hi> 409 hat sich der
                <lb facs="#facs_60_r1l3" n="N003"/><rs type="person" ref="wkfm__17649">Gugenberger</rs> geäusseret das er seine Handlung für sich allein

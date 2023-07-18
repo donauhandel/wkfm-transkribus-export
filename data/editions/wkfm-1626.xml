@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2872" lry="4419" xml:id="facs_168">
+    <surface ulx="0" uly="0" lrx="2872" lry="4419" xml:id="facs_168">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1626.jpg" width="2872px" height="4419px"/>
          <zone points="186,159 186,3808 2754,3808 2754,159" rendition="TextRegion" xml:id="facs_168_r1">
             <zone points="1031,283 1092,275 1154,268 1216,264 1278,259 1340,257 1401,256 1463,254 1525,254 1587,254 1649,254 1710,255 1772,256 1834,256 1896,254 1958,253 2019,251 2081,247 2143,243 2205,237 2267,229 2267,159 2205,167 2143,173 2081,177 2019,181 1958,183 1896,184 1834,186 1772,186 1710,185 1649,184 1587,184 1525,184 1463,184 1401,186 1340,187 1278,189 1216,194 1154,198 1092,205 1031,213" rendition="Line" xml:id="facs_168_r1l1"/>
@@ -69,9 +69,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_168" n="168" xml:id="img_0168"/>
+            <pb facs="#facs_168" n="168" xml:id="img_0168"/>
             
-            <ab  facs="#facs_168_r1">
+            <ab facs="#facs_168_r1">
                <lb facs="#facs_168_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_168_r1l2" n="N002"/><seg type="wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_168_r1l3" n="N003"/>Mitls Anbringen de ps: 12<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 737 N<hi style="superscript">o</hi> 2224 hat der <rs type="person" ref="wkfm__47522">Schmidt</rs> den mit der

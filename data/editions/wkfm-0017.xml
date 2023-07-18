@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2934" lry="4530" xml:id="facs_12">
+    <surface ulx="0" uly="0" lrx="2934" lry="4530" xml:id="facs_12">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0017.jpg" width="2934px" height="4530px"/>
          <zone points="333,310 333,3441 2859,3441 2859,310" rendition="TextRegion" xml:id="facs_12_r1">
             <zone points="918,383 986,384 1055,384 1124,386 1192,387 1261,389 1330,390 1398,392 1467,395 1536,397 1605,399 1673,402 1742,405 1811,407 1879,410 1948,413 2017,416 2085,418 2154,420 2223,423 2292,425 2292,352 2223,350 2154,347 2085,345 2017,343 1948,340 1879,337 1811,334 1742,332 1673,329 1605,326 1536,324 1467,322 1398,319 1330,317 1261,316 1192,314 1124,313 1055,311 986,311 918,310" rendition="Line" xml:id="facs_12_r1l1"/>
@@ -75,9 +75,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_12" n="12" xml:id="img_0012"/>
+            <pb facs="#facs_12" n="12" xml:id="img_0012"/>
             
-            <ab  facs="#facs_12_r1">
+            <ab facs="#facs_12_r1">
                <lb facs="#facs_12_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_12_r1l2" n="N002"/>In obiger Erklahrung N<hi style="superscript">o</hi> 6 dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 hat sich der <rs type="person" ref="wkfm__8591">Amadej </rs>geäussert
                <lb facs="#facs_12_r1l3" n="N003"/>das er keinen in noch ausländischen Compagnon habe.

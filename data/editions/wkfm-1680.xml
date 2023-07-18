@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2830" lry="4476" xml:id="facs_222">
+    <surface ulx="0" uly="0" lrx="2830" lry="4476" xml:id="facs_222">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1680.jpg" width="2830px" height="4476px"/>
          <graphic url="" width="2830px" height="4476px"/>
          <zone points="215,220 215,4248 2613,4248 2613,220" rendition="TextRegion" xml:id="facs_222_r1">
@@ -89,9 +89,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_222" n="222" xml:id="img_0222"/>
+            <pb facs="#facs_222" n="222" xml:id="img_0222"/>
             
-            <ab  facs="#facs_222_r1">
+            <ab facs="#facs_222_r1">
                <lb facs="#facs_222_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_222_r1l2" n="N002"/>Nota <choice><expan/><abbr>Ao</abbr></choice> 783 ist diese Handlung
                <lb facs="#facs_222_r1l3" n="N003"/>an die <rs type="person" ref="wkfm__47591">Gebrüder Schwitzer</rs> über-

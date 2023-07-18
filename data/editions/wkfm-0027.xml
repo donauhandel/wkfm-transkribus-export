@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2934" lry="4530" xml:id="facs_22">
+    <surface ulx="0" uly="0" lrx="2934" lry="4530" xml:id="facs_22">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0027.jpg" width="2934px" height="4530px"/>
          <zone points="474,323 474,3827 2820,3827 2820,323" rendition="TextRegion" xml:id="facs_22_r1">
             <zone points="1061,413 1129,413 1198,413 1267,413 1335,413 1404,413 1473,414 1541,416 1610,416 1679,418 1748,419 1816,421 1885,422 1954,424 2022,426 2091,428 2160,429 2228,431 2297,432 2366,434 2435,434 2435,344 2366,344 2297,342 2228,341 2160,339 2091,338 2022,336 1954,334 1885,332 1816,331 1748,329 1679,328 1610,326 1541,326 1473,324 1404,323 1335,323 1267,323 1198,323 1129,323 1061,323" rendition="Line" xml:id="facs_22_r1l1"/>
@@ -69,17 +69,17 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_22" n="22" xml:id="img_0022"/>
+            <pb facs="#facs_22" n="22" xml:id="img_0022"/>
             
-            <ab  facs="#facs_22_r1">
+            <ab facs="#facs_22_r1">
                <lb facs="#facs_22_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_22_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 11 hat der <rs type="person" ref="wkfm__9740">Auchter</rs>
                <lb facs="#facs_22_r1l3" n="N003"/><unclear>einflüßen</unclear> lassen das er keinen Compagnon habe.
                <lb facs="#facs_22_r1l4" n="N004"/>Heuraths=Contract
-               <lb facs="#facs_22_r1l5" n="N005"/><comment comment="Der\u0020gesamte\u0020Absatz\u0020ist\u0020in\u0020der\u0020Quelle\u0020gestrichten.">Anmerkungen
+               <lb facs="#facs_22_r1l5" n="N005"/><seg type="editorial_comment_seg">Anmerkungen
                <lb break="no" facs="#facs_22_r1l6" n="N006"/>Der <rs type="person" ref="wkfm__17118">Franz Auchter</rs> hat in seiner untern 14<hi style="superscript">ten</hi> <choice><expan/><abbr>7br</abbr></choice> 730 eingereichten
                <lb break="no" facs="#facs_22_r1l7" n="N007"/>Erklährung N<hi style="superscript">o</hi> 17 beygebracht das er seines bruders <rs type="person" ref="wkfm__9740">Leopold</rs>
-               <lb break="no" facs="#facs_22_r1l8" n="N008"/><rs type="person" ref="wkfm__9740">Auchter</rs> Handlung käuflichen ubernohmen habe.</comment>
+               <lb break="no" facs="#facs_22_r1l8" n="N008"/><rs type="person" ref="wkfm__9740">Auchter</rs> Handlung käuflichen ubernohmen habe.<note type="editorial_comment_note">Der gesamte Absatz ist in der Quelle gestrichten.</note></seg>
             </ab>
             
         </div>

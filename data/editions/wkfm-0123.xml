@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2954" lry="4435" xml:id="facs_70">
+    <surface ulx="0" uly="0" lrx="2954" lry="4435" xml:id="facs_70">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0123.jpg" width="2954px" height="4435px"/>
          <zone points="395,121 395,3224 2838,3224 2838,121" rendition="TextRegion" xml:id="facs_70_r1">
             <zone points="818,226 898,227 979,228 1059,229 1140,232 1220,233 1301,236 1381,238 1462,241 1542,243 1623,247 1704,250 1784,253 1865,256 1945,260 2026,263 2106,268 2187,272 2267,276 2348,280 2429,284 2429,179 2348,175 2267,171 2187,167 2106,163 2026,158 1945,155 1865,151 1784,148 1704,145 1623,142 1542,138 1462,136 1381,133 1301,131 1220,128 1140,127 1059,124 979,123 898,122 818,121" rendition="Line" xml:id="facs_70_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_70" n="70" xml:id="img_0070"/>
+            <pb facs="#facs_70" n="70" xml:id="img_0070"/>
             
-            <ab  facs="#facs_70_r1">
+            <ab facs="#facs_70_r1">
                <lb facs="#facs_70_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_70_r1l2" n="N002"/>In obige Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 53 hat sich der <rs type="person" ref="wkfm__4528">Patuzzi</rs>
                <lb facs="#facs_70_r1l3" n="N003"/><hi>erklah</hi> geäusseret daß er keinen Compagnon habe.

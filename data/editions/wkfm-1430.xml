@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2953" lry="4400" xml:id="facs_78">
+    <surface ulx="0" uly="0" lrx="2953" lry="4400" xml:id="facs_78">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1430.jpg" width="2953px" height="4400px"/>
          <zone points="288,239 288,3363 2895,3363 2895,239" rendition="TextRegion" xml:id="facs_78_r1">
             <zone points="1164,324 1221,321 1279,318 1337,315 1395,314 1452,314 1510,312 1568,312 1626,312 1683,312 1741,313 1799,314 1857,314 1914,314 1972,314 2030,312 2088,312 2145,311 2203,309 2261,306 2319,303 2319,239 2261,242 2203,245 2145,247 2088,248 2030,248 1972,250 1914,250 1857,250 1799,250 1741,249 1683,248 1626,248 1568,248 1510,248 1452,250 1395,250 1337,251 1279,254 1221,257 1164,260" rendition="Line" xml:id="facs_78_r1l1"/>
@@ -80,9 +80,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_78" n="78" xml:id="img_0078"/>
+            <pb facs="#facs_78" n="78" xml:id="img_0078"/>
             
-            <ab  facs="#facs_78_r1">
+            <ab facs="#facs_78_r1">
                <lb facs="#facs_78_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_78_r1l2" n="N002"/>Mitls Anbringen de ps: 4<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 740 N<hi style="superscript">o</hi> 647 hat der <rs type="person" ref="wkfm__43201">Anton Rathgeb</rs> angezeiget,
                <lb facs="#facs_78_r1l4" n="N003"/>daß er seine raggion von <rs type="person" ref="wkfm__46702">Balthasar Johann Rathgeb</rs> auf <rs type="person" ref="wkfm__46730">Balthasar Johann Rathgeb

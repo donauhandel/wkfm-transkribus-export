@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="3003" lry="4530" xml:id="facs_62">
+    <surface ulx="0" uly="0" lrx="3003" lry="4530" xml:id="facs_62">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0562.jpg" width="3003px" height="4530px"/>
          <zone points="375,262 375,3373 2853,3373 2853,262" rendition="TextRegion" xml:id="facs_62_r1">
             <zone points="1071,340 1138,341 1206,343 1274,344 1342,347 1410,348 1477,350 1545,352 1613,352 1681,353 1749,355 1816,355 1884,356 1952,356 2020,356 2088,355 2155,355 2223,353 2291,352 2359,349 2427,347 2427,269 2359,271 2291,274 2223,275 2155,277 2088,277 2020,278 1952,278 1884,278 1816,277 1749,277 1681,275 1613,274 1545,274 1477,272 1410,270 1342,269 1274,266 1206,265 1138,263 1071,262" rendition="Line" xml:id="facs_62_r1l1"/>
@@ -66,9 +66,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_62" n="62" xml:id="img_0062"/>
+            <pb facs="#facs_62" n="62" xml:id="img_0062"/>
             
-            <ab  facs="#facs_62_r1">
+            <ab facs="#facs_62_r1">
                <lb facs="#facs_62_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_62_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 266 hat sich der <rs type="person">Traun-
                <lb break="no" facs="#facs_62_r1l3" n="N003"/>pauer</rs> geäusseret, daß er keinen Compagnon habe.

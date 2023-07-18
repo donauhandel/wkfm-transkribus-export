@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +39,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus></locus>
+                     <locus/>
                      <p/>
                   </msItem>
                </msContents>
@@ -51,7 +51,7 @@
       </fileDesc>
    </teiHeader>
    <facsimile>
-    <surface  ulx="0" uly="0" lrx="2886" lry="4476" xml:id="facs_46">
+    <surface ulx="0" uly="0" lrx="2886" lry="4476" xml:id="facs_46">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1752.jpg" width="2886px" height="4476px"/>
          <zone points="432,257 432,3408 2783,3408 2783,257" rendition="TextRegion" xml:id="facs_46_r1">
             <zone points="1125,409 1188,401 1252,395 1316,391 1380,388 1444,387 1508,387 1571,387 1635,388 1699,390 1763,391 1827,393 1891,394 1955,394 2018,394 2082,393 2146,390 2210,386 2274,380 2338,370 2402,360 2402,257 2338,267 2274,277 2210,283 2146,287 2082,290 2018,291 1955,291 1891,291 1827,290 1763,288 1699,287 1635,285 1571,284 1508,284 1444,284 1380,285 1316,288 1252,292 1188,298 1125,306" rendition="Line" xml:id="facs_46_r1l1"/>
@@ -67,9 +67,9 @@
    <text>
       <body>
         <div>
-            <pb  facs="#facs_46" n="46" xml:id="img_0046"/>
+            <pb facs="#facs_46" n="46" xml:id="img_0046"/>
             
-            <ab  facs="#facs_46_r1">
+            <ab facs="#facs_46_r1">
                <lb facs="#facs_46_r1l1" n="N001"/><seg type="contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_46_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 805 hat sich der
                <lb facs="#facs_46_r1l3" n="N003"/><rs type="person" ref="wkfm__8595">Wintersteiner</rs> geäusseret, das er seine Handlung ohne Comp:
