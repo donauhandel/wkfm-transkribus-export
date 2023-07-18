@@ -14,20 +14,20 @@ shutil.rmtree(editions, ignore_errors=True)
 os.makedirs(editions, exist_ok=True)
 
 headings = (
-    ("Nahmen und Class", '<seg type="name">Nahmen und Class</seg>'),
-    ("Firma od Raggion", '<seg type="firma">Firma od Raggion</seg>'),
-    ("Procura und Firmae Trager", '<seg type="owner">Procura und Firmae Trager</seg>'),
+    ("/>Nahmen und Class", '/><seg type="name">Nahmen und Class</seg>'),
+    ("/>Firma od Raggion", '/><seg type="firma">Firma od Raggion</seg>'),
+    ("/>Procura und Firmae Trager", '/><seg type="owner">Procura und Firmae Trager</seg>'),
     (
-        "Oblatorien und Avocatorien",
-        '<seg type="oblatorien">Oblatorien und Avocatorien</seg>',
+        "/>Oblatorien und Avocatorien",
+        '/><seg type="oblatorien">Oblatorien und Avocatorien</seg>',
     ),
-    ("Fundi Ausweisung", '<seg type="fundi">Fundi Ausweisung</seg>'),
+    ("/>Fundi Ausweisung", '/><seg type="fundi">Fundi Ausweisung</seg>'),
     (
-        "Societaets Contract und Interessenten",
-        '<seg type="contract">Societaets Contract und Interessenten</seg>',
+        "/>Societaets Contract und Interessenten",
+        '/><seg type="contract">Societaets Contract und Interessenten</seg>',
     ),
-    ("Heuraths Contract", '<seg type="wedding_contract">Heuraths Contract</seg>'),
-    ("Anmerkungen", '<seg type="other_notes">Anmerkungen</seg>'),
+    ("/>Heuraths Contract", '/><seg type="wedding_contract">Heuraths Contract</seg>'),
+    ("/>Anmerkungen", '/><seg type="other_notes">Anmerkungen</seg>'),
 )
 
 
