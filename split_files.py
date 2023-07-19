@@ -35,8 +35,10 @@ headings = (
 )
 
 
-files = glob.glob("./tei/*.xml")
+files = glob.glob("./tei/*/*.xml")
 for i, x in enumerate(tqdm(files)):
+    col_id = x.split('/')[-2]
+    doc_id = os.path.split(x)[-1].replace('.xml', '')
     doc = TeiReader(x)
     nsmap = doc.nsmap
     for y in doc.any_xpath(".//tei:surface[@xml:id]"):
@@ -58,6 +60,9 @@ for i, x in enumerate(tqdm(files)):
             ab_text = ab_text.replace(heading[0], heading[1])
         page = {
             "id": f"wkfm-{img_id}",
+            "col_id": col_id,
+            "doc_id": doc_id,
+            "img_id": img_id,
             "img_url": img_url,
             "surface_node": ET.tostring(y, encoding="utf-8")
             .decode("utf-8")

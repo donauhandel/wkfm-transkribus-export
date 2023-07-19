@@ -24,7 +24,7 @@ for y in lines:
     col_id = y.strip()
     print(f"processing collection: {col_id}")
     mpr_docs = transkribus_client.collection_to_mets(col_id, file_path="./mets")
-    print(f"{METS_DIR}/{col_id}*.xml")
+    os.makedirs(os.path.join(TEI_DIR, col_id), exist_ok=True)
     files = glob.glob(f"{METS_DIR}/{col_id}/*_mets.xml")
     for x in files:
         tail = os.path.split(x)[-1]
@@ -39,5 +39,5 @@ for y in lines:
             executable = xsltproc.compile_stylesheet(stylesheet_file=XSLT)
             output = executable.transform_to_string(xdm_node=document)
             output = output.replace(' type=""', "")
-            with open(os.path.join(TEI_DIR, tei_file), "w") as f:
+            with open(os.path.join(TEI_DIR, col_id, tei_file), "w") as f:
                 f.write(output)
