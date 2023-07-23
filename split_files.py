@@ -18,20 +18,22 @@ os.makedirs(editions, exist_ok=True)
 XSLT = "./fix_comment.xsl"
 
 headings = (
-    ("/>Nahmen und Class", '/><seg type="name">Nahmen und Class</seg>'),
-    ("/>Firma od Raggion", '/><seg type="firma">Firma od Raggion</seg>'),
-    ("/>Procura und Firmae Trager", '/><seg type="owner">Procura und Firmae Trager</seg>'),
+    ("/>Nahmen und Class", '/><seg type="orighead__name">Nahmen und Class</seg>'),
+    ("/>Firma od Raggion", '/><seg type="orighead__firma">Firma od Raggion</seg>'),
+    ("/>Procura und Firmae Trager", '/><seg type="orighead__owner">Procura und Firmae Trager</seg>'),
     (
         "/>Oblatorien und Avocatorien",
-        '/><seg type="oblatorien">Oblatorien und Avocatorien</seg>',
+        '/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>',
     ),
-    ("/>Fundi Ausweisung", '/><seg type="fundi">Fundi Ausweisung</seg>'),
+    ("/>Fundi Ausweisung", '/><seg type="orighead__fundi">Fundi Ausweisung</seg>'),
     (
         "/>Societaets Contract und Interessenten",
-        '/><seg type="contract">Societaets Contract und Interessenten</seg>',
+        '/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>',
     ),
-    ("/>Heuraths Contract", '/><seg type="wedding_contract">Heuraths Contract</seg>'),
-    ("/>Anmerkungen", '/><seg type="other_notes">Anmerkungen</seg>'),
+    ("/>Heuraths Contract", '/><seg type="orighead__wedding_contract">Heuraths Contract</seg>'),
+    ("/>Heuraths=Contract", '/><seg type="orighead__wedding_contract">Heuraths=Contract</seg>'),
+    ("/>Anmerkungen", '/><seg type="orighead__other_notes">Anmerkungen</seg>'),
+    ('>Anmerkungen', '><seg type="orighead__other_notes">Anmerkungen</seg>')
 )
 
 
