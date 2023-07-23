@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -75,16 +75,16 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_27" n="27" xml:id="img_0027"/>
+            <pb facs="#facs_27" n="27" xml:id="img_0027" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0032.jpg"/>
             
             <ab facs="#facs_27_r1">
                <lb facs="#facs_27_r1l1" n="N001"/>14
                <lb facs="#facs_27_r1l2" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_27_r1l3" n="N003"/><rs type="person" ref="wkfm__43790">Albertanj Johann Baptista</rs> Hofbefreyter Leinwathandler
+               <lb facs="#facs_27_r1l3" n="N003"/><rs type="person" ref="#wkfm__43790">Albertanj Johann Baptista</rs> Hofbefreyter Leinwathandler
                <lb facs="#facs_27_r1l4" n="N004"/>Firma oder Raggion
-               <lb facs="#facs_27_r1l5" n="N005"/><rs type="person" ref="wkfm__46590">Johann Batta. Albertanj</rs> laut Anbringen de ps: 12<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 726 N<hi style="superscript">o</hi> 14
+               <lb facs="#facs_27_r1l5" n="N005"/><rs type="person" ref="#wkfm__46590">Johann Batta. Albertanj</rs> laut Anbringen de ps: 12<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 726 N<hi style="superscript">o</hi> 14
                <lb facs="#facs_27_r1l6" n="N006"/><hi>Vermög Anbringen de ps: 21<hi style="superscript"/></hi>ten
-               <lb facs="#facs_27_r1l7" n="N007"/><hi>daß sie diese Handlung unter der Reggion <rs type="person" ref="wkfm__46593">Mathias Ankerl <choice><expan/><abbr>seel.</abbr></choice> Wittib</rs> fortführe, und ihre firma</hi>
+               <lb facs="#facs_27_r1l7" n="N007"/><hi>daß sie diese Handlung unter der Reggion <rs type="person" ref="#wkfm__46593">Mathias Ankerl <choice><expan/><abbr>seel.</abbr></choice> Wittib</rs> fortführe, und ihre firma</hi>
                <lb facs="#facs_27_r1l8" n="N008"/><hi>eingeleget in firmis <choice><expan/><abbr>nro</abbr></choice> 16 1/2 ad <choice><expan/><abbr>fol:</abbr></choice> 16 gehörig</hi>
                <lb facs="#facs_27_r1l9" n="N009"/>Procura und Firma Trager
                <lb facs="#facs_27_r1l10" n="N010"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>

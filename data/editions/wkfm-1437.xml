@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -88,32 +88,32 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_85" n="85" xml:id="img_0085"/>
+            <pb facs="#facs_85" n="85" xml:id="img_0085" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1437.jpg"/>
             
             <ab facs="#facs_85_r1">
                <lb facs="#facs_85_r1l3" n="N001"/>711
                <lb facs="#facs_85_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_85_r1l2" n="N003"/>Ruard
-               <lb facs="#facs_85_r1l4" n="N004"/><rs type="person" ref="wkfm__43802">Ruard Johann Baptista</rs> k. k. Niderlags Verwanter
+               <lb facs="#facs_85_r1l4" n="N004"/><rs type="person" ref="#wkfm__43802">Ruard Johann Baptista</rs> k. k. Niderlags Verwanter
                <lb facs="#facs_85_r1l5" n="N005"/>Firma ad Raggion
-               <lb facs="#facs_85_r1l6" n="N006"/><rs type="person" ref="wkfm__46753">Johann Baptista Ruard</rs> laut Billanz dd<hi style="superscript">to</hi> <hi>3</hi>1<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 746 N<hi style="superscript">o</hi> 1673 <hi>und</hi>
-               <lb facs="#facs_85_r1l7" n="N007"/><rs type="person" ref="wkfm__43988">Gebrüder Ruard</rs> laut Anbringe de ps: 18<hi style="superscript">ten</hi> May 747 N<hi style="superscript">o</hi> 2038
+               <lb facs="#facs_85_r1l6" n="N006"/><rs type="person" ref="#wkfm__46753">Johann Baptista Ruard</rs> laut Billanz dd<hi style="superscript">to</hi> <hi>3</hi>1<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 746 N<hi style="superscript">o</hi> 1673 <hi>und</hi>
+               <lb facs="#facs_85_r1l7" n="N007"/><rs type="person" ref="#wkfm__43988">Gebrüder Ruard</rs> laut Anbringe de ps: 18<hi style="superscript">ten</hi> May 747 N<hi style="superscript">o</hi> 2038
                <lb facs="#facs_85_r1l8" n="N008"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
-               <lb facs="#facs_85_r1l9" n="N009"/>In obigen Anbringen de ps: 18<hi style="superscript">ten</hi> May 747 N<hi style="superscript">o</hi> 2038 ist die Firma der Raggion <rs type="person" ref="wkfm__43988">Gebrüder
-               <lb break="no" facs="#facs_85_r1l10" n="N010"/>Ruard</rs> von beeden sociis <rs type="person" ref="wkfm__43802">Johann Baptista Ruard</rs> und <rs type="person" ref="wkfm__46754">Valentin Ruard</rs> eingeleget
+               <lb facs="#facs_85_r1l9" n="N009"/>In obigen Anbringen de ps: 18<hi style="superscript">ten</hi> May 747 N<hi style="superscript">o</hi> 2038 ist die Firma der Raggion <rs type="person" ref="#wkfm__43988">Gebrüder
+               <lb break="no" facs="#facs_85_r1l10" n="N010"/>Ruard</rs> von beeden sociis <rs type="person" ref="#wkfm__43802">Johann Baptista Ruard</rs> und <rs type="person" ref="#wkfm__46754">Valentin Ruard</rs> eingeleget
                <lb facs="#facs_85_r1l11" n="N011"/>worden
                <lb facs="#facs_85_r1l12" n="N012"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_85_r1l13" n="N013"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_85_r1l14" n="N014"/>Der <rs type="person" ref="wkfm__43802">Johann Baptista Ruard</rs> hat zu Ausweisung seines Fundi die <choice><expan/><abbr>orig:</abbr></choice> Billanz
+               <lb facs="#facs_85_r1l14" n="N014"/>Der <rs type="person" ref="#wkfm__43802">Johann Baptista Ruard</rs> hat zu Ausweisung seines Fundi die <choice><expan/><abbr>orig:</abbr></choice> Billanz
                <lb facs="#facs_85_r1l15" n="N015"/>dd<hi style="superscript">to</hi> 31<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 741 N<hi style="superscript">o</hi> 1671 eingelegt an Übermaß <choice><expan/><abbr>pr</abbr></choice> 20246 fl 22 x<hi style="superscript">r</hi>
-               <lb facs="#facs_85_r1l16" n="N016"/>zu Completirung des übrigen hat der <rs type="person" ref="wkfm__9468">Wilhelm Jenami</rs> das <choice><expan/><abbr>orig:</abbr></choice> Cautions Instrument
+               <lb facs="#facs_85_r1l16" n="N016"/>zu Completirung des übrigen hat der <rs type="person" ref="#wkfm__9468">Wilhelm Jenami</rs> das <choice><expan/><abbr>orig:</abbr></choice> Cautions Instrument
                <lb facs="#facs_85_r1l17" n="N017"/>eingeleget <choice><expan/><abbr>pr</abbr></choice> 9753 fl 38 x<hi style="superscript">r</hi>
                <lb facs="#facs_85_line_1626179353432_407" n="N018"/><choice><expan/><abbr>Sa</abbr></choice> 30000 fl - 0
-               <lb facs="#facs_85_r1l20" n="N019"/>Über die von dem <rs type="person" ref="wkfm__43802">Johann Baptista Ruard</rs> dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 746 eingeleget und untern 1<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice>
+               <lb facs="#facs_85_r1l20" n="N019"/>Über die von dem <rs type="person" ref="#wkfm__43802">Johann Baptista Ruard</rs> dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 746 eingeleget und untern 1<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice>
                <lb facs="#facs_85_r1l21" n="N020"/>746 laut beygerukter Formula jurandi <hi>und</hi> beeydigter Billanz N<hi style="superscript">o</hi> 1673
                <lb facs="#facs_85_r1l22" n="N021"/>an Übermaß <choice><expan/><abbr>pr</abbr></choice> 30378 fl
                <lb facs="#facs_85_r1l24" n="N022"/>Ist zufolge Auflag dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 746 und Quittung dd<hi style="superscript">to</hi> 2<hi style="superscript">ten</hi> ej: <hi>daß von</hi>
-               <lb facs="#facs_85_r1l25" n="N023"/>N<hi style="superscript">o</hi> 1672 daß von dem <rs type="person" ref="wkfm__9468">Jenami</rs> eingelegte Cautions Instrument dem <rs type="person" ref="wkfm__43802">Johann Bap-
+               <lb facs="#facs_85_r1l25" n="N023"/>N<hi style="superscript">o</hi> 1672 daß von dem <rs type="person" ref="#wkfm__9468">Jenami</rs> eingelegte Cautions Instrument dem <rs type="person" ref="#wkfm__43802">Johann Bap-
                <lb break="no" facs="#facs_85_r1l26" n="N024"/>tista Ruard</rs> extradiret worden.
             </ab>
             

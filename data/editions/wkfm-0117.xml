@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -69,12 +69,12 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_64" n="64" xml:id="img_0064"/>
+            <pb facs="#facs_64" n="64" xml:id="img_0064" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0117.jpg"/>
             
             <ab facs="#facs_64_r1">
                <lb facs="#facs_64_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_64_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 50 hat sich
-               <lb facs="#facs_64_r1l3" n="N003"/>die <rs type="person" ref="wkfm__43852">Pingitzerin</rs> geäusseret, daß sie keinen Compagnon habe
+               <lb facs="#facs_64_r1l3" n="N003"/>die <rs type="person" ref="#wkfm__43852">Pingitzerin</rs> geäusseret, daß sie keinen Compagnon habe
                <lb facs="#facs_64_r1l4" n="N004"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_64_r1l5" n="N005"/><seg type="orighead__other_notes"><seg type="orighead__other_notes">Anmerkungen</seg></seg>
             </ab>

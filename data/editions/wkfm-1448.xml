@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -96,23 +96,23 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_96" n="96" xml:id="img_0096"/>
+            <pb facs="#facs_96" n="96" xml:id="img_0096" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1448.jpg"/>
             
             <ab facs="#facs_96_r1">
                <lb facs="#facs_96_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
-               <lb facs="#facs_96_r1l2" n="N002"/>In obigen oblatorien dd<hi style="superscript">to</hi> 7<hi style="superscript">ten</hi> May 753 N<hi style="superscript">o</hi> 1139 hat der <rs type="person" ref="wkfm__46187">Wolfgang Riesch</rs> kund
-               <lb facs="#facs_96_r1l3" n="N003"/>gemacht, daß er das negotium unter der raggion <rs type="person" ref="wkfm__46749">Erhardt Riesch</rs> unter seiner
+               <lb facs="#facs_96_r1l2" n="N002"/>In obigen oblatorien dd<hi style="superscript">to</hi> 7<hi style="superscript">ten</hi> May 753 N<hi style="superscript">o</hi> 1139 hat der <rs type="person" ref="#wkfm__46187">Wolfgang Riesch</rs> kund
+               <lb facs="#facs_96_r1l3" n="N003"/>gemacht, daß er das negotium unter der raggion <rs type="person" ref="#wkfm__46749">Erhardt Riesch</rs> unter seiner
                <lb facs="#facs_96_r1l4" n="N004"/>eigenen Direction und mit eignen obligo prosequiren werde.
                <lb facs="#facs_96_r1l5" n="N005"/><seg type="editorial_comment_seg"><hi>0</hi><note type="editorial_comment_note">Fortsetzung der Rubrik Anmerckungen</note></seg>
                <lb facs="#facs_96_r1l6" n="N006"/>Untern 21<hi style="superscript">ten</hi> Jäner 780 wurde durch Decret von einer N: O: Regier:
-               <lb facs="#facs_96_r1l7" n="N007"/>diesem N: O: <choice><expan>Merkantil- und Wechselgericht</expan><abbr>Mil: und Wghr:</abbr></choice> intimirt, daß hr. <rs type="person" ref="wkfm__46752">Isaak Wolfgang Fhr.
+               <lb facs="#facs_96_r1l7" n="N007"/>diesem N: O: <choice><expan>Merkantil- und Wechselgericht</expan><abbr>Mil: und Wghr:</abbr></choice> intimirt, daß hr. <rs type="person" ref="#wkfm__46752">Isaak Wolfgang Fhr.
                <lb break="no" facs="#facs_96_r1l8" n="N008"/>v: Riesch</rs> bey allerhöchsten Orten seine allerunterthänigiste bittschrift ein-
                <lb facs="#facs_96_r1l9" n="N009"/>gereichet, worinn selber um allergnädigste acceptirung seiner
                <lb facs="#facs_96_r1l10" n="N010"/>Renuntiation auf die von seinen Vater innegehabte Nieder-
                <lb facs="#facs_96_r1l11" n="N011"/>lagsfreyheit, und um Ausfertigung der disfälligen Urkund gebetten,
                <lb facs="#facs_96_r1l12" n="N012"/>und die allerhöchste resoluon untern 24: Khristmonats 779 herabgelanget sey
                <lb facs="#facs_96_r1l13" n="N013"/>das kein bedenken obwalte die Renuntiations des bittstellers anzunehmen;
-               <lb facs="#facs_96_r1l14" n="N014"/>Worüber obbemelter <rs type="person" ref="wkfm__46752">Fhr. v. Riesch</rs> vermög Anbringen de ps. 27: <choice><expan/><abbr>Janu:</abbr></choice>
+               <lb facs="#facs_96_r1l14" n="N014"/>Worüber obbemelter <rs type="person" ref="#wkfm__46752">Fhr. v. Riesch</rs> vermög Anbringen de ps. 27: <choice><expan/><abbr>Janu:</abbr></choice>
                <lb facs="#facs_96_r1l15" n="N015"/>780 um <hi>Entlassung</hi> Ausfertigung der diesfälligen Entlassungs Urkund gebetten <seg type="editorial_comment_seg">q<note type="editorial_comment_note">Fortzsetzung in der Rubrik Heuraths Contract</note></seg>
                <lb facs="#facs_96_r1l17" n="N016"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_96_r1l18" n="N017"/><seg type="editorial_comment_seg">q<note type="editorial_comment_note">Fortsetzung des vorangegangenen Textes der Rubrik Anmerckungen</note></seg> und solche ausgefertigter erhalten, dann diese Wolfgang Rieschische
@@ -121,13 +121,13 @@
                <lb facs="#facs_96_r1l21" n="N020"/>de pt: 27<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 780 liegen bey den Avocatorien und obla-
                <lb facs="#facs_96_r1l22" n="N021"/>torien sub N<hi style="superscript">o</hi> 1140 3/4
                <lb facs="#facs_96_r1l23" n="N022"/>Anmerckungen
-               <lb facs="#facs_96_r1l24" n="N023"/>Vermög Anbringen de ps<hi style="superscript">to</hi> 30 <choice><expan/><abbr>8br:</abbr></choice> 775 hat der <rs type="person" ref="wkfm__46752">Fhr Riesch</rs> abermal ange-
-               <lb facs="#facs_96_r1l25" n="N024"/>zeiget, das, da sein firma führer <rs type="person" ref="wkfm__8701">Heinrich Frohn</rs> von hier abwesend seye Er
+               <lb facs="#facs_96_r1l24" n="N023"/>Vermög Anbringen de ps<hi style="superscript">to</hi> 30 <choice><expan/><abbr>8br:</abbr></choice> 775 hat der <rs type="person" ref="#wkfm__46752">Fhr Riesch</rs> abermal ange-
+               <lb facs="#facs_96_r1l25" n="N024"/>zeiget, das, da sein firma führer <rs type="person" ref="#wkfm__8701">Heinrich Frohn</rs> von hier abwesend seye Er
                <lb facs="#facs_96_r1l26" n="N025"/>unter seiner alleinigen firma den Stralzio vollenden werde
                <lb facs="#facs_96_r1l28" n="N026"/>Es wurde auch damals uiber die Anzeige des Commercien Steuer Cassiers wegen der
-               <lb facs="#facs_96_r1l29" n="N027"/>von den <rs type="person" ref="wkfm__46749">Erhard Rieschischen Niederlags Handlung</rs> verweigernden Steüer
+               <lb facs="#facs_96_r1l29" n="N027"/>von den <rs type="person" ref="#wkfm__46749">Erhard Rieschischen Niederlags Handlung</rs> verweigernden Steüer
                <lb facs="#facs_96_r1l30" n="N028"/>ein <hi>ex offo</hi> bericht <hi>erstattet</hi> ex officio abgefordert und an Behörde er-
-               <lb facs="#facs_96_r1l31" n="N029"/>stattet, worüber resolvirert worden, daß der <rs type="person" ref="wkfm__46752">Fhr. v. Riesch</rs> zur zahlung der
+               <lb facs="#facs_96_r1l31" n="N029"/>stattet, worüber resolvirert worden, daß der <rs type="person" ref="#wkfm__46752">Fhr. v. Riesch</rs> zur zahlung der
                <lb facs="#facs_96_r1l32" n="N030"/>Steuer verhalten seyn solle. NB: obige Anzeige und der
                <lb facs="#facs_96_r1l33" n="N031"/>Bericht finden sich in der Avocatorien und oblatorien sub N<hi style="superscript">o</hi> 1140 3/4
                <lb facs="#facs_96_r1l34" n="N032"/><seg type="editorial_comment_seg"><hi>0</hi><note type="editorial_comment_note">Fortsetzung in der Rubrik Societaets Contract und Interessenten</note></seg>

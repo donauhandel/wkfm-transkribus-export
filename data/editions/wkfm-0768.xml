@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -76,13 +76,13 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_100" n="100" xml:id="img_0100"/>
+            <pb facs="#facs_100" n="100" xml:id="img_0100" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0768.jpg"/>
             
             <ab facs="#facs_100_r1">
                <lb facs="#facs_100_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_100_r1l2" n="N002"/><hi>Mitls Anbringen de ps: 19</hi>
                <lb facs="#facs_100_r1l3" n="N003"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
-               <lb facs="#facs_100_line_1626370137369_20" n="N004"/>Mitls Anbringen de ps: 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 737  N<hi style="superscript">o</hi> 21590 hat der <rs type="person" ref="wkfm__47129">Frosch</rs> den mit der <rs type="person" ref="wkfm__47132">Maria
+               <lb facs="#facs_100_line_1626370137369_20" n="N004"/>Mitls Anbringen de ps: 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 737  N<hi style="superscript">o</hi> 21590 hat der <rs type="person" ref="#wkfm__47129">Frosch</rs> den mit der <rs type="person" ref="#wkfm__47132">Maria
                <lb break="no" facs="#facs_100_r1l5" n="N005"/>Elisabeth Kärnerin</rs> <hi><unclear>od</unclear></hi> untern 6<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 736 errichteten Heuraths-
                <lb facs="#facs_100_r1l6" n="N006"/>Contract N<hi style="superscript">o</hi> 2149 in Copia vidimata eingeleget, kraft welchen 500 fl <unclear>Heur[aths]</unclear>
                <lb facs="#facs_100_r1l7" n="N007"/>Gutt nebst 1000 fl Widerlag auf überleben, <hi>das</hi> und das wehrender <unclear>Ererbend</unclear>

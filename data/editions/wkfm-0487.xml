@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -88,31 +88,31 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_167" n="167" xml:id="img_0167"/>
+            <pb facs="#facs_167" n="167" xml:id="img_0167" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0487.jpg"/>
             
             <ab facs="#facs_167_r1">
                <lb facs="#facs_167_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_167_r1l2" n="N003"/><rs type="person" ref="wkfm__46180">Kritsch Franz</rs> burgerlicher Handlsmann
+               <lb facs="#facs_167_r1l2" n="N003"/><rs type="person" ref="#wkfm__46180">Kritsch Franz</rs> burgerlicher Handlsmann
                <lb facs="#facs_167_r1l3" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_167_r1l4" n="N005"/><rs type="person" ref="wkfm__47266">Frantz Kritsch</rs> laut Erklährung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 753 N<hi style="superscript">o</hi> 237
+               <lb facs="#facs_167_r1l4" n="N005"/><rs type="person" ref="#wkfm__47266">Frantz Kritsch</rs> laut Erklährung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 753 N<hi style="superscript">o</hi> 237
                <lb facs="#facs_167_r1l5" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_167_r1l6" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_167_line_1621963689687_3558" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_167_line_1621963688051_3553" n="N009"/><seg type="editorial_comment_seg">laut attestat von dem <rs type="person" ref="wkfm__46182">Joh: Jacob Frosch</rs> dd<hi style="superscript">to</hi> 5<hi style="superscript">ten</hi> <note type="editorial_comment_note">Fortsetzung von Zeile 12</note></seg>
+               <lb facs="#facs_167_line_1621963688051_3553" n="N009"/><seg type="editorial_comment_seg">laut attestat von dem <rs type="person" ref="#wkfm__46182">Joh: Jacob Frosch</rs> dd<hi style="superscript">to</hi> 5<hi style="superscript">ten</hi> <note type="editorial_comment_note">Fortsetzung von Zeile 12</note></seg>
                <lb facs="#facs_167_r1l8" n="N010"/><seg type="editorial_comment_seg"><choice><expan/><abbr>Apr:</abbr></choice> 781 N<hi style="superscript">o</hi> 1323<note type="editorial_comment_note">Fortsetzung von Zeile 12</note></seg>
-               <lb facs="#facs_167_r1l9" n="N011"/>Der <rs type="person" ref="wkfm__46180">Kritsch</rs> hat seinen Fundum mitls der Specification sine dato N<hi style="superscript">o</hi> 1324
+               <lb facs="#facs_167_r1l9" n="N011"/>Der <rs type="person" ref="#wkfm__46180">Kritsch</rs> hat seinen Fundum mitls der Specification sine dato N<hi style="superscript">o</hi> 1324
                <lb facs="#facs_167_r1l10" n="N012"/>folgender maßen ausgewisen nemlich daß er eigenthumlich besize
                <lb facs="#facs_167_line_1621963660287_3546" n="N013"/><hi>de</hi> alß ein Erbgutt von seinem Vater und Mutter
                <lb facs="#facs_167_line_1621963655952_3541" n="N014"/>an <choice><expan/><abbr>intee</abbr></choice> hievon durch 16 Jahr 1120 fl
                <lb facs="#facs_167_line_1621963650063_3535" n="N015"/>an erspahrten salario 600 fl
                <lb facs="#facs_167_r1l17" n="N016"/>zusamen Eigenthum 3120 fl
-               <lb facs="#facs_167_r1l19" n="N017"/>Zu Completirung des Ubrigen hat <rs type="person" ref="wkfm__46152">Crettier Bouvard et Comp:</rs> <hi>daß <choice><expan/><abbr>orig:</abbr></choice></hi>
+               <lb facs="#facs_167_r1l19" n="N017"/>Zu Completirung des Ubrigen hat <rs type="person" ref="#wkfm__46152">Crettier Bouvard et Comp:</rs> <hi>daß <choice><expan/><abbr>orig:</abbr></choice></hi>
                <lb facs="#facs_167_line_1621963754552_3613" n="N018"/>das Cautions Instrument dd<hi style="superscript">to</hi> 3<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 751 eingelegte <choice><expan/><abbr>pr</abbr></choice> 4880 fl
                <lb facs="#facs_167_r1l23" n="N019"/><choice><expan/><abbr>Sa</abbr></choice> 8000 fl
-               <lb facs="#facs_167_line_1621964106009_3724" n="N020"/>Über die von dem <rs type="person" ref="wkfm__46180">Kritsch</rs> eingelegte Billanz <choice><expan/><abbr>pr</abbr></choice> 11540 fl 15 <unclear>Creuzer N<hi style="superscript">o</hi> 1350</unclear> und hierüber laut For-
+               <lb facs="#facs_167_line_1621964106009_3724" n="N020"/>Über die von dem <rs type="person" ref="#wkfm__46180">Kritsch</rs> eingelegte Billanz <choice><expan/><abbr>pr</abbr></choice> 11540 fl 15 <unclear>Creuzer N<hi style="superscript">o</hi> 1350</unclear> und hierüber laut For-
                <lb facs="#facs_167_line_1621963840045_3674" n="N021"/>mulae Jurandi de ps: 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 755 N<hi style="superscript">o</hi> 1352 und Juraments Tagsazung dd<hi style="superscript">to</hi> eodem N<hi style="superscript">o</hi> 1353
                <lb facs="#facs_167_line_1621963848684_3684" n="N022"/>abgelägten Eyd ist zufolge Verordnung dd<hi style="superscript">to</hi> 15<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 755 N<hi style="superscript">o</hi> 1326 und Quittung dd<hi style="superscript">to</hi>
-               <lb facs="#facs_167_r1l29" n="N023"/>18<hi style="superscript">ten</hi> ej: N<hi style="superscript">o</hi> 1327 dem <rs type="person" ref="wkfm__46180">Kritsch</rs> obiges <choice><expan/><abbr>orig:</abbr></choice> Cautions Instrument extradiret <unclear>worden.</unclear>
+               <lb facs="#facs_167_r1l29" n="N023"/>18<hi style="superscript">ten</hi> ej: N<hi style="superscript">o</hi> 1327 dem <rs type="person" ref="#wkfm__46180">Kritsch</rs> obiges <choice><expan/><abbr>orig:</abbr></choice> Cautions Instrument extradiret <unclear>worden.</unclear>
                <lb facs="#facs_167_line_1621963860641_3693" n="N024"/>Hierbey befinden sich 2 Anbringen wegen Annehmung des Supl: N<hi style="superscript">o</hi> 1328 et 1329. 
             </ab>
             

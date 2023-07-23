@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -73,13 +73,13 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_63" n="63" xml:id="img_0063"/>
+            <pb facs="#facs_63" n="63" xml:id="img_0063" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0383.jpg"/>
             
             <ab facs="#facs_63_r1">
                <lb facs="#facs_63_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_63_r1l2" n="N003"/><rs type="person" ref="wkfm__9731">Kyenmayr Johann Michäl<hi>l</hi></rs> burgerlicher Handlmann
+               <lb facs="#facs_63_r1l2" n="N003"/><rs type="person" ref="#wkfm__9731">Kyenmayr Johann Michäl<hi>l</hi></rs> burgerlicher Handlmann
                <lb facs="#facs_63_r1l3" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_63_r1l4" n="N005"/><rs type="person" ref="wkfm__47224">Johann Michael Kyenmayr</rs> laut Erklährung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice>
+               <lb facs="#facs_63_r1l4" n="N005"/><rs type="person" ref="#wkfm__47224">Johann Michael Kyenmayr</rs> laut Erklährung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice>
                <lb facs="#facs_63_r1l5" n="N006"/>725 N<hi style="superscript">o</hi> 190
                <lb facs="#facs_63_r1l6" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_63_r1l7" n="N008"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>

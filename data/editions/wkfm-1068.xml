@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -79,21 +79,21 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_4" n="4" xml:id="img_0004"/>
+            <pb facs="#facs_4" n="4" xml:id="img_0004" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1068.jpg"/>
             
             <ab facs="#facs_4_r1">
                <lb facs="#facs_4_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
-               <lb facs="#facs_4_r1l2" n="N002"/>In obigen Anbringen de ps: 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 <hi>ho</hi> N<hi style="superscript">o</hi> 493 hat sich der <rs type="person" ref="wkfm__8324">Isenflam</rs>
+               <lb facs="#facs_4_r1l2" n="N002"/>In obigen Anbringen de ps: 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 <hi>ho</hi> N<hi style="superscript">o</hi> 493 hat sich der <rs type="person" ref="#wkfm__8324">Isenflam</rs>
                <lb facs="#facs_4_r1l3" n="N003"/>erklähret, daß er sein Negotium allein und mit eignen Capitalien führe.
-               <lb facs="#facs_4_r1l4" n="N004"/>Mitls Anbringen de ps: 8<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 728 N<hi style="superscript">o</hi> 1983 hat der <rs type="person" ref="wkfm__8324">Johann Jacob Isenflam</rs>
-               <lb facs="#facs_4_r1l5" n="N005"/>und <rs type="person" ref="wkfm__37955">Jacob Küner</rs> angezeiget, <hi>daß der Isen</hi> und durch die oblatorien dd<hi style="superscript">to</hi> 31<hi style="superscript">ten</hi>
-               <lb facs="#facs_4_r1l6" n="N006"/><choice><expan/><abbr>Mart:</abbr></choice> d.a. N<hi style="superscript">o</hi> 1130 kund gemacht, daß der <rs type="person" ref="wkfm__8324">Isenflam</rs> den <rs type="person" ref="wkfm__37955">Küner</rs> in seinem
-               <lb facs="#facs_4_r1l7" n="N007"/>18jährigen Negotio sich associiret habe, und ein solches unter der Raggion <rs type="person" ref="wkfm__12421">Isenflam und
+               <lb facs="#facs_4_r1l4" n="N004"/>Mitls Anbringen de ps: 8<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 728 N<hi style="superscript">o</hi> 1983 hat der <rs type="person" ref="#wkfm__8324">Johann Jacob Isenflam</rs>
+               <lb facs="#facs_4_r1l5" n="N005"/>und <rs type="person" ref="#wkfm__37955">Jacob Küner</rs> angezeiget, <hi>daß der Isen</hi> und durch die oblatorien dd<hi style="superscript">to</hi> 31<hi style="superscript">ten</hi>
+               <lb facs="#facs_4_r1l6" n="N006"/><choice><expan/><abbr>Mart:</abbr></choice> d.a. N<hi style="superscript">o</hi> 1130 kund gemacht, daß der <rs type="person" ref="#wkfm__8324">Isenflam</rs> den <rs type="person" ref="#wkfm__37955">Küner</rs> in seinem
+               <lb facs="#facs_4_r1l7" n="N007"/>18jährigen Negotio sich associiret habe, und ein solches unter der Raggion <rs type="person" ref="#wkfm__12421">Isenflam und
                <lb break="no" facs="#facs_4_r1l9" n="N008"/>Küner</rs> werde prosequiret werden <hi>w</hi>, annebens die firma von beeden sociis beygeru
                <lb facs="#facs_4_r1l11" n="N009"/>ket mit dem zusaz daß <hi>ansonsten</hi> keiner andern Glauben zu geben seye.
-               <lb facs="#facs_4_r1l13" n="N010"/>Mitls Anbringen de ps: 28<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 732 N<hi style="superscript">o</hi> 1985 hat der <rs type="person" ref="wkfm__8324">Johann Jacob Isenflam</rs>
-               <lb facs="#facs_4_r1l14" n="N011"/>und <rs type="person" ref="wkfm__37955">Jacob Küner</rs> angzeiget, daß die vor 4 Jahren zwischen ihnen errichtete handlungs
-               <lb facs="#facs_4_r1l15" n="N012"/>Societaet mit <choice><expan>ultimo</expan><abbr>ult</abbr></choice> <choice><expan/><abbr>Mart:</abbr></choice> 732 zu Ende gegangen, und also die Raggion <rs type="person" ref="wkfm__12421">Isenflam und
+               <lb facs="#facs_4_r1l13" n="N010"/>Mitls Anbringen de ps: 28<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 732 N<hi style="superscript">o</hi> 1985 hat der <rs type="person" ref="#wkfm__8324">Johann Jacob Isenflam</rs>
+               <lb facs="#facs_4_r1l14" n="N011"/>und <rs type="person" ref="#wkfm__37955">Jacob Küner</rs> angzeiget, daß die vor 4 Jahren zwischen ihnen errichtete handlungs
+               <lb facs="#facs_4_r1l15" n="N012"/>Societaet mit <choice><expan>ultimo</expan><abbr>ult</abbr></choice> <choice><expan/><abbr>Mart:</abbr></choice> 732 zu Ende gegangen, und also die Raggion <rs type="person" ref="#wkfm__12421">Isenflam und
                <lb break="no" facs="#facs_4_r1l16" n="N013"/>Küner</rs> anwiderum aufgehoben seye
                <lb facs="#facs_4_r1l17" n="N014"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_4_r1l18" n="N015"/>Anmerckungen

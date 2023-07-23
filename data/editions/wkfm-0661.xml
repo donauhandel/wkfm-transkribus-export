@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -78,20 +78,20 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_41" n="41" xml:id="img_0041"/>
+            <pb facs="#facs_41" n="41" xml:id="img_0041" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0661.jpg"/>
             
             <ab facs="#facs_41_r1">
                <lb facs="#facs_41_r1l2" n="N001"/>328
                <lb facs="#facs_41_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_41_r1l3" n="N003"/><rs type="person" ref="wkfm__46436">Ettenreicher Johann Heinrich</rs> burgerlicher Tuchlaubens Verwanter
+               <lb facs="#facs_41_r1l3" n="N003"/><rs type="person" ref="#wkfm__46436">Ettenreicher Johann Heinrich</rs> burgerlicher Tuchlaubens Verwanter
                <lb facs="#facs_41_r1l4" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_41_r1l5" n="N005"/><rs type="person" ref="wkfm__46437">Johann Heinrich Ettenreicher</rs> laut Anbringen de ps: 29<hi style="superscript">ten</hi> Julii 743 N<hi style="superscript">o</hi>
+               <lb facs="#facs_41_r1l5" n="N005"/><rs type="person" ref="#wkfm__46437">Johann Heinrich Ettenreicher</rs> laut Anbringen de ps: 29<hi style="superscript">ten</hi> Julii 743 N<hi style="superscript">o</hi>
                <lb facs="#facs_41_r1l6" n="N006"/>318.
                <lb facs="#facs_41_r1l7" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_41_r1l8" n="N008"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_41_r1l9" n="N009"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_41_r1l10" n="N010"/>Der <rs type="person" ref="wkfm__46436">Ettenreich</rs> hat zu Ausweisung seines Fundi den von seinem Bruder
-               <lb facs="#facs_41_r1l11" n="N011"/><rs type="person" ref="wkfm__46438">Joseph Ettenreich</rs> <hi>untern</hi> dahir ausgestelten Revers, das weil ihm <rs type="person" ref="wkfm__46436">Johann
+               <lb facs="#facs_41_r1l10" n="N010"/>Der <rs type="person" ref="#wkfm__46436">Ettenreich</rs> hat zu Ausweisung seines Fundi den von seinem Bruder
+               <lb facs="#facs_41_r1l11" n="N011"/><rs type="person" ref="#wkfm__46438">Joseph Ettenreich</rs> <hi>untern</hi> dahir ausgestelten Revers, das weil ihm <rs type="person" ref="#wkfm__46436">Johann
                <lb break="no" facs="#facs_41_r1l12" n="N012"/>Heinrich</rs> an seinem Fundo 3000 fl abgesen, er solche <hi>ein</hi> in die Handlung
                <lb facs="#facs_41_r1l13" n="N013"/>einlegen und <unclear>hievon</unclear> vor befridigung deren Creditoren nichts heraus nehmen
                <lb facs="#facs_41_r1l14" n="N014"/>wole dd<hi style="superscript">to</hi> 23<hi style="superscript">ten</hi> Junii 743 N<hi style="superscript">o</hi> 1409 in <choice><expan/><abbr>orig.</abbr></choice> eingeleget.

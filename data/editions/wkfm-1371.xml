@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -81,23 +81,23 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_19" n="19" xml:id="img_0019"/>
+            <pb facs="#facs_19" n="19" xml:id="img_0019" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1371.jpg"/>
             
             <ab facs="#facs_19_r1">
                <lb facs="#facs_19_r1l2" n="N001"/>678
                <lb facs="#facs_19_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_19_r1l3" n="N003"/><rs type="person" ref="wkfm__8489">Rößler Paul</rs> kay: könig: Niderlags Verwanter
+               <lb facs="#facs_19_r1l3" n="N003"/><rs type="person" ref="#wkfm__8489">Rößler Paul</rs> kay: könig: Niderlags Verwanter
                <lb facs="#facs_19_r1l4" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_19_r1l5" n="N005"/><rs type="person" ref="wkfm__46688">Paull Rößler</rs> laut Anbringen de ps: 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 620
-               <lb facs="#facs_19_r1l6" n="N006"/><rs type="person" ref="wkfm__46689">Paul Rößler: Seeliche Wüttüb</rs> laut Anbringen de ps: 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 725 N<hi style="superscript">o</hi>
+               <lb facs="#facs_19_r1l5" n="N005"/><rs type="person" ref="#wkfm__46688">Paull Rößler</rs> laut Anbringen de ps: 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 620
+               <lb facs="#facs_19_r1l6" n="N006"/><rs type="person" ref="#wkfm__46689">Paul Rößler: Seeliche Wüttüb</rs> laut Anbringen de ps: 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 725 N<hi style="superscript">o</hi>
                <lb facs="#facs_19_r1l7" n="N007"/>643
                <lb facs="#facs_19_r1l8" n="N008"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
-               <lb facs="#facs_19_r1l9" n="N009"/>Mitls Anbringen de ps: 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 1048 hat der <rs type="person" ref="wkfm__8489">Rößler</rs> die seinem Vettern
-               <lb facs="#facs_19_r1l11" n="N010"/><rs type="person" ref="wkfm__46687">Johann Paul Rößler</rs> sowohl in sein an als abwessenheit ertheilte <choice><expan/><abbr>orig:</abbr></choice>
-               <lb facs="#facs_19_line_1624021913093_253" n="N011"/><hi><unclear>Pag</unclear></hi> Procura dd<hi style="superscript">to</hi> 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 mit beygeruckter Firma des <rs type="person" ref="wkfm__46687">Johann Paul Roßler</rs>
+               <lb facs="#facs_19_r1l9" n="N009"/>Mitls Anbringen de ps: 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 1048 hat der <rs type="person" ref="#wkfm__8489">Rößler</rs> die seinem Vettern
+               <lb facs="#facs_19_r1l11" n="N010"/><rs type="person" ref="#wkfm__46687">Johann Paul Rößler</rs> sowohl in sein an als abwessenheit ertheilte <choice><expan/><abbr>orig:</abbr></choice>
+               <lb facs="#facs_19_line_1624021913093_253" n="N011"/><hi><unclear>Pag</unclear></hi> Procura dd<hi style="superscript">to</hi> 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 mit beygeruckter Firma des <rs type="person" ref="#wkfm__46687">Johann Paul Roßler</rs>
                <lb facs="#facs_19_r1l15" n="N012"/><hi>er</hi> N<hi style="superscript">o</hi> 1047 eingeleget
-               <lb facs="#facs_19_r1l16" n="N013"/>Mitls Anbringen de ps: 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 733 N<hi style="superscript">o</hi> 1058 hat die <rs type="person" ref="wkfm__20473">Paul Rößler: Wittib</rs>
-               <lb facs="#facs_19_line_1624022022369_267" n="N014"/>die dem <rs type="person" ref="wkfm__46690">Georg Philipp Beer</rs> ertheilte <choice><expan/><abbr>orig:</abbr></choice> procura dd<hi style="superscript">t</hi> mit beygerukter Firma des
+               <lb facs="#facs_19_r1l16" n="N013"/>Mitls Anbringen de ps: 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 733 N<hi style="superscript">o</hi> 1058 hat die <rs type="person" ref="#wkfm__20473">Paul Rößler: Wittib</rs>
+               <lb facs="#facs_19_line_1624022022369_267" n="N014"/>die dem <rs type="person" ref="#wkfm__46690">Georg Philipp Beer</rs> ertheilte <choice><expan/><abbr>orig:</abbr></choice> procura dd<hi style="superscript">t</hi> mit beygerukter Firma des
                <lb facs="#facs_19_r1l18" n="N015"/>Beer <hi>N de</hi> dd<hi style="superscript">to</hi> 11<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 733 N<hi style="superscript">o</hi> 1057 eingeleget.
                <lb facs="#facs_19_r1l19" n="N016"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_19_r1l20" n="N017"/><seg type="orighead__fundi">Fundi Ausweisung</seg>

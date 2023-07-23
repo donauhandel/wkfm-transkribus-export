@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -76,16 +76,16 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_152" n="152" xml:id="img_0152"/>
+            <pb facs="#facs_152" n="152" xml:id="img_0152" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1610.jpg"/>
             
             <ab facs="#facs_152_r1">
                <lb facs="#facs_152_r1l2" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
-               <lb facs="#facs_152_r1l3" n="N002"/>In obigen Anbringen de ps: 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 735 N<hi style="superscript">o</hi> 735 hat der <rs type="person" ref="wkfm__47182">Scholz</rs> angezeiget
+               <lb facs="#facs_152_r1l3" n="N002"/>In obigen Anbringen de ps: 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 735 N<hi style="superscript">o</hi> 735 hat der <rs type="person" ref="#wkfm__47182">Scholz</rs> angezeiget
                <lb facs="#facs_152_r1l4" n="N003"/>daß er seine Handlung mit eignen Capitalien führe
-               <lb facs="#facs_152_r1l5" n="N004"/>Mitls Anbringen de ps: 28<hi style="superscript">ten</hi> <hi>A</hi> <choice><expan/><abbr>7br:</abbr></choice> 747 N<hi style="superscript">o</hi> 2058 hat der <rs type="person" ref="wkfm__47182">Scholz</rs> den mit seinem
-               <lb facs="#facs_152_r1l6" n="N005"/>Tochter Mann <rs type="person" ref="wkfm__47181">Carl Heinrich Tittel</rs> untern 25<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 747 geschlossenen societaets
+               <lb facs="#facs_152_r1l5" n="N004"/>Mitls Anbringen de ps: 28<hi style="superscript">ten</hi> <hi>A</hi> <choice><expan/><abbr>7br:</abbr></choice> 747 N<hi style="superscript">o</hi> 2058 hat der <rs type="person" ref="#wkfm__47182">Scholz</rs> den mit seinem
+               <lb facs="#facs_152_r1l6" n="N005"/>Tochter Mann <rs type="person" ref="#wkfm__47181">Carl Heinrich Tittel</rs> untern 25<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 747 geschlossenen societaets
                <lb facs="#facs_152_r1l7" n="N006"/>Contract angezeiget und solchen in <choice><expan/><abbr>orig:</abbr></choice> N<hi style="superscript">o</hi> 2057 eingeleget, kraft welchen die
-               <lb facs="#facs_152_r1l8" n="N007"/>Raggion<rs type="person" ref="wkfm__47180"> Balthasar Sigmund Scholz und Compagnie</rs> laufen, der <rs type="person" ref="wkfm__47181">Tittel</rs>, zumahlen
+               <lb facs="#facs_152_r1l8" n="N007"/>Raggion<rs type="person" ref="#wkfm__47180"> Balthasar Sigmund Scholz und Compagnie</rs> laufen, der <rs type="person" ref="#wkfm__47181">Tittel</rs>, zumahlen
                <lb facs="#facs_152_r1l9" n="N008"/>selber keine vale Einlag leister, alle aperas, und gewahr ohne sich in <unclear>andere</unclear>
                <lb facs="#facs_152_r1l10" n="N009"/>negotio einzulassen pactiren und hingegegen der halber Nuzen zühen
                <lb facs="#facs_152_r1l11" n="N010"/>solle.

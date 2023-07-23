@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -78,21 +78,21 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_25" n="25" xml:id="img_0025"/>
+            <pb facs="#facs_25" n="25" xml:id="img_0025" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1879.jpg"/>
             
             <ab facs="#facs_25_r1">
                <lb facs="#facs_25_line_1621294216463_1495" n="N001"/>157
                <lb facs="#facs_25_r1l2" n="N002"/>932
                <lb facs="#facs_25_r1l1" n="N003"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_25_line_1630417507329_806" n="N004"/><rs type="person" ref="wkfm__8146">Sünzheimb Löw</rs> <hi>Jud</hi> Hofjud
+               <lb facs="#facs_25_line_1630417507329_806" n="N004"/><rs type="person" ref="#wkfm__8146">Sünzheimb Löw</rs> <hi>Jud</hi> Hofjud
                <lb facs="#facs_25_r1l4" n="N005"/>Firma ad Raggion
-               <lb facs="#facs_25_r1l5" n="N006"/><rs type="person" ref="wkfm__46625">Löw Sünzheimb </rs>laut Anbringen de ps: 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 860.
-               <lb facs="#facs_25_r1l7" n="N007"/><rs type="person" ref="wkfm__43827">Löw Sünzheimb <choice><expan/><abbr>seel.</abbr></choice> Erben und Verwalters </rs>laut Anbringen de ps: 29<hi style="superscript">ten</hi>
+               <lb facs="#facs_25_r1l5" n="N006"/><rs type="person" ref="#wkfm__46625">Löw Sünzheimb </rs>laut Anbringen de ps: 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 860.
+               <lb facs="#facs_25_r1l7" n="N007"/><rs type="person" ref="#wkfm__43827">Löw Sünzheimb <choice><expan/><abbr>seel.</abbr></choice> Erben und Verwalters </rs>laut Anbringen de ps: 29<hi style="superscript">ten</hi>
                <lb facs="#facs_25_r1l8" n="N008"/><choice><expan/><abbr>Aug:</abbr></choice> 746 N<hi style="superscript">o</hi> 2056
                <lb facs="#facs_25_r1l9" n="N009"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_25_r1l10" n="N010"/>In obigen Anbringen de ps: 29<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 746 N<hi style="superscript">o</hi> 2056 ist die Firma <hi>von</hi> der 
-               <lb facs="#facs_25_r1l11" n="N011"/>Raggion <rs type="person" ref="wkfm__43827">Löw Sünzheimb <choice><expan/><abbr>seel.</abbr></choice> Erben und Verwalters</rs> von dem <rs type="person" ref="wkfm__15470">Abraham
-               <lb break="no" facs="#facs_25_r1l12" n="N012"/>Sünzheimb</rs> und <rs type="person" ref="wkfm__14160">Salomon Sünzheimb</rs> eingeleget worden.
+               <lb facs="#facs_25_r1l11" n="N011"/>Raggion <rs type="person" ref="#wkfm__43827">Löw Sünzheimb <choice><expan/><abbr>seel.</abbr></choice> Erben und Verwalters</rs> von dem <rs type="person" ref="#wkfm__15470">Abraham
+               <lb break="no" facs="#facs_25_r1l12" n="N012"/>Sünzheimb</rs> und <rs type="person" ref="#wkfm__14160">Salomon Sünzheimb</rs> eingeleget worden.
                <lb facs="#facs_25_r1l13" n="N013"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_25_r1l14" n="N014"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
             </ab>

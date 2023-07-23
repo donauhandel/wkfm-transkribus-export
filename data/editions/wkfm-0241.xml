@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -94,38 +94,38 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_187" n="187" xml:id="img_0187"/>
+            <pb facs="#facs_187" n="187" xml:id="img_0187" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0241.jpg"/>
             
             <ab facs="#facs_187_r2">
                <lb facs="#facs_187_r2l1" n="N001"/>118
                <lb facs="#facs_187_r2l2" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_187_r2l3" n="N003"/><rs type="person" ref="wkfm__21476">Bender Philipp Jacob</rs> k. k. Niderlags Verwanter
+               <lb facs="#facs_187_r2l3" n="N003"/><rs type="person" ref="#wkfm__21476">Bender Philipp Jacob</rs> k. k. Niderlags Verwanter
                <lb facs="#facs_187_r2l4" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_187_r2l5" n="N005"/><hi>Philipp</hi> <rs type="person" ref="wkfm__47360">Philip Jacob Bender</rs> laut Oblatorien dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 736 N<hi style="superscript">o</hi> 1095
-               <lb facs="#facs_187_line_1621470598092_3538" n="N006"/><rs type="person" ref="wkfm__43934">Bender et <choice><expan/><abbr>Comp:</abbr></choice></rs> laut oblatorien dd<hi style="superscript">to</hi> 2<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 751 N<hi style="superscript">o</hi> 1102.
+               <lb facs="#facs_187_r2l5" n="N005"/><hi>Philipp</hi> <rs type="person" ref="#wkfm__47360">Philip Jacob Bender</rs> laut Oblatorien dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 736 N<hi style="superscript">o</hi> 1095
+               <lb facs="#facs_187_line_1621470598092_3538" n="N006"/><rs type="person" ref="#wkfm__43934">Bender et <choice><expan/><abbr>Comp:</abbr></choice></rs> laut oblatorien dd<hi style="superscript">to</hi> 2<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 751 N<hi style="superscript">o</hi> 1102.
                <lb facs="#facs_187_r2l7" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
-               <lb facs="#facs_187_r2l8" n="N008"/>Mitls Anbringen de ps: 20<hi style="superscript">ten</hi> May 737 N<hi style="superscript">o</hi> 915 hat der <rs type="person" ref="wkfm__21476">Bender</rs> die <choice><expan/><abbr>orig:</abbr></choice> procura
-               <lb facs="#facs_187_r2l9" n="N009"/>auf <rs type="person" ref="wkfm__43935">Christian Rudolph Eisenreich</rs> in allen Vorfallenheiten ausser <hi>Geld</hi> Ausleichung
+               <lb facs="#facs_187_r2l8" n="N008"/>Mitls Anbringen de ps: 20<hi style="superscript">ten</hi> May 737 N<hi style="superscript">o</hi> 915 hat der <rs type="person" ref="#wkfm__21476">Bender</rs> die <choice><expan/><abbr>orig:</abbr></choice> procura
+               <lb facs="#facs_187_r2l9" n="N009"/>auf <rs type="person" ref="#wkfm__43935">Christian Rudolph Eisenreich</rs> in allen Vorfallenheiten ausser <hi>Geld</hi> Ausleichung
                <lb facs="#facs_187_r2l10" n="N010"/>des Gelds und Aufnehmung desselben à desposito ausgestelt dd<hi style="superscript">to</hi> 18<hi style="superscript">ten</hi> May
-               <lb facs="#facs_187_r2l11" n="N011"/>737 nebst des <rs type="person" ref="wkfm__43935">Eisenreich</rs> Firma in <choice><expan/><abbr>org:</abbr></choice> N<hi style="superscript">o</hi> 914 eingeleget.
+               <lb facs="#facs_187_r2l11" n="N011"/>737 nebst des <rs type="person" ref="#wkfm__43935">Eisenreich</rs> Firma in <choice><expan/><abbr>org:</abbr></choice> N<hi style="superscript">o</hi> 914 eingeleget.
                <lb facs="#facs_187_r2l12" n="N012"/>Mitls Anbringen de ps: 14<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 737 N<hi style="superscript">o</hi> 916 ist diese procura anwiderum aufge-
                <lb facs="#facs_187_r2l13" n="N013"/>hoben worden.
                <lb facs="#facs_187_r2l14" n="N014"/>In obigen oblatorien dd<hi style="superscript">to</hi> 8<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 751 N<hi style="superscript">o</hi> 1102 ist die Firma gleichfalß auf den
-               <lb facs="#facs_187_r2l15" n="N015"/>Compagnon <rs type="person" ref="wkfm__43936">Johann Carl Mühl</rs> <unclear>constituirent</unclear> und von selben nebst des <rs type="person" ref="wkfm__21476">Bender</rs> eigen
+               <lb facs="#facs_187_r2l15" n="N015"/>Compagnon <rs type="person" ref="#wkfm__43936">Johann Carl Mühl</rs> <unclear>constituirent</unclear> und von selben nebst des <rs type="person" ref="#wkfm__21476">Bender</rs> eigen
                <lb facs="#facs_187_r2l16" n="N016"/>beygeruket worden.
                <lb facs="#facs_187_r2l17" n="N017"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
-               <lb facs="#facs_187_r2l18" n="N018"/>Mitls Anbringen de ps: 15<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 736 N<hi style="superscript">o</hi> 116 hat der <rs type="person" ref="wkfm__21476">Bender</rs> die von ihm 
+               <lb facs="#facs_187_r2l18" n="N018"/>Mitls Anbringen de ps: 15<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 736 N<hi style="superscript">o</hi> 116 hat der <rs type="person" ref="#wkfm__21476">Bender</rs> die von ihm 
                <lb facs="#facs_187_r2l19" n="N019"/>untern 1<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 736 erlassene oblatorien in <choice><expan/><abbr>orig:</abbr></choice> N<hi style="superscript">o</hi> 1095 eingeleget
-               <lb facs="#facs_187_r2l20" n="N020"/>krafft welchen selber kund gemacht, daß das unter dem Nahmen <rs type="person" ref="wkfm__46389">Johann
+               <lb facs="#facs_187_r2l20" n="N020"/>krafft welchen selber kund gemacht, daß das unter dem Nahmen <rs type="person" ref="#wkfm__46389">Johann
                <lb break="no" facs="#facs_187_r2l21" n="N021"/>Georg Helvetius</rs> <hi><unclear>selb</unclear></hi> nunmehro sel. gelofene Negotium geendet
                <lb facs="#facs_187_r2l22" n="N022"/>und er entschlossen seye, solches nebst <unclear>besorgung</unclear> des Stralcio unter
                <lb facs="#facs_187_r2l23" n="N023"/>seinem Nahmen mit nemlichen <unclear>Assaggio</unclear> und solchem Fondament und Kräfften
                <lb facs="#facs_187_r2l24" n="N024"/>zu prosequiren, daß er jedwedern <unclear>honeten</unclear> Negotio begenen könne.
                <lb facs="#facs_187_r2l25" n="N025"/>Mitls dem weithern oblatorien dd<hi style="superscript">to</hi> <unclear>2<hi style="superscript"/></unclear><hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 751 N<hi style="superscript">o</hi> 1102 und diesfälligen Erlags Anbringen
-               <lb facs="#facs_187_r2l26" n="N026"/>de ps: 23<hi style="superscript">ten</hi> Junii 755 N<hi style="superscript">o</hi> 1890 ist kund gemacht und angezeiget worden das der <rs type="person" ref="wkfm__21476">Bender</rs> sich
-               <lb facs="#facs_187_r2l28" n="N027"/>seinem Schwager <rs type="person" ref="wkfm__43936">Johann Carl Mühl</rs> associret und in seinem Negotium theil <hi>0</hi>
+               <lb facs="#facs_187_r2l26" n="N026"/>de ps: 23<hi style="superscript">ten</hi> Junii 755 N<hi style="superscript">o</hi> 1890 ist kund gemacht und angezeiget worden das der <rs type="person" ref="#wkfm__21476">Bender</rs> sich
+               <lb facs="#facs_187_r2l28" n="N027"/>seinem Schwager <rs type="person" ref="#wkfm__43936">Johann Carl Mühl</rs> associret und in seinem Negotium theil <hi>0</hi>
                <lb facs="#facs_187_r2l29" n="N028"/><seg type="editorial_comment_seg">Fundi Ausweisung<note type="editorial_comment_note">Der folgende Text gehört noch zur Rubrik Oblatorien und Avocatorien</note></seg>
-               <lb facs="#facs_187_r2l30" n="N029"/><hi>0</hi> interessiret <hi>habe</hi> habe, die künftige ditta <rs type="person" ref="wkfm__43934">Bender und <choice><expan/><abbr>Comp:</abbr></choice></rs> seye
+               <lb facs="#facs_187_r2l30" n="N029"/><hi>0</hi> interessiret <hi>habe</hi> habe, die künftige ditta <rs type="person" ref="#wkfm__43934">Bender und <choice><expan/><abbr>Comp:</abbr></choice></rs> seye
                <lb facs="#facs_187_r2l32" n="N030"/><hi>werde</hi>, und von beeden sociis die firma wird geführet <hi>wird</hi> werden.
             </ab>
             

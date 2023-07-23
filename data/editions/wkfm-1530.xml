@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -77,15 +77,15 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_72" n="72" xml:id="img_0072"/>
+            <pb facs="#facs_72" n="72" xml:id="img_0072" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1530.jpg"/>
             
             <ab facs="#facs_72_r1">
                <lb facs="#facs_72_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_72_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 691 hat sich der
-               <lb facs="#facs_72_r1l3" n="N003"/><rs type="person" ref="wkfm__10901">Stiermb</rs> geäusseret, daß er keine Compagnie habe
+               <lb facs="#facs_72_r1l3" n="N003"/><rs type="person" ref="#wkfm__10901">Stiermb</rs> geäusseret, daß er keine Compagnie habe
                <lb facs="#facs_72_r1l4" n="N004"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
-               <lb facs="#facs_72_r1l5" n="N005"/>Mitls Anbringen de ps: 22<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 735 N<hi style="superscript">o</hi> 2220 hat <hi>sich</hi> der <rs type="person" ref="wkfm__10901">Stiermb</rs> den
-               <lb facs="#facs_72_r1l6" n="N006"/>mit der <rs type="person" ref="wkfm__47444">Maria Barbara Mösserin</rs> <hi>ner</hi> untern 2<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 735 errichteten
+               <lb facs="#facs_72_r1l5" n="N005"/>Mitls Anbringen de ps: 22<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 735 N<hi style="superscript">o</hi> 2220 hat <hi>sich</hi> der <rs type="person" ref="#wkfm__10901">Stiermb</rs> den
+               <lb facs="#facs_72_r1l6" n="N006"/>mit der <rs type="person" ref="#wkfm__47444">Maria Barbara Mösserin</rs> <hi>ner</hi> untern 2<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 735 errichteten
                <lb facs="#facs_72_r1l7" n="N007"/>Heurathscontract in Copia Vidimata N<hi style="superscript">o</hi> 2219 eingeleget, kraft welcher
                <lb facs="#facs_72_r1l8" n="N008"/>1000 fl Heurathgutt nebst 2000 fl Widerlag auf überleben, dann jenes
                <lb facs="#facs_72_r1l9" n="N009"/>was wehrender Ehe erworben und ererbet wird als ein gleiches gutt

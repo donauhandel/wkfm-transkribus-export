@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -81,22 +81,22 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_166" n="166" xml:id="img_0166"/>
+            <pb facs="#facs_166" n="166" xml:id="img_0166" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1624.jpg"/>
             
             <ab facs="#facs_166_r1">
                <lb facs="#facs_166_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
-               <lb facs="#facs_166_r1l2" n="N002"/>Der <rs type="person" ref="wkfm__47519">Schönthann</rs> hat <hi>der mit</hi> nebst obiger von <rs type="person" ref="wkfm__8105">Philipp Gundian <choice><expan/><abbr>seel:</abbr></choice> Erben</rs>
+               <lb facs="#facs_166_r1l2" n="N002"/>Der <rs type="person" ref="#wkfm__47519">Schönthann</rs> hat <hi>der mit</hi> nebst obiger von <rs type="person" ref="#wkfm__8105">Philipp Gundian <choice><expan/><abbr>seel:</abbr></choice> Erben</rs>
                <lb facs="#facs_166_r1l3" n="N003"/>untern 9<hi style="superscript">ten</hi> Julii 736 dahin ausgestelten <hi>societaets contract</hi> Instrument N<hi style="superscript">o</hi> <unclear>1710</unclear>
-               <lb facs="#facs_166_r1l4" n="N004"/>in <choice><expan/><abbr>orig:</abbr></choice> daß er <rs type="person" ref="wkfm__47519">Schönthann</rs> in ihrer Handlung um den 7<hi style="superscript">ten</hi> theil utile
-               <lb facs="#facs_166_r1l5" n="N005"/><unclear>et e donno</unclear> interessirert seye auch den mit dem <rs type="person" ref="wkfm__42309">Joseph Franz Gundian</rs> untern
+               <lb facs="#facs_166_r1l4" n="N004"/>in <choice><expan/><abbr>orig:</abbr></choice> daß er <rs type="person" ref="#wkfm__47519">Schönthann</rs> in ihrer Handlung um den 7<hi style="superscript">ten</hi> theil utile
+               <lb facs="#facs_166_r1l5" n="N005"/><unclear>et e donno</unclear> interessirert seye auch den mit dem <rs type="person" ref="#wkfm__42309">Joseph Franz Gundian</rs> untern
                <lb facs="#facs_166_r1l6" n="N006"/>1<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 730 abgeschlossen Contract N<hi style="superscript">o</hi> 2050 in Copia vidimata eingeleget, kraft welchen
-               <lb facs="#facs_166_r1l8" n="N007"/>ihm der <rs type="person" ref="wkfm__42309">Gundian</rs> <gap/> ein<hi>en</hi> 7tl der Handlung mit 20 <choice><expan/><abbr>pC<hi style="superscript">to</hi></abbr></choice> Rabatt <choice><expan/><abbr>pr</abbr></choice> 10400 fl baares
-               <lb facs="#facs_166_r1l9" n="N008"/>Geld von <unclear>1<hi style="superscript"/></unclear><hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 740 dergestalten verkaufet und überlassen hat, das jedoch er <rs type="person" ref="wkfm__47519">Schönthann</rs> falß er
+               <lb facs="#facs_166_r1l8" n="N007"/>ihm der <rs type="person" ref="#wkfm__42309">Gundian</rs> <gap/> ein<hi>en</hi> 7tl der Handlung mit 20 <choice><expan/><abbr>pC<hi style="superscript">to</hi></abbr></choice> Rabatt <choice><expan/><abbr>pr</abbr></choice> 10400 fl baares
+               <lb facs="#facs_166_r1l9" n="N008"/>Geld von <unclear>1<hi style="superscript"/></unclear><hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 740 dergestalten verkaufet und überlassen hat, das jedoch er <rs type="person" ref="#wkfm__47519">Schönthann</rs> falß er
                <lb facs="#facs_166_r1l12" n="N009"/><hi>aus der Han</hi> solches nicht mehr für sich behalten, <hi>wolt</hi> oder eine eigene Handlung
                <lb facs="#facs_166_r1l13" n="N010"/>errichten wolte, solches 1/7 tl denen interessenten auf gleiche arth mit 20 <choice><expan/><abbr>pC<hi style="superscript">to</hi></abbr></choice>
                <lb facs="#facs_166_r1l14" n="N011"/>Rabbat anwiderum zurukzulassen, und annoch wenigstens durch 4 Jahr
                <lb facs="#facs_166_r1l15" n="N012"/><hi>mit</hi> gegen dem ihm von sambentlichen interessenten ausgeworfnen Gehalt
-               <lb facs="#facs_166_r1l16" n="N013"/><hi>verbleiben</hi> in der Handlung verbleiben und mit ihm <rs type="person" ref="wkfm__42309">Gundian</rs> die direction 
+               <lb facs="#facs_166_r1l16" n="N013"/><hi>verbleiben</hi> in der Handlung verbleiben und mit ihm <rs type="person" ref="#wkfm__42309">Gundian</rs> die direction 
                <lb facs="#facs_166_r1l17" n="N014"/>zu führen schuldig seyn solle.
                <lb facs="#facs_166_r1l18" n="N015"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_166_r1l19" n="N016"/>Anmerckungen

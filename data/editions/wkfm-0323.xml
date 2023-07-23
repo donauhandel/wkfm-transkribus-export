@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -75,17 +75,17 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_3" n="3" xml:id="img_0003"/>
+            <pb facs="#facs_3" n="3" xml:id="img_0003" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0323.jpg"/>
             
             <ab facs="#facs_3_r2">
                <lb facs="#facs_3_r2l3" n="N001"/>159
                <lb facs="#facs_3_r2l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_3_line_1621953504599_123" n="N003"/><hi>Kreideman</hi> <rs type="person" ref="wkfm__10385">Kreidenman Johann Caspar</rs> k. k. Niderlags Verwanter
+               <lb facs="#facs_3_line_1621953504599_123" n="N003"/><hi>Kreideman</hi> <rs type="person" ref="#wkfm__10385">Kreidenman Johann Caspar</rs> k. k. Niderlags Verwanter
                <lb facs="#facs_3_r2l5" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_3_r2l6" n="N005"/><rs type="person" ref="wkfm__47197">Johann Caspar <hi>Kreideman</hi> Kreidenman</rs> laut Anbringen de ps: 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice>
+               <lb facs="#facs_3_r2l6" n="N005"/><rs type="person" ref="#wkfm__47197">Johann Caspar <hi>Kreideman</hi> Kreidenman</rs> laut Anbringen de ps: 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice>
                <lb facs="#facs_3_r2l7" n="N006"/>725 N<hi style="superscript">o</hi> 1892
                <lb facs="#facs_3_r2l8" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
-               <lb facs="#facs_3_r2l9" n="N008"/>Der <rs type="person" ref="wkfm__10385">Kreidenman</rs> hat sich in obigen Anbringen de ps: 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 1892
+               <lb facs="#facs_3_r2l9" n="N008"/>Der <rs type="person" ref="#wkfm__10385">Kreidenman</rs> hat sich in obigen Anbringen de ps: 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 1892
                <lb facs="#facs_3_r2l10" n="N009"/>erklähret, daß er die Firma allein führe
                <lb facs="#facs_3_r2l11" n="N010"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_3_r2l12" n="N011"/><seg type="orighead__fundi">Fundi Ausweisung</seg>

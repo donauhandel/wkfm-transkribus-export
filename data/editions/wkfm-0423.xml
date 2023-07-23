@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -102,46 +102,46 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_103" n="103" xml:id="img_0103"/>
+            <pb facs="#facs_103" n="103" xml:id="img_0103" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0423.jpg"/>
             
             <ab facs="#facs_103_r2">
                <lb facs="#facs_103_r2l2" n="N001"/>209
                <lb facs="#facs_103_r2l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_103_r2l3" n="N003"/><rs type="person" ref="wkfm__37955">Küner Jacob</rs> <choice><expan/><abbr>kay:</abbr></choice> <choice><expan/><abbr>könig:</abbr></choice> Niderlagsverwanter
+               <lb facs="#facs_103_r2l3" n="N003"/><rs type="person" ref="#wkfm__37955">Küner Jacob</rs> <choice><expan/><abbr>kay:</abbr></choice> <choice><expan/><abbr>könig:</abbr></choice> Niderlagsverwanter
                <lb facs="#facs_103_r2l4" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_103_r2l5" n="N005"/><rs type="person" ref="wkfm__23520">Küner und Bender</rs> laut Anbringen de ps: 28<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 732 N<hi style="superscript">o</hi> 1901 und Oblatorien dd<hi style="superscript">to</hi>
+               <lb facs="#facs_103_r2l5" n="N005"/><rs type="person" ref="#wkfm__23520">Küner und Bender</rs> laut Anbringen de ps: 28<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 732 N<hi style="superscript">o</hi> 1901 und Oblatorien dd<hi style="superscript">to</hi>
                <lb facs="#facs_103_r2l6" n="N006"/>31<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> d. a. N<hi style="superscript">o</hi> 1109.
-               <lb facs="#facs_103_r2l7" n="N007"/><rs type="person" ref="wkfm__40640">Küner und <choice><expan/><abbr>Comp:</abbr></choice></rs> laut Anbringen de ps: 24<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 736 N<hi style="superscript">o</hi> 1905 <hi>und oblatorien ddto 10 May 747</hi>
+               <lb facs="#facs_103_r2l7" n="N007"/><rs type="person" ref="#wkfm__40640">Küner und <choice><expan/><abbr>Comp:</abbr></choice></rs> laut Anbringen de ps: 24<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 736 N<hi style="superscript">o</hi> 1905 <hi>und oblatorien ddto 10 May 747</hi>
                <lb facs="#facs_103_r2l8" n="N008"/><hi>No 1111</hi>
-               <lb facs="#facs_103_r2l9" n="N009"/><rs type="person" ref="wkfm__40640">Küner und <choice><expan/><abbr>Comp:</abbr></choice></rs> laut oblatorien dd<hi style="superscript">to</hi> 10<hi style="superscript">ten</hi> May 747 N<hi style="superscript">o</hi> 1111
+               <lb facs="#facs_103_r2l9" n="N009"/><rs type="person" ref="#wkfm__40640">Küner und <choice><expan/><abbr>Comp:</abbr></choice></rs> laut oblatorien dd<hi style="superscript">to</hi> 10<hi style="superscript">ten</hi> May 747 N<hi style="superscript">o</hi> 1111
                <lb facs="#facs_103_r2l10" n="N010"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_103_r2l11" n="N011"/>Mitls obigen Anbringen de ps: 28<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 732 N<hi style="superscript">o</hi> 1901 und oblatorien dd<hi style="superscript">to</hi> 31<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> d. a. N<hi style="superscript">o</hi> 1109 ist 
-               <lb facs="#facs_103_line_1621958288085_1348" n="N012"/>die Firma der Raggion <rs type="person" ref="wkfm__23520">Küner und Bender</rs> von beeden sociis <rs type="person" ref="wkfm__37955">Jacob Küner</rs> und <rs type="person" ref="wkfm__21476">Philipp Jacob 
+               <lb facs="#facs_103_line_1621958288085_1348" n="N012"/>die Firma der Raggion <rs type="person" ref="#wkfm__23520">Küner und Bender</rs> von beeden sociis <rs type="person" ref="#wkfm__37955">Jacob Küner</rs> und <rs type="person" ref="#wkfm__21476">Philipp Jacob 
                <lb break="no" facs="#facs_103_r2l14" n="N013"/>Bender</rs> respetive eingeleget und kund gemacht worden.
-               <lb facs="#facs_103_line_1621958272268_1340" n="N014"/>Mitls Anbringen de ps: 18<hi style="superscript">ten</hi> May 747 N<hi style="superscript">o</hi> 941 hat der <rs type="person" ref="wkfm__37955">Küner</rs> von der unter seinen
-               <lb facs="#facs_103_r2l17" n="N015"/>alleinigen obligo erneuerten Raggion <rs type="person" ref="wkfm__40640">Küner und Compagnie</rs> die Firma dem <rs type="person" ref="wkfm__46132">Eber-
-               <lb break="no" facs="#facs_103_r2l18" n="N016"/>hard Fridrich Wagner</rs> und <rs type="person" ref="wkfm__46133">Jacob Zollikhoffer</rs> ertheilet und ein solches <hi>mit</hi> in 
+               <lb facs="#facs_103_line_1621958272268_1340" n="N014"/>Mitls Anbringen de ps: 18<hi style="superscript">ten</hi> May 747 N<hi style="superscript">o</hi> 941 hat der <rs type="person" ref="#wkfm__37955">Küner</rs> von der unter seinen
+               <lb facs="#facs_103_r2l17" n="N015"/>alleinigen obligo erneuerten Raggion <rs type="person" ref="#wkfm__40640">Küner und Compagnie</rs> die Firma dem <rs type="person" ref="#wkfm__46132">Eber-
+               <lb break="no" facs="#facs_103_r2l18" n="N016"/>hard Fridrich Wagner</rs> und <rs type="person" ref="#wkfm__46133">Jacob Zollikhoffer</rs> ertheilet und ein solches <hi>mit</hi> in 
                <lb facs="#facs_103_r2l19" n="N017"/>obigen oblatorien dd<hi style="superscript">to</hi> 10<hi style="superscript">ten</hi> May 747 N<hi style="superscript">o</hi> 1111 mit beygerukter Firma dieser beeden
                <lb facs="#facs_103_r2l20" n="N018"/>Firma Tragern kund gemacht.
                <lb facs="#facs_103_r2l21" n="N019"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
-               <lb facs="#facs_103_line_1621958447581_1375" n="N020"/>Die Raggion <rs type="person" ref="wkfm__23520">Küner und Bender</rs> hat die <hi>ob</hi> untern 31<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 732 die oblatorien, <hi><unclear>wie solch mit</unclear></hi>
+               <lb facs="#facs_103_line_1621958447581_1375" n="N020"/>Die Raggion <rs type="person" ref="#wkfm__23520">Küner und Bender</rs> hat die <hi>ob</hi> untern 31<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 732 die oblatorien, <hi><unclear>wie solch mit</unclear></hi>
                <lb facs="#facs_103_r2l24" n="N021"/><choice><expan/><abbr>orig:</abbr></choice> sub N<hi style="superscript">o</hi> 1109 <hi>eingeleget</hi> mitls obigen Anbringen de ps: 28<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 732 N<hi style="superscript">o</hi> 1901 eingeleget worden
-               <lb facs="#facs_103_r2l25" n="N022"/>dahin erlassen, daß die Raggion <rs type="person" ref="wkfm__12421">Isenflam und Küner</rs> sich unter gemelten dato geendiget, und
-               <lb facs="#facs_103_r2l26" n="N023"/>der <rs type="person" ref="wkfm__37955">Jacob Küner</rs> das Negotium in Compagnie des <rs type="person" ref="wkfm__21476">Philipp Jacob Bender</rs> mit beederseitigen
-               <lb facs="#facs_103_r2l27" n="N024"/>obligo und <choice><expan/><abbr>intee</abbr></choice> <hi>zu p</hi> unter der Raggion <rs type="person" ref="wkfm__23520">Küner und Bender</rs> zu prosequiren gesinnet seyn, keiner
+               <lb facs="#facs_103_r2l25" n="N022"/>dahin erlassen, daß die Raggion <rs type="person" ref="#wkfm__12421">Isenflam und Küner</rs> sich unter gemelten dato geendiget, und
+               <lb facs="#facs_103_r2l26" n="N023"/>der <rs type="person" ref="#wkfm__37955">Jacob Küner</rs> das Negotium in Compagnie des <rs type="person" ref="#wkfm__21476">Philipp Jacob Bender</rs> mit beederseitigen
+               <lb facs="#facs_103_r2l27" n="N024"/>obligo und <choice><expan/><abbr>intee</abbr></choice> <hi>zu p</hi> unter der Raggion <rs type="person" ref="#wkfm__23520">Küner und Bender</rs> zu prosequiren gesinnet seyn, keiner
                <lb facs="#facs_103_r2l28" n="N025"/>anderen Firma seye Glauben zu geben alß wie selbe von beeden sociis beygeruket.
                <lb facs="#facs_103_r2l29" n="N026"/>Eben diese Raggion hat die untern 31<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 736 die avocatorien in <choice><expan/><abbr>orig:</abbr></choice> N<hi style="superscript">o</hi> 1110 welche selbe mitls
                <lb facs="#facs_103_r2l30" n="N027"/>Anbringen de ps: 9<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 736 N<hi style="superscript">o</hi> 1904 eingeleget, dahin erlassen, daß ihre Handlungs
-               <lb facs="#facs_103_r2l31" n="N028"/>societaet mit nemlichen dato zu Ende gehe, und dem Stralico der <rs type="person" ref="wkfm__37955">Küner</rs> völlig über sich
+               <lb facs="#facs_103_r2l31" n="N028"/>societaet mit nemlichen dato zu Ende gehe, und dem Stralico der <rs type="person" ref="#wkfm__37955">Küner</rs> völlig über sich
                <lb facs="#facs_103_r2l32" n="N029"/>genohmen habe.
-               <lb facs="#facs_103_r2l33" n="N030"/>Die Raggion <rs type="person" ref="wkfm__40640">Küner und <choice><expan/><abbr>Comp:</abbr></choice></rs> hat die avocatorien und respective oblatorien wie solche mitls Anbringen
+               <lb facs="#facs_103_r2l33" n="N030"/>Die Raggion <rs type="person" ref="#wkfm__40640">Küner und <choice><expan/><abbr>Comp:</abbr></choice></rs> hat die avocatorien und respective oblatorien wie solche mitls Anbringen
                <lb facs="#facs_103_r2l35" n="N031"/>de ps: 18<hi style="superscript">ten</hi> May 747 N<hi style="superscript">o</hi> 941 in <choice><expan/><abbr>orig:</abbr></choice> N<hi style="superscript">o</hi> 1111 eingeleget worden untern 10<hi style="superscript">ten</hi> May 747 dahin erlassen
-               <lb facs="#facs_103_r2l36" n="N032"/>daß <unclear>allschon 11 Jahr verflossen</unclear>, daß der <rs type="person" ref="wkfm__37955">Jacob Küner</rs> den <rs type="person" ref="wkfm__46134">Wolfgang Riesch</rs> in societaet annehmen, diese
-               <lb facs="#facs_103_r2l37" n="N033"/>Societaet seye gegen von dem <rs type="person" ref="wkfm__37955">Küner</rs> <unclear>beschehner</unclear> Befridigung des <rs type="person" ref="wkfm__46134">Riesch</rs> und <unclear>Ubernehmung</unclear> des Stralico geendiget worden
-               <lb facs="#facs_103_line_1621958356527_1359" n="N034"/>der <rs type="person" ref="wkfm__37955">Küner</rs> werde das negotium unter nemlicher Dita <hi>und</hi> jedoch mit seinen alleinigen obligo continuiren die Firma <hi>0</hi>
+               <lb facs="#facs_103_r2l36" n="N032"/>daß <unclear>allschon 11 Jahr verflossen</unclear>, daß der <rs type="person" ref="#wkfm__37955">Jacob Küner</rs> den <rs type="person" ref="#wkfm__46134">Wolfgang Riesch</rs> in societaet annehmen, diese
+               <lb facs="#facs_103_r2l37" n="N033"/>Societaet seye gegen von dem <rs type="person" ref="#wkfm__37955">Küner</rs> <unclear>beschehner</unclear> Befridigung des <rs type="person" ref="#wkfm__46134">Riesch</rs> und <unclear>Ubernehmung</unclear> des Stralico geendiget worden
+               <lb facs="#facs_103_line_1621958356527_1359" n="N034"/>der <rs type="person" ref="#wkfm__37955">Küner</rs> werde das negotium unter nemlicher Dita <hi>und</hi> jedoch mit seinen alleinigen obligo continuiren die Firma <hi>0</hi>
                <lb facs="#facs_103_r2l40" n="N035"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_103_r2l41" n="N036"/><seg type="editorial_comment_seg"><hi>0</hi><note type="editorial_comment_note">Fortsetzung der obigen Rubrik, Zeile 34</note></seg> werde nebst dem <rs type="person" ref="wkfm__37955">Küner</rs> dessen Tochtermann <rs type="person" ref="wkfm__46132">Eberhard Fridrich Wagner</rs> und der
-               <lb facs="#facs_103_r2l42" n="N037"/>in dem Negotio befindliche <rs type="person" ref="wkfm__46133">Jacob Zollikhofer</rs> wie solche in fine beygeruket führen
+               <lb facs="#facs_103_r2l41" n="N036"/><seg type="editorial_comment_seg"><hi>0</hi><note type="editorial_comment_note">Fortsetzung der obigen Rubrik, Zeile 34</note></seg> werde nebst dem <rs type="person" ref="#wkfm__37955">Küner</rs> dessen Tochtermann <rs type="person" ref="#wkfm__46132">Eberhard Fridrich Wagner</rs> und der
+               <lb facs="#facs_103_r2l42" n="N037"/>in dem Negotio befindliche <rs type="person" ref="#wkfm__46133">Jacob Zollikhofer</rs> wie solche in fine beygeruket führen
             </ab>
             
         </div>

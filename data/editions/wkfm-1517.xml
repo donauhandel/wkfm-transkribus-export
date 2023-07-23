@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -73,14 +73,14 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_59" n="59" xml:id="img_0059"/>
+            <pb facs="#facs_59" n="59" xml:id="img_0059" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1517.jpg"/>
             
             <ab facs="#facs_59_r3">
                <lb facs="#facs_59_line_1626260339832_1237" n="N001"/>751
                <lb facs="#facs_59_r3l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_59_r3l2" n="N003"/><rs type="person" ref="wkfm__47436">Singer Joseph</rs> burgerlicher Zukerbäker
+               <lb facs="#facs_59_r3l2" n="N003"/><rs type="person" ref="#wkfm__47436">Singer Joseph</rs> burgerlicher Zukerbäker
                <lb facs="#facs_59_r3l4" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_59_r3l5" n="N005"/><rs type="person" ref="wkfm__47437">Joseph Singer</rs> laut Erklährung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi>
+               <lb facs="#facs_59_r3l5" n="N005"/><rs type="person" ref="#wkfm__47437">Joseph Singer</rs> laut Erklährung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi>
                <lb facs="#facs_59_r3l6" n="N006"/>685
                <lb facs="#facs_59_r3l7" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_59_r3l8" n="N008"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>

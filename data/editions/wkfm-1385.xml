@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -73,14 +73,14 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_33" n="33" xml:id="img_0033"/>
+            <pb facs="#facs_33" n="33" xml:id="img_0033" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1385.jpg"/>
             
             <ab facs="#facs_33_r1">
                <lb facs="#facs_33_line_1625045763312_1571" n="N001"/>685
                <lb facs="#facs_33_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_33_r1l2" n="N003"/><rs type="person" ref="wkfm__5563"><unclear>Reesch</unclear> Johann Friderich</rs> burgerlicher Handlsmann
+               <lb facs="#facs_33_r1l2" n="N003"/><rs type="person" ref="#wkfm__5563"><unclear>Reesch</unclear> Johann Friderich</rs> burgerlicher Handlsmann
                <lb facs="#facs_33_r1l3" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_33_r1l4" n="N005"/><rs type="person" ref="wkfm__46703">Johann Fridrich Reesch</rs> laut Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 626
+               <lb facs="#facs_33_r1l4" n="N005"/><rs type="person" ref="#wkfm__46703">Johann Fridrich Reesch</rs> laut Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 626
                <lb facs="#facs_33_r1l5" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_33_r1l6" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_33_r1l7" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>

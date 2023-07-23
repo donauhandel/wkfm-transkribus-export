@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -78,19 +78,19 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_27" n="27" xml:id="img_0027"/>
+            <pb facs="#facs_27" n="27" xml:id="img_0027" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1485.jpg"/>
             
             <ab facs="#facs_27_r2">
                <lb facs="#facs_27_r2l2" n="N001"/>735
                <lb facs="#facs_27_r2l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_27_r2l3" n="N003"/><rs type="person" ref="wkfm__6108">Schmidt Johann Adam</rs> burgerlicher Handlsmann
+               <lb facs="#facs_27_r2l3" n="N003"/><rs type="person" ref="#wkfm__6108">Schmidt Johann Adam</rs> burgerlicher Handlsmann
                <lb facs="#facs_27_r2l4" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_27_r2l6" n="N005"/><rs type="person" ref="wkfm__47412">Johann Adam Schmidt</rs> laut Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten <choice><expan/><abbr/></choice></hi><choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 669 dann Anbringen 
+               <lb facs="#facs_27_r2l6" n="N005"/><rs type="person" ref="#wkfm__47412">Johann Adam Schmidt</rs> laut Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten <choice><expan/><abbr/></choice></hi><choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 669 dann Anbringen 
                <lb facs="#facs_27_r2l7" n="N006"/>und Procura de ps: et dat: 17<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 726 N<hi style="superscript">o</hi> 1067 et 1066
                <lb facs="#facs_27_r2l8" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
-               <lb facs="#facs_27_r2l9" n="N008"/>Die <rs type="person" ref="wkfm__47413">Schmidt: Wittib Eva Rosina</rs> hat mitls Anbringen de ps: 17<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 726
+               <lb facs="#facs_27_r2l9" n="N008"/>Die <rs type="person" ref="#wkfm__47413">Schmidt: Wittib Eva Rosina</rs> hat mitls Anbringen de ps: 17<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 726
                <lb facs="#facs_27_r2l10" n="N009"/>N<hi style="superscript">o</hi> 1067 angezeiget das sie von unter der Raggio ihres Ehewirthen <choice><expan/><abbr>seel:</abbr></choice> fort-
-               <lb facs="#facs_27_r2l11" n="N010"/>sezenden negotio die Firma ihren Sohn <rs type="person" ref="wkfm__47414">Johann Franz Schmidt</rs> ertheilet
+               <lb facs="#facs_27_r2l11" n="N010"/>sezenden negotio die Firma ihren Sohn <rs type="person" ref="#wkfm__47414">Johann Franz Schmidt</rs> ertheilet
                <lb facs="#facs_27_r2l12" n="N011"/>habe, auch die auf selben ausgestelte <choice><expan/><abbr>orig:</abbr></choice> Procura mit dessen beygeruk-
                <lb facs="#facs_27_r2l13" n="N012"/>ter Firma dd<hi style="superscript">to</hi> eadem N<hi style="superscript">o</hi> 1066 eingeleget
                <lb facs="#facs_27_r2l14" n="N013"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>

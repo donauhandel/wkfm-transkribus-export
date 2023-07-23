@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -80,22 +80,22 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_132" n="132" xml:id="img_0132"/>
+            <pb facs="#facs_132" n="132" xml:id="img_0132" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0452.jpg"/>
             
             <ab facs="#facs_132_r1">
                <lb facs="#facs_132_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
-               <lb facs="#facs_132_r1l2" n="N002"/>In obiger Erklährung <hi>de</hi> sine dato N<hi style="superscript">o</hi> 221 hat der <rs type="person" ref="wkfm__30296">Peter</rs>
-               <lb facs="#facs_132_r1l3" n="N003"/>und <rs type="person" ref="wkfm__34913">Joseph Condray</rs> die Firma gemeinsamlich eingeleget
-               <lb facs="#facs_132_r1l4" n="N004"/>Mitls Anbringen de ps: 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 742 N<hi style="superscript">o</hi> 1908 hat der <rs type="person" ref="wkfm__34913">Joseph Condray</rs>
-               <lb facs="#facs_132_r1l5" n="N005"/>angezeiget, daß der <rs type="person" ref="wkfm__30296">Peter Condray</rs> aus der Handlung getretten
-               <lb facs="#facs_132_r1l6" n="N006"/>und ihm <rs type="person" ref="wkfm__34913">Joseph Condray</rs> solche allein überlassen habe, wernebst
-               <lb facs="#facs_132_r1l7" n="N007"/>selber die von ihm und dem <rs type="person" ref="wkfm__30296">Peter Contray</rs> dahin ausgestelte
+               <lb facs="#facs_132_r1l2" n="N002"/>In obiger Erklährung <hi>de</hi> sine dato N<hi style="superscript">o</hi> 221 hat der <rs type="person" ref="#wkfm__30296">Peter</rs>
+               <lb facs="#facs_132_r1l3" n="N003"/>und <rs type="person" ref="#wkfm__34913">Joseph Condray</rs> die Firma gemeinsamlich eingeleget
+               <lb facs="#facs_132_r1l4" n="N004"/>Mitls Anbringen de ps: 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 742 N<hi style="superscript">o</hi> 1908 hat der <rs type="person" ref="#wkfm__34913">Joseph Condray</rs>
+               <lb facs="#facs_132_r1l5" n="N005"/>angezeiget, daß der <rs type="person" ref="#wkfm__30296">Peter Condray</rs> aus der Handlung getretten
+               <lb facs="#facs_132_r1l6" n="N006"/>und ihm <rs type="person" ref="#wkfm__34913">Joseph Condray</rs> solche allein überlassen habe, wernebst
+               <lb facs="#facs_132_r1l7" n="N007"/>selber die von ihm und dem <rs type="person" ref="#wkfm__30296">Peter Contray</rs> dahin ausgestelte
                <lb facs="#facs_132_r1l8" n="N008"/>Erklährung, daß jedwederer von ihnen denen Handlungs Creditorn
                <lb facs="#facs_132_r1l9" n="N009"/>nach weithershin in solidum hafften wolle dd<hi style="superscript">to</hi> 31<hi style="superscript">ten</hi> <choice><expan/><abbr>Jul:</abbr></choice> 742 N<hi style="superscript">o</hi> <unclear>1909</unclear>
                <lb facs="#facs_132_r1l10" n="N010"/>dann eine Erklährung von Buthon, Passy, Perinet und Violland
                <lb facs="#facs_132_r1l11" n="N011"/>Gebrüder Decret, les Freres Crettier, Ruard und Passy Bedal
-               <lb facs="#facs_132_r1l12" n="N012"/>und Belissier, daß sie als <rs type="person" ref="wkfm__46147">Condray</rs> Handlungs Creditores sich den
-               <lb facs="#facs_132_r1l13" n="N013"/><rs type="person" ref="wkfm__34913">Joseph <hi>Cond</hi> Condrey</rs> allein halten wollen dd<hi style="superscript">to</hi> 27<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 742
+               <lb facs="#facs_132_r1l12" n="N012"/>und Belissier, daß sie als <rs type="person" ref="#wkfm__46147">Condray</rs> Handlungs Creditores sich den
+               <lb facs="#facs_132_r1l13" n="N013"/><rs type="person" ref="#wkfm__34913">Joseph <hi>Cond</hi> Condrey</rs> allein halten wollen dd<hi style="superscript">to</hi> 27<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 742
                <lb facs="#facs_132_r1l14" n="N014"/><hi>N<hi style="superscript"/></hi>o<choice><expan/><abbr>orig:</abbr></choice> N<hi style="superscript">o</hi> 1910 eingeleget.
                <lb facs="#facs_132_r1l15" n="N015"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_132_r1l16" n="N016"/>Anmerckungen

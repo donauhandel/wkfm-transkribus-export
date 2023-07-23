@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -85,27 +85,27 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_183" n="183" xml:id="img_0183"/>
+            <pb facs="#facs_183" n="183" xml:id="img_0183" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0237.jpg"/>
             
             <ab facs="#facs_183_r1">
                <lb facs="#facs_183_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_183_r1l2" n="N003"/><rs type="person" ref="wkfm__29663">Bertolla Bertholomous</rs> burgerlicher Handlsmann
+               <lb facs="#facs_183_r1l2" n="N003"/><rs type="person" ref="#wkfm__29663">Bertolla Bertholomous</rs> burgerlicher Handlsmann
                <lb facs="#facs_183_r1l3" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_183_r1l4" n="N005"/><rs type="person" ref="wkfm__16940">Bartholomio Bertolla</rs> laut Erklährung sind dato N<hi style="superscript">o</hi> 114
+               <lb facs="#facs_183_r1l4" n="N005"/><rs type="person" ref="#wkfm__16940">Bartholomio Bertolla</rs> laut Erklährung sind dato N<hi style="superscript">o</hi> 114
                <lb facs="#facs_183_r1l5" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_183_r1l6" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_183_r1l7" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_183_r1l9" n="N009"/>Der <rs type="person" ref="wkfm__29663">Bertolla</rs> hat seinen Fundum mitls anbringen de ps: 4<hi style="superscript">ten</hi> Junii 736 N<hi style="superscript">o</hi>
-               <lb facs="#facs_183_r1l10" n="N010"/>1168 folgender maßen ausgewisen: laut mit der <rs type="person" ref="wkfm__47359">Maria Theresia
+               <lb facs="#facs_183_r1l9" n="N009"/>Der <rs type="person" ref="#wkfm__29663">Bertolla</rs> hat seinen Fundum mitls anbringen de ps: 4<hi style="superscript">ten</hi> Junii 736 N<hi style="superscript">o</hi>
+               <lb facs="#facs_183_r1l10" n="N010"/>1168 folgender maßen ausgewisen: laut mit der <rs type="person" ref="#wkfm__47359">Maria Theresia
                <lb break="no" facs="#facs_183_r1l11" n="N011"/>Weisin</rs> <hi>zu</hi> untern 27<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 735 <seg type="editorial_comment_seg">geschossenen<note type="editorial_comment_note">geschlossenen</note></seg> Handlungs Kauf Contract
                <lb facs="#facs_183_r1l12" n="N012"/>in Copia vidimata N<hi style="superscript">o</hi> 1167 und in selber beygerukter Quittung
                <lb facs="#facs_183_r1l13" n="N013"/>habe er an dem Kaufschilling allschon 4231 fl 20 x<hi style="superscript">r</hi> und da für die
-               <lb facs="#facs_183_r1l14" n="N014"/>von ihm rukständig gebliebenen Kaufschilling des <rs type="person" ref="wkfm__18406">Johann di S. Nicolo</rs>
+               <lb facs="#facs_183_r1l14" n="N014"/>von ihm rukständig gebliebenen Kaufschilling des <rs type="person" ref="#wkfm__18406">Johann di S. Nicolo</rs>
                <lb facs="#facs_183_r1l15" n="N015"/><hi>alß</hi> sich in eben diesen Kauf Contract als Bürg und Zahler Constituiret
                <lb facs="#facs_183_r1l16" n="N016"/>in anbey dem nächsten von Haus etliche 1000 fl erwarthe, alß verhoffe
                <lb facs="#facs_183_r1l17" n="N017"/>er seinen fundum ausgewiesen zu haben. Diese Ausweisung ist laut der hierauf
-               <lb facs="#facs_183_r1l18" n="N018"/>untern 8<hi style="superscript">ten</hi> Junii 736 ergangen decretation, nur über den von dem <rs type="person" ref="wkfm__18406">Johann di
-               <lb break="no" facs="#facs_183_line_1621470378583_3453" n="N019"/>S. Nicolo</rs> gerichtlich gethane Erklährung, daß er in solang bis der <rs type="person" ref="wkfm__29663">Bertollo</rs> das
+               <lb facs="#facs_183_r1l18" n="N018"/>untern 8<hi style="superscript">ten</hi> Junii 736 ergangen decretation, nur über den von dem <rs type="person" ref="#wkfm__18406">Johann di
+               <lb break="no" facs="#facs_183_line_1621470378583_3453" n="N019"/>S. Nicolo</rs> gerichtlich gethane Erklährung, daß er in solang bis der <rs type="person" ref="#wkfm__29663">Bertollo</rs> das
                <lb facs="#facs_183_r1l21" n="N020"/>erforderliche patentmäßig handlungs capital selbst wird zeigen können, mit seiner
                <lb facs="#facs_183_r1l22" n="N021"/>geleisteten Caution hafften wollen, angenohmen worden.
             </ab>

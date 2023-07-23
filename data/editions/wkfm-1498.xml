@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -81,16 +81,16 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_40" n="40" xml:id="img_0040"/>
+            <pb facs="#facs_40" n="40" xml:id="img_0040" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1498.jpg"/>
             
             <ab facs="#facs_40_r1">
                <lb facs="#facs_40_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
-               <lb facs="#facs_40_r1l2" n="N002"/>Mitls Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 2042 hat der <rs type="person" ref="wkfm__21800">Matthias
-               <lb break="no" facs="#facs_40_r1l3" n="N003"/>Stockhinger</rs> nebst dem <rs type="person" ref="wkfm__47422">Georg Albrecht Eberhard</rs> sich geäusseret
+               <lb facs="#facs_40_r1l2" n="N002"/>Mitls Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 2042 hat der <rs type="person" ref="#wkfm__21800">Matthias
+               <lb break="no" facs="#facs_40_r1l3" n="N003"/>Stockhinger</rs> nebst dem <rs type="person" ref="#wkfm__47422">Georg Albrecht Eberhard</rs> sich geäusseret
                <lb facs="#facs_40_r1l4" n="N004"/>das sie bede in Compagnie Handln<hi>ung</hi>
                <lb facs="#facs_40_r1l6" n="N005"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
-               <lb facs="#facs_40_r1l7" n="N006"/>Mitls Anbringen de ps: 30<hi style="superscript">ten</hi> Julii 736 N<hi style="superscript">o</hi> 2222 hat der <rs type="person" ref="wkfm__21800">Stockhinger</rs> den mit der
-               <lb facs="#facs_40_r1l8" n="N007"/><rs type="person" ref="wkfm__47423">Maria Agnes Kratschin vorhin Herzogin gebohrnen Humblin</rs> untern 24<hi style="superscript">ten</hi>
+               <lb facs="#facs_40_r1l7" n="N006"/>Mitls Anbringen de ps: 30<hi style="superscript">ten</hi> Julii 736 N<hi style="superscript">o</hi> 2222 hat der <rs type="person" ref="#wkfm__21800">Stockhinger</rs> den mit der
+               <lb facs="#facs_40_r1l8" n="N007"/><rs type="person" ref="#wkfm__47423">Maria Agnes Kratschin vorhin Herzogin gebohrnen Humblin</rs> untern 24<hi style="superscript">ten</hi>
                <lb facs="#facs_40_r1l9" n="N008"/>Junii d.a. geschlossenen Heurathscontract N<hi style="superscript">o</hi> 2221 in Copia vidimata einge-
                <lb facs="#facs_40_r1l10" n="N009"/>leget kraft welchen 500 fl Heurathgutt nebst 1000 fl Widerlag auf Überleben
                <lb facs="#facs_40_r1l11" n="N010"/>dann jenes was wehrender Ehe erworben und ererbet wird überhaupt, das gegen-

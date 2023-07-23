@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -90,18 +90,18 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_97" n="97" xml:id="img_0097"/>
+            <pb facs="#facs_97" n="97" xml:id="img_0097" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0597.jpg"/>
             
             <ab facs="#facs_97_r2">
                <lb facs="#facs_97_r2l2" n="N002"/>296
                <lb facs="#facs_97_r2l1" n="N003"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_97_r2l3" n="N004"/><rs type="person" ref="wkfm__46279">Denkh Simon Anton</rs> burgerlicher Handlsmann
+               <lb facs="#facs_97_r2l3" n="N004"/><rs type="person" ref="#wkfm__46279">Denkh Simon Anton</rs> burgerlicher Handlsmann
                <lb facs="#facs_97_r2l4" n="N005"/>Firma ad Raggion
-               <lb facs="#facs_97_r2l5" n="N006"/><rs type="person" ref="wkfm__46280">Simon Antony Denkh</rs> laut Erklährung dd<hi style="superscript">to</hi> 9<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 744 N<hi style="superscript">o</hi> 288
+               <lb facs="#facs_97_r2l5" n="N006"/><rs type="person" ref="#wkfm__46280">Simon Antony Denkh</rs> laut Erklährung dd<hi style="superscript">to</hi> 9<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 744 N<hi style="superscript">o</hi> 288
                <lb facs="#facs_97_r2l6" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_97_r2l7" n="N008"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_97_r2l8" n="N009"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_97_r2l9" n="N010"/>Der <rs type="person" ref="wkfm__46279">Denk</rs> hat seinen Handlungs Fundum mitls den von selben untern 8<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice>
+               <lb facs="#facs_97_r2l9" n="N010"/>Der <rs type="person" ref="#wkfm__46279">Denk</rs> hat seinen Handlungs Fundum mitls den von selben untern 8<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice>
                <lb facs="#facs_97_line_1621965954190_4522" n="N011"/>744 beeydigten specification N<hi style="superscript">o</hi> 1365 dahin folgender maßen ausgewisen, nemlich
                <lb facs="#facs_97_r2l12" n="N012"/>daß er eigenthulich besize alß
                <lb facs="#facs_97_line_1621966295570_4688" n="N013"/>an dem Faßmann laut Quittung dd<hi style="superscript">to</hi> 24<hi style="superscript">ten</hi> Julii 744 auf die Handlung bezahlt 800 fl
@@ -111,13 +111,13 @@
                <lb facs="#facs_97_line_1621966044138_4571" n="N017"/>Ein Monetische <choice><expan/><abbr>oblig:</abbr></choice> dd<hi style="superscript">to</hi> 15<hi style="superscript">ten</hi> Julii 738 <choice><expan/><abbr>pr</abbr></choice> 292 fl
                <lb facs="#facs_97_line_1621966063239_4590" n="N018"/>an Einrichtung <choice><expan/><abbr>pr</abbr></choice> 300 fl
                <lb facs="#facs_97_line_1621966094174_4606" n="N019"/>zusamen Eigenthum 3192 fl
-               <lb facs="#facs_97_r2l32" n="N020"/>Zu Completirung des übrigen habe der<rs type="person" ref="wkfm__43989"> Jacob Matthaeus Schmid</rs> das Cautions
+               <lb facs="#facs_97_r2l32" n="N020"/>Zu Completirung des übrigen habe der<rs type="person" ref="#wkfm__43989"> Jacob Matthaeus Schmid</rs> das Cautions
                <lb facs="#facs_97_line_1621966108051_4614" n="N021"/>Instrument dd<hi style="superscript">to</hi> 3<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 744 eingeleget <choice><expan/><abbr>pr</abbr></choice> 4808 fl
                <lb facs="#facs_97_r2l39" n="N022"/><choice><expan/><abbr>Sa</abbr></choice> 8000 fl
                <lb facs="#facs_97_line_1621966318938_4709" n="N023"/>Über die mitls Anbringen de ps: 14<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 752 N<hi style="superscript">o</hi> 1366 eingelegte und von dem Supl: unter 23<hi style="superscript">ten</hi> ej:
                <lb facs="#facs_97_r2l40" n="N024"/>mit einem Cörperlichen Eyd <choice><expan/><abbr>pr</abbr></choice> 9736 fl 15 x<hi style="superscript">r</hi> bestattigte <choice><expan/><abbr>orig:</abbr></choice> Billanz N<hi style="superscript">o</hi> 1367 zu folge Auflag
                <lb facs="#facs_97_line_1621966336544_4722" n="N025"/>dd<hi style="superscript">to</hi> 31<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> laut beygerukter Quittung dd<hi style="superscript">to</hi> 3<hi style="superscript">ten</hi> <choice><expan/><abbr>Feb:</abbr></choice> 752 N<hi style="superscript">o</hi> 1368 obige Cautions
-               <lb facs="#facs_97_r2l42" n="N026"/>Instrument dem <rs type="person" ref="wkfm__46279">Denkh</rs> extradiret worden.
+               <lb facs="#facs_97_r2l42" n="N026"/>Instrument dem <rs type="person" ref="#wkfm__46279">Denkh</rs> extradiret worden.
             </ab>
             
         </div>

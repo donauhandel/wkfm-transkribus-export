@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -80,20 +80,20 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_81" n="81" xml:id="img_0081"/>
+            <pb facs="#facs_81" n="81" xml:id="img_0081" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0749.jpg"/>
             
             <ab facs="#facs_81_r2">
                <lb facs="#facs_81_r2l3" n="N001"/>372
                <lb facs="#facs_81_r2l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_81_line_1621692331776_213" n="N003"/><rs type="person" ref="wkfm__47110">Feigl Ignaz Franz Anton</rs> burgerlicher Handlsmann
+               <lb facs="#facs_81_line_1621692331776_213" n="N003"/><rs type="person" ref="#wkfm__47110">Feigl Ignaz Franz Anton</rs> burgerlicher Handlsmann
                <lb facs="#facs_81_r2l5" n="N004"/>Firma ad Raggion
                <lb facs="#facs_81_r2l6" n="N005"/><rs type="person">Ignatzi Frantz Anonj Feigl</rs> laut Erklährung dd<hi style="superscript">to</hi> 18<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 733
                <lb facs="#facs_81_r2l7" n="N006"/>N<hi style="superscript">o</hi> 355
                <lb facs="#facs_81_r2l8" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
-               <lb facs="#facs_81_r2l9" n="N008"/>Vermög Anbringen de ps<hi style="superscript">to</hi> 10 <choice><expan/><abbr>9br:</abbr></choice> 777 hat der <rs type="person" ref="wkfm__47110">Ignatz Feigl</rs>
-               <lb facs="#facs_81_line_1621701427453_324" n="N009"/>angezeiget, daß er seine Firma an <unclear>den</unclear> <rs type="person" ref="wkfm__47112"><unclear>Jakob Weibel</unclear></rs> laut
+               <lb facs="#facs_81_r2l9" n="N008"/>Vermög Anbringen de ps<hi style="superscript">to</hi> 10 <choice><expan/><abbr>9br:</abbr></choice> 777 hat der <rs type="person" ref="#wkfm__47110">Ignatz Feigl</rs>
+               <lb facs="#facs_81_line_1621701427453_324" n="N009"/>angezeiget, daß er seine Firma an <unclear>den</unclear> <rs type="person" ref="#wkfm__47112"><unclear>Jakob Weibel</unclear></rs> laut
                <lb facs="#facs_81_r2l11" n="N010"/>Erklährung <unclear>et</unclear> dd<hi style="superscript">to</hi> 5 Junij 777: per procura übertragen
-               <lb facs="#facs_81_r2l12" n="N011"/>habe. und firmiret <rs type="person" ref="wkfm__47112">Jakob Weil</rs> per procura <rs type="person" ref="wkfm__47110">Ignatz
+               <lb facs="#facs_81_r2l12" n="N011"/>habe. und firmiret <rs type="person" ref="#wkfm__47112">Jakob Weil</rs> per procura <rs type="person" ref="#wkfm__47110">Ignatz
                <lb break="no" facs="#facs_81_r2l13" n="N012"/>Feigl</rs>:
                <lb facs="#facs_81_r2l14" n="N013"/>den Firmen und Procuren <unclear>á</unclear> N<hi style="superscript">o</hi> 1 bis 493: Sub: N<hi style="superscript">o</hi> 355 1/2
                <lb facs="#facs_81_r2l15" n="N014"/>beygelegt.

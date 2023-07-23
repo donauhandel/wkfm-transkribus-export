@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -82,24 +82,24 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_72" n="72" xml:id="img_0072"/>
+            <pb facs="#facs_72" n="72" xml:id="img_0072" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1256.jpg"/>
             
             <ab facs="#facs_72_r1">
                <lb facs="#facs_72_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
-               <lb facs="#facs_72_r1l2" n="N002"/>Der <rs type="person" ref="wkfm__10641">Carl Joseph Moser</rs> hat mitls <hi>dem Adam</hi> Anbringen de ps: 5<hi style="superscript">ten</hi> Martii
-               <lb facs="#facs_72_r1l3" n="N003"/>736 N<hi style="superscript">o</hi> 2001 angezeiget, das er sich dem <rs type="person" ref="wkfm__46560">Johann Adam Paumgartner</rs> associi-
+               <lb facs="#facs_72_r1l2" n="N002"/>Der <rs type="person" ref="#wkfm__10641">Carl Joseph Moser</rs> hat mitls <hi>dem Adam</hi> Anbringen de ps: 5<hi style="superscript">ten</hi> Martii
+               <lb facs="#facs_72_r1l3" n="N003"/>736 N<hi style="superscript">o</hi> 2001 angezeiget, das er sich dem <rs type="person" ref="#wkfm__46560">Johann Adam Paumgartner</rs> associi-
                <lb facs="#facs_72_r1l4" n="N004"/>ret habe und die Handlung unter der Societaets Raggion <rs type="person">Carl Joseph Moser
                <lb break="no" facs="#facs_72_r1l5" n="N005"/>Mitls Anbringen de ps <unclear>5<hi style="superscript"/></unclear><hi style="superscript"/></rs>ten
-               <lb facs="#facs_72_r1l6" n="N006"/><rs type="person" ref="wkfm__43924">et <choice><expan/><abbr>Compagn:</abbr></choice></rs> furgeführet werden wurden. Wie dann auch der <rs type="person" ref="wkfm__46560">Paum-
-               <lb break="no" facs="#facs_72_r1l7" n="N007"/>gartner</rs> den mit dem <rs type="person" ref="wkfm__10641">Moser</rs> unterm 1<hi style="superscript">ten</hi> Julii 735 abgeschlossenen societaets
+               <lb facs="#facs_72_r1l6" n="N006"/><rs type="person" ref="#wkfm__43924">et <choice><expan/><abbr>Compagn:</abbr></choice></rs> furgeführet werden wurden. Wie dann auch der <rs type="person" ref="#wkfm__46560">Paum-
+               <lb break="no" facs="#facs_72_r1l7" n="N007"/>gartner</rs> den mit dem <rs type="person" ref="#wkfm__10641">Moser</rs> unterm 1<hi style="superscript">ten</hi> Julii 735 abgeschlossenen societaets
                <lb facs="#facs_72_r1l8" n="N008"/>Contract N<hi style="superscript">o</hi> 1869 in Copia vidimata eingeleget, kraft welchen der Fundum
-               <lb facs="#facs_72_r1l9" n="N009"/>Negotii in einem Waaren Lager von 41120 fl bestehen hierzu der <rs type="person" ref="wkfm__46560">Paumgar-
-               <lb break="no" facs="#facs_72_r1l10" n="N010"/>ner</rs> <choice><expan/><abbr>pr</abbr></choice> 6000 fl in Werth das übrige der <rs type="person" ref="wkfm__10641">Moser</rs> einlegen, die Nuzung über
+               <lb facs="#facs_72_r1l9" n="N009"/>Negotii in einem Waaren Lager von 41120 fl bestehen hierzu der <rs type="person" ref="#wkfm__46560">Paumgar-
+               <lb break="no" facs="#facs_72_r1l10" n="N010"/>ner</rs> <choice><expan/><abbr>pr</abbr></choice> 6000 fl in Werth das übrige der <rs type="person" ref="#wkfm__10641">Moser</rs> einlegen, die Nuzung über
                <lb facs="#facs_72_r1l11" n="N011"/>abzug aller Unkosten in 2 gleich Theil zertheilet und jedwedern hivon 1 theil
-               <lb facs="#facs_72_r1l12" n="N012"/>zukommen, nach 2 Jahren aber dem <rs type="person" ref="wkfm__10641">Moser</rs> seinen <rs type="person" ref="wkfm__46908">Sohn</rs> in Compagnie zu nehmen be-
+               <lb facs="#facs_72_r1l12" n="N012"/>zukommen, nach 2 Jahren aber dem <rs type="person" ref="#wkfm__10641">Moser</rs> seinen <rs type="person" ref="#wkfm__46908">Sohn</rs> in Compagnie zu nehmen be-
                <lb facs="#facs_72_r1l13" n="N013"/>vorstehen, und sohin die Nuzung in 3 Theil zertheilet und der dritte Theil gedachtem
-               <lb facs="#facs_72_r1l14" n="N014"/><rs type="person" ref="wkfm__46908">Moser: Sohn</rs> zuwachsen, die Raggion solang ein <rs type="person" ref="wkfm__10641">Moser Vatter</rs> oder <rs type="person" ref="wkfm__46908">Sohn</rs> hierunter
-               <lb facs="#facs_72_r1l15" n="N015"/>begriffen, <rs type="person" ref="wkfm__43924">Carl Joseph Moser et <choice><expan/><abbr>Compag:</abbr></choice></rs> laufen, dann die Zwistigkeiten nicht anderst
+               <lb facs="#facs_72_r1l14" n="N014"/><rs type="person" ref="#wkfm__46908">Moser: Sohn</rs> zuwachsen, die Raggion solang ein <rs type="person" ref="#wkfm__10641">Moser Vatter</rs> oder <rs type="person" ref="#wkfm__46908">Sohn</rs> hierunter
+               <lb facs="#facs_72_r1l15" n="N015"/>begriffen, <rs type="person" ref="#wkfm__43924">Carl Joseph Moser et <choice><expan/><abbr>Compag:</abbr></choice></rs> laufen, dann die Zwistigkeiten nicht anderst
                <lb facs="#facs_72_r1l16" n="N016"/>als von zwey Handlungs Verständigen bey 1000 <choice><expan>Reichstaler</expan><abbr>Rth</abbr></choice>: Straf zur burgerlad ausgemachet werden <unclear>sollen</unclear>
                <lb facs="#facs_72_r1l17" n="N017"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_72_r1l18" n="N018"/>Anmerckungen

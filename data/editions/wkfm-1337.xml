@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -75,18 +75,18 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_9" n="9" xml:id="img_0009"/>
+            <pb facs="#facs_9" n="9" xml:id="img_0009" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1337.jpg"/>
             
             <ab facs="#facs_9_r2">
                <lb facs="#facs_9_r2l2" n="N001"/>661
                <lb facs="#facs_9_r2l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_9_r2l3" n="N003"/><rs type="person" ref="wkfm__9606">Ostermayr David</rs> Kay. König: Niderlags Verwanter
+               <lb facs="#facs_9_r2l3" n="N003"/><rs type="person" ref="#wkfm__9606">Ostermayr David</rs> Kay. König: Niderlags Verwanter
                <lb facs="#facs_9_r2l4" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_9_r2l5" n="N005"/><rs type="person" ref="wkfm__46647">David Ostermayr</rs> laut Procura dd<hi style="superscript">to</hi> 10<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 725 N<hi style="superscript">o</hi> 1044
+               <lb facs="#facs_9_r2l5" n="N005"/><rs type="person" ref="#wkfm__46647">David Ostermayr</rs> laut Procura dd<hi style="superscript">to</hi> 10<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 725 N<hi style="superscript">o</hi> 1044
                <lb facs="#facs_9_r2l6" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
-               <lb facs="#facs_9_r2l7" n="N007"/>Mitls Anbringen de ps: 30<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 725 N<hi style="superscript">o</hi> 1045 hat der <rs type="person" ref="wkfm__9606">Ostermayr</rs> die
-               <lb facs="#facs_9_r2l8" n="N008"/>seinem Bedienten <rs type="person" ref="wkfm__29746">David Niggus</rs> ertheilte <choice><expan/><abbr>orig:</abbr></choice> Procura mit beygerukter
-               <lb facs="#facs_9_r2l9" n="N009"/>Firma des <rs type="person" ref="wkfm__29746">Niggus</rs> N<hi style="superscript">o</hi> 1044 eingeleget
+               <lb facs="#facs_9_r2l7" n="N007"/>Mitls Anbringen de ps: 30<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 725 N<hi style="superscript">o</hi> 1045 hat der <rs type="person" ref="#wkfm__9606">Ostermayr</rs> die
+               <lb facs="#facs_9_r2l8" n="N008"/>seinem Bedienten <rs type="person" ref="#wkfm__29746">David Niggus</rs> ertheilte <choice><expan/><abbr>orig:</abbr></choice> Procura mit beygerukter
+               <lb facs="#facs_9_r2l9" n="N009"/>Firma des <rs type="person" ref="#wkfm__29746">Niggus</rs> N<hi style="superscript">o</hi> 1044 eingeleget
                <lb facs="#facs_9_r2l10" n="N010"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_9_r2l11" n="N011"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
             </ab>

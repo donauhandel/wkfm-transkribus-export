@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -73,15 +73,15 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_53" n="53" xml:id="img_0053"/>
+            <pb facs="#facs_53" n="53" xml:id="img_0053" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0865.jpg"/>
             
             <ab facs="#facs_53_r1">
                <lb facs="#facs_53_r1l2" n="N001"/>430
                <lb facs="#facs_53_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_53_r1l3" n="N003"/><rs type="person" ref="wkfm__19817">Gouttro Franz</rs> burgerlicher Handlsmann
+               <lb facs="#facs_53_r1l3" n="N003"/><rs type="person" ref="#wkfm__19817">Gouttro Franz</rs> burgerlicher Handlsmann
                <lb facs="#facs_53_r1l4" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_53_r1l5" n="N005"/><rs type="person" ref="wkfm__46335">Frantz Gouttro</rs> laut Erklährung dd<hi style="superscript">to</hi> 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Jul:</abbr></choice> 726 N<hi style="superscript">o</hi> 407
-               <lb facs="#facs_53_r1l6" n="N006"/><rs type="person" ref="wkfm__46333">Gouttro et Schußböckh</rs> laut Erklährung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 747 N<hi style="superscript">o</hi> 1952
+               <lb facs="#facs_53_r1l5" n="N005"/><rs type="person" ref="#wkfm__46335">Frantz Gouttro</rs> laut Erklährung dd<hi style="superscript">to</hi> 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Jul:</abbr></choice> 726 N<hi style="superscript">o</hi> 407
+               <lb facs="#facs_53_r1l6" n="N006"/><rs type="person" ref="#wkfm__46333">Gouttro et Schußböckh</rs> laut Erklährung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 747 N<hi style="superscript">o</hi> 1952
                <lb facs="#facs_53_r1l8" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_53_r1l9" n="N008"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_53_r1l10" n="N009"/><seg type="orighead__fundi">Fundi Ausweisung</seg>

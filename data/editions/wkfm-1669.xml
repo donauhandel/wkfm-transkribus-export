@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -89,34 +89,34 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_211" n="211" xml:id="img_0211"/>
+            <pb facs="#facs_211" n="211" xml:id="img_0211" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1669.jpg"/>
             
             <ab facs="#facs_211_r2">
                <lb facs="#facs_211_r2l2" n="N001"/>827
                <lb facs="#facs_211_r2l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_211_r2l3" n="N003"/>Von <rs type="person" ref="wkfm__44053">Schmidt Johann Andre</rs> kay: könig: Niderlags Verwanter
+               <lb facs="#facs_211_r2l3" n="N003"/>Von <rs type="person" ref="#wkfm__44053">Schmidt Johann Andre</rs> kay: könig: Niderlags Verwanter
                <lb facs="#facs_211_r2l5" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_211_r2l7" n="N005"/><rs type="person" ref="wkfm__44048">Zacharias Kriner Schmidt et <choice><expan/><abbr>Comp:</abbr></choice></rs> laut Anbringen de ps: 9<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 727 N<hi style="superscript">o</hi> 1899
-               <lb facs="#facs_211_r2l9" n="N006"/><rs type="person" ref="wkfm__44049">Kriner Schmidt und Scheidlin</rs> laut Anbringen de ps: 27<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 728 N<hi style="superscript">o</hi> 935
-               <lb facs="#facs_211_r2l10" n="N007"/><rs type="person" ref="wkfm__44050">Kriner und Schmidt</rs> laut avocatorien dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 748 N<hi style="superscript">o</hi> 1149
+               <lb facs="#facs_211_r2l7" n="N005"/><rs type="person" ref="#wkfm__44048">Zacharias Kriner Schmidt et <choice><expan/><abbr>Comp:</abbr></choice></rs> laut Anbringen de ps: 9<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 727 N<hi style="superscript">o</hi> 1899
+               <lb facs="#facs_211_r2l9" n="N006"/><rs type="person" ref="#wkfm__44049">Kriner Schmidt und Scheidlin</rs> laut Anbringen de ps: 27<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 728 N<hi style="superscript">o</hi> 935
+               <lb facs="#facs_211_r2l10" n="N007"/><rs type="person" ref="#wkfm__44050">Kriner und Schmidt</rs> laut avocatorien dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 748 N<hi style="superscript">o</hi> 1149
                <lb facs="#facs_211_r2l12" n="N008"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
-               <lb facs="#facs_211_r2l13" n="N009"/>Die Raggion <hi>Kriner</hi> <rs type="person" ref="wkfm__44048">Zacharias Kriner Schmidt <hi>und</hi> et <choice><expan/><abbr>Comp:</abbr></choice></rs> hat in obigen anbringen de ps: 9<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice>
-               <lb facs="#facs_211_r2l15" n="N010"/>727 N<hi style="superscript">o</hi> 1899 angezeiget, daß von selber allein der Firma ihres <rs type="person" ref="wkfm__11308">Mattheus <unclear>Laßgallners</unclear></rs>
+               <lb facs="#facs_211_r2l13" n="N009"/>Die Raggion <hi>Kriner</hi> <rs type="person" ref="#wkfm__44048">Zacharias Kriner Schmidt <hi>und</hi> et <choice><expan/><abbr>Comp:</abbr></choice></rs> hat in obigen anbringen de ps: 9<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice>
+               <lb facs="#facs_211_r2l15" n="N010"/>727 N<hi style="superscript">o</hi> 1899 angezeiget, daß von selber allein der Firma ihres <rs type="person" ref="#wkfm__11308">Mattheus <unclear>Laßgallners</unclear></rs>
                <lb facs="#facs_211_r2l16" n="N011"/>Glauben zu geben seye.
-               <lb facs="#facs_211_r2l17" n="N012"/>Die Raggion <rs type="person" ref="wkfm__44049">Kriner Schmidt und Scheidlin</rs> hat sich in obigen anbringen de ps: 27<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice>
-               <lb facs="#facs_211_r2l18" n="N013"/>728 N<hi style="superscript">o</hi> 935 erklähret, das ihre Firma allein von <rs type="person" ref="wkfm__44051">Johann Caspar Scheidlin</rs> und in
-               <lb facs="#facs_211_r2l21" n="N014"/>dessen Abwesenheit von ihrem Cassier <rs type="person" ref="wkfm__9744">Peter Kuzer</rs> werde geführet werden.
+               <lb facs="#facs_211_r2l17" n="N012"/>Die Raggion <rs type="person" ref="#wkfm__44049">Kriner Schmidt und Scheidlin</rs> hat sich in obigen anbringen de ps: 27<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice>
+               <lb facs="#facs_211_r2l18" n="N013"/>728 N<hi style="superscript">o</hi> 935 erklähret, das ihre Firma allein von <rs type="person" ref="#wkfm__44051">Johann Caspar Scheidlin</rs> und in
+               <lb facs="#facs_211_r2l21" n="N014"/>dessen Abwesenheit von ihrem Cassier <rs type="person" ref="#wkfm__9744">Peter Kuzer</rs> werde geführet werden.
                <lb facs="#facs_211_r2l24" n="N015"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
-               <lb facs="#facs_211_r2l25" n="N016"/>Die Raggion <rs type="person" ref="wkfm__44049">Kriner Schmidt und Scheidlin</rs> hat mitls avocatorien dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 748 N<hi style="superscript">o</hi> 1149
-               <lb facs="#facs_211_r2l26" n="N017"/>in <choice><expan/><abbr>orig:</abbr></choice> wie auch der <rs type="person" ref="wkfm__44051">Johann Caspar v. Scheidlin</rs> <hi>dd<hi style="superscript"/></hi>to<hi style="superscript">to</hi>
+               <lb facs="#facs_211_r2l25" n="N016"/>Die Raggion <rs type="person" ref="#wkfm__44049">Kriner Schmidt und Scheidlin</rs> hat mitls avocatorien dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 748 N<hi style="superscript">o</hi> 1149
+               <lb facs="#facs_211_r2l26" n="N017"/>in <choice><expan/><abbr>orig:</abbr></choice> wie auch der <rs type="person" ref="#wkfm__44051">Johann Caspar v. Scheidlin</rs> <hi>dd<hi style="superscript"/></hi>to<hi style="superscript">to</hi>
                <lb facs="#facs_211_r2l27" n="N018"/>eadem N<hi style="superscript">o</hi> 1148 in <choice><expan/><abbr>orig:</abbr></choice> kund gemacht das ihre societaet mit Ende diß Jahres aufhören und
-               <lb facs="#facs_211_r2l28" n="N019"/>kunftighin der <rs type="person" ref="wkfm__44053">Johann Andre von Schmidt</rs> <seg type="editorial_comment_seg"><hi>0</hi><note type="editorial_comment_note">Einfügung unter Fundi Ausweisung</note></seg> sowohl, alß auch der <rs type="person" ref="wkfm__44051">Johann Caspar v.
+               <lb facs="#facs_211_r2l28" n="N019"/>kunftighin der <rs type="person" ref="#wkfm__44053">Johann Andre von Schmidt</rs> <seg type="editorial_comment_seg"><hi>0</hi><note type="editorial_comment_note">Einfügung unter Fundi Ausweisung</note></seg> sowohl, alß auch der <rs type="person" ref="#wkfm__44051">Johann Caspar v.
                <lb break="no" facs="#facs_211_r2l29" n="N020"/>Scheidlin</rs> unter seinen eigenen Nahmen jeder für sich negotiren werden anbey hätten
-               <lb facs="#facs_211_r2l30" n="N021"/>sich die Freunde mit ihren noch offenhabenden Rechnungen an <rs type="person" ref="wkfm__44051">Johann Caspar
+               <lb facs="#facs_211_r2l30" n="N021"/>sich die Freunde mit ihren noch offenhabenden Rechnungen an <rs type="person" ref="#wkfm__44051">Johann Caspar
                <lb break="no" facs="#facs_211_r2l31" n="N022"/>von Scheidlin</rs> in Wienn zu addressiren, welcher solche nach ihrer Einverständnus
                <lb facs="#facs_211_r2l32" n="N023"/>in besorgung zu nehmen und zu adjustiren habe.
                <lb facs="#facs_211_r2l33" n="N024"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_211_r2l34" n="N025"/><hi>0</hi> unter der Raggion <rs type="person" ref="wkfm__44050">Kriner und Schmidt</rs>
+               <lb facs="#facs_211_r2l34" n="N025"/><hi>0</hi> unter der Raggion <rs type="person" ref="#wkfm__44050">Kriner und Schmidt</rs>
             </ab>
             
         </div>

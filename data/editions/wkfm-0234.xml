@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -72,12 +72,12 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_180" n="180" xml:id="img_0180"/>
+            <pb facs="#facs_180" n="180" xml:id="img_0180" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0234.jpg"/>
             
             <ab facs="#facs_180_r1">
                <lb facs="#facs_180_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_180_r1l2" n="N002"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
-               <lb facs="#facs_180_r1l3" n="N003"/>Mitls Anbringen de ps: 13<hi style="superscript">ten</hi> <choice><expan/><abbr>Jan:</abbr></choice> 738 N<hi style="superscript">o</hi> 2090 hat der <rs type="person" ref="wkfm__27912">Bäbitsch</rs> den mit der <rs type="person" ref="wkfm__43923">M <gap/>
+               <lb facs="#facs_180_r1l3" n="N003"/>Mitls Anbringen de ps: 13<hi style="superscript">ten</hi> <choice><expan/><abbr>Jan:</abbr></choice> 738 N<hi style="superscript">o</hi> 2090 hat der <rs type="person" ref="#wkfm__27912">Bäbitsch</rs> den mit der <rs type="person" ref="#wkfm__43923">M <gap/>
                <lb break="no" facs="#facs_180_r1l4" n="N004"/>Francisca <unclear>Dietzin</unclear></rs> untern 10<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 737 errichteten Heuraths Contract N<hi style="superscript">o</hi> 2089 in copia
                <lb facs="#facs_180_r1l5" n="N005"/>vidimata eingeleget, krafft welchen <unclear>600</unclear> fl Heuraths Gutt <hi>nebst</hi> und 500 fl zur <seg type="editorial_comment_seg">Wi<gap/><note type="editorial_comment_note">Widerlag (?)</note></seg>
                <lb facs="#facs_180_r1l6" n="N006"/>zines anbey was wehrender Ehe erworben und ererbet würd, als ein gleiches

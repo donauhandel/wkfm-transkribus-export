@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -91,34 +91,34 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_103" n="103" xml:id="img_0103"/>
+            <pb facs="#facs_103" n="103" xml:id="img_0103" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1023.jpg"/>
             
             <ab facs="#facs_103_r1">
                <lb facs="#facs_103_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_103_r1l2" n="N003"/><rs type="person" ref="wkfm__46521">von Hößlin Philipp Albrecht</rs> k. k. Niderlags Verwanter
+               <lb facs="#facs_103_r1l2" n="N003"/><rs type="person" ref="#wkfm__46521">von Hößlin Philipp Albrecht</rs> k. k. Niderlags Verwanter
                <lb facs="#facs_103_r1l3" n="N004"/>Firma ad Raggion
                <lb facs="#facs_103_r1l4" n="N005"/><hi>Hößlin und Falkh</hi>
-               <lb facs="#facs_103_r1l5" n="N006"/><rs type="person" ref="wkfm__8148">Rad und Hößlin</rs> laut anbringen de ps: 13<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 2017
-               <lb facs="#facs_103_r1l6" n="N007"/><rs type="person" ref="wkfm__30066">Hößlin und Falkh</rs> laut Anbringen de ps: 15<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 739 N<hi style="superscript">o</hi> 1969 und oblatorien
+               <lb facs="#facs_103_r1l5" n="N006"/><rs type="person" ref="#wkfm__8148">Rad und Hößlin</rs> laut anbringen de ps: 13<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 2017
+               <lb facs="#facs_103_r1l6" n="N007"/><rs type="person" ref="#wkfm__30066">Hößlin und Falkh</rs> laut Anbringen de ps: 15<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 739 N<hi style="superscript">o</hi> 1969 und oblatorien
                <lb facs="#facs_103_r1l7" n="N008"/>dd<hi style="superscript">to</hi> 2<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 737 N<hi style="superscript">o</hi> 1129
                <lb facs="#facs_103_r1l8" n="N009"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
-               <lb facs="#facs_103_r1l9" n="N010"/>Mitls Anbringen de ps: 13<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 2017 hat <rs type="person" ref="wkfm__8148">Rad und Hößlin</rs> angezeiget
-               <lb facs="#facs_103_r1l10" n="N011"/>daß die Firma der Raggion <hi>Hößlin</hi> <rs type="person" ref="wkfm__8148">Rad und Hößlin<hi>h</hi></rs> der N. Rad, <rs type="person" ref="wkfm__46521">Philipp
-               <lb break="no" facs="#facs_103_r1l12" n="N012"/>Albrecht Hoßlin</rs> dann der mitinteressiert <rs type="person" ref="wkfm__23197">Bartholomaeus Falkh</rs> habe
-               <lb facs="#facs_103_r1l13" n="N013"/>Mitls oblatorien dd<hi style="superscript">to</hi> 2<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 737 hat die Raggion <rs type="person" ref="wkfm__30066">Hößlin und Falkh</rs> kund
-               <lb facs="#facs_103_r1l14" n="N014"/>gemacht, daß die Firma dieser Raggion allhier der <rs type="person" ref="wkfm__23197">Bartholomaeus Falkh</rs>
-               <lb facs="#facs_103_r1l15" n="N015"/>und in Augspurg der <seg type="editorial_comment_seg"><rs type="person" ref="wkfm__46521">Phipp Albrecht Fakh</rs><note type="editorial_comment_note">In der Quelle wohl falsch Falk (Fakh) genannt</note></seg> führen werde.
+               <lb facs="#facs_103_r1l9" n="N010"/>Mitls Anbringen de ps: 13<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 2017 hat <rs type="person" ref="#wkfm__8148">Rad und Hößlin</rs> angezeiget
+               <lb facs="#facs_103_r1l10" n="N011"/>daß die Firma der Raggion <hi>Hößlin</hi> <rs type="person" ref="#wkfm__8148">Rad und Hößlin<hi>h</hi></rs> der N. Rad, <rs type="person" ref="#wkfm__46521">Philipp
+               <lb break="no" facs="#facs_103_r1l12" n="N012"/>Albrecht Hoßlin</rs> dann der mitinteressiert <rs type="person" ref="#wkfm__23197">Bartholomaeus Falkh</rs> habe
+               <lb facs="#facs_103_r1l13" n="N013"/>Mitls oblatorien dd<hi style="superscript">to</hi> 2<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 737 hat die Raggion <rs type="person" ref="#wkfm__30066">Hößlin und Falkh</rs> kund
+               <lb facs="#facs_103_r1l14" n="N014"/>gemacht, daß die Firma dieser Raggion allhier der <rs type="person" ref="#wkfm__23197">Bartholomaeus Falkh</rs>
+               <lb facs="#facs_103_r1l15" n="N015"/>und in Augspurg der <seg type="editorial_comment_seg"><rs type="person" ref="#wkfm__46521">Phipp Albrecht Fakh</rs><note type="editorial_comment_note">In der Quelle wohl falsch Falk (Fakh) genannt</note></seg> führen werde.
                <lb facs="#facs_103_r1l16" n="N016"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
-               <lb facs="#facs_103_r1l17" n="N017"/>Die Raggion <rs type="person" ref="wkfm__30066">Hößlin und Falkh</rs> hat mitls Anbringen de ps: 15<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 739 N<hi style="superscript">o</hi> 1969
+               <lb facs="#facs_103_r1l17" n="N017"/>Die Raggion <rs type="person" ref="#wkfm__30066">Hößlin und Falkh</rs> hat mitls Anbringen de ps: 15<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 739 N<hi style="superscript">o</hi> 1969
                <lb facs="#facs_103_r1l18" n="N018"/>die von selber untern 2<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 737 erlassenen oblatorien N<hi style="superscript">o</hi> 1129 in <choice><expan/><abbr>orig:</abbr></choice> <unclear>eingeleget</unclear>
                <lb facs="#facs_103_r1l19" n="N019"/>kraft welchen selbe kund gemacht, daß, nachdem, das schon 46 Jahr lang allhier und
-               <lb facs="#facs_103_r1l20" n="N020"/>in Augspurg unter den Nahmen <rs type="person" ref="wkfm__8148">Rad und Hößlin</rs> <unclear>auch</unclear> mit Firma obligo und <choice><expan/><abbr>intee</abbr></choice>
-               <lb facs="#facs_103_r1l21" n="N021"/>des <rs type="person" ref="wkfm__23197">Bartholomaeo Falkh</rs> in die 18 Jahr lang geloffene Wechsl und Silber Nego-
-               <lb facs="#facs_103_r1l22" n="N022"/>tien wegen des vor 6 Jahren verstorbnen <rs type="person" ref="wkfm__46522">Christoph Rad</rs> ihr Endschaft nunmehro 
-               <lb facs="#facs_103_r1l23" n="N023"/>erreichet habe, so wäre der <rs type="person" ref="wkfm__46521">Philipp Albrecht Hößlin</rs> und <rs type="person" ref="wkfm__23197">Bartholomaeus Falkh</rs> en-
+               <lb facs="#facs_103_r1l20" n="N020"/>in Augspurg unter den Nahmen <rs type="person" ref="#wkfm__8148">Rad und Hößlin</rs> <unclear>auch</unclear> mit Firma obligo und <choice><expan/><abbr>intee</abbr></choice>
+               <lb facs="#facs_103_r1l21" n="N021"/>des <rs type="person" ref="#wkfm__23197">Bartholomaeo Falkh</rs> in die 18 Jahr lang geloffene Wechsl und Silber Nego-
+               <lb facs="#facs_103_r1l22" n="N022"/>tien wegen des vor 6 Jahren verstorbnen <rs type="person" ref="#wkfm__46522">Christoph Rad</rs> ihr Endschaft nunmehro 
+               <lb facs="#facs_103_r1l23" n="N023"/>erreichet habe, so wäre der <rs type="person" ref="#wkfm__46521">Philipp Albrecht Hößlin</rs> und <rs type="person" ref="#wkfm__23197">Bartholomaeus Falkh</rs> en-
                <lb facs="#facs_103_r1l24" n="N024"/>schlossen das Wechsel Negotium sowohl allhier als in Augspurg mit ihren alleinigen
-               <lb facs="#facs_103_r1l25" n="N025"/>interesse und obligo unter der Raggion <rs type="person" ref="wkfm__30066">Hößlin und Falkh</rs> <hi>mit allhier</hi> unter Firmirung
-               <lb facs="#facs_103_r1l26" n="N026"/>alhier des <rs type="person" ref="wkfm__23197">Falkhs</rs> und in Augspurg des <rs type="person" ref="wkfm__46521">Hößlin,</rs> welche solche besondere anzeigen werden, fortzusezen
+               <lb facs="#facs_103_r1l25" n="N025"/>interesse und obligo unter der Raggion <rs type="person" ref="#wkfm__30066">Hößlin und Falkh</rs> <hi>mit allhier</hi> unter Firmirung
+               <lb facs="#facs_103_r1l26" n="N026"/>alhier des <rs type="person" ref="#wkfm__23197">Falkhs</rs> und in Augspurg des <rs type="person" ref="#wkfm__46521">Hößlin,</rs> welche solche besondere anzeigen werden, fortzusezen
                <lb facs="#facs_103_r1l27" n="N027"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
             </ab>
             

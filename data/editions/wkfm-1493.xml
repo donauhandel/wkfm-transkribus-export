@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -73,14 +73,14 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_35" n="35" xml:id="img_0035"/>
+            <pb facs="#facs_35" n="35" xml:id="img_0035" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1493.jpg"/>
             
             <ab facs="#facs_35_r1">
                <lb facs="#facs_35_r1l2" n="N001"/>739
                <lb facs="#facs_35_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_35_r1l4" n="N003"/><rs type="person" ref="wkfm__47419">Schwaighofer Joseph <choice><expan/><abbr>seel:</abbr></choice> Wittib</rs> burgerliche Handlsfrau
+               <lb facs="#facs_35_r1l4" n="N003"/><rs type="person" ref="#wkfm__47419">Schwaighofer Joseph <choice><expan/><abbr>seel:</abbr></choice> Wittib</rs> burgerliche Handlsfrau
                <lb facs="#facs_35_r1l5" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_35_r1l7" n="N005"/><rs type="person" ref="wkfm__47420">Joseph Schwaighofer <choice><expan/><abbr>seel:</abbr></choice> Wittib</rs> laut Erklährung ddto 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice>
+               <lb facs="#facs_35_r1l7" n="N005"/><rs type="person" ref="#wkfm__47420">Joseph Schwaighofer <choice><expan/><abbr>seel:</abbr></choice> Wittib</rs> laut Erklährung ddto 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice>
                <lb facs="#facs_35_r1l8" n="N006"/>725 N<hi style="superscript">o</hi> 673
                <lb facs="#facs_35_r1l9" n="N008"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_35_r1l10" n="N009"/><seg type="orighead__fundi">Fundi Ausweisung</seg>

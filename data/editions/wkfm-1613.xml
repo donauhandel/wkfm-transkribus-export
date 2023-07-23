@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -73,14 +73,14 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_155" n="155" xml:id="img_0155"/>
+            <pb facs="#facs_155" n="155" xml:id="img_0155" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1613.jpg"/>
             
             <ab facs="#facs_155_r1">
                <lb facs="#facs_155_r1l2" n="N001"/>799
                <lb facs="#facs_155_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_155_r1l3" n="N003"/><rs type="person" ref="wkfm__14033">Schröckh Johann Wolfgang</rs> kay: könig: Niderlags Verwanter
+               <lb facs="#facs_155_r1l3" n="N003"/><rs type="person" ref="#wkfm__14033">Schröckh Johann Wolfgang</rs> kay: könig: Niderlags Verwanter
                <lb facs="#facs_155_r1l4" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_155_r1l5" n="N005"/><rs type="person" ref="wkfm__47509">Johann Wolfgang Schröckh</rs> laut Anbringen de ps: 22<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 735 N<hi style="superscript">o</hi> 737
+               <lb facs="#facs_155_r1l5" n="N005"/><rs type="person" ref="#wkfm__47509">Johann Wolfgang Schröckh</rs> laut Anbringen de ps: 22<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 735 N<hi style="superscript">o</hi> 737
                <lb facs="#facs_155_r1l6" n="N006"/><choice><expan/><abbr>Ao</abbr></choice> 763 seine weitere firma eingelegt <choice><expan/><abbr>nro:</abbr></choice> 794
                <lb facs="#facs_155_r1l7" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_155_r1l8" n="N008"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>

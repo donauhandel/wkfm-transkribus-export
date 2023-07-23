@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -80,21 +80,21 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_102" n="102" xml:id="img_0102"/>
+            <pb facs="#facs_102" n="102" xml:id="img_0102" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0770.jpg"/>
             
             <ab facs="#facs_102_r1">
                <lb facs="#facs_102_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
-               <lb facs="#facs_102_r1l2" n="N002"/>In obiger Erklährung sine dato N<hi style="superscript">o</hi> 366 hat sich der <rs type="person" ref="wkfm__47133">Christian Peter 
-               <lb break="no" facs="#facs_102_r1l3" n="N003"/>Veigl</rs> und <rs type="person" ref="wkfm__47135">Peter Farquet</rs> die Societaets Firma <rs type="person" ref="wkfm__29979">Veigl und Farquet</rs> miteinan
+               <lb facs="#facs_102_r1l2" n="N002"/>In obiger Erklährung sine dato N<hi style="superscript">o</hi> 366 hat sich der <rs type="person" ref="#wkfm__47133">Christian Peter 
+               <lb break="no" facs="#facs_102_r1l3" n="N003"/>Veigl</rs> und <rs type="person" ref="#wkfm__47135">Peter Farquet</rs> die Societaets Firma <rs type="person" ref="#wkfm__29979">Veigl und Farquet</rs> miteinan
                <lb facs="#facs_102_r1l4" n="N004"/>der eingeleget
-               <lb facs="#facs_102_r1l5" n="N005"/>Mitls Anbringen de ps: 15<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 748 N<hi style="superscript">o</hi> 1945 hat der <rs type="person" ref="wkfm__47133">Veigl</rs> angezeiget
-               <lb facs="#facs_102_r1l6" n="N006"/>das, zumahlen ihm der <rs type="person" ref="wkfm__47135">Farquet</rs> das an selben verkaufte Waaren Lager
-               <lb facs="#facs_102_line_1621551283752_1947" n="N007"/>nicht bezahlet, <hi>alß habe</hi> er <rs type="person" ref="wkfm__47133">Veigl</rs> durch richterliche Erkantnuß dd<hi style="superscript">to</hi> 19<hi style="superscript">ten</hi>
+               <lb facs="#facs_102_r1l5" n="N005"/>Mitls Anbringen de ps: 15<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 748 N<hi style="superscript">o</hi> 1945 hat der <rs type="person" ref="#wkfm__47133">Veigl</rs> angezeiget
+               <lb facs="#facs_102_r1l6" n="N006"/>das, zumahlen ihm der <rs type="person" ref="#wkfm__47135">Farquet</rs> das an selben verkaufte Waaren Lager
+               <lb facs="#facs_102_line_1621551283752_1947" n="N007"/>nicht bezahlet, <hi>alß habe</hi> er <rs type="person" ref="#wkfm__47133">Veigl</rs> durch richterliche Erkantnuß dd<hi style="superscript">to</hi> 19<hi style="superscript">ten</hi>
                <lb facs="#facs_102_line_1626114218049_1041" n="N008"/><choice><expan/><abbr>Xbr:</abbr></choice> 747 die Einantworthung des Waaren Lagers erhalten habe, daß also der
-               <lb facs="#facs_102_r1l11" n="N009"/><rs type="person" ref="wkfm__47135">Farquet</rs> an dem negatio keinen sondern er <rs type="person" ref="wkfm__47133">Veigl</rs> allein Theil habe.
+               <lb facs="#facs_102_r1l11" n="N009"/><rs type="person" ref="#wkfm__47135">Farquet</rs> an dem negatio keinen sondern er <rs type="person" ref="#wkfm__47133">Veigl</rs> allein Theil habe.
                <lb facs="#facs_102_r1l12" n="N010"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
-               <lb facs="#facs_102_r1l13" n="N011"/>Mitls Anbringen de ps: 21<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 74<unclear>0</unclear> N<hi style="superscript">o</hi> 21<unclear>7</unclear>4 hat der <rs type="person" ref="wkfm__47133">Veigl</rs> den mit der
-               <lb facs="#facs_102_r1l14" n="N012"/><rs type="person" ref="wkfm__47136">Anna Theresia <unclear>Wenigin</unclear></rs> untern 25<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 737 geschlossenen Heuraths Contract
+               <lb facs="#facs_102_r1l13" n="N011"/>Mitls Anbringen de ps: 21<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 74<unclear>0</unclear> N<hi style="superscript">o</hi> 21<unclear>7</unclear>4 hat der <rs type="person" ref="#wkfm__47133">Veigl</rs> den mit der
+               <lb facs="#facs_102_r1l14" n="N012"/><rs type="person" ref="#wkfm__47136">Anna Theresia <unclear>Wenigin</unclear></rs> untern 25<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 737 geschlossenen Heuraths Contract
                <lb facs="#facs_102_r1l15" n="N013"/>N<hi style="superscript">o</hi> 2153 eingeleget, kraft welchen 1000 fl Heurath Gutt und 2000 fl Wider-
                <lb facs="#facs_102_r1l16" n="N014"/>lag <hi>alß</hi> auf Überleben, das wehrender Ehe erwerbende gänzlich das ererben-
                <lb facs="#facs_102_r1l17" n="N015"/>de aber zu 1/3tl alß ein gleiches Gutt stipuliret worden.

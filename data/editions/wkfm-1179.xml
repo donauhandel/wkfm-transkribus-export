@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -85,26 +85,26 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_79" n="79" xml:id="img_0079"/>
+            <pb facs="#facs_79" n="79" xml:id="img_0079" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1179.jpg"/>
             
             <ab facs="#facs_79_r1">
                <lb facs="#facs_79_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_79_r1l2" n="N003"/><rs type="person" ref="wkfm__46846">Lölly Johann</rs> burgerlicher Handlsmann
+               <lb facs="#facs_79_r1l2" n="N003"/><rs type="person" ref="#wkfm__46846">Lölly Johann</rs> burgerlicher Handlsmann
                <lb facs="#facs_79_r1l3" n="N004"/>Firma ad Raggion
                <lb facs="#facs_79_r1l5" n="N005"/><choice><expan/><abbr>Ao</abbr></choice> 764 seine firma eingelegt sub <choice><expan/><abbr>nro</abbr></choice> 545 <hi>544 1/2</hi>
                <lb facs="#facs_79_r1l6" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_79_r1l7" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_79_r1l9" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_79_line_1629148094980_247" n="N009"/>Der <rs type="person" ref="wkfm__46846">Lölly</rs> hat seinen zu Ausweisung seines Fundi mitls Anbringen de pr: 3<hi style="superscript">ten</hi> Julii 754 N<hi style="superscript">o</hi> 1597, daß von dem <rs type="person" ref="wkfm__8410">Joseph
+               <lb facs="#facs_79_line_1629148094980_247" n="N009"/>Der <rs type="person" ref="#wkfm__46846">Lölly</rs> hat seinen zu Ausweisung seines Fundi mitls Anbringen de pr: 3<hi style="superscript">ten</hi> Julii 754 N<hi style="superscript">o</hi> 1597, daß von dem <rs type="person" ref="#wkfm__8410">Joseph
                <lb break="no" facs="#facs_79_r1l11" n="N010"/>Förschl</rs> untern 30<hi style="superscript">ten</hi> May 754 dahin ausgestelte attestatum N<hi style="superscript">o</hi> 1595 daß
-               <lb facs="#facs_79_r1l12" n="N011"/>er <rs type="person" ref="wkfm__46846">Löly</rs> bey seiner Austrettung von ihn überkommen habe 5000 fl
+               <lb facs="#facs_79_r1l12" n="N011"/>er <rs type="person" ref="#wkfm__46846">Löly</rs> bey seiner Austrettung von ihn überkommen habe 5000 fl
                <lb facs="#facs_79_r1l15" n="N012"/>dann an besondern negotium erspahret habe 1500 fl
                <lb facs="#facs_79_r1l16" n="N013"/>zusamen Eigenthum 6500 fl
-               <lb facs="#facs_79_r1l17" n="N014"/>Zu Completirung des übrigen hat der <rs type="person" ref="wkfm__27912">Johann Babitsch</rs> das <choice><expan/><abbr>orig:</abbr></choice>
+               <lb facs="#facs_79_r1l17" n="N014"/>Zu Completirung des übrigen hat der <rs type="person" ref="#wkfm__27912">Johann Babitsch</rs> das <choice><expan/><abbr>orig:</abbr></choice>
                <lb facs="#facs_79_r1l18" n="N015"/>Cautions-Instrument dd<hi style="superscript">to</hi> 6<hi style="superscript">ten</hi> Junii 754 N<hi style="superscript">o</hi> 1596 eingeleget <choice><expan/><abbr>pr</abbr></choice> 1500 fl
                <lb facs="#facs_79_line_1624535344985_5105" n="N016"/><choice><expan/><abbr>Sa</abbr></choice> 8000 fl
                <lb facs="#facs_79_line_1624535372615_5113" n="N017"/>Nota: Mittelst Anbringen de ps: 11: Junij 779 hat
-               <lb facs="#facs_79_r1l20" n="N018"/><rs type="person" ref="wkfm__27912">Johann Ignatz Babitsch</rs> sein <choice><expan/><abbr>orig:</abbr></choice> Cautions Instrument de dato 6: Junii 754
+               <lb facs="#facs_79_r1l20" n="N018"/><rs type="person" ref="#wkfm__27912">Johann Ignatz Babitsch</rs> sein <choice><expan/><abbr>orig:</abbr></choice> Cautions Instrument de dato 6: Junii 754
                <lb facs="#facs_79_r1l21" n="N019"/>N<hi style="superscript">o</hi> 1596 <choice><expan/><abbr>pr</abbr></choice> 1500 fl laut recognitioni de dato 14 Julij 779 <unclear>extradirter</unclear> 
                <lb facs="#facs_79_r1l22" n="N020"/>erhalten und liegt dieses Anbringen samt Recognition dem
                <lb facs="#facs_79_r1l23" n="N021"/>fundi Ausweisungen zu sub N<hi style="superscript">o</hi> 1596

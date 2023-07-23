@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -79,20 +79,20 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_95" n="95" xml:id="img_0095"/>
+            <pb facs="#facs_95" n="95" xml:id="img_0095" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0595.jpg"/>
             
             <ab facs="#facs_95_r1">
                <lb facs="#facs_95_r1l2" n="N001"/>295
                <lb facs="#facs_95_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_95_r1l3" n="N003"/><rs type="person" ref="wkfm__46276">Träge Johann Sebastian</rs> burgerlicher Handlsmann
+               <lb facs="#facs_95_r1l3" n="N003"/><rs type="person" ref="#wkfm__46276">Träge Johann Sebastian</rs> burgerlicher Handlsmann
                <lb facs="#facs_95_r1l4" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_95_r1l5" n="N005"/><rs type="person" ref="wkfm__46277">Johann Sebastian Träge</rs> laut Erklährung dd<hi style="superscript">to</hi> 18<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 742 N<hi style="superscript">o</hi> 287
+               <lb facs="#facs_95_r1l5" n="N005"/><rs type="person" ref="#wkfm__46277">Johann Sebastian Träge</rs> laut Erklährung dd<hi style="superscript">to</hi> 18<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 742 N<hi style="superscript">o</hi> 287
                <lb facs="#facs_95_line_1621966410301_4743" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_95_r1l8" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_95_r1l9" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_95_r1l10" n="N009"/>Der <rs type="person" ref="wkfm__46276">Träge</rs> hat zu Ausweisung seines Handlungsfundi das von seinem 
-               <lb facs="#facs_95_r1l11" n="N010"/>Vetter <rs type="person" ref="wkfm__46278">Franz Förstl</rs> untern 16<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 741 erreichtete testament in Copia N<hi style="superscript">o</hi>
-               <lb facs="#facs_95_r1l12" n="N011"/>1363 eingeleget krafft welcher er <rs type="person" ref="wkfm__46276">Tregi</rs> § 13<hi style="superscript">tens</hi> zum universal Erben be-
+               <lb facs="#facs_95_r1l10" n="N009"/>Der <rs type="person" ref="#wkfm__46276">Träge</rs> hat zu Ausweisung seines Handlungsfundi das von seinem 
+               <lb facs="#facs_95_r1l11" n="N010"/>Vetter <rs type="person" ref="#wkfm__46278">Franz Förstl</rs> untern 16<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 741 erreichtete testament in Copia N<hi style="superscript">o</hi>
+               <lb facs="#facs_95_r1l12" n="N011"/>1363 eingeleget krafft welcher er <rs type="person" ref="#wkfm__46276">Tregi</rs> § 13<hi style="superscript">tens</hi> zum universal Erben be-
                <lb facs="#facs_95_r1l13" n="N012"/>nehnet worden, anbey die Föstliche Verlassenschaft in der eingelegten Speci-
                <lb facs="#facs_95_r1l14" n="N013"/>fication <hi>sine</hi> N<hi style="superscript">o</hi> 1364 auf 32890 fl 20 x<hi style="superscript">r</hi> und mit solcher uber Abzug
                <lb facs="#facs_95_r1l15" n="N014"/>deren in obigen testament enthaltnen legaten <choice><expan/><abbr>pr</abbr></choice> 11775 fl pro fundo aus-

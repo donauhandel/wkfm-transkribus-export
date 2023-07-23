@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -80,13 +80,13 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_92" n="92" xml:id="img_0092"/>
+            <pb facs="#facs_92" n="92" xml:id="img_0092" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1444.jpg"/>
             
             <ab facs="#facs_92_r1">
                <lb facs="#facs_92_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_92_r1l2" n="N002"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
-               <lb facs="#facs_92_r1l4" n="N003"/>Mitls obigen Anbringen de ps: 14<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 753 N<hi style="superscript">o</hi> 652 hat der <rs type="person" ref="wkfm__46761">Razer</rs> dem mit
-               <lb facs="#facs_92_r1l5" n="N004"/>der <rs type="person" ref="wkfm__46763">Eva Margaretha Muthin</rs> untern 4<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 751 errichteten Heuraths-
+               <lb facs="#facs_92_r1l4" n="N003"/>Mitls obigen Anbringen de ps: 14<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 753 N<hi style="superscript">o</hi> 652 hat der <rs type="person" ref="#wkfm__46761">Razer</rs> dem mit
+               <lb facs="#facs_92_r1l5" n="N004"/>der <rs type="person" ref="#wkfm__46763">Eva Margaretha Muthin</rs> untern 4<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 751 errichteten Heuraths-
                <lb facs="#facs_92_r1l6" n="N005"/>Contract N<hi style="superscript">o</hi> 2215 in <choice><expan/><abbr>orig:</abbr></choice> eingeleget, kraft welchen die nebst aller Gewölber
                <lb facs="#facs_92_r1l9" n="N006"/>und Zimmer Einrichtung und burgerlichen Gewerb <hi>zugebrachte</hi> zum Heuraths
                <lb facs="#facs_92_r1l10" n="N007"/>Gutt zugebracht, 1000 fl samt 2000 fl Widerlag auf uberleben, dann
@@ -94,7 +94,7 @@
                <lb facs="#facs_92_r1l12" n="N009"/>ches gutt pactiret worden.
                <lb facs="#facs_92_r1l13" n="N010"/><seg type="editorial_comment_seg">Anmerckungen<note type="editorial_comment_note">Fortsetzung der vorherigen Seite Fundi Ausweisung</note></seg>
                <lb facs="#facs_92_line_1626253196366_712" n="N011"/><hi>0</hi>
-               <lb facs="#facs_92_r1l14" n="N012"/>Instrument <choice><expan/><abbr>pr</abbr></choice> 3610 fl von <choice><expan/><abbr>nro</abbr></choice> 1696 extradiret, von dem <rs type="person" ref="wkfm__46761">Ratzer</rs>
+               <lb facs="#facs_92_r1l14" n="N012"/>Instrument <choice><expan/><abbr>pr</abbr></choice> 3610 fl von <choice><expan/><abbr>nro</abbr></choice> 1696 extradiret, von dem <rs type="person" ref="#wkfm__46761">Ratzer</rs>
                <lb facs="#facs_92_r1l15" n="N013"/>der Handlungs fundum mittels Billanz dd<hi style="superscript">to</hi> 12<hi style="superscript">ten</hi> Julii 769 mit
                <lb facs="#facs_92_r1l16" n="N014"/>11630 fl 35 x<hi style="superscript">r</hi> aus eigenem Vermögen ausgewiesen und diese
                <lb facs="#facs_92_r1l17" n="N015"/>Billanz samt Auflage statt dem Cautions Instrument sub <choice><expan/><abbr>nro</abbr></choice> 1696

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -90,31 +90,31 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_125" n="125" xml:id="img_0125"/>
+            <pb facs="#facs_125" n="125" xml:id="img_0125" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0793.jpg"/>
             
             <ab facs="#facs_125_r2">
                <lb facs="#facs_125_r2l2" n="N001"/>394
                <lb facs="#facs_125_r2l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_125_r2l3" n="N003"/><rs type="person" ref="wkfm__47165">Vitius Joseph Niclas</rs> burgerlicher Handlsmann
-               <lb facs="#facs_125_r2l4" n="N004"/><choice><expan/><abbr>N.</abbr></choice> Anno: 797 hat <rs type="person" ref="wkfm__47167">Joseph Romani</rs> diese
+               <lb facs="#facs_125_r2l3" n="N003"/><rs type="person" ref="#wkfm__47165">Vitius Joseph Niclas</rs> burgerlicher Handlsmann
+               <lb facs="#facs_125_r2l4" n="N004"/><choice><expan/><abbr>N.</abbr></choice> Anno: 797 hat <rs type="person" ref="#wkfm__47167">Joseph Romani</rs> diese
                <lb facs="#facs_125_r2l5" n="N005"/>Handlung übernohmen. P. III. K.
                <lb facs="#facs_125_r2l6" n="N006"/>Firma ad Raggion
-               <lb facs="#facs_125_r2l7" n="N007"/><rs type="person" ref="wkfm__47166">Joseph Nicolaus Vitius</rs> laut Erklährung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> May 745
+               <lb facs="#facs_125_r2l7" n="N007"/><rs type="person" ref="#wkfm__47166">Joseph Nicolaus Vitius</rs> laut Erklährung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> May 745
                <lb facs="#facs_125_r2l8" n="N008"/>N<hi style="superscript">o</hi> 377
                <lb facs="#facs_125_r2l9" n="N009"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_125_r2l10" n="N010"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_125_r2l11" n="N011"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_125_r2l12" n="N012"/>Der <rs type="person" ref="wkfm__47165">Vitius</rs> hat seinen Handlungs fundum mitls der Specification N<hi style="superscript">o</hi> 1440 folgender
+               <lb facs="#facs_125_r2l12" n="N012"/>Der <rs type="person" ref="#wkfm__47165">Vitius</rs> hat seinen Handlungs fundum mitls der Specification N<hi style="superscript">o</hi> 1440 folgender
                <lb facs="#facs_125_r2l13" n="N013"/>maßen ausgewisen <unclear>ed</unclear> nemlich das er Eigenthumlich besize
-               <lb facs="#facs_125_line_1621019049749_465" n="N014"/>An einer Obligation von <rs type="person" ref="wkfm__47168">Balthasar Vitius</rs> dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> Julii 715 <choice><expan/><abbr>pr</abbr></choice> 200 fl
-               <lb facs="#facs_125_line_1621019039541_458" n="N015"/>Wechselbrief von <rs type="person" ref="wkfm__47169">Franz Carl Sick</rs> dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> Julii 743 <choice><expan/><abbr>pr</abbr></choice> 46 fl 32 x<hi style="superscript">r</hi>
-               <lb facs="#facs_125_line_1621019029404_450" n="N016"/><choice><expan/><abbr>det.</abbr></choice> von <rs type="person" ref="wkfm__47170">Johann Adam Werner</rs> dd<hi style="superscript">to</hi> 15<hi style="superscript">ten</hi> Julii 744 <choice><expan/><abbr>pr</abbr></choice> 16<unclear>4</unclear>9 fl
+               <lb facs="#facs_125_line_1621019049749_465" n="N014"/>An einer Obligation von <rs type="person" ref="#wkfm__47168">Balthasar Vitius</rs> dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> Julii 715 <choice><expan/><abbr>pr</abbr></choice> 200 fl
+               <lb facs="#facs_125_line_1621019039541_458" n="N015"/>Wechselbrief von <rs type="person" ref="#wkfm__47169">Franz Carl Sick</rs> dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> Julii 743 <choice><expan/><abbr>pr</abbr></choice> 46 fl 32 x<hi style="superscript">r</hi>
+               <lb facs="#facs_125_line_1621019029404_450" n="N016"/><choice><expan/><abbr>det.</abbr></choice> von <rs type="person" ref="#wkfm__47170">Johann Adam Werner</rs> dd<hi style="superscript">to</hi> 15<hi style="superscript">ten</hi> Julii 744 <choice><expan/><abbr>pr</abbr></choice> 16<unclear>4</unclear>9 fl
                <lb facs="#facs_125_line_1621019015712_442" n="N017"/><unclear>hievon</unclear> <choice><expan/><abbr><unclear>itee</unclear></abbr></choice> <choice><expan/><abbr>pr</abbr></choice> 83 fl 57 x<hi style="superscript">r</hi>
                <lb facs="#facs_125_line_1621018986233_428" n="N018"/>aus der <choice><expan/><abbr><unclear>Welß:</unclear></abbr></choice> Inventur 212 fl
-               <lb facs="#facs_125_r2l25" n="N019"/><hi>Vermög</hi> das ihm von seinem Stief-Vattern <rs type="person" ref="wkfm__47171">Sebastian Werner</rs> ausge-
+               <lb facs="#facs_125_r2l25" n="N019"/><hi>Vermög</hi> das ihm von seinem Stief-Vattern <rs type="person" ref="#wkfm__47171">Sebastian Werner</rs> ausge-
                <lb facs="#facs_125_line_1621018967966_420" n="N020"/>stelten donations <unclear>Instrument</unclear> dd<hi style="superscript">to</hi> 2<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 743 <choice><expan/><abbr>pr</abbr></choice> 1500 fl
                <lb facs="#facs_125_line_1621018910884_399" n="N021"/>zusamen Eigenthum 3751 fl 29 x<hi style="superscript">r</hi>
-               <lb facs="#facs_125_r2l32" n="N022"/>Zu Completirung des Übrigen hat der <rs type="person" ref="wkfm__17087"><unclear>Gasparo Consoni</unclear></rs> das <choice><expan/><abbr>orig.</abbr></choice> laut
+               <lb facs="#facs_125_r2l32" n="N022"/>Zu Completirung des Übrigen hat der <rs type="person" ref="#wkfm__17087"><unclear>Gasparo Consoni</unclear></rs> das <choice><expan/><abbr>orig.</abbr></choice> laut
                <lb facs="#facs_125_line_1621018943400_412" n="N023"/>Instrument dd<hi style="superscript">to</hi> 3<hi style="superscript">ten</hi> May 745 N<hi style="superscript">o</hi> 1441 <hi>fl</hi> eingeleget <choice><expan/><abbr>pr</abbr></choice> 4248 fl 31 x<hi style="superscript">r</hi>
                <lb facs="#facs_125_line_1621027976210_543" n="N024"/><choice><expan/><abbr>Sa</abbr></choice> 8000 fl 0 x<hi style="superscript">r</hi>
                <lb facs="#facs_125_line_1621027976210_544" n="N025"/>Welches Cautions Instrument <hi>am</hi> auch bey ein oder anderen er-

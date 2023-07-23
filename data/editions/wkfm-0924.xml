@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -87,29 +87,29 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_4" n="4" xml:id="img_0004"/>
+            <pb facs="#facs_4" n="4" xml:id="img_0004" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0924.jpg"/>
             
             <ab facs="#facs_4_r1">
                <lb facs="#facs_4_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
-               <lb facs="#facs_4_r1l2" n="N002"/>In obigen Anbringen de ps: 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 428 hat sich der <rs type="person" ref="wkfm__11674">Stephan Joseph Haider</rs>
+               <lb facs="#facs_4_r1l2" n="N002"/>In obigen Anbringen de ps: 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 428 hat sich der <rs type="person" ref="#wkfm__11674">Stephan Joseph Haider</rs>
                <lb facs="#facs_4_r1l3" n="N003"/>erklähret, daß er sein Negotium als sein Eigenthum allein führe.
-               <lb facs="#facs_4_r1l4" n="N004"/>In obigen Anbringen de ps: 24<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 740 N<hi style="superscript">o</hi> 1972 hat des <rs type="person" ref="wkfm__46393">Stephan von Haydern <choice><expan/><abbr>seel:</abbr></choice>
-               <lb break="no" facs="#facs_4_r1l5" n="N005"/>Wittib Anna Susanna</rs> und Sohn <rs type="person" ref="wkfm__46394">Leopold v. Haydern</rs> angezeigete, daß sie die
-               <lb facs="#facs_4_r1l6" n="N006"/><rs type="person" ref="wkfm__46390">Stephan Hayderische Handlung</rs> in societate continuiren werden, wessenthalber sie
+               <lb facs="#facs_4_r1l4" n="N004"/>In obigen Anbringen de ps: 24<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 740 N<hi style="superscript">o</hi> 1972 hat des <rs type="person" ref="#wkfm__46393">Stephan von Haydern <choice><expan/><abbr>seel:</abbr></choice>
+               <lb break="no" facs="#facs_4_r1l5" n="N005"/>Wittib Anna Susanna</rs> und Sohn <rs type="person" ref="#wkfm__46394">Leopold v. Haydern</rs> angezeigete, daß sie die
+               <lb facs="#facs_4_r1l6" n="N006"/><rs type="person" ref="#wkfm__46390">Stephan Hayderische Handlung</rs> in societate continuiren werden, wessenthalber sie
                <lb facs="#facs_4_r1l7" n="N007"/>untern 1<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 739 einen societaets contract geschlossen, und in selben stipulirert haben
-               <lb facs="#facs_4_r1l8" n="N008"/>das jeder von ihnen die Firman haben, und die Raggion <rs type="person" ref="wkfm__46391">Stephan von Hayder <choice><expan/><abbr>seel:</abbr></choice>
+               <lb facs="#facs_4_r1l8" n="N008"/>das jeder von ihnen die Firman haben, und die Raggion <rs type="person" ref="#wkfm__46391">Stephan von Hayder <choice><expan/><abbr>seel:</abbr></choice>
                <lb break="no" facs="#facs_4_r1l9" n="N009"/>Wittib und Sohn</rs> laufen solle.
-               <lb facs="#facs_4_r1l10" n="N010"/>Mitls obigen Anbringen de ps: 27<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 741 N<hi style="superscript">o</hi> 1973 hat die <hi>Anna Ha</hi> <rs type="person" ref="wkfm__46393">Anna Susanna von Haydern</rs>
-               <lb facs="#facs_4_r1l11" n="N011"/>angezeiget, daß ihr Sohn <rs type="person" ref="wkfm__46394">Leopold von Haydern</rs> verstorben und sie entschlossen seye, ihren
-               <lb facs="#facs_4_r1l12" n="N012"/>bedienten <rs type="person" ref="wkfm__46170">Franz Hammer</rs> zu einem offentlichen socium anzunehmen, annebens <hi>selbe</hi> den mit gedachten
-               <lb facs="#facs_4_r1l13" n="N013"/><rs type="person" ref="wkfm__46170">Hammer</rs> unter 27<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 741 <hi>N<hi style="superscript"/></hi>o<hi>ab</hi>geschlossenen societaets contract in <choice><expan/><abbr>orig:</abbr></choice> N<hi style="superscript">o</hi> 1518 eingeleget krafft
-               <lb facs="#facs_4_r1l14" n="N014"/>welchen der <rs type="person" ref="wkfm__46170">Hammer</rs> nicht befugt <hi>seyn solle</hi> ohne Einwilligung der <rs type="person" ref="wkfm__46393">Hayderin</rs> aus der societaet zu tretten
+               <lb facs="#facs_4_r1l10" n="N010"/>Mitls obigen Anbringen de ps: 27<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 741 N<hi style="superscript">o</hi> 1973 hat die <hi>Anna Ha</hi> <rs type="person" ref="#wkfm__46393">Anna Susanna von Haydern</rs>
+               <lb facs="#facs_4_r1l11" n="N011"/>angezeiget, daß ihr Sohn <rs type="person" ref="#wkfm__46394">Leopold von Haydern</rs> verstorben und sie entschlossen seye, ihren
+               <lb facs="#facs_4_r1l12" n="N012"/>bedienten <rs type="person" ref="#wkfm__46170">Franz Hammer</rs> zu einem offentlichen socium anzunehmen, annebens <hi>selbe</hi> den mit gedachten
+               <lb facs="#facs_4_r1l13" n="N013"/><rs type="person" ref="#wkfm__46170">Hammer</rs> unter 27<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 741 <hi>N<hi style="superscript"/></hi>o<hi>ab</hi>geschlossenen societaets contract in <choice><expan/><abbr>orig:</abbr></choice> N<hi style="superscript">o</hi> 1518 eingeleget krafft
+               <lb facs="#facs_4_r1l14" n="N014"/>welchen der <rs type="person" ref="#wkfm__46170">Hammer</rs> nicht befugt <hi>seyn solle</hi> ohne Einwilligung der <rs type="person" ref="#wkfm__46393">Hayderin</rs> aus der societaet zu tretten
                <lb facs="#facs_4_r1l15" n="N015"/>noch sie selben <hi>hinaus</hi> aus selber zuschaffen, sondern <hi>fals sie</hi> ihm <unclear>eher</unclear> die handlung um der <unclear>Kosten</unclear>
-               <lb facs="#facs_4_r1l16" n="N016"/>abzutretten schuldig seye, sie <rs type="person" ref="wkfm__46393">Hayderin</rs> auch weder per actus inter vivos noch ultimo voluntatis
-               <lb facs="#facs_4_r1l19" n="N017"/>die Handlung an jemanden andern übertragen können sondern er <rs type="person" ref="wkfm__46170">Hammer</rs> allezeit den Vorzug um den Kosten habe
+               <lb facs="#facs_4_r1l16" n="N016"/>abzutretten schuldig seye, sie <rs type="person" ref="#wkfm__46393">Hayderin</rs> auch weder per actus inter vivos noch ultimo voluntatis
+               <lb facs="#facs_4_r1l19" n="N017"/>die Handlung an jemanden andern übertragen können sondern er <rs type="person" ref="#wkfm__46170">Hammer</rs> allezeit den Vorzug um den Kosten habe
                <lb facs="#facs_4_r1l21" n="N018"/>der Handlungs <hi>gewün</hi> spesen, gewün und verlust <hi>sollen gleiche</hi> jedwedern theil zur helfte zukommen, das dermahlige
-               <lb facs="#facs_4_r1l22" n="N019"/>Waarenlager aber der <rs type="person" ref="wkfm__46393">Hayderin</rs> eigenthum verbleiben, <unclear>aber</unclear> über die von dem  <rs type="person" ref="wkfm__46170">Hammer</rs> eingelegte 7000 fl sollen der
-               <lb facs="#facs_4_r1l24" n="N020"/><rs type="person" ref="wkfm__46393">Hayderin</rs> allein des Hamer handlungs Creditoren hafften, die Raggion <hi><unclear>solle ey</unclear></hi> <rs type="person" ref="wkfm__46392">Stephan <seg type="editorial_comment_seg">Hammer<note type="editorial_comment_note">Wahrscheinlich falsch\u003a Stattdessen Hayder</note></seg> <choice><expan/><abbr>seel:</abbr></choice> Wittib und Hammer</rs> <seg type="editorial_comment_seg"><hi>0</hi><note type="editorial_comment_note">Fortsetzung unten unter Anmerckungen</note></seg>
+               <lb facs="#facs_4_r1l22" n="N019"/>Waarenlager aber der <rs type="person" ref="#wkfm__46393">Hayderin</rs> eigenthum verbleiben, <unclear>aber</unclear> über die von dem  <rs type="person" ref="#wkfm__46170">Hammer</rs> eingelegte 7000 fl sollen der
+               <lb facs="#facs_4_r1l24" n="N020"/><rs type="person" ref="#wkfm__46393">Hayderin</rs> allein des Hamer handlungs Creditoren hafften, die Raggion <hi><unclear>solle ey</unclear></hi> <rs type="person" ref="#wkfm__46392">Stephan <seg type="editorial_comment_seg">Hammer<note type="editorial_comment_note">Wahrscheinlich falsch\u003a Stattdessen Hayder</note></seg> <choice><expan/><abbr>seel:</abbr></choice> Wittib und Hammer</rs> <seg type="editorial_comment_seg"><hi>0</hi><note type="editorial_comment_note">Fortsetzung unten unter Anmerckungen</note></seg>
                <lb facs="#facs_4_r1l25" n="N021"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
             </ab>
             

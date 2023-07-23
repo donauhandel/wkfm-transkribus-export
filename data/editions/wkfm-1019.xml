@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -84,23 +84,23 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_99" n="99" xml:id="img_0099"/>
+            <pb facs="#facs_99" n="99" xml:id="img_0099" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1019.jpg"/>
             
             <ab facs="#facs_99_r1">
                <lb facs="#facs_99_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_99_r1l2" n="N003"/><rs type="person" ref="wkfm__46515">Humbl Ferdinand Johann</rs> burgerlicher Handlsmann
+               <lb facs="#facs_99_r1l2" n="N003"/><rs type="person" ref="#wkfm__46515">Humbl Ferdinand Johann</rs> burgerlicher Handlsmann
                <lb facs="#facs_99_r1l4" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_99_r1l5" n="N005"/><rs type="person" ref="wkfm__46516">Ferdinandt Johanns Humbl</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 471
+               <lb facs="#facs_99_r1l5" n="N005"/><rs type="person" ref="#wkfm__46516">Ferdinandt Johanns Humbl</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 471
                <lb facs="#facs_99_r1l6" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_99_r1l7" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_99_r1l8" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_99_r1l9" n="N009"/>Der <rs type="person" ref="wkfm__46515">Humbl</rs> hat seinen Fundum mitl der <choice><expan/><abbr>orig:</abbr></choice> Inventur dd<hi style="superscript">to</hi> 11<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 733
+               <lb facs="#facs_99_r1l9" n="N009"/>Der <rs type="person" ref="#wkfm__46515">Humbl</rs> hat seinen Fundum mitl der <choice><expan/><abbr>orig:</abbr></choice> Inventur dd<hi style="superscript">to</hi> 11<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 733
                <lb facs="#facs_99_r1l11" n="N010"/>N<hi style="superscript">o</hi> 1513 <hi><choice><expan/><abbr>pr</abbr></choice> avanco</hi> in <choice><expan/><abbr>pr</abbr></choice> 1945 fl 23 x<hi style="superscript">r</hi>
-               <lb facs="#facs_99_r1l13" n="N011"/>Dann eines von seinem Bruder <hi>Johann</hi> <rs type="person" ref="wkfm__46517">Franz Ferdinand Humbl</rs> einge-
+               <lb facs="#facs_99_r1l13" n="N011"/>Dann eines von seinem Bruder <hi>Johann</hi> <rs type="person" ref="#wkfm__46517">Franz Ferdinand Humbl</rs> einge-
                <lb facs="#facs_99_r1l15" n="N012"/>legten Cautions Instrument ausgewisen <choice><expan/><abbr>pr</abbr></choice> 2000 fl
                <lb facs="#facs_99_r1l18" n="N013"/><choice><expan/><abbr>Sa</abbr></choice> 3945 fl 3 x<hi style="superscript">r</hi>
-               <lb facs="#facs_99_r1l19" n="N014"/>Über die von dem Conventen <hi>Johann</hi> <rs type="person" ref="wkfm__46517">Franz Ferdinand Humbl</rs> gemachte anzeige <seg type="editorial_comment_seg"><hi>0</hi><note type="editorial_comment_note">Es folgt ein Einschub</note></seg> daß
-               <lb facs="#facs_99_r1l20" n="N015"/>sein Bruder <rs type="person" ref="wkfm__46515">Ferdinand Johann</rs> seine Handlung käuflichen <unclear>hindann</unclear> gelassen
+               <lb facs="#facs_99_r1l19" n="N014"/>Über die von dem Conventen <hi>Johann</hi> <rs type="person" ref="#wkfm__46517">Franz Ferdinand Humbl</rs> gemachte anzeige <seg type="editorial_comment_seg"><hi>0</hi><note type="editorial_comment_note">Es folgt ein Einschub</note></seg> daß
+               <lb facs="#facs_99_r1l20" n="N015"/>sein Bruder <rs type="person" ref="#wkfm__46515">Ferdinand Johann</rs> seine Handlung käuflichen <unclear>hindann</unclear> gelassen
                <lb facs="#facs_99_r1l21" n="N016"/>ist demselben die Extradirung des Cautions Instruments mit dem beysaz
                <lb facs="#facs_99_r1l22" n="N017"/>daß selber jedoch denen sich allenfals hervorthuenden Handlungs <unclear>Schulden</unclear>
                <lb facs="#facs_99_r1l23" n="N018"/>zu hafte schuldig seye solle verwilliget, ein solches auch laut beyeruk-

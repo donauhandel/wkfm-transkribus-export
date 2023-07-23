@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -73,14 +73,14 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_15" n="15" xml:id="img_0015"/>
+            <pb facs="#facs_15" n="15" xml:id="img_0015" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1115.jpg"/>
             
             <ab facs="#facs_15_r1">
                <lb facs="#facs_15_r1l2" n="N001"/>551
                <lb facs="#facs_15_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_15_r1l3" n="N003"/><rs type="person" ref="wkfm__26314">Lüders Johann</rs> hofbefreyter Handlsmann
+               <lb facs="#facs_15_r1l3" n="N003"/><rs type="person" ref="#wkfm__26314">Lüders Johann</rs> hofbefreyter Handlsmann
                <lb facs="#facs_15_r1l4" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_15_r1l5" n="N005"/><rs type="person" ref="wkfm__46788">Johann Lüders</rs> laut Anbringen von dessen bedienten <rs type="person" ref="wkfm__46789">Johann Samuel <unclear>Bößler</unclear></rs>
+               <lb facs="#facs_15_r1l5" n="N005"/><rs type="person" ref="#wkfm__46788">Johann Lüders</rs> laut Anbringen von dessen bedienten <rs type="person" ref="#wkfm__46789">Johann Samuel <unclear>Bößler</unclear></rs>
                <lb facs="#facs_15_r1l6" n="N006"/>de ps: 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 512
                <lb facs="#facs_15_r1l7" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_15_line_1624519952332_2208" n="N008"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>

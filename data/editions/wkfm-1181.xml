@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -86,26 +86,26 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_81" n="81" xml:id="img_0081"/>
+            <pb facs="#facs_81" n="81" xml:id="img_0081" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1181.jpg"/>
             
             <ab facs="#facs_81_r1">
                <lb facs="#facs_81_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_81_r1l2" n="N003"/><rs type="person" ref="wkfm__46785">Lang Jacob</rs> burgerlicher Tuchlaubens Verwanter
+               <lb facs="#facs_81_r1l2" n="N003"/><rs type="person" ref="#wkfm__46785">Lang Jacob</rs> burgerlicher Tuchlaubens Verwanter
                <lb facs="#facs_81_r1l3" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_81_r1l4" n="N005"/><rs type="person" ref="wkfm__46849">Lang und Solderer</rs> laut Erklährung
-               <lb facs="#facs_81_r1l5" n="N006"/><rs type="person" ref="wkfm__46848">Jacob Lang</rs> laut Erklährung
+               <lb facs="#facs_81_r1l4" n="N005"/><rs type="person" ref="#wkfm__46849">Lang und Solderer</rs> laut Erklährung
+               <lb facs="#facs_81_r1l5" n="N006"/><rs type="person" ref="#wkfm__46848">Jacob Lang</rs> laut Erklährung
                <lb facs="#facs_81_r1l6" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_81_r1l7" n="N008"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_81_r1l8" n="N009"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_81_r1l9" n="N010"/>Der <rs type="person" ref="wkfm__46785">Jacob Lang</rs> hat nebst seinem socio <rs type="person" key="Personen ID=46850, ">Paul Solderer</rs> zu Ausweisung
+               <lb facs="#facs_81_r1l9" n="N010"/>Der <rs type="person" ref="#wkfm__46785">Jacob Lang</rs> hat nebst seinem socio <rs type="person" key="Personen ID=46850, ">Paul Solderer</rs> zu Ausweisung
                <lb facs="#facs_81_r1l10" n="N011"/>ihres Handlungs Fundi die von dem Oberreithandler der Stat Wienn
                <lb facs="#facs_81_r1l11" n="N012"/>Pupillen <hi>Raithand</hi> Rait-Cammer untern 1<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 754 dahin ausgestelte
-               <lb facs="#facs_81_r1l12" n="N013"/><choice><expan/><abbr>orig:</abbr></choice> Urkund N<hi style="superscript">o</hi> 1599, daß der <rs type="person" ref="wkfm__46785">Jacob Lang</rs> an Mütterlichen 4186 fl 34 x<hi style="superscript">r</hi>
-               <lb facs="#facs_81_r1l13" n="N014"/>überkommen; dann da von dem Handlungs Verkaufer <rs type="person" ref="wkfm__46170">Franz
+               <lb facs="#facs_81_r1l12" n="N013"/><choice><expan/><abbr>orig:</abbr></choice> Urkund N<hi style="superscript">o</hi> 1599, daß der <rs type="person" ref="#wkfm__46785">Jacob Lang</rs> an Mütterlichen 4186 fl 34 x<hi style="superscript">r</hi>
+               <lb facs="#facs_81_r1l13" n="N014"/>überkommen; dann da von dem Handlungs Verkaufer <rs type="person" ref="#wkfm__46170">Franz
                <lb break="no" facs="#facs_81_r1l14" n="N015"/>Joseph Hammer</rs> untern 9<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 755 dahin ausgestelte attestatum
                <lb facs="#facs_81_r1l15" n="N016"/>N<hi style="superscript">o</hi> 1598, daß sie beede socii ihm attestaten an baaren Eigenthumlichen
                <lb facs="#facs_81_r1l16" n="N017"/>Mitlen 12000 fl bewisen haben eingeleget
-               <lb facs="#facs_81_r1l17" n="N018"/>Annebst hat der<rs type="person" ref="wkfm__46170"> Franz Joseph Hammer</rs> den <choice><expan/><abbr>orig:</abbr></choice> revers dd<hi style="superscript">to</hi> 30<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice>
+               <lb facs="#facs_81_r1l17" n="N018"/>Annebst hat der<rs type="person" ref="#wkfm__46170"> Franz Joseph Hammer</rs> den <choice><expan/><abbr>orig:</abbr></choice> revers dd<hi style="superscript">to</hi> 30<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice>
                <lb facs="#facs_81_r1l18" n="N019"/>755 N<hi style="superscript">o</hi> 1600 dahin eingeleget das er für alle handlungspassiva welche bis
                <lb facs="#facs_81_r1l19" n="N020"/>24<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 754 auf der Handlung etwa hafften sollen allein stehen und solche
                <lb facs="#facs_81_r1l20" n="N021"/>allein befridigen wolle.

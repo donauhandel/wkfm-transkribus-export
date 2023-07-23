@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -87,25 +87,25 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_111" n="111" xml:id="img_0111"/>
+            <pb facs="#facs_111" n="111" xml:id="img_0111" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0779.jpg"/>
             
             <ab facs="#facs_111_r1">
                <lb facs="#facs_111_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_111_line_1621548645339_1145" n="N003"/><rs type="person" ref="wkfm__47142">Fellinger Lorenz</rs> burgerlicher Handlsmann
+               <lb facs="#facs_111_line_1621548645339_1145" n="N003"/><rs type="person" ref="#wkfm__47142">Fellinger Lorenz</rs> burgerlicher Handlsmann
                <lb facs="#facs_111_r1l4" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_111_r1l5" n="N005"/><rs type="person" ref="wkfm__47143">Lorentz Fellinger</rs> laut Erklährung dd<hi style="superscript">to</hi> 13<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 742 N<hi style="superscript">o</hi> 369.
+               <lb facs="#facs_111_r1l5" n="N005"/><rs type="person" ref="#wkfm__47143">Lorentz Fellinger</rs> laut Erklährung dd<hi style="superscript">to</hi> 13<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 742 N<hi style="superscript">o</hi> 369.
                <lb facs="#facs_111_r1l6" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_111_r1l7" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_111_r1l8" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_111_r1l9" n="N009"/>Der <rs type="person" ref="wkfm__47142">Fellinger</rs> hat seinem Fundum mitls der Specification N<hi style="superscript">o</hi> 1435 folgen-
+               <lb facs="#facs_111_r1l9" n="N009"/>Der <rs type="person" ref="#wkfm__47142">Fellinger</rs> hat seinem Fundum mitls der Specification N<hi style="superscript">o</hi> 1435 folgen-
                <lb facs="#facs_111_r1l10" n="N010"/>der maßen ausgewisen, nemlich daß er Eigenthumlich besize
-               <lb facs="#facs_111_r1l11" n="N011"/>Vermög attestati des <rs type="person" ref="wkfm__43938">Johann Georg Braun</rs> dd<hi style="superscript">to</hi> 7<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 742 N<hi style="superscript">o</hi> 1436 an er-
+               <lb facs="#facs_111_r1l11" n="N011"/>Vermög attestati des <rs type="person" ref="#wkfm__43938">Johann Georg Braun</rs> dd<hi style="superscript">to</hi> 7<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 742 N<hi style="superscript">o</hi> 1436 an er-
                <lb facs="#facs_111_line_1624043652716_175" n="N012"/>spahrten <unclear>Salario</unclear> 500 fl
-               <lb facs="#facs_111_r1l15" n="N013"/>Vermög det: von <rs type="person" ref="wkfm__47144">Wolfgang Oberhager</rs> dd<hi style="superscript">to</hi> 3<hi style="superscript"><unclear>ten</unclear></hi> ej: N<hi style="superscript">o</hi> 1437 an <unclear>Weingärten</unclear> 300 fl
-               <lb facs="#facs_111_line_1624043679300_189" n="N014"/>Vermög <unclear>Cantionirten</unclear> Cession dd<hi style="superscript">to</hi> eodem von seiner Braut <rs type="person" ref="wkfm__47145">Maria Magdalena
+               <lb facs="#facs_111_r1l15" n="N013"/>Vermög det: von <rs type="person" ref="#wkfm__47144">Wolfgang Oberhager</rs> dd<hi style="superscript">to</hi> 3<hi style="superscript"><unclear>ten</unclear></hi> ej: N<hi style="superscript">o</hi> 1437 an <unclear>Weingärten</unclear> 300 fl
+               <lb facs="#facs_111_line_1624043679300_189" n="N014"/>Vermög <unclear>Cantionirten</unclear> Cession dd<hi style="superscript">to</hi> eodem von seiner Braut <rs type="person" ref="#wkfm__47145">Maria Magdalena
                <lb break="no" facs="#facs_111_line_1624044488463_244" n="N015"/>Breunerin</rs> N<hi style="superscript">o</hi> 1438 habe ihre selbe zur Sicherheit deren Creditoren uberlossen 1800 fl
                <lb facs="#facs_111_line_1624043689793_195" n="N016"/>Zusamen Eigenthum 2600 fl
-               <lb facs="#facs_111_r1l22" n="N017"/>Zu Completirung des übrigen hat der <rs type="person" ref="wkfm__47144">Wolfgang Oberhager</rs>
+               <lb facs="#facs_111_r1l22" n="N017"/>Zu Completirung des übrigen hat der <rs type="person" ref="#wkfm__47144">Wolfgang Oberhager</rs>
                <lb facs="#facs_111_r1l23" n="N018"/>das <choice><expan/><abbr>orig:</abbr></choice> Cautions Instrument dd<hi style="superscript">to</hi> 3<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 74<unclear>2</unclear> N<hi style="superscript">o</hi> 1439
                <lb facs="#facs_111_line_1624043701313_204" n="N019"/>eingeleget <choice><expan/><abbr>pr</abbr></choice> 5400 fl
                <lb facs="#facs_111_line_1624179368887_37" n="N020"/><choice><expan/><abbr>Sa</abbr></choice> 8000 fl

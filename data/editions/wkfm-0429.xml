@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -73,14 +73,14 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_109" n="109" xml:id="img_0109"/>
+            <pb facs="#facs_109" n="109" xml:id="img_0109" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0429.jpg"/>
             
             <ab facs="#facs_109_r3">
                <lb facs="#facs_109_r3l2" n="N002"/>212
                <lb facs="#facs_109_r3l1" n="N003"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_109_r3l3" n="N004"/><rs type="person" ref="wkfm__46137">Creitzmayer Gregori</rs> burgerlicher Handlsmann
+               <lb facs="#facs_109_r3l3" n="N004"/><rs type="person" ref="#wkfm__46137">Creitzmayer Gregori</rs> burgerlicher Handlsmann
                <lb facs="#facs_109_r3l4" n="N005"/>Firma ad Raggion
-               <lb facs="#facs_109_r3l5" n="N006"/><rs type="person" ref="wkfm__47245">Gregori Creitzmayr</rs> laut Erklährung dd<hi style="superscript">to</hi> 11<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 733 N<hi style="superscript">o</hi> 210
+               <lb facs="#facs_109_r3l5" n="N006"/><rs type="person" ref="#wkfm__47245">Gregori Creitzmayr</rs> laut Erklährung dd<hi style="superscript">to</hi> 11<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 733 N<hi style="superscript">o</hi> 210
                <lb facs="#facs_109_r3l6" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_109_r3l7" n="N008"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_109_r3l8" n="N009"/><seg type="orighead__fundi">Fundi Ausweisung</seg>

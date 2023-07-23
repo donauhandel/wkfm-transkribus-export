@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -75,15 +75,15 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_73" n="73" xml:id="img_0073"/>
+            <pb facs="#facs_73" n="73" xml:id="img_0073" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0993.jpg"/>
             
             <ab facs="#facs_73_r3">
                <lb facs="#facs_73_r3l2" n="N001"/>489
                <lb facs="#facs_73_r3l1" n="N003"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_73_r3l3" n="N004"/><rs type="person" ref="wkfm__17713">Hueber Franz Xaverius</rs> burgerlicher Handlsmann
+               <lb facs="#facs_73_r3l3" n="N004"/><rs type="person" ref="#wkfm__17713">Hueber Franz Xaverius</rs> burgerlicher Handlsmann
                <lb facs="#facs_73_r3l4" n="N005"/>Firma ad Raggion
-               <lb facs="#facs_73_r3l5" n="N006"/><rs type="person" ref="wkfm__46490">Franz Xavery Hueber</rs> laut Erklährung dd<hi style="superscript">to</hi> 10<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 727 N<hi style="superscript">o</hi> 460
-               <lb facs="#facs_73_r3l6" n="N007"/>Diese Handlung hat der <rs type="person" ref="wkfm__46491">Andre Sebastian Siegert</rs> <choice><expan/><abbr>ao</abbr></choice> 773 kauflich an sich
+               <lb facs="#facs_73_r3l5" n="N006"/><rs type="person" ref="#wkfm__46490">Franz Xavery Hueber</rs> laut Erklährung dd<hi style="superscript">to</hi> 10<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 727 N<hi style="superscript">o</hi> 460
+               <lb facs="#facs_73_r3l6" n="N007"/>Diese Handlung hat der <rs type="person" ref="#wkfm__46491">Andre Sebastian Siegert</rs> <choice><expan/><abbr>ao</abbr></choice> 773 kauflich an sich
                <lb facs="#facs_73_r3l7" n="N008"/>gelöset caetera vide Sigert in Protocollo 2<hi style="superscript">do</hi> Mercantili
                <lb facs="#facs_73_r3l8" n="N009"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_73_r3l9" n="N010"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>

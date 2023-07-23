@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -85,27 +85,27 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_139" n="139" xml:id="img_0139"/>
+            <pb facs="#facs_139" n="139" xml:id="img_0139" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1597.jpg"/>
             
             <ab facs="#facs_139_r3">
                <lb facs="#facs_139_r3l2" n="N001"/>791
                <lb facs="#facs_139_r3l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_139_r3l3" n="N003"/><rs type="person" ref="wkfm__26327">Setti Franz</rs> hofbefreyter Handlsmann
+               <lb facs="#facs_139_r3l3" n="N003"/><rs type="person" ref="#wkfm__26327">Setti Franz</rs> hofbefreyter Handlsmann
                <lb facs="#facs_139_r3l4" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_139_r3l5" n="N005"/><rs type="person" ref="wkfm__47499">Franz Et Ferdinand Setti</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 726 welche dessen
-               <lb facs="#facs_139_r3l6" n="N006"/>Vatter <rs type="person" ref="wkfm__8802">Lucas Setti</rs> mitls anbringen de ps: 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 734 N<hi style="superscript">o</hi> 727 eingelegt
+               <lb facs="#facs_139_r3l5" n="N005"/><rs type="person" ref="#wkfm__47499">Franz Et Ferdinand Setti</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 726 welche dessen
+               <lb facs="#facs_139_r3l6" n="N006"/>Vatter <rs type="person" ref="#wkfm__8802">Lucas Setti</rs> mitls anbringen de ps: 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 734 N<hi style="superscript">o</hi> 727 eingelegt
                <lb facs="#facs_139_r3l7" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
-               <lb facs="#facs_139_r3l8" n="N008"/>In obiger Erklährung sine dato N<hi style="superscript">o</hi> 726 ist die Firma der Raggion <rs type="person" ref="wkfm__47499">Franz
-               <lb break="no" facs="#facs_139_r3l9" n="N009"/>et Ferdinand Setti</rs> von dem Vattern <rs type="person" ref="wkfm__8802">Lucas Setti</rs> wegen unvogtbarkeit
+               <lb facs="#facs_139_r3l8" n="N008"/>In obiger Erklährung sine dato N<hi style="superscript">o</hi> 726 ist die Firma der Raggion <rs type="person" ref="#wkfm__47499">Franz
+               <lb break="no" facs="#facs_139_r3l9" n="N009"/>et Ferdinand Setti</rs> von dem Vattern <rs type="person" ref="#wkfm__8802">Lucas Setti</rs> wegen unvogtbarkeit
                <lb facs="#facs_139_r3l10" n="N010"/>beider sociorum eingeleget worden
-               <lb facs="#facs_139_r3l11" n="N011"/>Mitls Anbringen de ps: 13<hi style="superscript">ten</hi> May 735 N<hi style="superscript">o</hi> 1073 hat der <rs type="person" ref="wkfm__8802">Lucas Setti</rs> wehrend
-               <lb facs="#facs_139_r3l12" n="N012"/>seiner Abwesenheit die Procura seiner Ehewirthin<rs type="person" ref="wkfm__8802"> Anna Catharina</rs>
+               <lb facs="#facs_139_r3l11" n="N011"/>Mitls Anbringen de ps: 13<hi style="superscript">ten</hi> May 735 N<hi style="superscript">o</hi> 1073 hat der <rs type="person" ref="#wkfm__8802">Lucas Setti</rs> wehrend
+               <lb facs="#facs_139_r3l12" n="N012"/>seiner Abwesenheit die Procura seiner Ehewirthin<rs type="person" ref="#wkfm__8802"> Anna Catharina</rs>
                <lb facs="#facs_139_r3l13" n="N013"/>in seiner und seiner Söhnen Handlung ertheilet
                <lb facs="#facs_139_r3l14" n="N014"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_139_line_1626336837915_1548" n="N015"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_139_r3l16" n="N016"/>Vermög Decreti dd<hi style="superscript">to</hi> 3<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 734 N<hi style="superscript">o</hi> 728 in Copia vidimata ist dem <rs type="person" ref="wkfm__8802">Lucas Setti</rs> für
-               <lb facs="#facs_139_r3l17" n="N017"/>obige seine zwey Söhne <rs type="person" ref="wkfm__26327">Franz</rs> und <rs type="person" ref="wkfm__23727">Ferdinand Setti</rs> dergestalten
-               <lb facs="#facs_139_r3l18" n="N018"/>ertheilet worden, das jedoch er <rs type="person" ref="wkfm__8802">Lucas Setti</rs> bis zu Erlangender
+               <lb facs="#facs_139_r3l16" n="N016"/>Vermög Decreti dd<hi style="superscript">to</hi> 3<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 734 N<hi style="superscript">o</hi> 728 in Copia vidimata ist dem <rs type="person" ref="#wkfm__8802">Lucas Setti</rs> für
+               <lb facs="#facs_139_r3l17" n="N017"/>obige seine zwey Söhne <rs type="person" ref="#wkfm__26327">Franz</rs> und <rs type="person" ref="#wkfm__23727">Ferdinand Setti</rs> dergestalten
+               <lb facs="#facs_139_r3l18" n="N018"/>ertheilet worden, das jedoch er <rs type="person" ref="#wkfm__8802">Lucas Setti</rs> bis zu Erlangender
                <lb facs="#facs_139_r3l19" n="N019"/>Vogtbarkeit gedacht seiner zweyen Söhnen in allen diese Handlung
                <lb facs="#facs_139_r3l20" n="N020"/>angehenden Sachen seiner bey Hof eingereichten Erklährung gemäß
                <lb facs="#facs_139_r3l21" n="N021"/>zu haften schuldig seyn solle.

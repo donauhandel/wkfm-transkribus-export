@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -94,38 +94,38 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_229" n="229" xml:id="img_0229"/>
+            <pb facs="#facs_229" n="229" xml:id="img_0229" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0283.jpg"/>
             
             <ab facs="#facs_229_r2">
                <lb facs="#facs_229_r2l2" n="N001"/><hi>138</hi>
                <lb facs="#facs_229_r2l3" n="N002"/>139
                <lb facs="#facs_229_r2l1" n="N003"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_229_r2l4" n="N004"/><hi>Pohamb Johann burgerlicher Handlsmann</hi>
-               <lb facs="#facs_229_r2l6" n="N005"/><rs type="person" ref="wkfm__43966">Polidoro Dominicus</rs> burgerlicher Handlsmann
+               <lb facs="#facs_229_r2l6" n="N005"/><rs type="person" ref="#wkfm__43966">Polidoro Dominicus</rs> burgerlicher Handlsmann
                <lb facs="#facs_229_r2l7" n="N006"/>Firma ad Raggion
                <lb facs="#facs_229_r2l8" n="N007"/><hi>Johann Pohamb</hi>
-               <lb facs="#facs_229_line_1621472390216_4387" n="N008"/><rs type="person" ref="wkfm__47380">Dominicus Polidoro</rs> laut Erklährung dd<hi style="superscript">to</hi> 9<hi style="superscript">ten</hi> Julii 743 N<hi style="superscript">o</hi> 140
+               <lb facs="#facs_229_line_1621472390216_4387" n="N008"/><rs type="person" ref="#wkfm__47380">Dominicus Polidoro</rs> laut Erklährung dd<hi style="superscript">to</hi> 9<hi style="superscript">ten</hi> Julii 743 N<hi style="superscript">o</hi> 140
                <lb facs="#facs_229_r2l11" n="N009"/>Vermög Anbringen de ps: 15<hi style="superscript">ten</hi> Aprilis 760 hat die Dominici Polidorische Wittib ihre firma
                <lb facs="#facs_229_r2l12" n="N010"/>eingeleget. Sub <choice><expan/><abbr>nro</abbr></choice> 140 1/2
                <lb facs="#facs_229_r2l13" n="N011"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_229_r2l14" n="N012"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_229_r2l15" n="N013"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_229_r2l16" n="N014"/>Der <rs type="person" ref="wkfm__43966">Polidoro</rs> hat zu Ausweisung seines Fundi ein von dem <rs type="person" ref="wkfm__9136">Carlo Barbieri</rs>
+               <lb facs="#facs_229_r2l16" n="N014"/>Der <rs type="person" ref="#wkfm__43966">Polidoro</rs> hat zu Ausweisung seines Fundi ein von dem <rs type="person" ref="#wkfm__9136">Carlo Barbieri</rs>
                <lb facs="#facs_229_r2l17" n="N015"/>dahin ausgesteltes respective attestatum und Cautions Instrument, daß dem
-               <lb facs="#facs_229_line_1621472417181_4413" n="N016"/><rs type="person" ref="wkfm__43966">Polidoro</rs> sein Vatter 4000 fl als ein Wahres Eigenthum überschiken werde
-               <lb facs="#facs_229_r2l20" n="N017"/>und er <rs type="person" ref="wkfm__9136">Barbieri</rs> <hi>hat biß und</hi> biß zu deren überkommung für solche gutt
-               <lb facs="#facs_229_r2l21" n="N018"/>stehen wollen, dann ein von der <rs type="person" ref="wkfm__43967">Anna Maria Leweneckhin</rs> unter <choice><expan/><abbr>Jun:</abbr></choice> 743
+               <lb facs="#facs_229_line_1621472417181_4413" n="N016"/><rs type="person" ref="#wkfm__43966">Polidoro</rs> sein Vatter 4000 fl als ein Wahres Eigenthum überschiken werde
+               <lb facs="#facs_229_r2l20" n="N017"/>und er <rs type="person" ref="#wkfm__9136">Barbieri</rs> <hi>hat biß und</hi> biß zu deren überkommung für solche gutt
+               <lb facs="#facs_229_r2l21" n="N018"/>stehen wollen, dann ein von der <rs type="person" ref="#wkfm__43967">Anna Maria Leweneckhin</rs> unter <choice><expan/><abbr>Jun:</abbr></choice> 743
                <lb facs="#facs_229_r2l22" n="N019"/>ausgesteltes Cautions Instrument <choice><expan/><abbr>pr</abbr></choice> 4000 fl eingeleget
-               <lb facs="#facs_229_line_1621472457032_4437" n="N020"/>Über die von dem <rs type="person" ref="wkfm__43966">Polidoro</rs> gemachte Anzeige de ps: 5<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 743 N<hi style="superscript">o</hi> 1201 das sie die 4000 fl allschon von seinem
-               <lb facs="#facs_229_r2l25" n="N021"/>Vattern überkommen und beygelegte Quittung von dem <rs type="person" ref="wkfm__26325">Giacchomo Negri</rs> dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi>
-               <lb facs="#facs_229_line_1621472535739_4485" n="N022"/><choice><expan/><abbr>Aug:</abbr></choice> 743 N<hi style="superscript">o</hi> 1202 das ihm der <rs type="person" ref="wkfm__43966">Polidoro</rs> für die abgekaufte Handlung 4017 fl 27 x<hi style="superscript">r</hi> 2 d bezahlet
+               <lb facs="#facs_229_line_1621472457032_4437" n="N020"/>Über die von dem <rs type="person" ref="#wkfm__43966">Polidoro</rs> gemachte Anzeige de ps: 5<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 743 N<hi style="superscript">o</hi> 1201 das sie die 4000 fl allschon von seinem
+               <lb facs="#facs_229_r2l25" n="N021"/>Vattern überkommen und beygelegte Quittung von dem <rs type="person" ref="#wkfm__26325">Giacchomo Negri</rs> dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi>
+               <lb facs="#facs_229_line_1621472535739_4485" n="N022"/><choice><expan/><abbr>Aug:</abbr></choice> 743 N<hi style="superscript">o</hi> 1202 das ihm der <rs type="person" ref="#wkfm__43966">Polidoro</rs> für die abgekaufte Handlung 4017 fl 27 x<hi style="superscript">r</hi> 2 d bezahlet
                <lb facs="#facs_229_line_1621472647808_4510" n="N023"/>ist zufolge der auf obige Anzeige erlassene Auflag und beygerukte Quittung dd<hi style="superscript">to</hi> 6<hi style="superscript">ten</hi> ej
-               <lb facs="#facs_229_r2l33" n="N024"/>obiges von dem <rs type="person" ref="wkfm__9136">Barbieri</rs> eingelegtes Instrument dem <rs type="person" ref="wkfm__43966">Polidoro</rs> erfolget worden
-               <lb facs="#facs_229_r2l35" n="N025"/>zu weitherer Ausweisung seines Fundi hat der <rs type="person" ref="wkfm__43966">Polidoro</rs> sein <choice><expan/><abbr>orig:</abbr></choice> Inventur dd<hi style="superscript">to</hi> 12<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice>
-               <lb facs="#facs_229_line_1621472689032_4527" n="N026"/>745 N<hi style="superscript">o</hi> 1204 nebst einem von dem <rs type="person" ref="wkfm__19355">Anton Lucas Polidoro</rs> hierüber ausgesteltes <choice><expan/><abbr>orig:</abbr></choice> attestatum
+               <lb facs="#facs_229_r2l33" n="N024"/>obiges von dem <rs type="person" ref="#wkfm__9136">Barbieri</rs> eingelegtes Instrument dem <rs type="person" ref="#wkfm__43966">Polidoro</rs> erfolget worden
+               <lb facs="#facs_229_r2l35" n="N025"/>zu weitherer Ausweisung seines Fundi hat der <rs type="person" ref="#wkfm__43966">Polidoro</rs> sein <choice><expan/><abbr>orig:</abbr></choice> Inventur dd<hi style="superscript">to</hi> 12<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice>
+               <lb facs="#facs_229_line_1621472689032_4527" n="N026"/>745 N<hi style="superscript">o</hi> 1204 nebst einem von dem <rs type="person" ref="#wkfm__19355">Anton Lucas Polidoro</rs> hierüber ausgesteltes <choice><expan/><abbr>orig:</abbr></choice> attestatum
                <lb facs="#facs_229_line_1621472773511_4558" n="N027"/>dd<hi style="superscript">to</hi> 31<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 745 N<hi style="superscript">o</hi> 1205 <choice><expan/><abbr>pr</abbr></choice> 8992 fl 5 x<hi style="superscript">r</hi> Übermaß in activo eingelegt, wohrgegen ihm zufolge der
                <lb facs="#facs_229_r2l38" n="N028"/>auflag<hi> dd<hi style="superscript"/></hi>to<hi style="superscript">ten</hi> und beygerukter Quittung dd<hi style="superscript">to</hi> 10<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 745 N<hi style="superscript">o</hi> 1203 obiges von der
-               <lb facs="#facs_229_r2l39" n="N029"/><rs type="person" ref="wkfm__43967">Lewenkhin</rs> eingelegtes Cautions Instrument <choice><expan/><abbr>pr</abbr></choice> 4000 fl extradiret worden
+               <lb facs="#facs_229_r2l39" n="N029"/><rs type="person" ref="#wkfm__43967">Lewenkhin</rs> eingelegtes Cautions Instrument <choice><expan/><abbr>pr</abbr></choice> 4000 fl extradiret worden
             </ab>
             
         </div>

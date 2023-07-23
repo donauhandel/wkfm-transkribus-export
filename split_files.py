@@ -11,7 +11,7 @@ from saxonche import PySaxonProcessor
 
 environment = Environment(loader=FileSystemLoader("./"))
 template = environment.get_template("template.j2")
-
+arche_base = "https://id.acdh.oeaw.ac.at/wkfm/"
 editions = os.path.join("data", "editions")
 shutil.rmtree(editions, ignore_errors=True)
 os.makedirs(editions, exist_ok=True)
@@ -29,6 +29,10 @@ headings = (
     (
         "/>Societaets Contract und Interessenten",
         '/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>',
+    ),
+    (
+        "/>Societats Contract und Interessenten",
+        '/><seg type="orighead__contract">Societats Contract und Interessenten</seg>',
     ),
     ("/>Heuraths Contract", '/><seg type="orighead__wedding_contract">Heuraths Contract</seg>'),
     ("/>Heuraths=Contract", '/><seg type="orighead__wedding_contract">Heuraths=Contract</seg>'),
@@ -60,6 +64,7 @@ for i, x in enumerate(tqdm(files)):
         )
         for heading in headings:
             ab_text = ab_text.replace(heading[0], heading[1])
+        ab_text = ab_text.replace('ref="wkfm', 'ref="#wkfm')
         page = {
             "id": f"wkfm-{img_id}",
             "col_id": col_id,
@@ -82,3 +87,12 @@ for i, x in enumerate(tqdm(files)):
             output = executable.transform_to_string(xdm_node=document).replace(r"\u0022", "")
             with open(os.path.join(editions, f"wkfm-{img_id}.xml"), "w") as f:
                 f.write(output)
+
+files = glob.glob('./data/editions/*xml')
+print("fixing facs")
+for x in files:
+    doc = TeiReader(x)
+    facs_url = doc.any_xpath(".//tei:graphic/@url")[0]
+    pb = doc.any_xpath(".//tei:pb")[0]
+    pb.attrib["corresp"] = f"{arche_base}{facs_url}"
+    doc.tree_to_file(x)

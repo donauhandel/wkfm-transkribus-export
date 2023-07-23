@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -74,16 +74,16 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_21" n="21" xml:id="img_0021"/>
+            <pb facs="#facs_21" n="21" xml:id="img_0021" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1313.jpg"/>
             
             <ab facs="#facs_21_r1">
                <lb facs="#facs_21_r1l2" n="N001"/>649
                <lb facs="#facs_21_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_21_r1l3" n="N003"/>Neuhaußer Matthias burgerlicher Handlsmann
                <lb facs="#facs_21_r1l4" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_21_r1l5" n="N005"/><rs type="person" ref="wkfm__46662">Matthias Neuhaußer</rs> laut Erklährung dd<hi style="superscript">to</hi> 10<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 733 N<hi style="superscript">o</hi> 606
-               <lb facs="#facs_21_r1l6" n="N006"/><rs type="person" ref="wkfm__46663">Mathias Neuhauser <choice><expan/><abbr>seel:</abbr></choice> Wittib</rs>
-               <lb facs="#facs_21_r1l7" n="N007"/><rs type="person" ref="wkfm__46666">Mathias Neuhauser <choice><expan/><abbr>seel:</abbr></choice> Wittib und Sohn</rs>
+               <lb facs="#facs_21_r1l5" n="N005"/><rs type="person" ref="#wkfm__46662">Matthias Neuhaußer</rs> laut Erklährung dd<hi style="superscript">to</hi> 10<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 733 N<hi style="superscript">o</hi> 606
+               <lb facs="#facs_21_r1l6" n="N006"/><rs type="person" ref="#wkfm__46663">Mathias Neuhauser <choice><expan/><abbr>seel:</abbr></choice> Wittib</rs>
+               <lb facs="#facs_21_r1l7" n="N007"/><rs type="person" ref="#wkfm__46666">Mathias Neuhauser <choice><expan/><abbr>seel:</abbr></choice> Wittib und Sohn</rs>
                <lb facs="#facs_21_r1l8" n="N008"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_21_line_1625040902901_967" n="N009"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_21_r1l9" n="N010"/><seg type="orighead__fundi">Fundi Ausweisung</seg>

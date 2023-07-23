@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -70,13 +70,13 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_112" n="112" xml:id="img_0112"/>
+            <pb facs="#facs_112" n="112" xml:id="img_0112" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1570.jpg"/>
             
             <ab facs="#facs_112_r1">
                <lb facs="#facs_112_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_112_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 13<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 729 N<hi style="superscript">o</hi> 2046 hat sich der
-               <lb facs="#facs_112_r1l3" n="N003"/><rs type="person" ref="wkfm__47477">Schell</rs> nebst dem <rs type="person" ref="wkfm__47479">Appoldt</rs> geäusseret, daß sie beede ihre Handlung
-               <lb facs="#facs_112_r1l4" n="N004"/>unter der Societaets Raggion<rs type="person" ref="wkfm__47478"> Schell und Appold</rs> miteinander führen
+               <lb facs="#facs_112_r1l3" n="N003"/><rs type="person" ref="#wkfm__47477">Schell</rs> nebst dem <rs type="person" ref="#wkfm__47479">Appoldt</rs> geäusseret, daß sie beede ihre Handlung
+               <lb facs="#facs_112_r1l4" n="N004"/>unter der Societaets Raggion<rs type="person" ref="#wkfm__47478"> Schell und Appold</rs> miteinander führen
                <lb facs="#facs_112_r1l6" n="N005"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_112_r1l7" n="N006"/>Anmerckungen
             </ab>

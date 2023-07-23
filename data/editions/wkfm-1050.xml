@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -90,28 +90,28 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_130" n="130" xml:id="img_0130"/>
+            <pb facs="#facs_130" n="130" xml:id="img_0130" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1050.jpg"/>
             
             <ab facs="#facs_130_r1">
                <lb facs="#facs_130_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_130_r1l2" n="N002"/><hi>Mitls obigen Anbringen de p</hi>
-               <lb facs="#facs_130_r1l3" n="N003"/>Mitls obigen Anbringen de ps: 15<hi style="superscript">ten</hi> Julii 754 N<hi style="superscript">o</hi> 1982 hat der <rs type="person" ref="wkfm__46559">Hilbert</rs> den zwischen
-               <lb facs="#facs_130_r1l4" n="N004"/>ihm und dem <rs type="person" ref="wkfm__43924">Carl Joseph Moser</rs> als sociis und <rs type="person" ref="wkfm__46560">Johann Adam Paumgart-
+               <lb facs="#facs_130_r1l3" n="N003"/>Mitls obigen Anbringen de ps: 15<hi style="superscript">ten</hi> Julii 754 N<hi style="superscript">o</hi> 1982 hat der <rs type="person" ref="#wkfm__46559">Hilbert</rs> den zwischen
+               <lb facs="#facs_130_r1l4" n="N004"/>ihm und dem <rs type="person" ref="#wkfm__43924">Carl Joseph Moser</rs> als sociis und <rs type="person" ref="#wkfm__46560">Johann Adam Paumgart-
                <lb break="no" facs="#facs_130_r1l5" n="N005"/>ner</rs> als gewesten Moser: socio und <unclear>intervenienten</unclear> untern ult: <choice><expan/><abbr>Aug:</abbr></choice>
                <lb facs="#facs_130_r1l6" n="N006"/>750 errichteten Contract in <choice><expan/><abbr>orig:</abbr></choice> N<hi style="superscript">o</hi> 1981 eingeleget kraft welchen vorgesehen worden
-               <lb facs="#facs_130_r1l7" n="N007"/>daß, nachdem der socius des <rs type="person" ref="wkfm__43924">Moser</rs> <rs type="person" ref="wkfm__46560">Paumgartner</rs> sich entschlossen aus der societaet <hi>zu</hi> welche selbe untern 1<hi style="superscript">ten</hi>
-               <lb facs="#facs_130_r1l8" n="N008"/><choice><expan/><abbr>8br:</abbr></choice> 742 abgeschlossen, zu tretten, und mit Einwilligung des <rs type="person" ref="wkfm__43924">Moser</rs> den <rs type="person" ref="wkfm__46559">Hilbert</rs> in die societaet an statt seiner einzusezen
+               <lb facs="#facs_130_r1l7" n="N007"/>daß, nachdem der socius des <rs type="person" ref="#wkfm__43924">Moser</rs> <rs type="person" ref="#wkfm__46560">Paumgartner</rs> sich entschlossen aus der societaet <hi>zu</hi> welche selbe untern 1<hi style="superscript">ten</hi>
+               <lb facs="#facs_130_r1l8" n="N008"/><choice><expan/><abbr>8br:</abbr></choice> 742 abgeschlossen, zu tretten, und mit Einwilligung des <rs type="person" ref="#wkfm__43924">Moser</rs> den <rs type="person" ref="#wkfm__46559">Hilbert</rs> in die societaet an statt seiner einzusezen
                <lb facs="#facs_130_r1l9" n="N009"/>als solle zwischen ihnen dreyen auf 14 Jahr festgestellet seye, daß die nach ausweisung der Inventur dermahlen an gutten
-               <lb facs="#facs_130_r1l10" n="N010"/>Effecten und activen sich befindliche 70888 fl von welchen 47520 fl dem <rs type="person" ref="wkfm__43924">Moser</rs> dem <rs type="person" ref="wkfm__46560">Paumgartner</rs> aber 23368 fl gehörig
-               <lb facs="#facs_130_r1l11" n="N011"/>also im Fundus in der Handlung verbleiben, die societaet von 1<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 750 auf 14 Jahr <unclear>fürtauren</unclear>, die Raggion <rs type="person" ref="wkfm__43924">Carl Joseph
+               <lb facs="#facs_130_r1l10" n="N010"/>Effecten und activen sich befindliche 70888 fl von welchen 47520 fl dem <rs type="person" ref="#wkfm__43924">Moser</rs> dem <rs type="person" ref="#wkfm__46560">Paumgartner</rs> aber 23368 fl gehörig
+               <lb facs="#facs_130_r1l11" n="N011"/>also im Fundus in der Handlung verbleiben, die societaet von 1<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 750 auf 14 Jahr <unclear>fürtauren</unclear>, die Raggion <rs type="person" ref="#wkfm__43924">Carl Joseph
                <lb break="no" facs="#facs_130_r1l12" n="N012"/>Moser et <choice><expan/><abbr>Comp:</abbr></choice></rs> seye, beeden die Firma zustehen und solchergestalten die oblatorien erlassen und auf dem Plaz die
                <lb facs="#facs_130_r1l13" n="N013"/>Notificationes beschehen, die Cassa, <unclear>alljährliche</unclear> Inventur, <unclear>benöthigte</unclear> Bücher und Correspondenz selber zu besor-
-               <lb facs="#facs_130_r1l14" n="N014"/>gen schuldig seye, von Gewün Verlust und Spesen 2/3 tl dem <rs type="person" ref="wkfm__43924">Moser</rs> 1/3 tl dem <rs type="person" ref="wkfm__46559">Hilbert</rs> zufallen, keiner aus beyden be-
+               <lb facs="#facs_130_r1l14" n="N014"/>gen schuldig seye, von Gewün Verlust und Spesen 2/3 tl dem <rs type="person" ref="#wkfm__43924">Moser</rs> 1/3 tl dem <rs type="person" ref="#wkfm__46559">Hilbert</rs> zufallen, keiner aus beyden be-
                <lb facs="#facs_130_r1l15" n="N015"/>sondere Negotien bey 1000 fl Pönn <hi>od</hi> für die armen <hi>fr</hi> machen, fremte Capitalien unter der Compagnie Nahmen auf-
                <lb facs="#facs_130_r1l16" n="N016"/>nehmen, Wechslbrief und obligationen ausstellen Bürgschaft leisten, gelder ausleihen, geschänknuß machen, alß im widrigen
-               <lb facs="#facs_130_r1l17" n="N017"/>hiefür die societaet nicht zustehen haben, der <rs type="person" ref="wkfm__43924">Moser</rs> alljährlich 600 fl der <rs type="person" ref="wkfm__46559">Hilberth</rs> 800 fl a conto des gewüns
-               <lb facs="#facs_130_r1l18" n="N018"/>herauszunehmen befugt, dem <rs type="person" ref="wkfm__46560">Paumgartner</rs> aber für die 23368 fl jährl: 5 <choice><expan/><abbr>pC<hi style="superscript">to</hi></abbr></choice> und zwahr zu 2/3 tl von dem <rs type="person" ref="wkfm__43924">Moser</rs> zu
-               <lb facs="#facs_130_r1l19" n="N019"/>1/3 tl von dem <hi>P</hi> <rs type="person" ref="wkfm__46559">Hilbert</rs> <hi>bezahlet</hi> quantaliter <hi>bezahlet</hi> auch nach verlassen 14 Jahren das Capital bezahlet werden, selber aber weder
+               <lb facs="#facs_130_r1l17" n="N017"/>hiefür die societaet nicht zustehen haben, der <rs type="person" ref="#wkfm__43924">Moser</rs> alljährlich 600 fl der <rs type="person" ref="#wkfm__46559">Hilberth</rs> 800 fl a conto des gewüns
+               <lb facs="#facs_130_r1l18" n="N018"/>herauszunehmen befugt, dem <rs type="person" ref="#wkfm__46560">Paumgartner</rs> aber für die 23368 fl jährl: 5 <choice><expan/><abbr>pC<hi style="superscript">to</hi></abbr></choice> und zwahr zu 2/3 tl von dem <rs type="person" ref="#wkfm__43924">Moser</rs> zu
+               <lb facs="#facs_130_r1l19" n="N019"/>1/3 tl von dem <hi>P</hi> <rs type="person" ref="#wkfm__46559">Hilbert</rs> <hi>bezahlet</hi> quantaliter <hi>bezahlet</hi> auch nach verlassen 14 Jahren das Capital bezahlet werden, selber aber weder
                <lb facs="#facs_130_r1l20" n="N020"/>an Gewün noch Verlust <hi>Theil h</hi> noch <unclear>impegno Theil</unclear> haben, ihm jedoch die <unclear>Einsicht verstattet</unclear> seye und in wichtigen Sachen der zwey sociis sich begriffen
                <lb facs="#facs_130_r1l21" n="N021"/><unclear>Raths einhollen</unclear>, falß nach Verflüssung der Contractszeit einer austretten wolte, die Aufkündung 1 Jahr vorhero beschehen, die 
                <lb facs="#facs_130_r1l22" n="N022"/>societaet solle auf die Erben nicht verstanden, sondern der überlebende Theil selbe hinaus zu bezahlen befugt und zwahr erst nach Jahr

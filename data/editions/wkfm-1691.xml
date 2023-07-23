@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -73,14 +73,14 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_233" n="233" xml:id="img_0233"/>
+            <pb facs="#facs_233" n="233" xml:id="img_0233" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1691.jpg"/>
             
             <ab facs="#facs_233_r1">
                <lb facs="#facs_233_r1l2" n="N001"/>838
                <lb facs="#facs_233_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_233_r1l3" n="N003"/><rs type="person" ref="wkfm__22079">Sörgel Johann Georg</rs> kay: könig: Niderlags Verwanter
+               <lb facs="#facs_233_r1l3" n="N003"/><rs type="person" ref="#wkfm__22079">Sörgel Johann Georg</rs> kay: könig: Niderlags Verwanter
                <lb facs="#facs_233_r1l5" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_233_r1l6" n="N005"/><rs type="person" ref="wkfm__47602">Johann Georg Sörgel</rs> laut Anbringen de ps: 26<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 754 N<hi style="superscript">o</hi> 781
+               <lb facs="#facs_233_r1l6" n="N005"/><rs type="person" ref="#wkfm__47602">Johann Georg Sörgel</rs> laut Anbringen de ps: 26<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 754 N<hi style="superscript">o</hi> 781
                <lb facs="#facs_233_r1l7" n="N006"/>und Erklährung sine dato N<hi style="superscript">o</hi> 752
                <lb facs="#facs_233_r1l8" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_233_r1l9" n="N008"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>

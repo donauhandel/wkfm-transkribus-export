@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -87,31 +87,31 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_161" n="161" xml:id="img_0161"/>
+            <pb facs="#facs_161" n="161" xml:id="img_0161" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0215.jpg"/>
             
             <ab facs="#facs_161_r3">
                <lb facs="#facs_161_r3l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_161_r3l2" n="N003"/><rs type="person" ref="wkfm__25146">Barbieri Joseph</rs> burgerlicher Handlsmann
+               <lb facs="#facs_161_r3l2" n="N003"/><rs type="person" ref="#wkfm__25146">Barbieri Joseph</rs> burgerlicher Handlsmann
                <lb facs="#facs_161_line_1621469204390_3093" n="N004"/>Firma oder Raggion
-               <lb facs="#facs_161_r3l5" n="N005"/><rs type="person" ref="wkfm__43913">Anton Polidoro et <choice><expan/><abbr>Comp:</abbr></choice></rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 9
+               <lb facs="#facs_161_r3l5" n="N005"/><rs type="person" ref="#wkfm__43913">Anton Polidoro et <choice><expan/><abbr>Comp:</abbr></choice></rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 9
                <lb facs="#facs_161_r3l6" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_161_line_1621469149782_3080" n="N007"/>In obiger Erklährung N<hi style="superscript">o</hi> 989 ist die Firma von beden sociis einge-
                <lb facs="#facs_161_r3l9" n="N008"/>leget worden.
                <lb facs="#facs_161_r3l10" n="N009"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_161_r3l11" n="N010"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_161_r3l12" n="N011"/>Der <rs type="person" ref="wkfm__25146">Barbieri</rs> hat seinen Fundum mitls Anbringen de ps: 3<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 736 N<hi style="superscript">o</hi> 1176
+               <lb facs="#facs_161_r3l12" n="N011"/>Der <rs type="person" ref="#wkfm__25146">Barbieri</rs> hat seinen Fundum mitls Anbringen de ps: 3<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 736 N<hi style="superscript">o</hi> 1176
                <lb facs="#facs_161_r3l13" n="N012"/>folgender massen ausgewisen, nemlich das er eigenthumlich besize an
                <lb facs="#facs_161_r3l14" n="N013"/>ererbten erspahrten salario und überkommenen Gewün aus der mit dem
-               <lb facs="#facs_161_line_1621469326011_3135" n="N014"/><rs type="person" ref="wkfm__19355">Polidoro</rs> vorgehabten societaet 5000 fl
-               <lb facs="#facs_161_r3l19" n="N015"/>zu Completirung des übrigen hat der <rs type="person" ref="wkfm__25146">Carlo Barbieri</rs> das Cautions <hi>In</hi>
+               <lb facs="#facs_161_line_1621469326011_3135" n="N014"/><rs type="person" ref="#wkfm__19355">Polidoro</rs> vorgehabten societaet 5000 fl
+               <lb facs="#facs_161_r3l19" n="N015"/>zu Completirung des übrigen hat der <rs type="person" ref="#wkfm__25146">Carlo Barbieri</rs> das Cautions <hi>In</hi>
                <lb facs="#facs_161_line_1621469336956_3143" n="N016"/>Instrument eingeleget <choice><expan/><abbr>pr</abbr></choice> 3000 fl
                <lb facs="#facs_161_r3l22" n="N017"/><choice><expan>Summa</expan><abbr>Sa</abbr></choice> 8000 fl
-               <lb facs="#facs_161_r3l23" n="N018"/>Über die von dem <rs type="person" ref="wkfm__25146">Barbieri</rs> gemachte Anzeige de ps: 13<hi style="superscript">ten</hi> May 740 N<hi style="superscript">o</hi> 1177
-               <lb facs="#facs_161_r3l24" n="N019"/>das er denen <rs type="person" ref="wkfm__29793">Rozzio: Erben</rs> an aberkaufter Handlung allschon 10231 fl
+               <lb facs="#facs_161_r3l23" n="N018"/>Über die von dem <rs type="person" ref="#wkfm__25146">Barbieri</rs> gemachte Anzeige de ps: 13<hi style="superscript">ten</hi> May 740 N<hi style="superscript">o</hi> 1177
+               <lb facs="#facs_161_r3l24" n="N019"/>das er denen <rs type="person" ref="#wkfm__29793">Rozzio: Erben</rs> an aberkaufter Handlung allschon 10231 fl
                <lb facs="#facs_161_r3l25" n="N020"/>48 x<hi style="superscript">r</hi> baar abgeführet mithin um 2231 fl 48 x<hi style="superscript">r</hi> mehr als 8000 fl eigen-
                <lb facs="#facs_161_r3l26" n="N021"/>thumlich besize, ist zufolge der hierauf erlassnen Auflag und Quittung
-               <lb facs="#facs_161_r3l27" n="N022"/>dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> May 740 das <rs type="person" ref="wkfm__9136">Carlo Barbieri:</rs> laut Instrument den <rs type="person" ref="wkfm__25146">Joseph Bar</rs>-
-               <lb facs="#facs_161_r3l28" n="N023"/><rs type="person" ref="wkfm__25146">bieri</rs> extradiret worden.
+               <lb facs="#facs_161_r3l27" n="N022"/>dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> May 740 das <rs type="person" ref="#wkfm__9136">Carlo Barbieri:</rs> laut Instrument den <rs type="person" ref="#wkfm__25146">Joseph Bar</rs>-
+               <lb facs="#facs_161_r3l28" n="N023"/><rs type="person" ref="#wkfm__25146">bieri</rs> extradiret worden.
             </ab>
             
         </div>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -89,7 +89,7 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_42" n="42" xml:id="img_0042"/>
+            <pb facs="#facs_42" n="42" xml:id="img_0042" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0047.jpg"/>
             
             <ab facs="#facs_42_r1">
                <lb facs="#facs_42_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
@@ -98,16 +98,16 @@
                <lb facs="#facs_42_r1l4" n="N004"/>sich resolviret.
                <lb facs="#facs_42_r1l5" n="N005"/>Laut Anbringen de ps: 28<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 743 N<hi style="superscript">o</hi> 1842 hat der <rs type="person">Appoldt</rs> angezeiget
                <lb facs="#facs_42_r1l6" n="N006"/>daß er <hi>sich</hi> der <rs type="person">Joseph Leopold Gnaedl</rs> sich von ihm separieret <hi>habe</hi>,
-               <lb facs="#facs_42_line_1621342056188_545" n="N007"/>und er mit <hi><unclear>mirr</unclear></hi> dem <rs type="person" ref="wkfm__43794">Gnaedl</rs> gänzlich verstanden seye, zu wessen letzterer dar-
-               <lb facs="#facs_42_r1l9" n="N008"/><unclear>thuung</unclear> er auch zwey quittungen des <rs type="person" ref="wkfm__43794">Gnaedl</rs> dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 743 N<hi style="superscript">o</hi> 1843
+               <lb facs="#facs_42_line_1621342056188_545" n="N007"/>und er mit <hi><unclear>mirr</unclear></hi> dem <rs type="person" ref="#wkfm__43794">Gnaedl</rs> gänzlich verstanden seye, zu wessen letzterer dar-
+               <lb facs="#facs_42_r1l9" n="N008"/><unclear>thuung</unclear> er auch zwey quittungen des <rs type="person" ref="#wkfm__43794">Gnaedl</rs> dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 743 N<hi style="superscript">o</hi> 1843
                <lb facs="#facs_42_r1l11" n="N009"/>und dd<hi style="superscript">to</hi> 20<hi style="superscript">ten</hi> <unclear><choice><expan/><abbr>9bris</abbr></choice> </unclear>N<hi style="superscript">o</hi> 1844 eingeleget
-               <lb facs="#facs_42_r1l12" n="N010"/>In eben diesen Anbringen de ps: 28<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 743 N<hi style="superscript">o</hi> 1840 hat der <rs type="person" ref="wkfm__43793">Appoldt</rs>
-               <lb facs="#facs_42_r1l13" n="N011"/>dann der <rs type="person" ref="wkfm__43795">Joseph Pleyer</rs> in einen gleichmäßigen Anbringen de ps: eodem N<hi style="superscript">o</hi> <hi>49</hi> 184
-               <lb facs="#facs_42_r1l14" n="N012"/>angezeiget das <hi>d</hi> der <rs type="person" ref="wkfm__43795">Pleyer</rs> an statt des <rs type="person" ref="wkfm__43794">Gnaedl</rs> mit dem <rs type="person" ref="wkfm__43793">Appoldt</rs> in 
+               <lb facs="#facs_42_r1l12" n="N010"/>In eben diesen Anbringen de ps: 28<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 743 N<hi style="superscript">o</hi> 1840 hat der <rs type="person" ref="#wkfm__43793">Appoldt</rs>
+               <lb facs="#facs_42_r1l13" n="N011"/>dann der <rs type="person" ref="#wkfm__43795">Joseph Pleyer</rs> in einen gleichmäßigen Anbringen de ps: eodem N<hi style="superscript">o</hi> <hi>49</hi> 184
+               <lb facs="#facs_42_r1l14" n="N012"/>angezeiget das <hi>d</hi> der <rs type="person" ref="#wkfm__43795">Pleyer</rs> an statt des <rs type="person" ref="#wkfm__43794">Gnaedl</rs> mit dem <rs type="person" ref="#wkfm__43793">Appoldt</rs> in 
                <lb facs="#facs_42_r1l15" n="N013"/>die Societaet eintrette.
                <lb facs="#facs_42_r1l16" n="N014"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
-               <lb facs="#facs_42_r1l17" n="N015"/>Der <rs type="person" ref="wkfm__43793">Johann Jacob Appoldt</rs> hat mitls eines Anbringens de ps: 20<hi style="superscript">ten</hi>
-               <lb facs="#facs_42_r1l18" n="N016"/><choice><expan/><abbr>9bris</abbr></choice> 738 N<hi style="superscript">o</hi> 2076 <hi><unclear>sei</unclear></hi> den zwischen ihm und der <rs type="person" ref="wkfm__43796">Eva Catharina Stein-
+               <lb facs="#facs_42_r1l17" n="N015"/>Der <rs type="person" ref="#wkfm__43793">Johann Jacob Appoldt</rs> hat mitls eines Anbringens de ps: 20<hi style="superscript">ten</hi>
+               <lb facs="#facs_42_r1l18" n="N016"/><choice><expan/><abbr>9bris</abbr></choice> 738 N<hi style="superscript">o</hi> 2076 <hi><unclear>sei</unclear></hi> den zwischen ihm und der <rs type="person" ref="#wkfm__43796">Eva Catharina Stein-
                <lb break="no" facs="#facs_42_r1l19" n="N017"/>mözin</rs> untern 28<hi style="superscript">ten</hi> <choice><expan>Octobris</expan><abbr>8br:</abbr></choice> 738 errichteten Heuraths Contract <hi>T</hi> in copia
                <lb facs="#facs_42_r1l20" n="N018"/>vidimata N<hi style="superscript">o</hi> 2975 eingeleget krafft welchen 500 fl Heurathgutt und 1000 fl
                <lb facs="#facs_42_r1l21" n="N019"/>Widerlag auf überleben stipuliret, die Braut dem Bräutigam <hi>1000 fl</hi> der-

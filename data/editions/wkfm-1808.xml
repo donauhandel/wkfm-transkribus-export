@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -72,13 +72,13 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_102" n="102" xml:id="img_0102"/>
+            <pb facs="#facs_102" n="102" xml:id="img_0102" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1808.jpg"/>
             
             <ab facs="#facs_102_r1">
                <lb facs="#facs_102_line_1626248586714_1714" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_102_r1l1" n="N002"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
-               <lb facs="#facs_102_r1l2" n="N003"/>Mitls Anbringen de ps: 30<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 733 N<hi style="superscript">o</hi> 2255 hat der <rs type="person" ref="wkfm__36452">Johann Anton Wolf</rs>
-               <lb facs="#facs_102_r1l3" n="N004"/>den mit der <rs type="person" ref="wkfm__47030">Rosalia Muhrin</rs> untern 8<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 743 N<hi style="superscript">o</hi> 2254 in Copia vidimata
+               <lb facs="#facs_102_r1l2" n="N003"/>Mitls Anbringen de ps: 30<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 733 N<hi style="superscript">o</hi> 2255 hat der <rs type="person" ref="#wkfm__36452">Johann Anton Wolf</rs>
+               <lb facs="#facs_102_r1l3" n="N004"/>den mit der <rs type="person" ref="#wkfm__47030">Rosalia Muhrin</rs> untern 8<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 743 N<hi style="superscript">o</hi> 2254 in Copia vidimata
                <lb facs="#facs_102_r1l4" n="N005"/>eingeleget, kraft welchen 500 fl heurath Gutt nebst 1000 fl Widerlag auf Überleben
                <lb facs="#facs_102_r1l6" n="N006"/>und zur Sicherheit dessen die Eysenhandlungsfreyheit pro hypotheca, wie auch jenes
                <lb facs="#facs_102_r1l7" n="N007"/>was wehrender Ehe erworben und ererbet wird als ein gleiches Gutt pactiret worden.

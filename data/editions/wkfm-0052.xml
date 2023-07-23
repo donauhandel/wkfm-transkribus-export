@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -89,28 +89,28 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_47" n="47" xml:id="img_0047"/>
+            <pb facs="#facs_47" n="47" xml:id="img_0047" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0052.jpg"/>
             
             <ab facs="#facs_47_r1">
                <lb facs="#facs_47_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_47_r1l2" n="N003"/><rs type="person" ref="wkfm__43801">Antreich Johann Georg</rs> burgerlicher Handlsmann
+               <lb facs="#facs_47_r1l2" n="N003"/><rs type="person" ref="#wkfm__43801">Antreich Johann Georg</rs> burgerlicher Handlsmann
                <lb facs="#facs_47_r1l3" n="N004"/>Firma oder Raggion
                <lb facs="#facs_47_r1l4" n="N005"/>Procura und Firmaetrager
                <lb facs="#facs_47_r1l5" n="N006"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_47_r1l6" n="N007"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_47_r1l7" n="N008"/>Der <rs type="person" ref="wkfm__43801">Antreich</rs> hat seinen Handlungs Fundum folgender gestalten
+               <lb facs="#facs_47_r1l7" n="N008"/>Der <rs type="person" ref="#wkfm__43801">Antreich</rs> hat seinen Handlungs Fundum folgender gestalten
                <lb facs="#facs_47_r1l8" n="N009"/>ausgewisen
-               <lb facs="#facs_47_r1l9" n="N010"/>1<hi style="superscript">mo</hi> das er bey Eintrettung in die Condition bey <rs type="person" ref="wkfm__30193">Martin Peter Hillebrandt</rs>
+               <lb facs="#facs_47_r1l9" n="N010"/>1<hi style="superscript">mo</hi> das er bey Eintrettung in die Condition bey <rs type="person" ref="#wkfm__30193">Martin Peter Hillebrandt</rs>
                <lb facs="#facs_47_line_1621284261070_270" n="N011"/>eigenthumlich besessen 1500 fl
                <lb facs="#facs_47_line_1621284272480_275" n="N012"/>das intee hievon betragete 405 fl.
-               <lb facs="#facs_47_line_1621284280918_280" n="N013"/>wehrender Condition bey dem <rs type="person" ref="wkfm__30193">Hillebrand</rs> habe er sich erworben 3215 fl
+               <lb facs="#facs_47_line_1621284280918_280" n="N013"/>wehrender Condition bey dem <rs type="person" ref="#wkfm__30193">Hillebrand</rs> habe er sich erworben 3215 fl
                <lb facs="#facs_47_line_1621284289983_285" n="N014"/>zusamen 5120 fl
-               <lb facs="#facs_47_r1l18" n="N015"/>zu dessen darthuung das <choice><expan/><abbr>orig:</abbr></choice> attestatum von dem <rs type="person" ref="wkfm__30193">Martin
+               <lb facs="#facs_47_r1l18" n="N015"/>zu dessen darthuung das <choice><expan/><abbr>orig:</abbr></choice> attestatum von dem <rs type="person" ref="#wkfm__30193">Martin
                <lb break="no" facs="#facs_47_r1l19" n="N016"/>Peter Hillebrandt</rs> dd<hi style="superscript">to</hi> 8<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 748 N<hi style="superscript">o</hi> 1164 eingelegt, <unclear>sohin</unclear>
                <lb facs="#facs_47_r1l20" n="N017"/>laut Specification und beygerukter formulae jurandi de ps: 22<hi style="superscript">ten</hi>
                <lb facs="#facs_47_r1l21" n="N018"/><choice><expan/><abbr>Apr:</abbr></choice> 748 N<hi style="superscript">o</hi> 1162 einen Cörperlichen  Eyd abgeleget das er diese 5120 fl
                <lb facs="#facs_47_r1l22" n="N019"/>alß sein Eigenthumb besize und hierauf niemand etwas schuldig seye
-               <lb facs="#facs_47_r1l23" n="N020"/>zu Completirung des Fundi hat der <rs type="person" ref="wkfm__43802">Johann Bapt. Ruard</rs> das <choice><expan/><abbr>orig.</abbr></choice> <unclear>Caut:</unclear>
+               <lb facs="#facs_47_r1l23" n="N020"/>zu Completirung des Fundi hat der <rs type="person" ref="#wkfm__43802">Johann Bapt. Ruard</rs> das <choice><expan/><abbr>orig.</abbr></choice> <unclear>Caut:</unclear>
                <lb facs="#facs_47_line_1621284301195_290" n="N021"/>Instrument dd<hi style="superscript">to</hi> 8<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 748 N<hi style="superscript">o</hi> 1163 eingeleget <choice><expan/><abbr>pr</abbr></choice> 2880 fl
                <lb facs="#facs_47_r1l28" n="N022"/><choice><expan/><abbr>Sa</abbr></choice> 8000 fl
                <lb facs="#facs_47_r1l26" n="N023"/>Dieses Cautions Instrument ist Anno 767 dem <seg type="editorial_comment_seg">Caventen <note type="editorial_comment_note">Kavent, Bürge\u003a https\u003a//www.duden.de/rechtschreibung/Kavent</note></seg>widerum

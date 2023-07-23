@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -80,21 +80,21 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_147" n="147" xml:id="img_0147"/>
+            <pb facs="#facs_147" n="147" xml:id="img_0147" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0467.jpg"/>
             
             <ab facs="#facs_147_r1">
                <lb facs="#facs_147_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_147_r1l2" n="N003"/><rs type="person" ref="wkfm__46165">Kroyß Franz Joseph</rs> burgerlicher Handlsmann
+               <lb facs="#facs_147_r1l2" n="N003"/><rs type="person" ref="#wkfm__46165">Kroyß Franz Joseph</rs> burgerlicher Handlsmann
                <lb facs="#facs_147_r1l3" n="N004"/>Firma ad Raggion 
-               <lb facs="#facs_147_r1l4" n="N005"/><rs type="person" ref="wkfm__47259">Franz Joseph Kroyß</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 227
+               <lb facs="#facs_147_r1l4" n="N005"/><rs type="person" ref="#wkfm__47259">Franz Joseph Kroyß</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 227
                <lb facs="#facs_147_r1l5" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_147_r1l6" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_147_r1l7" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_147_r1l8" n="N009"/>Der <rs type="person" ref="wkfm__46165">Kroyß</rs> hat zu Ausweisung seines Fundi eingeleget ein
-               <lb facs="#facs_147_r1l9" n="N010"/>von <rs type="person" ref="wkfm__8802">Lucas Joseph Setti</rs> ausgesteltes <choice><expan/><abbr>orig:</abbr></choice> attestatum dd<hi style="superscript">to</hi> 12<hi style="superscript">ten</hi> Junii 746
-               <lb facs="#facs_147_r1l10" n="N011"/>N<hi style="superscript">o</hi> 1315 das er dem <rs type="person" ref="wkfm__46165">Kroyß</rs> wirklichen <gap/> angefertiget und ausgezahlet
+               <lb facs="#facs_147_r1l8" n="N009"/>Der <rs type="person" ref="#wkfm__46165">Kroyß</rs> hat zu Ausweisung seines Fundi eingeleget ein
+               <lb facs="#facs_147_r1l9" n="N010"/>von <rs type="person" ref="#wkfm__8802">Lucas Joseph Setti</rs> ausgesteltes <choice><expan/><abbr>orig:</abbr></choice> attestatum dd<hi style="superscript">to</hi> 12<hi style="superscript">ten</hi> Junii 746
+               <lb facs="#facs_147_r1l10" n="N011"/>N<hi style="superscript">o</hi> 1315 das er dem <rs type="person" ref="#wkfm__46165">Kroyß</rs> wirklichen <gap/> angefertiget und ausgezahlet
                <lb facs="#facs_147_line_1621961957602_2786" n="N012"/>habe mit 2700 fl
-               <lb facs="#facs_147_r1l13" n="N013"/>zu Completirung des übrigen hat die <rs type="person" ref="wkfm__46166">Kroyß: Ehewirthin
+               <lb facs="#facs_147_r1l13" n="N013"/>zu Completirung des übrigen hat die <rs type="person" ref="#wkfm__46166">Kroyß: Ehewirthin
                <lb break="no" facs="#facs_147_r1l14" n="N014"/>Theresia</rs> das <choice><expan/><abbr>orig:</abbr></choice> Certionirte Cautions Instrument eing-
                <lb facs="#facs_147_line_1621961967905_2795" n="N015"/>leget dd<hi style="superscript">to</hi> 6<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 746 N<hi style="superscript">o</hi> 1316 <choice><expan/><abbr>pr</abbr></choice> 5300 fl
                <lb facs="#facs_147_line_1621961973965_2802" n="N016"/><choice><expan/><abbr>Sa</abbr></choice> 8000 fl

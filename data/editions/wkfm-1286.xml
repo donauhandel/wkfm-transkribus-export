@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -87,25 +87,25 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_102" n="102" xml:id="img_0102"/>
+            <pb facs="#facs_102" n="102" xml:id="img_0102" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1286.jpg"/>
             
             <ab facs="#facs_102_r1">
                <lb facs="#facs_102_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
-               <lb facs="#facs_102_r1l2" n="N002"/>Mitls Anbringen de ps: 14<hi style="superscript">ten</hi> Junii 751 N<hi style="superscript">o</hi> 2011 hat der <rs type="person" ref="wkfm__46784">Mayer</rs> angezeiget, das er
-               <lb facs="#facs_102_r1l3" n="N003"/>mit dem <rs type="person" ref="wkfm__8089">Anton Lang</rs> in eine offentliche societaet getretten seye, auch den zwischen ihnen
+               <lb facs="#facs_102_r1l2" n="N002"/>Mitls Anbringen de ps: 14<hi style="superscript">ten</hi> Junii 751 N<hi style="superscript">o</hi> 2011 hat der <rs type="person" ref="#wkfm__46784">Mayer</rs> angezeiget, das er
+               <lb facs="#facs_102_r1l3" n="N003"/>mit dem <rs type="person" ref="#wkfm__8089">Anton Lang</rs> in eine offentliche societaet getretten seye, auch den zwischen ihnen
                <lb facs="#facs_102_r1l4" n="N004"/>untern 5<hi style="superscript">ten</hi> Junii 751 geschlossenen societaets Contract in <choice><expan/><abbr>orig:</abbr></choice> N<hi style="superscript">o</hi> 2009 eingeleget kraft
-               <lb facs="#facs_102_r1l5" n="N005"/>welchen die Societaet auf 10 Jahr von 1<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 751 biß deto 761 die raggion aber <rs type="person" ref="wkfm__46783">Anton Lang
-               <lb break="no" facs="#facs_102_r1l6" n="N006"/>et <choice><expan/><abbr>Compag:</abbr></choice></rs> festgestellet, dem <rs type="person" ref="wkfm__46784">Mayer</rs> jedoch vorbehalten wurden, daß er im fall er
+               <lb facs="#facs_102_r1l5" n="N005"/>welchen die Societaet auf 10 Jahr von 1<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 751 biß deto 761 die raggion aber <rs type="person" ref="#wkfm__46783">Anton Lang
+               <lb break="no" facs="#facs_102_r1l6" n="N006"/>et <choice><expan/><abbr>Compag:</abbr></choice></rs> festgestellet, dem <rs type="person" ref="#wkfm__46784">Mayer</rs> jedoch vorbehalten wurden, daß er im fall er
                <lb facs="#facs_102_r1l7" n="N007"/>sich ohne Verlegung des eingelegten revers zu stabiliren Gelegenheit hatte, <unclear>auch</unclear> noch 6 Jahren
                <lb facs="#facs_102_r1l8" n="N008"/>gegen vorgehend 1 Jähriger Aufkündung austretten könne, falß die Aufkündung
                <lb facs="#facs_102_r1l9" n="N009"/>nach verflossenen 10 Jahren nicht 1 Jahr vorhero beschehete, solle die Societaet auf andere
-               <lb facs="#facs_102_r1l10" n="N010"/>6 Jahr verstanden seyn zumahlen der <rs type="person" ref="wkfm__46784">Mayer</rs> keine Einlag leistet, er die handlung in 
+               <lb facs="#facs_102_r1l10" n="N010"/>6 Jahr verstanden seyn zumahlen der <rs type="person" ref="#wkfm__46784">Mayer</rs> keine Einlag leistet, er die handlung in 
                <lb facs="#facs_102_r1l11" n="N011"/>allem besorgen, alle Jahr ein Inventur und Billanz errüchten und für seinen theil gegen bey-
                <lb facs="#facs_102_r1l12" n="N012"/>tragung 1/4 gl des betrags für Gwölbzinns, bezahlung und kostgeldern der bedienten und
                <lb facs="#facs_102_r1l13" n="N013"/>Jungen, nebst der Kost und Wohnung 1/4 tl Nuzung zu genüsen haben, falß der Lang vor
-               <lb facs="#facs_102_r1l14" n="N014"/>Verflüssung denen societaets Jahren sturbe, solle dessen Sohn <rs type="person" ref="wkfm__46785">Jacob</rs> die societaet unter der
-               <lb facs="#facs_102_r1l17" n="N015"/>raggion <rs type="person" ref="wkfm__46783">Anton Lang et <choice><expan/><abbr>Compag:</abbr></choice></rs><choice><expan/><abbr/></choice> zu continuiren der <rs type="person" ref="wkfm__46784">Mayer</rs> aber die Halbscheid <unclear>einzulegen</unclear> die übrigen
-               <lb facs="#facs_102_r1l18" n="N016"/>Erben ihren theil in leidentlichen terminen zu empfangen, die Nuzung aber zwischen <rs type="person" ref="wkfm__46785">Jacob Lang</rs> und <rs type="person" ref="wkfm__46784">Mayr</rs>
+               <lb facs="#facs_102_r1l14" n="N014"/>Verflüssung denen societaets Jahren sturbe, solle dessen Sohn <rs type="person" ref="#wkfm__46785">Jacob</rs> die societaet unter der
+               <lb facs="#facs_102_r1l17" n="N015"/>raggion <rs type="person" ref="#wkfm__46783">Anton Lang et <choice><expan/><abbr>Compag:</abbr></choice></rs><choice><expan/><abbr/></choice> zu continuiren der <rs type="person" ref="#wkfm__46784">Mayer</rs> aber die Halbscheid <unclear>einzulegen</unclear> die übrigen
+               <lb facs="#facs_102_r1l18" n="N016"/>Erben ihren theil in leidentlichen terminen zu empfangen, die Nuzung aber zwischen <rs type="person" ref="#wkfm__46785">Jacob Lang</rs> und <rs type="person" ref="#wkfm__46784">Mayr</rs>
                <lb facs="#facs_102_r1l19" n="N017"/>zu gleichen theilen seyn bey <unclear>ereignenden</unclear> todfall solle der Stand der Handlung durch zwey verständige <unclear>mercatori</unclear>
                <lb facs="#facs_102_r1l20" n="N018"/><gap/> <unclear>entfernt,</unclear> und fals selbe nicht ubereinkommen durch den dritten, wie auch alle zwistigkeiten <unclear>kunftig</unclear>
                <lb facs="#facs_102_r1l21" n="N019"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>

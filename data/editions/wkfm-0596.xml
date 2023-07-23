@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -77,17 +77,17 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_96" n="96" xml:id="img_0096"/>
+            <pb facs="#facs_96" n="96" xml:id="img_0096" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0596.jpg"/>
             
             <ab facs="#facs_96_r1">
                <lb facs="#facs_96_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_96_r1l2" n="N002"/><hi>Mitsls Anbringen de ps: 11<hi style="superscript"/></hi>ten
-               <lb facs="#facs_96_r1l3" n="N003"/><hi><rs type="person" ref="wkfm__37748">Johann Dietschi</rs> und dessen Bruder <rs type="person" ref="wkfm__43997">Johann Georg Dietschi</rs> ange-</hi>
+               <lb facs="#facs_96_r1l3" n="N003"/><hi><rs type="person" ref="#wkfm__37748">Johann Dietschi</rs> und dessen Bruder <rs type="person" ref="#wkfm__43997">Johann Georg Dietschi</rs> ange-</hi>
                <lb facs="#facs_96_r1l4" n="N004"/><hi>zeiget, daß die zwischen ihnen vorgeweste Societaet geendiget seye</hi>
                <lb facs="#facs_96_r1l5" n="N005"/><hi>wornebens beede den <choice><expan/><abbr>orig:</abbr></choice> Revers dd<hi style="superscript"/></hi>to
                <lb facs="#facs_96_r1l6" n="N006"/><hi>halts eingeleget, daß, nachdem sie beede Brüder <choice><expan/><abbr>Ao</abbr></choice> 740 alß <unclear>offent-</unclear></hi>
                <lb facs="#facs_96_r1l7" n="N007"/><hi>liche socii in die Handlung zusamen getretten, nunmehro aber der</hi>
-               <lb facs="#facs_96_r1l8" n="N008"/><hi><rs type="person" ref="wkfm__37748">Johann Dietschi</rs> aus selben zu tretten gesinnet seye, als ver-</hi>
+               <lb facs="#facs_96_r1l8" n="N008"/><hi><rs type="person" ref="#wkfm__37748">Johann Dietschi</rs> aus selben zu tretten gesinnet seye, als ver-</hi>
                <lb facs="#facs_96_r1l9" n="N009"/><hi>obligiren sie sich beede jeder in solidum die in dieser Societaet</hi>
                <lb facs="#facs_96_r1l10" n="N010"/><hi>contrahirte Passiva zu bezahlen</hi>
                <lb facs="#facs_96_r1l11" n="N011"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>

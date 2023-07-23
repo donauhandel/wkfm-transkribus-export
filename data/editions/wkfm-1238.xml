@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -78,20 +78,20 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_54" n="54" xml:id="img_0054"/>
+            <pb facs="#facs_54" n="54" xml:id="img_0054" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1238.jpg"/>
             
             <ab facs="#facs_54_r1">
                <lb facs="#facs_54_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_54_r1l2" n="N002"/>In obigen Anbringen de ps: 8<hi style="superscript">ten</hi> May 725 N<hi style="superscript">o</hi> 1051 und Erklährung dd<hi style="superscript">to</hi> 26<hi style="superscript">ten</hi>
-               <lb facs="#facs_54_r1l3" n="N003"/><choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 1050 hat der <rs type="person" ref="wkfm__11940">v. Münch</rs> <hi>den</hi> nebst dem von <rs type="person" ref="wkfm__46698">Rauner dem jüngern</rs>
+               <lb facs="#facs_54_r1l3" n="N003"/><choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 1050 hat der <rs type="person" ref="#wkfm__11940">v. Münch</rs> <hi>den</hi> nebst dem von <rs type="person" ref="#wkfm__46698">Rauner dem jüngern</rs>
                <lb facs="#facs_54_r1l4" n="N004"/>angezeiget, das sie das Negotium unter ihrer beeder interesse und obligo allein
-               <lb facs="#facs_54_r1l6" n="N005"/>unter der societaets raggion <rs type="person" ref="wkfm__8334">v. Rauner <unclear>Jgre</unclear> und Münch</rs> führen
+               <lb facs="#facs_54_r1l6" n="N005"/>unter der societaets raggion <rs type="person" ref="#wkfm__8334">v. Rauner <unclear>Jgre</unclear> und Münch</rs> führen
                <lb facs="#facs_54_r1l7" n="N006"/>Mitls Anbringen de ps: 27<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 733 N<hi style="superscript">o</hi> 1999 und Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> N<hi style="superscript">o</hi> 1024 hat
-               <lb facs="#facs_54_r1l8" n="N007"/>der<rs type="person" ref="wkfm__11940"> v. Münch</rs> angezeiget das durch den Todfall des <rs type="person" ref="wkfm__46698">v. Rauner <unclear>jgrn</unclear></rs> die Raggion
-               <lb facs="#facs_54_r1l9" n="N008"/><rs type="person" ref="wkfm__8334">v. Rauner und Münch</rs> geendiget worden, und der<rs type="person" ref="wkfm__11940"> v. Münch</rs> das negotium mit seinem
+               <lb facs="#facs_54_r1l8" n="N007"/>der<rs type="person" ref="#wkfm__11940"> v. Münch</rs> angezeiget das durch den Todfall des <rs type="person" ref="#wkfm__46698">v. Rauner <unclear>jgrn</unclear></rs> die Raggion
+               <lb facs="#facs_54_r1l9" n="N008"/><rs type="person" ref="#wkfm__8334">v. Rauner und Münch</rs> geendiget worden, und der<rs type="person" ref="#wkfm__11940"> v. Münch</rs> das negotium mit seinem
                <lb facs="#facs_54_r1l10" n="N009"/>alleinigen intee und unter seiner alleinigen Nahmen zu führen gesinnet seye
                <lb facs="#facs_54_r1l11" n="N010"/>Mitls Anbringen de ps: 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 735 N<hi style="superscript">o</hi> 1031 und Carta Bianca zur Voll-
-               <lb facs="#facs_54_r1l12" n="N011"/>macht dd<hi style="superscript">to</hi> 4<hi style="superscript">ten</hi> ej: N<hi style="superscript">o</hi> <unclear>1030</unclear> hat der<rs type="person" ref="wkfm__11940"> v. Münch</rs> angezeiget, das er sein allhiesiges negotium
+               <lb facs="#facs_54_r1l12" n="N011"/>macht dd<hi style="superscript">to</hi> 4<hi style="superscript">ten</hi> ej: N<hi style="superscript">o</hi> <unclear>1030</unclear> hat der<rs type="person" ref="#wkfm__11940"> v. Münch</rs> angezeiget, das er sein allhiesiges negotium
                <lb facs="#facs_54_r1l13" n="N012"/>hiemit aufheben wolle
                <lb facs="#facs_54_r1l14" n="N013"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_54_r1l15" n="N014"/>Anmerckungen

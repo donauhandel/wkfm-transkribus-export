@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -76,17 +76,17 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_13" n="13" xml:id="img_0013"/>
+            <pb facs="#facs_13" n="13" xml:id="img_0013" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1077.jpg"/>
             
             <ab facs="#facs_13_r2">
                <lb facs="#facs_13_r2l3" n="N001"/>532
                <lb facs="#facs_13_r2l2" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_13_r2l4" n="N003"/><rs type="person" ref="wkfm__43868">Ingrueber Jacob</rs> burgerlicher Handlsmann
+               <lb facs="#facs_13_r2l4" n="N003"/><rs type="person" ref="#wkfm__43868">Ingrueber Jacob</rs> burgerlicher Handlsmann
                <lb facs="#facs_13_r2l5" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_13_r2l6" n="N005"/><rs type="person" ref="wkfm__46638">Jacob Ingrueber</rs> laut Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 499
-               <lb facs="#facs_13_r2l7" n="N006"/><rs type="person" ref="wkfm__43869">Jacob Ingrueber et Compagni</rs> laut Erklährung dd<hi style="superscript">to</hi> 23<hi style="superscript">ten</hi> Junii 728 N<hi style="superscript">o</hi> 1984.
+               <lb facs="#facs_13_r2l6" n="N005"/><rs type="person" ref="#wkfm__46638">Jacob Ingrueber</rs> laut Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 499
+               <lb facs="#facs_13_r2l7" n="N006"/><rs type="person" ref="#wkfm__43869">Jacob Ingrueber et Compagni</rs> laut Erklährung dd<hi style="superscript">to</hi> 23<hi style="superscript">ten</hi> Junii 728 N<hi style="superscript">o</hi> 1984.
                <lb facs="#facs_13_r2l8" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
-               <lb facs="#facs_13_r2l9" n="N008"/>In obiger Erklährung dd<hi style="superscript">to</hi> 23<hi style="superscript">ten</hi> Junii 728 N<hi style="superscript">o</hi> 1984 ist die Firma der Raggion <rs type="person" ref="wkfm__43869">Jacob
+               <lb facs="#facs_13_r2l9" n="N008"/>In obiger Erklährung dd<hi style="superscript">to</hi> 23<hi style="superscript">ten</hi> Junii 728 N<hi style="superscript">o</hi> 1984 ist die Firma der Raggion <rs type="person" ref="#wkfm__43869">Jacob
                <lb break="no" facs="#facs_13_r2l10" n="N009"/>Ingrueber et Compagnie von dem Compagnon des Ingrueber Leopold Schräzen-
                <lb break="no" facs="#facs_13_r2l11" n="N010"/>thaller</rs> eingeleget worden.
                <lb facs="#facs_13_r2l12" n="N011"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>

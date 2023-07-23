@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -78,21 +78,21 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_60" n="60" xml:id="img_0060"/>
+            <pb facs="#facs_60" n="60" xml:id="img_0060" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1766.jpg"/>
             
             <ab facs="#facs_60_r1">
                <lb facs="#facs_60_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
-               <lb facs="#facs_60_r1l2" n="N002"/>In obigen Anbringen de ps: 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 1894 hat sich der <rs type="person" ref="wkfm__46109">Eberhard
-               <lb break="no" facs="#facs_60_r1l3" n="N003"/>Krahmer</rs> und <rs type="person" ref="wkfm__8331">Thomas Wellner</rs> miteinander <hi>g</hi> erklähret, das sie außer
+               <lb facs="#facs_60_r1l2" n="N002"/>In obigen Anbringen de ps: 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 1894 hat sich der <rs type="person" ref="#wkfm__46109">Eberhard
+               <lb break="no" facs="#facs_60_r1l3" n="N003"/>Krahmer</rs> und <rs type="person" ref="#wkfm__8331">Thomas Wellner</rs> miteinander <hi>g</hi> erklähret, das sie außer
                <lb facs="#facs_60_r1l4" n="N004"/>ihnen beeden keinen Compagnon haben
-               <lb facs="#facs_60_r1l5" n="N005"/>Mitls Anbringen de ps: 17<hi style="superscript">ten</hi> Julii 727 N<hi style="superscript">o</hi> 2069 hat <hi>sich</hi> der <rs type="person" ref="wkfm__8331">Wellner</rs> <unclear>an-</unclear>
-               <lb facs="#facs_60_r1l6" n="N006"/>zeiget das der <rs type="person" ref="wkfm__46109">Eberhard Krahmer</rs> aus der Handlung gänzlich ausge-
-               <lb facs="#facs_60_r1l7" n="N007"/>tretten und er mit dem <rs type="person" ref="wkfm__46991">Johann Jacob Buchmann</rs> ohne weitheren <unclear>interessenten</unclear>
-               <lb facs="#facs_60_r1l8" n="N008"/>die Handlung unter der Raggion <rs type="person" ref="wkfm__27575">Thomaß Wellner und <choice><expan/><abbr>Comp:</abbr></choice></rs> und <unclear>beeder</unclear>
+               <lb facs="#facs_60_r1l5" n="N005"/>Mitls Anbringen de ps: 17<hi style="superscript">ten</hi> Julii 727 N<hi style="superscript">o</hi> 2069 hat <hi>sich</hi> der <rs type="person" ref="#wkfm__8331">Wellner</rs> <unclear>an-</unclear>
+               <lb facs="#facs_60_r1l6" n="N006"/>zeiget das der <rs type="person" ref="#wkfm__46109">Eberhard Krahmer</rs> aus der Handlung gänzlich ausge-
+               <lb facs="#facs_60_r1l7" n="N007"/>tretten und er mit dem <rs type="person" ref="#wkfm__46991">Johann Jacob Buchmann</rs> ohne weitheren <unclear>interessenten</unclear>
+               <lb facs="#facs_60_r1l8" n="N008"/>die Handlung unter der Raggion <rs type="person" ref="#wkfm__27575">Thomaß Wellner und <choice><expan/><abbr>Comp:</abbr></choice></rs> und <unclear>beeder</unclear>
                <lb facs="#facs_60_r1l9" n="N009"/>Firmirung die Handlung führe
-               <lb facs="#facs_60_r1l11" n="N010"/>Mitls Anbringen de ps: 8<hi style="superscript">ten</hi> Junii 733 N<hi style="superscript">o</hi> 2072 hat der <rs type="person" ref="wkfm__8331">Wellner</rs> <unclear>angezeiget</unclear>
-               <lb facs="#facs_60_r1l12" n="N011"/>das die Raggion <rs type="person" ref="wkfm__27575">Thomaß Wellner und <choice><expan/><abbr>Comp:</abbr></choice></rs> bereits mutiret <hi>worden</hi> und <unclear>un-</unclear>
-               <lb facs="#facs_60_r1l13" n="N012"/>ter seinen alleinigen Nahmen<rs type="person" ref="wkfm__46990"> Thomaß Wellner</rs> laufe
+               <lb facs="#facs_60_r1l11" n="N010"/>Mitls Anbringen de ps: 8<hi style="superscript">ten</hi> Junii 733 N<hi style="superscript">o</hi> 2072 hat der <rs type="person" ref="#wkfm__8331">Wellner</rs> <unclear>angezeiget</unclear>
+               <lb facs="#facs_60_r1l12" n="N011"/>das die Raggion <rs type="person" ref="#wkfm__27575">Thomaß Wellner und <choice><expan/><abbr>Comp:</abbr></choice></rs> bereits mutiret <hi>worden</hi> und <unclear>un-</unclear>
+               <lb facs="#facs_60_r1l13" n="N012"/>ter seinen alleinigen Nahmen<rs type="person" ref="#wkfm__46990"> Thomaß Wellner</rs> laufe
                <lb facs="#facs_60_r1l14" n="N013"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_60_r1l15" n="N014"/>Anmerckungen
             </ab>

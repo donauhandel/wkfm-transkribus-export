@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -88,30 +88,30 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_141" n="141" xml:id="img_0141"/>
+            <pb facs="#facs_141" n="141" xml:id="img_0141" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0461.jpg"/>
             
             <ab facs="#facs_141_r2">
                <lb facs="#facs_141_r2l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_141_r2l2" n="N003"/><rs type="person" ref="wkfm__46156">Chiocino Adamo</rs> burgerlicher Handlsmann
+               <lb facs="#facs_141_r2l2" n="N003"/><rs type="person" ref="#wkfm__46156">Chiocino Adamo</rs> burgerlicher Handlsmann
                <lb facs="#facs_141_r2l3" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_141_r2l4" n="N005"/><rs type="person" ref="wkfm__47257">Adamo Chiocino</rs> laut Erklährung dd<hi style="superscript">to</hi> 18<hi style="superscript">ten</hi> Junii 743 N<hi style="superscript">o</hi> 225
+               <lb facs="#facs_141_r2l4" n="N005"/><rs type="person" ref="#wkfm__47257">Adamo Chiocino</rs> laut Erklährung dd<hi style="superscript">to</hi> 18<hi style="superscript">ten</hi> Junii 743 N<hi style="superscript">o</hi> 225
                <lb facs="#facs_141_r2l5" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_141_r2l6" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_141_r2l7" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_141_r2l8" n="N009"/>Der <rs type="person" ref="wkfm__46156">Chiocino</rs> hat zu ausweisung seines Fundi die <choice><expan/><abbr>specif:</abbr></choice> sine dato N<hi style="superscript">o</hi> 1303
+               <lb facs="#facs_141_r2l8" n="N009"/>Der <rs type="person" ref="#wkfm__46156">Chiocino</rs> hat zu ausweisung seines Fundi die <choice><expan/><abbr>specif:</abbr></choice> sine dato N<hi style="superscript">o</hi> 1303
                <lb facs="#facs_141_r2l9" n="N010"/>eingeleget krafft welchen derselbe angegeben daß er alß Eigenthum
                <lb facs="#facs_141_line_1621961327211_2506" n="N011"/>besize 894 <unclear>Halb duc</unclear> <choice><expan/><abbr>pr</abbr></choice> 3687 fl 45 x<hi style="superscript">r</hi>
                <lb facs="#facs_141_line_1621961332851_2511" n="N012"/>100 <unclear>Cr Rai:</unclear> <choice><expan/><abbr>pr</abbr></choice> 420 fl
-               <lb facs="#facs_141_line_1621961338791_2517" n="N013"/>Einen Wechselbrief von <rs type="person" ref="wkfm__24742"><unclear>Cecotti</unclear></rs> <choice><expan/><abbr>pr</abbr></choice> 1800 fl
-               <lb facs="#facs_141_line_1621961343540_2522" n="N014"/>Einen det: von <rs type="person" ref="wkfm__46157"><unclear>Radlio</unclear></rs> <choice><expan/><abbr>pr</abbr></choice> 1200 fl
+               <lb facs="#facs_141_line_1621961338791_2517" n="N013"/>Einen Wechselbrief von <rs type="person" ref="#wkfm__24742"><unclear>Cecotti</unclear></rs> <choice><expan/><abbr>pr</abbr></choice> 1800 fl
+               <lb facs="#facs_141_line_1621961343540_2522" n="N014"/>Einen det: von <rs type="person" ref="#wkfm__46157"><unclear>Radlio</unclear></rs> <choice><expan/><abbr>pr</abbr></choice> 1200 fl
                <lb facs="#facs_141_line_1621961356522_2536" n="N015"/>an erspahrten salario 1000 fl
                <lb facs="#facs_141_r2l21" n="N016"/><choice><expan/><abbr>Sa</abbr></choice> 8107 fl 45 x<hi style="superscript">r</hi>
-               <lb facs="#facs_141_r2l22" n="N017"/>zu wessen bekräfftigung selber das attestatum von <rs type="person" ref="wkfm__24742">Johann Benedict Cescotti</rs>
-               <lb facs="#facs_141_r2l23" n="N018"/>das er <rs type="person" ref="wkfm__46156">Chiocino</rs> bey ihm <rs type="person" ref="wkfm__24742">Cescotti</rs> an erspahrten solario 1000 fl stehen habe dd<hi style="superscript">to</hi> 22<hi style="superscript">ten</hi>
+               <lb facs="#facs_141_r2l22" n="N017"/>zu wessen bekräfftigung selber das attestatum von <rs type="person" ref="#wkfm__24742">Johann Benedict Cescotti</rs>
+               <lb facs="#facs_141_r2l23" n="N018"/>das er <rs type="person" ref="#wkfm__46156">Chiocino</rs> bey ihm <rs type="person" ref="#wkfm__24742">Cescotti</rs> an erspahrten solario 1000 fl stehen habe dd<hi style="superscript">to</hi> 22<hi style="superscript">ten</hi>
                <lb facs="#facs_141_r2l24" n="N019"/><choice><expan/><abbr>Apr:</abbr></choice> 743 N<hi style="superscript">o</hi> 1304 beygebracht.
-               <lb facs="#facs_141_r2l25" n="N020"/>Dann haben der <rs type="person" ref="wkfm__24742">Johann Benedict Cescotti</rs> und <rs type="person" ref="wkfm__46157">Jacob Radlio</rs> das <choice><expan/><abbr>orig:</abbr></choice> Cautions-
+               <lb facs="#facs_141_r2l25" n="N020"/>Dann haben der <rs type="person" ref="#wkfm__24742">Johann Benedict Cescotti</rs> und <rs type="person" ref="#wkfm__46157">Jacob Radlio</rs> das <choice><expan/><abbr>orig:</abbr></choice> Cautions-
                <lb facs="#facs_141_r2l26" n="N021"/>Instrument dd<hi style="superscript">to</hi> 7<hi style="superscript">ten</hi> May 743 N<hi style="superscript">o</hi> 1305 dahin eingeleget, daß sie in solang alß
-               <lb facs="#facs_141_r2l27" n="N022"/>der <rs type="person" ref="wkfm__46156">Chiacino</rs> wegen überkommenen vätterlich und Mütterlichen Erbgutt <choice><expan/><abbr>pr</abbr></choice> 7000 fl die behörig
+               <lb facs="#facs_141_r2l27" n="N022"/>der <rs type="person" ref="#wkfm__46156">Chiacino</rs> wegen überkommenen vätterlich und Mütterlichen Erbgutt <choice><expan/><abbr>pr</abbr></choice> 7000 fl die behörig
                <lb facs="#facs_141_r2l29" n="N023"/>legitimation nicht beygebracht haben wird, sie für diese 7000 fl hafften wollen <hi>einge-</hi>
                <lb facs="#facs_141_r2l28" n="N024"/><hi>leget</hi>
             </ab>

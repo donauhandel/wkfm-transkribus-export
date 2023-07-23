@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -77,18 +77,18 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_157" n="157" xml:id="img_0157"/>
+            <pb facs="#facs_157" n="157" xml:id="img_0157" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0477.jpg"/>
             
             <ab facs="#facs_157_r3">
                <lb facs="#facs_157_r3l1" n="N003"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_157_r3l2" n="N004"/><rs type="person" ref="wkfm__46113">Kyenmayr Anton</rs> <hi>bu</hi> burgerlicher Handlsmann
+               <lb facs="#facs_157_r3l2" n="N004"/><rs type="person" ref="#wkfm__46113">Kyenmayr Anton</rs> <hi>bu</hi> burgerlicher Handlsmann
                <lb facs="#facs_157_r3l3" n="N005"/>Firma ad Raggion
                <lb facs="#facs_157_r3l4" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_157_r3l5" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_157_r3l6" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_157_r3l7" n="N009"/>Der <rs type="person" ref="wkfm__46113">Kyenmayr</rs> hat zu Ausweisung seines Fundi das von seinem
-               <lb facs="#facs_157_r3l8" n="N010"/>Vattern <rs type="person" ref="wkfm__9731">Johann Michäl Kyenmayr</rs> unter 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 748 <hi>ausge</hi>
-               <lb facs="#facs_157_r3l9" n="N011"/><hi>stelte</hi> für ihm <rs type="person" ref="wkfm__46113">Anton</rs> alß angenohmenen socium auf samentliche
+               <lb facs="#facs_157_r3l7" n="N009"/>Der <rs type="person" ref="#wkfm__46113">Kyenmayr</rs> hat zu Ausweisung seines Fundi das von seinem
+               <lb facs="#facs_157_r3l8" n="N010"/>Vattern <rs type="person" ref="#wkfm__9731">Johann Michäl Kyenmayr</rs> unter 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 748 <hi>ausge</hi>
+               <lb facs="#facs_157_r3l9" n="N011"/><hi>stelte</hi> für ihm <rs type="person" ref="#wkfm__46113">Anton</rs> alß angenohmenen socium auf samentliche
                <lb facs="#facs_157_r3l10" n="N012"/>requisita ausgesteltes <choice><expan/><abbr>orig:</abbr></choice> Cautions Instrument N<hi style="superscript">o</hi> 1323
                <lb facs="#facs_157_r3l11" n="N013"/>eingeleget
             </ab>

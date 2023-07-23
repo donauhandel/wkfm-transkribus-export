@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -87,29 +87,29 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_125" n="125" xml:id="img_0125"/>
+            <pb facs="#facs_125" n="125" xml:id="img_0125" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0445.jpg"/>
             
             <ab facs="#facs_125_r2">
                <lb facs="#facs_125_r2l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_125_r2l2" n="N003"/><rs type="person" ref="wkfm__35115">Klebinder Franz</rs> burgerlicher Handlsmann
+               <lb facs="#facs_125_r2l2" n="N003"/><rs type="person" ref="#wkfm__35115">Klebinder Franz</rs> burgerlicher Handlsmann
                <lb facs="#facs_125_r2l3" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_125_r2l4" n="N005"/><rs type="person" ref="wkfm__47253">Franz Klebinder</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 219
+               <lb facs="#facs_125_r2l4" n="N005"/><rs type="person" ref="#wkfm__47253">Franz Klebinder</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 219
                <lb facs="#facs_125_r2l5" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_125_r2l6" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_125_r2l7" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_125_r2l8" n="N009"/>Der <rs type="person" ref="wkfm__35115">Klebinder</rs> hat seinen fundum folgendermaßen ausgewisen
+               <lb facs="#facs_125_r2l8" n="N009"/>Der <rs type="person" ref="#wkfm__35115">Klebinder</rs> hat seinen fundum folgendermaßen ausgewisen
                <lb facs="#facs_125_r2l9" n="N010"/>als eigenthumlich, daß er Vermög attestati seines Bruders dd<hi style="superscript">to</hi> 18<hi style="superscript">ten</hi>
                <lb facs="#facs_125_r2l10" n="N011"/>Junii 738 N<hi style="superscript">o</hi> 1296 stehen habe die vätterlichen Erbsportion, Einrichtung
                <lb facs="#facs_125_line_1621960111024_1950" n="N012"/>und erspahrten lidlohn 2922 fl
-               <lb facs="#facs_125_line_1621960147812_1975" n="N013"/>Vermög attestati des <rs type="person" ref="wkfm__8802">Lucas Joseph Setti</rs> dd<hi style="superscript">to</hi> <unclear>19<hi style="superscript">ten</hi></unclear> Julii 738 N<hi style="superscript">o</hi> 1297 seye ihm bey er-
+               <lb facs="#facs_125_line_1621960147812_1975" n="N013"/>Vermög attestati des <rs type="person" ref="#wkfm__8802">Lucas Joseph Setti</rs> dd<hi style="superscript">to</hi> <unclear>19<hi style="superscript">ten</hi></unclear> Julii 738 N<hi style="superscript">o</hi> 1297 seye ihm bey er-
                <lb facs="#facs_125_line_1621960176413_1985" n="N014"/>kaufung der Handlung als ein überschuß gelassen worden 1025 fl
                <lb facs="#facs_125_r2l17" n="N015"/>zusamen Eigenthum 3947 fl
-               <lb facs="#facs_125_r2l18" n="N016"/>zu Completirung des Überreste hat der <rs type="person" ref="wkfm__46144">Johann Baader</rs> das Caut:
+               <lb facs="#facs_125_r2l18" n="N016"/>zu Completirung des Überreste hat der <rs type="person" ref="#wkfm__46144">Johann Baader</rs> das Caut:
                <lb facs="#facs_125_line_1621960212032_2000" n="N017"/>Instrument eingeleget <choice><expan/><abbr>pr</abbr></choice> 4000 fl
                <lb facs="#facs_125_r2l22" n="N018"/><choice><expan/><abbr>Sa</abbr></choice> 7947 fl
                <lb facs="#facs_125_r2l23" n="N019"/>Über die von dem Klebinder gemachte Anzeig, daß er durch den angelegten
                <lb facs="#facs_125_r2l24" n="N020"/>Heurathsbrief von seiner Ehewirthin 6777 fl überkommen habe ist zufolge <choice><expan/><abbr>Verwillig:</abbr></choice>
-               <lb facs="#facs_125_line_1621960298984_2027" n="N021"/>dd<hi style="superscript">to</hi> 13<hi style="superscript">ten</hi> May 740 N<hi style="superscript">o</hi> 1298 laut beygerukter Quittung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> ej: dem <rs type="person" ref="wkfm__46144">Johann Baader</rs>
+               <lb facs="#facs_125_line_1621960298984_2027" n="N021"/>dd<hi style="superscript">to</hi> 13<hi style="superscript">ten</hi> May 740 N<hi style="superscript">o</hi> 1298 laut beygerukter Quittung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> ej: dem <rs type="person" ref="#wkfm__46144">Johann Baader</rs>
                <lb facs="#facs_125_r2l27" n="N022"/>daß Cautions Instrument anwiderum erfolget worden.
             </ab>
             

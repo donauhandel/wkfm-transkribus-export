@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -82,24 +82,24 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_99" n="99" xml:id="img_0099"/>
+            <pb facs="#facs_99" n="99" xml:id="img_0099" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1451.jpg"/>
             
             <ab facs="#facs_99_r1">
                <lb facs="#facs_99_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_99_r1l2" n="N003"/><rs type="person" ref="wkfm__46772">Rösler Johann</rs> burgerlicher Handlsmann
+               <lb facs="#facs_99_r1l2" n="N003"/><rs type="person" ref="#wkfm__46772">Rösler Johann</rs> burgerlicher Handlsmann
                <lb facs="#facs_99_r1l3" n="N004"/>Firma ad Raggion
                <lb facs="#facs_99_r1l4" n="N005"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_99_r1l5" n="N006"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_99_r1l6" n="N007"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_99_r1l7" n="N008"/>Der <rs type="person" ref="wkfm__46772">Rösler</rs> hat seinen Fundum mitls der Specification N<hi style="superscript">o</hi> 1699 folgender
-               <lb facs="#facs_99_r1l8" n="N009"/>maßen ausgewisen, nemlich, daß nachdem ihm sein gewester Patron <rs type="person" ref="wkfm__24729">Johann
+               <lb facs="#facs_99_r1l7" n="N008"/>Der <rs type="person" ref="#wkfm__46772">Rösler</rs> hat seinen Fundum mitls der Specification N<hi style="superscript">o</hi> 1699 folgender
+               <lb facs="#facs_99_r1l8" n="N009"/>maßen ausgewisen, nemlich, daß nachdem ihm sein gewester Patron <rs type="person" ref="#wkfm__24729">Johann
                <lb break="no" facs="#facs_99_r1l9" n="N010"/>Weygarth</rs> in seinem untern 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 753 errichtet und unter 29<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 754
-               <lb facs="#facs_99_r1l10" n="N011"/>publicirten Testament § Zehentens nebst den anderen bedienten <rs type="person" ref="wkfm__46773">Johann Georg
+               <lb facs="#facs_99_r1l10" n="N011"/>publicirten Testament § Zehentens nebst den anderen bedienten <rs type="person" ref="#wkfm__46773">Johann Georg
                <lb break="no" facs="#facs_99_r1l12" n="N012"/>Kayser</rs> zum universal Erben vermög vidimirten Extract N<hi style="superscript">o</hi> 1700 instituiret
                <lb facs="#facs_99_r1l13" n="N013"/>und an dieser Erbschaft sich eine Übermaß für sein Erben laut Inventurs Ex-
                <lb facs="#facs_99_r1l14" n="N014"/>tract N<hi style="superscript">o</hi> 1701 in vidimus <hi>geh</hi> äussere <choice><expan/><abbr>pr</abbr></choice> 12151 fl 20 x<hi style="superscript">r</hi> als besize er hieran
                <lb facs="#facs_99_r1l15" n="N015"/>Eigenthumlich 6075 fl 40 x<hi style="superscript">r</hi>
-               <lb facs="#facs_99_r1l17" n="N016"/>zu Completirung des übrigen hat der <rs type="person" ref="wkfm__46774">Franz Jenamy</rs> das <choice><expan/><abbr>orig:</abbr></choice> Caut-
+               <lb facs="#facs_99_r1l17" n="N016"/>zu Completirung des übrigen hat der <rs type="person" ref="#wkfm__46774">Franz Jenamy</rs> das <choice><expan/><abbr>orig:</abbr></choice> Caut-
                <lb facs="#facs_99_r1l18" n="N017"/>Instrument dd<hi style="superscript">to</hi> 28<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 754 N<hi style="superscript">o</hi> 1702 eingelegt <choice><expan/><abbr>pr</abbr></choice> 1924 fl 20 x<hi style="superscript">r</hi>
                <lb facs="#facs_99_r1l20" n="N018"/><choice><expan/><abbr>Sa</abbr></choice> 8000 fl 0 x<hi style="superscript">r</hi>
             </ab>

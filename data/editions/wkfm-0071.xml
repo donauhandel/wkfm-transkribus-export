@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -95,38 +95,38 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_18" n="18" xml:id="img_0018"/>
+            <pb facs="#facs_18" n="18" xml:id="img_0018" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0071.jpg"/>
             
             <ab facs="#facs_18_r2">
-               <lb facs="#facs_18_r2l1" n="N001"/>Societats Contract und Interessenten
-               <lb facs="#facs_18_r2l2" n="N002"/>In obigen Anbringen de ps: 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 31 hat der <rs type="person" ref="wkfm__4694">Perinet</rs> sich erklähret
+               <lb facs="#facs_18_r2l1" n="N001"/><seg type="orighead__contract">Societats Contract und Interessenten</seg>
+               <lb facs="#facs_18_r2l2" n="N002"/>In obigen Anbringen de ps: 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 31 hat der <rs type="person" ref="#wkfm__4694">Perinet</rs> sich erklähret
                <lb facs="#facs_18_r2l4" n="N003"/>daß er sein negotium allein führe.
-               <lb facs="#facs_18_line_1628382390984_562" n="N004"/>In obigen Anbringen de ps: 22<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 740 N<hi style="superscript">o</hi> 130 hat der <rs type="person" ref="wkfm__4694">Perinet</rs> und <rs type="person" ref="wkfm__43810">Bernhard Franz Violland</rs> sich erklähret
-               <lb facs="#facs_18_r2l6" n="N005"/>daß sie beyde mit Einschlüssung des <rs type="person" ref="wkfm__30391">Franz </rs>und <rs type="person" ref="wkfm__43815">Jacob Violland</rs>
+               <lb facs="#facs_18_line_1628382390984_562" n="N004"/>In obigen Anbringen de ps: 22<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 740 N<hi style="superscript">o</hi> 130 hat der <rs type="person" ref="#wkfm__4694">Perinet</rs> und <rs type="person" ref="#wkfm__43810">Bernhard Franz Violland</rs> sich erklähret
+               <lb facs="#facs_18_r2l6" n="N005"/>daß sie beyde mit Einschlüssung des <rs type="person" ref="#wkfm__30391">Franz </rs>und <rs type="person" ref="#wkfm__43815">Jacob Violland</rs>
                <lb facs="#facs_18_r2l7" n="N006"/>alß stille sociorum auf 6 Jahr von 1<hi style="superscript">mo</hi> <choice><expan/><abbr>Janu:</abbr></choice> 740 bis Ende 745 in <unclear>societaet</unclear>
                <lb facs="#facs_18_r2l8" n="N007"/>getretten seyen, wessenthalben sie auch einen mit Ander sociorum Unter
                <lb facs="#facs_18_r2l9" n="N008"/>schrift beglaubte Extract des zwischen ihnen samentlichen errichteten societats
                <lb facs="#facs_18_line_1628382489452_578" n="N009"/>Contracts obigen <hi>abla</hi> Abschrift deren Oblatorien N<hi style="superscript">o</hi> 1099 beygeruket und unten
-               <lb facs="#facs_18_r2l12" n="N010"/>eingeleget, Kraft welchen die societat zwischen obigen <rs type="person" ref="wkfm__4694">Perinet </rs>und <rs type="person" ref="wkfm__43810">Bernhard Franz Violland</rs>
-               <lb facs="#facs_18_r2l13" n="N011"/>mit Einbegriff des <rs type="person" ref="wkfm__30391">Franz </rs>und <rs type="person" ref="wkfm__43815">Jacob Violland</rs> als stille sociorum à 1<hi style="superscript">mo</hi> <choice><expan/><abbr>Janu:</abbr></choice> 740
-               <lb facs="#facs_18_r2l14" n="N012"/>6 Jahr und die Raggion <rs type="person" ref="wkfm__40012">Perinet und Violland</rs> stabiliret worden. Der <rs type="person" ref="wkfm__4694">Perinet</rs>, <rs type="person" ref="wkfm__43810">Bern
-               <lb break="no" facs="#facs_18_r2l15" n="N013"/>hard Franz</rs> und <rs type="person" ref="wkfm__30391">Franz Violland</rs> jedweder 20000 fl der <rs type="person" ref="wkfm__43815">Jacob Violland</rs> aber 1200 fl
+               <lb facs="#facs_18_r2l12" n="N010"/>eingeleget, Kraft welchen die societat zwischen obigen <rs type="person" ref="#wkfm__4694">Perinet </rs>und <rs type="person" ref="#wkfm__43810">Bernhard Franz Violland</rs>
+               <lb facs="#facs_18_r2l13" n="N011"/>mit Einbegriff des <rs type="person" ref="#wkfm__30391">Franz </rs>und <rs type="person" ref="#wkfm__43815">Jacob Violland</rs> als stille sociorum à 1<hi style="superscript">mo</hi> <choice><expan/><abbr>Janu:</abbr></choice> 740
+               <lb facs="#facs_18_r2l14" n="N012"/>6 Jahr und die Raggion <rs type="person" ref="#wkfm__40012">Perinet und Violland</rs> stabiliret worden. Der <rs type="person" ref="#wkfm__4694">Perinet</rs>, <rs type="person" ref="#wkfm__43810">Bern
+               <lb break="no" facs="#facs_18_r2l15" n="N013"/>hard Franz</rs> und <rs type="person" ref="#wkfm__30391">Franz Violland</rs> jedweder 20000 fl der <rs type="person" ref="#wkfm__43815">Jacob Violland</rs> aber 1200 fl
                <lb facs="#facs_18_line_1628382877449_623" n="N014"/><seg type="editorial_comment_seg"><hi>0</hi> 1889<note type="editorial_comment_note">dieser Einschub steht vertikal am linken Seitenrand nehben den Zeilen 6 Jahr ... und hard Franz und Franz Violland ...</note></seg>
-               <lb facs="#facs_18_r2l16" n="N015"/>nebst einer Caution von <rs type="person" ref="wkfm__43810">Bernhard Franz Violland</rs> <choice><expan/><abbr>pr:</abbr></choice> 10000 fl eingeleget, und
+               <lb facs="#facs_18_r2l16" n="N015"/>nebst einer Caution von <rs type="person" ref="#wkfm__43810">Bernhard Franz Violland</rs> <choice><expan/><abbr>pr:</abbr></choice> 10000 fl eingeleget, und
                <lb facs="#facs_18_r2l17" n="N016"/>alle viern jedwederer in <unclear>solidum</unclear> für die Handlungs affairen zu stehen sich verbunden.
-               <lb facs="#facs_18_line_1628382608824_592" n="N017"/>In obigen Anbringen de ps: 26<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 754 N<hi style="superscript">o</hi> 1889 hat sich der <rs type="person" ref="wkfm__4694">Perinet</rs> erklähret das sich der <rs type="person" ref="wkfm__43810">Violland</rs> <choice><expan/><abbr>Ao</abbr></choice> 751 von ihm
-               <lb facs="#facs_18_line_1628382775961_609" n="N018"/>separiret, und er sich mit seinem Sohn <rs type="person" ref="wkfm__43814">Johann Baptista Perinet</rs>, Schwiger Sohn <rs type="person" ref="wkfm__47276">Joachim Benedict Perinet</rs> und
-               <lb facs="#facs_18_r2l21" n="N019"/>seinen bedienten <rs type="person" ref="wkfm__43813">Anton Reitter</rs> associiert habe.
+               <lb facs="#facs_18_line_1628382608824_592" n="N017"/>In obigen Anbringen de ps: 26<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 754 N<hi style="superscript">o</hi> 1889 hat sich der <rs type="person" ref="#wkfm__4694">Perinet</rs> erklähret das sich der <rs type="person" ref="#wkfm__43810">Violland</rs> <choice><expan/><abbr>Ao</abbr></choice> 751 von ihm
+               <lb facs="#facs_18_line_1628382775961_609" n="N018"/>separiret, und er sich mit seinem Sohn <rs type="person" ref="#wkfm__43814">Johann Baptista Perinet</rs>, Schwiger Sohn <rs type="person" ref="#wkfm__47276">Joachim Benedict Perinet</rs> und
+               <lb facs="#facs_18_r2l21" n="N019"/>seinen bedienten <rs type="person" ref="#wkfm__43813">Anton Reitter</rs> associiert habe.
                <lb facs="#facs_18_line_1621085922402_381" n="N020"/><seg type="editorial_comment_seg"><hi>0</hi><note type="editorial_comment_note">Zeichen für einen Einschub. Der Einschub folgt am Ende der Anmerkungen beginnend mit Anno 763</note></seg>
                <lb facs="#facs_18_r2l22" n="N021"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_18_r2l23" n="N022"/><seg type="orighead__other_notes"><seg type="orighead__other_notes">Anmerkungen</seg></seg>
-               <lb facs="#facs_18_r2l24" n="N023"/>Auf diese Handlung ist <rs type="person" ref="wkfm__43814">Johann Baptist Perinet junioris</rs> mütter
+               <lb facs="#facs_18_r2l24" n="N023"/>Auf diese Handlung ist <rs type="person" ref="#wkfm__43814">Johann Baptist Perinet junioris</rs> mütter
                <lb facs="#facs_18_r2l25" n="N024"/>liche Erbs Portion <hi>vor</hi> <choice><expan/><abbr>pr:</abbr></choice> 20000 fl vorgemerket und versicheret
                <lb facs="#facs_18_r2l26" n="N025"/>worden laut der sub rubrica Fundi Ausweisung, alß ein <unclear>aggravio</unclear>
                <lb facs="#facs_18_r2l27" n="N026"/>des Handlungs Fundi beschehenen Anmerkung und deren sub N<hi style="superscript">o</hi> 1239
                <lb facs="#facs_18_line_1621088682123_454" n="N027"/>et 1240 einligenden documenten.
                <lb facs="#facs_18_line_1621088682123_453" n="N028"/><hi>0</hi>
-               <lb facs="#facs_18_r2l29" n="N029"/><seg type="editorial_comment_seg">Anno <note type="editorial_comment_note">Das Folgende ist der Schluss des Textes der Rubrik Societäts Contract...</note></seg>763 die Societät zwischen <rs type="person" ref="wkfm__43814?">Johann Baptista Perinet</rs> und <rs type="person" ref="wkfm__43812">Joachim
+               <lb facs="#facs_18_r2l29" n="N029"/><seg type="editorial_comment_seg">Anno <note type="editorial_comment_note">Das Folgende ist der Schluss des Textes der Rubrik Societäts Contract...</note></seg>763 die Societät zwischen <rs type="person" ref="#wkfm__43814?">Johann Baptista Perinet</rs> und <rs type="person" ref="#wkfm__43812">Joachim
                <lb break="no" facs="#facs_18_r2l30" n="N030"/>Benedict Perinet</rs> angezeiget, samt angemerkten firmen. liegt in
                <lb facs="#facs_18_r2l31" n="N031"/>denen firmen sub <choice><expan/><abbr>nro</abbr></choice> 163 1/2
             </ab>

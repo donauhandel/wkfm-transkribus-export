@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -74,15 +74,15 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_143" n="143" xml:id="img_0143"/>
+            <pb facs="#facs_143" n="143" xml:id="img_0143" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0196.jpg"/>
             
             <ab facs="#facs_143_r1">
                <lb facs="#facs_143_r1l1" n="N001"/>96
                <lb facs="#facs_143_r1l2" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_143_r1l3" n="N003"/><rs type="person" ref="wkfm__4646">Peisser Joseph</rs> burgerlicher Handlsmann
+               <lb facs="#facs_143_r1l3" n="N003"/><rs type="person" ref="#wkfm__4646">Peisser Joseph</rs> burgerlicher Handlsmann
                <lb facs="#facs_143_r1l4" n="N004"/>Firma oder Raggion
-               <lb facs="#facs_143_r1l5" n="N005"/><rs type="person" ref="wkfm__13208">Peisser et Rigotti</rs> laut anregung in dem Anbringen de ps: 21<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 732 N<hi style="superscript">o</hi> 1861
-               <lb facs="#facs_143_r1l6" n="N006"/><rs type="person" ref="wkfm__47341">Joseph Peisser</rs> laut Anbringen de pr: 21<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 732 N<hi style="superscript">o</hi> 1861
+               <lb facs="#facs_143_r1l5" n="N005"/><rs type="person" ref="#wkfm__13208">Peisser et Rigotti</rs> laut anregung in dem Anbringen de ps: 21<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 732 N<hi style="superscript">o</hi> 1861
+               <lb facs="#facs_143_r1l6" n="N006"/><rs type="person" ref="#wkfm__47341">Joseph Peisser</rs> laut Anbringen de pr: 21<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 732 N<hi style="superscript">o</hi> 1861
                <lb facs="#facs_143_r1l7" n="N007"/>und de ps: 8<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 734 N<hi style="superscript">o</hi> 96.
                <lb facs="#facs_143_r1l8" n="N008"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_143_r1l9" n="N009"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>

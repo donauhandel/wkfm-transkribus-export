@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -87,18 +87,18 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_153" n="153" xml:id="img_0153"/>
+            <pb facs="#facs_153" n="153" xml:id="img_0153" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0473.jpg"/>
             
             <ab facs="#facs_153_r1">
                <lb facs="#facs_153_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_153_r1l2" n="N003"/><rs type="person" ref="wkfm__46171">Kannigießer Franz Joseph</rs> burgerlicher Handlsmann
+               <lb facs="#facs_153_r1l2" n="N003"/><rs type="person" ref="#wkfm__46171">Kannigießer Franz Joseph</rs> burgerlicher Handlsmann
                <lb facs="#facs_153_r1l3" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_153_r1l4" n="N005"/><choice><expan/><abbr>Ao</abbr></choice> 766 hat <rs type="person" ref="wkfm__46171">Franz Joseph Kanngiesser</rs> seine firma eingeleget <choice><expan/><abbr>nro</abbr></choice> 241.
+               <lb facs="#facs_153_r1l4" n="N005"/><choice><expan/><abbr>Ao</abbr></choice> 766 hat <rs type="person" ref="#wkfm__46171">Franz Joseph Kanngiesser</rs> seine firma eingeleget <choice><expan/><abbr>nro</abbr></choice> 241.
                <lb facs="#facs_153_r1l5" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_153_r1l6" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_153_r1l7" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_153_r1l8" n="N009"/>Der <rs type="person" ref="wkfm__46171">Kannigießer</rs> hat zu Ausweisung seines Fundi daß von seiner
-               <lb facs="#facs_153_r1l9" n="N010"/>Ehewirthin <rs type="person" ref="wkfm__46172">Maria Anna</rs> untern 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 748 <hi>ausgestelt</hi> Certionirtet
+               <lb facs="#facs_153_r1l8" n="N009"/>Der <rs type="person" ref="#wkfm__46171">Kannigießer</rs> hat zu Ausweisung seines Fundi daß von seiner
+               <lb facs="#facs_153_r1l9" n="N010"/>Ehewirthin <rs type="person" ref="#wkfm__46172">Maria Anna</rs> untern 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 748 <hi>ausgestelt</hi> Certionirtet
                <lb facs="#facs_153_line_1621962283358_2938" n="N011"/><hi>laut Instrument</hi> und dahin ausgestelte <choice><expan/><abbr>orig:</abbr></choice> Instrument <hi>ddto</hi> N<hi style="superscript">o</hi> 1320
                <lb facs="#facs_153_r1l12" n="N012"/>daß sie von ihren in der Statbanco obigen habenden Capitalien seines <gap/>
                <lb facs="#facs_153_line_1621962369072_3000" n="N013"/><hi>so auf dero obligation</hi> <unclear>gedachten</unclear> ihren Ehewirten eigenthumlich <hi>uberla</hi> samt verfallnen und künftig
@@ -108,7 +108,7 @@
                <lb facs="#facs_153_line_1621962326223_2970" n="N017"/>und dd<hi style="superscript">to</hi> 20<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 738 <choice><expan/><abbr>pr</abbr></choice> 200 fl
                <lb facs="#facs_153_r1l23" n="N018"/>dann in weithern <choice><expan>Stadtbanco</expan><abbr>StB</abbr></choice> Obligationen pro fundo dergestalten einge-
                <lb facs="#facs_153_r1l24" n="N019"/>leget habe, das sie diesfalß keine Vorrecht praetendirn 1700 fl
-               <lb facs="#facs_153_r1l25" n="N020"/>zu Completirung der Uberreste hat der <rs type="person" ref="wkfm__8411">Domenico Vanossi</rs>
+               <lb facs="#facs_153_r1l25" n="N020"/>zu Completirung der Uberreste hat der <rs type="person" ref="#wkfm__8411">Domenico Vanossi</rs>
                <lb facs="#facs_153_r1l26" n="N021"/>das <choice><expan/><abbr>orig:</abbr></choice> Cautions Instrument dd<hi style="superscript">to</hi> 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 748 N<hi style="superscript">o</hi> 1321 eingeleget <choice><expan/><abbr>pr</abbr></choice> 1000 fl
                <lb facs="#facs_153_r1l27" n="N022"/><choice><expan/><abbr>Sa</abbr></choice> 4000 fl
             </ab>

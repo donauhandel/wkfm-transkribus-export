@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -85,17 +85,17 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_151" n="151" xml:id="img_0151"/>
+            <pb facs="#facs_151" n="151" xml:id="img_0151" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0471.jpg"/>
             
             <ab facs="#facs_151_r1">
                <lb facs="#facs_151_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_151_r1l2" n="N003"/><rs type="person" ref="wkfm__46168">Kollman Johann</rs> burgerlicher Handlsmann
+               <lb facs="#facs_151_r1l2" n="N003"/><rs type="person" ref="#wkfm__46168">Kollman Johann</rs> burgerlicher Handlsmann
                <lb facs="#facs_151_r1l3" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_151_r1l4" n="N005"/><rs type="person" ref="wkfm__47261">Johann Kollman</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 231.
+               <lb facs="#facs_151_r1l4" n="N005"/><rs type="person" ref="#wkfm__47261">Johann Kollman</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 231.
                <lb facs="#facs_151_r1l5" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_151_r1l6" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_151_r1l7" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_151_r1l8" n="N009"/>Der <rs type="person" ref="wkfm__46168">Kollman</rs> hat seinen Fundum mitls der von selben untern 9<hi style="superscript">ten</hi> Junii 747
+               <lb facs="#facs_151_r1l8" n="N009"/>Der <rs type="person" ref="#wkfm__46168">Kollman</rs> hat seinen Fundum mitls der von selben untern 9<hi style="superscript">ten</hi> Junii 747
                <lb facs="#facs_151_r1l9" n="N010"/>beeydigten Specification N<hi style="superscript">o</hi> 1318 folgender gestalten ausgewisen, nemlich
                <lb facs="#facs_151_r1l10" n="N011"/>daß er eigenthumlich besize
                <lb facs="#facs_151_line_1621962181303_2879" n="N012"/>an erspahrten salario 300 fl
@@ -104,8 +104,8 @@
                <lb facs="#facs_151_r1l17" n="N015"/>Der Rabbat deren ubernohmen Waren betrag 1500 fl wovor er 
                <lb facs="#facs_151_line_1621962201895_2901" n="N016"/>aber nur anseze 700 fl
                <lb facs="#facs_151_r1l21" n="N017"/>zusamen Eigenthum 2000 fl
-               <lb facs="#facs_151_line_1621962209101_2907" n="N018"/>Zu Completirung der Überrestes hat der <rs type="person" ref="wkfm__46170">Franz Joseph Hammer</rs> und
-               <lb facs="#facs_151_r1l24" n="N019"/><rs type="person" ref="wkfm__46169">Melchior Rathgeb</rs> das <choice><expan/><abbr>orig:</abbr></choice> Cautions Instrument dd<hi style="superscript">to</hi> 8<hi style="superscript">ten</hi> May 747 N<hi style="superscript">o</hi> 1319
+               <lb facs="#facs_151_line_1621962209101_2907" n="N018"/>Zu Completirung der Überrestes hat der <rs type="person" ref="#wkfm__46170">Franz Joseph Hammer</rs> und
+               <lb facs="#facs_151_r1l24" n="N019"/><rs type="person" ref="#wkfm__46169">Melchior Rathgeb</rs> das <choice><expan/><abbr>orig:</abbr></choice> Cautions Instrument dd<hi style="superscript">to</hi> 8<hi style="superscript">ten</hi> May 747 N<hi style="superscript">o</hi> 1319
                <lb facs="#facs_151_line_1621962216066_2913" n="N020"/>eingeleget <choice><expan/><abbr>pr</abbr></choice> 6000 fl
                <lb facs="#facs_151_r1l27" n="N021"/><choice><expan/><abbr>Sa</abbr></choice> 8000 fl
             </ab>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -79,21 +79,21 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_69" n="69" xml:id="img_0069"/>
+            <pb facs="#facs_69" n="69" xml:id="img_0069" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1169.jpg"/>
             
             <ab facs="#facs_69_r1">
                <lb facs="#facs_69_r1l2" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_69_r1l3" n="N003"/><rs type="person" ref="wkfm__46771">Lazarus Franz</rs> burgerlicher Handlsmann
+               <lb facs="#facs_69_r1l3" n="N003"/><rs type="person" ref="#wkfm__46771">Lazarus Franz</rs> burgerlicher Handlsmann
                <lb facs="#facs_69_r1l4" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_69_r1l5" n="N005"/><rs type="person" ref="wkfm__46829">Frantz Lazarus</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 536
+               <lb facs="#facs_69_r1l5" n="N005"/><rs type="person" ref="#wkfm__46829">Frantz Lazarus</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 536
                <lb facs="#facs_69_r1l6" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_69_r1l7" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_69_r1l8" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_69_r1l9" n="N009"/>Der <rs type="person" ref="wkfm__46771">Lazarus</rs> hat zu ausweisung seines Fundi das von dem <rs type="person" ref="wkfm__43853">Johann
+               <lb facs="#facs_69_r1l9" n="N009"/>Der <rs type="person" ref="#wkfm__46771">Lazarus</rs> hat zu ausweisung seines Fundi das von dem <rs type="person" ref="#wkfm__43853">Johann
                <lb break="no" facs="#facs_69_r1l10" n="N010"/>Ferdinand Polzer</rs> untern 6<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 743 dahin ausgestelte respectivé
                <lb facs="#facs_69_r1l11" n="N011"/>attestatum und Cautions Instrument in <choice><expan/><abbr>orig:</abbr></choice> N<hi style="superscript">o</hi> 1576 eingeleget, daß
-               <lb facs="#facs_69_r1l12" n="N012"/>der <rs type="person" ref="wkfm__46771">Lazarus</rs> 1200 fl eigenthumlich besize und für das übrige des
-               <lb facs="#facs_69_r1l13" n="N013"/>Patentmäßigen fundi er <rs type="person" ref="wkfm__43853">Polzer</rs> hiemit <unclear>coviren</unclear> und jederzeit haften wolle
+               <lb facs="#facs_69_r1l12" n="N012"/>der <rs type="person" ref="#wkfm__46771">Lazarus</rs> 1200 fl eigenthumlich besize und für das übrige des
+               <lb facs="#facs_69_r1l13" n="N013"/>Patentmäßigen fundi er <rs type="person" ref="#wkfm__43853">Polzer</rs> hiemit <unclear>coviren</unclear> und jederzeit haften wolle
                <lb facs="#facs_69_r1l14" n="N014"/>eingeleget
             </ab>
             

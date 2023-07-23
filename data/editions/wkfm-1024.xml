@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -80,21 +80,21 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_104" n="104" xml:id="img_0104"/>
+            <pb facs="#facs_104" n="104" xml:id="img_0104" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1024.jpg"/>
             
             <ab facs="#facs_104_r1">
                <lb facs="#facs_104_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
-               <lb facs="#facs_104_r1l2" n="N002"/>Mitls Anbringen de ps: 13<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 2017 hat die Raggion <rs type="person" ref="wkfm__8148">Rad und
-               <lb break="no" facs="#facs_104_r1l4" n="N003"/>Höslin</rs> angezeiget, daß unter selber daß negotium von den <rs type="person" ref="wkfm__46522">Christoph Rad</rs> und <rs type="person" ref="wkfm__46521">Philipp Albrecht
-               <lb break="no" facs="#facs_104_r1l5" n="N004"/>Höslin</rs> mit ihrer beyder und des <rs type="person" ref="wkfm__23197">Bartholomaei Falkh</rs> obligo und interesse
+               <lb facs="#facs_104_r1l2" n="N002"/>Mitls Anbringen de ps: 13<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 2017 hat die Raggion <rs type="person" ref="#wkfm__8148">Rad und
+               <lb break="no" facs="#facs_104_r1l4" n="N003"/>Höslin</rs> angezeiget, daß unter selber daß negotium von den <rs type="person" ref="#wkfm__46522">Christoph Rad</rs> und <rs type="person" ref="#wkfm__46521">Philipp Albrecht
+               <lb break="no" facs="#facs_104_r1l5" n="N004"/>Höslin</rs> mit ihrer beyder und des <rs type="person" ref="#wkfm__23197">Bartholomaei Falkh</rs> obligo und interesse
                <lb facs="#facs_104_r1l6" n="N005"/>geführet <hi>ge</hi> und aller dreyen firma geführet werde.
                <lb facs="#facs_104_r1l8" n="N006"/>Mitls deren Anbringen de ps: 15<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 739 N<hi style="superscript">o</hi> 1515 und 1969 dann oblatorien dd<hi style="superscript">to</hi> 
                <lb facs="#facs_104_r1l9" n="N007"/><choice><expan/><abbr>Janu:</abbr></choice> 737 N<hi style="superscript">o</hi> 1129
-               <lb facs="#facs_104_r1l10" n="N008"/>hat die Raggion <rs type="person" ref="wkfm__30066">Hößlin und Falkh</rs> angezeiget und <hi>kund</hi> respective kund gemacht
-               <lb facs="#facs_104_r1l11" n="N009"/>daß das unter der Raggion <rs type="person" ref="wkfm__8148">Rad und Hößlin</rs> geloffene negotium mit Ausgang 736
-               <lb facs="#facs_104_r1l12" n="N010"/>sich geendiget der <rs type="person" ref="wkfm__46521">Hößlin</rs> aber und <rs type="person" ref="wkfm__23197">Falkh</rs> aber alle <rs type="person" ref="wkfm__8148">Rad und Hößlin:</rs> activa
+               <lb facs="#facs_104_r1l10" n="N008"/>hat die Raggion <rs type="person" ref="#wkfm__30066">Hößlin und Falkh</rs> angezeiget und <hi>kund</hi> respective kund gemacht
+               <lb facs="#facs_104_r1l11" n="N009"/>daß das unter der Raggion <rs type="person" ref="#wkfm__8148">Rad und Hößlin</rs> geloffene negotium mit Ausgang 736
+               <lb facs="#facs_104_r1l12" n="N010"/>sich geendiget der <rs type="person" ref="#wkfm__46521">Hößlin</rs> aber und <rs type="person" ref="#wkfm__23197">Falkh</rs> aber alle <rs type="person" ref="#wkfm__8148">Rad und Hößlin:</rs> activa
                <lb facs="#facs_104_r1l13" n="N011"/>und Passiva auf sich genohmen und entschlossen haben dieses Negotium unter
-               <lb facs="#facs_104_r1l15" n="N012"/>der Raggion <hi>Rad und</hi> <rs type="person" ref="wkfm__30066">Hößlin und Falkh</rs> <hi>unter</hi> mit beederseithigen alleinigen interesse
+               <lb facs="#facs_104_r1l15" n="N012"/>der Raggion <hi>Rad und</hi> <rs type="person" ref="#wkfm__30066">Hößlin und Falkh</rs> <hi>unter</hi> mit beederseithigen alleinigen interesse
                <lb facs="#facs_104_r1l16" n="N013"/>und obligo zu prosequiren und zu stabilirung desselben einen Fundum von <choice><expan>150000</expan><abbr>150 m</abbr></choice> fl 
                <lb facs="#facs_104_r1l17" n="N014"/>constiuiret und zu gleichen theilen eingebracht haben.
                <lb facs="#facs_104_r1l18" n="N015"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>

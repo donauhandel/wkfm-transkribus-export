@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -72,12 +72,12 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_128" n="128" xml:id="img_0128"/>
+            <pb facs="#facs_128" n="128" xml:id="img_0128" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0181.jpg"/>
             
             <ab facs="#facs_128_r2">
                <lb facs="#facs_128_r2l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_128_r2l2" n="N002"/>In obigen Anbringen hat de ps: 1<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 729 N<hi style="superscript">o</hi> 83 hat sich der
-               <lb facs="#facs_128_r2l3" n="N003"/><rs type="person" ref="wkfm__10013">Bahn</rs> erklähret, daß er sein Negotium mit eignen interesse
+               <lb facs="#facs_128_r2l3" n="N003"/><rs type="person" ref="#wkfm__10013">Bahn</rs> erklähret, daß er sein Negotium mit eignen interesse
                <lb facs="#facs_128_r2l4" n="N004"/>und obligo stabiliret habe.
                <lb facs="#facs_128_r2l5" n="N005"/>Erklarung dd<hi style="superscript">to</hi>: 26<hi style="superscript">ten</hi> Decembris 763 das er keinen <choice><expan/><abbr>Compag:</abbr></choice> noch 
                <lb facs="#facs_128_r2l6" n="N006"/>Mitfirmirer habe. in firmis sub <choice><expan/><abbr>nro:</abbr></choice> 83 aufbehalten.

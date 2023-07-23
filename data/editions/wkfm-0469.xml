@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -81,20 +81,20 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_149" n="149" xml:id="img_0149"/>
+            <pb facs="#facs_149" n="149" xml:id="img_0149" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0469.jpg"/>
             
             <ab facs="#facs_149_r1">
                <lb facs="#facs_149_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_149_r1l2" n="N003"/><rs type="person" ref="wkfm__29693">Kolman Joseph</rs> <choice><expan/><abbr>kay:</abbr></choice> <choice><expan/><abbr>könig:</abbr></choice> Niderlags Verwanter
+               <lb facs="#facs_149_r1l2" n="N003"/><rs type="person" ref="#wkfm__29693">Kolman Joseph</rs> <choice><expan/><abbr>kay:</abbr></choice> <choice><expan/><abbr>könig:</abbr></choice> Niderlags Verwanter
                <lb facs="#facs_149_r1l3" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_149_r1l4" n="N005"/><rs type="person" ref="wkfm__47260">Joseph Kolman</rs> laut Erklährung dd<hi style="superscript">to</hi> 29<hi style="superscript">ten</hi> May 747 N<hi style="superscript">o</hi> 228
+               <lb facs="#facs_149_r1l4" n="N005"/><rs type="person" ref="#wkfm__47260">Joseph Kolman</rs> laut Erklährung dd<hi style="superscript">to</hi> 29<hi style="superscript">ten</hi> May 747 N<hi style="superscript">o</hi> 228
                <lb facs="#facs_149_r1l5" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
-               <lb facs="#facs_149_r1l6" n="N007"/>Mitls Anbringen de ps: 29<hi style="superscript">ten</hi> May 747 N<hi style="superscript">o</hi> 942 hat der <rs type="person" ref="wkfm__29693">Kolman</rs> seinem
-               <lb facs="#facs_149_r1l7" n="N008"/>Bedienten <rs type="person" ref="wkfm__46167">Johann Franz Jaccoud</rs> die Procura ertheilet und die von dem
-               <lb facs="#facs_149_r1l8" n="N009"/><rs type="person" ref="wkfm__46167">Jaccoud</rs> führende Firma dd<hi style="superscript">to</hi> 29<hi style="superscript">ten</hi> May 747 eingeleget
+               <lb facs="#facs_149_r1l6" n="N007"/>Mitls Anbringen de ps: 29<hi style="superscript">ten</hi> May 747 N<hi style="superscript">o</hi> 942 hat der <rs type="person" ref="#wkfm__29693">Kolman</rs> seinem
+               <lb facs="#facs_149_r1l7" n="N008"/>Bedienten <rs type="person" ref="#wkfm__46167">Johann Franz Jaccoud</rs> die Procura ertheilet und die von dem
+               <lb facs="#facs_149_r1l8" n="N009"/><rs type="person" ref="#wkfm__46167">Jaccoud</rs> führende Firma dd<hi style="superscript">to</hi> 29<hi style="superscript">ten</hi> May 747 eingeleget
                <lb facs="#facs_149_r1l9" n="N010"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_149_r1l10" n="N011"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_149_r1l13" n="N012"/>Zu Ausweisung seines Handlungs Fundi hat der <rs type="person" ref="wkfm__29693">Kolman</rs> die <choice><expan/><abbr>orig:</abbr></choice>
+               <lb facs="#facs_149_r1l13" n="N012"/>Zu Ausweisung seines Handlungs Fundi hat der <rs type="person" ref="#wkfm__29693">Kolman</rs> die <choice><expan/><abbr>orig:</abbr></choice>
                <lb facs="#facs_149_line_1621962048128_2836" n="N013"/>Billanz N<hi style="superscript">o</hi> 1317 eingeleget an <seg type="editorial_comment_seg">avanzo<note type="editorial_comment_note">ital. Überschuss</note></seg> <choice><expan/><abbr>pr</abbr></choice> 32345 fl
                <lb facs="#facs_149_r1l17" n="N014"/>und solche laut beygerukter Formula jurandi untern 2<hi style="superscript">ten</hi> Junii 747
                <lb facs="#facs_149_r1l18" n="N015"/>mit einem Cörperlichen Eyd dahin bestättiget, daß er an gutten Waaren

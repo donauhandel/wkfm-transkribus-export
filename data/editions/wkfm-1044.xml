@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -77,13 +77,13 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_124" n="124" xml:id="img_0124"/>
+            <pb facs="#facs_124" n="124" xml:id="img_0124" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1044.jpg"/>
             
             <ab facs="#facs_124_r1">
                <lb facs="#facs_124_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_124_r1l2" n="N002"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
-               <lb facs="#facs_124_r1l3" n="N003"/>Der <rs type="person" ref="wkfm__46162">Höcker</rs> hat mitls Anbringen de ps: 14<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 750 N<hi style="superscript">o</hi> 2176 den mit der
-               <lb facs="#facs_124_r1l5" n="N004"/><rs type="person" ref="wkfm__46552">Maria Eva Corloin</rs> untern 22<hi style="superscript">ten</hi> Julii 750 errichteten Heurathscontract in
+               <lb facs="#facs_124_r1l3" n="N003"/>Der <rs type="person" ref="#wkfm__46162">Höcker</rs> hat mitls Anbringen de ps: 14<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 750 N<hi style="superscript">o</hi> 2176 den mit der
+               <lb facs="#facs_124_r1l5" n="N004"/><rs type="person" ref="#wkfm__46552">Maria Eva Corloin</rs> untern 22<hi style="superscript">ten</hi> Julii 750 errichteten Heurathscontract in
                <lb facs="#facs_124_r1l7" n="N005"/><choice><expan/><abbr>orig:</abbr></choice> N<hi style="superscript">o</hi> 2175 eingeleget kraft welchen 1000 fl Heurathgutt nebst 2000 fl Wider-
                <lb facs="#facs_124_r1l8" n="N006"/>lag auf Überleben, dann jenes was wehrender Ehe erworben und Ererbet wird
                <lb facs="#facs_124_r1l9" n="N007"/>als ein gleiches gutt stipuliret und weithers vorgesehen worden, daß die Braut

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -85,28 +85,28 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_113" n="113" xml:id="img_0113"/>
+            <pb facs="#facs_113" n="113" xml:id="img_0113" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1819.jpg"/>
             
             <ab facs="#facs_113_r2">
                <lb facs="#facs_113_line_1626245244507_188" n="N001"/>902
                <lb facs="#facs_113_line_1626245280396_203" n="N002"/>152
                <lb facs="#facs_113_r2l1" n="N003"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_113_r2l2" n="N004"/><rs type="person" ref="wkfm__47047">Wätzger Johann Michäl</rs> burgerlicher Handlsmann
+               <lb facs="#facs_113_r2l2" n="N004"/><rs type="person" ref="#wkfm__47047">Wätzger Johann Michäl</rs> burgerlicher Handlsmann
                <lb facs="#facs_113_r2l3" n="N005"/>Firma ad Raggion
                <lb facs="#facs_113_r2l4" n="N006"/><choice><expan/><abbr>Ao</abbr></choice> 765 seine firma eingelegt: <choice><expan/><abbr>nro</abbr></choice> 839 1/2
                <lb facs="#facs_113_r2l5" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_113_r2l6" n="N008"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_113_r2l8" n="N009"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_113_r2l9" n="N010"/>Der <rs type="person" ref="wkfm__47047">Wätzger</rs> hat seinen Fundum mitls der Specification N<hi style="superscript">o</hi> 1824 folgender
-               <lb facs="#facs_113_r2l10" n="N011"/>maßen ausgewisen nemlich das er eigenthumlich besize und dem <rs type="person" ref="wkfm__46674">Wolf Anton
+               <lb facs="#facs_113_r2l9" n="N010"/>Der <rs type="person" ref="#wkfm__47047">Wätzger</rs> hat seinen Fundum mitls der Specification N<hi style="superscript">o</hi> 1824 folgender
+               <lb facs="#facs_113_r2l10" n="N011"/>maßen ausgewisen nemlich das er eigenthumlich besize und dem <rs type="person" ref="#wkfm__46674">Wolf Anton
                <lb break="no" facs="#facs_113_r2l11" n="N012"/>Nägerl laut attestati ddto 16ten <expan/><abbr>Mart:</abbr> 754 a conto der uberlassnen Handlung be-
                <lb break="no" facs="#facs_113_r2l13" n="N013"/>zahlet habe an Vätterlichen 600 fl
                <lb break="no" facs="#facs_113_r2l14" n="N014"/>an Mütterlichen Vermög vidimirten Extract aus seiner Mutter Anna Maria
                <lb break="no" facs="#facs_113_r2l16" n="N015"/><gap/>urchhofferin</rs> untern 5<hi style="superscript">ten</hi> May 730 errichteten testament N<hi style="superscript">o</hi> 1825, kraft
-               <lb facs="#facs_113_r2l18" n="N016"/>welchen selbe § Viertens ihm <rs type="person" ref="wkfm__47047">Wätzger</rs> 800 fl legiret 1200 fl
+               <lb facs="#facs_113_r2l18" n="N016"/>welchen selbe § Viertens ihm <rs type="person" ref="#wkfm__47047">Wätzger</rs> 800 fl legiret 1200 fl
                <lb facs="#facs_113_r2l23" n="N017"/>an erspahrten salario 400 fl
                <lb facs="#facs_113_line_1626358632220_4930" n="N018"/>zusamen Eigenthum 2200 fl
-               <lb facs="#facs_113_r2l24" n="N019"/>zu Completirung des übrigen hat der Wolf Anton <rs type="person" ref="wkfm__46674">Nägerl</rs>
+               <lb facs="#facs_113_r2l24" n="N019"/>zu Completirung des übrigen hat der Wolf Anton <rs type="person" ref="#wkfm__46674">Nägerl</rs>
                <lb facs="#facs_113_r2l25" n="N020"/>das <choice><expan/><abbr>orig:</abbr></choice> Cautions Instrument ddto 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 754 N<hi style="superscript">o</hi> 18127 eingeleget <choice><expan/><abbr>pr</abbr></choice> 1800 fl
                <lb facs="#facs_113_r2l26" n="N021"/><choice><expan/><abbr>Sa</abbr></choice> 4000 fl
             </ab>

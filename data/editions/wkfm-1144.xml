@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -69,11 +69,11 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_44" n="44" xml:id="img_0044"/>
+            <pb facs="#facs_44" n="44" xml:id="img_0044" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1144.jpg"/>
             
             <ab facs="#facs_44_r1">
                <lb facs="#facs_44_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
-               <lb facs="#facs_44_r1l2" n="N002"/>In obigen Anbringen de ps: 11<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 726 N<hi style="superscript">o</hi> 526 hat sich der <rs type="person" ref="wkfm__46811">Loher</rs>
+               <lb facs="#facs_44_r1l2" n="N002"/>In obigen Anbringen de ps: 11<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 726 N<hi style="superscript">o</hi> 526 hat sich der <rs type="person" ref="#wkfm__46811">Loher</rs>
                <lb facs="#facs_44_r1l3" n="N003"/>erklähret, das er keinen Compagnon habe.
                <lb facs="#facs_44_r1l5" n="N004"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_44_r1l6" n="N005"/>Anmerckungen

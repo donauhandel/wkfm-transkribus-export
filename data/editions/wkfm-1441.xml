@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -81,23 +81,23 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_89" n="89" xml:id="img_0089"/>
+            <pb facs="#facs_89" n="89" xml:id="img_0089" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1441.jpg"/>
             
             <ab facs="#facs_89_r1">
                <lb facs="#facs_89_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_89_r1l2" n="N003"/><hi>Franz</hi> <rs type="person" ref="wkfm__46758">Ristl <hi>burg</hi> Franz</rs> burgerlicher Handlsmann
+               <lb facs="#facs_89_r1l2" n="N003"/><hi>Franz</hi> <rs type="person" ref="#wkfm__46758">Ristl <hi>burg</hi> Franz</rs> burgerlicher Handlsmann
                <lb facs="#facs_89_r1l3" n="N004"/>Firma ad Raggion
                <lb facs="#facs_89_r1l4" n="N005"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_89_r1l5" n="N006"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_89_r1l6" n="N007"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_89_r1l9" n="N008"/>Der <rs type="person" ref="wkfm__46758">Ristl</rs> hat seinen Fundum mitls der specification N<hi style="superscript">o</hi> 1677 folgender maßen ausgewisen, nemlich daß
+               <lb facs="#facs_89_r1l9" n="N008"/>Der <rs type="person" ref="#wkfm__46758">Ristl</rs> hat seinen Fundum mitls der specification N<hi style="superscript">o</hi> 1677 folgender maßen ausgewisen, nemlich daß
                <lb facs="#facs_89_r1l10" n="N009"/>er eigenthumlich besize 3000 fl
-               <lb facs="#facs_89_r1l12" n="N010"/>zu Completirung des Uberrestes hat der <rs type="person" ref="wkfm__43802">Johann Baptista Ruard</rs>
+               <lb facs="#facs_89_r1l12" n="N010"/>zu Completirung des Uberrestes hat der <rs type="person" ref="#wkfm__43802">Johann Baptista Ruard</rs>
                <lb facs="#facs_89_r1l13" n="N011"/>das Cautions Instrument dd<hi style="superscript">to</hi> 10<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 749 eingeleget <choice><expan/><abbr>pr</abbr></choice> 2500 fl
-               <lb facs="#facs_89_r1l14" n="N012"/>desgleichen der <rs type="person" ref="wkfm__43942">Michäl Bassy</rs> dd<hi style="superscript">to</hi> eodem <choice><expan/><abbr>pr</abbr></choice> 2500 fl
+               <lb facs="#facs_89_r1l14" n="N012"/>desgleichen der <rs type="person" ref="#wkfm__43942">Michäl Bassy</rs> dd<hi style="superscript">to</hi> eodem <choice><expan/><abbr>pr</abbr></choice> 2500 fl
                <lb facs="#facs_89_r1l18" n="N013"/><choice><expan/><abbr>Sa</abbr></choice> 8000 fl
                <lb facs="#facs_89_r1l20" n="N014"/>zufolge der Auflag dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> Junii 764 und beygerukter Quittung dd<hi style="superscript">to</hi> 25<hi style="superscript">ten</hi>
-               <lb facs="#facs_89_r1l21" n="N015"/>ej: N<hi style="superscript">o</hi> 1678 seynd dem <rs type="person" ref="wkfm__46758">Ristl</rs> <hi>be</hi> über die aus eigenen Mittln gemachte weithere
+               <lb facs="#facs_89_r1l21" n="N015"/>ej: N<hi style="superscript">o</hi> 1678 seynd dem <rs type="person" ref="#wkfm__46758">Ristl</rs> <hi>be</hi> über die aus eigenen Mittln gemachte weithere
                <lb facs="#facs_89_r1l22" n="N016"/>Ausweisung beede <choice><expan/><abbr>orig:</abbr></choice> Cautions Instrumenta erfolget worden.
             </ab>
             

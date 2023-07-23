@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -81,23 +81,23 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_3" n="3" xml:id="img_0003"/>
+            <pb facs="#facs_3" n="3" xml:id="img_0003" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0923.jpg"/>
             
             <ab facs="#facs_3_r1">
                <lb facs="#facs_3_r1l2" n="N001"/>454
                <lb facs="#facs_3_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_3_r1l3" n="N003"/><rs type="person" ref="wkfm__11674">Haider Stephan Joseph</rs> burgerlicher Tuchlaubens Verwanter
+               <lb facs="#facs_3_r1l3" n="N003"/><rs type="person" ref="#wkfm__11674">Haider Stephan Joseph</rs> burgerlicher Tuchlaubens Verwanter
                <lb facs="#facs_3_r1l4" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_3_r1l5" n="N005"/><rs type="person" ref="wkfm__46390">Stephan Joseph Haider</rs> laut Anbringen de ps: 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 428
-               <lb facs="#facs_3_r1l7" n="N006"/><rs type="person" ref="wkfm__46391">Stephan von Haydern <choice><expan/><abbr>seel:</abbr></choice> Wittib und Sohn</rs> laut Anbringen de ps: 24<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 740 N<hi style="superscript">o</hi> 1972
-               <lb facs="#facs_3_r1l8" n="N007"/><rs type="person" ref="wkfm__46392">Stephan von Haydern <choice><expan/><abbr>seel:</abbr></choice> Wittib und Hammer</rs> laut societaets contract dd<hi style="superscript">to</hi> 27<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 741 N<hi style="superscript">o</hi> 1581
+               <lb facs="#facs_3_r1l5" n="N005"/><rs type="person" ref="#wkfm__46390">Stephan Joseph Haider</rs> laut Anbringen de ps: 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 428
+               <lb facs="#facs_3_r1l7" n="N006"/><rs type="person" ref="#wkfm__46391">Stephan von Haydern <choice><expan/><abbr>seel:</abbr></choice> Wittib und Sohn</rs> laut Anbringen de ps: 24<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 740 N<hi style="superscript">o</hi> 1972
+               <lb facs="#facs_3_r1l8" n="N007"/><rs type="person" ref="#wkfm__46392">Stephan von Haydern <choice><expan/><abbr>seel:</abbr></choice> Wittib und Hammer</rs> laut societaets contract dd<hi style="superscript">to</hi> 27<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 741 N<hi style="superscript">o</hi> 1581
                <lb facs="#facs_3_r1l9" n="N008"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
-               <lb facs="#facs_3_r1l10" n="N009"/>In obigen Anbringen de ps: 24<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice>  740 N<hi style="superscript">o</hi> 1972 ist die Firma der Raggion <rs type="person" ref="wkfm__46391">Stephan von
-               <lb break="no" facs="#facs_3_r1l11" n="N010"/>Haydern <choice><expan/><abbr>seel:</abbr></choice> Wittib und Sohn</rs> von beiden sociis als der <rs type="person" ref="wkfm__46393">Hayderischen Wittib Anna
-               <lb break="no" facs="#facs_3_r1l12" n="N011"/>Susanna</rs> und Hayderischen Sohn <rs type="person" ref="wkfm__46394">Leopold von Haydern</rs> eingeleget worden.
+               <lb facs="#facs_3_r1l10" n="N009"/>In obigen Anbringen de ps: 24<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice>  740 N<hi style="superscript">o</hi> 1972 ist die Firma der Raggion <rs type="person" ref="#wkfm__46391">Stephan von
+               <lb break="no" facs="#facs_3_r1l11" n="N010"/>Haydern <choice><expan/><abbr>seel:</abbr></choice> Wittib und Sohn</rs> von beiden sociis als der <rs type="person" ref="#wkfm__46393">Hayderischen Wittib Anna
+               <lb break="no" facs="#facs_3_r1l12" n="N011"/>Susanna</rs> und Hayderischen Sohn <rs type="person" ref="#wkfm__46394">Leopold von Haydern</rs> eingeleget worden.
                <lb facs="#facs_3_r1l13" n="N012"/>In obigen societaets contract dd<hi style="superscript">to</hi> 27<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 741 N<hi style="superscript">o</hi> 1581 ist vorgesehen worden, daß die
-               <lb facs="#facs_3_r1l14" n="N013"/>Firma der Raggion <rs type="person" ref="wkfm__46392">Stephan von Haydern <choice><expan/><abbr>seel:</abbr></choice> Wittib und Hammer</rs> von beeden sociis
-               <lb facs="#facs_3_r1l15" n="N014"/>als der <rs type="person" ref="wkfm__46393">Hayder: Wittib Anna Susanna</rs> und dem <rs type="person" ref="wkfm__46170">Franz Joseph Hammer</rs> geführet
+               <lb facs="#facs_3_r1l14" n="N013"/>Firma der Raggion <rs type="person" ref="#wkfm__46392">Stephan von Haydern <choice><expan/><abbr>seel:</abbr></choice> Wittib und Hammer</rs> von beeden sociis
+               <lb facs="#facs_3_r1l15" n="N014"/>als der <rs type="person" ref="#wkfm__46393">Hayder: Wittib Anna Susanna</rs> und dem <rs type="person" ref="#wkfm__46170">Franz Joseph Hammer</rs> geführet
                <lb facs="#facs_3_r1l16" n="N015"/>werden solle.
                <lb facs="#facs_3_r1l17" n="N016"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_3_r1l18" n="N017"/><seg type="orighead__fundi">Fundi Ausweisung</seg>

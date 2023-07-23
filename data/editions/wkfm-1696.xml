@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -74,16 +74,16 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_238" n="238" xml:id="img_0238"/>
+            <pb facs="#facs_238" n="238" xml:id="img_0238" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1696.jpg"/>
             
             <ab facs="#facs_238_r1">
                <lb facs="#facs_238_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_238_r1l2" n="N002"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
-               <lb facs="#facs_238_r1l3" n="N003"/><seg type="orighead__wedding_contract">Heuraths Contract</seg> mit <rs type="person" ref="wkfm__47606">Anna Maria Rosmarinin</rs> dd<hi style="superscript">to</hi> 30<hi style="superscript">ten</hi> May 756 in vidi-
+               <lb facs="#facs_238_r1l3" n="N003"/><seg type="orighead__wedding_contract">Heuraths Contract</seg> mit <rs type="person" ref="#wkfm__47606">Anna Maria Rosmarinin</rs> dd<hi style="superscript">to</hi> 30<hi style="superscript">ten</hi> May 756 in vidi-
                <lb facs="#facs_238_r1l4" n="N004"/>mus <choice><expan/><abbr>nro</abbr></choice> 2247 worinnen Heurath 500 fl Widerlaag 1000 fl Parapher-
                <lb facs="#facs_238_r1l5" n="N005"/>num 1000 fl und was beede wehrend ihrer Ehe erwerben und er-
-               <lb facs="#facs_238_r1l6" n="N006"/>erben werden, ausser deme was die Brauth von ihrer <unclear>Mahin</unclear> <rs type="person" ref="wkfm__47607">Maria </rs>
-               <lb facs="#facs_238_r1l7" n="N007"/><rs type="person" ref="wkfm__47607">Elisabetha Tallerin</rs> zur Erbschaft überkomete, ein gleiches Gut stipu-
+               <lb facs="#facs_238_r1l6" n="N006"/>erben werden, ausser deme was die Brauth von ihrer <unclear>Mahin</unclear> <rs type="person" ref="#wkfm__47607">Maria </rs>
+               <lb facs="#facs_238_r1l7" n="N007"/><rs type="person" ref="#wkfm__47607">Elisabetha Tallerin</rs> zur Erbschaft überkomete, ein gleiches Gut stipu-
                <lb facs="#facs_238_r1l8" n="N008"/>liret worden.
                <lb facs="#facs_238_r1l9" n="N009"/>Anmerckungen
             </ab>

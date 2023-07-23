@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -76,18 +76,18 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_121" n="121" xml:id="img_0121"/>
+            <pb facs="#facs_121" n="121" xml:id="img_0121" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0174.jpg"/>
             
             <ab facs="#facs_121_r1">
                <lb facs="#facs_121_r1l1" n="N001"/>85
                <lb facs="#facs_121_r1l2" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_121_r1l5" n="N003"/><rs type="person" ref="wkfm__43785">Pöttenberger Franz</rs> k. k. Niderlags Verwanter
+               <lb facs="#facs_121_r1l5" n="N003"/><rs type="person" ref="#wkfm__43785">Pöttenberger Franz</rs> k. k. Niderlags Verwanter
                <lb facs="#facs_121_r1l6" n="N004"/>Firma oder Raggion
-               <lb facs="#facs_121_r1l7" n="N005"/><rs type="person" ref="wkfm__47330">Frantz Pöttenberger</rs> laut Anbringen de ps: 29<hi style="superscript">ten</hi> <choice><expan/><abbr>Jan:</abbr></choice> 728 N<hi style="superscript">o</hi> 80
-               <lb facs="#facs_121_r1l8" n="N006"/><rs type="person" ref="wkfm__15308">Brandegsky und Pöttenberger</rs> laut Anbringen de ps: 25<hi style="superscript">ten</hi> <choice><expan/><abbr>Jan:</abbr></choice> 729 N<hi style="superscript">o</hi> 1852
+               <lb facs="#facs_121_r1l7" n="N005"/><rs type="person" ref="#wkfm__47330">Frantz Pöttenberger</rs> laut Anbringen de ps: 29<hi style="superscript">ten</hi> <choice><expan/><abbr>Jan:</abbr></choice> 728 N<hi style="superscript">o</hi> 80
+               <lb facs="#facs_121_r1l8" n="N006"/><rs type="person" ref="#wkfm__15308">Brandegsky und Pöttenberger</rs> laut Anbringen de ps: 25<hi style="superscript">ten</hi> <choice><expan/><abbr>Jan:</abbr></choice> 729 N<hi style="superscript">o</hi> 1852
                <lb facs="#facs_121_r1l9" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_121_r1l10" n="N008"/>In obigen Anbringen de ps: 25<hi style="superscript">ten</hi> <choice><expan/><abbr>Jan:</abbr></choice> 729 N<hi style="superscript">o</hi> 1852 ist die Firma sowohl
-               <lb facs="#facs_121_r1l11" n="N009"/>von dem <rs type="person" ref="wkfm__9684">Joseph Brandegsky</rs> als obigen <rs type="person" ref="wkfm__43785">Pöttenberger</rs> eingeleget worden
+               <lb facs="#facs_121_r1l11" n="N009"/>von dem <rs type="person" ref="#wkfm__9684">Joseph Brandegsky</rs> als obigen <rs type="person" ref="#wkfm__43785">Pöttenberger</rs> eingeleget worden
                <lb facs="#facs_121_r1l12" n="N010"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_121_r1l13" n="N011"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
             </ab>

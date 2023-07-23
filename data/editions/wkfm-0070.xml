@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -98,36 +98,36 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_17" n="17" xml:id="img_0017"/>
+            <pb facs="#facs_17" n="17" xml:id="img_0017" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0070.jpg"/>
             
             <ab facs="#facs_17_r2">
                <lb facs="#facs_17_r2l2" n="N001"/>33
                <lb facs="#facs_17_r2l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_17_r2l3" n="N003"/><rs type="person" ref="wkfm__4694">Perinet Johann Baptista</rs> K. K. Niederlags Verwanter
+               <lb facs="#facs_17_r2l3" n="N003"/><rs type="person" ref="#wkfm__4694">Perinet Johann Baptista</rs> K. K. Niederlags Verwanter
                <lb facs="#facs_17_r2l4" n="N004"/>Firma oder Raggion
-               <lb facs="#facs_17_r2l5" n="N005"/><rs type="person" ref="wkfm__47275">Johann Baptista Perinet</rs> laut Anbringen de ps: 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 31.
-               <lb facs="#facs_17_r2l6" n="N006"/><rs type="person" ref="wkfm__40012">Perinet und Violland</rs> laut Anbringen de ps: 22<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 740 N<hi style="superscript">o</hi> 130.
-               <lb facs="#facs_17_r2l7" n="N007"/><rs type="person" ref="wkfm__43846">Johann Baptista Perinet et Compagnie</rs> laut Anbringen de ps: 26<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 754 N<hi style="superscript">o</hi> 1889 und
+               <lb facs="#facs_17_r2l5" n="N005"/><rs type="person" ref="#wkfm__47275">Johann Baptista Perinet</rs> laut Anbringen de ps: 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 31.
+               <lb facs="#facs_17_r2l6" n="N006"/><rs type="person" ref="#wkfm__40012">Perinet und Violland</rs> laut Anbringen de ps: 22<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 740 N<hi style="superscript">o</hi> 130.
+               <lb facs="#facs_17_r2l7" n="N007"/><rs type="person" ref="#wkfm__43846">Johann Baptista Perinet et Compagnie</rs> laut Anbringen de ps: 26<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 754 N<hi style="superscript">o</hi> 1889 und
                <lb facs="#facs_17_r2l8" n="N008"/>beygelegter Nota sine dato N<hi style="superscript">o</hi> 163.
-               <lb facs="#facs_17_r2l9" n="N009"/>Anno 763 sub <choice><expan/><abbr>nro</abbr></choice> 163 1/2 die weitere Societät zwischen <rs type="person" ref="wkfm__4694">Baptista</rs> und <rs type="person" ref="wkfm__43811">Benedict Perinet</rs> mit der firma angezeiget.
+               <lb facs="#facs_17_r2l9" n="N009"/>Anno 763 sub <choice><expan/><abbr>nro</abbr></choice> 163 1/2 die weitere Societät zwischen <rs type="person" ref="#wkfm__4694">Baptista</rs> und <rs type="person" ref="#wkfm__43811">Benedict Perinet</rs> mit der firma angezeiget.
                <lb facs="#facs_17_r2l10" n="N010"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
-               <lb facs="#facs_17_r2l11" n="N011"/>In <hi>laut</hi> obigen Anbringen de ps: 22<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 740 N<hi style="superscript">o</hi> 130 ist die Firma von dem <rs type="person" ref="wkfm__4694">Perinet</rs> und seinen
-               <lb facs="#facs_17_r2l12" n="N012"/>Compagnon <rs type="person" ref="wkfm__43810">Bernhard Franz Violland</rs> eingeleget worden.
+               <lb facs="#facs_17_r2l11" n="N011"/>In <hi>laut</hi> obigen Anbringen de ps: 22<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 740 N<hi style="superscript">o</hi> 130 ist die Firma von dem <rs type="person" ref="#wkfm__4694">Perinet</rs> und seinen
+               <lb facs="#facs_17_r2l12" n="N012"/>Compagnon <rs type="person" ref="#wkfm__43810">Bernhard Franz Violland</rs> eingeleget worden.
                <lb facs="#facs_17_r2l13" n="N013"/>In obigen Anbringen de ps: 26<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 754 N<hi style="superscript">o</hi> 1889 und beygelegter Nota N<hi style="superscript">o</hi> 163 ist die
-               <lb facs="#facs_17_r2l14" n="N014"/>Firma von dem <rs type="person" ref="wkfm__4694">Johann Baptista Perinet Vattern</rs> <rs type="person" ref="wkfm__43814">Johann Baptista Perinet Sohn</rs>
-               <lb facs="#facs_17_r2l15" n="N015"/><rs type="person" ref="wkfm__43812">Joachim Benedict Perinet</rs> und <rs type="person" ref="wkfm__43813">Anton <hi>Reit</hi> Reitter</rs> eingeleget worden.
+               <lb facs="#facs_17_r2l14" n="N014"/>Firma von dem <rs type="person" ref="#wkfm__4694">Johann Baptista Perinet Vattern</rs> <rs type="person" ref="#wkfm__43814">Johann Baptista Perinet Sohn</rs>
+               <lb facs="#facs_17_r2l15" n="N015"/><rs type="person" ref="#wkfm__43812">Joachim Benedict Perinet</rs> und <rs type="person" ref="#wkfm__43813">Anton <hi>Reit</hi> Reitter</rs> eingeleget worden.
                <lb facs="#facs_17_r2l16" n="N016"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_17_r2l17" n="N017"/><hi>P</hi> mitls des obigen Anbringens de ps: 22<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 740 N<hi style="superscript">o</hi> 130 <hi>ist</hi> seynd die dahin er-
-               <lb facs="#facs_17_r2l18" n="N018"/>lassene Oblatorien, daß, nachdem sich der <hi>Vio</hi> <rs type="person" ref="wkfm__23970">Falquet und Violland</rs> separieret, sich
-               <lb facs="#facs_17_r2l19" n="N019"/>der <rs type="person" ref="wkfm__4694">Johann Baptista Perinet</rs> und <rs type="person" ref="wkfm__43810">Bernhard Franz Violland</rs> <unclear>verassociret </unclear>hätten, 
-               <lb facs="#facs_17_r2l20" n="N020"/>die Firma wäre <rs type="person" ref="wkfm__40012">Perinet und Violland</rs>, und keiner andern alß dem beiden Sociis
+               <lb facs="#facs_17_r2l18" n="N018"/>lassene Oblatorien, daß, nachdem sich der <hi>Vio</hi> <rs type="person" ref="#wkfm__23970">Falquet und Violland</rs> separieret, sich
+               <lb facs="#facs_17_r2l19" n="N019"/>der <rs type="person" ref="#wkfm__4694">Johann Baptista Perinet</rs> und <rs type="person" ref="#wkfm__43810">Bernhard Franz Violland</rs> <unclear>verassociret </unclear>hätten, 
+               <lb facs="#facs_17_r2l20" n="N020"/>die Firma wäre <rs type="person" ref="#wkfm__40012">Perinet und Violland</rs>, und keiner andern alß dem beiden Sociis
                <lb facs="#facs_17_r2l21" n="N021"/>Glauben zu geben, in Copia sine dato jedoch mit beeder Socium Firma be-
                <lb facs="#facs_17_r2l22" n="N022"/>kräftiget eingeleget worden N<hi style="superscript">o</hi> 1099
                <lb facs="#facs_17_r2l23" n="N023"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_17_r2l24" n="N024"/>Zufolge des von <rs type="person" ref="wkfm__40012">Perinet und Violland</rs> eingereichten Anbringen de prs:
+               <lb facs="#facs_17_r2l24" n="N024"/>Zufolge des von <rs type="person" ref="#wkfm__40012">Perinet und Violland</rs> eingereichten Anbringen de prs:
                <lb facs="#facs_17_r2l25" n="N025"/>7<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 750 N<hi style="superscript">o</hi> 1239 und des hierüber von dem aus Regierung in Wechsel
                <lb facs="#facs_17_r2l26" n="N026"/>Sachen ausgestelten <unclear>Indicis</unclear> delegatio erlassenen Decretirung, ist auf diese Handlung
-               <lb facs="#facs_17_line_1628382121276_529" n="N027"/>die dem minderjährigen Sohn des <rs type="person" ref="wkfm__4694">Johann Baptista Perinet</rs>, <rs type="person" ref="wkfm__43814">Johann Baptist 
+               <lb facs="#facs_17_line_1628382121276_529" n="N027"/>die dem minderjährigen Sohn des <rs type="person" ref="#wkfm__4694">Johann Baptista Perinet</rs>, <rs type="person" ref="#wkfm__43814">Johann Baptist 
                <lb break="no" facs="#facs_17_r2l28" n="N028"/>Perinet iuniori</rs> angefallene mütterliche Erbs Portion <choice><expan/><abbr>pr.</abbr></choice> 20000 fl <hi><unclear>in folge</unclear></hi>
                <lb facs="#facs_17_r2l29" n="N029"/>in Conformitate der von denen Sammentlichen Sociis von jedwediger in <unclear>solidum</unclear>
                <lb facs="#facs_17_r2l30" n="N030"/>und mit Verpfändung der Niderlagshandlung und darin befindlichen Waaren

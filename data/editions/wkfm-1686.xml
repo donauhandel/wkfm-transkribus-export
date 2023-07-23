@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -75,17 +75,17 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_228" n="228" xml:id="img_0228"/>
+            <pb facs="#facs_228" n="228" xml:id="img_0228" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1686.jpg"/>
             
             <ab facs="#facs_228_r1">
                <lb facs="#facs_228_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_228_r1l2" n="N002"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
-               <lb facs="#facs_228_r1l3" n="N003"/><choice><expan/><abbr>Ao</abbr></choice> 764 hat der <rs type="person" ref="wkfm__47598">Andre Simmerl</rs> seinen mit <rs type="person" ref="wkfm__47599">Maria Elisabeth
+               <lb facs="#facs_228_r1l3" n="N003"/><choice><expan/><abbr>Ao</abbr></choice> 764 hat der <rs type="person" ref="#wkfm__47598">Andre Simmerl</rs> seinen mit <rs type="person" ref="#wkfm__47599">Maria Elisabeth
                <lb break="no" facs="#facs_228_r1l4" n="N004"/>Guggenbergerin</rs> untern 10<hi style="superscript">ten</hi> Jenner 754 errichteten Heuraths-
                <lb facs="#facs_228_r1l5" n="N005"/>Contract eingelegt, worinnen Heurathguth 400 fl Widerlaag 800 fl
                <lb facs="#facs_228_r1l6" n="N006"/>und das wehrender Ehe erwerbend und ererbende Ver-
                <lb facs="#facs_228_r1l7" n="N007"/>mögen ein gleiches Guth stipulirert worden. vide <choice><expan/><abbr>nro</abbr></choice> 2249
-               <lb facs="#facs_228_r1l8" n="N008"/>Uber diesen Heuraths Contract hat der <rs type="person" ref="wkfm__47598">Simmerl</rs> eine Billanz errichtet
+               <lb facs="#facs_228_r1l8" n="N008"/>Uber diesen Heuraths Contract hat der <rs type="person" ref="#wkfm__47598">Simmerl</rs> eine Billanz errichtet
                <lb facs="#facs_228_r1l9" n="N009"/>und seine Ehewirthin einen certiorirten Revers: das sie denen Handlungs Creditoribus
                <lb facs="#facs_228_r1l10" n="N010"/>nachgehen wolle, eingelegt. so sub eodem <choice><expan/><abbr>nro</abbr></choice> 2249 beyliegend.
                <lb facs="#facs_228_r1l11" n="N011"/>Anmerckungen

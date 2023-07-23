@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -80,17 +80,17 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_239" n="239" xml:id="img_0239"/>
+            <pb facs="#facs_239" n="239" xml:id="img_0239" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0293.jpg"/>
             
             <ab facs="#facs_239_r1">
                <lb facs="#facs_239_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_239_r1l2" n="N003"/><rs type="person" ref="wkfm__43979">Püchler Joseph</rs> burgerlicher Handlsmann
+               <lb facs="#facs_239_r1l2" n="N003"/><rs type="person" ref="#wkfm__43979">Püchler Joseph</rs> burgerlicher Handlsmann
                <lb facs="#facs_239_r1l3" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_239_r1l4" n="N005"/><rs type="person" ref="wkfm__47386">Joseph Püchler</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 145.
+               <lb facs="#facs_239_r1l4" n="N005"/><rs type="person" ref="#wkfm__47386">Joseph Püchler</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 145.
                <lb facs="#facs_239_r1l5" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_239_r1l6" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_239_r1l7" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_239_r1l8" n="N009"/>Der <rs type="person" ref="wkfm__43979">Joseph Püchler</rs> hat seinen fundum mitls einer von selben
+               <lb facs="#facs_239_r1l8" n="N009"/>Der <rs type="person" ref="#wkfm__43979">Joseph Püchler</rs> hat seinen fundum mitls einer von selben
                <lb facs="#facs_239_r1l9" n="N010"/>untern 11 <choice><expan/><abbr>Aug:</abbr></choice> 747 laut beygerukter formula jurandi beeydigten
                <lb facs="#facs_239_r1l10" n="N011"/>Specification N<hi style="superscript">o</hi> 1220 folgender gestalten ausgewisen
                <lb facs="#facs_239_r1l11" n="N012"/>daß eigenthumlich besize an ererbten und erspahrten salario 600 fl

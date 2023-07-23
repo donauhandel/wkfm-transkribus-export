@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -77,17 +77,17 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_8" n="8" xml:id="img_0008"/>
+            <pb facs="#facs_8" n="8" xml:id="img_0008" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0061.jpg"/>
             
             <ab facs="#facs_8_r1">
                <lb facs="#facs_8_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
-               <lb facs="#facs_8_r1l2" n="N002"/>In obigen Anbringen de ps: 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 28 hat der <rs type="person" ref="wkfm__9684">Brandeg[sky]</rs>
+               <lb facs="#facs_8_r1l2" n="N002"/>In obigen Anbringen de ps: 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 28 hat der <rs type="person" ref="#wkfm__9684">Brandeg[sky]</rs>
                <lb facs="#facs_8_r1l3" n="N003"/>sich erklähret das er keinen Compagnon habe
                <lb facs="#facs_8_r1l4" n="N004"/>In obigen Anbringen de ps: <choice><expan/><abbr>Febr:</abbr></choice> 729 N<hi style="superscript">o</hi> 1852 hat sich obiger
-               <lb facs="#facs_8_r1l5" n="N005"/><hi>Pe</hi> <rs type="person" ref="wkfm__9684">Brandegßky</rs> und <rs type="person" ref="wkfm__43785">Franz Pöttenberger</rs> erklähret daß sie
+               <lb facs="#facs_8_r1l5" n="N005"/><hi>Pe</hi> <rs type="person" ref="#wkfm__9684">Brandegßky</rs> und <rs type="person" ref="#wkfm__43785">Franz Pöttenberger</rs> erklähret daß sie
                <lb facs="#facs_8_r1l6" n="N006"/>zusammen in Compagnie getretten seyen
                <lb facs="#facs_8_r1l7" n="N007"/>In obigen Anbringen de ps: 24<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 740 N<hi style="superscript">o</hi> 1872 hat sich der
-               <lb facs="#facs_8_r1l8" n="N008"/>Brandegßky mit beygerukter Fertigung der <rs type="person" ref="wkfm__43845">Pöttenbergerischen Wit[tib]
+               <lb facs="#facs_8_r1l8" n="N008"/>Brandegßky mit beygerukter Fertigung der <rs type="person" ref="#wkfm__43845">Pöttenbergerischen Wit[tib]
                <lb break="no" facs="#facs_8_r1l9" n="N009"/>Maria Catharina </rs>erklähret das durch ableiben des Pottenberger und
                <lb facs="#facs_8_r1l10" n="N010"/>mit dessen Wittib getroffenen Vergleich, die Societaet anwiderumen
                <lb facs="#facs_8_r1l11" n="N011"/><unclear>dissolviret </unclear>worden seye.

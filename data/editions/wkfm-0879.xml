@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -73,14 +73,14 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_67" n="67" xml:id="img_0067"/>
+            <pb facs="#facs_67" n="67" xml:id="img_0067" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0879.jpg"/>
             
             <ab facs="#facs_67_r1">
                <lb facs="#facs_67_r1l2" n="N001"/>437
                <lb facs="#facs_67_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_67_r1l3" n="N003"/><rs type="person" ref="wkfm__28324">Grämbsreither Franz Joseph</rs> burgerlicher Handlsmann
+               <lb facs="#facs_67_r1l3" n="N003"/><rs type="person" ref="#wkfm__28324">Grämbsreither Franz Joseph</rs> burgerlicher Handlsmann
                <lb facs="#facs_67_r1l5" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_67_r1l6" n="N005"/><rs type="person" ref="wkfm__46346">Frantz Joseph Grämbsreither</rs> laut Erklährung dd<hi style="superscript">to</hi> 6<hi style="superscript">ten</hi>
+               <lb facs="#facs_67_r1l6" n="N005"/><rs type="person" ref="#wkfm__46346">Frantz Joseph Grämbsreither</rs> laut Erklährung dd<hi style="superscript">to</hi> 6<hi style="superscript">ten</hi>
                <lb facs="#facs_67_r1l7" n="N006"/>Junii 733 N<hi style="superscript">o</hi> 1957 det: sine dato N<hi style="superscript">o</hi> 1958 und dd<hi style="superscript">to</hi> 6<hi style="superscript">ten</hi> Junii 756 N<hi style="superscript">o</hi> 426.
                <lb facs="#facs_67_r1l8" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_67_r1l9" n="N008"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>

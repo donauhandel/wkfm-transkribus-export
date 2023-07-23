@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -82,21 +82,21 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_125" n="125" xml:id="img_0125"/>
+            <pb facs="#facs_125" n="125" xml:id="img_0125" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1045.jpg"/>
             
             <ab facs="#facs_125_r1">
                <lb facs="#facs_125_r1l2" n="N001"/>516
                <lb facs="#facs_125_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_125_r1l3" n="N003"/><rs type="person" ref="wkfm__46553">Hipp Franz Ignaz</rs> burgerlicher Handlsmann
+               <lb facs="#facs_125_r1l3" n="N003"/><rs type="person" ref="#wkfm__46553">Hipp Franz Ignaz</rs> burgerlicher Handlsmann
                <lb facs="#facs_125_r1l5" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_125_r1l6" n="N005"/><rs type="person" ref="wkfm__46554">Frantz Ignatz Hipp</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 484 welche derselbe
+               <lb facs="#facs_125_r1l6" n="N005"/><rs type="person" ref="#wkfm__46554">Frantz Ignatz Hipp</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 484 welche derselbe
                <lb facs="#facs_125_r1l7" n="N006"/>mitls Anbringen de ps: 25<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 753 N<hi style="superscript">o</hi> 483 eingeleget
                <lb facs="#facs_125_r1l8" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_125_r1l9" n="N008"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_125_r1l10" n="N009"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_125_r1l13" n="N010"/>Der <rs type="person" ref="wkfm__46553">Hipp</rs> hat seinen Fundum mitls der Specification N<hi style="superscript">o</hi> 1535 folgender maßen
+               <lb facs="#facs_125_r1l13" n="N010"/>Der <rs type="person" ref="#wkfm__46553">Hipp</rs> hat seinen Fundum mitls der Specification N<hi style="superscript">o</hi> 1535 folgender maßen
                <lb facs="#facs_125_r1l14" n="N011"/>ausgewisen, nemlich das er eigenthumlich besize
-               <lb facs="#facs_125_r1l17" n="N012"/>und laut Quittung des <rs type="person" ref="wkfm__8808">Johann Georg Grindtler</rs> dd<hi style="superscript">to</hi> 14<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 751 N<hi style="superscript">o</hi> 1536 die für die aberkaufte
+               <lb facs="#facs_125_r1l17" n="N012"/>und laut Quittung des <rs type="person" ref="#wkfm__8808">Johann Georg Grindtler</rs> dd<hi style="superscript">to</hi> 14<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 751 N<hi style="superscript">o</hi> 1536 die für die aberkaufte
                <lb facs="#facs_125_r1l19" n="N013"/>handlung stipulirte der angab bezahlet habe mit 626 fl 40 x<hi style="superscript">r</hi>
                <lb facs="#facs_125_r1l20" n="N014"/>dann laut attestati des <rs type="person">Lucas Joseph Setti</rs> dd<hi style="superscript">to</hi> 25<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 751
                <lb facs="#facs_125_r1l22" n="N015"/>N<hi style="superscript">o</hi> 1537 an Eigenen Vermögen 4506 fl 15 x<hi style="superscript">r</hi>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -76,12 +76,12 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_76" n="76" xml:id="img_0076"/>
+            <pb facs="#facs_76" n="76" xml:id="img_0076" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1176.jpg"/>
             
             <ab facs="#facs_76_r1">
                <lb facs="#facs_76_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_76_r1l2" n="N002"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
-               <lb facs="#facs_76_r1l3" n="N003"/>Der <rs type="person" ref="wkfm__46835">Lassner</rs> hat den mit der <rs type="person" ref="wkfm__46837">Eva Franzisca <unclear>Weisser</unclear></rs> untern 15<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice>
+               <lb facs="#facs_76_r1l3" n="N003"/>Der <rs type="person" ref="#wkfm__46835">Lassner</rs> hat den mit der <rs type="person" ref="#wkfm__46837">Eva Franzisca <unclear>Weisser</unclear></rs> untern 15<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice>
                <lb facs="#facs_76_r1l4" n="N004"/>752 errichteten heuraths contract in <choice><expan/><abbr>orig:</abbr></choice> N<hi style="superscript">o</hi> 2192 eingeleget, krafft welchen
                <lb facs="#facs_76_r1l5" n="N005"/>500 fl heurathgutt nebst 1000 fl Widerlag auf Uberleben, dann jeines <unclear>was</unclear>
                <lb facs="#facs_76_r1l6" n="N006"/>wehrender Ehe erworben und ererbet wird, alß ein gleiches Gutt pac-

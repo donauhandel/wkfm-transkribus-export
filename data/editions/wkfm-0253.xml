@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -84,27 +84,27 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_199" n="199" xml:id="img_0199"/>
+            <pb facs="#facs_199" n="199" xml:id="img_0199" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0253.jpg"/>
             
             <ab facs="#facs_199_r1">
                <lb facs="#facs_199_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_199_r1l2" n="N003"/><rs type="person" ref="wkfm__43950"><unclear>Bacil<hi>l</hi>er</unclear> Paul Anton</rs> hofbefreyter Handlsmann
+               <lb facs="#facs_199_r1l2" n="N003"/><rs type="person" ref="#wkfm__43950"><unclear>Bacil<hi>l</hi>er</unclear> Paul Anton</rs> hofbefreyter Handlsmann
                <lb facs="#facs_199_r1l3" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_199_r1l4" n="N005"/><rs type="person" ref="wkfm__43951">Baciler und Pichler</rs> laut <hi>Erklährung</hi> Anbringen de ps: 10<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 738 N<hi style="superscript">o</hi> 123
+               <lb facs="#facs_199_r1l4" n="N005"/><rs type="person" ref="#wkfm__43951">Baciler und Pichler</rs> laut <hi>Erklährung</hi> Anbringen de ps: 10<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 738 N<hi style="superscript">o</hi> 123
                <lb facs="#facs_199_r1l5" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_199_r1l6" n="N007"/>In obigen Anbringen de ps: 10<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 738 N<hi style="superscript">o</hi> 123 ist die firma von
                <lb facs="#facs_199_r1l7" n="N008"/>beeden sociis eingeleget worden.
                <lb facs="#facs_199_r1l8" n="N009"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_199_r1l9" n="N010"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_199_r1l10" n="N011"/>Der <rs type="person" ref="wkfm__43950">Baciller</rs> hat zu Ausweisung seines Handlungs fundi eine von
+               <lb facs="#facs_199_r1l10" n="N011"/>Der <rs type="person" ref="#wkfm__43950">Baciller</rs> hat zu Ausweisung seines Handlungs fundi eine von
                <lb facs="#facs_199_r1l11" n="N012"/><hi><unclear>zu beeydigen erbottene</unclear></hi> ihm zu <unclear>beeydigen</unclear> <unclear>angetragene</unclear> Erklährung sine
-               <lb facs="#facs_199_r1l12" n="N013"/>dato daß er bey dem Verkaufer der Societaets Handlung <rs type="person" ref="wkfm__12722">Philipp
+               <lb facs="#facs_199_r1l12" n="N013"/>dato daß er bey dem Verkaufer der Societaets Handlung <rs type="person" ref="#wkfm__12722">Philipp
                <lb break="no" facs="#facs_199_r1l13" n="N014"/>Scheigl</rs> vor Erkaufung der Handlung 8547 fl 51 x<hi style="superscript">r</hi> aufrecht zu for-
                <lb facs="#facs_199_r1l14" n="N015"/>deren gehabt, welche Erklährung der <rs type="person" key="Personen ID=43952, ">Johann Joseph Roth</rs> mit bey-
                <lb facs="#facs_199_r1l15" n="N016"/>gerukter Fertigung untern 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 738 <unclear>durgehends</unclear> Wahr zu
-               <lb facs="#facs_199_line_1621471423540_3892" n="N017"/>seyn und mit dem beysaz daß der <rs type="person" ref="wkfm__12722">Scheigl</rs> die 8547 fl 51 x<hi style="superscript">r</hi> für eine richtige Schuld
+               <lb facs="#facs_199_line_1621471423540_3892" n="N017"/>seyn und mit dem beysaz daß der <rs type="person" ref="#wkfm__12722">Scheigl</rs> die 8547 fl 51 x<hi style="superscript">r</hi> für eine richtige Schuld
                <lb facs="#facs_199_r1l18" n="N018"/>erkehnet, bestättiget, beedes in <choice><expan/><abbr>orig:</abbr></choice> <hi>eingeleget</hi> N<hi style="superscript">o</hi> 1184 nebst
-               <lb facs="#facs_199_r1l19" n="N019"/>dem Kauf Contract zwischen <rs type="person" ref="wkfm__12722">Philipp Scheigl</rs> dann <rs type="person" ref="wkfm__43951">Baciller und Pichler</rs>
+               <lb facs="#facs_199_r1l19" n="N019"/>dem Kauf Contract zwischen <rs type="person" ref="#wkfm__12722">Philipp Scheigl</rs> dann <rs type="person" ref="#wkfm__43951">Baciller und Pichler</rs>
                <lb facs="#facs_199_line_1621471397832_3871" n="N020"/>dd<hi style="superscript">to</hi> 9<hi style="superscript">ten</hi> Julii 737 er <unclear>vid:</unclear> No 1185 eingeleget.
             </ab>
             

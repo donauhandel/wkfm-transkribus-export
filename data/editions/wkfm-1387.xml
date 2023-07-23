@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -83,24 +83,24 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_35" n="35" xml:id="img_0035"/>
+            <pb facs="#facs_35" n="35" xml:id="img_0035" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1387.jpg"/>
             
             <ab facs="#facs_35_r1">
                <lb facs="#facs_35_r1l2" n="N001"/>686
                <lb facs="#facs_35_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_35_r1l3" n="N003"/><rs type="person" ref="wkfm__8587">Rozzio <hi>Maria</hi> Giova: Maria</rs> burgerlicher Handlsmann
+               <lb facs="#facs_35_r1l3" n="N003"/><rs type="person" ref="#wkfm__8587">Rozzio <hi>Maria</hi> Giova: Maria</rs> burgerlicher Handlsmann
                <lb facs="#facs_35_r1l4" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_35_r1l6" n="N005"/><rs type="person" ref="wkfm__46704">Gio: Ma: Rozzio</rs> laut Erklährung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> Apr: 725 N<hi style="superscript">o</hi> 627
+               <lb facs="#facs_35_r1l6" n="N005"/><rs type="person" ref="#wkfm__46704">Gio: Ma: Rozzio</rs> laut Erklährung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> Apr: 725 N<hi style="superscript">o</hi> 627
                <lb facs="#facs_35_r1l8" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
-               <lb facs="#facs_35_r1l9" n="N007"/>Mitls Anbringen de ps: 26<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 726 N<hi style="superscript">o</hi> 1052 hat der <rs type="person" ref="wkfm__8587">Rozzio</rs> dem <rs type="person" ref="wkfm__46705">Joseph Fleischer</rs> wehrend seiner Abwe-
+               <lb facs="#facs_35_r1l9" n="N007"/>Mitls Anbringen de ps: 26<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 726 N<hi style="superscript">o</hi> 1052 hat der <rs type="person" ref="#wkfm__8587">Rozzio</rs> dem <rs type="person" ref="#wkfm__46705">Joseph Fleischer</rs> wehrend seiner Abwe-
                <lb facs="#facs_35_r1l10" n="N008"/>senheit ertheilet, auch die Firma von dem Fleischer beygeruket.
-               <lb facs="#facs_35_r1l11" n="N009"/>Mitls Anbringen de ps: 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 7<unclear>2</unclear>9 N<hi style="superscript">o</hi> 1054 hat der <rs type="person" ref="wkfm__8587">Rozzio</rs> die seinem bedienten <rs type="person" ref="wkfm__46706">Leonhard Adam Ziegler</rs>
+               <lb facs="#facs_35_r1l11" n="N009"/>Mitls Anbringen de ps: 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 7<unclear>2</unclear>9 N<hi style="superscript">o</hi> 1054 hat der <rs type="person" ref="#wkfm__8587">Rozzio</rs> die seinem bedienten <rs type="person" ref="#wkfm__46706">Leonhard Adam Ziegler</rs>
                <lb facs="#facs_35_r1l12" n="N010"/><hi>mit Ertheilte procura</hi> wehrend seiner Abwesenheit ertheilten Procura dd<hi style="superscript">to</hi> 10<hi style="superscript">ten</hi> Junii 729 mit bey-
                <lb facs="#facs_35_r1l13" n="N011"/>gerukter Firma des Ziegler N<hi style="superscript">o</hi> 1053 in <choice><expan/><abbr>orig:</abbr></choice> eingeleget.
-               <lb facs="#facs_35_r1l14" n="N012"/>Mitls Anbringen de ps: 7<hi style="superscript">ten</hi> Julii 731 N<hi style="superscript">o</hi> 1056 hat der <rs type="person" ref="wkfm__8587">Rozzio</rs> die wehrend seiner Abwesenheit seinem
-               <lb facs="#facs_35_r1l15" n="N013"/>mitinteressenten <rs type="person" ref="wkfm__24742">Johann Benedict Cescotti</rs> unter 7<hi style="superscript">ten</hi> <unclear>Juni</unclear> d. a. mit beygerukter Firma der <rs type="person" ref="wkfm__24742">Cescotti</rs>
+               <lb facs="#facs_35_r1l14" n="N012"/>Mitls Anbringen de ps: 7<hi style="superscript">ten</hi> Julii 731 N<hi style="superscript">o</hi> 1056 hat der <rs type="person" ref="#wkfm__8587">Rozzio</rs> die wehrend seiner Abwesenheit seinem
+               <lb facs="#facs_35_r1l15" n="N013"/>mitinteressenten <rs type="person" ref="#wkfm__24742">Johann Benedict Cescotti</rs> unter 7<hi style="superscript">ten</hi> <unclear>Juni</unclear> d. a. mit beygerukter Firma der <rs type="person" ref="#wkfm__24742">Cescotti</rs>
                <lb facs="#facs_35_r1l16" n="N014"/>N<hi style="superscript">o</hi> 1055 in <choice><expan/><abbr>orig:</abbr></choice> eingeleget
-               <lb facs="#facs_35_r1l17" n="N015"/>Mitls Anbringen de ps: 5<hi style="superscript">ten</hi> Julii 734 N<hi style="superscript">o</hi> 1060 hat der <rs type="person" ref="wkfm__8587">Rozzio</rs> die seinem bedienten <rs type="person" ref="wkfm__46707">Carl <unclear>Alay</unclear></rs> wehrend
+               <lb facs="#facs_35_r1l17" n="N015"/>Mitls Anbringen de ps: 5<hi style="superscript">ten</hi> Julii 734 N<hi style="superscript">o</hi> 1060 hat der <rs type="person" ref="#wkfm__8587">Rozzio</rs> die seinem bedienten <rs type="person" ref="#wkfm__46707">Carl <unclear>Alay</unclear></rs> wehrend
                <lb facs="#facs_35_r1l18" n="N016"/>seiner Abwesenheit ertheilte <choice><expan/><abbr>orig:</abbr></choice> procura dd<hi style="superscript">to</hi> 30<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> d. a. mit beygerukter Firma des
                <lb facs="#facs_35_r1l19" n="N017"/>May N<hi style="superscript">o</hi> 1059 eingeleget.
                <lb facs="#facs_35_r1l20" n="N018"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -76,19 +76,19 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_33" n="33" xml:id="img_0033"/>
+            <pb facs="#facs_33" n="33" xml:id="img_0033" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0953.jpg"/>
             
             <ab facs="#facs_33_r2">
                <lb facs="#facs_33_r2l2" n="N001"/>469
                <lb facs="#facs_33_r2l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_33_r2l3" n="N003"/><rs type="person" ref="wkfm__20866">Haaß Johann Christoph</rs> k. k. Niderlags Verwanter
+               <lb facs="#facs_33_r2l3" n="N003"/><rs type="person" ref="#wkfm__20866">Haaß Johann Christoph</rs> k. k. Niderlags Verwanter
                <lb facs="#facs_33_r2l4" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_33_r2l5" n="N005"/><rs type="person" ref="wkfm__44785">Johann Christoph Haaß und Söhne</rs> laut Anbringen de ps: 8<hi style="superscript">ten</hi> Junii 725 N<hi style="superscript">o</hi> 1962
+               <lb facs="#facs_33_r2l5" n="N005"/><rs type="person" ref="#wkfm__44785">Johann Christoph Haaß und Söhne</rs> laut Anbringen de ps: 8<hi style="superscript">ten</hi> Junii 725 N<hi style="superscript">o</hi> 1962
                <lb facs="#facs_33_r2l6" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
-               <lb facs="#facs_33_r2l7" n="N007"/>In obigen Anbringen de ps: 8<hi style="superscript">ten</hi> Junii 725 N<hi style="superscript">o</hi> 1962 hat der <rs type="person" ref="wkfm__20866">Johann Christph <hi>Haa</hi>
-               <lb break="no" facs="#facs_33_r2l8" n="N008"/>Haas</rs> nebst seinen zwey Söhnen und sociis <rs type="person" ref="wkfm__46459">Johann Jacob</rs> und <rs type="person" ref="wkfm__46460">Franz Anton Haas</rs>
-               <lb facs="#facs_33_r2l9" n="N009"/>angezeiget, daß die Firma von ihrer Raggion<rs type="person" ref="wkfm__44785"> Johann Christoph Haas und
-               <lb break="no" facs="#facs_33_r2l10" n="N010"/>Söhne</rs>, ihn <rs type="person" ref="wkfm__46459">Johann Jacob Haas</rs> habe und führe wie selbe beygeruket.
+               <lb facs="#facs_33_r2l7" n="N007"/>In obigen Anbringen de ps: 8<hi style="superscript">ten</hi> Junii 725 N<hi style="superscript">o</hi> 1962 hat der <rs type="person" ref="#wkfm__20866">Johann Christph <hi>Haa</hi>
+               <lb break="no" facs="#facs_33_r2l8" n="N008"/>Haas</rs> nebst seinen zwey Söhnen und sociis <rs type="person" ref="#wkfm__46459">Johann Jacob</rs> und <rs type="person" ref="#wkfm__46460">Franz Anton Haas</rs>
+               <lb facs="#facs_33_r2l9" n="N009"/>angezeiget, daß die Firma von ihrer Raggion<rs type="person" ref="#wkfm__44785"> Johann Christoph Haas und
+               <lb break="no" facs="#facs_33_r2l10" n="N010"/>Söhne</rs>, ihn <rs type="person" ref="#wkfm__46459">Johann Jacob Haas</rs> habe und führe wie selbe beygeruket.
                <lb facs="#facs_33_r2l11" n="N011"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_33_r2l12" n="N012"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
             </ab>

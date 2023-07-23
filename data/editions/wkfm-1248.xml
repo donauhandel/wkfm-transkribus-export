@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -71,13 +71,13 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_64" n="64" xml:id="img_0064"/>
+            <pb facs="#facs_64" n="64" xml:id="img_0064" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1248.jpg"/>
             
             <ab facs="#facs_64_r1">
                <lb facs="#facs_64_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
-               <lb facs="#facs_64_r1l2" n="N002"/>Untern 30<hi style="superscript">ten</hi> Decembris 763 hat der <rs type="person" ref="wkfm__25004">Joseph Marquet</rs> seine <seg type="editorial_comment_seg">Socios
-               <lb break="no" facs="#facs_64_r1l3" n="N003"/>tacitos<note type="editorial_comment_note">stille Teilhaber</note></seg> als <rs type="person" ref="wkfm__46897">Benedict Hösler</rs> und <rs type="person" ref="wkfm__46898">Christoph Delacosta</rs> angezeiget
-               <lb facs="#facs_64_r1l4" n="N004"/>deren ein jeder auch firmiret <rs type="person" ref="wkfm__46896">Joseph Marquet et <choice><expan/><abbr>Compag:</abbr></choice></rs>
+               <lb facs="#facs_64_r1l2" n="N002"/>Untern 30<hi style="superscript">ten</hi> Decembris 763 hat der <rs type="person" ref="#wkfm__25004">Joseph Marquet</rs> seine <seg type="editorial_comment_seg">Socios
+               <lb break="no" facs="#facs_64_r1l3" n="N003"/>tacitos<note type="editorial_comment_note">stille Teilhaber</note></seg> als <rs type="person" ref="#wkfm__46897">Benedict Hösler</rs> und <rs type="person" ref="#wkfm__46898">Christoph Delacosta</rs> angezeiget
+               <lb facs="#facs_64_r1l4" n="N004"/>deren ein jeder auch firmiret <rs type="person" ref="#wkfm__46896">Joseph Marquet et <choice><expan/><abbr>Compag:</abbr></choice></rs>
                <lb facs="#facs_64_r1l5" n="N005"/>diese Anzeige ist bey denen firmen sub <choice><expan/><abbr>nro:</abbr></choice> 571 1/2 aufbehalten
                <lb facs="#facs_64_r1l6" n="N006"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_64_r1l7" n="N007"/>Anmerckungen

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -74,12 +74,12 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_114" n="114" xml:id="img_0114"/>
+            <pb facs="#facs_114" n="114" xml:id="img_0114" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1820.jpg"/>
             
             <ab facs="#facs_114_r3">
                <lb facs="#facs_114_r3l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_114_r3l3" n="N002"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
-               <lb facs="#facs_114_r3l4" n="N003"/><choice><expan/><abbr>Ao</abbr></choice> 765 hat der <rs type="person" ref="wkfm__47047">Johann Michael Watzger</rs> seinen mit der <rs type="person" ref="wkfm__26114">Maria
+               <lb facs="#facs_114_r3l4" n="N003"/><choice><expan/><abbr>Ao</abbr></choice> 765 hat der <rs type="person" ref="#wkfm__47047">Johann Michael Watzger</rs> seinen mit der <rs type="person" ref="#wkfm__26114">Maria
                <lb break="no" facs="#facs_114_r3l5" n="N004"/>Barbara Nägerlin</rs> untern 24<hi style="superscript">ten</hi> Aprilis 754 errichteten
                <lb facs="#facs_114_r3l6" n="N005"/><seg type="orighead__wedding_contract">Heuraths Contract</seg> eingelegt, worinnen Heurathguth 400 fl
                <lb facs="#facs_114_r3l7" n="N006"/>Widerlaag 800 fl und das wehrender Ehe erwerbend- und

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -77,15 +77,15 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_114" n="114" xml:id="img_0114"/>
+            <pb facs="#facs_114" n="114" xml:id="img_0114" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0782.jpg"/>
             
             <ab facs="#facs_114_r1">
                <lb facs="#facs_114_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
-               <lb facs="#facs_114_r1l2" n="N002"/><choice><expan/><abbr>Ao</abbr></choice> 764 hat sich der <rs type="person" ref="wkfm__46838">Franz Fanzoni </rs>erkläret, daß er
+               <lb facs="#facs_114_r1l2" n="N002"/><choice><expan/><abbr>Ao</abbr></choice> 764 hat sich der <rs type="person" ref="#wkfm__46838">Franz Fanzoni </rs>erkläret, daß er
                <lb facs="#facs_114_r1l3" n="N003"/>keinen Handlungs <choice><expan/><abbr>Compag:</abbr></choice> habe, vide Firma <choice><expan/><abbr>nro:</abbr></choice> 370 1/2
                <lb facs="#facs_114_r1l4" n="N004"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
-               <lb facs="#facs_114_r1l5" n="N005"/>Mitls Anbringen de ps: 4<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 743 N<hi style="superscript">o</hi> 2158 hat der <rs type="person" ref="wkfm__46838">Franzoni</rs> den
-               <lb facs="#facs_114_r1l6" n="N006"/>mit der <rs type="person" ref="wkfm__47147">Anna Barbara Grammerin</rs> untern 1<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 742 geschlossenen
+               <lb facs="#facs_114_r1l5" n="N005"/>Mitls Anbringen de ps: 4<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 743 N<hi style="superscript">o</hi> 2158 hat der <rs type="person" ref="#wkfm__46838">Franzoni</rs> den
+               <lb facs="#facs_114_r1l6" n="N006"/>mit der <rs type="person" ref="#wkfm__47147">Anna Barbara Grammerin</rs> untern 1<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 742 geschlossenen
                <lb facs="#facs_114_r1l7" n="N007"/>Heurathscontract in Copia vidimata N<hi style="superscript">o</hi> 2157 eingeleget, Kraft welchen
                <lb facs="#facs_114_r1l8" n="N008"/>1000 fl Heurath Gutt nebst 2000 fl Widerlag auf überleben, dann jenes
                <lb facs="#facs_114_r1l10" n="N009"/>was wehrender Ehe erworben oder ererbet wird alß ein gleiches Gutt

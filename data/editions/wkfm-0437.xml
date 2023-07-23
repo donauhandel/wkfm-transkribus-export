@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -72,14 +72,14 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_117" n="117" xml:id="img_0117"/>
+            <pb facs="#facs_117" n="117" xml:id="img_0117" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0437.jpg"/>
             
             <ab facs="#facs_117_r1">
                <lb facs="#facs_117_r1l2" n="N001"/>216
                <lb facs="#facs_117_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_117_r1l3" n="N003"/><rs type="person" ref="wkfm__46140">Kaufmann Anton Marx</rs> burgerlicher Eysenhandler
+               <lb facs="#facs_117_r1l3" n="N003"/><rs type="person" ref="#wkfm__46140">Kaufmann Anton Marx</rs> burgerlicher Eysenhandler
                <lb facs="#facs_117_r1l4" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_117_r1l5" n="N005"/><rs type="person" ref="wkfm__47249">Antonj Marx Kaufmann</rs> laut Anbringen de ps: 25<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 735 N<hi style="superscript">o</hi> 216
+               <lb facs="#facs_117_r1l5" n="N005"/><rs type="person" ref="#wkfm__47249">Antonj Marx Kaufmann</rs> laut Anbringen de ps: 25<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 735 N<hi style="superscript">o</hi> 216
                <lb facs="#facs_117_r1l6" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_117_r1l7" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_117_r1l8" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>

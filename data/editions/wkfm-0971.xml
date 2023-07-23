@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -73,14 +73,14 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_51" n="51" xml:id="img_0051"/>
+            <pb facs="#facs_51" n="51" xml:id="img_0051" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0971.jpg"/>
             
             <ab facs="#facs_51_r1">
                <lb facs="#facs_51_r1l2" n="N001"/>478
                <lb facs="#facs_51_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_51_r1l3" n="N003"/><rs type="person" ref="wkfm__9868">Holzapfl Johann Baptist</rs> burgerlicher Handlsmann
+               <lb facs="#facs_51_r1l3" n="N003"/><rs type="person" ref="#wkfm__9868">Holzapfl Johann Baptist</rs> burgerlicher Handlsmann
                <lb facs="#facs_51_r1l4" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_51_r1l5" n="N005"/><rs type="person" ref="wkfm__46475">Johann Paptisto Holzapfl</rs> laut Erklährung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725
+               <lb facs="#facs_51_r1l5" n="N005"/><rs type="person" ref="#wkfm__46475">Johann Paptisto Holzapfl</rs> laut Erklährung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725
                <lb facs="#facs_51_r1l6" n="N006"/>N<hi style="superscript">o</hi> 449
                <lb facs="#facs_51_r1l7" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_51_r1l8" n="N008"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>

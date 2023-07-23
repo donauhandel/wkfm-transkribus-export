@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -88,30 +88,30 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_169" n="169" xml:id="img_0169"/>
+            <pb facs="#facs_169" n="169" xml:id="img_0169" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0489.jpg"/>
             
             <ab facs="#facs_169_r4">
                <lb facs="#facs_169_r4l2" n="N002"/>242
                <lb facs="#facs_169_r4l1" n="N003"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_169_r4l3" n="N004"/><rs type="person" ref="wkfm__46183">Kehrnhofer Johann Anton</rs> oder <unclear>vielmehr</unclear>
-               <lb facs="#facs_169_r4l4" n="N005"/><rs type="person" ref="wkfm__46185">lehen bank <choice><expan/><abbr>kay:</abbr></choice> <choice><expan/><abbr>könig:</abbr></choice> Privilegirte</rs> in Brünn unter dessen Nahmen
+               <lb facs="#facs_169_r4l3" n="N004"/><rs type="person" ref="#wkfm__46183">Kehrnhofer Johann Anton</rs> oder <unclear>vielmehr</unclear>
+               <lb facs="#facs_169_r4l4" n="N005"/><rs type="person" ref="#wkfm__46185">lehen bank <choice><expan/><abbr>kay:</abbr></choice> <choice><expan/><abbr>könig:</abbr></choice> Privilegirte</rs> in Brünn unter dessen Nahmen
                <lb facs="#facs_169_r4l5" n="N006"/><hi>Kernhof</hi>
                <lb facs="#facs_169_r4l6" n="N007"/>Firma ad Raggion
-               <lb facs="#facs_169_r4l7" n="N008"/><rs type="person" ref="wkfm__46184">Johann Anton Kehrnhofer und Compagni</rs> laut <hi>Procura dd<hi style="superscript"/></hi>to
+               <lb facs="#facs_169_r4l7" n="N008"/><rs type="person" ref="#wkfm__46184">Johann Anton Kehrnhofer und Compagni</rs> laut <hi>Procura dd<hi style="superscript"/></hi>to
                <lb facs="#facs_169_r4l8" n="N009"/><hi>757 und in selben beygerukter legalisirung dd<hi style="superscript"/></hi>to
                <lb facs="#facs_169_r4l9" n="N010"/>oblatorien dd<hi style="superscript">to</hi> Brünn den - <choice><expan/><abbr>Mart:</abbr></choice> 757 N<hi style="superscript">o</hi> 1114
                <lb facs="#facs_169_r4l10" n="N011"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
-               <lb facs="#facs_169_r4l11" n="N012"/>Mitls Anbringen de ps: <seg type="editorial_comment_seg">36<hi style="superscript">ten</hi><note type="editorial_comment_note">vielleicht doch 30. Juni?</note></seg> Junii 757 N<hi style="superscript">o</hi> 944 hat die <rs type="person" ref="wkfm__46185">privilegirte lehen bank</rs>
-               <lb facs="#facs_169_r4l12" n="N013"/>zu Brünn unter der Raggion <hi>Kehrnhofer</hi> <rs type="person" ref="wkfm__46184">Johann Anton Kehrnhofer</rs>
-               <lb facs="#facs_169_r4l13" n="N014"/><rs type="person" ref="wkfm__46184">und Compagnie</rs> die <choice><expan/><abbr>orig:</abbr></choice> Procura auf den <rs type="person" ref="wkfm__46186">David Meyer</rs> von Lindau
+               <lb facs="#facs_169_r4l11" n="N012"/>Mitls Anbringen de ps: <seg type="editorial_comment_seg">36<hi style="superscript">ten</hi><note type="editorial_comment_note">vielleicht doch 30. Juni?</note></seg> Junii 757 N<hi style="superscript">o</hi> 944 hat die <rs type="person" ref="#wkfm__46185">privilegirte lehen bank</rs>
+               <lb facs="#facs_169_r4l12" n="N013"/>zu Brünn unter der Raggion <hi>Kehrnhofer</hi> <rs type="person" ref="#wkfm__46184">Johann Anton Kehrnhofer</rs>
+               <lb facs="#facs_169_r4l13" n="N014"/><rs type="person" ref="#wkfm__46184">und Compagnie</rs> die <choice><expan/><abbr>orig:</abbr></choice> Procura auf den <rs type="person" ref="#wkfm__46186">David Meyer</rs> von Lindau
                <lb facs="#facs_169_r4l14" n="N015"/>dd<hi style="superscript">to</hi> 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 757 N<hi style="superscript">o</hi> 943 eingeleget.
                <lb facs="#facs_169_r4l15" n="N016"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
-               <lb facs="#facs_169_r4l16" n="N017"/>Die <rs type="person" ref="wkfm__46185">Privilegirte lehen bank</rs> in Brünn hat mit deren oblatorien dd<hi style="superscript">to</hi> Brünn
-               <lb facs="#facs_169_r4l17" n="N018"/>den - <choice><expan/><abbr>Mart:</abbr></choice> 757 N<hi style="superscript">o</hi> 1114 in <choice><expan/><abbr>orig:</abbr></choice> <hi>die</hi> unter der Raggion <hi>Kehrn</hi> <rs type="person" ref="wkfm__46184">Johann</rs>
-               <lb facs="#facs_169_r4l18" n="N019"/><rs type="person" ref="wkfm__46184">Anton Kehrnhofer und Compagnie</rs> und die ihnen nebst der Brünner:
+               <lb facs="#facs_169_r4l16" n="N017"/>Die <rs type="person" ref="#wkfm__46185">Privilegirte lehen bank</rs> in Brünn hat mit deren oblatorien dd<hi style="superscript">to</hi> Brünn
+               <lb facs="#facs_169_r4l17" n="N018"/>den - <choice><expan/><abbr>Mart:</abbr></choice> 757 N<hi style="superscript">o</hi> 1114 in <choice><expan/><abbr>orig:</abbr></choice> <hi>die</hi> unter der Raggion <hi>Kehrn</hi> <rs type="person" ref="#wkfm__46184">Johann</rs>
+               <lb facs="#facs_169_r4l18" n="N019"/><rs type="person" ref="#wkfm__46184">Anton Kehrnhofer und Compagnie</rs> und die ihnen nebst der Brünner:
                <lb facs="#facs_169_r4l19" n="N020"/>in Wienn allerhöchst bewilligte Niderlag von <unclear>inländischen</unclear> fabricatis wie
-               <lb facs="#facs_169_r4l20" n="N021"/>auch das der <rs type="person" ref="wkfm__46183">Johann Anton Kehrnhofer</rs> die Firma in Brünn der
-               <lb facs="#facs_169_r4l21" n="N022"/><rs type="person" ref="wkfm__46186">David Meyer</rs> aber per procura in Wienn führen wird, kund gemacht.
+               <lb facs="#facs_169_r4l20" n="N021"/>auch das der <rs type="person" ref="#wkfm__46183">Johann Anton Kehrnhofer</rs> die Firma in Brünn der
+               <lb facs="#facs_169_r4l21" n="N022"/><rs type="person" ref="#wkfm__46186">David Meyer</rs> aber per procura in Wienn führen wird, kund gemacht.
                <lb facs="#facs_169_r4l22" n="N023"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
             </ab>
             

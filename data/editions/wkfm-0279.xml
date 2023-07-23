@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -84,28 +84,28 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_225" n="225" xml:id="img_0225"/>
+            <pb facs="#facs_225" n="225" xml:id="img_0225" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0279.jpg"/>
             
             <ab facs="#facs_225_r1">
                <lb facs="#facs_225_r1l2" n="N001"/>137
                <lb facs="#facs_225_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_225_r1l3" n="N003"/><rs type="person" ref="wkfm__43963">Pernätschky Anton</rs> <choice><expan/><abbr>burg:</abbr></choice> Handlsmann
+               <lb facs="#facs_225_r1l3" n="N003"/><rs type="person" ref="#wkfm__43963">Pernätschky Anton</rs> <choice><expan/><abbr>burg:</abbr></choice> Handlsmann
                <lb facs="#facs_225_r1l4" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_225_r1l5" n="N005"/><rs type="person" ref="wkfm__47378">Anton Pernätzschky</rs> laut Erklährung dd<hi style="superscript">to</hi> 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 743 N<hi style="superscript">o</hi> 137
+               <lb facs="#facs_225_r1l5" n="N005"/><rs type="person" ref="#wkfm__47378">Anton Pernätzschky</rs> laut Erklährung dd<hi style="superscript">to</hi> 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 743 N<hi style="superscript">o</hi> 137
                <lb facs="#facs_225_r1l6" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_225_r1l7" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_225_r1l8" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_225_r1l9" n="N009"/>Der <rs type="person" ref="wkfm__43963">Pernätzschky</rs> hat zu Ausweisung seines Fundi ein von seiner Ehe-
-               <lb facs="#facs_225_r1l10" n="N010"/>wirthin <rs type="person" ref="wkfm__43964">Maria Theresia</rs> unter 3<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 743 dahin ausgestelt contianirtes
+               <lb facs="#facs_225_r1l9" n="N009"/>Der <rs type="person" ref="#wkfm__43963">Pernätzschky</rs> hat zu Ausweisung seines Fundi ein von seiner Ehe-
+               <lb facs="#facs_225_r1l10" n="N010"/>wirthin <rs type="person" ref="#wkfm__43964">Maria Theresia</rs> unter 3<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 743 dahin ausgestelt contianirtes
                <lb facs="#facs_225_r1l11" n="N011"/>Instrument N<hi style="superscript">o</hi> 1199 in <choice><expan/><abbr>orig:</abbr></choice> eingeleget, das sie ihrem Ehewirthen in solang biß
                <lb facs="#facs_225_r1l12" n="N012"/>selber <hi>ehr</hi> seinen Fundum aus eignen Mittlen auszuweisen vermögen
                <lb facs="#facs_225_r1l13" n="N013"/>wird ihre Handlung zur Sicherheit deren Creditoren cedire <choice><expan/><abbr>pr</abbr></choice> 2449 fol 5 x<hi style="superscript">r</hi>
-               <lb facs="#facs_225_r1l14" n="N014"/>zu Completirung des übrigen hat der <rs type="person" ref="wkfm__23529">Franz Ignaz Sinabell</rs>
+               <lb facs="#facs_225_r1l14" n="N014"/>zu Completirung des übrigen hat der <rs type="person" ref="#wkfm__23529">Franz Ignaz Sinabell</rs>
                <lb facs="#facs_225_line_1621472259652_4307" n="N015"/>das Cautions Instrument eingeleget <choice><expan/><abbr>pr</abbr></choice> 1150 fl 55 x<hi style="superscript">r</hi>
                <lb facs="#facs_225_line_1621472263599_4312" n="N016"/><choice><expan/><abbr>Sa</abbr></choice> 4000 fl
-               <lb facs="#facs_225_r1l19" n="N017"/>Über Anlangung der <rs type="person" ref="wkfm__43963">Pernätschky</rs> mit beruffung auf die Veran-
+               <lb facs="#facs_225_r1l19" n="N017"/>Über Anlangung der <rs type="person" ref="#wkfm__43963">Pernätschky</rs> mit beruffung auf die Veran-
                <lb facs="#facs_225_r1l20" n="N018"/>lassung dd<hi style="superscript">to</hi> 14<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 746 de ps: 17<hi style="superscript">ten</hi> ej: <hi>N</hi> N<hi style="superscript">o</hi> 1200 ist zu folge der hierauf
-               <lb facs="#facs_225_r1l21" n="N019"/>erlassnen Auflag und Quittung dd<hi style="superscript">to</hi> 5<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> d. a. dem <rs type="person" ref="wkfm__43963">Pernätschky</rs> das Sina-
+               <lb facs="#facs_225_r1l21" n="N019"/>erlassnen Auflag und Quittung dd<hi style="superscript">to</hi> 5<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> d. a. dem <rs type="person" ref="#wkfm__43963">Pernätschky</rs> das Sina-
                <lb facs="#facs_225_r1l22" n="N020"/>bell: Cautions Instrument Extradiret worden.
             </ab>
             

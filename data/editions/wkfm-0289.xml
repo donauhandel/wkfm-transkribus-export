@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -86,28 +86,28 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_235" n="235" xml:id="img_0235"/>
+            <pb facs="#facs_235" n="235" xml:id="img_0235" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0289.jpg"/>
             
             <ab facs="#facs_235_r1">
                <lb facs="#facs_235_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_235_r1l2" n="N003"/><rs type="person" ref="wkfm__43974">Plankh Johann Niclas</rs> burgerlicher Handlsmann
+               <lb facs="#facs_235_r1l2" n="N003"/><rs type="person" ref="#wkfm__43974">Plankh Johann Niclas</rs> burgerlicher Handlsmann
                <lb facs="#facs_235_r1l3" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_235_r1l4" n="N005"/><rs type="person" ref="wkfm__47384">Johann Nicolaus Plankh</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 143
+               <lb facs="#facs_235_r1l4" n="N005"/><rs type="person" ref="#wkfm__47384">Johann Nicolaus Plankh</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 143
                <lb facs="#facs_235_r1l5" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_235_r1l6" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_235_r1l7" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_235_r1l8" n="N009"/>Der <rs type="person" ref="wkfm__43974">Niclas Plankh</rs> hat zu Ausweisung seines Fundi die orig: <choice><expan>Specification</expan><abbr><unclear>Specifi:</unclear></abbr></choice>
+               <lb facs="#facs_235_r1l8" n="N009"/>Der <rs type="person" ref="#wkfm__43974">Niclas Plankh</rs> hat zu Ausweisung seines Fundi die orig: <choice><expan>Specification</expan><abbr><unclear>Specifi:</unclear></abbr></choice>
                <lb facs="#facs_235_r1l11" n="N010"/>N<hi style="superscript">o</hi> 1208 dahin eingeleget, daß er Vermög Conto Corrente (welcher nicht beyliget)
                <lb facs="#facs_235_line_1621473146862_4706" n="N011"/>an Waaren als eigenthum besize 3054 fl 15 x<hi style="superscript">r</hi>
                <lb facs="#facs_235_r1l16" n="N012"/>welches er auch laut beygerukter formulaguardi untern <hi>23<hi style="superscript"/></hi>ten
                <lb facs="#facs_235_r1l17" n="N013"/>23<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 745 mit eignen Corperlichen Eyd bekräfftiget
                <lb facs="#facs_235_r1l18" n="N014"/>zu Completirung des übrigen hat selber <hi>zwey</hi> <choice><expan/><abbr>orig:</abbr></choice> Cautions
-               <lb facs="#facs_235_line_1621473173798_4729" n="N015"/>Instrumenta als von <rs type="person" ref="wkfm__43975">Johann Franz Zobl</rs> dd<hi style="superscript">to</hi> 22<hi style="superscript">ten</hi> Julii <choice><expan/><abbr>pr</abbr></choice> 3000 fl
-               <lb facs="#facs_235_line_1621473181454_4736" n="N016"/>dann von <rs type="person" ref="wkfm__9287">Daniel Wohlgemuth</rs> <choice><expan/><abbr>pr</abbr></choice> 2000 fl
+               <lb facs="#facs_235_line_1621473173798_4729" n="N015"/>Instrumenta als von <rs type="person" ref="#wkfm__43975">Johann Franz Zobl</rs> dd<hi style="superscript">to</hi> 22<hi style="superscript">ten</hi> Julii <choice><expan/><abbr>pr</abbr></choice> 3000 fl
+               <lb facs="#facs_235_line_1621473181454_4736" n="N016"/>dann von <rs type="person" ref="#wkfm__9287">Daniel Wohlgemuth</rs> <choice><expan/><abbr>pr</abbr></choice> 2000 fl
                <lb facs="#facs_235_line_1621473188605_4743" n="N017"/><choice><expan/><abbr>Sa</abbr></choice> 8054 fl 15 x<hi style="superscript">r</hi>
-               <lb facs="#facs_235_r1l26" n="N018"/>Zufolge der auf das von dem <rs type="person" ref="wkfm__43974">Niclas Plank</rs> sub ps: 26<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 749 dahin ein-
-               <lb facs="#facs_235_r1l27" n="N019"/>bereichtes anbringen, das er <choice><expan/><abbr>Ao</abbr></choice> 748 seine Handlung dem <rs type="person" ref="wkfm__43976">David Nachbauer</rs> kauf-
-               <lb facs="#facs_235_r1l28" n="N020"/>lichen überlassen habe, erlassenen Auflag dd<hi style="superscript">to</hi> 27<hi style="superscript">ten</hi> ej: N<hi style="superscript">o</hi> 1209 seynd dem <rs type="person" ref="wkfm__43974">Plankh</rs>
+               <lb facs="#facs_235_r1l26" n="N018"/>Zufolge der auf das von dem <rs type="person" ref="#wkfm__43974">Niclas Plank</rs> sub ps: 26<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 749 dahin ein-
+               <lb facs="#facs_235_r1l27" n="N019"/>bereichtes anbringen, das er <choice><expan/><abbr>Ao</abbr></choice> 748 seine Handlung dem <rs type="person" ref="#wkfm__43976">David Nachbauer</rs> kauf-
+               <lb facs="#facs_235_r1l28" n="N020"/>lichen überlassen habe, erlassenen Auflag dd<hi style="superscript">to</hi> 27<hi style="superscript">ten</hi> ej: N<hi style="superscript">o</hi> 1209 seynd dem <rs type="person" ref="#wkfm__43974">Plankh</rs>
                <lb facs="#facs_235_r1l29" n="N021"/>laut beygerukter Quittung dd<hi style="superscript">to</hi> 28<hi style="superscript">ten</hi> ej: beede <choice><expan/><abbr>orig:</abbr></choice> Cautions Instrumenta
                <lb facs="#facs_235_r1l30" n="N022"/>Extradiret worden.
             </ab>

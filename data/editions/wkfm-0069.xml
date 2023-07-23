@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -82,24 +82,24 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_16" n="16" xml:id="img_0016"/>
+            <pb facs="#facs_16" n="16" xml:id="img_0016" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0069.jpg"/>
             
             <ab facs="#facs_16_r1">
                <lb facs="#facs_16_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
-               <lb facs="#facs_16_line_1628381645762_469" n="N002"/>In obigen Anbringen de ps: 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 1846 haben sich die <rs type="person" ref="wkfm__30430">Gebrüder Palm</rs> erklähret das ihre 
+               <lb facs="#facs_16_line_1628381645762_469" n="N002"/>In obigen Anbringen de ps: 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 1846 haben sich die <rs type="person" ref="#wkfm__30430">Gebrüder Palm</rs> erklähret das ihre 
                <lb facs="#facs_16_r1l4" n="N003"/>Handlung nach Inhalt des unter ihnen errichteten Contracts dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 723
-               <lb facs="#facs_16_r1l5" n="N004"/>auf 3 Jahr lang unter des <rs type="person" ref="wkfm__43805">Franz Gottlieb Palm</rs> Directorio und mit dessen
-               <lb facs="#facs_16_r1l6" n="N005"/>obligo wie auch mit dem von <rs type="person" ref="wkfm__43808">Jonathan von Palm</rs>, <rs type="person" ref="wkfm__43809">Franz von Palm</rs>, <rs type="person" ref="wkfm__24663">Carl
-               <lb break="no" facs="#facs_16_r1l7" n="N006"/>Joseph von Palm</rs> und <rs type="person" ref="wkfm__22880">Johann Heinrich Palm</rs> darzu ausgegeben und
+               <lb facs="#facs_16_r1l5" n="N004"/>auf 3 Jahr lang unter des <rs type="person" ref="#wkfm__43805">Franz Gottlieb Palm</rs> Directorio und mit dessen
+               <lb facs="#facs_16_r1l6" n="N005"/>obligo wie auch mit dem von <rs type="person" ref="#wkfm__43808">Jonathan von Palm</rs>, <rs type="person" ref="#wkfm__43809">Franz von Palm</rs>, <rs type="person" ref="#wkfm__24663">Carl
+               <lb break="no" facs="#facs_16_r1l7" n="N006"/>Joseph von Palm</rs> und <rs type="person" ref="#wkfm__22880">Johann Heinrich Palm</rs> darzu ausgegeben und
                <lb facs="#facs_16_line_1621289980273_737" n="N007"/>determinierten Interesse stehe.
                <lb facs="#facs_16_line_1621289978260_732" n="N008"/><hi>0</hi> dem Anbringen de ps: 12<hi style="superscript">ten</hi> <choice><expan/><abbr>Jul:</abbr></choice> 751 N<hi style="superscript">o</hi> 1886 und
                <lb facs="#facs_16_r1l10" n="N009"/>In <hi>0</hi> obigen Oblatorien dd<hi style="superscript">to</hi> 15<hi style="superscript">ten</hi> <choice><expan/><abbr>Jul:</abbr></choice> 751 N<hi style="superscript">o</hi> 1103 et 1104 haben die <rs type="person">Gebrüder Palm</rs>
                <lb facs="#facs_16_r1l9" n="N010"/>sich erklähret und
-               <lb facs="#facs_16_r1l11" n="N011"/>kund gemacht das ihr<rs type="person" ref="wkfm__43805"> Franz Gottlieb Freyherr von Palm</rs> verstorben gegen
+               <lb facs="#facs_16_r1l11" n="N011"/>kund gemacht das ihr<rs type="person" ref="#wkfm__43805"> Franz Gottlieb Freyherr von Palm</rs> verstorben gegen
                <lb facs="#facs_16_r1l12" n="N012"/>die übrige interessenten das Negotium zu continuieren gesinnet seyen, 
-               <lb facs="#facs_16_line_1621290245050_782" n="N013"/>Fundo von 100000 fl gemacht und davon dem <rs type="person" ref="wkfm__13459">Johann Heinrich Stammetz</rs>
-               <lb facs="#facs_16_line_1621290262064_792" n="N014"/>mit 20 m fl um 1/5 <choice><expan/><abbr>tl.</abbr></choice> <hi>nacher </hi>nebst zuziehung des vom ihm <rs type="person" ref="wkfm__13459">Stammetz</rs> <unclear>eigenthum</unclear>
-               <lb facs="#facs_16_r1l18" n="N015"/>unter der Raggion <rs type="person" ref="wkfm__43807">Christian Kaltschmid <choice><expan/><abbr>seel.</abbr></choice> Wittib et Compagno</rs> geführte
+               <lb facs="#facs_16_line_1621290245050_782" n="N013"/>Fundo von 100000 fl gemacht und davon dem <rs type="person" ref="#wkfm__13459">Johann Heinrich Stammetz</rs>
+               <lb facs="#facs_16_line_1621290262064_792" n="N014"/>mit 20 m fl um 1/5 <choice><expan/><abbr>tl.</abbr></choice> <hi>nacher </hi>nebst zuziehung des vom ihm <rs type="person" ref="#wkfm__13459">Stammetz</rs> <unclear>eigenthum</unclear>
+               <lb facs="#facs_16_r1l18" n="N015"/>unter der Raggion <rs type="person" ref="#wkfm__43807">Christian Kaltschmid <choice><expan/><abbr>seel.</abbr></choice> Wittib et Compagno</rs> geführte
                <lb facs="#facs_16_r1l19" n="N016"/>negotien <hi><unclear>nego </unclear></hi>interessiert haben.
                <lb facs="#facs_16_r1l20" n="N017"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_16_r1l21" n="N018"/><seg type="orighead__other_notes"><seg type="orighead__other_notes">Anmerkungen</seg></seg>

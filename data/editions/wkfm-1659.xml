@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -85,19 +85,19 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_201" n="201" xml:id="img_0201"/>
+            <pb facs="#facs_201" n="201" xml:id="img_0201" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1659.jpg"/>
             
             <ab facs="#facs_201_r3">
                <lb facs="#facs_201_line_1626263301642_2334" n="N001"/>139
                <lb facs="#facs_201_line_1626263321591_2347" n="N002"/>822
                <lb facs="#facs_201_r3l1" n="N003"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_201_r3l2" n="N004"/><rs type="person" ref="wkfm__47565">Schnirer Franz Anton</rs> burgerlicher Handlsmann
+               <lb facs="#facs_201_r3l2" n="N004"/><rs type="person" ref="#wkfm__47565">Schnirer Franz Anton</rs> burgerlicher Handlsmann
                <lb facs="#facs_201_r3l3" n="N005"/>Firma ad Raggion
-               <lb facs="#facs_201_r3l4" n="N006"/><rs type="person" ref="wkfm__47566">Frantz Anton Schnierer</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 765
+               <lb facs="#facs_201_r3l4" n="N006"/><rs type="person" ref="#wkfm__47566">Frantz Anton Schnierer</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 765
                <lb facs="#facs_201_r3l5" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_201_r3l6" n="N008"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_201_r3l7" n="N009"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_201_r3l8" n="N010"/>Der <rs type="person" ref="wkfm__47565">Schnirer</rs> hat seinen Handlungs-Fundum mitls der von dem <rs type="person" ref="wkfm__23922">Wolf-
+               <lb facs="#facs_201_r3l8" n="N010"/>Der <rs type="person" ref="#wkfm__47565">Schnirer</rs> hat seinen Handlungs-Fundum mitls der von dem <rs type="person" ref="#wkfm__23922">Wolf-
                <lb break="no" facs="#facs_201_r3l9" n="N011"/>gang Carl von Nedorast</rs> attestirten Specification N<hi style="superscript">o</hi> 1724 folgender maßen
                <lb facs="#facs_201_r3l10" n="N012"/>ausgewisen, nemlich das er eigenthumlich besize an Vätterlichen Erb-Gutt
                <lb facs="#facs_201_r3l11" n="N013"/>laut Raithandler-Amtsquittung N<hi style="superscript">o</hi> 1725 in vidimus 900 fl
@@ -105,7 +105,7 @@
                <lb facs="#facs_201_r3l14" n="N015"/>an intee von diesen zweyen Posten auf 9 1/2 Jahr a 6 <choice><expan/><abbr>pC<hi style="superscript">to</hi></abbr></choice> 627 fl
                <lb facs="#facs_201_r3l15" n="N016"/>an erspahrten Salario 900 fl
                <lb facs="#facs_201_r3l17" n="N017"/>zusamen Eigenthum 2627 fl
-               <lb facs="#facs_201_r3l18" n="N018"/>Zu Completirung des übrigen hat der <rs type="person" ref="wkfm__23922">Wolfgang Carl von 
+               <lb facs="#facs_201_r3l18" n="N018"/>Zu Completirung des übrigen hat der <rs type="person" ref="#wkfm__23922">Wolfgang Carl von 
                <lb break="no" facs="#facs_201_r3l19" n="N019"/>Nederast</rs> das <choice><expan/><abbr>orig:</abbr></choice> Cautions Instrument dd<hi style="superscript">to</hi> 18<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 745 N<hi style="superscript">o</hi>
                <lb facs="#facs_201_r3l20" n="N020"/>1726 in <choice><expan/><abbr>orig:</abbr></choice> eingeleget <choice><expan/><abbr>pr</abbr></choice> 5973 fl
                <lb facs="#facs_201_r3l22" n="N021"/><choice><expan/><abbr>Sa</abbr></choice> 8600 fl

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -80,21 +80,21 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_143" n="143" xml:id="img_0143"/>
+            <pb facs="#facs_143" n="143" xml:id="img_0143" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0463.jpg"/>
             
             <ab facs="#facs_143_r1">
                <lb facs="#facs_143_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_143_r1l2" n="N003"/><rs type="person" ref="wkfm__46159">Cura Franz</rs> burgerlicher Handlsmann
+               <lb facs="#facs_143_r1l2" n="N003"/><rs type="person" ref="#wkfm__46159">Cura Franz</rs> burgerlicher Handlsmann
                <lb facs="#facs_143_r1l3" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_143_r1l4" n="N005"/><rs type="person" ref="wkfm__47258">Frantz Curä</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 226
+               <lb facs="#facs_143_r1l4" n="N005"/><rs type="person" ref="#wkfm__47258">Frantz Curä</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 226
                <lb facs="#facs_143_r1l5" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_143_r1l6" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_143_r1l7" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_143_r1l8" n="N009"/>Der <rs type="person" ref="wkfm__46159">Cura</rs> hat <hi>seinen fundum</hi> zu Ausweisung seines Fundi die <choice><expan>Specification</expan><abbr>Specif:</abbr></choice>
+               <lb facs="#facs_143_r1l8" n="N009"/>Der <rs type="person" ref="#wkfm__46159">Cura</rs> hat <hi>seinen fundum</hi> zu Ausweisung seines Fundi die <choice><expan>Specification</expan><abbr>Specif:</abbr></choice>
                <lb facs="#facs_143_r1l9" n="N010"/>sine dato N<hi style="superscript">o</hi> 1306 eingeleget kraft welcher derselbe laut der beyge-
                <lb facs="#facs_143_r1l10" n="N011"/>legnen Inventur dd<hi style="superscript">to</hi> 28<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 743 N<hi style="superscript">o</hi> 1308 an Eigenthum zu besizen
                <lb facs="#facs_143_line_1621961514694_2582" n="N012"/>beygebracht 3624 fl 54
-               <lb facs="#facs_143_r1l13" n="N013"/>Zu Completirung des übrigen hat die <rs type="person" ref="wkfm__46160">Eva Maria Curain</rs>
+               <lb facs="#facs_143_r1l13" n="N013"/>Zu Completirung des übrigen hat die <rs type="person" ref="#wkfm__46160">Eva Maria Curain</rs>
                <lb facs="#facs_143_r1l14" n="N014"/>dessen Ehewirthin das <choice><expan/><abbr>orig:</abbr></choice> Certionirte Cautions <choice><expan>Instrument</expan><abbr>Instrum:</abbr></choice>
                <lb facs="#facs_143_line_1621961523837_2591" n="N015"/>dd<hi style="superscript">to</hi> 29<hi style="superscript">ten</hi> <choice><expan/><abbr>Jul:</abbr></choice> 743 N<hi style="superscript">o</hi> 1307 eingeleget <choice><expan/><abbr>pr</abbr></choice> <hi>1</hi>975 fl 6
                <lb facs="#facs_143_line_1621961539905_2604" n="N016"/><choice><expan/><abbr>Sa</abbr></choice> 4000 fl

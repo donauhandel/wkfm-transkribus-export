@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -110,18 +110,18 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_116" n="116" xml:id="img_0116"/>
+            <pb facs="#facs_116" n="116" xml:id="img_0116" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1036.jpg"/>
             
             <ab facs="#facs_116_r1">
                <lb facs="#facs_116_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
-               <lb facs="#facs_116_r1l2" n="N002"/>Mitls anbringen de ps: 19<hi style="superscript">ten</hi> Junii 747 N<hi style="superscript">o</hi> 2005 hat der <seg type="editorial_comment_seg"><rs type="person" ref="wkfm__46536">Franz Mayer</rs><note type="editorial_comment_note">Vornamen der beiden Geschäftspartner vertauscht</note></seg> und <seg type="editorial_comment_seg"><rs type="person" ref="wkfm__46535">Joseph</rs>
-               <lb break="no" facs="#facs_116_r1l3" n="N003"/><rs type="person" ref="wkfm__46535">Hakell</rs><note type="editorial_comment_note">Vornamen der beiden Geschäftspartner vertauscht</note></seg> angezeiget, daß nachdem der <rs type="person" ref="wkfm__46536">Joseph Mayer</rs> sich von dem <rs type="person" ref="wkfm__29325">Johann Heinrich
+               <lb facs="#facs_116_r1l2" n="N002"/>Mitls anbringen de ps: 19<hi style="superscript">ten</hi> Junii 747 N<hi style="superscript">o</hi> 2005 hat der <seg type="editorial_comment_seg"><rs type="person" ref="#wkfm__46536">Franz Mayer</rs><note type="editorial_comment_note">Vornamen der beiden Geschäftspartner vertauscht</note></seg> und <seg type="editorial_comment_seg"><rs type="person" ref="#wkfm__46535">Joseph</rs>
+               <lb break="no" facs="#facs_116_r1l3" n="N003"/><rs type="person" ref="#wkfm__46535">Hakell</rs><note type="editorial_comment_note">Vornamen der beiden Geschäftspartner vertauscht</note></seg> angezeiget, daß nachdem der <rs type="person" ref="#wkfm__46536">Joseph Mayer</rs> sich von dem <rs type="person" ref="#wkfm__29325">Johann Heinrich
                <lb break="no" facs="#facs_116_r1l4" n="N004"/>Rebay</rs> separiret sie beede in eine Compagnie von 1<hi style="superscript">ten</hi> ej: auf 5 Jahr getretten seye,
                <lb facs="#facs_116_r1l5" n="N005"/>wonebens solle dem societaets contract dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> Junii 747 N<hi style="superscript">o</hi> 2004 in <choice><expan/><abbr>orig:</abbr></choice> einge-
                <lb facs="#facs_116_r1l6" n="N006"/>leget kraft welchen die societaet durch 5 Jahr von 1<hi style="superscript">ten</hi> Junii 747 bis dat: 752 dergestalten
                <lb facs="#facs_116_r1l7" n="N007"/><unclear>fürtauren</unclear> <hi>solle,</hi> daß durch diese zeit keiner hievon abgehe, von dem eingelegten Capital
                <lb facs="#facs_116_r1l8" n="N008"/>nichts herausnehmen sondern biß zu Ende auch ohne <choice><expan/><abbr>intee</abbr></choice> ligen zu lassen schuldig seyn solle
-               <lb facs="#facs_116_r1l9" n="N009"/>beede die Handlung beobachten, die <unclear>Märkte</unclear> frequentiren und unter der Raggion <rs type="person" ref="wkfm__46537">Mayer und Hakell</rs> die Firma führen, die Handlung
+               <lb facs="#facs_116_r1l9" n="N009"/>beede die Handlung beobachten, die <unclear>Märkte</unclear> frequentiren und unter der Raggion <rs type="person" ref="#wkfm__46537">Mayer und Hakell</rs> die Firma führen, die Handlung
                <lb facs="#facs_116_r1l10" n="N010"/>Unkosten gemeinsamblich bestritten, jedweder nicht mehr alß jährl: 600 fl  aconto des Gewüns herausnehmen, alle Monath Cassa
                <lb facs="#facs_116_r1l11" n="N011"/>gemacht und Extract formiret, alle Jahr Billanz gezogen, und der Gewünn in gleich theil zu guten geschrieben werde, keiner
                <lb facs="#facs_116_r1l12" n="N012"/>ohne des andern Vorwissen <hi><unclear>unter</unclear></hi> in der Handlung etwas Wichtiges unternehmen, Waaren beställen, bürgschaft leisten, ausser-
@@ -129,11 +129,11 @@
                <lb facs="#facs_116_r1l14" n="N014"/>hätte, auch die Aufnehm und Abdankung deren bedienten und <unclear>gungen</unclear> mit beeder Einwilligung beschehen, auch die Erben
                <lb facs="#facs_116_r1l15" n="N015"/>anbey dei societaet durch die bestimmte zeit zu continuiren schuldig, fallß einer oder der der andere nach Verschlüssung des
                <lb facs="#facs_116_r1l16" n="N016"/>Zeit auszutretten gedenckete, selbe 6 Monat vorhero die behörige Anzeige gemacht, bey der Austrettung
-               <lb facs="#facs_116_r1l17" n="N017"/>aber die Handlung dem <rs type="person" ref="wkfm__46536">Mayer</rs> verbleiben, und die Societaets Zwistigkeiten ausser Gericht durch Handlungs-
+               <lb facs="#facs_116_r1l17" n="N017"/>aber die Handlung dem <rs type="person" ref="#wkfm__46536">Mayer</rs> verbleiben, und die Societaets Zwistigkeiten ausser Gericht durch Handlungs-
                <lb facs="#facs_116_r1l19" n="N018"/>Verständige Schidsmänner entschiden werden sollen.
-               <lb facs="#facs_116_r1l20" n="N019"/>Mitls anbringen de ps: 26<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 756 N<hi style="superscript">o</hi> 491 hat der <rs type="person" ref="wkfm__46535">Hekell</rs> angezeiget, das die societaet zwischen ihm und dem <rs type="person" ref="wkfm__46536">Joseph Mayr</rs> desolvieret seye.
+               <lb facs="#facs_116_r1l20" n="N019"/>Mitls anbringen de ps: 26<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 756 N<hi style="superscript">o</hi> 491 hat der <rs type="person" ref="#wkfm__46535">Hekell</rs> angezeiget, das die societaet zwischen ihm und dem <rs type="person" ref="#wkfm__46536">Joseph Mayr</rs> desolvieret seye.
                <lb facs="#facs_116_r1l21" n="N021"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
-               <lb facs="#facs_116_r1l22" n="N022"/>Anno 767 den 15<hi style="superscript">ten</hi> Novemberis hat der <rs type="person" ref="wkfm__46535">Franz Hackel</rs> seinen untern 25<hi style="superscript">ten</hi> Julij 747
+               <lb facs="#facs_116_r1l22" n="N022"/>Anno 767 den 15<hi style="superscript">ten</hi> Novemberis hat der <rs type="person" ref="#wkfm__46535">Franz Hackel</rs> seinen untern 25<hi style="superscript">ten</hi> Julij 747
                <lb facs="#facs_116_r1l23" n="N023"/>verrichteten Heuraths Contract eingeleget, worinnen Heurath 1000 fl und
                <lb facs="#facs_116_r1l24" n="N024"/>2000 fl Widerlag auf überlebe, paraphernal Guth 1300 fl, der Brauthi-
                <lb facs="#facs_116_r1l25" n="N025"/>gam seiner Brauth zu ihrer freyen Willkuhr 100 Species Thaller, und
@@ -144,18 +144,18 @@
                <lb facs="#facs_116_r1l30" n="N030"/>ein Kindes Anteil erblich zufallen, und wann der Brauthigam vor
                <lb facs="#facs_116_r1l31" n="N031"/>der Brauth verstürbe, so solle der Wittib die Handlungs Gerechtigkeit
                <lb facs="#facs_116_r1l32" n="N032"/>nach Abfertigung der Erben gebühren, wann aber die mit dem
-               <lb facs="#facs_116_r1l33" n="N033"/><rs type="person" ref="wkfm__46536">Mayer</rs> stipulirte Societaets Jahrn noch nicht verstrichen wären, so solle der
+               <lb facs="#facs_116_r1l33" n="N033"/><rs type="person" ref="#wkfm__46536">Mayer</rs> stipulirte Societaets Jahrn noch nicht verstrichen wären, so solle der
                <lb facs="#facs_116_r1l34" n="N034"/>Wittib nebst Heurathguth, Widerlag, und paraphernal Guth annoch 1300 fl zufallen etc. etc.
                <lb facs="#facs_116_r1l35" n="N035"/><choice><expan/><abbr>nro:</abbr></choice> 2185 1/4
                <lb facs="#facs_116_r1l36" n="N036"/>Anmerckungen
                <lb facs="#facs_116_r1l37" n="N037"/><hi>0</hi>
-               <lb facs="#facs_116_r1l38" n="N038"/>Vermög Anzeige de ps: 21<hi style="superscript">ten</hi> Marty 765 hat sich <rs type="person" ref="wkfm__46535">Franz Hakel</rs> erkläret, das er 
-               <lb facs="#facs_116_r1l39" n="N039"/>keinen Compagnon habe, sondern nur seinen freyen Bedienten <rs type="person" ref="wkfm__46539">Franz Xaveri
-               <lb break="no" facs="#facs_116_r1l40" n="N040"/>Hackel</rs> und <rs type="person" ref="wkfm__46540">Mathias Joseph Seidl</rs> statt ihres Salarj jedem das 1/8tl des Gewinns
+               <lb facs="#facs_116_r1l38" n="N038"/>Vermög Anzeige de ps: 21<hi style="superscript">ten</hi> Marty 765 hat sich <rs type="person" ref="#wkfm__46535">Franz Hakel</rs> erkläret, das er 
+               <lb facs="#facs_116_r1l39" n="N039"/>keinen Compagnon habe, sondern nur seinen freyen Bedienten <rs type="person" ref="#wkfm__46539">Franz Xaveri
+               <lb break="no" facs="#facs_116_r1l40" n="N040"/>Hackel</rs> und <rs type="person" ref="#wkfm__46540">Mathias Joseph Seidl</rs> statt ihres Salarj jedem das 1/8tl des Gewinns
                <lb facs="#facs_116_r1l41" n="N041"/>aus geworffen habe, diese Erklährung findet sich bey denen firmen sub
                <lb facs="#facs_116_r1l42" n="N042"/><choice><expan/><abbr>nro:</abbr></choice> 492.
-               <lb facs="#facs_116_r1l43" n="N043"/>Vermög Anzeige de psto: 23 <choice><expan/><abbr>9br:</abbr></choice> 775 hat der <rs type="person" ref="wkfm__46535">Franz Hackel</rs> seine
-               <lb facs="#facs_116_r1l44" n="N044"/>handlungs firma seinen Sohn <rs type="person" ref="wkfm__46541">Johann</rs> per Procura anver-
+               <lb facs="#facs_116_r1l43" n="N043"/>Vermög Anzeige de psto: 23 <choice><expan/><abbr>9br:</abbr></choice> 775 hat der <rs type="person" ref="#wkfm__46535">Franz Hackel</rs> seine
+               <lb facs="#facs_116_r1l44" n="N044"/>handlungs firma seinen Sohn <rs type="person" ref="#wkfm__46541">Johann</rs> per Procura anver-
                <lb facs="#facs_116_r1l45" n="N045"/>trauet: Diese Anzeige findet sich bey denen firmen sub <choice><expan/><abbr>Nro</abbr></choice>
                <lb facs="#facs_116_r1l46" n="N046"/>492 1/2
             </ab>

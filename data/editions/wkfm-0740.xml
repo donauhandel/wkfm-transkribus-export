@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -82,20 +82,20 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_72" n="72" xml:id="img_0072"/>
+            <pb facs="#facs_72" n="72" xml:id="img_0072" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0740.jpg"/>
             
             <ab facs="#facs_72_r1">
                <lb facs="#facs_72_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
-               <lb facs="#facs_72_line_1621550151391_1654" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 12 <choice><expan/><abbr>Apr:</abbr></choice> 731 N<hi style="superscript">o</hi> 1934 hat sich der <rs type="person" ref="wkfm__21998">Peter
-               <lb break="no" facs="#facs_72_r1l3" n="N003"/>Vernay</rs> und <rs type="person" ref="wkfm__43912">Ferdinand Pörner</rs> <hi>mit ererklähret</hi> geäusseret das sie
-               <lb facs="#facs_72_r1l4" n="N004"/>ihre Handlung unter der Societaets Raggion von <rs type="person" ref="wkfm__15206">Vernay et Pörner</rs>
+               <lb facs="#facs_72_line_1621550151391_1654" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 12 <choice><expan/><abbr>Apr:</abbr></choice> 731 N<hi style="superscript">o</hi> 1934 hat sich der <rs type="person" ref="#wkfm__21998">Peter
+               <lb break="no" facs="#facs_72_r1l3" n="N003"/>Vernay</rs> und <rs type="person" ref="#wkfm__43912">Ferdinand Pörner</rs> <hi>mit ererklähret</hi> geäusseret das sie
+               <lb facs="#facs_72_r1l4" n="N004"/>ihre Handlung unter der Societaets Raggion von <rs type="person" ref="#wkfm__15206">Vernay et Pörner</rs>
                <lb facs="#facs_72_r1l5" n="N005"/>miteinander führen
-               <lb facs="#facs_72_r1l6" n="N006"/>Mitls Anbringen de ps: 13<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 733 N<hi style="superscript">o</hi> 1937 hat der <rs type="person" ref="wkfm__21998">Vernay</rs> <unclear>ange</unclear>-
-               <lb facs="#facs_72_r1l7" n="N007"/>zeiget daß er sich von dem <rs type="person" ref="wkfm__43912">Ferdinand Pörner</rs> den 17<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> d.a.
+               <lb facs="#facs_72_r1l6" n="N006"/>Mitls Anbringen de ps: 13<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 733 N<hi style="superscript">o</hi> 1937 hat der <rs type="person" ref="#wkfm__21998">Vernay</rs> <unclear>ange</unclear>-
+               <lb facs="#facs_72_r1l7" n="N007"/>zeiget daß er sich von dem <rs type="person" ref="#wkfm__43912">Ferdinand Pörner</rs> den 17<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> d.a.
                <lb facs="#facs_72_r1l8" n="N008"/>separiret habe.
                <lb facs="#facs_72_r1l9" n="N009"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_72_r1l10" n="N010"/>Mitls Anbring de ps: 28<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 707 N<hi style="superscript">o</hi> 2148 hat der <blackening><unclear>xx</unclear></blackening>
-               <lb facs="#facs_72_r1l11" n="N011"/><rs type="person" ref="wkfm__21998">Vernay</rs> den mit der <rs type="person" ref="wkfm__47104">Anna Maria Theresia Torolinin</rs> untern 24<hi style="superscript">ten</hi>
+               <lb facs="#facs_72_r1l11" n="N011"/><rs type="person" ref="#wkfm__21998">Vernay</rs> den mit der <rs type="person" ref="#wkfm__47104">Anna Maria Theresia Torolinin</rs> untern 24<hi style="superscript">ten</hi>
                <lb facs="#facs_72_r1l12" n="N012"/>Juni 736 abgeschlossenen Heurathscontract in Copia Vidimata N<hi style="superscript">o</hi> 214<unclear>7</unclear> ein<unclear>ge</unclear>
                <lb facs="#facs_72_r1l13" n="N013"/>leget kraft welchen 1000 fl Heurath Gutt nebst 2000 fl Widerlag auf <unclear>über-</unclear>
                <lb facs="#facs_72_line_1626104149064_419" n="N014"/>leben und das wehrender Ehe erwörbende alß ein gleiches Gutt stipuliret

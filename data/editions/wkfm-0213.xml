@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -96,40 +96,40 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_159" n="159" xml:id="img_0159"/>
+            <pb facs="#facs_159" n="159" xml:id="img_0159" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0213.jpg"/>
             
             <ab facs="#facs_159_r1">
                <lb facs="#facs_159_r1l2" n="N001"/>104
                <lb facs="#facs_159_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_159_line_1621468712109_2918" n="N003"/><rs type="person" ref="wkfm__19355">Polidoro Anton Lucas</rs> burgerlicher Handlsmann
+               <lb facs="#facs_159_line_1621468712109_2918" n="N003"/><rs type="person" ref="#wkfm__19355">Polidoro Anton Lucas</rs> burgerlicher Handlsmann
                <lb facs="#facs_159_r1l5" n="N004"/>Firma oder Raggion
-               <lb facs="#facs_159_r1l6" n="N005"/><rs type="person" ref="wkfm__43913">Anton Polidoro e <choice><expan/><abbr>Comp:</abbr></choice></rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 98.
-               <lb facs="#facs_159_r1l7" n="N006"/><rs type="person" ref="wkfm__47349">Anton Lucca Polidoro</rs> laut Oblatorien dd<hi style="superscript">to</hi> 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 736 N<hi style="superscript">o</hi> 1094
+               <lb facs="#facs_159_r1l6" n="N005"/><rs type="person" ref="#wkfm__43913">Anton Polidoro e <choice><expan/><abbr>Comp:</abbr></choice></rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 98.
+               <lb facs="#facs_159_r1l7" n="N006"/><rs type="person" ref="#wkfm__47349">Anton Lucca Polidoro</rs> laut Oblatorien dd<hi style="superscript">to</hi> 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 736 N<hi style="superscript">o</hi> 1094
                <lb facs="#facs_159_r1l8" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
-               <lb facs="#facs_159_r1l9" n="N008"/>In obiger Erklährung N<hi style="superscript">o</hi> 98 ist die Firma <seg type="editorial_comment_seg"><hi>0</hi><note type="editorial_comment_note">Es folgt der Einschub Zeile 11</note></seg> von dem <rs type="person" ref="wkfm__19355">Anton
-               <lb break="no" facs="#facs_159_r1l10" n="N009"/>Polidoro</rs> und dessen Compagnon <rs type="person" ref="wkfm__25146">Joseph Barbieri</rs> eingeleget
+               <lb facs="#facs_159_r1l9" n="N008"/>In obiger Erklährung N<hi style="superscript">o</hi> 98 ist die Firma <seg type="editorial_comment_seg"><hi>0</hi><note type="editorial_comment_note">Es folgt der Einschub Zeile 11</note></seg> von dem <rs type="person" ref="#wkfm__19355">Anton
+               <lb break="no" facs="#facs_159_r1l10" n="N009"/>Polidoro</rs> und dessen Compagnon <rs type="person" ref="#wkfm__25146">Joseph Barbieri</rs> eingeleget
                <lb facs="#facs_159_r1l11" n="N010"/>worden.
-               <lb facs="#facs_159_r1l12" n="N011"/><hi>0</hi> der Raggion <rs type="person" ref="wkfm__43913">Anton Polidoro e <choice><expan/><abbr>Comp:</abbr></choice></rs>
+               <lb facs="#facs_159_r1l12" n="N011"/><hi>0</hi> der Raggion <rs type="person" ref="#wkfm__43913">Anton Polidoro e <choice><expan/><abbr>Comp:</abbr></choice></rs>
                <lb facs="#facs_159_r1l13" n="N012"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
-               <lb facs="#facs_159_r1l14" n="N013"/>Der <rs type="person" ref="wkfm__19355">Anton Lucas Polidoro</rs> hat die in <choice><expan/><abbr>orig:</abbr></choice> N<hi style="superscript">o</hi> 1094 eingelegte Oblatorien dd<hi style="superscript">to</hi> 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice>
-               <lb facs="#facs_159_r1l15" n="N014"/>736 dahin erlassen, das nachdem die durch drey Jahr geloffne Raggion <rs type="person" ref="wkfm__43913">Anton Polidoro
+               <lb facs="#facs_159_r1l14" n="N013"/>Der <rs type="person" ref="#wkfm__19355">Anton Lucas Polidoro</rs> hat die in <choice><expan/><abbr>orig:</abbr></choice> N<hi style="superscript">o</hi> 1094 eingelegte Oblatorien dd<hi style="superscript">to</hi> 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice>
+               <lb facs="#facs_159_r1l15" n="N014"/>736 dahin erlassen, das nachdem die durch drey Jahr geloffne Raggion <rs type="person" ref="#wkfm__43913">Anton Polidoro
                <lb break="no" facs="#facs_159_r1l16" n="N015"/>e Compagnie</rs> ihr Endschafft erreichet, er gesinnet seye, das negotium unter seiner
-               <lb facs="#facs_159_r1l17" n="N016"/>eigenen Raggion <rs type="person" ref="wkfm__19355">Anton Lucas Polidoro</rs> zu continuiren
+               <lb facs="#facs_159_r1l17" n="N016"/>eigenen Raggion <rs type="person" ref="#wkfm__19355">Anton Lucas Polidoro</rs> zu continuiren
                <lb facs="#facs_159_r1l18" n="N017"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_159_r1l19" n="N018"/>Mitls Anbringen de ps: 23<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 736 hat der <rs type="person" ref="wkfm__19355">Polidoro</rs> seinen Fundum folgender massen
-               <lb facs="#facs_159_r1l20" n="N019"/>ausgewisen, das <rs type="person" ref="wkfm__19355">er</rs> eigenthumblich besize an der Einlag <choice><expan/><abbr>pr</abbr></choice> 2000 fl annoch 1402 fl
-               <lb facs="#facs_159_r1l21" n="N020"/>an gezeigten avanzo bey der Separation von dem <rs type="person" ref="wkfm__25146">Barbieri</rs> <choice><expan/><abbr>pr</abbr></choice> 5549 fl. so die
+               <lb facs="#facs_159_r1l19" n="N018"/>Mitls Anbringen de ps: 23<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 736 hat der <rs type="person" ref="#wkfm__19355">Polidoro</rs> seinen Fundum folgender massen
+               <lb facs="#facs_159_r1l20" n="N019"/>ausgewisen, das <rs type="person" ref="#wkfm__19355">er</rs> eigenthumblich besize an der Einlag <choice><expan/><abbr>pr</abbr></choice> 2000 fl annoch 1402 fl
+               <lb facs="#facs_159_r1l21" n="N020"/>an gezeigten avanzo bey der Separation von dem <rs type="person" ref="#wkfm__25146">Barbieri</rs> <choice><expan/><abbr>pr</abbr></choice> 5549 fl. so die
                <lb facs="#facs_159_line_1621468791239_2938" n="N021"/>Halbscheid <choice><expan/><abbr>pr</abbr></choice> 2774 fl 35 x<hi style="superscript">r</hi>
                <lb facs="#facs_159_line_1621468801667_2947" n="N022"/>zusamen Eigenthum 4176 fl. 35 x<hi style="superscript">r</hi>
-               <lb facs="#facs_159_r1l26" n="N023"/>Zu Completirung des übrigen hat die <rs type="person" ref="wkfm__43914">Anna Maria Löwinichin</rs> ein unter
+               <lb facs="#facs_159_r1l26" n="N023"/>Zu Completirung des übrigen hat die <rs type="person" ref="#wkfm__43914">Anna Maria Löwinichin</rs> ein unter
                <lb facs="#facs_159_line_1621468824425_2961" n="N024"/>1<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 736 dahin ausgestelt <seg type="editorial_comment_seg">Cortiorirtes<note type="editorial_comment_note">wahrscheinlich Certiorirtes</note></seg> Instrument, daß sie in des
-               <lb facs="#facs_159_r1l29" n="N025"/><rs type="person" ref="wkfm__19355">Polidoro</rs> Handlung eingeleget und biß zu gänzlichen befridigung <unclear>denen</unclear> Credi-
+               <lb facs="#facs_159_r1l29" n="N025"/><rs type="person" ref="#wkfm__19355">Polidoro</rs> Handlung eingeleget und biß zu gänzlichen befridigung <unclear>denen</unclear> Credi-
                <lb facs="#facs_159_line_1621468847686_2975" n="N026"/>toren liegen lassen wolle 4000 fl
                <lb facs="#facs_159_r1l31" n="N027"/><choice><expan>Summa</expan><abbr>Sa</abbr></choice> 8176 fl 35
-               <lb facs="#facs_159_r1l34" n="N028"/>Über die von dem <rs type="person" ref="wkfm__19355">Polidoro</rs> gemachte anzeige de ps: 13<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 742 N<hi style="superscript">o</hi> 1172 <hi>und</hi> daß <rs type="person" ref="wkfm__19355">er</rs> keine
-               <lb facs="#facs_159_r1l35" n="N029"/>Creditore habe und die <rs type="person" ref="wkfm__43914">Lowinichin</rs> laut Quittung dd<hi style="superscript">to</hi> 10<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 742 N<hi style="superscript">o</hi> 1173 gänzilch befridiget habe
+               <lb facs="#facs_159_r1l34" n="N028"/>Über die von dem <rs type="person" ref="#wkfm__19355">Polidoro</rs> gemachte anzeige de ps: 13<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 742 N<hi style="superscript">o</hi> 1172 <hi>und</hi> daß <rs type="person" ref="#wkfm__19355">er</rs> keine
+               <lb facs="#facs_159_r1l35" n="N029"/>Creditore habe und die <rs type="person" ref="#wkfm__43914">Lowinichin</rs> laut Quittung dd<hi style="superscript">to</hi> 10<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 742 N<hi style="superscript">o</hi> 1173 gänzilch befridiget habe
                <lb facs="#facs_159_r1l36" n="N030"/>ist zufolge der hierauf erlassne auflag dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> ej: und Quittung dd<hi style="superscript">to</hi> 11<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 743 N<hi style="superscript">o</hi> 1174
-               <lb facs="#facs_159_r1l37" n="N031"/>das Lowinichische Instrument dem <rs type="person" ref="wkfm__19355">Polidoro</rs> gegen <hi>Er</hi> einer von ihm eingelegten Erklährung ddto 17ten
+               <lb facs="#facs_159_r1l37" n="N031"/>das Lowinichische Instrument dem <rs type="person" ref="#wkfm__19355">Polidoro</rs> gegen <hi>Er</hi> einer von ihm eingelegten Erklährung ddto 17ten
                <lb facs="#facs_159_r1l38" n="N032"/><choice><expan/><abbr>Xbr:</abbr></choice> 742 N<hi style="superscript">o</hi> 1175, das er 10000 fl eigenthumlich besize und solches zu beeydigen erbiettig seye extradiret <unclear>worden</unclear>
             </ab>
             

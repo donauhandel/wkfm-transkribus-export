@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -72,12 +72,12 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_13" n="13" xml:id="img_0013"/>
+            <pb facs="#facs_13" n="13" xml:id="img_0013" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1113.jpg"/>
             
             <ab facs="#facs_13_r3">
-               <lb facs="#facs_13_r3l1" n="N003"/><rs type="person" ref="wkfm__8266">Legoux Philibert</rs> kay: könig: Niderlags Verwanter
+               <lb facs="#facs_13_r3l1" n="N003"/><rs type="person" ref="#wkfm__8266">Legoux Philibert</rs> kay: könig: Niderlags Verwanter
                <lb facs="#facs_13_r3l2" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_13_r3l3" n="N005"/><rs type="person" ref="wkfm__46787">Philibert Legoux</rs> laut Anbringen de ps: 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 511
+               <lb facs="#facs_13_r3l3" n="N005"/><rs type="person" ref="#wkfm__46787">Philibert Legoux</rs> laut Anbringen de ps: 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 511
                <lb facs="#facs_13_r3l4" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_13_r3l5" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
             </ab>

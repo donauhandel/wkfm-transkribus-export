@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -72,14 +72,14 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_115" n="115" xml:id="img_0115"/>
+            <pb facs="#facs_115" n="115" xml:id="img_0115" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1573.jpg"/>
             
             <ab facs="#facs_115_r2">
                <lb facs="#facs_115_line_1626262165024_1725" n="N001"/>779
                <lb facs="#facs_115_r2l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_115_r2l2" n="N003"/><rs type="person" ref="wkfm__12099">Schwab Franz Anton</rs> burgerlicher Handlsmann
+               <lb facs="#facs_115_r2l2" n="N003"/><rs type="person" ref="#wkfm__12099">Schwab Franz Anton</rs> burgerlicher Handlsmann
                <lb facs="#facs_115_r2l3" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_115_r2l4" n="N005"/><rs type="person" ref="wkfm__47481">Franz Antony Schwab</rs> laut Erklährung dd<hi style="superscript">to</hi> 10<hi style="superscript">ten</hi> Julii 729 N<hi style="superscript">o</hi> 714
+               <lb facs="#facs_115_r2l4" n="N005"/><rs type="person" ref="#wkfm__47481">Franz Antony Schwab</rs> laut Erklährung dd<hi style="superscript">to</hi> 10<hi style="superscript">ten</hi> Julii 729 N<hi style="superscript">o</hi> 714
                <lb facs="#facs_115_r2l5" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_115_r2l6" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_115_r2l7" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>

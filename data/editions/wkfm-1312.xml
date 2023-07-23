@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -72,14 +72,14 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_20" n="20" xml:id="img_0020"/>
+            <pb facs="#facs_20" n="20" xml:id="img_0020" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1312.jpg"/>
             
             <ab facs="#facs_20_r1">
                <lb facs="#facs_20_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_20_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> Junii 733 N<hi style="superscript">o</hi> 2014 hat sich der
-               <lb facs="#facs_20_r1l3" n="N003"/><rs type="person" ref="wkfm__46661">Neuner</rs> <hi>mit dem Lucas</hi> erklähret, das der <rs type="person" ref="wkfm__8802">Lucas Joseph Setti</rs> sein
-               <lb facs="#facs_20_r1l4" n="N004"/>Compagno seye und sie ihre Handlung unter der Raggion <rs type="person" ref="wkfm__28424">Anton 
-               <lb break="no" facs="#facs_20_r1l6" n="N005"/>Neuner E <choice><expan/><abbr>Comp:</abbr></choice></rs> mit seiner <hi>firmirung</hi> des <rs type="person" ref="wkfm__46661">Neuner</rs> firmirung führen
+               <lb facs="#facs_20_r1l3" n="N003"/><rs type="person" ref="#wkfm__46661">Neuner</rs> <hi>mit dem Lucas</hi> erklähret, das der <rs type="person" ref="#wkfm__8802">Lucas Joseph Setti</rs> sein
+               <lb facs="#facs_20_r1l4" n="N004"/>Compagno seye und sie ihre Handlung unter der Raggion <rs type="person" ref="#wkfm__28424">Anton 
+               <lb break="no" facs="#facs_20_r1l6" n="N005"/>Neuner E <choice><expan/><abbr>Comp:</abbr></choice></rs> mit seiner <hi>firmirung</hi> des <rs type="person" ref="#wkfm__46661">Neuner</rs> firmirung führen
                <lb facs="#facs_20_r1l7" n="N006"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_20_r1l8" n="N007"/>Anmerckungen
             </ab>

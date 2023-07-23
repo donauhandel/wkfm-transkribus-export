@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -85,19 +85,19 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_265" n="265" xml:id="img_0265"/>
+            <pb facs="#facs_265" n="265" xml:id="img_0265" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0319.jpg"/>
             
             <ab facs="#facs_265_r1">
                <lb facs="#facs_265_r1l2" n="N001"/><hi>156</hi>
                <lb facs="#facs_265_r1l4" n="N002"/>157
                <lb facs="#facs_265_r1l1" n="N003"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_265_r1l3" n="N004"/><rs type="person" ref="wkfm__44047">Praun Johann Carl</rs> burgerlicher Handlsmann
+               <lb facs="#facs_265_r1l3" n="N004"/><rs type="person" ref="#wkfm__44047">Praun Johann Carl</rs> burgerlicher Handlsmann
                <lb facs="#facs_265_r1l5" n="N005"/>Firma ad Raggion
-               <lb facs="#facs_265_r1l7" n="N006"/>Anno 768 hat der <rs type="person" ref="wkfm__44047">Johann Carl Praun</rs> seine firma eingelegt <choice><expan/><abbr>nro:</abbr></choice> 169 <hi>196</hi>
+               <lb facs="#facs_265_r1l7" n="N006"/>Anno 768 hat der <rs type="person" ref="#wkfm__44047">Johann Carl Praun</rs> seine firma eingelegt <choice><expan/><abbr>nro:</abbr></choice> 169 <hi>196</hi>
                <lb facs="#facs_265_r1l8" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_265_r1l9" n="N008"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_265_r1l10" n="N009"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_265_r1l11" n="N010"/>Der <rs type="person" ref="wkfm__44047">Praun</rs> hat seinen Fundum mitls der Specification N<hi style="superscript">o</hi> 1285 folgender
+               <lb facs="#facs_265_r1l11" n="N010"/>Der <rs type="person" ref="#wkfm__44047">Praun</rs> hat seinen Fundum mitls der Specification N<hi style="superscript">o</hi> 1285 folgender
                <lb facs="#facs_265_r1l12" n="N011"/>maßen ausgewisen, nemlich das er eigenthumlich besize an Vätterlichen und
                <lb facs="#facs_265_line_1621475847529_6121" n="N012"/>Mütterlichen Erbgutt laut Urkund N<hi style="superscript">o</hi> 1286 3147 fl 11 3/4 x
                <lb facs="#facs_265_line_1621475838950_6113" n="N013"/>an <choice><expan/><abbr>intee</abbr></choice> hievon 2158 fl 49 1/2 x<hi style="superscript">r</hi>
@@ -106,7 +106,7 @@
                <lb facs="#facs_265_r1l21" n="N016"/>an erspahrten salario laut attestati N<hi style="superscript">o</hi> 1288 800 fl
                <lb facs="#facs_265_line_1621475812382_6090" n="N017"/>an <choice><expan>Interesse</expan><abbr>Intee</abbr></choice> hievon 388 fl
                <lb facs="#facs_265_r1l24" n="N018"/>zusamen Eigenthum 6948 fl. 36 x<hi style="superscript">r</hi>
-               <lb facs="#facs_265_r1l25" n="N019"/>zu Completirung des übrigen hat der <rs type="person" ref="wkfm__43966">Dominicus Polidoro</rs> das
+               <lb facs="#facs_265_r1l25" n="N019"/>zu Completirung des übrigen hat der <rs type="person" ref="#wkfm__43966">Dominicus Polidoro</rs> das
                <lb facs="#facs_265_r1l26" n="N020"/><choice><expan/><abbr>orig:</abbr></choice> Cautions Instrument dd<hi style="superscript">to</hi> 21<hi style="superscript">ten</hi> Junii 756 N<hi style="superscript">o</hi> 1289 eingelegt <choice><expan/><abbr>pr</abbr></choice> 1051 fl 24 x<hi style="superscript">r</hi>
                <lb facs="#facs_265_r1l27" n="N021"/><choice><expan/><abbr>Sa</abbr></choice> 8000 fl
             </ab>

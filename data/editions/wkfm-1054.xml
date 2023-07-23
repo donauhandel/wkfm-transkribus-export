@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -73,13 +73,13 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_134" n="134" xml:id="img_0134"/>
+            <pb facs="#facs_134" n="134" xml:id="img_0134" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1054.jpg"/>
             
             <ab facs="#facs_134_r1">
                <lb facs="#facs_134_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_134_r1l2" n="N002"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
-               <lb facs="#facs_134_r1l3" n="N003"/>Mitls obigen Anbringen de ps: 18<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 753 N<hi style="superscript">o</hi> 482 hat der <rs type="person" ref="wkfm__46563">Hueber</rs> den mit der
-               <lb facs="#facs_134_r1l4" n="N004"/><rs type="person" ref="wkfm__46565">Maria Josepha Heimberlin</rs> untern 25<hi style="superscript">ten</hi> Junii 751 abgeschlossnen heuraths Contract
+               <lb facs="#facs_134_r1l3" n="N003"/>Mitls obigen Anbringen de ps: 18<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 753 N<hi style="superscript">o</hi> 482 hat der <rs type="person" ref="#wkfm__46563">Hueber</rs> den mit der
+               <lb facs="#facs_134_r1l4" n="N004"/><rs type="person" ref="#wkfm__46565">Maria Josepha Heimberlin</rs> untern 25<hi style="superscript">ten</hi> Junii 751 abgeschlossnen heuraths Contract
                <lb facs="#facs_134_r1l5" n="N005"/>in <choice><expan/><abbr>orig:</abbr></choice> N<hi style="superscript">o</hi> 2177 eingeleget kraft welchen 500 fl heurathgutt nebst 1000 fl Widerlag
                <lb facs="#facs_134_r1l6" n="N006"/>auf überleben, dann jenes was wehrender ausser Erbschafftsfällen erworben
                <lb facs="#facs_134_r1l7" n="N007"/>wird als ein gleiches Gutt, anbey fals der Bräutigam vor der Braut ohne testa-

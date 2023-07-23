@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -79,21 +79,21 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_4" n="4" xml:id="img_0004"/>
+            <pb facs="#facs_4" n="4" xml:id="img_0004" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1356.jpg"/>
             
             <ab facs="#facs_4_r1">
                <lb facs="#facs_4_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_4_r1l2" n="N002"/>In obigen Anbringen de ps: 13<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 2017 <hi>hat</hi> ist die Anzeige
-               <lb facs="#facs_4_r1l3" n="N003"/>gemacht worden, das das Negotium unter der Raggion <rs type="person" ref="wkfm__8148">Rad und Hößlin</rs>
-               <lb facs="#facs_4_r1l4" n="N004"/>mit interesse und obligo des <rs type="person" ref="wkfm__46522">Christoph Rad</rs> <rs type="person" ref="wkfm__46521">Philipp Albrecht Hößlin</rs>
-               <lb facs="#facs_4_r1l5" n="N005"/>und <rs type="person" ref="wkfm__23197">Bartholomaei Falkh</rs> <hi>gefn</hi> unter allen dreyen firmirung geführet
+               <lb facs="#facs_4_r1l3" n="N003"/>gemacht worden, das das Negotium unter der Raggion <rs type="person" ref="#wkfm__8148">Rad und Hößlin</rs>
+               <lb facs="#facs_4_r1l4" n="N004"/>mit interesse und obligo des <rs type="person" ref="#wkfm__46522">Christoph Rad</rs> <rs type="person" ref="#wkfm__46521">Philipp Albrecht Hößlin</rs>
+               <lb facs="#facs_4_r1l5" n="N005"/>und <rs type="person" ref="#wkfm__23197">Bartholomaei Falkh</rs> <hi>gefn</hi> unter allen dreyen firmirung geführet
                <lb facs="#facs_4_r1l6" n="N006"/>werde.
                <lb facs="#facs_4_r1l7" n="N007"/>Mitls Anbringen de ps: 15<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 739 N<hi style="superscript">o</hi> 1515 und 1969 dann oblatorien dd<hi style="superscript">to</hi>
-               <lb facs="#facs_4_r1l8" n="N008"/>2<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 737 N<hi style="superscript">o</hi> 1129 hat die Raggion <rs type="person" ref="wkfm__30066">Hößlin und Falk </rs>angezeiget und
-               <lb facs="#facs_4_r1l9" n="N009"/>kund gemacht, daß das unter der Raggion <rs type="person" ref="wkfm__8148">Rad und Hößlin</rs> gelofene nego-
-               <lb facs="#facs_4_r1l10" n="N010"/>tium mit Ende 736 sich geendiget, der <rs type="person" ref="wkfm__46521">Hößlin</rs> und <rs type="person" ref="wkfm__23197">Falkh</rs> aber alle Rad und
+               <lb facs="#facs_4_r1l8" n="N008"/>2<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 737 N<hi style="superscript">o</hi> 1129 hat die Raggion <rs type="person" ref="#wkfm__30066">Hößlin und Falk </rs>angezeiget und
+               <lb facs="#facs_4_r1l9" n="N009"/>kund gemacht, daß das unter der Raggion <rs type="person" ref="#wkfm__8148">Rad und Hößlin</rs> gelofene nego-
+               <lb facs="#facs_4_r1l10" n="N010"/>tium mit Ende 736 sich geendiget, der <rs type="person" ref="#wkfm__46521">Hößlin</rs> und <rs type="person" ref="#wkfm__23197">Falkh</rs> aber alle Rad und
                <lb facs="#facs_4_r1l11" n="N011"/>Hößlin: activa und passiva auf sich genohmen und entschlossen haben, dieses negotium
-               <lb facs="#facs_4_r1l12" n="N012"/>unter der Raggion <rs type="person" ref="wkfm__30066">Hößlin und Falkh</rs> mit bederseithigen <choice><expan/><abbr>intee:</abbr></choice> und obligo zu prose-
+               <lb facs="#facs_4_r1l12" n="N012"/>unter der Raggion <rs type="person" ref="#wkfm__30066">Hößlin und Falkh</rs> mit bederseithigen <choice><expan/><abbr>intee:</abbr></choice> und obligo zu prose-
                <lb facs="#facs_4_r1l13" n="N013"/>quiren.
                <lb facs="#facs_4_r1l14" n="N014"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_4_r1l15" n="N015"/>Anmerckungen

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -83,24 +83,24 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_135" n="135" xml:id="img_0135"/>
+            <pb facs="#facs_135" n="135" xml:id="img_0135" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0455.jpg"/>
             
             <ab facs="#facs_135_r1">
                <lb facs="#facs_135_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_135_r1l2" n="N003"/><rs type="person" ref="wkfm__42662">Kurtz Franz Ignaz</rs> burgerlicher Handlsmann
+               <lb facs="#facs_135_r1l2" n="N003"/><rs type="person" ref="#wkfm__42662">Kurtz Franz Ignaz</rs> burgerlicher Handlsmann
                <lb facs="#facs_135_r1l3" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_135_r1l4" n="N005"/><rs type="person" ref="wkfm__47256">Franz Ignatj Kurtz</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 223
+               <lb facs="#facs_135_r1l4" n="N005"/><rs type="person" ref="#wkfm__47256">Franz Ignatj Kurtz</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 223
                <lb facs="#facs_135_r1l5" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_135_r1l6" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_135_r1l8" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_135_line_1621960956852_2282" n="N009"/>Der <rs type="person" ref="wkfm__42662">Kurz</rs> hat seinen Fundum mitls der <choice><expan/><abbr>orig:</abbr></choice> Specification sine dato
+               <lb facs="#facs_135_line_1621960956852_2282" n="N009"/>Der <rs type="person" ref="#wkfm__42662">Kurz</rs> hat seinen Fundum mitls der <choice><expan/><abbr>orig:</abbr></choice> Specification sine dato
                <lb facs="#facs_135_r1l10" n="N010"/>N<hi style="superscript">o</hi> 1299 ausgewisen in welchen selber als Eigenthumlich ansezet
                <lb facs="#facs_135_line_1621960964135_2290" n="N011"/>Eine Ehrenhafter: obligation <choice><expan/><abbr>pr</abbr></choice> 1000 fl
                <lb facs="#facs_135_line_1621960977285_2299" n="N012"/>Wagnerischen Wechselbrief <choice><expan/><abbr>pr</abbr></choice> 1500 fl
                <lb facs="#facs_135_line_1621960982687_2306" n="N013"/>det: Kofler: <choice><expan/><abbr>pr</abbr></choice> 400 fl
                <lb facs="#facs_135_line_1621960990257_2313" n="N014"/><unclear>Curische</unclear> obligation <choice><expan/><abbr>pr</abbr></choice> 200 fl
                <lb facs="#facs_135_line_1621960995835_2318" n="N015"/>zusamen Eigenthum 3100 fl
-               <lb facs="#facs_135_r1l21" n="N016"/>zu Completirung des übrigen hat der <rs type="person" ref="wkfm__8109">Johann Michäl Niller</rs>
+               <lb facs="#facs_135_r1l21" n="N016"/>zu Completirung des übrigen hat der <rs type="person" ref="#wkfm__8109">Johann Michäl Niller</rs>
                <lb facs="#facs_135_r1l22" n="N017"/>das <choice><expan/><abbr>orig:</abbr></choice> Cautions Instrument dd<hi style="superscript">to</hi> 7<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 748 N<hi style="superscript">o</hi> 1300
                <lb facs="#facs_135_line_1621961003946_2325" n="N018"/>eingeleget <choice><expan/><abbr>pr</abbr></choice> 5000 fl
                <lb facs="#facs_135_line_1621961017014_2338" n="N019"/><choice><expan>Summa</expan><abbr>Sa</abbr></choice> 8000 fl

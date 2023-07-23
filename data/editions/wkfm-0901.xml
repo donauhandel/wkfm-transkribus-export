@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -84,24 +84,24 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_89" n="89" xml:id="img_0089"/>
+            <pb facs="#facs_89" n="89" xml:id="img_0089" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0901.jpg"/>
             
             <ab facs="#facs_89_r1">
                <lb facs="#facs_89_r1l2" n="N001"/>448
                <lb facs="#facs_89_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_89_r1l3" n="N003"/><rs type="person" ref="wkfm__46375">Gerardi Dominicus</rs> burgerlicher Handlsmann
+               <lb facs="#facs_89_r1l3" n="N003"/><rs type="person" ref="#wkfm__46375">Gerardi Dominicus</rs> burgerlicher Handlsmann
                <lb facs="#facs_89_r1l4" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_89_r1l5" n="N005"/><rs type="person" ref="wkfm__46376">Dominicus Gerardi</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 422 welche selber
+               <lb facs="#facs_89_r1l5" n="N005"/><rs type="person" ref="#wkfm__46376">Dominicus Gerardi</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 422 welche selber
                <lb facs="#facs_89_r1l6" n="N006"/>mitls Anbringen de ps: 22<hi style="superscript">ten</hi> Junii 754 N<hi style="superscript">o</hi> 423 eingeleget
                <lb facs="#facs_89_r1l7" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_89_r1l8" n="N008"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_89_r1l9" n="N009"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_89_r1l10" n="N010"/>Der <rs type="person" ref="wkfm__46375">Gerardi</rs> hat zu ausweisung seines Fundi die specification N<hi style="superscript">o</hi>
+               <lb facs="#facs_89_r1l10" n="N010"/>Der <rs type="person" ref="#wkfm__46375">Gerardi</rs> hat zu ausweisung seines Fundi die specification N<hi style="superscript">o</hi>
                <lb facs="#facs_89_r1l11" n="N011"/>1484 eingeleget in welcher er als Eigenthum angesezet, die von
-               <lb facs="#facs_89_r1l12" n="N012"/>seiner Mutter <rs type="person" ref="wkfm__46377">Maria Regina</rs> ihm überlassenen Waren <choice><expan/><abbr>pr</abbr></choice> 1308 fl 56 x<hi style="superscript">r</hi>
-               <lb facs="#facs_89_r1l13" n="N013"/>zu Completirung des übrigen hat sowohl dessen Ehewirthin <rs type="person" ref="wkfm__46378">Maria
+               <lb facs="#facs_89_r1l12" n="N012"/>seiner Mutter <rs type="person" ref="#wkfm__46377">Maria Regina</rs> ihm überlassenen Waren <choice><expan/><abbr>pr</abbr></choice> 1308 fl 56 x<hi style="superscript">r</hi>
+               <lb facs="#facs_89_r1l13" n="N013"/>zu Completirung des übrigen hat sowohl dessen Ehewirthin <rs type="person" ref="#wkfm__46378">Maria
                <lb break="no" facs="#facs_89_r1l14" n="N014"/>Anna</rs> das <choice><expan/><abbr>orig:</abbr></choice> certiorirte Cautions Instrument dd<hi style="superscript">to</hi> 13<hi style="superscript">ten</hi> Julii
-               <lb facs="#facs_89_r1l15" n="N015"/>751 N<hi style="superscript">o</hi> 1486 als auch der <rs type="person" ref="wkfm__46379">Johann Michäl Eisler</rs> das <choice><expan/><abbr>orig:</abbr></choice>
+               <lb facs="#facs_89_r1l15" n="N015"/>751 N<hi style="superscript">o</hi> 1486 als auch der <rs type="person" ref="#wkfm__46379">Johann Michäl Eisler</rs> das <choice><expan/><abbr>orig:</abbr></choice>
                <lb facs="#facs_89_r1l16" n="N016"/>Cautions Instrument dd<hi style="superscript">to</hi> 13<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> d. a. N<hi style="superscript">o</hi> 1485 eingeleget
                <lb facs="#facs_89_r1l17" n="N017"/>jeder <choice><expan/><abbr>pr</abbr></choice> 2691 fl 4 x<hi style="superscript">r</hi>
                <lb facs="#facs_89_r1l20" n="N018"/><choice><expan/><abbr>Sa</abbr></choice> 4000 fl

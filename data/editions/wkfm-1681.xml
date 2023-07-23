@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -86,29 +86,29 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_223" n="223" xml:id="img_0223"/>
+            <pb facs="#facs_223" n="223" xml:id="img_0223" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1681.jpg"/>
             
             <ab facs="#facs_223_r1">
                <lb facs="#facs_223_line_1626699943549_1664" n="N001"/>833
                <lb facs="#facs_223_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_223_r1l3" n="N003"/><rs type="person" ref="wkfm__47593">Sotscheckh Franz Carl</rs> burgerlicher Handlsmann
+               <lb facs="#facs_223_r1l3" n="N003"/><rs type="person" ref="#wkfm__47593">Sotscheckh Franz Carl</rs> burgerlicher Handlsmann
                <lb facs="#facs_223_r1l4" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_223_r1l5" n="N005"/><rs type="person" ref="wkfm__47594">Franz Carl Sotscheckh</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 776 welche derselbe
+               <lb facs="#facs_223_r1l5" n="N005"/><rs type="person" ref="#wkfm__47594">Franz Carl Sotscheckh</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 776 welche derselbe
                <lb facs="#facs_223_r1l6" n="N006"/>mitls Anbringen de ps: 11<hi style="superscript">ten</hi> Julii 754 N<hi style="superscript">o</hi> 777 eingelegt
-               <lb facs="#facs_223_r1l7" n="N007"/>Den 29<hi style="superscript">ten</hi> Marty 76<unclear>5</unclear> hat der <rs type="person" ref="wkfm__47593">Franz Carl Sotscheck</rs> seine firma eingelegt: <choice><expan/><abbr>nro:</abbr></choice> 777 1/2
+               <lb facs="#facs_223_r1l7" n="N007"/>Den 29<hi style="superscript">ten</hi> Marty 76<unclear>5</unclear> hat der <rs type="person" ref="#wkfm__47593">Franz Carl Sotscheck</rs> seine firma eingelegt: <choice><expan/><abbr>nro:</abbr></choice> 777 1/2
                <lb facs="#facs_223_r1l8" n="N008"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_223_r1l9" n="N009"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_223_r1l11" n="N010"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_223_r1l12" n="N011"/>Der <rs type="person" ref="wkfm__47593">Sotschekh</rs> hat seinen Fundum mitls der Specification N<hi style="superscript">o</hi> 1758 folgen-
-               <lb facs="#facs_223_r1l13" n="N012"/>der maßen ausgewisen, nemlich das er Vermög attestati von <rs type="person" ref="wkfm__42662">Franz Ig-
+               <lb facs="#facs_223_r1l12" n="N011"/>Der <rs type="person" ref="#wkfm__47593">Sotschekh</rs> hat seinen Fundum mitls der Specification N<hi style="superscript">o</hi> 1758 folgen-
+               <lb facs="#facs_223_r1l13" n="N012"/>der maßen ausgewisen, nemlich das er Vermög attestati von <rs type="person" ref="#wkfm__42662">Franz Ig-
                <lb break="no" facs="#facs_223_r1l15" n="N013"/>naz Kurtz</rs> dd<hi style="superscript">to</hi> 12<hi style="superscript">ten</hi> May 753 N<hi style="superscript">o</hi> 1759 in <choice><expan/><abbr>orig:</abbr></choice> <hi>be</hi> eigenthumlich besize 2700 fl
-               <lb facs="#facs_223_r1l16" n="N014"/>zu Completirung des übrigen hat der <rs type="person" ref="wkfm__42662">Franz Ignaz Kurtz</rs> das <choice><expan/><abbr>orig:</abbr></choice> Caut:
+               <lb facs="#facs_223_r1l16" n="N014"/>zu Completirung des übrigen hat der <rs type="person" ref="#wkfm__42662">Franz Ignaz Kurtz</rs> das <choice><expan/><abbr>orig:</abbr></choice> Caut:
                <lb facs="#facs_223_r1l17" n="N015"/>Instrument dd<hi style="superscript">to</hi> 12<hi style="superscript">ten</hi> May 753 N<hi style="superscript">o</hi> 1760 eingelegt <choice><expan/><abbr>pr</abbr></choice> 5300 fl
                <lb facs="#facs_223_r1l19" n="N016"/><choice><expan/><abbr>Sa</abbr></choice> 8000 fl
                <lb facs="#facs_223_r1l20" n="N017"/>Vermög dem it abschrifftlichen Cautions Instrument A errichteter Billanz B worinnen
                <lb facs="#facs_223_r1l21" n="N018"/>ein Eigenthumlicher Handlungs fundus <choice><expan/><abbr>pr</abbr></choice> 15664 fl 12 x<hi style="superscript">r</hi> sich zeiget und Handelstands Ver-
-               <lb facs="#facs_223_r1l22" n="N019"/>willigung C instruirten Anbringen de ps: 27<hi style="superscript">ten</hi> Aprilis 760 hat der <rs type="person" ref="wkfm__47593">Franz Carl
-               <lb break="no" facs="#facs_223_r1l23" n="N020"/>Sotscheck</rs> um Restituirung des von <rs type="person" ref="wkfm__42662">Franz Ignatz Kurz</rs> <choice><expan/><abbr>pr</abbr></choice> 5300 fl von ihn <rs type="person" ref="wkfm__47593">Sotscheck</rs> ein-
+               <lb facs="#facs_223_r1l22" n="N019"/>willigung C instruirten Anbringen de ps: 27<hi style="superscript">ten</hi> Aprilis 760 hat der <rs type="person" ref="#wkfm__47593">Franz Carl
+               <lb break="no" facs="#facs_223_r1l23" n="N020"/>Sotscheck</rs> um Restituirung des von <rs type="person" ref="#wkfm__42662">Franz Ignatz Kurz</rs> <choice><expan/><abbr>pr</abbr></choice> 5300 fl von ihn <rs type="person" ref="#wkfm__47593">Sotscheck</rs> ein-
                <lb facs="#facs_223_r1l24" n="N021"/>gelegten Cautions Instrument gebetten <choice><expan/><abbr>nro:</abbr></choice> 1760 so ihme auch erfolget worden
                <lb facs="#facs_223_r1l25" n="N022"/>gegen recipisse; dicto <choice><expan/><abbr>nro:</abbr></choice> 1760.
             </ab>

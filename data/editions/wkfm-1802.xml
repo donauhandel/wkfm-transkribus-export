@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -73,12 +73,12 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_96" n="96" xml:id="img_0096"/>
+            <pb facs="#facs_96" n="96" xml:id="img_0096" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1802.jpg"/>
             
             <ab facs="#facs_96_r1">
                <lb facs="#facs_96_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_96_r1l2" n="N002"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
-               <lb facs="#facs_96_r1l3" n="N003"/><choice><expan/><abbr>Ao</abbr></choice> 764 hat der <rs type="person" ref="wkfm__47022">Lorenz Wöber</rs> seinen mit der <rs type="person" ref="wkfm__47024">Maria Caecilia
+               <lb facs="#facs_96_r1l3" n="N003"/><choice><expan/><abbr>Ao</abbr></choice> 764 hat der <rs type="person" ref="#wkfm__47022">Lorenz Wöber</rs> seinen mit der <rs type="person" ref="#wkfm__47024">Maria Caecilia
                <lb break="no" facs="#facs_96_r1l4" n="N004"/>Pertoldin</rs> untern 20<hi style="superscript">ten</hi> Julij 741 errichteten Heuraths Contract
                <lb facs="#facs_96_r1l5" n="N005"/>eingelegt, worinnen Heurath Guth 400 Widerlag 800 fl
                <lb facs="#facs_96_r1l6" n="N006"/>und das erwerbend- und ererbende Vermögen ein

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -77,13 +77,13 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_202" n="202" xml:id="img_0202"/>
+            <pb facs="#facs_202" n="202" xml:id="img_0202" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1660.jpg"/>
             
             <ab facs="#facs_202_r1">
                <lb facs="#facs_202_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_202_r1l2" n="N002"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
-               <lb facs="#facs_202_r1l3" n="N003"/>Der <rs type="person" ref="wkfm__47565">Schnirer</rs> hat Mitls Anbringen de ps: 29<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 745 N<hi style="superscript">o</hi> 2245 mit der 
-               <lb facs="#facs_202_r1l5" n="N004"/><rs type="person" ref="wkfm__47567">Anna Victoria Riedin</rs> untern 6<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 748 errichteten heurathscontract N<hi style="superscript">o</hi>
+               <lb facs="#facs_202_r1l3" n="N003"/>Der <rs type="person" ref="#wkfm__47565">Schnirer</rs> hat Mitls Anbringen de ps: 29<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 745 N<hi style="superscript">o</hi> 2245 mit der 
+               <lb facs="#facs_202_r1l5" n="N004"/><rs type="person" ref="#wkfm__47567">Anna Victoria Riedin</rs> untern 6<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 748 errichteten heurathscontract N<hi style="superscript">o</hi>
                <lb facs="#facs_202_r1l7" n="N005"/>2244 in Copia vidimata eingeleget kraft welchen 300 fl Heurathsgutt und
                <lb facs="#facs_202_r1l10" n="N006"/>600 fl Widerlag auf Überleben, wie auch das <hi>künftig</hi> <unclear>gegenwärtig ansizend</unclear> und künftig
                <lb facs="#facs_202_r1l11" n="N007"/>ererbende und erwörbende <gap/> dergestalten als ein gleiches gutt pactirt
@@ -92,7 +92,7 @@
                <lb facs="#facs_202_r1l14" n="N010"/>das ganze Vermögen zufallen solle.
                <lb facs="#facs_202_r1l15" n="N011"/>Anmerckungen
                <lb facs="#facs_202_r1l17" n="N012"/>Untern 9<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> hat der Handlstandt den Todtfall des
-               <lb facs="#facs_202_r1l18" n="N013"/><rs type="person" ref="wkfm__47565">Franz Schnirer</rs> angezeiget
+               <lb facs="#facs_202_r1l18" n="N013"/><rs type="person" ref="#wkfm__47565">Franz Schnirer</rs> angezeiget
             </ab>
             
         </div>

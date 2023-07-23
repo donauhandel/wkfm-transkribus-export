@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -78,22 +78,22 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_165" n="165" xml:id="img_0165"/>
+            <pb facs="#facs_165" n="165" xml:id="img_0165" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1623.jpg"/>
             
             <ab facs="#facs_165_r3">
                <lb facs="#facs_165_line_1626262850142_2076" n="N001"/>136
                <lb facs="#facs_165_line_1626262868766_2089" n="N002"/><hi>786</hi>
                <lb facs="#facs_165_line_1626262875766_2093" n="N003"/>804
                <lb facs="#facs_165_r3l1" n="N004"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_165_r3l2" n="N005"/><rs type="person" ref="wkfm__47519">Schönthann Johann Gottlieb</rs> burgerlicher Handlsmann
+               <lb facs="#facs_165_r3l2" n="N005"/><rs type="person" ref="#wkfm__47519">Schönthann Johann Gottlieb</rs> burgerlicher Handlsmann
                <lb facs="#facs_165_r3l3" n="N006"/>Firma ad Raggion
-               <lb facs="#facs_165_r3l4" n="N007"/><rs type="person" ref="wkfm__47520">Johann Gottlieb Schönthann</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 740
+               <lb facs="#facs_165_r3l4" n="N007"/><rs type="person" ref="#wkfm__47520">Johann Gottlieb Schönthann</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 740
                <lb facs="#facs_165_r3l5" n="N008"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_165_r3l6" n="N009"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_165_r3l7" n="N010"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_165_r3l8" n="N011"/>Der <rs type="person" ref="wkfm__47519">Schönthann</rs> hat zu Ausweisung seines Fundi ein von denen <rs type="person" ref="wkfm__8105">Philipp Gundian
+               <lb facs="#facs_165_r3l8" n="N011"/>Der <rs type="person" ref="#wkfm__47519">Schönthann</rs> hat zu Ausweisung seines Fundi ein von denen <rs type="person" ref="#wkfm__8105">Philipp Gundian
                <lb break="no" facs="#facs_165_r3l9" n="N012"/><choice><expan/><abbr>seel:</abbr></choice> Erben</rs> untern 9<hi style="superscript">ten</hi> Julii 736 dahin ausgesteltes <choice><expan/><abbr>orig:</abbr></choice> Instrument N<hi style="superscript">o</hi> 1710
-               <lb facs="#facs_165_r3l10" n="N013"/>eingeleget, daß er <rs type="person" ref="wkfm__47519">Schönthann</rs> in ihrer Societaets-Handlung den 7<hi style="superscript">ten</hi>
+               <lb facs="#facs_165_r3l10" n="N013"/>eingeleget, daß er <rs type="person" ref="#wkfm__47519">Schönthann</rs> in ihrer Societaets-Handlung den 7<hi style="superscript">ten</hi>
                <lb facs="#facs_165_r3l11" n="N014"/>Antheil cum onere et commodo besize
             </ab>
             

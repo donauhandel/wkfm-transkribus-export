@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -79,22 +79,22 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_7" n="7" xml:id="img_0007"/>
+            <pb facs="#facs_7" n="7" xml:id="img_0007" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1861.jpg"/>
             
             <ab facs="#facs_7_r1">
                <lb facs="#facs_7_r1l2" n="N001"/>923
                <lb facs="#facs_7_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_7_r1l3" n="N003"/><rs type="person" ref="wkfm__11130">Hirschl Marx</rs> Jud
+               <lb facs="#facs_7_r1l3" n="N003"/><rs type="person" ref="#wkfm__11130">Hirschl Marx</rs> Jud
                <lb facs="#facs_7_r1l4" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_7_r1l5" n="N005"/><rs type="person" ref="wkfm__43820">Lazarus Hierschl Erben </rs>dann in particulari
-               <lb facs="#facs_7_r1l6" n="N006"/><rs type="person" ref="wkfm__46616">Marx Hirschl </rs>beedes laut Anbringen de ps: 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 1960
+               <lb facs="#facs_7_r1l5" n="N005"/><rs type="person" ref="#wkfm__43820">Lazarus Hierschl Erben </rs>dann in particulari
+               <lb facs="#facs_7_r1l6" n="N006"/><rs type="person" ref="#wkfm__46616">Marx Hirschl </rs>beedes laut Anbringen de ps: 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 1960
                <lb facs="#facs_7_r1l7" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
-               <lb facs="#facs_7_r1l8" n="N008"/>Mitls Anbringen de ps: 23<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 734 N<hi style="superscript">o</hi> 993 hat der <rs type="person" ref="wkfm__43821">Simon Veytl Maär </rs>Jud
-               <lb facs="#facs_7_line_1630416612791_639" n="N009"/>die ihm von dem <rs type="person" ref="wkfm__11130">Marx Hirschl</rs> auf seine eigne Raggion <rs type="person" ref="wkfm__11130">Marx Hirschl</rs> ertheilte
+               <lb facs="#facs_7_r1l8" n="N008"/>Mitls Anbringen de ps: 23<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 734 N<hi style="superscript">o</hi> 993 hat der <rs type="person" ref="#wkfm__43821">Simon Veytl Maär </rs>Jud
+               <lb facs="#facs_7_line_1630416612791_639" n="N009"/>die ihm von dem <rs type="person" ref="#wkfm__11130">Marx Hirschl</rs> auf seine eigne Raggion <rs type="person" ref="#wkfm__11130">Marx Hirschl</rs> ertheilte
                <lb facs="#facs_7_line_1630416669724_653" n="N010"/><choice><expan/><abbr>orig.</abbr></choice> Procura dd<hi style="superscript">to</hi> 18<hi style="superscript">ten</hi> Junii 734 N<hi style="superscript">o</hi> 992 eingeleget
                <lb facs="#facs_7_r1l15" n="N011"/>In obigen Anbringen de ps: 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 1960 ist die Firma oder Raggion
-               <lb facs="#facs_7_r1l16" n="N012"/><rs type="person" ref="wkfm__43820">Lazarus Hirschels Erben</rs> von zweyen Brüdern und Sociis <rs type="person" ref="wkfm__11130">Marx Hirschl</rs>
-               <lb facs="#facs_7_r1l17" n="N013"/>und <rs type="person" ref="wkfm__43822">Mayer Hirschl</rs> eingeleget worden.
+               <lb facs="#facs_7_r1l16" n="N012"/><rs type="person" ref="#wkfm__43820">Lazarus Hirschels Erben</rs> von zweyen Brüdern und Sociis <rs type="person" ref="#wkfm__11130">Marx Hirschl</rs>
+               <lb facs="#facs_7_r1l17" n="N013"/>und <rs type="person" ref="#wkfm__43822">Mayer Hirschl</rs> eingeleget worden.
                <lb facs="#facs_7_r1l18" n="N014"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_7_r1l19" n="N015"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
             </ab>

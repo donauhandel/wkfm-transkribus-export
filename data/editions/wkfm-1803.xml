@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -90,34 +90,34 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_97" n="97" xml:id="img_0097"/>
+            <pb facs="#facs_97" n="97" xml:id="img_0097" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1803.jpg"/>
             
             <ab facs="#facs_97_r1">
                <lb facs="#facs_97_r1l2" n="N001"/>894
                <lb facs="#facs_97_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_97_r1l3" n="N003"/><rs type="person" ref="wkfm__43919">Waizmann Franz Anton</rs> burgerlicher Handlsmann
+               <lb facs="#facs_97_r1l3" n="N003"/><rs type="person" ref="#wkfm__43919">Waizmann Franz Anton</rs> burgerlicher Handlsmann
                <lb facs="#facs_97_r1l4" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_97_r1l5" n="N005"/><hi><rs type="person" ref="wkfm__43919">FranzAntonWaizmann</rs> laut Erklährung dd<hi style="superscript"/></hi>to
-               <lb facs="#facs_97_r1l6" n="N006"/><rs type="person" ref="wkfm__46528">Huetter und Waizmann</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 475
-               <lb facs="#facs_97_r1l7" n="N007"/><rs type="person" ref="wkfm__47025">Frantz Anton Waizmann</rs> laut Erklährung dd<hi style="superscript">to</hi> 6<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 744 N<hi style="superscript">o</hi> 830
+               <lb facs="#facs_97_r1l5" n="N005"/><hi><rs type="person" ref="#wkfm__43919">FranzAntonWaizmann</rs> laut Erklährung dd<hi style="superscript"/></hi>to
+               <lb facs="#facs_97_r1l6" n="N006"/><rs type="person" ref="#wkfm__46528">Huetter und Waizmann</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 475
+               <lb facs="#facs_97_r1l7" n="N007"/><rs type="person" ref="#wkfm__47025">Frantz Anton Waizmann</rs> laut Erklährung dd<hi style="superscript">to</hi> 6<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 744 N<hi style="superscript">o</hi> 830
                <lb facs="#facs_97_r1l8" n="N008"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
-               <lb facs="#facs_97_r1l9" n="N009"/>In obiger Erklährung sine dato N<hi style="superscript">o</hi> 754 ist die Firma der Raggion <rs type="person" ref="wkfm__46528">Huetter und Waiz-
-               <lb break="no" facs="#facs_97_r1l10" n="N010"/>mann</rs> von beeden sociis <rs type="person" ref="wkfm__46527">Johann Huetter</rs> und <rs type="person" ref="wkfm__43919">Franz Anton Waizmann</rs> eingeleget worden
+               <lb facs="#facs_97_r1l9" n="N009"/>In obiger Erklährung sine dato N<hi style="superscript">o</hi> 754 ist die Firma der Raggion <rs type="person" ref="#wkfm__46528">Huetter und Waiz-
+               <lb break="no" facs="#facs_97_r1l10" n="N010"/>mann</rs> von beeden sociis <rs type="person" ref="#wkfm__46527">Johann Huetter</rs> und <rs type="person" ref="#wkfm__43919">Franz Anton Waizmann</rs> eingeleget worden
                <lb facs="#facs_97_r1l11" n="N011"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_97_r1l12" n="N012"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_97_r1l13" n="N013"/>Der <rs type="person" ref="wkfm__43919">Waizmann</rs> hat nebst dem <rs type="person" ref="wkfm__46527">Johann Huetter</rs> seinem socio zu Ausweisung ihrer
-               <lb facs="#facs_97_r1l14" n="N014"/>beeden Handlungs Fundi ein dem <rs type="person" ref="wkfm__9735">Johann Anton Stapff</rs> untern 8<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 740 dahin 
+               <lb facs="#facs_97_r1l13" n="N013"/>Der <rs type="person" ref="#wkfm__43919">Waizmann</rs> hat nebst dem <rs type="person" ref="#wkfm__46527">Johann Huetter</rs> seinem socio zu Ausweisung ihrer
+               <lb facs="#facs_97_r1l14" n="N014"/>beeden Handlungs Fundi ein dem <rs type="person" ref="#wkfm__9735">Johann Anton Stapff</rs> untern 8<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 740 dahin 
                <lb facs="#facs_97_r1l15" n="N015"/>ausgesteltes respectivé attestatum und cautions Instrument N<hi style="superscript">o</hi> 1517 in <choice><expan/><abbr>orig:</abbr></choice> eingeleget
-               <lb facs="#facs_97_r1l16" n="N016"/>das sie beede die angebentliche 4000 fl eigenthumlich besizen, anbey er <rs type="person" ref="wkfm__9735">Stapf</rs> für den
+               <lb facs="#facs_97_r1l16" n="N016"/>das sie beede die angebentliche 4000 fl eigenthumlich besizen, anbey er <rs type="person" ref="#wkfm__9735">Stapf</rs> für den
                <lb facs="#facs_97_r1l17" n="N017"/>uberreste des patentmäßigen fundi Gutt stehe und <unclear>covire.</unclear>
-               <lb facs="#facs_97_r1l18" n="N018"/>Nachdem aber von dem <rs type="person" ref="wkfm__46527">Johann Huetter</rs> erfolgten Separation aber mitls der
+               <lb facs="#facs_97_r1l18" n="N018"/>Nachdem aber von dem <rs type="person" ref="#wkfm__46527">Johann Huetter</rs> erfolgten Separation aber mitls der
                <lb facs="#facs_97_r1l19" n="N019"/>Specification N<hi style="superscript">o</hi> 1806 folgendermaßen nemlich das er eigenthumlich besize
                <lb facs="#facs_97_r1l21" n="N020"/>an eigenem Capital 2000 fl
                <lb facs="#facs_97_r1l24" n="N021"/>an <unclear>avanzo</unclear> 3938 fl 11 1/2 x<hi style="superscript">r</hi>
                <lb facs="#facs_97_r1l27" n="N022"/>an einer Markhütten 700 fl
                <lb facs="#facs_97_r1l28" n="N023"/>zusamen Eigenthum 6638 fl 11 1/2 x<hi style="superscript">r</hi>
                <lb facs="#facs_97_r1l29" n="N024"/>zu Completirung des übrigen hat sich selber auf obiges von dem
-               <lb facs="#facs_97_r1l30" n="N025"/><rs type="person" ref="wkfm__9735">Stapf</rs> eingelegtes Cautions Instrument beworfen und hievon <unclear>gesezet</unclear> 1361 fl 48 1/2
+               <lb facs="#facs_97_r1l30" n="N025"/><rs type="person" ref="#wkfm__9735">Stapf</rs> eingelegtes Cautions Instrument beworfen und hievon <unclear>gesezet</unclear> 1361 fl 48 1/2
                <lb facs="#facs_97_r1l31" n="N026"/><choice><expan/><abbr>Sa</abbr></choice> 8000 fl
             </ab>
             

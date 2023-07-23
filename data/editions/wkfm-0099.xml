@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -72,14 +72,14 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_46" n="46" xml:id="img_0046"/>
+            <pb facs="#facs_46" n="46" xml:id="img_0046" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0099.jpg"/>
             
             <ab facs="#facs_46_r1">
-               <lb facs="#facs_46_r1l1" n="N001"/>Societats Contract und Interessenten
-               <lb facs="#facs_46_r1l2" n="N002"/>In obiger Erkährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>April:</abbr></choice> 725 N<hi style="superscript">o</hi> 41 hat sich der <rs type="person" ref="wkfm__8923">Bogner</rs>
+               <lb facs="#facs_46_r1l1" n="N001"/><seg type="orighead__contract">Societats Contract und Interessenten</seg>
+               <lb facs="#facs_46_r1l2" n="N002"/>In obiger Erkährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>April:</abbr></choice> 725 N<hi style="superscript">o</hi> 41 hat sich der <rs type="person" ref="#wkfm__8923">Bogner</rs>
                <lb facs="#facs_46_r1l3" n="N003"/>geäusseret daß er sein Negotium ohne einigen Compagnon führe
-               <lb facs="#facs_46_r1l4" n="N004"/>In obige Erklährung dd<hi style="superscript">to</hi> 10<hi style="superscript">ten</hi> Junii 728 N<hi style="superscript">o</hi> 1850 hat sich <rs type="person" ref="wkfm__8923">Lorenz Bogner</rs>
-               <lb facs="#facs_46_r1l5" n="N005"/>und dessen Schwiegersohn <rs type="person" ref="wkfm__43844">Rollet</rs> erklähret, das sie zusamen in Compagnie
+               <lb facs="#facs_46_r1l4" n="N004"/>In obige Erklährung dd<hi style="superscript">to</hi> 10<hi style="superscript">ten</hi> Junii 728 N<hi style="superscript">o</hi> 1850 hat sich <rs type="person" ref="#wkfm__8923">Lorenz Bogner</rs>
+               <lb facs="#facs_46_r1l5" n="N005"/>und dessen Schwiegersohn <rs type="person" ref="#wkfm__43844">Rollet</rs> erklähret, das sie zusamen in Compagnie
                <lb facs="#facs_46_r1l6" n="N006"/>getretten seyn
                <lb facs="#facs_46_r1l7" n="N007"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_46_r1l8" n="N008"/><seg type="orighead__other_notes"><seg type="orighead__other_notes">Anmerkungen</seg></seg>

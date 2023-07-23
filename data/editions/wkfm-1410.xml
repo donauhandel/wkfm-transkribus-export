@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -72,14 +72,14 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_58" n="58" xml:id="img_0058"/>
+            <pb facs="#facs_58" n="58" xml:id="img_0058" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1410.jpg"/>
             
             <ab facs="#facs_58_r1">
                <lb facs="#facs_58_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_58_r1l2" n="N002"/>In obigen Anbrinngen de ps: 1<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 731 N<hi style="superscript">o</hi> 636 und oblatorien dd<hi style="superscript">to</hi>
-               <lb facs="#facs_58_r1l3" n="N003"/>3<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> d. a. N<hi style="superscript">o</hi> 1134 hat der <rs type="person" ref="wkfm__16702">Rosina</rs> respective angezeiget und kund
-               <lb facs="#facs_58_r1l4" n="N004"/>gemacht, daß er sein negotium mit eigenen und ihm von <rs type="person" ref="wkfm__11161">Johann
-               <lb break="no" facs="#facs_58_r1l5" n="N005"/>Baptista</rs> und <rs type="person" ref="wkfm__9824">Johann Peter Bolza</rs> vorgestrekten capitalien
+               <lb facs="#facs_58_r1l3" n="N003"/>3<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> d. a. N<hi style="superscript">o</hi> 1134 hat der <rs type="person" ref="#wkfm__16702">Rosina</rs> respective angezeiget und kund
+               <lb facs="#facs_58_r1l4" n="N004"/>gemacht, daß er sein negotium mit eigenen und ihm von <rs type="person" ref="#wkfm__11161">Johann
+               <lb break="no" facs="#facs_58_r1l5" n="N005"/>Baptista</rs> und <rs type="person" ref="#wkfm__9824">Johann Peter Bolza</rs> vorgestrekten capitalien
                <lb facs="#facs_58_r1l6" n="N006"/>errichtet habe
                <lb facs="#facs_58_r1l7" n="N007"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_58_r1l8" n="N008"/>Anmerckungen

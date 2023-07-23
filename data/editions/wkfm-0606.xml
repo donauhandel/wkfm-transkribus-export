@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -69,14 +69,14 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_106" n="106" xml:id="img_0106"/>
+            <pb facs="#facs_106" n="106" xml:id="img_0106" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0606.jpg"/>
             
             <ab facs="#facs_106_r1">
                <lb facs="#facs_106_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_106_r1l2" n="N002"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_106_r1l3" n="N003"/>Anmerckungen
                <lb facs="#facs_106_r1l4" n="N004"/>Untern 29<hi style="superscript">ten</hi> März 770 hat der Handlstandt des erfolgten
-               <lb facs="#facs_106_r1l5" n="N005"/>Todtfall des <rs type="person" ref="wkfm__46288">Adam Traunwieser</rs> angezeiget
+               <lb facs="#facs_106_r1l5" n="N005"/>Todtfall des <rs type="person" ref="#wkfm__46288">Adam Traunwieser</rs> angezeiget
             </ab>
             
         </div>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -79,22 +79,22 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_79" n="79" xml:id="img_0079"/>
+            <pb facs="#facs_79" n="79" xml:id="img_0079" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0891.jpg"/>
             
             <ab facs="#facs_79_r1">
                <lb facs="#facs_79_r1l2" n="N001"/>443
                <lb facs="#facs_79_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_79_r1l3" n="N003"/><rs type="person" ref="wkfm__46359">Gumpinger Anton Jacob</rs> burgerlicher Handlsmann
+               <lb facs="#facs_79_r1l3" n="N003"/><rs type="person" ref="#wkfm__46359">Gumpinger Anton Jacob</rs> burgerlicher Handlsmann
                <lb facs="#facs_79_r1l4" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_79_r1l5" n="N005"/><rs type="person" ref="wkfm__46360">Antoni Jacob Gumpinger</rs> laut Erklährung dd<hi style="superscript">to</hi> 22<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 742 N<hi style="superscript">o</hi> 416
+               <lb facs="#facs_79_r1l5" n="N005"/><rs type="person" ref="#wkfm__46360">Antoni Jacob Gumpinger</rs> laut Erklährung dd<hi style="superscript">to</hi> 22<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 742 N<hi style="superscript">o</hi> 416
                <lb facs="#facs_79_r1l6" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_79_r1l7" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_79_r1l8" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_79_r1l9" n="N009"/>Der <rs type="person" ref="wkfm__46359">Gumpinger</rs> hat zu Ausweisung seines Fundi die <choice><expan/><abbr>orig:</abbr></choice> Inventur
+               <lb facs="#facs_79_r1l9" n="N009"/>Der <rs type="person" ref="#wkfm__46359">Gumpinger</rs> hat zu Ausweisung seines Fundi die <choice><expan/><abbr>orig:</abbr></choice> Inventur
                <lb facs="#facs_79_r1l10" n="N010"/>dd<hi style="superscript">to</hi> 5<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 742 N<hi style="superscript">o</hi> 1476 eingeleget <choice><expan/><abbr>pr</abbr></choice> 8077 fl 49
-               <lb facs="#facs_79_r1l12" n="N011"/>Dann ein von dem Richter in dem Neuen Lerchenfeld <rs type="person" ref="wkfm__46361">Gott-
+               <lb facs="#facs_79_r1l12" n="N011"/>Dann ein von dem Richter in dem Neuen Lerchenfeld <rs type="person" ref="#wkfm__46361">Gott-
                <lb break="no" facs="#facs_79_r1l13" n="N012"/>fried Thurner</rs> unterm 12<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 742 dahin ausgesteltes <choice><expan/><abbr>orig:</abbr></choice>
-               <lb facs="#facs_79_r1l14" n="N013"/>attestatum N<hi style="superscript">o</hi> 1477 daß er <rs type="person" ref="wkfm__46359">Gumpinger</rs> das in der Inventur
+               <lb facs="#facs_79_r1l14" n="N013"/>attestatum N<hi style="superscript">o</hi> 1477 daß er <rs type="person" ref="#wkfm__46359">Gumpinger</rs> das in der Inventur
                <lb facs="#facs_79_r1l15" n="N014"/><choice><expan/><abbr>pr</abbr></choice> 3000 fl einkommende Haus bey denen vier Schimmeln von
                <lb facs="#facs_79_r1l16" n="N015"/>allen Schulden und Herrschafts forderungen frey besize.
             </ab>

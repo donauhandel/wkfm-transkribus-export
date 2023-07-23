@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -84,20 +84,20 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_87" n="87" xml:id="img_0087"/>
+            <pb facs="#facs_87" n="87" xml:id="img_0087" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0587.jpg"/>
             
             <ab facs="#facs_87_r1">
                <lb facs="#facs_87_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_87_r1l2" n="N003"/><rs type="person" ref="wkfm__46267">Diwaldt Johann Ferdinand</rs> burgerlicher Handlsmann
+               <lb facs="#facs_87_r1l2" n="N003"/><rs type="person" ref="#wkfm__46267">Diwaldt Johann Ferdinand</rs> burgerlicher Handlsmann
                <lb facs="#facs_87_r1l3" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_87_r1l4" n="N005"/><rs type="person" ref="wkfm__46268">Johann Ferdinand Diwaldt</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 281
+               <lb facs="#facs_87_r1l4" n="N005"/><rs type="person" ref="#wkfm__46268">Johann Ferdinand Diwaldt</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 281
                <lb facs="#facs_87_r1l5" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_87_r1l6" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_87_r1l7" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_87_r1l8" n="N009"/>Der <rs type="person" ref="wkfm__46267">Diwaldt</rs> hat zu Ausweisung senies fundi die <choice><expan/><abbr>orig:</abbr></choice> Inventur dd<hi style="superscript">to</hi>
+               <lb facs="#facs_87_r1l8" n="N009"/>Der <rs type="person" ref="#wkfm__46267">Diwaldt</rs> hat zu Ausweisung senies fundi die <choice><expan/><abbr>orig:</abbr></choice> Inventur dd<hi style="superscript">to</hi>
                <lb facs="#facs_87_r1l9" n="N010"/>9<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 738 N<hi style="superscript">o</hi> 1360 eingeleget <choice><expan/><abbr>pr</abbr></choice> 3927 7 x<hi style="superscript">r</hi> wovon ihm die helfte
                <lb facs="#facs_87_line_1621966985270_4970" n="N011"/>gehörig <choice><expan/><abbr>pr</abbr></choice> 1963 fl 35 1/2 x<hi style="superscript">r</hi>
-               <lb facs="#facs_87_r1l12" n="N012"/>Dann hat die <rs type="person" ref="wkfm__46269">Maria Theresia</rs> dessen Ehewirthin den <choice><expan/><abbr>orig:</abbr></choice> certiorirten
+               <lb facs="#facs_87_r1l12" n="N012"/>Dann hat die <rs type="person" ref="#wkfm__46269">Maria Theresia</rs> dessen Ehewirthin den <choice><expan/><abbr>orig:</abbr></choice> certiorirten
                <lb facs="#facs_87_r1l13" n="N013"/>revers dd<hi style="superscript">to</hi> 6<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 738 N<hi style="superscript">o</hi> 1359 dahin eingeleget, daß, zumahl
                <lb facs="#facs_87_r1l14" n="N014"/>ihr und ihres Ehewirthen Vermögen in der Handlung bestehe <hi>und</hi>
                <lb facs="#facs_87_r1l15" n="N015"/>alß wolle sie von der ihr zugehörigen helfte zur Sicherheit

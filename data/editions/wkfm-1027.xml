@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -89,32 +89,32 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_107" n="107" xml:id="img_0107"/>
+            <pb facs="#facs_107" n="107" xml:id="img_0107" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1027.jpg"/>
             
             <ab facs="#facs_107_r1">
                <lb facs="#facs_107_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_107_r1l2" n="N003"/><rs type="person" ref="wkfm__46170">Hammer Franz Joseph</rs> burgerlicher Tuchlaubens Verwanter
+               <lb facs="#facs_107_r1l2" n="N003"/><rs type="person" ref="#wkfm__46170">Hammer Franz Joseph</rs> burgerlicher Tuchlaubens Verwanter
                <lb facs="#facs_107_r1l4" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_107_r1l5" n="N005"/><rs type="person" ref="wkfm__46392">Stephan von Haidern <choice><expan/><abbr>seel:</abbr></choice> Wittib und Hammer</rs> laut societaets Contract dd<hi style="superscript">to</hi> <hi>24<hi style="superscript"/></hi>ten<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice>
+               <lb facs="#facs_107_r1l5" n="N005"/><rs type="person" ref="#wkfm__46392">Stephan von Haidern <choice><expan/><abbr>seel:</abbr></choice> Wittib und Hammer</rs> laut societaets Contract dd<hi style="superscript">to</hi> <hi>24<hi style="superscript"/></hi>ten<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice>
                <lb facs="#facs_107_r1l6" n="N006"/>740 N<hi style="superscript">o</hi> <hi>1972</hi> <unclear>1518</unclear>
-               <lb facs="#facs_107_r1l7" n="N007"/><rs type="person" ref="wkfm__46525">Franz Joseph Hammer</rs> laut Anbringen de ps: 18<hi style="superscript">ten</hi> Julii 743 N<hi style="superscript">o</hi> 476
+               <lb facs="#facs_107_r1l7" n="N007"/><rs type="person" ref="#wkfm__46525">Franz Joseph Hammer</rs> laut Anbringen de ps: 18<hi style="superscript">ten</hi> Julii 743 N<hi style="superscript">o</hi> 476
                <lb facs="#facs_107_r1l8" n="N008"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_107_r1l9" n="N009"/>In obigen societaets contract ddto 27<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> <choice><expan/><abbr><hi>Mart:</hi></abbr></choice> 741 N<hi style="superscript">o</hi> <hi>1972</hi> 1518 ist vorgesehen worden
-               <lb facs="#facs_107_r1l10" n="N010"/>daß die Firma der Raggion <rs type="person" ref="wkfm__46392">Stephan von Haidern <choice><expan/><abbr>seel:</abbr></choice> Wittib und Hammer</rs> von 
-               <lb facs="#facs_107_r1l11" n="N011"/>beeden sociis der <rs type="person" ref="wkfm__46393">Haiderischen Wittib Anna Susanna</rs> und dem <rs type="person" ref="wkfm__46170">Franz Joseph
+               <lb facs="#facs_107_r1l10" n="N010"/>daß die Firma der Raggion <rs type="person" ref="#wkfm__46392">Stephan von Haidern <choice><expan/><abbr>seel:</abbr></choice> Wittib und Hammer</rs> von 
+               <lb facs="#facs_107_r1l11" n="N011"/>beeden sociis der <rs type="person" ref="#wkfm__46393">Haiderischen Wittib Anna Susanna</rs> und dem <rs type="person" ref="#wkfm__46170">Franz Joseph
                <lb break="no" facs="#facs_107_r1l12" n="N012"/>Hammer</rs> geführet werden solle.
                <lb facs="#facs_107_r1l13" n="N013"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_107_r1l14" n="N014"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_107_r1l15" n="N015"/>Der <rs type="person" ref="wkfm__46170">Hammer</rs> hat als socius der<rs type="person" ref="wkfm__46393"> von Haidern</rs> seinen fundum volgender
+               <lb facs="#facs_107_r1l15" n="N015"/>Der <rs type="person" ref="#wkfm__46170">Hammer</rs> hat als socius der<rs type="person" ref="#wkfm__46393"> von Haidern</rs> seinen fundum volgender
                <lb facs="#facs_107_r1l17" n="N016"/>maßen ausgewisen. In obigen societaets contract dd<hi style="superscript">to</hi> 27 <choice><expan/><abbr>Apr:</abbr></choice> 741<hi> 24<hi style="superscript"/></hi>ten<hi style="superscript">o</hi>
-               <lb facs="#facs_107_r1l18" n="N017"/>1518 <hi>1972</hi> ist § 4<hi style="superscript">tens</hi> angeführet worden, daß der <rs type="person" ref="wkfm__46170">Hammer</rs> in die societaet
-               <lb facs="#facs_107_r1l19" n="N018"/>7000 fl baar eingeleget habe, und die <rs type="person" ref="wkfm__46393">von Haydern</rs> für solche 7000 fl
-               <lb facs="#facs_107_r1l20" n="N019"/>denen <rs type="person" ref="wkfm__46170">Hammer</rs> Creditoren in allweg haften wolle, über dieses ist der
-               <lb facs="#facs_107_r1l22" n="N020"/>von eben dieser <rs type="person" ref="wkfm__46393">Hayderin</rs> untern 2<hi style="superscript">ten</hi> May 741 worden augestelte
+               <lb facs="#facs_107_r1l18" n="N017"/>1518 <hi>1972</hi> ist § 4<hi style="superscript">tens</hi> angeführet worden, daß der <rs type="person" ref="#wkfm__46170">Hammer</rs> in die societaet
+               <lb facs="#facs_107_r1l19" n="N018"/>7000 fl baar eingeleget habe, und die <rs type="person" ref="#wkfm__46393">von Haydern</rs> für solche 7000 fl
+               <lb facs="#facs_107_r1l20" n="N019"/>denen <rs type="person" ref="#wkfm__46170">Hammer</rs> Creditoren in allweg haften wolle, über dieses ist der
+               <lb facs="#facs_107_r1l22" n="N020"/>von eben dieser <rs type="person" ref="#wkfm__46393">Hayderin</rs> untern 2<hi style="superscript">ten</hi> May 741 worden augestelte
                <lb facs="#facs_107_r1l23" n="N021"/>Gewalt und Vollmacht N<hi style="superscript">o</hi> 1519 in <choice><expan/><abbr>orig:</abbr></choice> eingeleget, kraft welcher der
-               <lb facs="#facs_107_r1l24" n="N022"/><rs type="person" ref="wkfm__46526">Doctor von Dietmanstorf</rs> beywaltet worden, den Inhalt erst gedachten
-               <lb facs="#facs_107_r1l25" n="N023"/>§ nebst deme daß die <rs type="person" ref="wkfm__46393">Hayderin</rs> das Mercantil Gericht <hi>in allen</hi> <hi><unclear>Schad</unclear></hi>
-               <lb facs="#facs_107_r1l26" n="N024"/>vor allen Nachtheil bewahren wolle, in ihr der <rs type="person" ref="wkfm__46393">Hayderin</rs> Nahmen
+               <lb facs="#facs_107_r1l24" n="N022"/><rs type="person" ref="#wkfm__46526">Doctor von Dietmanstorf</rs> beywaltet worden, den Inhalt erst gedachten
+               <lb facs="#facs_107_r1l25" n="N023"/>§ nebst deme daß die <rs type="person" ref="#wkfm__46393">Hayderin</rs> das Mercantil Gericht <hi>in allen</hi> <hi><unclear>Schad</unclear></hi>
+               <lb facs="#facs_107_r1l26" n="N024"/>vor allen Nachtheil bewahren wolle, in ihr der <rs type="person" ref="#wkfm__46393">Hayderin</rs> Nahmen
                <lb facs="#facs_107_r1l27" n="N025"/>mündlich zu erklähren.
             </ab>
             

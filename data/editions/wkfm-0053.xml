@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -67,10 +67,10 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_48" n="48" xml:id="img_0048"/>
+            <pb facs="#facs_48" n="48" xml:id="img_0048" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0053.jpg"/>
             
             <ab facs="#facs_48_r1">
-               <lb facs="#facs_48_r1l1" n="N001"/>Societats Contract und Interessenten
+               <lb facs="#facs_48_r1l1" n="N001"/><seg type="orighead__contract">Societats Contract und Interessenten</seg>
                <lb facs="#facs_48_r1l2" n="N002"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_48_r1l3" n="N003"/><seg type="orighead__other_notes"><seg type="orighead__other_notes">Anmerkungen</seg></seg>
             </ab>

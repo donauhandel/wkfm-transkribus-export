@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -75,7 +75,7 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_85" n="85" xml:id="img_0085"/>
+            <pb facs="#facs_85" n="85" xml:id="img_0085" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0753.jpg"/>
             
             <ab facs="#facs_85_r2">
                <lb facs="#facs_85_r2l2" n="N001"/><hi>338</hi>
@@ -83,9 +83,9 @@
                <lb facs="#facs_85_r2l3" n="N003"/><hi>58</hi>
                <lb facs="#facs_85_line_1621548209915_988" n="N004"/>63
                <lb facs="#facs_85_r2l1" n="N005"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_85_line_1621548208371_983" n="N006"/><rs type="person" ref="wkfm__24741">Veronese Anton Gabriel</rs> burgerlicher Handlsmann
+               <lb facs="#facs_85_line_1621548208371_983" n="N006"/><rs type="person" ref="#wkfm__24741">Veronese Anton Gabriel</rs> burgerlicher Handlsmann
                <lb facs="#facs_85_r2l5" n="N007"/>Firma ad Raggion
-               <lb facs="#facs_85_r2l6" n="N008"/><rs type="person" ref="wkfm__47115">Antony <unclear>Bagbriel</unclear> Veronese</rs> laut Erklährung dd<hi style="superscript">to</hi> 4<hi style="superscript">ten</hi> Junii 735 N<hi style="superscript">o</hi> 357
+               <lb facs="#facs_85_r2l6" n="N008"/><rs type="person" ref="#wkfm__47115">Antony <unclear>Bagbriel</unclear> Veronese</rs> laut Erklährung dd<hi style="superscript">to</hi> 4<hi style="superscript">ten</hi> Junii 735 N<hi style="superscript">o</hi> 357
                <lb facs="#facs_85_r2l7" n="N009"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_85_r2l8" n="N010"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_85_r2l9" n="N011"/><seg type="orighead__fundi">Fundi Ausweisung</seg>

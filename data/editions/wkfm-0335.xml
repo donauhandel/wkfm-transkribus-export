@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -77,19 +77,19 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_15" n="15" xml:id="img_0015"/>
+            <pb facs="#facs_15" n="15" xml:id="img_0015" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0335.jpg"/>
             
             <ab facs="#facs_15_r2">
                <lb facs="#facs_15_r2l2" n="N001"/>165
                <lb facs="#facs_15_r2l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_15_r2l3" n="N003"/><rs type="person" ref="wkfm__18128">Consoni Angelo Maria</rs> <choice><expan/><abbr>kay:</abbr></choice> <choice><expan/><abbr>könig:</abbr></choice> Niderlags Verwanter
+               <lb facs="#facs_15_r2l3" n="N003"/><rs type="person" ref="#wkfm__18128">Consoni Angelo Maria</rs> <choice><expan/><abbr>kay:</abbr></choice> <choice><expan/><abbr>könig:</abbr></choice> Niderlags Verwanter
                <lb facs="#facs_15_r2l4" n="N004"/>Firmae ad Raggion
-               <lb facs="#facs_15_r2l5" n="N005"/><rs type="person" ref="wkfm__47203">Angelo Ma Consoni</rs> laut Anbringen de ps: 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 1893
+               <lb facs="#facs_15_r2l5" n="N005"/><rs type="person" ref="#wkfm__47203">Angelo Ma Consoni</rs> laut Anbringen de ps: 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 1893
                <lb facs="#facs_15_r2l6" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
-               <lb facs="#facs_15_r2l7" n="N007"/>In obigen Anbringen de ps: 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 1893 hat sich der <rs type="person" ref="wkfm__18128">Consoni</rs> erklähret
-               <lb facs="#facs_15_r2l8" n="N008"/>daß er seinem Napote und Compagno <rs type="person" ref="wkfm__17087">Caspar Consoni</rs> die firma anvertrauet
-               <lb facs="#facs_15_r2l9" n="N009"/>habe, annebens die Firma von diesem <rs type="person" ref="wkfm__17087">Caspar Consoni</rs> beygeruket.
-               <lb facs="#facs_15_line_1621954030360_256" n="N010"/>Mitls Anbringen dd<hi style="superscript">to</hi> 18<hi style="superscript">ten</hi> et <choice><expan/><abbr>sel.</abbr></choice> 21<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 726 N<hi style="superscript">o</hi> 1894 hat der <rs type="person" ref="wkfm__18128">Consone</rs> erstgedachte
+               <lb facs="#facs_15_r2l7" n="N007"/>In obigen Anbringen de ps: 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 1893 hat sich der <rs type="person" ref="#wkfm__18128">Consoni</rs> erklähret
+               <lb facs="#facs_15_r2l8" n="N008"/>daß er seinem Napote und Compagno <rs type="person" ref="#wkfm__17087">Caspar Consoni</rs> die firma anvertrauet
+               <lb facs="#facs_15_r2l9" n="N009"/>habe, annebens die Firma von diesem <rs type="person" ref="#wkfm__17087">Caspar Consoni</rs> beygeruket.
+               <lb facs="#facs_15_line_1621954030360_256" n="N010"/>Mitls Anbringen dd<hi style="superscript">to</hi> 18<hi style="superscript">ten</hi> et <choice><expan/><abbr>sel.</abbr></choice> 21<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 726 N<hi style="superscript">o</hi> 1894 hat der <rs type="person" ref="#wkfm__18128">Consone</rs> erstgedachte
                <lb facs="#facs_15_r2l11" n="N011"/>Procura oder firmae Ertheilung widerrufen
                <lb facs="#facs_15_r2l12" n="N012"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_15_r2l13" n="N013"/><seg type="orighead__fundi">Fundi Ausweisung</seg>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -74,17 +74,17 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_96" n="96" xml:id="img_0096"/>
+            <pb facs="#facs_96" n="96" xml:id="img_0096" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1016.jpg"/>
             
             <ab facs="#facs_96_r1">
                <lb facs="#facs_96_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
-               <lb facs="#facs_96_r1l2" n="N002"/>In obigen Anbringen de ps: 22<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 735 N<hi style="superscript">o</hi> 1967 hat sich der <rs type="person" ref="wkfm__26689">Heß</rs>
-               <lb facs="#facs_96_r1l3" n="N003"/>nebst dem <rs type="person" ref="wkfm__6849">Erdmann Thech</rs> erklähret, daß sie durch einige Zeit in Compagnie
-               <lb facs="#facs_96_r1l4" n="N004"/>unter der Raggion <rs type="person" ref="wkfm__8067">Heß und Thech</rs> und beeder Firmirung stehen.
+               <lb facs="#facs_96_r1l2" n="N002"/>In obigen Anbringen de ps: 22<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 735 N<hi style="superscript">o</hi> 1967 hat sich der <rs type="person" ref="#wkfm__26689">Heß</rs>
+               <lb facs="#facs_96_r1l3" n="N003"/>nebst dem <rs type="person" ref="#wkfm__6849">Erdmann Thech</rs> erklähret, daß sie durch einige Zeit in Compagnie
+               <lb facs="#facs_96_r1l4" n="N004"/>unter der Raggion <rs type="person" ref="#wkfm__8067">Heß und Thech</rs> und beeder Firmirung stehen.
                <lb facs="#facs_96_r1l5" n="N005"/>Mitls Anbringen de ps: 7<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 738 N<hi style="superscript">o</hi> 1968 und oblatorien dd<hi style="superscript">to</hi> - <choice><expan/><abbr>Febr:</abbr></choice>
-               <lb facs="#facs_96_r1l6" n="N006"/>736 N<hi style="superscript">o</hi> 1128 hat der <rs type="person" ref="wkfm__26689">Heß</rs> angezeiget und kund gemacht, daß die Raggion <rs type="person" ref="wkfm__8067">Heß
+               <lb facs="#facs_96_r1l6" n="N006"/>736 N<hi style="superscript">o</hi> 1128 hat der <rs type="person" ref="#wkfm__26689">Heß</rs> angezeiget und kund gemacht, daß die Raggion <rs type="person" ref="#wkfm__8067">Heß
                <lb break="no" facs="#facs_96_r1l8" n="N007"/>und Thech</rs> geendiget seye <hi>habe</hi> er anbey  entschlossen habe solche unter eignen Nahmen
-               <lb facs="#facs_96_r1l9" n="N008"/><rs type="person" ref="wkfm__46509">Johann Gottlob Heß</rs> <hi>und</hi> mit eigenen interesse zu continuiren
+               <lb facs="#facs_96_r1l9" n="N008"/><rs type="person" ref="#wkfm__46509">Johann Gottlob Heß</rs> <hi>und</hi> mit eigenen interesse zu continuiren
                <lb facs="#facs_96_r1l10" n="N009"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_96_r1l11" n="N010"/>Anmerckungen
             </ab>

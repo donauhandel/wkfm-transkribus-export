@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -87,27 +87,27 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_17" n="17" xml:id="img_0017"/>
+            <pb facs="#facs_17" n="17" xml:id="img_0017" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1847.jpg"/>
             
             <ab facs="#facs_17_r1">
                <lb facs="#facs_17_r1l1" n="N001"/><hi>898</hi>
                <lb facs="#facs_17_line_1630608146780_136" n="N002"/>916
                <lb facs="#facs_17_r1l2" n="N003"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_17_line_1630608146781_137" n="N004"/><rs type="person" ref="wkfm__43862">Ziegler Philipp Matthias</rs> burgerlicher Handlsmann
+               <lb facs="#facs_17_line_1630608146781_137" n="N004"/><rs type="person" ref="#wkfm__43862">Ziegler Philipp Matthias</rs> burgerlicher Handlsmann
                <lb facs="#facs_17_r1l4" n="N005"/>Firma ad Raggion
-               <lb facs="#facs_17_r1l5" n="N006"/><rs type="person" ref="wkfm__46611">Philipp Mathias Ziegler</rs> laut Erklährung dd<hi style="superscript">to</hi> 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 747 N<hi style="superscript">o</hi> 854
-               <lb facs="#facs_17_r1l6" n="N007"/><choice><expan/><abbr>Ao</abbr></choice> 764 hat der <rs type="person" ref="wkfm__43862">Philipp Mathias Ziegler</rs> seine firma eingeleget <choice><expan/><abbr>nro:</abbr></choice> 854 1/2
+               <lb facs="#facs_17_r1l5" n="N006"/><rs type="person" ref="#wkfm__46611">Philipp Mathias Ziegler</rs> laut Erklährung dd<hi style="superscript">to</hi> 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 747 N<hi style="superscript">o</hi> 854
+               <lb facs="#facs_17_r1l6" n="N007"/><choice><expan/><abbr>Ao</abbr></choice> 764 hat der <rs type="person" ref="#wkfm__43862">Philipp Mathias Ziegler</rs> seine firma eingeleget <choice><expan/><abbr>nro:</abbr></choice> 854 1/2
                <lb facs="#facs_17_r1l7" n="N008"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_17_r1l8" n="N009"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_17_r1l9" n="N010"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_17_r1l11" n="N011"/>Der <rs type="person" ref="wkfm__43862">Ziegler</rs> hat seinen Fundum mitls der Specification N<hi style="superscript">o</hi> 1836 folgender
+               <lb facs="#facs_17_r1l11" n="N011"/>Der <rs type="person" ref="#wkfm__43862">Ziegler</rs> hat seinen Fundum mitls der Specification N<hi style="superscript">o</hi> 1836 folgender
                <lb facs="#facs_17_r1l12" n="N012"/>maßen ausgewisen nemlich das er eigenthumlich besize an einer Geschanknuß von
-               <lb facs="#facs_17_r1l13" n="N013"/>seinem Vattern <rs type="person" ref="wkfm__46610">Andre Ziegler</rs> laut Intimatin dd<hi style="superscript">to</hi> 14<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 747 N<hi style="superscript">o</hi> 1837
+               <lb facs="#facs_17_r1l13" n="N013"/>seinem Vattern <rs type="person" ref="#wkfm__46610">Andre Ziegler</rs> laut Intimatin dd<hi style="superscript">to</hi> 14<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 747 N<hi style="superscript">o</hi> 1837
                <lb facs="#facs_17_r1l14" n="N014"/>2000 fl
-               <lb facs="#facs_17_r1l15" n="N015"/><unclear>erspahrten</unclear> <unclear>salario</unclear> vermög attestati von <rs type="person" ref="wkfm__43863">Franz Anton Groß</rs> dd<hi style="superscript">to</hi>
+               <lb facs="#facs_17_r1l15" n="N015"/><unclear>erspahrten</unclear> <unclear>salario</unclear> vermög attestati von <rs type="person" ref="#wkfm__43863">Franz Anton Groß</rs> dd<hi style="superscript">to</hi>
                <lb facs="#facs_17_r1l20" n="N016"/><unclear>14<hi style="superscript"/></unclear><hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 747 N<hi style="superscript">o</hi> 1838 893 fl
                <lb facs="#facs_17_line_1619513934660_649" n="N017"/>zusamen Eigenthum 2893 fl
-               <lb facs="#facs_17_r1l21" n="N018"/>Zu Completirung des übrigen hat der <rs type="person" ref="wkfm__31013">Andre Ziegler</rs> eine dahin aus
+               <lb facs="#facs_17_r1l21" n="N018"/>Zu Completirung des übrigen hat der <rs type="person" ref="#wkfm__31013">Andre Ziegler</rs> eine dahin aus
                <lb facs="#facs_17_r1l23" n="N019"/>gesteltes Instrument N<hi style="superscript">o</hi> 1809 daß von dem seingen <hi>in die handlung einge</hi>
                <lb facs="#facs_17_r1l24" n="N020"/>daß zu eigener Ausweisung seines Sohns in der Handlung
                <lb facs="#facs_17_r1l27" n="N021"/><unclear>haften</unclear> sollen 5800 fl

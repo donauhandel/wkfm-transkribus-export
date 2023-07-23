@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -88,30 +88,30 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_239" n="239" xml:id="img_0239"/>
+            <pb facs="#facs_239" n="239" xml:id="img_0239" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1697.jpg"/>
             
             <ab facs="#facs_239_r1">
                <lb facs="#facs_239_r1l2" n="N001"/>841
                <lb facs="#facs_239_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_239_r1l3" n="N003"/><rs type="person" ref="wkfm__47608">Schenöckher Johann Michäl</rs> burgerlicher Handlsmann
+               <lb facs="#facs_239_r1l3" n="N003"/><rs type="person" ref="#wkfm__47608">Schenöckher Johann Michäl</rs> burgerlicher Handlsmann
                <lb facs="#facs_239_r1l4" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_239_r1l5" n="N005"/><choice><expan/><abbr>Ao:</abbr></choice> 763 hat der <rs type="person" ref="wkfm__47608">Johann Michael Schönecker</rs> seine firma eingelegt <choice><expan/><abbr>nro</abbr></choice> 793
+               <lb facs="#facs_239_r1l5" n="N005"/><choice><expan/><abbr>Ao:</abbr></choice> 763 hat der <rs type="person" ref="#wkfm__47608">Johann Michael Schönecker</rs> seine firma eingelegt <choice><expan/><abbr>nro</abbr></choice> 793
                <lb facs="#facs_239_r1l6" n="N006"/>und darinnen angezeiget, daß er keinen Compagnon in seiner Handlung habe
                <lb facs="#facs_239_r1l7" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_239_r1l8" n="N008"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_239_r1l9" n="N009"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_239_r1l11" n="N010"/>Der <rs type="person" ref="wkfm__47608">Schenöckher</rs> hat <hi>mit</hi> seinen Fundum mitls der Specification N<hi style="superscript">o</hi> 1787 folgender
+               <lb facs="#facs_239_r1l11" n="N010"/>Der <rs type="person" ref="#wkfm__47608">Schenöckher</rs> hat <hi>mit</hi> seinen Fundum mitls der Specification N<hi style="superscript">o</hi> 1787 folgender
                <lb facs="#facs_239_r1l12" n="N011"/>maßen ausgewisen, nemlich daß er eigenthumlich besize, an einer St. B. Obliga-
                <lb facs="#facs_239_r1l13" n="N012"/>tion dd<hi style="superscript">to</hi> 30<hi style="superscript">ten</hi> May 752 samt Cession dd<hi style="superscript">to</hi> 30<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 753 N<hi style="superscript">o</hi> 1788 et 1789 in Copiis vidimatis
                <lb facs="#facs_239_r1l15" n="N013"/>1000 fl
                <lb facs="#facs_239_r1l16" n="N014"/>an einer Kupfer-Amtsobligation dd<hi style="superscript">to</hi> 6<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 754 samt Cession dd<hi style="superscript">to</hi> 13<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice>
                <lb facs="#facs_239_r1l17" n="N015"/>d. a. N<hi style="superscript">o</hi> 1790 et 1791 2500 fl
                <lb facs="#facs_239_r1l20" n="N016"/>zusamen Eigenthum 3500 fl
-               <lb facs="#facs_239_r1l21" n="N017"/>zu Completirung des übrigen hat der <rs type="person" ref="wkfm__47609">Thomas Walter</rs> und <rs type="person" ref="wkfm__47610">Joseph <hi>Hen</hi>
+               <lb facs="#facs_239_r1l21" n="N017"/>zu Completirung des übrigen hat der <rs type="person" ref="#wkfm__47609">Thomas Walter</rs> und <rs type="person" ref="#wkfm__47610">Joseph <hi>Hen</hi>
                <lb break="no" facs="#facs_239_r1l22" n="N018"/>Heim</rs> beede in <unclear>tacidum</unclear> das <choice><expan/><abbr>orig:</abbr></choice> Cautions Instrument dd<hi style="superscript">to</hi> 22<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice>
                <lb facs="#facs_239_r1l23" n="N019"/>755 N<hi style="superscript">o</hi> 1792 eingeleget <choice><expan/><abbr>pr</abbr></choice> 4500
                <lb facs="#facs_239_line_1626773631810_768" n="N020"/><seg type="editorial_comment_seg"><choice><expan/><abbr>Sa</abbr></choice> 8000 fl<note type="editorial_comment_note">Nach Zeile 19</note></seg>
-               <lb facs="#facs_239_line_1626773638150_771" n="N021"/>Bemeltes Cautions Instrument <choice><expan/><abbr>pr</abbr></choice> 4500 fl ist dem <rs type="person" ref="wkfm__47608">Johann Michael
+               <lb facs="#facs_239_line_1626773638150_771" n="N021"/>Bemeltes Cautions Instrument <choice><expan/><abbr>pr</abbr></choice> 4500 fl ist dem <rs type="person" ref="#wkfm__47608">Johann Michael
                <lb break="no" facs="#facs_239_r1l26" n="N022"/>Schönecker</rs> über sein Anlangen de ps: 7<hi style="superscript">ten</hi> Novembris 765 und gegen Einlegung der über seine
                <lb facs="#facs_239_r1l27" n="N023"/>Handlung errichtete Billanz worinnen er 20083 fl 48 x<hi style="superscript">r</hi> Eigenthum ausweises restituiret,
                <lb facs="#facs_239_r1l28" n="N024"/>und <gap/> Anbringen samt der Billanz sub <choice><expan/><abbr>nro:</abbr></choice> 1792 aufbehalten worden

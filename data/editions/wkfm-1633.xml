@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -78,22 +78,22 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_175" n="175" xml:id="img_0175"/>
+            <pb facs="#facs_175" n="175" xml:id="img_0175" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1633.jpg"/>
             
             <ab facs="#facs_175_r2">
                <lb facs="#facs_175_line_1626684499991_450" n="N001"/><hi>791</hi>
                <lb facs="#facs_175_line_1626684504343_453" n="N002"/>809
                <lb facs="#facs_175_r2l1" n="N003"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_175_r2l2" n="N004"/><rs type="person" ref="wkfm__34998">Scanzoni Johann Peter</rs> burgerlicher Handlsmann
+               <lb facs="#facs_175_r2l2" n="N004"/><rs type="person" ref="#wkfm__34998">Scanzoni Johann Peter</rs> burgerlicher Handlsmann
                <lb facs="#facs_175_r2l3" n="N005"/>Firma ad Raggion
-               <lb facs="#facs_175_r2l4" n="N006"/><rs type="person" ref="wkfm__47534">Johann Petter Scanzoni</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 750
+               <lb facs="#facs_175_r2l4" n="N006"/><rs type="person" ref="#wkfm__47534">Johann Petter Scanzoni</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 750
                <lb facs="#facs_175_r2l5" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_175_r2l6" n="N008"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_175_r2l7" n="N009"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_175_r2l9" n="N010"/>Der <rs type="person" ref="wkfm__34998">Scanzoni</rs> hat zu Ausweisung seines Fundi ein von <rs type="person" ref="wkfm__47535">Donato Allio</rs> k. k.
+               <lb facs="#facs_175_r2l9" n="N010"/>Der <rs type="person" ref="#wkfm__34998">Scanzoni</rs> hat zu Ausweisung seines Fundi ein von <rs type="person" ref="#wkfm__47535">Donato Allio</rs> k. k.
                <lb facs="#facs_175_r2l10" n="N011"/><unclear>Ingenieser</unclear> untern 12<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 738 dahin ausgestelten <choice><expan/><abbr>orig:</abbr></choice> respectivé
-               <lb facs="#facs_175_r2l11" n="N012"/>attestatum cautions Instrument N<hi style="superscript">o</hi> 1714 daß er <rs type="person" ref="wkfm__34998">Scanzoni</rs> besize und
-               <lb facs="#facs_175_r2l13" n="N013"/>er <rs type="person" ref="wkfm__47535">Allio</rs> hiemit guttspreche <choice><expan/><abbr>pr</abbr></choice> 8000 fl
+               <lb facs="#facs_175_r2l11" n="N012"/>attestatum cautions Instrument N<hi style="superscript">o</hi> 1714 daß er <rs type="person" ref="#wkfm__34998">Scanzoni</rs> besize und
+               <lb facs="#facs_175_r2l13" n="N013"/>er <rs type="person" ref="#wkfm__47535">Allio</rs> hiemit guttspreche <choice><expan/><abbr>pr</abbr></choice> 8000 fl
             </ab>
             
         </div>

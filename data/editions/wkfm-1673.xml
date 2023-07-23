@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -84,26 +84,26 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_215" n="215" xml:id="img_0215"/>
+            <pb facs="#facs_215" n="215" xml:id="img_0215" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1673.jpg"/>
             
             <ab facs="#facs_215_r1">
                <lb facs="#facs_215_r1l2" n="N001"/>829
                <lb facs="#facs_215_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_215_r1l3" n="N003"/><rs type="person" ref="wkfm__47577">Simmerl Johann</rs> burgerlicher Handlsmann
+               <lb facs="#facs_215_r1l3" n="N003"/><rs type="person" ref="#wkfm__47577">Simmerl Johann</rs> burgerlicher Handlsmann
                <lb facs="#facs_215_r1l4" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_215_r1l5" n="N005"/><rs type="person" ref="wkfm__47578">Johannes Simmerl</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 774 welche derselbe
+               <lb facs="#facs_215_r1l5" n="N005"/><rs type="person" ref="#wkfm__47578">Johannes Simmerl</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 774 welche derselbe
                <lb facs="#facs_215_r1l6" n="N006"/>mitls Anbringen de ps: 10<hi style="superscript">ten</hi> Junii 754 <hi>eingeleget</hi> N<hi style="superscript">o</hi> 775 eingeleget
                <lb facs="#facs_215_r1l7" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_215_r1l8" n="N008"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_215_r1l9" n="N009"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_215_r1l10" n="N010"/>Der <rs type="person" ref="wkfm__47577">Simmerl</rs> hat seinen Handlungs Fundum <hi>f</hi> mitl der Specification
+               <lb facs="#facs_215_r1l10" n="N010"/>Der <rs type="person" ref="#wkfm__47577">Simmerl</rs> hat seinen Handlungs Fundum <hi>f</hi> mitl der Specification
                <lb facs="#facs_215_r1l11" n="N011"/>N<hi style="superscript">o</hi> 1737 folgender maßen ausgewisen, <hi>das</hi> nemlich das er Eigenthumlich
                <lb facs="#facs_215_r1l12" n="N012"/>besize an erspahrten salario 350 fl
                <lb facs="#facs_215_r1l14" n="N013"/>dann an dem laut Erklährung dd<hi style="superscript">to</hi> 8<hi style="superscript">ten</hi> Julii 757 N<hi style="superscript">o</hi> 1738 an über
                <lb facs="#facs_215_r1l15" n="N014"/>kommenden Heurath Gutt <choice><expan/><abbr>pr</abbr></choice> 500 fl und Geschanknuß von seiner
-               <lb facs="#facs_215_r1l18" n="N015"/>Schwiger Mutter <rs type="person" ref="wkfm__47579">Maria Magdalena Mayerhoferin</rs> <choice><expan/><abbr>pr</abbr></choice> 500 fl zusamen 1000 fl
+               <lb facs="#facs_215_r1l18" n="N015"/>Schwiger Mutter <rs type="person" ref="#wkfm__47579">Maria Magdalena Mayerhoferin</rs> <choice><expan/><abbr>pr</abbr></choice> 500 fl zusamen 1000 fl
                <lb facs="#facs_215_r1l19" n="N016"/>zusamen Eigenthum 1350 fl
-               <lb facs="#facs_215_r1l20" n="N017"/>zu Completirung des übrigen hat die <rs type="person" ref="wkfm__47579">Maria Magdalena
+               <lb facs="#facs_215_r1l20" n="N017"/>zu Completirung des übrigen hat die <rs type="person" ref="#wkfm__47579">Maria Magdalena
                <lb break="no" facs="#facs_215_r1l21" n="N018"/>Mayrhoferin</rs> das <choice><expan/><abbr>orig:</abbr></choice> <seg type="editorial_comment_seg">Cortiorirte<note type="editorial_comment_note">wahrscheinlich Certiorirte</note></seg> Cautions Instrument dd<hi style="superscript">to</hi>
                <lb facs="#facs_215_r1l23" n="N019"/>8<hi style="superscript">ten</hi> Julii 751 N<hi style="superscript">o</hi> 1739 eingeleget <choice><expan/><abbr>pr</abbr></choice> 2650
                <lb facs="#facs_215_r1l25" n="N020"/><choice><expan/><abbr>Sa</abbr></choice> 4000 fl

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -80,22 +80,22 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_224" n="224" xml:id="img_0224"/>
+            <pb facs="#facs_224" n="224" xml:id="img_0224" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1682.jpg"/>
             
             <ab facs="#facs_224_r1">
                <lb facs="#facs_224_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_224_r1l2" n="N002"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
-               <lb facs="#facs_224_r1l3" n="N003"/><choice><expan/><abbr>Ao</abbr></choice> 765 hat der <rs type="person" ref="wkfm__47593">Franz Carl Sotscheck</rs> seinen mit <rs type="person" ref="wkfm__47595">Francisca Barbara
+               <lb facs="#facs_224_r1l3" n="N003"/><choice><expan/><abbr>Ao</abbr></choice> 765 hat der <rs type="person" ref="#wkfm__47593">Franz Carl Sotscheck</rs> seinen mit <rs type="person" ref="#wkfm__47595">Francisca Barbara
                <lb break="no" facs="#facs_224_r1l4" n="N004"/>Pragerin</rs> unterm 29<hi style="superscript">ten</hi> Septembris 754 errichteten Heurath Contract
                <lb facs="#facs_224_r1l5" n="N005"/>eingelegt, worinnen Heurath-Guth 500 fl Widerlaag samt Handlungs
                <lb facs="#facs_224_r1l6" n="N006"/>Gerichtigkeit 1000 fl und das wehrender Ehe erwerbend- und er-
                <lb facs="#facs_224_r1l7" n="N007"/>erbende Vermögen ein gleiches Guth stipuliret worden, <choice><expan/><abbr>nro:</abbr></choice> 2248.
-               <lb facs="#facs_224_r1l9" n="N009"/>Vermög Anzeige de ps: 22 May 777 hat <choice><expan/><abbr>burgerl:</abbr></choice> Handlstand den Todtfall des <rs type="person" ref="wkfm__47593">Franz Karl Sott-
+               <lb facs="#facs_224_r1l9" n="N009"/>Vermög Anzeige de ps: 22 May 777 hat <choice><expan/><abbr>burgerl:</abbr></choice> Handlstand den Todtfall des <rs type="person" ref="#wkfm__47593">Franz Karl Sott-
                <lb break="no" facs="#facs_224_r1l10" n="N010"/>scheck</rs> angezeiget, wornach über die <unclear>ausgefolnen</unclear> <unclear>anteacten</unclear> B C D E F et G dann abge-
                <lb facs="#facs_224_r1l12" n="N011"/>änderten Firma H so mit J untern 22 May 777 eingeleget worden beygebrachten
                <lb facs="#facs_224_r1l13" n="N012"/>Instruments Extract K Billanz L dit: 30 May 777 In bericht M dann der
                <lb facs="#facs_224_r1l15" n="N013"/>weitere N mit dem Raithhandlers berichts Ausschlags B an behörde abgegeben und <unclear>beynehmiget</unclear> worden
-               <lb facs="#facs_224_r1l16" n="N014"/>das die sub H eingelegte firma, welche lautt <rs type="person" ref="wkfm__47595">Franz Karl Sottschek
+               <lb facs="#facs_224_r1l16" n="N014"/>das die sub H eingelegte firma, welche lautt <rs type="person" ref="#wkfm__47595">Franz Karl Sottschek
                <lb break="no" facs="#facs_224_r1l17" n="N015"/><choice><expan/><abbr>seel:</abbr></choice> Wittib</rs> protocolliret werden solle. <gap/> N<hi style="superscript">o</hi> 1762 1/2 bey dem
                <lb facs="#facs_224_r1l18" n="N016"/>fundi Ausweisungen:
             </ab>

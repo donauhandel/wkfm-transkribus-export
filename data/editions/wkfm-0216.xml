@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -79,22 +79,22 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_162" n="162" xml:id="img_0162"/>
+            <pb facs="#facs_162" n="162" xml:id="img_0162" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0216.jpg"/>
             
             <ab facs="#facs_162_r1">
                <lb facs="#facs_162_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
-               <lb facs="#facs_162_r1l2" n="N002"/>In obiger Erklährung haben <rs type="person" ref="wkfm__19355">Anton Polidoro</rs> und <rs type="person" ref="wkfm__25146">Joseph
-               <lb break="no" facs="#facs_162_r1l3" n="N003"/>Barbieri </rs>die Societaets Firma <rs type="person" ref="wkfm__25146">Anton Polidoro et <choice><expan/><abbr>Comp:</abbr></choice></rs>
+               <lb facs="#facs_162_r1l2" n="N002"/>In obiger Erklährung haben <rs type="person" ref="#wkfm__19355">Anton Polidoro</rs> und <rs type="person" ref="#wkfm__25146">Joseph
+               <lb break="no" facs="#facs_162_r1l3" n="N003"/>Barbieri </rs>die Societaets Firma <rs type="person" ref="#wkfm__25146">Anton Polidoro et <choice><expan/><abbr>Comp:</abbr></choice></rs>
                <lb facs="#facs_162_r1l4" n="N004"/>alß ihre gemeinsame Handlungs firma eingeleget
                <lb facs="#facs_162_line_1621469404340_3175" n="N005"/>Mitls denen <hi>vom</hi> Oblatorien dd<hi style="superscript">to</hi> 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 736 so mit unter der Fertigung des
-               <lb facs="#facs_162_line_1621469412189_3186" n="N006"/><rs type="person" ref="wkfm__19355">Anton Lucas Polidoro</rs> und <rs type="person" ref="wkfm__25146">Joseph Barbieri</rs> in <choice><expan/><abbr>orig:</abbr></choice> N<hi style="superscript">o</hi> 1094 eingeleget
+               <lb facs="#facs_162_line_1621469412189_3186" n="N006"/><rs type="person" ref="#wkfm__19355">Anton Lucas Polidoro</rs> und <rs type="person" ref="#wkfm__25146">Joseph Barbieri</rs> in <choice><expan/><abbr>orig:</abbr></choice> N<hi style="superscript">o</hi> 1094 eingeleget
                <lb facs="#facs_162_r1l9" n="N007"/>worden ist kund gemacht worden in daß die bey nahe 3 Jahr für
-               <lb facs="#facs_162_r1l10" n="N008"/>geweste societaet und Raggion <rs type="person" ref="wkfm__25146">Anton Polidoro et Compagno</rs> mit
-               <lb facs="#facs_162_r1l11" n="N009"/>ult: <choice><expan/><abbr>Apr:</abbr></choice> d. a. ihr Endschafft erreichen und der <hi>Pa</hi> <rs type="person" ref="wkfm__19355">Polidoro</rs> die Handlung
+               <lb facs="#facs_162_r1l10" n="N008"/>geweste societaet und Raggion <rs type="person" ref="#wkfm__25146">Anton Polidoro et Compagno</rs> mit
+               <lb facs="#facs_162_r1l11" n="N009"/>ult: <choice><expan/><abbr>Apr:</abbr></choice> d. a. ihr Endschafft erreichen und der <hi>Pa</hi> <rs type="person" ref="#wkfm__19355">Polidoro</rs> die Handlung
                <lb facs="#facs_162_r1l12" n="N010"/>samt den Stralcio allein führen werde.
                <lb facs="#facs_162_r1l13" n="N011"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_162_r1l14" n="N012"/><hi>Mitls anbringen de ps:</hi>
-               <lb facs="#facs_162_r1l15" n="N013"/>der <rs type="person" ref="wkfm__25146">Barbieri</rs> hat den mit
+               <lb facs="#facs_162_r1l15" n="N013"/>der <rs type="person" ref="#wkfm__25146">Barbieri</rs> hat den mit
                <lb facs="#facs_162_r1l16" n="N014"/><seg type="orighead__other_notes"><seg type="orighead__other_notes">Anmerkungen</seg></seg>
             </ab>
             

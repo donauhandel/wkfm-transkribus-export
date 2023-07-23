@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -69,12 +69,12 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_244" n="244" xml:id="img_0244"/>
+            <pb facs="#facs_244" n="244" xml:id="img_0244" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0298.jpg"/>
             
             <ab facs="#facs_244_r1">
                <lb facs="#facs_244_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_244_r1l2" n="N002"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
-               <lb facs="#facs_244_r1l3" n="N003"/><seg type="orighead__wedding_contract">Heuraths Contract</seg> mit <rs type="person" ref="wkfm__43985">Maria Theresia Peternaderin</rs>
+               <lb facs="#facs_244_r1l3" n="N003"/><seg type="orighead__wedding_contract">Heuraths Contract</seg> mit <rs type="person" ref="#wkfm__43985">Maria Theresia Peternaderin</rs>
                <lb facs="#facs_244_r1l4" n="N004"/>dd<hi style="superscript">to</hi> 27<hi style="superscript">ten</hi> Decembris 763 sub <choice><expan/><abbr>nro:</abbr></choice> 2117.
                <lb facs="#facs_244_r1l5" n="N005"/>Anmerckungen
             </ab>

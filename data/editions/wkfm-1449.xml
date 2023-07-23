@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -89,30 +89,30 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_97" n="97" xml:id="img_0097"/>
+            <pb facs="#facs_97" n="97" xml:id="img_0097" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1449.jpg"/>
             
             <ab facs="#facs_97_r2">
                <lb facs="#facs_97_r2l2" n="N001"/>717
                <lb facs="#facs_97_r2l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_97_r2l4" n="N003"/><rs type="person" ref="wkfm__46769">Ratzer Johann Fridrich</rs> burgerlicher Handlsmann
+               <lb facs="#facs_97_r2l4" n="N003"/><rs type="person" ref="#wkfm__46769">Ratzer Johann Fridrich</rs> burgerlicher Handlsmann
                <lb facs="#facs_97_r2l5" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_97_r2l6" n="N005"/><rs type="person" ref="wkfm__46770">Johann Fridrich Ratzer</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 655 welche
+               <lb facs="#facs_97_r2l6" n="N005"/><rs type="person" ref="#wkfm__46770">Johann Fridrich Ratzer</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 655 welche
                <lb facs="#facs_97_r2l7" n="N006"/>derselbe mitls Anbringen de ps: 19<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 753 N<hi style="superscript">o</hi> 656 eingeleget
                <lb facs="#facs_97_r2l8" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_97_r2l9" n="N008"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_97_r2l10" n="N009"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_97_r2l11" n="N010"/>Der <rs type="person" ref="wkfm__46769">Ratzer</rs> hat seinen Fundum mitls der Specification N<hi style="superscript">o</hi> 1684 folgender
+               <lb facs="#facs_97_r2l11" n="N010"/>Der <rs type="person" ref="#wkfm__46769">Ratzer</rs> hat seinen Fundum mitls der Specification N<hi style="superscript">o</hi> 1684 folgender
                <lb facs="#facs_97_r2l12" n="N011"/>maßen ausgewisen, nemlich daß er eigenthumlich besize <hi>vermög</hi> an zweyen
                <lb facs="#facs_97_r2l13" n="N012"/><unclear>Oc</unclear> Amts obligation dd<hi style="superscript">to</hi> 14<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 745 <choice><expan/><abbr><hi>pr</hi></abbr></choice> und 3<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> d. a. jede <choice><expan/><abbr><hi>pr</hi></abbr></choice> wovon Copia
                <lb facs="#facs_97_r2l15" n="N013"/>vidimata N<hi style="superscript">o</hi> 1685 et 1686 <choice><expan/><abbr>pr</abbr></choice> 1000 fl zusamen 2000 fl
                <lb facs="#facs_97_r2l16" n="N014"/>an interessen hervon 20 fl 50
-               <lb facs="#facs_97_r2l22" n="N015"/>an zweyen Wechselbriefen von <rs type="person" ref="wkfm__46771">Franz Lazarus</rs> dd<hi style="superscript">to</hi> 12<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 749 und 25<hi style="superscript">ten</hi> ej:
+               <lb facs="#facs_97_r2l22" n="N015"/>an zweyen Wechselbriefen von <rs type="person" ref="#wkfm__46771">Franz Lazarus</rs> dd<hi style="superscript">to</hi> 12<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 749 und 25<hi style="superscript">ten</hi> ej:
                <lb facs="#facs_97_r2l23" n="N016"/>wovon Copia vidimata N<hi style="superscript">o</hi> 1687 et 1688 jeden an Cap: <choice><expan/><abbr>pr</abbr></choice> 500 fl und interesse
                <lb facs="#facs_97_r2l24" n="N017"/><choice><expan/><abbr>pr</abbr></choice> 20 fl zusamen <choice><expan/><abbr><hi>pr</hi></abbr></choice> 1040 fl
-               <lb facs="#facs_97_r2l28" n="N018"/>An salario und interesse laut obligo von <rs type="person" ref="wkfm__8109">Johann Michäl Niller</rs> dd<hi style="superscript">to</hi> 7<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice>
+               <lb facs="#facs_97_r2l28" n="N018"/>An salario und interesse laut obligo von <rs type="person" ref="#wkfm__8109">Johann Michäl Niller</rs> dd<hi style="superscript">to</hi> 7<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice>
                <lb facs="#facs_97_r2l29" n="N019"/>740 N<hi style="superscript">o</hi> 1689 an Copia vidimata 618 fl 48 x<hi style="superscript">r</hi>
                <lb facs="#facs_97_r2l33" n="N020"/>zusamen Eigenthum 3659 fl 38 x<hi style="superscript">r</hi>
-               <lb facs="#facs_97_r2l34" n="N021"/>zu Completirung des übrigen hat selber, daß von <rs type="person" ref="wkfm__8109">Johann Michäl Niller</rs>
+               <lb facs="#facs_97_r2l34" n="N021"/>zu Completirung des übrigen hat selber, daß von <rs type="person" ref="#wkfm__8109">Johann Michäl Niller</rs>
                <lb facs="#facs_97_r2l36" n="N022"/>untern 7<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 750 ausgestelte Cautions Instrument in Copia vidimata N<hi style="superscript">o</hi> 1690
                <lb facs="#facs_97_r2l35" n="N023"/>eingeleget <choice><expan/><abbr>pr</abbr></choice> 4320 fl 22 x<hi style="superscript">r</hi>
                <lb facs="#facs_97_r2l39" n="N024"/><choice><expan/><abbr>Sa</abbr></choice> 8000 fl 0 x<hi style="superscript">r</hi>

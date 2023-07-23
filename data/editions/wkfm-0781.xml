@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -78,22 +78,22 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_113" n="113" xml:id="img_0113"/>
+            <pb facs="#facs_113" n="113" xml:id="img_0113" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0781.jpg"/>
             
             <ab facs="#facs_113_r1">
                <lb facs="#facs_113_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_113_line_1624037502510_91" n="N003"/><rs type="person" ref="wkfm__46838">Franzoni Franz</rs> burgerlicher Handlsmann
+               <lb facs="#facs_113_line_1624037502510_91" n="N003"/><rs type="person" ref="#wkfm__46838">Franzoni Franz</rs> burgerlicher Handlsmann
                <lb facs="#facs_113_r1l4" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_113_r1l6" n="N005"/><rs type="person" ref="wkfm__47146">Franz Franzoni</rs> laut Erklährung dd<hi style="superscript">to</hi> 30<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 742 N<hi style="superscript">o</hi> 370
+               <lb facs="#facs_113_r1l6" n="N005"/><rs type="person" ref="#wkfm__47146">Franz Franzoni</rs> laut Erklährung dd<hi style="superscript">to</hi> 30<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 742 N<hi style="superscript">o</hi> 370
                <lb facs="#facs_113_r1l7" n="N006"/><unclear><choice><expan/><abbr>Ao<hi/></abbr></choice><hi>ni</hi></unclear> 764. seiner Firma eingeleget <choice><expan/><abbr>nro</abbr></choice> 370 1/2
                <lb facs="#facs_113_r1l8" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_113_r1l9" n="N008"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_113_r1l10" n="N009"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_113_line_1621549427629_1418" n="N010"/>Zu Ausweisung des Handlungs Fundi hat der <rs type="person" ref="wkfm__46838">Franzoni</rs> daß von
-               <lb facs="#facs_113_r1l13" n="N011"/>dem <rs type="person" ref="wkfm__9731">Johann Michäl <unclear>Kyenmay</unclear></rs><unclear/> untern 7<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 742 N<hi style="superscript">o</hi> 1434 dahir
-               <lb facs="#facs_113_r1l14" n="N012"/>ausgestelte attestatum, daß der <rs type="person" ref="wkfm__46838">Franzoni</rs> bey seiner Austrettung
+               <lb facs="#facs_113_line_1621549427629_1418" n="N010"/>Zu Ausweisung des Handlungs Fundi hat der <rs type="person" ref="#wkfm__46838">Franzoni</rs> daß von
+               <lb facs="#facs_113_r1l13" n="N011"/>dem <rs type="person" ref="#wkfm__9731">Johann Michäl <unclear>Kyenmay</unclear></rs><unclear/> untern 7<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 742 N<hi style="superscript">o</hi> 1434 dahir
+               <lb facs="#facs_113_r1l14" n="N012"/>ausgestelte attestatum, daß der <rs type="person" ref="#wkfm__46838">Franzoni</rs> bey seiner Austrettung
                <lb facs="#facs_113_r1l15" n="N013"/><unclear>mehr</unclear> alß in dem Patent pro fundo erfurderet werde aus seiner
-               <lb facs="#facs_113_r1l16" n="N014"/>des <rs type="person" ref="wkfm__9731"><unclear>Kyenmayr</unclear></rs> Handlung gezogen habe.
+               <lb facs="#facs_113_r1l16" n="N014"/>des <rs type="person" ref="#wkfm__9731"><unclear>Kyenmayr</unclear></rs> Handlung gezogen habe.
             </ab>
             
         </div>

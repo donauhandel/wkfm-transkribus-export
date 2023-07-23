@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -83,26 +83,26 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_81" n="81" xml:id="img_0081"/>
+            <pb facs="#facs_81" n="81" xml:id="img_0081" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1433.jpg"/>
             
             <ab facs="#facs_81_r1">
                <lb facs="#facs_81_r1l2" n="N001"/>709
                <lb facs="#facs_81_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_81_r1l3" n="N003"/><rs type="person" ref="wkfm__46747">Ratzer Johann Georg</rs> burgerlicher Handlsmann
+               <lb facs="#facs_81_r1l3" n="N003"/><rs type="person" ref="#wkfm__46747">Ratzer Johann Georg</rs> burgerlicher Handlsmann
                <lb facs="#facs_81_r1l4" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_81_r1l5" n="N005"/><rs type="person" ref="wkfm__46748">Johann Georg Ratzer</rs> laut Erklährung <hi>sine dato</hi> dd<hi style="superscript">to</hi> 5<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice>
+               <lb facs="#facs_81_r1l5" n="N005"/><rs type="person" ref="#wkfm__46748">Johann Georg Ratzer</rs> laut Erklährung <hi>sine dato</hi> dd<hi style="superscript">to</hi> 5<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice>
                <lb facs="#facs_81_r1l6" n="N006"/>745 N<hi style="superscript">o</hi> 650
                <lb facs="#facs_81_r1l7" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_81_r1l8" n="N008"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_81_r1l9" n="N009"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_81_r1l11" n="N010"/>Der <rs type="person" ref="wkfm__46747">Ratzer</rs> hat seinen Fundum mitls der Specification N<hi style="superscript">o</hi> 1668 folgender maßen ausgewisen, nemlich daß
+               <lb facs="#facs_81_r1l11" n="N010"/>Der <rs type="person" ref="#wkfm__46747">Ratzer</rs> hat seinen Fundum mitls der Specification N<hi style="superscript">o</hi> 1668 folgender maßen ausgewisen, nemlich daß
                <lb facs="#facs_81_r1l12" n="N011"/>er eigenthumlich besize, an 2 <choice><expan>Stadt Banco</expan><abbr>St. B.</abbr></choice> obligationen dd<hi style="superscript">to</hi> 14<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 738 <choice><expan/><abbr>pr</abbr></choice> 400 fl und
                <lb facs="#facs_81_r1l13" n="N012"/>dd<hi style="superscript">to</hi> 11<hi style="superscript">ten</hi> Junii 740 <choice><expan/><abbr>pr</abbr></choice> 200 fl zusamen 600 fl
-               <lb facs="#facs_81_r1l15" n="N013"/>An einem Wechselbrief von <rs type="person" ref="wkfm__8109">Johann Michäl Niller</rs> ddto 25<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 742 in Cap:
+               <lb facs="#facs_81_r1l15" n="N013"/>An einem Wechselbrief von <rs type="person" ref="#wkfm__8109">Johann Michäl Niller</rs> ddto 25<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 742 in Cap:
                <lb facs="#facs_81_r1l16" n="N014"/><choice><expan/><abbr>pr</abbr></choice> 1000 fl und 3 Jährigen <choice><expan/><abbr>intee</abbr></choice> <choice><expan/><abbr>pr</abbr></choice> 150 fl zusamen 1150 fl
-               <lb facs="#facs_81_r1l18" n="N015"/>an einen det: von <rs type="person" ref="wkfm__42662">Franz Ignaz Kurz</rs> dd<hi style="superscript">to</hi> 11<hi style="superscript">ten</hi> Julii 744 940 fl 58
+               <lb facs="#facs_81_r1l18" n="N015"/>an einen det: von <rs type="person" ref="#wkfm__42662">Franz Ignaz Kurz</rs> dd<hi style="superscript">to</hi> 11<hi style="superscript">ten</hi> Julii 744 940 fl 58
                <lb facs="#facs_81_r1l19" n="N016"/>zusamen Eigenthum 2690 fl 58
-               <lb facs="#facs_81_r1l21" n="N017"/>zu Completirung der übrigen hat der <rs type="person" ref="wkfm__8109">Johann Michäl Niller</rs> das
+               <lb facs="#facs_81_r1l21" n="N017"/>zu Completirung der übrigen hat der <rs type="person" ref="#wkfm__8109">Johann Michäl Niller</rs> das
                <lb facs="#facs_81_r1l22" n="N018"/><choice><expan/><abbr>orig:</abbr></choice> Cautions Instrument eingeleget dd<hi style="superscript">to</hi> 3<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 745 N<hi style="superscript">o</hi> 16698 5309 fl 2 x
                <lb facs="#facs_81_r1l23" n="N019"/><choice><expan/><abbr>Sa</abbr></choice> 8000 fl 0
             </ab>

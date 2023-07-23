@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -79,19 +79,19 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_195" n="195" xml:id="img_0195"/>
+            <pb facs="#facs_195" n="195" xml:id="img_0195" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0249.jpg"/>
             
             <ab facs="#facs_195_r1">
                <lb facs="#facs_195_r1l1" n="N001"/>122
                <lb facs="#facs_195_r1l2" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_195_r1l3" n="N003"/><rs type="person" ref="wkfm__36092">Premblechner Joseph</rs> burgerlicher Tuchlaubens Verwanter
+               <lb facs="#facs_195_r1l3" n="N003"/><rs type="person" ref="#wkfm__36092">Premblechner Joseph</rs> burgerlicher Tuchlaubens Verwanter
                <lb facs="#facs_195_r1l4" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_195_r1l5" n="N005"/><rs type="person" ref="wkfm__47364">Joseph Premblechner</rs> laut Erklährung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 738 N<hi style="superscript">o</hi> 121.
+               <lb facs="#facs_195_r1l5" n="N005"/><rs type="person" ref="#wkfm__47364">Joseph Premblechner</rs> laut Erklährung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 738 N<hi style="superscript">o</hi> 121.
                <lb facs="#facs_195_r1l6" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_195_r1l7" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_195_r1l8" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_195_r1l9" n="N009"/>Der <rs type="person" ref="wkfm__36092">Premblechner</rs> hat seinen Handlungs Fundum mitls eines
-               <lb facs="#facs_195_r1l10" n="N010"/>von seinen Brudern <rs type="person" ref="wkfm__9481">Lorenz Anton Premblechner</rs> für selben einge-
+               <lb facs="#facs_195_r1l9" n="N009"/>Der <rs type="person" ref="#wkfm__36092">Premblechner</rs> hat seinen Handlungs Fundum mitls eines
+               <lb facs="#facs_195_r1l10" n="N010"/>von seinen Brudern <rs type="person" ref="#wkfm__9481">Lorenz Anton Premblechner</rs> für selben einge-
                <lb facs="#facs_195_r1l11" n="N011"/>legte Cautions instrument ausgewisen, welches dem <unclear>Sup:</unclear>
                <lb facs="#facs_195_r1l12" n="N012"/>auf <hi>dessen</hi> sein Anlangen de ps: 10<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 746 und hierauf decretando
                <lb facs="#facs_195_r1l13" n="N013"/>erlassene Erfolglassungs Verwilligung dd<hi style="superscript">to</hi> 19<hi style="superscript">ten</hi> <unclear>ej</unclear>: laut dessen

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -73,14 +73,14 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_123" n="123" xml:id="img_0123"/>
+            <pb facs="#facs_123" n="123" xml:id="img_0123" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0176.jpg"/>
             
             <ab facs="#facs_123_r3">
                <lb facs="#facs_123_r3l1" n="N001"/>86
                <lb facs="#facs_123_r3l2" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_123_r3l3" n="N003"/><rs type="person" ref="wkfm__8594">Pfitzenreiter Johann Christoph</rs> burgerlicher Handlsmann
+               <lb facs="#facs_123_r3l3" n="N003"/><rs type="person" ref="#wkfm__8594">Pfitzenreiter Johann Christoph</rs> burgerlicher Handlsmann
                <lb facs="#facs_123_r3l4" n="N004"/>Firma oder Raggion
-               <lb facs="#facs_123_r3l5" n="N005"/><rs type="person" ref="wkfm__47331">Johann Christoph Pfitzenreiter</rs> laut Erklährung ddto: 29<hi style="superscript">ten</hi> <choice><expan/><abbr>Jul:</abbr></choice> 727
+               <lb facs="#facs_123_r3l5" n="N005"/><rs type="person" ref="#wkfm__47331">Johann Christoph Pfitzenreiter</rs> laut Erklährung ddto: 29<hi style="superscript">ten</hi> <choice><expan/><abbr>Jul:</abbr></choice> 727
                <lb facs="#facs_123_r3l6" n="N006"/>N<hi style="superscript">o</hi> 81
                <lb facs="#facs_123_r3l7" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_123_r3l8" n="N008"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>

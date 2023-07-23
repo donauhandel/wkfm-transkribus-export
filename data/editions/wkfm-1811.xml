@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -85,29 +85,29 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_105" n="105" xml:id="img_0105"/>
+            <pb facs="#facs_105" n="105" xml:id="img_0105" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1811.jpg"/>
             
             <ab facs="#facs_105_r1">
                <lb facs="#facs_105_r1l2" n="N001"/>898
                <lb facs="#facs_105_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_105_r1l3" n="N003"/><rs type="person" ref="wkfm__47032">Weygarth Johann</rs> burgerlicher Handlsmann
+               <lb facs="#facs_105_r1l3" n="N003"/><rs type="person" ref="#wkfm__47032">Weygarth Johann</rs> burgerlicher Handlsmann
                <lb facs="#facs_105_r1l4" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_105_r1l5" n="N005"/><rs type="person" ref="wkfm__47033">Johann Weygarth</rs> laut Erklährung dd<hi style="superscript">to</hi> 11<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 746 N<hi style="superscript">o</hi> 835
+               <lb facs="#facs_105_r1l5" n="N005"/><rs type="person" ref="#wkfm__47033">Johann Weygarth</rs> laut Erklährung dd<hi style="superscript">to</hi> 11<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 746 N<hi style="superscript">o</hi> 835
                <lb facs="#facs_105_r1l6" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_105_r1l7" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_105_r1l8" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_105_r1l10" n="N009"/>Der <rs type="person" ref="wkfm__47032">Weygarth</rs> hat seinen Fundum mitls der <hi>specification</hi> von ihm untern 7<hi style="superscript">ten</hi> 
+               <lb facs="#facs_105_r1l10" n="N009"/>Der <rs type="person" ref="#wkfm__47032">Weygarth</rs> hat seinen Fundum mitls der <hi>specification</hi> von ihm untern 7<hi style="superscript">ten</hi> 
                <lb facs="#facs_105_r1l11" n="N010"/><choice><expan/><abbr>Mart:</abbr></choice> 746 beeydigten Specification N<hi style="superscript">o</hi> 1811 folgendermaßen ausgewisen nem-
-               <lb facs="#facs_105_r1l12" n="N011"/>lich daß er eigenthumlich besize bey <rs type="person" ref="wkfm__47034">Johann Scharnagl</rs> laut vidimirten
+               <lb facs="#facs_105_r1l12" n="N011"/>lich daß er eigenthumlich besize bey <rs type="person" ref="#wkfm__47034">Johann Scharnagl</rs> laut vidimirten
                <lb facs="#facs_105_r1l14" n="N012"/><gap/> dd<hi style="superscript">to</hi> ult: Junii 745 N<hi style="superscript">o</hi> 1813 3600 fl
                <lb facs="#facs_105_r1l16" n="N013"/>an baaren Geld 700 fl
                <lb facs="#facs_105_r1l17" n="N014"/>zusamen Eigenthum 4300 fl
-               <lb facs="#facs_105_r1l18" n="N015"/>Zu Completirung des Ubrigen hat der <rs type="person" ref="wkfm__47035">Martin Joseph Sensel</rs> das
+               <lb facs="#facs_105_r1l18" n="N015"/>Zu Completirung des Ubrigen hat der <rs type="person" ref="#wkfm__47035">Martin Joseph Sensel</rs> das
                <lb facs="#facs_105_r1l20" n="N016"/>Cautions Instrument eingeleget <choice><expan/><abbr>pr</abbr></choice> 3700 fl
                <lb facs="#facs_105_r1l21" n="N017"/><choice><expan/><abbr>Sa</abbr></choice> 8000
-               <lb facs="#facs_105_r1l23" n="N018"/>Über die von dem <rs type="person" ref="wkfm__47032">Weygarth</rs> gemachte Anzeige, das er seinen Statum alschon
+               <lb facs="#facs_105_r1l23" n="N018"/>Über die von dem <rs type="person" ref="#wkfm__47032">Weygarth</rs> gemachte Anzeige, das er seinen Statum alschon
                <lb facs="#facs_105_r1l24" n="N019"/><unclear>verrichtet und beschwohren</unclear> habe, <hi>hat</hi> ist zufolge Auflag dd<hi style="superscript">to</hi> 4<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> und
-               <lb facs="#facs_105_r1l25" n="N020"/>Quittung dd<hi style="superscript">to</hi> 4<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 750 N<hi style="superscript">o</hi> 1812 dem <rs type="person" ref="wkfm__47032">Weygarth</rs> das Sensel: Cautions
+               <lb facs="#facs_105_r1l25" n="N020"/>Quittung dd<hi style="superscript">to</hi> 4<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 750 N<hi style="superscript">o</hi> 1812 dem <rs type="person" ref="#wkfm__47032">Weygarth</rs> das Sensel: Cautions
                <lb facs="#facs_105_r1l26" n="N021"/>Instrument extradiret worden.
             </ab>
             

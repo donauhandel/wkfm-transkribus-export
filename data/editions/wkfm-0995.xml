@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -73,14 +73,14 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_75" n="75" xml:id="img_0075"/>
+            <pb facs="#facs_75" n="75" xml:id="img_0075" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0995.jpg"/>
             
             <ab facs="#facs_75_r2">
                <lb facs="#facs_75_r2l2" n="N001"/>490
                <lb facs="#facs_75_r2l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_75_r2l3" n="N003"/><rs type="person" ref="wkfm__30048">Hoppe Johann <hi>Fr</hi> Ehrenfried</rs> hofbefreyter Handlsmann
+               <lb facs="#facs_75_r2l3" n="N003"/><rs type="person" ref="#wkfm__30048">Hoppe Johann <hi>Fr</hi> Ehrenfried</rs> hofbefreyter Handlsmann
                <lb facs="#facs_75_r2l4" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_75_r2l5" n="N005"/><rs type="person" ref="wkfm__12260">Hoppe und Aicher</rs> laut Anbringen de ps: 24<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 729 N<hi style="superscript">o</hi> 1964
+               <lb facs="#facs_75_r2l5" n="N005"/><rs type="person" ref="#wkfm__12260">Hoppe und Aicher</rs> laut Anbringen de ps: 24<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 729 N<hi style="superscript">o</hi> 1964
                <lb facs="#facs_75_r2l6" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_75_r2l7" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_75_r2l8" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>

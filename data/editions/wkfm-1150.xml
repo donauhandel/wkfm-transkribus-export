@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -69,11 +69,11 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_50" n="50" xml:id="img_0050"/>
+            <pb facs="#facs_50" n="50" xml:id="img_0050" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1150.jpg"/>
             
             <ab facs="#facs_50_r1">
                <lb facs="#facs_50_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
-               <lb facs="#facs_50_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> <choice><expan/><abbr>7br:</abbr></choice> 729 N<hi style="superscript">o</hi> 529 hat sich der <rs type="person" ref="wkfm__25095">Linner</rs>
+               <lb facs="#facs_50_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> <choice><expan/><abbr>7br:</abbr></choice> 729 N<hi style="superscript">o</hi> 529 hat sich der <rs type="person" ref="#wkfm__25095">Linner</rs>
                <lb facs="#facs_50_r1l3" n="N003"/>geäusseret, daß er seine Handlung ohne Compagnie übernohmen
                <lb facs="#facs_50_r1l5" n="N004"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_50_r1l6" n="N005"/>Anmerckungen

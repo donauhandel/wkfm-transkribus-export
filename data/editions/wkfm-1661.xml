@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -84,27 +84,27 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_203" n="203" xml:id="img_0203"/>
+            <pb facs="#facs_203" n="203" xml:id="img_0203" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1661.jpg"/>
             
             <ab facs="#facs_203_r1">
                <lb facs="#facs_203_line_1626263338661_2360" n="N001"/>823
                <lb facs="#facs_203_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_203_r1l2" n="N003"/><rs type="person" ref="wkfm__47568">Schuller Johann Georg</rs> burgerlicher Handlsmann
+               <lb facs="#facs_203_r1l2" n="N003"/><rs type="person" ref="#wkfm__47568">Schuller Johann Georg</rs> burgerlicher Handlsmann
                <lb facs="#facs_203_r1l3" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_203_r1l4" n="N005"/><rs type="person" ref="wkfm__47569">Johann Georg Schuller</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 766
+               <lb facs="#facs_203_r1l4" n="N005"/><rs type="person" ref="#wkfm__47569">Johann Georg Schuller</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 766
                <lb facs="#facs_203_r1l5" n="N006"/>Untern 28<hi style="superscript">ten</hi> Decembris 763 seine firma und Societäts Anzeige ein-
                <lb facs="#facs_203_r1l6" n="N007"/>gelegt <choice><expan/><abbr>nro:</abbr></choice> 766 1/2
                <lb facs="#facs_203_r1l7" n="N008"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_203_r1l8" n="N009"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_203_r1l9" n="N010"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_203_r1l10" n="N011"/>Der <rs type="person" ref="wkfm__47568">Schuller</rs> hat mitls der von ihm untern 27<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 747 beeydigten
+               <lb facs="#facs_203_r1l10" n="N011"/>Der <rs type="person" ref="#wkfm__47568">Schuller</rs> hat mitls der von ihm untern 27<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 747 beeydigten
                <lb facs="#facs_203_r1l11" n="N012"/>Specification N<hi style="superscript">o</hi> 1730 seinen Fundum folgender maßen ausgewisen, nemlich
                <lb facs="#facs_203_r1l12" n="N013"/>daß er eigenthumlich besize an baaren 2300 fl
-               <lb facs="#facs_203_r1l14" n="N014"/>bey <rs type="person" ref="wkfm__46543 [?]">Johann Michäl Mayr</rs> in zweyen Posten 1800 fl
-               <lb facs="#facs_203_r1l15" n="N015"/>bey <rs type="person" ref="wkfm__47570">Batthot: Akherl</rs> in Gräz 616 fl
-               <lb facs="#facs_203_r1l17" n="N016"/>an erspahrten salario bey <rs type="person" ref="wkfm__9731">Johann Michäl Kyenmayr</rs> 711 fl
+               <lb facs="#facs_203_r1l14" n="N014"/>bey <rs type="person" ref="#wkfm__46543 [?]">Johann Michäl Mayr</rs> in zweyen Posten 1800 fl
+               <lb facs="#facs_203_r1l15" n="N015"/>bey <rs type="person" ref="#wkfm__47570">Batthot: Akherl</rs> in Gräz 616 fl
+               <lb facs="#facs_203_r1l17" n="N016"/>an erspahrten salario bey <rs type="person" ref="#wkfm__9731">Johann Michäl Kyenmayr</rs> 711 fl
                <lb facs="#facs_203_r1l19" n="N017"/>zusamen Eigenthum 5427 fl
-               <lb facs="#facs_203_r1l20" n="N018"/>zu Completirung des übrigen hat <rs type="person" ref="wkfm__40012">Perinet und Violland</rs> das
+               <lb facs="#facs_203_r1l20" n="N018"/>zu Completirung des übrigen hat <rs type="person" ref="#wkfm__40012">Perinet und Violland</rs> das
                <lb facs="#facs_203_r1l21" n="N019"/><choice><expan/><abbr>orig:</abbr></choice> laut Instrument dd<hi style="superscript">to</hi> 22<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 747 N<hi style="superscript">o</hi> 1731 eingeleget <choice><expan/><abbr>pr</abbr></choice> 2600 fl
                <lb facs="#facs_203_r1l22" n="N020"/><choice><expan/><abbr>Sa</abbr></choice> 8027 fl
             </ab>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -89,13 +89,13 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_248" n="248" xml:id="img_0248"/>
+            <pb facs="#facs_248" n="248" xml:id="img_0248" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0302.jpg"/>
             
             <ab facs="#facs_248_r1">
                <lb facs="#facs_248_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_248_r1l2" n="N002"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
-               <lb facs="#facs_248_r1l3" n="N003"/>Der <rs type="person" ref="wkfm__43992">Blumberger</rs> hat mitls obigen Anbringen de ps: 22<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 754 N<hi style="superscript">o</hi> 162 der mit
-               <lb facs="#facs_248_r1l4" n="N004"/>der <rs type="person" ref="wkfm__43993">Maria Anna Sartorin</rs> untern 3<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 753 in <choice><expan/><abbr>orig:</abbr></choice> N<hi style="superscript">o</hi> 2115 eingeleget
+               <lb facs="#facs_248_r1l3" n="N003"/>Der <rs type="person" ref="#wkfm__43992">Blumberger</rs> hat mitls obigen Anbringen de ps: 22<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 754 N<hi style="superscript">o</hi> 162 der mit
+               <lb facs="#facs_248_r1l4" n="N004"/>der <rs type="person" ref="#wkfm__43993">Maria Anna Sartorin</rs> untern 3<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 753 in <choice><expan/><abbr>orig:</abbr></choice> N<hi style="superscript">o</hi> 2115 eingeleget
                <lb facs="#facs_248_r1l5" n="N005"/>krafft welchen die Braut dem Bräutigam 1000 fl nebst der Handlung mit allen
                <lb facs="#facs_248_r1l6" n="N006"/>Recht und Gerechtigkeiten verheurathet der Bräutigam solche mit 2000 fl <unclear>widerlag</unclear>
                <lb facs="#facs_248_r1l7" n="N007"/>anebens heurathgutt und Widerlag auf überleben und was beede theile
@@ -104,16 +104,16 @@
                <lb facs="#facs_248_r1l13" n="N010"/>findliche 4000 fl die Nuznüßung allein gebihren, der Bräutigam auch schuldig
                <lb facs="#facs_248_r1l14" n="N011"/>seyn solle, die Firma auf des verstorbenen Sartori Nahmen zu führen und <gap/>
                <lb facs="#facs_248_r1l15" n="N012"/><unclear>etwa</unclear> zur Handlung <unclear>inclinirenden</unclear> Sohn mit zu interessiren <hi><unclear>schuldig</unclear></hi> stipuliret w<gap/>
-               <lb facs="#facs_248_r1l16" n="N013"/>In obiger Erklährung dd<hi style="superscript">to</hi> 14<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 754 N<hi style="superscript">o</hi> 159 hat sich die <rs type="person" ref="wkfm__43993">Blumbergerin</rs> <gap/>
+               <lb facs="#facs_248_r1l16" n="N013"/>In obiger Erklährung dd<hi style="superscript">to</hi> 14<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 754 N<hi style="superscript">o</hi> 159 hat sich die <rs type="person" ref="#wkfm__43993">Blumbergerin</rs> <gap/>
                <lb facs="#facs_248_r1l17" n="N014"/>hin Sartorin Sohn geäusseret, das sie von der in dem Heuraths Contract § fünftens
-               <lb facs="#facs_248_r1l18" n="N015"/><unclear>gemachten Vorsehung</unclear>, das der <rs type="person" ref="wkfm__43992">Blumberger</rs> ihr Ehewirth die Firma auf des Sartori <choice><expan/><abbr>seel:</abbr></choice> <gap/>
+               <lb facs="#facs_248_r1l18" n="N015"/><unclear>gemachten Vorsehung</unclear>, das der <rs type="person" ref="#wkfm__43992">Blumberger</rs> ihr Ehewirth die Firma auf des Sartori <choice><expan/><abbr>seel:</abbr></choice> <gap/>
                <lb facs="#facs_248_r1l19" n="N016"/>zu führen schuldig seye gänzlichen abstehe und die firma auf des Blumbergers Nahmen gehen <gap/>
                <lb facs="#facs_248_r1l20" n="N017"/>Anmerckungen
                <lb facs="#facs_248_r1l21" n="N018"/>Drübenstehende Caution N<hi style="superscript">o</hi> 1260 ist vermög auslag d 30 Jenner
                <lb facs="#facs_248_r1l22" n="N019"/>775 und quittung dd<hi style="superscript">to</hi> 6 <choice><expan/><abbr>Febr:</abbr></choice> extradiret worden
                <lb facs="#facs_248_r1l23" n="N020"/>Untern 16: Jäner 775 haben die zur Untersuchung der 
                <lb facs="#facs_248_r1l24" n="N021"/>Bernhard Blumbergerischen <unclear>leztmaligen</unclear> Inventur grichtl: ver-
-               <lb facs="#facs_248_r1l25" n="N022"/>ordnete Handlsleute <rs type="person" ref="wkfm__43994">Joseph Melzer</rs> und <rs type="person" ref="wkfm__43995">Anton Hirtmayr</rs>
+               <lb facs="#facs_248_r1l25" n="N022"/>ordnete Handlsleute <rs type="person" ref="#wkfm__43994">Joseph Melzer</rs> und <rs type="person" ref="#wkfm__43995">Anton Hirtmayr</rs>
                <lb facs="#facs_248_r1l26" n="N023"/>die über diese Handlung errichtete Billanz sub B ein-
                <lb facs="#facs_248_r1l27" n="N024"/>geleget und findet sich solche bey den firmen sub
                <lb facs="#facs_248_r1l28" n="N025"/>N<hi style="superscript">o</hi> <hi>158 1/2</hi> 162 1/2.

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -83,26 +83,26 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_259" n="259" xml:id="img_0259"/>
+            <pb facs="#facs_259" n="259" xml:id="img_0259" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0313.jpg"/>
             
             <ab facs="#facs_259_r1">
                <lb facs="#facs_259_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_259_r1l2" n="N003"/><rs type="person" ref="wkfm__44039">Bormastini Dominicus</rs> burgerlicher Handlsmann
+               <lb facs="#facs_259_r1l2" n="N003"/><rs type="person" ref="#wkfm__44039">Bormastini Dominicus</rs> burgerlicher Handlsmann
                <lb facs="#facs_259_r1l3" n="N004"/>Firma ad Raggion
                <lb facs="#facs_259_r1l4" n="N005"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_259_r1l5" n="N006"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_259_r1l6" n="N007"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_259_r1l7" n="N008"/>Der <rs type="person" ref="wkfm__44039">Bormastini</rs> hat seinen Fundum mitls der von ihm untern 29<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice>
+               <lb facs="#facs_259_r1l7" n="N008"/>Der <rs type="person" ref="#wkfm__44039">Bormastini</rs> hat seinen Fundum mitls der von ihm untern 29<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice>
                <lb facs="#facs_259_r1l8" n="N009"/>748 beeydigten Specification N<hi style="superscript">o</hi> 1221 folgendermaßen ausgewisen, nem-
                <lb facs="#facs_259_r1l9" n="N010"/>lich das er eigenthumlich besize an ererbten erworbenen und an-
                <lb facs="#facs_259_line_1621475349122_5843" n="N011"/>erspahrten salerio 2500 fl
-               <lb facs="#facs_259_r1l12" n="N012"/>Zu Completirung des übrigen hat der <rs type="person" ref="wkfm__44040">Lorenz <unclear>Pallier</unclear></rs> das Caut:
+               <lb facs="#facs_259_r1l12" n="N012"/>Zu Completirung des übrigen hat der <rs type="person" ref="#wkfm__44040">Lorenz <unclear>Pallier</unclear></rs> das Caut:
                <lb facs="#facs_259_r1l13" n="N013"/>Instrument, wovon Copia N<hi style="superscript">o</hi> 1224 dd<hi style="superscript">to</hi> 27<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 748 eingelegt <choice><expan/><abbr>pr</abbr></choice> 5500 fl
                <lb facs="#facs_259_r1l15" n="N014"/><choice><expan/><abbr>Sa</abbr></choice> 8000 fl
                <lb facs="#facs_259_r1l16" n="N015"/>zufolge der Hofresolution dd<hi style="superscript">to</hi> 22<hi style="superscript">ten</hi> May 756 N<hi style="superscript">o</hi> 1225 ist über die laut <unclear>juraments</unclear> tag-
-               <lb facs="#facs_259_r1l17" n="N016"/>sazung de ps: 26<hi style="superscript">ten</hi> Junii 756 N<hi style="superscript">o</hi> 1226 und Formulae jurandi N<hi style="superscript">o</hi> 1227 von dem <rs type="person" ref="wkfm__44039">Bor-
+               <lb facs="#facs_259_r1l17" n="N016"/>sazung de ps: 26<hi style="superscript">ten</hi> Junii 756 N<hi style="superscript">o</hi> 1226 und Formulae jurandi N<hi style="superscript">o</hi> 1227 von dem <rs type="person" ref="#wkfm__44039">Bor-
                <lb break="no" facs="#facs_259_r1l18" n="N017"/>mastini</rs> bebeydigte Handlungs Billanz ist zu folge Auflag dd<hi style="superscript">to</hi> 14<hi style="superscript">ten</hi> Julii
-               <lb facs="#facs_259_r1l19" n="N018"/>und quittung dd<hi style="superscript">to</hi> 11 <choice><expan/><abbr>Aug:</abbr></choice> d. a. N<hi style="superscript">o</hi> 1222 et 1223 dem <rs type="person" ref="wkfm__44039">Bormastini</rs> das <unclear><rs type="person" ref="wkfm__44040">Pallier</rs>.</unclear>
+               <lb facs="#facs_259_r1l19" n="N018"/>und quittung dd<hi style="superscript">to</hi> 11 <choice><expan/><abbr>Aug:</abbr></choice> d. a. N<hi style="superscript">o</hi> 1222 et 1223 dem <rs type="person" ref="#wkfm__44039">Bormastini</rs> das <unclear><rs type="person" ref="#wkfm__44040">Pallier</rs>.</unclear>
                <lb facs="#facs_259_r1l20" n="N019"/>cautions Instrument  extradiret worden.
             </ab>
             

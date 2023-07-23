@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -79,22 +79,22 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_88" n="88" xml:id="img_0088"/>
+            <pb facs="#facs_88" n="88" xml:id="img_0088" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0408.jpg"/>
             
             <ab facs="#facs_88_r1">
                <lb facs="#facs_88_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
-               <lb facs="#facs_88_r1l2" n="N002"/>In obigen Anbringen de ps: 4<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 726 N<hi style="superscript">o</hi> 1898 hat der <rs type="person" ref="wkfm__17087">Consoni</rs> <hi>angezei-</hi>
-               <lb facs="#facs_88_r1l3" n="N003"/><hi>get</hi> sich erklähret, daß er sich von seinem Vetter <rs type="person" ref="wkfm__18128">Angelo Maria Consoni</rs>
+               <lb facs="#facs_88_r1l2" n="N002"/>In obigen Anbringen de ps: 4<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 726 N<hi style="superscript">o</hi> 1898 hat der <rs type="person" ref="#wkfm__17087">Consoni</rs> <hi>angezei-</hi>
+               <lb facs="#facs_88_r1l3" n="N003"/><hi>get</hi> sich erklähret, daß er sich von seinem Vetter <rs type="person" ref="#wkfm__18128">Angelo Maria Consoni</rs>
                <lb facs="#facs_88_line_1621957600744_1101" n="N004"/>separiret und er sein <hi>das</hi> negotium unter seinen eignen Nahmen Mitlen und Obligo
                <lb facs="#facs_88_r1l7" n="N005"/>pressequiren werde.
-               <lb facs="#facs_88_r1l8" n="N006"/>Mitls obigen Anbringen de ps: 3<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 726 N<hi style="superscript">o</hi> 1917 hat der <rs type="person" ref="wkfm__8192">Joseph de Trevano</rs>
-               <lb facs="#facs_88_r1l9" n="N007"/>und <rs type="person" ref="wkfm__17087">Gasparo Consoni</rs> angezeiget das sie sich <hi>associiret hab</hi> unter der Raggion
-               <lb facs="#facs_88_r1l10" n="N008"/><rs type="person" ref="wkfm__12271">De Trevano E Consoni</rs> assiciiret haben.
-               <lb facs="#facs_88_r1l11" n="N009"/>Mitls obigen Anbringen de ps: 9<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 730 N<hi style="superscript">o</hi> 1900 hat der <rs type="person" ref="wkfm__17087">Gasparo Consoni</rs>
-               <lb facs="#facs_88_r1l12" n="N010"/>angezeiget daß das Negotium unter der Raggion <rs type="person" ref="wkfm__12271">de Trevano e Consoni</rs> biß
+               <lb facs="#facs_88_r1l8" n="N006"/>Mitls obigen Anbringen de ps: 3<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 726 N<hi style="superscript">o</hi> 1917 hat der <rs type="person" ref="#wkfm__8192">Joseph de Trevano</rs>
+               <lb facs="#facs_88_r1l9" n="N007"/>und <rs type="person" ref="#wkfm__17087">Gasparo Consoni</rs> angezeiget das sie sich <hi>associiret hab</hi> unter der Raggion
+               <lb facs="#facs_88_r1l10" n="N008"/><rs type="person" ref="#wkfm__12271">De Trevano E Consoni</rs> assiciiret haben.
+               <lb facs="#facs_88_r1l11" n="N009"/>Mitls obigen Anbringen de ps: 9<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 730 N<hi style="superscript">o</hi> 1900 hat der <rs type="person" ref="#wkfm__17087">Gasparo Consoni</rs>
+               <lb facs="#facs_88_r1l12" n="N010"/>angezeiget daß das Negotium unter der Raggion <rs type="person" ref="#wkfm__12271">de Trevano e Consoni</rs> biß
                <lb facs="#facs_88_r1l13" n="N011"/>auf den Stralicio geendiget seye, <hi><unclear>nun</unclear></hi> er seye nunmehro entschlossen solches
                <lb facs="#facs_88_r1l14" n="N012"/>unter seinem Nahmen <hi>zu la</hi> mit eignen Mitlen zu continuiren und <hi>sich</hi> seinen
-               <lb facs="#facs_88_r1l15" n="N013"/>Brudern <rs type="person" ref="wkfm__46124">Carl Franz</rs> mitzuinteressiren.
+               <lb facs="#facs_88_r1l15" n="N013"/>Brudern <rs type="person" ref="#wkfm__46124">Carl Franz</rs> mitzuinteressiren.
                <lb facs="#facs_88_r1l16" n="N014"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_88_r1l17" n="N015"/>Anmerckungen
             </ab>

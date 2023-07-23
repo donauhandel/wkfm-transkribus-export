@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -81,21 +81,21 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_81" n="81" xml:id="img_0081"/>
+            <pb facs="#facs_81" n="81" xml:id="img_0081" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1265.jpg"/>
             
             <ab facs="#facs_81_r2">
                <lb facs="#facs_81_line_1624963677547_2777" n="N001"/>626
                <lb facs="#facs_81_r2l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_81_r2l2" n="N003"/><rs type="person" ref="wkfm__46919">Mayr Franz Benedict</rs> burgerlicher Handlsmann
+               <lb facs="#facs_81_r2l2" n="N003"/><rs type="person" ref="#wkfm__46919">Mayr Franz Benedict</rs> burgerlicher Handlsmann
                <lb facs="#facs_81_r2l3" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_81_r2l4" n="N005"/><rs type="person" ref="wkfm__46920">Franz Benedict Mayr</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 582
+               <lb facs="#facs_81_r2l4" n="N005"/><rs type="person" ref="#wkfm__46920">Franz Benedict Mayr</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 582
                <lb facs="#facs_81_r2l5" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_81_r2l6" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_81_r2l7" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_81_r2l8" n="N009"/>Der <rs type="person" ref="wkfm__46919">Mayr</rs> hat zu Ausweisung seines Fundi die <choice><expan/><abbr>orig:</abbr></choice> Inventur dd<hi style="superscript">to</hi> 13<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice>
+               <lb facs="#facs_81_r2l8" n="N009"/>Der <rs type="person" ref="#wkfm__46919">Mayr</rs> hat zu Ausweisung seines Fundi die <choice><expan/><abbr>orig:</abbr></choice> Inventur dd<hi style="superscript">to</hi> 13<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice>
                <lb facs="#facs_81_r2l10" n="N010"/>738 N<hi style="superscript">o</hi> 1616 eingeleget <choice><expan/><abbr>pr</abbr></choice> 4050 fl 55 x<hi style="superscript">r</hi> wovon ihm die Helfte gehörig <choice><expan/><abbr>pr</abbr></choice> <hi>2028 fl 55 x<hi style="superscript"/></hi>r<hi>2025</hi>
                <lb facs="#facs_81_line_1630697341479_69" n="N011"/>2025 fl 27 1/2 x<hi style="superscript">r</hi>
-               <lb facs="#facs_81_r2l13" n="N012"/>Dann ein von seiner Ehewirthin <rs type="person" ref="wkfm__46921">Maria Clara</rs> untern - <choice><expan/><abbr>Mart:</abbr></choice> 738
+               <lb facs="#facs_81_r2l13" n="N012"/>Dann ein von seiner Ehewirthin <rs type="person" ref="#wkfm__46921">Maria Clara</rs> untern - <choice><expan/><abbr>Mart:</abbr></choice> 738
                <lb facs="#facs_81_r2l15" n="N013"/>ausgestelt certiorirtes <choice><expan/><abbr>orig:</abbr></choice> instrument N<hi style="superscript">o</hi> 1617 das sie von der ihr gehörigen
                <lb facs="#facs_81_r2l16" n="N014"/><hi>ein</hi> Halbscheid des Vermögens und der Handlung zur Sicherheit
                <lb facs="#facs_81_r2l17" n="N015"/>denen Creditoren gewidmet haben wolle 2000 fl

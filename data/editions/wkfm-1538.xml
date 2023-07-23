@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -69,12 +69,12 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_80" n="80" xml:id="img_0080"/>
+            <pb facs="#facs_80" n="80" xml:id="img_0080" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1538.jpg"/>
             
             <ab facs="#facs_80_r1">
                <lb facs="#facs_80_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_80_r1l4" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 695 hat sich der
-               <lb facs="#facs_80_r1l5" n="N003"/><rs type="person" ref="wkfm__47450">Schuester</rs> geäusseret, daß er keinen Compagnon habe
+               <lb facs="#facs_80_r1l5" n="N003"/><rs type="person" ref="#wkfm__47450">Schuester</rs> geäusseret, daß er keinen Compagnon habe
                <lb facs="#facs_80_r1l8" n="N004"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_80_r1l9" n="N005"/>Anmerckungen
             </ab>

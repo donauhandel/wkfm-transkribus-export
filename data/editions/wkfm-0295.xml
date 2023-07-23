@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -95,14 +95,14 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_241" n="241" xml:id="img_0241"/>
+            <pb facs="#facs_241" n="241" xml:id="img_0241" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0295.jpg"/>
             
             <ab facs="#facs_241_r1">
                <lb facs="#facs_241_line_1621473501858_4915" n="N001"/>145
                <lb facs="#facs_241_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_241_line_1621473495887_4910" n="N003"/><rs type="person" ref="wkfm__43981">Pach Martin Melchior</rs> burgerlicher Handlsmann
+               <lb facs="#facs_241_line_1621473495887_4910" n="N003"/><rs type="person" ref="#wkfm__43981">Pach Martin Melchior</rs> burgerlicher Handlsmann
                <lb facs="#facs_241_r1l5" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_241_r1l6" n="N005"/><rs type="person" ref="wkfm__47387">Martin Melchior Pach</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 146
+               <lb facs="#facs_241_r1l6" n="N005"/><rs type="person" ref="#wkfm__47387">Martin Melchior Pach</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 146
                <lb facs="#facs_241_r1l7" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_241_r1l8" n="N007"/><seg type="editorial_comment_seg"><hi>Johann Hutter dessen Sohn laut Anzeige dd<hi style="superscript"/></hi>to<hi><unclear>7</unclear> März</hi><unclear>7</unclear> März
                <lb break="no" facs="#facs_241_r1l9" n="N008"/><hi>771</hi>

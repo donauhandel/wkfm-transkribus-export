@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -72,13 +72,13 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_90" n="90" xml:id="img_0090"/>
+            <pb facs="#facs_90" n="90" xml:id="img_0090" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1010.jpg"/>
             
             <ab facs="#facs_90_r2">
                <lb facs="#facs_90_r2l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_90_r2l2" n="N002"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
-               <lb facs="#facs_90_r2l3" n="N003"/>Mitls Anbringen de ps: 23<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 744 N<hi style="superscript">o</hi> 2144 hat der <rs type="person" ref="wkfm__39393">Hütter</rs> den mit
-               <lb facs="#facs_90_r2l4" n="N004"/>der <rs type="person" ref="wkfm__46505">Barbara Felbermayrin</rs> untern 23<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 739 N<hi style="superscript">o</hi> 2173 in Copia vidi-
+               <lb facs="#facs_90_r2l3" n="N003"/>Mitls Anbringen de ps: 23<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 744 N<hi style="superscript">o</hi> 2144 hat der <rs type="person" ref="#wkfm__39393">Hütter</rs> den mit
+               <lb facs="#facs_90_r2l4" n="N004"/>der <rs type="person" ref="#wkfm__46505">Barbara Felbermayrin</rs> untern 23<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 739 N<hi style="superscript">o</hi> 2173 in Copia vidi-
                <lb facs="#facs_90_r2l5" n="N005"/>mate eingeleget kraft welchen 2000 fl heurath gutt nebst 4000 fl Wider-
                <lb facs="#facs_90_r2l6" n="N006"/>lag auf überleben, dann jenes, was wehrender Ehe erworben wird
                <lb facs="#facs_90_r2l7" n="N007"/>als ein gleiches Gutt stipuliret worden

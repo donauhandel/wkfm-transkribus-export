@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -78,19 +78,19 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_109" n="109" xml:id="img_0109"/>
+            <pb facs="#facs_109" n="109" xml:id="img_0109" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0777.jpg"/>
             
             <ab facs="#facs_109_r2">
                <lb facs="#facs_109_r2l1" n="N003"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_109_r2l2" n="N004"/><rs type="person" ref="wkfm__47141">Veth Theodor</rs> burgerlicher Handlsmann
+               <lb facs="#facs_109_r2l2" n="N004"/><rs type="person" ref="#wkfm__47141">Veth Theodor</rs> burgerlicher Handlsmann
                <lb facs="#facs_109_r2l3" n="N005"/>Firma ad Raggion
                <lb facs="#facs_109_r2l4" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_109_r2l5" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_109_r2l6" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_109_r2l7" n="N009"/>Der <rs type="person" ref="wkfm__47141">Veth</rs> hat zu Ausweisung seines Fundi das von <rs type="person">Maximilian Hochmayr</rs>
+               <lb facs="#facs_109_r2l7" n="N009"/>Der <rs type="person" ref="#wkfm__47141">Veth</rs> hat zu Ausweisung seines Fundi das von <rs type="person">Maximilian Hochmayr</rs>
                <lb facs="#facs_109_r2l8" n="N010"/>untern 12<hi style="superscript">ten</hi> Junii 738 <hi>dahin ausa N<hi style="superscript"/></hi>o<choice><expan/><abbr>Orig:</abbr></choice> Caution instru-
-               <lb facs="#facs_109_r2l9" n="N011"/>ment N<hi style="superscript">o</hi> 1430 eingeleget, kraft welchen der <rs type="person" ref="wkfm__16922">Hochmayr</rs> <hi>sich über</hi> sich ver-
-               <lb facs="#facs_109_r2l10" n="N012"/>bindet, über die die von dem <rs type="person" ref="wkfm__47141">Veth</rs> eigenthumlich besizende 3000 fl <unclear>für</unclear> 5000 fl
+               <lb facs="#facs_109_r2l9" n="N011"/>ment N<hi style="superscript">o</hi> 1430 eingeleget, kraft welchen der <rs type="person" ref="#wkfm__16922">Hochmayr</rs> <hi>sich über</hi> sich ver-
+               <lb facs="#facs_109_r2l10" n="N012"/>bindet, über die die von dem <rs type="person" ref="#wkfm__47141">Veth</rs> eigenthumlich besizende 3000 fl <unclear>für</unclear> 5000 fl
                <lb facs="#facs_109_r2l11" n="N013"/>gutt zu stehen.
             </ab>
             

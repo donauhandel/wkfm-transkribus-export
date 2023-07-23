@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -89,29 +89,29 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_145" n="145" xml:id="img_0145"/>
+            <pb facs="#facs_145" n="145" xml:id="img_0145" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0465.jpg"/>
             
             <ab facs="#facs_145_r2">
                <lb facs="#facs_145_r2l1" n="N003"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_145_r2l2" n="N004"/><rs type="person" ref="wkfm__46161">Kerndtler Ferdinand</rs> burgerlicher Tuchlaubens Verwanter
+               <lb facs="#facs_145_r2l2" n="N004"/><rs type="person" ref="#wkfm__46161">Kerndtler Ferdinand</rs> burgerlicher Tuchlaubens Verwanter
                <lb facs="#facs_145_r2l3" n="N005"/>Firma ad Raggion
                <lb facs="#facs_145_r2l4" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_145_r2l5" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_145_r2l6" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_145_r2l7" n="N009"/>Der <rs type="person" ref="wkfm__46161">Kerndtler</rs> hat über daß von dem <rs type="person" ref="wkfm__37670">Franz Joseph Ferner</rs> beygebrachte
+               <lb facs="#facs_145_r2l7" n="N009"/>Der <rs type="person" ref="#wkfm__46161">Kerndtler</rs> hat über daß von dem <rs type="person" ref="#wkfm__37670">Franz Joseph Ferner</rs> beygebrachte
                <lb facs="#facs_145_r2l8" n="N010"/>attestatum dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> May 746 N<hi style="superscript">o</hi> 1313 daß er seine Tuchhandlung seinen beeden be-
-               <lb facs="#facs_145_r2l10" n="N011"/>dienten <rs type="person" ref="wkfm__46161">Ferdinand Kerndler</rs> und <rs type="person" ref="wkfm__46162">Johann Georg <unclear>Höckher</unclear></rs> zusamen käuflichen uberlassen
+               <lb facs="#facs_145_r2l10" n="N011"/>dienten <rs type="person" ref="#wkfm__46161">Ferdinand Kerndler</rs> und <rs type="person" ref="#wkfm__46162">Johann Georg <unclear>Höckher</unclear></rs> zusamen käuflichen uberlassen
                <lb facs="#facs_145_r2l11" n="N012"/>habe, und von dem Tuchlaubens Collegio untern 4<hi style="superscript">ten</hi> Junio d. a. ausgestelte <choice><expan/><abbr>orig:</abbr></choice> Urkunden
                <lb facs="#facs_145_r2l12" n="N013"/>N<hi style="superscript">o</hi> 1314 das beede erstgedachte nach geleisteten <unclear>praestandis</unclear> bey dem Gericht einver-
-               <lb facs="#facs_145_r2l13" n="N014"/>leibet werden solle mit dem <hi>H</hi> <rs type="person" ref="wkfm__46162">Johann Georg Hökher</rs> den Fundum gemeinsamlich folgender-
+               <lb facs="#facs_145_r2l13" n="N014"/>leibet werden solle mit dem <hi>H</hi> <rs type="person" ref="#wkfm__46162">Johann Georg Hökher</rs> den Fundum gemeinsamlich folgender-
                <lb facs="#facs_145_r2l14" n="N015"/>massen ausgewisen
-               <lb facs="#facs_145_r2l15" n="N016"/>Daß er <rs type="person" ref="wkfm__46161">Kerndler</rs> von seiner Schwester und Schwagern <rs type="person" ref="wkfm__46164">Schiettler</rs> vermög <choice><expan/><abbr>orig.</abbr></choice> revers dd<hi style="superscript">to</hi>
+               <lb facs="#facs_145_r2l15" n="N016"/>Daß er <rs type="person" ref="#wkfm__46161">Kerndler</rs> von seiner Schwester und Schwagern <rs type="person" ref="#wkfm__46164">Schiettler</rs> vermög <choice><expan/><abbr>orig.</abbr></choice> revers dd<hi style="superscript">to</hi>
                <lb facs="#facs_145_line_1621961692102_2654" n="N017"/><gap/> May 746 N<hi style="superscript">o</hi> 1311 geschänkter bekommen baar 2000 fl
-               <lb facs="#facs_145_line_1621961710779_2670" n="N018"/>dann der <rs type="person" ref="wkfm__46162">Hökher</rs> laut attestati dd<hi style="superscript">to</hi> 4<hi style="superscript">ten</hi> <choice><expan/><abbr>Jun:</abbr></choice> 746 1300 von dem <rs type="person" ref="wkfm__37670">Franz Joseph
+               <lb facs="#facs_145_line_1621961710779_2670" n="N018"/>dann der <rs type="person" ref="#wkfm__46162">Hökher</rs> laut attestati dd<hi style="superscript">to</hi> 4<hi style="superscript">ten</hi> <choice><expan/><abbr>Jun:</abbr></choice> 746 1300 von dem <rs type="person" ref="#wkfm__37670">Franz Joseph
                <lb break="no" facs="#facs_145_line_1621961729242_2688" n="N019"/>Ferner</rs> anerspahrten salario zu haben habe 500 fl
-               <lb facs="#facs_145_r2l23" n="N020"/>dann neben dieser <rs type="person" ref="wkfm__46162">Hökher</rs> von dem <rs type="person" ref="wkfm__46163">Thomas Franz Hökher</rs> vermög revers
+               <lb facs="#facs_145_r2l23" n="N020"/>dann neben dieser <rs type="person" ref="#wkfm__46162">Hökher</rs> von dem <rs type="person" ref="#wkfm__46163">Thomas Franz Hökher</rs> vermög revers
                <lb facs="#facs_145_line_1621961839766_2741" n="N021"/>dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> May 746 N<hi style="superscript">o</hi> 1310 baar geschänkter empfangen 1500 fl
-               <lb facs="#facs_145_r2l29" n="N022"/>Dann hat für beede der <rs type="person" ref="wkfm__46164">Johann Wilibalt Schiettler</rs> und dessen Ehewirthin
+               <lb facs="#facs_145_r2l29" n="N022"/>Dann hat für beede der <rs type="person" ref="#wkfm__46164">Johann Wilibalt Schiettler</rs> und dessen Ehewirthin
                <lb facs="#facs_145_r2l30" n="N023"/>das <choice><expan/><abbr>orig:</abbr></choice> laut Instrument dd<hi style="superscript">to</hi> 13<hi style="superscript">ten</hi> Junii 746 N<hi style="superscript">o</hi> 1312 eingeleget <choice><expan/><abbr>pr</abbr></choice> 1500 fl
                <lb facs="#facs_145_line_1621961850989_2749" n="N024"/><choice><expan/><abbr>Sa</abbr></choice> 5500 fl
             </ab>

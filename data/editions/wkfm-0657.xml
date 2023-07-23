@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -82,24 +82,24 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_37" n="37" xml:id="img_0037"/>
+            <pb facs="#facs_37" n="37" xml:id="img_0037" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0657.jpg"/>
             
             <ab facs="#facs_37_r3">
                <lb facs="#facs_37_line_1619379423515_185" n="N001"/>326
                <lb facs="#facs_37_r3l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_37_line_1619379431095_190" n="N003"/><rs type="person" ref="wkfm__46430">Eybel Johann Heinrich</rs> burgerlicher Handlsmann
+               <lb facs="#facs_37_line_1619379431095_190" n="N003"/><rs type="person" ref="#wkfm__46430">Eybel Johann Heinrich</rs> burgerlicher Handlsmann
                <lb facs="#facs_37_r3l3" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_37_r3l4" n="N005"/><rs type="person" ref="wkfm__46431">Johann Heinrich Eybel</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 316
+               <lb facs="#facs_37_r3l4" n="N005"/><rs type="person" ref="#wkfm__46431">Johann Heinrich Eybel</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 316
                <lb facs="#facs_37_r3l5" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_37_r3l6" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_37_r3l7" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_37_r3l8" n="N009"/>Der <rs type="person" ref="wkfm__46430">Eybel</rs> hat zu Ausweisung seines Fundi daß von seinem Bruder <rs type="person" ref="wkfm__24258">Johann
-               <lb break="no" facs="#facs_37_r3l9" n="N010"/>Sebastian Eybel</rs> dahir ausgestelte attestatum, daß er <rs type="person" ref="wkfm__46430">Johann Heinrich Eybel</rs>
+               <lb facs="#facs_37_r3l8" n="N009"/>Der <rs type="person" ref="#wkfm__46430">Eybel</rs> hat zu Ausweisung seines Fundi daß von seinem Bruder <rs type="person" ref="#wkfm__24258">Johann
+               <lb break="no" facs="#facs_37_r3l9" n="N010"/>Sebastian Eybel</rs> dahir ausgestelte attestatum, daß er <rs type="person" ref="#wkfm__46430">Johann Heinrich Eybel</rs>
                <lb facs="#facs_37_r3l10" n="N011"/>bey stehen gehabt und der Handlungs Überlassnem <unclear alternative="Magazin">Napeothin</unclear> wirklich aus-
                <lb facs="#facs_37_line_1620652226580_133" n="N012"/>gezahlet habe. 4000 fl
                <lb facs="#facs_37_r3l13" n="N013"/>dd<hi style="superscript">to</hi> 5<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 739 N<hi style="superscript">o</hi> 1407 wie auch einen von eben diesem seinem
                <lb facs="#facs_37_r3l14" n="N014"/>Bruder Sub eadem dato ausgestelten Revers N<hi style="superscript">o</hi> 1408 in <choice><expan/><abbr>orig.</abbr></choice> <hi>daß</hi>
-               <lb facs="#facs_37_r3l15" n="N015"/>eingeleget kraft welchen lezteren der <rs type="person" ref="wkfm__24258">Johann Sebastian</rs> sich <unclear>verbindt
+               <lb facs="#facs_37_r3l15" n="N015"/>eingeleget kraft welchen lezteren der <rs type="person" ref="#wkfm__24258">Johann Sebastian</rs> sich <unclear>verbindt
                <lb break="no" facs="#facs_37_line_1620652453428_166" n="N016"/>gedacht</unclear> seinem Brudern dergestalten zuzuzählen <hi>und</hi> <unclear>v</unclear> daß er hevon vor
                <lb facs="#facs_37_line_1620652392250_148" n="N017"/>befridigung deren Creditoren nichts zuruckbegehren wolle 4000 fl
                <lb facs="#facs_37_line_1620652400385_152" n="N018"/><choice><expan/><abbr>Sa</abbr></choice> 8000 fl

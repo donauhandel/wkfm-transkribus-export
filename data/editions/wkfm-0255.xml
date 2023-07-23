@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -83,25 +83,25 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_201" n="201" xml:id="img_0201"/>
+            <pb facs="#facs_201" n="201" xml:id="img_0201" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0255.jpg"/>
             
             <ab facs="#facs_201_r2">
                <lb facs="#facs_201_r2l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_201_r2l2" n="N003"/><rs type="person" ref="wkfm__43953">Pichler Christian</rs> hofbefreyter Handelsmann
+               <lb facs="#facs_201_r2l2" n="N003"/><rs type="person" ref="#wkfm__43953">Pichler Christian</rs> hofbefreyter Handelsmann
                <lb facs="#facs_201_r2l3" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_201_r2l4" n="N005"/><rs type="person" ref="wkfm__43951">Baciler und Pichler</rs> laut Anbringen de ps: 10<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 738 N<hi style="superscript">o</hi> 123
+               <lb facs="#facs_201_r2l4" n="N005"/><rs type="person" ref="#wkfm__43951">Baciler und Pichler</rs> laut Anbringen de ps: 10<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 738 N<hi style="superscript">o</hi> 123
                <lb facs="#facs_201_r2l5" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_201_r2l7" n="N007"/>In obigen Anbringen de ps: 10<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 738 N<hi style="superscript">o</hi> 123 ist die Firma von beden 
                <lb facs="#facs_201_r2l8" n="N008"/>sociis eingeleget worden
                <lb facs="#facs_201_r2l9" n="N009"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_201_r2l10" n="N010"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_201_r2l11" n="N011"/>Der <rs type="person" ref="wkfm__43953">Pichler</rs> hat zu Ausweisung seines Handlungs fundi einen von
+               <lb facs="#facs_201_r2l11" n="N011"/>Der <rs type="person" ref="#wkfm__43953">Pichler</rs> hat zu Ausweisung seines Handlungs fundi einen von
                <lb facs="#facs_201_r2l12" n="N012"/>ihm <hi>gefertigte</hi> nebst <unclear>anerbittenden</unclear> Jurament gefertigte Erklährung
                <lb facs="#facs_201_r2l13" n="N013"/>sine dato, daß er bey dem Verkaufer der nunmehrigen societaets Handlung
-               <lb facs="#facs_201_r2l14" n="N014"/><rs type="person" ref="wkfm__12722">Philipp Scheigl</rs> vor Erkaufung der Handlung allschon 7208 fl 9 x<hi style="superscript">r</hi> auf-
-               <lb facs="#facs_201_r2l15" n="N015"/>recht zu fordern gehabt habe welche Erklährung von dem <rs type="person" ref="wkfm__43952">Johann
+               <lb facs="#facs_201_r2l14" n="N014"/><rs type="person" ref="#wkfm__12722">Philipp Scheigl</rs> vor Erkaufung der Handlung allschon 7208 fl 9 x<hi style="superscript">r</hi> auf-
+               <lb facs="#facs_201_r2l15" n="N015"/>recht zu fordern gehabt habe welche Erklährung von dem <rs type="person" ref="#wkfm__43952">Johann
                <lb break="no" facs="#facs_201_line_1621471516272_3937" n="N016"/>Joseph Roth</rs> durchgehends wahr zu seyn mit dem besaz untern 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 738 bestättiget
-               <lb facs="#facs_201_r2l18" n="N017"/>worden, daß der <rs type="person" ref="wkfm__12722">Scheigl</rs> diese Schuld <choice><expan/><abbr>pr</abbr></choice> 7208 fl 9 x<hi style="superscript">r</hi> für richtig <unclear>erkhent</unclear>
+               <lb facs="#facs_201_r2l18" n="N017"/>worden, daß der <rs type="person" ref="#wkfm__12722">Scheigl</rs> diese Schuld <choice><expan/><abbr>pr</abbr></choice> 7208 fl 9 x<hi style="superscript">r</hi> für richtig <unclear>erkhent</unclear>
                <lb facs="#facs_201_r2l19" n="N018"/>habe, in <choice><expan/><abbr>orig:</abbr></choice> <gap/> N<hi style="superscript">o</hi> 1183 nebst den Handlungskauf Contract dd<hi style="superscript">to</hi> 9<hi style="superscript">ten</hi>
                <lb facs="#facs_201_r2l20" n="N019"/><choice><expan/><abbr>Ju:</abbr></choice> 737 <hi>N<hi style="superscript"/></hi>o<hi style="superscript">o</hi> 1185 eingeleget.
             </ab>

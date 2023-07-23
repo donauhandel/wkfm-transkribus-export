@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -74,13 +74,13 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_256" n="256" xml:id="img_0256"/>
+            <pb facs="#facs_256" n="256" xml:id="img_0256" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0310.jpg"/>
             
             <ab facs="#facs_256_r1">
                <lb facs="#facs_256_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_256_r1l2" n="N002"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
-               <lb facs="#facs_256_r1l3" n="N003"/>Der <rs type="person" ref="wkfm__44035">Benvenuti</rs> hat mitls obigen Anbringen de <unclear>decret</unclear> 14<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 753 N<hi style="superscript">o</hi> <gap/>
-               <lb facs="#facs_256_r1l4" n="N004"/>den mit der <rs type="person" ref="wkfm__44036">Anna Catharina Preysolin gebohrne Mänzin</rs> unter <unclear>28<hi style="superscript">ten</hi></unclear>
+               <lb facs="#facs_256_r1l3" n="N003"/>Der <rs type="person" ref="#wkfm__44035">Benvenuti</rs> hat mitls obigen Anbringen de <unclear>decret</unclear> 14<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 753 N<hi style="superscript">o</hi> <gap/>
+               <lb facs="#facs_256_r1l4" n="N004"/>den mit der <rs type="person" ref="#wkfm__44036">Anna Catharina Preysolin gebohrne Mänzin</rs> unter <unclear>28<hi style="superscript">ten</hi></unclear>
                <lb facs="#facs_256_r1l5" n="N005"/><choice><expan/><abbr>Mart:</abbr></choice> 751 geschlossenen Heuraths Contract in <choice><expan/><abbr>orig:</abbr></choice> N<hi style="superscript">o</hi> 2111 eingeleget
                <lb facs="#facs_256_r1l6" n="N006"/>kraft welchen 1000 fl Heurath Gutt und 2000 fl Widerlag dann daß das wehrender
                <lb facs="#facs_256_r1l7" n="N007"/>Ehe ererbet und erworbene Guett ein gleiches gutt zwischen beeden theilen

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -91,24 +91,24 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_24" n="24" xml:id="img_0024"/>
+            <pb facs="#facs_24" n="24" xml:id="img_0024" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1316.jpg"/>
             
             <ab facs="#facs_24_r1">
                <lb facs="#facs_24_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
-               <lb facs="#facs_24_r1l2" n="N002"/>Der <rs type="person" ref="wkfm__26325">Negri</rs> hat mit dem <rs type="person" ref="wkfm__4528">Bartolomeo Patuzzi</rs> untern 23<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 733 <hi>N</hi> dem N<hi style="superscript">o</hi>
+               <lb facs="#facs_24_r1l2" n="N002"/>Der <rs type="person" ref="#wkfm__26325">Negri</rs> hat mit dem <rs type="person" ref="#wkfm__4528">Bartolomeo Patuzzi</rs> untern 23<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 733 <hi>N</hi> dem N<hi style="superscript">o</hi>
                <lb facs="#facs_24_r1l3" n="N003"/>1864 in <choice><expan/><abbr>orig:</abbr></choice> et 1865 in notariats translato eingelegten societaets Contract dahin abge-
-               <lb facs="#facs_24_r1l4" n="N004"/>schlossen, daß jeder von ihnen 3000 fl einlegen, der <rs type="person" ref="wkfm__26325">Negri</rs> jenes was er an der Summa oder
+               <lb facs="#facs_24_r1l4" n="N004"/>schlossen, daß jeder von ihnen 3000 fl einlegen, der <rs type="person" ref="#wkfm__26325">Negri</rs> jenes was er an der Summa oder
                <lb facs="#facs_24_r1l5" n="N005"/>zeit nicht richtig einlegen würde mit 6 <choice><expan/><abbr>pC<hi style="superscript">to</hi></abbr></choice> dem negotio zu verinteressiren schuldig, die socie-
-               <lb facs="#facs_24_r1l6" n="N006"/>taet von Georgii 733 bis det: 737 auf 4 Jahr auch auf Verlangen des <rs type="person" ref="wkfm__4528">Patuzzi</rs> annoch
-               <lb facs="#facs_24_r1l7" n="N007"/>auf andere 4 Jahr fürdauern, das negotium <hi>solle</hi> unter dem Nahmen des <rs type="person" ref="wkfm__26325">Negri</rs> allein
-               <lb facs="#facs_24_r1l8" n="N008"/>laufen dem <rs type="person" ref="wkfm__4528">Patuzzi</rs> oder <hi>vorbehalten seyn</hi>, <hi>da</hi> den <rs type="person" ref="wkfm__46668">Salvini</rs> oder eine andere  Persohn
+               <lb facs="#facs_24_r1l6" n="N006"/>taet von Georgii 733 bis det: 737 auf 4 Jahr auch auf Verlangen des <rs type="person" ref="#wkfm__4528">Patuzzi</rs> annoch
+               <lb facs="#facs_24_r1l7" n="N007"/>auf andere 4 Jahr fürdauern, das negotium <hi>solle</hi> unter dem Nahmen des <rs type="person" ref="#wkfm__26325">Negri</rs> allein
+               <lb facs="#facs_24_r1l8" n="N008"/>laufen dem <rs type="person" ref="#wkfm__4528">Patuzzi</rs> oder <hi>vorbehalten seyn</hi>, <hi>da</hi> den <rs type="person" ref="#wkfm__46668">Salvini</rs> oder eine andere  Persohn
                <lb facs="#facs_24_r1l9" n="N009"/>in das negotium zu stellen und solches unter dessen Nahmen mitlaufen zu lassen
                <lb facs="#facs_24_r1l10" n="N010"/>Vorbehalten <hi>seyn</hi> Gewün und Verlust zu gleichen theilen seyn, und aus dem Negotium nichts
                <lb facs="#facs_24_r1l11" n="N011"/>als die erforderliche Spesen und für jeden jährl: 150 herausgenohmen werden, alle Jahr
                <lb facs="#facs_24_r1l12" n="N012"/>eine Inventur und Billanz errichtet werden, und im fall eines Rukgangs einem jeden
-               <lb facs="#facs_24_r1l14" n="N013"/>die Societaet auch vor Verschlüssung der Zeit zu endigen bevorstehen, der <rs type="person" ref="wkfm__26325">Negri</rs> ohne Einwilligung
-               <lb facs="#facs_24_r1l15" n="N014"/>des <rs type="person" ref="wkfm__4528">Patuzi</rs> sich in kein Eheerlaubnuß einzulassen und falß sich selber einliesse der heuraths brief <unclear>unter</unclear>
-               <lb facs="#facs_24_r1l16" n="N015"/>grösserer Erfordernußen den Negotio wie auch dem <rs type="person" ref="wkfm__26325">Negri</rs> keines Weegs nachtheilig seye, der <rs type="person" ref="wkfm__26325">Negri</rs> gleich-
+               <lb facs="#facs_24_r1l14" n="N013"/>die Societaet auch vor Verschlüssung der Zeit zu endigen bevorstehen, der <rs type="person" ref="#wkfm__26325">Negri</rs> ohne Einwilligung
+               <lb facs="#facs_24_r1l15" n="N014"/>des <rs type="person" ref="#wkfm__4528">Patuzi</rs> sich in kein Eheerlaubnuß einzulassen und falß sich selber einliesse der heuraths brief <unclear>unter</unclear>
+               <lb facs="#facs_24_r1l16" n="N015"/>grösserer Erfordernußen den Negotio wie auch dem <rs type="person" ref="#wkfm__26325">Negri</rs> keines Weegs nachtheilig seye, der <rs type="person" ref="#wkfm__26325">Negri</rs> gleich-
                <lb facs="#facs_24_r1l17" n="N016"/>valß nicht befugt seye jemanden uber 300 fl Credit zu geben bey schadloshaltung des negotii, wie auch <unclear>ohne</unclear>
                <lb facs="#facs_24_r1l18" n="N017"/>Einwilligung Waaren in Comission ausser hiesigen Plaz zu geben <unclear>oder</unclear> verderbliche Waaren zu bestöllen, die be-
                <lb facs="#facs_24_r1l19" n="N018"/>diente und Jungen mit gemeinsamer Einverständnus aufgenohmen und abgedanket werden die <seg type="editorial_comment_seg"><hi>0</hi><note type="editorial_comment_note">Fortsetzung in der Rubrik Anmerckungen</note></seg>
@@ -117,8 +117,8 @@
                <lb facs="#facs_24_line_1621463294789_1464" n="N021"/>Erben von der Societaet wider willen nicht ausgeschlossen seyn, die zwistigkeiten
                <lb facs="#facs_24_line_1621463393334_1502" n="N022"/>von zweyen oder allenfals dreyen verständigen entschiden und dabey bey 1000 Straf zur disposition des St. <hi>Johann</hi>
                <lb facs="#facs_24_r1l27" n="N023"/>Joanis Nepo:-Spitals gelassen werden
-               <lb facs="#facs_24_r1l28" n="N024"/>Mitls Anbringen de ps: 17<hi style="superscript">ten</hi> Junii 735 N<hi style="superscript">o</hi> 1866 hat der <rs type="person" ref="wkfm__26325">Gioachimo Negri</rs> und 
-               <lb facs="#facs_24_r1l30" n="N025"/><rs type="person" ref="wkfm__4528">Bartholomeo Patuzzi</rs> angezeiget, daß die zwischen ihnen geschlossene soc-
+               <lb facs="#facs_24_r1l28" n="N024"/>Mitls Anbringen de ps: 17<hi style="superscript">ten</hi> Junii 735 N<hi style="superscript">o</hi> 1866 hat der <rs type="person" ref="#wkfm__26325">Gioachimo Negri</rs> und 
+               <lb facs="#facs_24_r1l30" n="N025"/><rs type="person" ref="#wkfm__4528">Bartholomeo Patuzzi</rs> angezeiget, daß die zwischen ihnen geschlossene soc-
                <lb facs="#facs_24_r1l31" n="N026"/>iätet mit dem Monath <choice><expan/><abbr>7br:</abbr></choice> 734 ihr Endschaft mit gemeinsamer Einwilligung
                <lb facs="#facs_24_r1l32" n="N027"/>erreichet habe.
             </ab>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -83,23 +83,23 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_31" n="31" xml:id="img_0031"/>
+            <pb facs="#facs_31" n="31" xml:id="img_0031" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0951.jpg"/>
             
             <ab facs="#facs_31_r4">
                <lb facs="#facs_31_r4l3" n="N001"/>468
                <lb facs="#facs_31_r4l2" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_31_r4l4" n="N003"/><rs type="person" ref="wkfm__9703">Hauzenberger Johann Jacob</rs> hofbefreyter Handlsmann
+               <lb facs="#facs_31_r4l4" n="N003"/><rs type="person" ref="#wkfm__9703">Hauzenberger Johann Jacob</rs> hofbefreyter Handlsmann
                <lb facs="#facs_31_r4l5" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_31_r4l6" n="N005"/><rs type="person" ref="wkfm__46457">Johann Jacob Hauzenberger</rs> laut oblatorien dd<hi style="superscript">to</hi> 4<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 719 N<hi style="superscript">o</hi> 1125 
+               <lb facs="#facs_31_r4l6" n="N005"/><rs type="person" ref="#wkfm__46457">Johann Jacob Hauzenberger</rs> laut oblatorien dd<hi style="superscript">to</hi> 4<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 719 N<hi style="superscript">o</hi> 1125 
                <lb facs="#facs_31_r4l7" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
-               <lb facs="#facs_31_r4l8" n="N007"/>In obiger oblatorien dd<hi style="superscript">to</hi> 4<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 719 N<hi style="superscript">o</hi> 1125 hat der <rs type="person" ref="wkfm__9703">Hauzenberger</rs> die Er-
+               <lb facs="#facs_31_r4l8" n="N007"/>In obiger oblatorien dd<hi style="superscript">to</hi> 4<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 719 N<hi style="superscript">o</hi> 1125 hat der <rs type="person" ref="#wkfm__9703">Hauzenberger</rs> die Er-
                <lb facs="#facs_31_r4l9" n="N008"/>klährung untern 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 725 beygeruket, daß er auf hiesigen Plaz
-               <lb facs="#facs_31_r4l10" n="N009"/>die Handschrifft seines Cassiers <rs type="person" ref="wkfm__46458">Franz <hi>Ha</hi> Joseph Hagenpruner</rs> aprobire.
+               <lb facs="#facs_31_r4l10" n="N009"/>die Handschrifft seines Cassiers <rs type="person" ref="#wkfm__46458">Franz <hi>Ha</hi> Joseph Hagenpruner</rs> aprobire.
                <lb facs="#facs_31_r4l11" n="N010"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
-               <lb facs="#facs_31_r4l12" n="N011"/>Mitls Anbringen de ps: 17<hi style="superscript">ten</hi> May 725 N<hi style="superscript">o</hi> 1126 hat der <rs type="person" ref="wkfm__9703">Hauzenberger</rs> die
+               <lb facs="#facs_31_r4l12" n="N011"/>Mitls Anbringen de ps: 17<hi style="superscript">ten</hi> May 725 N<hi style="superscript">o</hi> 1126 hat der <rs type="person" ref="#wkfm__9703">Hauzenberger</rs> die
                <lb facs="#facs_31_r4l13" n="N012"/>von ihm erlassene oblatorien dd<hi style="superscript">to</hi> 4<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 719 in einer mit beygerukt seiner
                <lb facs="#facs_31_r4l14" n="N013"/>fertigung <unclear>certificirten</unclear> Abschrift <hi>eingel</hi> N<hi style="superscript">o</hi> 1125 eingeleget, durch welche selber
-               <lb facs="#facs_31_r4l15" n="N014"/>kund gemacht, daß nachdem das über 20 Jahr geloffene negotium von <rs type="person" ref="wkfm__16778">Gaun und
+               <lb facs="#facs_31_r4l15" n="N014"/>kund gemacht, daß nachdem das über 20 Jahr geloffene negotium von <rs type="person" ref="#wkfm__16778">Gaun und
                <lb break="no" facs="#facs_31_r4l16" n="N015"/>Zankhoni</rs> aufzuhöben entschlossen worden, alß werde er nebst der ihm aufgetr-
                <lb facs="#facs_31_r4l17" n="N016"/>genen gänzlicher Ausgleichung dieser Raggion, das negotium unter eigenen Nahmen
                <lb facs="#facs_31_r4l18" n="N017"/>und mit eigenen interesse und obligo widerum herstehlen und <unclear>renoviren</unclear>, annebens

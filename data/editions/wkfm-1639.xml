@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -73,15 +73,15 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_181" n="181" xml:id="img_0181"/>
+            <pb facs="#facs_181" n="181" xml:id="img_0181" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1639.jpg"/>
             
             <ab facs="#facs_181_r1">
                <lb facs="#facs_181_line_1626263083394_2212" n="N001"/><hi>794</hi>
                <lb facs="#facs_181_line_1626263086364_2215" n="N002"/>812
                <lb facs="#facs_181_r1l1" n="N003"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_181_r1l2" n="N004"/><rs type="person" ref="wkfm__36936">Schadt Veit Joseph</rs> burgerlicher Handlsmann
+               <lb facs="#facs_181_r1l2" n="N004"/><rs type="person" ref="#wkfm__36936">Schadt Veit Joseph</rs> burgerlicher Handlsmann
                <lb facs="#facs_181_r1l3" n="N005"/>Firma ad Raggion
-               <lb facs="#facs_181_r1l4" n="N006"/><rs type="person" ref="wkfm__47541">Veith Joseph Schadt</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 754
+               <lb facs="#facs_181_r1l4" n="N006"/><rs type="person" ref="#wkfm__47541">Veith Joseph Schadt</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 754
                <lb facs="#facs_181_r1l5" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_181_r1l6" n="N008"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_181_r1l7" n="N009"/><seg type="orighead__fundi">Fundi Ausweisung</seg>

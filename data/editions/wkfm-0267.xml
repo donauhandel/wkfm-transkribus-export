@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -88,18 +88,18 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_213" n="213" xml:id="img_0213"/>
+            <pb facs="#facs_213" n="213" xml:id="img_0213" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0267.jpg"/>
             
             <ab facs="#facs_213_r1">
                <lb facs="#facs_213_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_213_r1l2" n="N003"/><rs type="person" ref="wkfm__43956">Pirnbaum Daniel</rs> burgerlicher Handlsmann
+               <lb facs="#facs_213_r1l2" n="N003"/><rs type="person" ref="#wkfm__43956">Pirnbaum Daniel</rs> burgerlicher Handlsmann
                <lb facs="#facs_213_r1l3" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_213_r1l4" n="N005"/><rs type="person" ref="wkfm__47373">Daniel Pirnbaum</rs> laut Erklährung dd<hi style="superscript">to</hi> 30<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 743
+               <lb facs="#facs_213_r1l4" n="N005"/><rs type="person" ref="#wkfm__47373">Daniel Pirnbaum</rs> laut Erklährung dd<hi style="superscript">to</hi> 30<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 743
                <lb facs="#facs_213_r1l5" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_213_r1l6" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_213_r1l7" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_213_r1l8" n="N009"/>Der <rs type="person" ref="wkfm__43956">Daniel Pirnbaum</rs> hat anfangs zu Ausweisung seines fundi ein von
-               <lb facs="#facs_213_r1l9" n="N010"/>seiner Compagna <rs type="person" ref="wkfm__43957">Maria Magdalena Bognerin</rs> dahin ausgestelte Ur-
+               <lb facs="#facs_213_r1l8" n="N009"/>Der <rs type="person" ref="#wkfm__43956">Daniel Pirnbaum</rs> hat anfangs zu Ausweisung seines fundi ein von
+               <lb facs="#facs_213_r1l9" n="N010"/>seiner Compagna <rs type="person" ref="#wkfm__43957">Maria Magdalena Bognerin</rs> dahin ausgestelte Ur-
                <lb facs="#facs_213_r1l10" n="N011"/>kund <hi>dd<hi style="superscript"/></hi>to
                <lb facs="#facs_213_r1l11" n="N012"/>in die Handlung eingeleget habe dd<hi style="superscript">to</hi> 13<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 740 N<hi style="superscript">o</hi> 1194 in <choice><expan/><abbr>orig:</abbr></choice>
                <lb facs="#facs_213_r1l12" n="N013"/>eingeleget.
@@ -111,7 +111,7 @@
                <lb facs="#facs_213_r1l19" n="N019"/>daß also über Abzug deren Passivorum <choice><expan/><abbr>pr</abbr></choice> 5317 fl
                <lb facs="#facs_213_line_1621471959557_4157" n="N020"/>an Eigenthum verbleiben 8623 fl
                <lb facs="#facs_213_r1l22" n="N021"/>Anbey eine Specification seiner Creditorn N<hi style="superscript">o</hi> 1197 eingeleget <choice><expan/><abbr>pr</abbr></choice> 5142 fl
-               <lb facs="#facs_213_r1l23" n="N022"/>Dann auch ein <choice><expan/><abbr>orig:</abbr></choice> Instrument von seiner gewesten Compagna <rs type="person" ref="wkfm__43957">Bognerin</rs> daß er sie gänzlich
+               <lb facs="#facs_213_r1l23" n="N022"/>Dann auch ein <choice><expan/><abbr>orig:</abbr></choice> Instrument von seiner gewesten Compagna <rs type="person" ref="#wkfm__43957">Bognerin</rs> daß er sie gänzlich
                <lb facs="#facs_213_r1l24" n="N023"/>hinausgezahlet habe dd<hi style="superscript">to</hi> 6<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 742 N<hi style="superscript">o</hi> 1198.
             </ab>
             

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -81,24 +81,24 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_19" n="19" xml:id="img_0019"/>
+            <pb facs="#facs_19" n="19" xml:id="img_0019" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0072.jpg"/>
             
             <ab facs="#facs_19_r1">
                <lb facs="#facs_19_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_19_r1l2" n="N003"/><rs type="person" ref="wkfm__9414">Pichenini Paul</rs> K. K. Niederlags Verwanter
+               <lb facs="#facs_19_r1l2" n="N003"/><rs type="person" ref="#wkfm__9414">Pichenini Paul</rs> K. K. Niederlags Verwanter
                <lb facs="#facs_19_r1l3" n="N004"/>Firma oder Raggion
-               <lb facs="#facs_19_r1l4" n="N005"/><rs type="person" ref="wkfm__47277">Paul Pichenini</rs> laut Anbringen de ps: 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 32.
-               <lb facs="#facs_19_r1l5" n="N006"/><rs type="person" ref="wkfm__43816">Paul Pichenini et Sohn</rs> laut Oblatorium dd<hi style="superscript">to</hi> 7<hi style="superscript">ten</hi> <choice><expan/><abbr>Jun:</abbr></choice> 749 N<hi style="superscript">o</hi> 1100
+               <lb facs="#facs_19_r1l4" n="N005"/><rs type="person" ref="#wkfm__47277">Paul Pichenini</rs> laut Anbringen de ps: 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 32.
+               <lb facs="#facs_19_r1l5" n="N006"/><rs type="person" ref="#wkfm__43816">Paul Pichenini et Sohn</rs> laut Oblatorium dd<hi style="superscript">to</hi> 7<hi style="superscript">ten</hi> <choice><expan/><abbr>Jun:</abbr></choice> 749 N<hi style="superscript">o</hi> 1100
                <lb facs="#facs_19_r1l6" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_19_r1l7" n="N008"/>In obigen Oblatorium dd<hi style="superscript">to</hi> 7<hi style="superscript">ten</hi> <choice><expan/><abbr>Jun:</abbr></choice> 749 N<hi style="superscript">o</hi> 1100 ist sowohl des Vatters als
-               <lb facs="#facs_19_r1l8" n="N009"/>des Sohns <rs type="person" ref="wkfm__43817">Anton Pichenini</rs> Firma der Raggion <rs type="person" ref="wkfm__43816">Paul Pichenini et Sohn</rs>
+               <lb facs="#facs_19_r1l8" n="N009"/>des Sohns <rs type="person" ref="#wkfm__43817">Anton Pichenini</rs> Firma der Raggion <rs type="person" ref="#wkfm__43816">Paul Pichenini et Sohn</rs>
                <lb facs="#facs_19_r1l9" n="N010"/>kund gemacht worden.
                <lb facs="#facs_19_r1l10" n="N011"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
-               <lb facs="#facs_19_r1l11" n="N012"/><rs type="person" ref="wkfm__43816">Paul Pichenini et Sohn</rs> hat die Oblatorien untern 7<hi style="superscript">ten</hi> Junii 749 N<hi style="superscript">o</hi> 1100
-               <lb facs="#facs_19_r1l12" n="N013"/>dahin erlassen, daß der <hi>Po</hi> <rs type="person" ref="wkfm__9414">Paul Pichenini</rs> seinen Sohn <rs type="person" ref="wkfm__43817">Anton Pichenini</rs>
-               <lb facs="#facs_19_r1l13" n="N014"/>sich associret habe, und die Raggion von <rs type="person" ref="wkfm__47277">Paul Pichenini</rs> auf <rs type="person" ref="wkfm__43816">Paul Pi-
-               <lb break="no" facs="#facs_19_r1l14" n="N015"/>chenini et Sohn</rs> abgeändert seye, auch nur der von Vattern <rs type="person" ref="wkfm__9414">Paul </rs>und
-               <lb facs="#facs_19_r1l15" n="N016"/>Sohn <rs type="person" ref="wkfm__43817">Anton </rs>beygerukten Firma glauben zu geben seye.
+               <lb facs="#facs_19_r1l11" n="N012"/><rs type="person" ref="#wkfm__43816">Paul Pichenini et Sohn</rs> hat die Oblatorien untern 7<hi style="superscript">ten</hi> Junii 749 N<hi style="superscript">o</hi> 1100
+               <lb facs="#facs_19_r1l12" n="N013"/>dahin erlassen, daß der <hi>Po</hi> <rs type="person" ref="#wkfm__9414">Paul Pichenini</rs> seinen Sohn <rs type="person" ref="#wkfm__43817">Anton Pichenini</rs>
+               <lb facs="#facs_19_r1l13" n="N014"/>sich associret habe, und die Raggion von <rs type="person" ref="#wkfm__47277">Paul Pichenini</rs> auf <rs type="person" ref="#wkfm__43816">Paul Pi-
+               <lb break="no" facs="#facs_19_r1l14" n="N015"/>chenini et Sohn</rs> abgeändert seye, auch nur der von Vattern <rs type="person" ref="#wkfm__9414">Paul </rs>und
+               <lb facs="#facs_19_r1l15" n="N016"/>Sohn <rs type="person" ref="#wkfm__43817">Anton </rs>beygerukten Firma glauben zu geben seye.
                <lb facs="#facs_19_r1l16" n="N017"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
             </ab>
             

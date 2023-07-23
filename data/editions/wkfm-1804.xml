@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -81,22 +81,22 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_98" n="98" xml:id="img_0098"/>
+            <pb facs="#facs_98" n="98" xml:id="img_0098" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1804.jpg"/>
             
             <ab facs="#facs_98_r1">
                <lb facs="#facs_98_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
-               <lb facs="#facs_98_r1l2" n="N002"/>In obiger <hi>Anbring de ps:</hi> Erklährung <hi>dd<hi style="superscript"/></hi>to<hi style="superscript">o</hi> 475 hat der <rs type="person" ref="wkfm__43919">Waizmann</rs>
-               <lb facs="#facs_98_r1l3" n="N003"/>mit dem <rs type="person" ref="wkfm__46527">Johann Huetter</rs> die ihrem gemeinsame societaets Firma <rs type="person" ref="wkfm__46528">Hue-
+               <lb facs="#facs_98_r1l2" n="N002"/>In obiger <hi>Anbring de ps:</hi> Erklährung <hi>dd<hi style="superscript"/></hi>to<hi style="superscript">o</hi> 475 hat der <rs type="person" ref="#wkfm__43919">Waizmann</rs>
+               <lb facs="#facs_98_r1l3" n="N003"/>mit dem <rs type="person" ref="#wkfm__46527">Johann Huetter</rs> die ihrem gemeinsame societaets Firma <rs type="person" ref="#wkfm__46528">Hue-
                <lb break="no" facs="#facs_98_r1l4" n="N004"/>ter und Waizmann</rs> eingelegt
-               <lb facs="#facs_98_r1l5" n="N005"/>Mitls Anbringen de ps: 8<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 744 N<hi style="superscript">o</hi> 1807 hat der <rs type="person" ref="wkfm__43919">Waizmann</rs> ange-
-               <lb facs="#facs_98_r1l6" n="N006"/>zeiget, das er sich von dem <rs type="person" ref="wkfm__46527">Johann Huetter</rs> separiret habe.
+               <lb facs="#facs_98_r1l5" n="N005"/>Mitls Anbringen de ps: 8<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 744 N<hi style="superscript">o</hi> 1807 hat der <rs type="person" ref="#wkfm__43919">Waizmann</rs> ange-
+               <lb facs="#facs_98_r1l6" n="N006"/>zeiget, das er sich von dem <rs type="person" ref="#wkfm__46527">Johann Huetter</rs> separiret habe.
                <lb facs="#facs_98_r1l10" n="N007"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
-               <lb facs="#facs_98_r1l11" n="N008"/>Mitls Anbringen de ps: 12<hi style="superscript">ten</hi> Julii 742 N<hi style="superscript">o</hi> 2250 hat der <rs type="person" ref="wkfm__43919">Waizmann</rs> den mit der
-               <lb facs="#facs_98_r1l13" n="N009"/><rs type="person" ref="wkfm__47026">Maria Anna Jenamin</rs> untern 28<hi style="superscript">ten</hi> Junii 742 errichteten heuraths Contract N<hi style="superscript">o</hi> 2240
+               <lb facs="#facs_98_r1l11" n="N008"/>Mitls Anbringen de ps: 12<hi style="superscript">ten</hi> Julii 742 N<hi style="superscript">o</hi> 2250 hat der <rs type="person" ref="#wkfm__43919">Waizmann</rs> den mit der
+               <lb facs="#facs_98_r1l13" n="N009"/><rs type="person" ref="#wkfm__47026">Maria Anna Jenamin</rs> untern 28<hi style="superscript">ten</hi> Junii 742 errichteten heuraths Contract N<hi style="superscript">o</hi> 2240
                <lb facs="#facs_98_r1l14" n="N010"/>in Copia vidimata eingeleget, kraft welchen 500 Heurathgutt nebst 1000 fl
                <lb facs="#facs_98_r1l15" n="N011"/>Widerlag dann die Einrichtung in Casum intestati auf Überleben, <hi>dann</hi> wie auch
                <lb facs="#facs_98_r1l16" n="N012"/>jenes, was wehrende Ehe erworben wird als ein gemeinsame Gutt <hi><unclear>pactire</unclear></hi>
-               <lb facs="#facs_98_r1l17" n="N013"/>pactiret annebens vorgesehen worden das der Brautvatter <rs type="person" ref="wkfm__1513">Gervasius Jenami</rs>
+               <lb facs="#facs_98_r1l17" n="N013"/>pactiret annebens vorgesehen worden das der Brautvatter <rs type="person" ref="#wkfm__1513">Gervasius Jenami</rs>
                <lb facs="#facs_98_r1l18" n="N014"/>der Braut dergestalten 2500 fl zu ihrer disposition ubergeben wolle, daß sie
                <lb facs="#facs_98_r1l19" n="N015"/>solche entweder selbstverwalten oder aber dem Bräutigam willkührlich un-
                <lb facs="#facs_98_r1l20" n="N016"/>terthänig machen könne.

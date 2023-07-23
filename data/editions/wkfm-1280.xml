@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -97,38 +97,38 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_96" n="96" xml:id="img_0096"/>
+            <pb facs="#facs_96" n="96" xml:id="img_0096" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1280.jpg"/>
             
             <ab facs="#facs_96_r1">
                <lb facs="#facs_96_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_96_r1l2" n="N002"/>Mitls Anbringen de ps: 1<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 749 N<hi style="superscript">o</hi> 1132 und oblatorien dd<hi style="superscript">to</hi> 13<hi style="superscript">ten</hi> May 748 N<hi style="superscript">o</hi> 1131
-               <lb facs="#facs_96_r1l3" n="N003"/>hat der <rs type="person" ref="wkfm__46932">Müller</rs> angezeiget und kund gemacht, daß der <rs type="person" ref="wkfm__9287">Daniel Wohlgemueth</rs> sein
+               <lb facs="#facs_96_r1l3" n="N003"/>hat der <rs type="person" ref="#wkfm__46932">Müller</rs> angezeiget und kund gemacht, daß der <rs type="person" ref="#wkfm__9287">Daniel Wohlgemueth</rs> sein
                <lb facs="#facs_96_r1l4" n="N004"/>Schwigervatter ihm seine Handlung und Niderlagsfreyheit überlassen habe
                <lb facs="#facs_96_r1l5" n="N005"/>Mitls oblatorien dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 756 N<hi style="superscript">o</hi> 1133 und Anbringen de ps: 22<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 755 N<hi style="superscript">o</hi> <unclear>2010</unclear>
-               <lb facs="#facs_96_r1l6" n="N006"/>hat der <rs type="person" ref="wkfm__46932">Müller</rs> <hi>angezeiget</hi> kund gemacht und angezeiget, daß er künftiglich sein
-               <lb facs="#facs_96_r1l7" n="N007"/>negotium in Gesellschaft des <rs type="person" ref="wkfm__46935">Julius Fridrich Coith</rs> unter beederseitigen Impegno und
-               <lb facs="#facs_96_r1l8" n="N008"/>Firmirung unter der Dita <rs type="person" ref="wkfm__46934">Georg Christoph Müller et Compagnie</rs> fortführen
-               <lb facs="#facs_96_r1l9" n="N009"/>werde anbey dem mit dem <rs type="person" ref="wkfm__46935">Julius Fridrich Coith</rs> untern 1<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 755 abgeschlossenen
-               <lb facs="#facs_96_r1l10" n="N010"/>societaets Contract N<hi style="superscript">o</hi> 2012 in <choice><expan/><abbr>orig:</abbr></choice> eingeleget kraft welchen der <rs type="person" ref="wkfm__46935">Coith</rs> 4000 fl eingeleget <unclear>hat</unclear>
-               <lb facs="#facs_96_r1l11" n="N011"/>dieses Capital sowohl als <hi>das</hi> jenes des <rs type="person" ref="wkfm__46932">Müllers</rs> und seiner Ehewirthin jährlichen mit 5 <choice><expan/><abbr>pC<hi style="superscript">to</hi></abbr></choice> <choice><expan/><abbr><hi>intee</hi></abbr></choice> verinte-
-               <lb facs="#facs_96_r1l12" n="N012"/>ressiret und ein solches jedwedern theil zu gutten geschrieben werden, der <rs type="person" ref="wkfm__46935">Coith</rs> von 1<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 755 durch 3 Jahr 1/3 tl auch die
-               <lb facs="#facs_96_r1l13" n="N013"/>übrige aber 1/2 des Gewüns zühen, an denen Handlungs debitoren biß 1<hi style="superscript">mo</hi> <choice><expan/><abbr>Aug:</abbr></choice> 755 der <rs type="person" ref="wkfm__46935">Coith</rs> keinen theil nehmen, die hievon <unclear>etwa</unclear>
-               <lb facs="#facs_96_r1l14" n="N014"/><unclear>schlecht</unclear> werdende dem <rs type="person" ref="wkfm__46932">Müller</rs> an seinen Capital abgeschrieben und von jenen welche biß ult: Julii 756 nicht eingehen dem <rs type="person" ref="wkfm__46932">Müller</rs> kein <choice><expan/><abbr>intee</abbr></choice> zuzu<gap/>
-               <lb facs="#facs_96_r1l15" n="N015"/>geschrieben werden, der <rs type="person" ref="wkfm__46932">Müller</rs> die Kost für die Bedienten und Hausknechte durch 3 Jahr allein bestritten die Handlungsspesen aber in <unclear>Gem<gap/></unclear>
+               <lb facs="#facs_96_r1l6" n="N006"/>hat der <rs type="person" ref="#wkfm__46932">Müller</rs> <hi>angezeiget</hi> kund gemacht und angezeiget, daß er künftiglich sein
+               <lb facs="#facs_96_r1l7" n="N007"/>negotium in Gesellschaft des <rs type="person" ref="#wkfm__46935">Julius Fridrich Coith</rs> unter beederseitigen Impegno und
+               <lb facs="#facs_96_r1l8" n="N008"/>Firmirung unter der Dita <rs type="person" ref="#wkfm__46934">Georg Christoph Müller et Compagnie</rs> fortführen
+               <lb facs="#facs_96_r1l9" n="N009"/>werde anbey dem mit dem <rs type="person" ref="#wkfm__46935">Julius Fridrich Coith</rs> untern 1<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 755 abgeschlossenen
+               <lb facs="#facs_96_r1l10" n="N010"/>societaets Contract N<hi style="superscript">o</hi> 2012 in <choice><expan/><abbr>orig:</abbr></choice> eingeleget kraft welchen der <rs type="person" ref="#wkfm__46935">Coith</rs> 4000 fl eingeleget <unclear>hat</unclear>
+               <lb facs="#facs_96_r1l11" n="N011"/>dieses Capital sowohl als <hi>das</hi> jenes des <rs type="person" ref="#wkfm__46932">Müllers</rs> und seiner Ehewirthin jährlichen mit 5 <choice><expan/><abbr>pC<hi style="superscript">to</hi></abbr></choice> <choice><expan/><abbr><hi>intee</hi></abbr></choice> verinte-
+               <lb facs="#facs_96_r1l12" n="N012"/>ressiret und ein solches jedwedern theil zu gutten geschrieben werden, der <rs type="person" ref="#wkfm__46935">Coith</rs> von 1<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 755 durch 3 Jahr 1/3 tl auch die
+               <lb facs="#facs_96_r1l13" n="N013"/>übrige aber 1/2 des Gewüns zühen, an denen Handlungs debitoren biß 1<hi style="superscript">mo</hi> <choice><expan/><abbr>Aug:</abbr></choice> 755 der <rs type="person" ref="#wkfm__46935">Coith</rs> keinen theil nehmen, die hievon <unclear>etwa</unclear>
+               <lb facs="#facs_96_r1l14" n="N014"/><unclear>schlecht</unclear> werdende dem <rs type="person" ref="#wkfm__46932">Müller</rs> an seinen Capital abgeschrieben und von jenen welche biß ult: Julii 756 nicht eingehen dem <rs type="person" ref="#wkfm__46932">Müller</rs> kein <choice><expan/><abbr>intee</abbr></choice> zuzu<gap/>
+               <lb facs="#facs_96_r1l15" n="N015"/>geschrieben werden, der <rs type="person" ref="#wkfm__46932">Müller</rs> die Kost für die Bedienten und Hausknechte durch 3 Jahr allein bestritten die Handlungsspesen aber in <unclear>Gem<gap/></unclear>
                <lb facs="#facs_96_r1l16" n="N016"/>getragen, was aber jeder zu seiner Unterhaltung bedarf selben à conto geschrieben, bey 10 <choice><expan/><abbr>pC<hi style="superscript">to</hi></abbr></choice> Pönfall keiner einige Gelder ausser der 
                <lb facs="#facs_96_r1l17" n="N017"/>Handlung verwänden ohne des andern Wissen Gelder aufnehmen, alß ihm widrigen dem darleiher seine satisfaction aus der Handlung sondern vor
-               <lb facs="#facs_96_r1l18" n="N018"/>dem <hi>darleiher</hi> Aufnehmer allein geliefert werden, dann ausserdeme dem <rs type="person" ref="wkfm__46932">Müller</rs> allein Vorbehaltenden Weinnegotio alles zum gemeinsamen
+               <lb facs="#facs_96_r1l18" n="N018"/>dem <hi>darleiher</hi> Aufnehmer allein geliefert werden, dann ausserdeme dem <rs type="person" ref="#wkfm__46932">Müller</rs> allein Vorbehaltenden Weinnegotio alles zum gemeinsamen
                <lb facs="#facs_96_r1l19" n="N019"/>Nuzen geschehen, In beeder Gegenwarth alles mit gemeinsamblichen Rath geschehen, alle Jahr mit ult: Julii ein Inventur und Billanz abgefasset
                <lb facs="#facs_96_r1l20" n="N020"/>falß ein oder der andere eine Separatiion verlangete, ein Jahr vorhero die aufkündigung per notarium gemacht und sohin <seg type="editorial_comment_seg">der<note type="editorial_comment_note">Fortsetzung unter der Rubrik Anmerckungen</note></seg>
                <lb facs="#facs_96_r1l21" n="N021"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_96_r1l23" n="N022"/><seg type="editorial_comment_seg">Anmerckungen<note type="editorial_comment_note">Fortsetzung des Textes der Rubrik Societaets Contract und Interessenten</note></seg>
-               <lb facs="#facs_96_r1l24" n="N023"/><rs type="person" ref="wkfm__46935">Coith</rs> mit Waaren, baaren und activen nach maß seines Capitals hindanngefertiget werde, falß
-               <lb facs="#facs_96_r1l25" n="N024"/>bey diser Abtheilung eines Zwistigkeit entstunde von dem <rs type="person" ref="wkfm__46935">Coith</rs> nach vorgehende ab und Eintheilung das
+               <lb facs="#facs_96_r1l24" n="N023"/><rs type="person" ref="#wkfm__46935">Coith</rs> mit Waaren, baaren und activen nach maß seines Capitals hindanngefertiget werde, falß
+               <lb facs="#facs_96_r1l25" n="N024"/>bey diser Abtheilung eines Zwistigkeit entstunde von dem <rs type="person" ref="#wkfm__46935">Coith</rs> nach vorgehende ab und Eintheilung das
                <lb facs="#facs_96_r1l26" n="N025"/>Loos gezohen <hi>werden</hi> demselben aber die nöthige Einsicht und Extrahirung deren Büchern <unclear>aufnahme</unclear>
-               <lb facs="#facs_96_r1l27" n="N026"/>verstattet worden, bey ableben des <rs type="person" ref="wkfm__46932">Müller</rs> solle dessen Ehewirthin bevorstehen die Separation zu machen
-               <lb facs="#facs_96_r1l28" n="N027"/>oder die Societaet mit zuzühung eines Verständigen oder mitls überlassung an den <rs type="person" ref="wkfm__46935">Coith</rs> gegen bürgschaft forzusezen
-               <lb facs="#facs_96_r1l29" n="N028"/>bey ableiben des <rs type="person" ref="wkfm__46935">Coith</rs> aber seine Erben gleich demselben hindangefertiget werden solle.
-               <lb facs="#facs_96_r1l30" n="N029"/>NB: Uiber den untern 2 Juni 792 angezeigten todfall der <rs type="person" ref="wkfm__46936">Christoph
+               <lb facs="#facs_96_r1l27" n="N026"/>verstattet worden, bey ableben des <rs type="person" ref="#wkfm__46932">Müller</rs> solle dessen Ehewirthin bevorstehen die Separation zu machen
+               <lb facs="#facs_96_r1l28" n="N027"/>oder die Societaet mit zuzühung eines Verständigen oder mitls überlassung an den <rs type="person" ref="#wkfm__46935">Coith</rs> gegen bürgschaft forzusezen
+               <lb facs="#facs_96_r1l29" n="N028"/>bey ableiben des <rs type="person" ref="#wkfm__46935">Coith</rs> aber seine Erben gleich demselben hindangefertiget werden solle.
+               <lb facs="#facs_96_r1l30" n="N029"/>NB: Uiber den untern 2 Juni 792 angezeigten todfall der <rs type="person" ref="#wkfm__46936">Christoph
                <lb break="no" facs="#facs_96_r1l31" n="N030"/>Müller <choice><expan/><abbr>seel:</abbr></choice> Wittib</rs> wird vermög Regier: Verordnung v. 8 Juni 
                <lb facs="#facs_96_r1l32" n="N031"/>792 und hierortigen <unclear>Bescheid v</unclear> 18 do diese Niderlags-
                <lb facs="#facs_96_r1l33" n="N032"/>freyheit abgethan.

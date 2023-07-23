@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -69,11 +69,11 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_158" n="158" xml:id="img_0158"/>
+            <pb facs="#facs_158" n="158" xml:id="img_0158" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1616.jpg"/>
             
             <ab facs="#facs_158_r1">
                <lb facs="#facs_158_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
-               <lb facs="#facs_158_r1l2" n="N002"/>In obigen Anbringen de ps: 15<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 735 N<hi style="superscript">o</hi> 738 hat sich der <rs type="person" ref="wkfm__23529">Sinabell</rs>
+               <lb facs="#facs_158_r1l2" n="N002"/>In obigen Anbringen de ps: 15<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 735 N<hi style="superscript">o</hi> 738 hat sich der <rs type="person" ref="#wkfm__23529">Sinabell</rs>
                <lb facs="#facs_158_r1l3" n="N003"/>erklähret das er seine Handlung mit eigenem interesse führe
                <lb facs="#facs_158_r1l5" n="N004"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_158_r1l6" n="N005"/>Anmerckungen

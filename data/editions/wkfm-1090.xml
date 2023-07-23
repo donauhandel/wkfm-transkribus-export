@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -76,12 +76,12 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_26" n="26" xml:id="img_0026"/>
+            <pb facs="#facs_26" n="26" xml:id="img_0026" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1090.jpg"/>
             
             <ab facs="#facs_26_r1">
                <lb facs="#facs_26_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_26_r1l2" n="N002"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
-               <lb facs="#facs_26_r1l3" n="N003"/>Untern 10<hi style="superscript">ten</hi> Decembris 765 hat der <rs type="person" ref="wkfm__43876">Jacob Jagatitsch</rs> seinen mit der <rs type="person" ref="wkfm__43878">Theresia Meisnerin</rs>
+               <lb facs="#facs_26_r1l3" n="N003"/>Untern 10<hi style="superscript">ten</hi> Decembris 765 hat der <rs type="person" ref="#wkfm__43876">Jacob Jagatitsch</rs> seinen mit der <rs type="person" ref="#wkfm__43878">Theresia Meisnerin</rs>
                <lb facs="#facs_26_r1l4" n="N004"/>untern 20<hi style="superscript">ten</hi> February 764 errichteten Heurathsbrief eingelegt, worinnen Heurathguth
                <lb facs="#facs_26_r1l5" n="N005"/>500 fl Widerlaag 1000 fl was jeder theil derzeit eigenthumlich besizet, jedem Theil
                <lb facs="#facs_26_r1l6" n="N006"/>auch zu seiner freyen Disposition zu verbleiben, jedoch die Brauth die von ihrem

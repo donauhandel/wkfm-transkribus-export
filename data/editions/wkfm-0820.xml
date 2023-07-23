@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -74,15 +74,15 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_8" n="8" xml:id="img_0008"/>
+            <pb facs="#facs_8" n="8" xml:id="img_0008" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0820.jpg"/>
             
             <ab facs="#facs_8_r1">
                <lb facs="#facs_8_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
-               <lb facs="#facs_8_r1l2" n="N002"/>In obigen Anbringen de ps: 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 1950 hat sich der <rs type="person" ref="wkfm__8421">Geramb</rs> erklähret
-               <lb facs="#facs_8_r1l3" n="N003"/>daß der <rs type="person" ref="wkfm__8188">Ludwig Anton Visconti</rs> mit ihm interessiret seye ansonsten aber er
+               <lb facs="#facs_8_r1l2" n="N002"/>In obigen Anbringen de ps: 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 1950 hat sich der <rs type="person" ref="#wkfm__8421">Geramb</rs> erklähret
+               <lb facs="#facs_8_r1l3" n="N003"/>daß der <rs type="person" ref="#wkfm__8188">Ludwig Anton Visconti</rs> mit ihm interessiret seye ansonsten aber er
                <lb facs="#facs_8_r1l4" n="N004"/>keinen Compagnon habe.
-               <lb facs="#facs_8_r1l5" n="N005"/>Mitls Anbringen de ps: 3<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 728 N<hi style="superscript">o</hi> 1953 hat der <rs type="person" ref="wkfm__8421">Geramb</rs> angezeiget
-               <lb facs="#facs_8_r1l6" n="N006"/>daß, nachdem er den <rs type="person" ref="wkfm__8188">Ludwig Anton Visconti</rs> mit Ende <choice><expan/><abbr>9br:</abbr></choice> 727 hindange-
+               <lb facs="#facs_8_r1l5" n="N005"/>Mitls Anbringen de ps: 3<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 728 N<hi style="superscript">o</hi> 1953 hat der <rs type="person" ref="#wkfm__8421">Geramb</rs> angezeiget
+               <lb facs="#facs_8_r1l6" n="N006"/>daß, nachdem er den <rs type="person" ref="#wkfm__8188">Ludwig Anton Visconti</rs> mit Ende <choice><expan/><abbr>9br:</abbr></choice> 727 hindange-
                <lb facs="#facs_8_r1l7" n="N007"/>fertiget, weithershin seine Handlung auf seine alleinige Rechung ohne <unclear>jemanden</unclear>
                <lb facs="#facs_8_r1l8" n="N008"/><choice><expan/><abbr>Intee</abbr></choice> lauffe<hi>n wird</hi>
                <lb facs="#facs_8_r1l9" n="N009"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>

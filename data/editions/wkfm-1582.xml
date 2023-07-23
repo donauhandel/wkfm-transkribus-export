@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -84,15 +84,15 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_124" n="124" xml:id="img_0124"/>
+            <pb facs="#facs_124" n="124" xml:id="img_0124" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1582.jpg"/>
             
             <ab facs="#facs_124_r1">
                <lb facs="#facs_124_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_124_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 733 N<hi style="superscript">o</hi> 717 hat sich der
-               <lb facs="#facs_124_r1l3" n="N003"/><rs type="person" ref="wkfm__23508">Stidl</rs> geäusseret, das er seine Handlung ohne Compagnon führe
+               <lb facs="#facs_124_r1l3" n="N003"/><rs type="person" ref="#wkfm__23508">Stidl</rs> geäusseret, das er seine Handlung ohne Compagnon führe
                <lb facs="#facs_124_r1l6" n="N004"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
-               <lb facs="#facs_124_r1l7" n="N005"/>Mitls Anbringen de ps: 21<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 738 N<hi style="superscript">o</hi> 2228 hat der <rs type="person" ref="wkfm__23508">Stidl</rs> den mit der
-               <lb facs="#facs_124_r1l8" n="N006"/><rs type="person" ref="wkfm__47487">Maria Josepha Sallietin</rs> untern 26<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 735 errichtet Heurathscontract
+               <lb facs="#facs_124_r1l7" n="N005"/>Mitls Anbringen de ps: 21<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 738 N<hi style="superscript">o</hi> 2228 hat der <rs type="person" ref="#wkfm__23508">Stidl</rs> den mit der
+               <lb facs="#facs_124_r1l8" n="N006"/><rs type="person" ref="#wkfm__47487">Maria Josepha Sallietin</rs> untern 26<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 735 errichtet Heurathscontract
                <lb facs="#facs_124_r1l9" n="N007"/>N<hi style="superscript">o</hi> 2227 in Copia vidimata eingeleget, kraft welchen 500 fl Heurathsgut
                <lb facs="#facs_124_r1l11" n="N008"/>nebst 1000 fl Widerlag auf überleben und jenes, was wehrender Ehe erworben
                <lb facs="#facs_124_r1l12" n="N009"/>und ererbet wird alß ein gleiches gutt practiret, dann weithers vorgesehen worden,

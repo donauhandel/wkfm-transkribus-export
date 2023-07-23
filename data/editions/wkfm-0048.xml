@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -84,17 +84,17 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_43" n="43" xml:id="img_0043"/>
+            <pb facs="#facs_43" n="43" xml:id="img_0043" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0048.jpg"/>
             
             <ab facs="#facs_43_r1">
                <lb facs="#facs_43_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_43_r1l2" n="N003"/><rs type="person" ref="wkfm__43797">Auffner Joseph</rs> burgerlicher Handlsmann
+               <lb facs="#facs_43_r1l2" n="N003"/><rs type="person" ref="#wkfm__43797">Auffner Joseph</rs> burgerlicher Handlsmann
                <lb facs="#facs_43_r1l3" n="N004"/>Firma oder Raggion
-               <lb facs="#facs_43_r1l4" n="N005"/><rs type="person" ref="wkfm__46598">Joseph Auffner</rs> laut Erklährung dd<hi style="superscript">to</hi> 14<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 746 N<hi style="superscript">o</hi> 23.
+               <lb facs="#facs_43_r1l4" n="N005"/><rs type="person" ref="#wkfm__46598">Joseph Auffner</rs> laut Erklährung dd<hi style="superscript">to</hi> 14<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 746 N<hi style="superscript">o</hi> 23.
                <lb facs="#facs_43_r1l5" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_43_r1l6" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_43_r1l7" n="N008"/>Fundi Außweisung
-               <lb facs="#facs_43_r1l8" n="N009"/>Der <rs type="person" ref="wkfm__43797">Auffner </rs>hat seinen Handlungs Fundum volgender gestalten
+               <lb facs="#facs_43_r1l8" n="N009"/>Der <rs type="person" ref="#wkfm__43797">Auffner </rs>hat seinen Handlungs Fundum volgender gestalten
                <lb facs="#facs_43_r1l9" n="N010"/>ausgewisen. 1<hi style="superscript">mo</hi> laut specification mit beygerukten formulae jurandi
                <lb facs="#facs_43_line_1621280421855_29" n="N011"/>de ps: 28<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 746
                <lb facs="#facs_43_line_1621280360114_21" n="N012"/>N<hi style="superscript">o</hi> 1154
@@ -102,7 +102,7 @@
                <lb facs="#facs_43_line_1621280550101_50" n="N014"/>bringe an baaren geld 2200 fl
                <lb facs="#facs_43_r1l15" n="N015"/>und einen ihm erblich zugefallene Au und Weingarten <choice><expan/><abbr>pr</abbr></choice> 500 fl
                <lb facs="#facs_43_line_1621280647538_74" n="N016"/>zusamen 2700 fl
-               <lb facs="#facs_43_r1l18" n="N017"/>2<hi style="superscript">do</hi> zu Completirung des Fundi hat der <rs type="person" ref="wkfm__43798">Dominico
+               <lb facs="#facs_43_r1l18" n="N017"/>2<hi style="superscript">do</hi> zu Completirung des Fundi hat der <rs type="person" ref="#wkfm__43798">Dominico
                <lb break="no" facs="#facs_43_r1l19" n="N018"/>Anton Ferrari</rs> einen <choice><expan/><abbr>orig.</abbr></choice> laut Instrument dd<hi style="superscript">to</hi> 22<hi style="superscript">ten</hi>
                <lb facs="#facs_43_line_1621280631214_66" n="N019"/><choice><expan/><abbr>9br:</abbr></choice> 746 N<hi style="superscript">o</hi> 1155 eingeleget <choice><expan/><abbr>pr</abbr></choice> 1300 fl
                <lb facs="#facs_43_r1l22" n="N020"/><choice><expan/><abbr><seg type="editorial_comment_seg">Sa<note type="editorial_comment_note">Summa</note></seg></abbr></choice> 4000 fl

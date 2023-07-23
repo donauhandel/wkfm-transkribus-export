@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -78,21 +78,21 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_167" n="167" xml:id="img_0167"/>
+            <pb facs="#facs_167" n="167" xml:id="img_0167" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1625.jpg"/>
             
             <ab facs="#facs_167_r2">
                <lb facs="#facs_167_line_1626262907946_2113" n="N001"/><hi>787</hi>
                <lb facs="#facs_167_line_1626262910376_2116" n="N002"/>805
                <lb facs="#facs_167_r2l1" n="N003"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_167_r2l2" n="N004"/><rs type="person" ref="wkfm__47522">Schmidt Ignaz</rs> burgerlicher Handlsmann
+               <lb facs="#facs_167_r2l2" n="N004"/><rs type="person" ref="#wkfm__47522">Schmidt Ignaz</rs> burgerlicher Handlsmann
                <lb facs="#facs_167_r2l3" n="N005"/>Firma ad Raggion
-               <lb facs="#facs_167_r2l4" n="N006"/><rs type="person" ref="wkfm__47521">Ignat: Schmidt</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 742
+               <lb facs="#facs_167_r2l4" n="N006"/><rs type="person" ref="#wkfm__47521">Ignat: Schmidt</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 742
                <lb facs="#facs_167_r2l5" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_167_r2l6" n="N008"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_167_r2l7" n="N009"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_167_r2l8" n="N010"/>Der <rs type="person" ref="wkfm__47522">Schmidt</rs> hat zu Ausweisung seines Handlungs Fundi ein von <rs type="person" ref="wkfm__47523">Georg Philipp
+               <lb facs="#facs_167_r2l8" n="N010"/>Der <rs type="person" ref="#wkfm__47522">Schmidt</rs> hat zu Ausweisung seines Handlungs Fundi ein von <rs type="person" ref="#wkfm__47523">Georg Philipp
                <lb break="no" facs="#facs_167_r2l9" n="N011"/>von Batz</rs> untern 25<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 737 dahin ausgestelte Erklährung N<hi style="superscript">o</hi> 1711 in <choice><expan/><abbr>orig:</abbr></choice>
-               <lb facs="#facs_167_r2l10" n="N012"/>eingeleget, daß er ihn <rs type="person" ref="wkfm__47522">Schmidt</rs> 5000 fl baar dargelichen habe und solche biß
+               <lb facs="#facs_167_r2l10" n="N012"/>eingeleget, daß er ihn <rs type="person" ref="#wkfm__47522">Schmidt</rs> 5000 fl baar dargelichen habe und solche biß
                <lb facs="#facs_167_r2l11" n="N013"/>zu befrüdigung aller handlungs Creditoren ligen lassen wolle.
             </ab>
             

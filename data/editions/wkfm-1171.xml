@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -83,24 +83,24 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_71" n="71" xml:id="img_0071"/>
+            <pb facs="#facs_71" n="71" xml:id="img_0071" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1171.jpg"/>
             
             <ab facs="#facs_71_r1">
                <lb facs="#facs_71_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_71_r1l2" n="N003"/><rs type="person" ref="wkfm__46830">Lanser Sebastian</rs> burgerlicher Handlsmann
+               <lb facs="#facs_71_r1l2" n="N003"/><rs type="person" ref="#wkfm__46830">Lanser Sebastian</rs> burgerlicher Handlsmann
                <lb facs="#facs_71_r1l3" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_71_r1l4" n="N005"/><rs type="person" ref="wkfm__46831">Sebastian Lanser</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 537
+               <lb facs="#facs_71_r1l4" n="N005"/><rs type="person" ref="#wkfm__46831">Sebastian Lanser</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 537
                <lb facs="#facs_71_r1l5" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_71_r1l6" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_71_r1l7" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_71_r1l8" n="N009"/>Der <rs type="person" ref="wkfm__46830">Lanser</rs> hat zu ausweisung seines fundi das von der <rs type="person" ref="wkfm__46832">Anna Christina
+               <lb facs="#facs_71_r1l8" n="N009"/>Der <rs type="person" ref="#wkfm__46830">Lanser</rs> hat zu ausweisung seines fundi das von der <rs type="person" ref="#wkfm__46832">Anna Christina
                <lb break="no" facs="#facs_71_r1l9" n="N010"/>verwitt: Veronesin</rs> untern 15<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 743 dahin ausgestelte attestatum
                <lb facs="#facs_71_r1l10" n="N011"/>N<hi style="superscript">o</hi> 1577
-               <lb facs="#facs_71_r1l11" n="N012"/>daß er <rs type="person" ref="wkfm__46830">Lanser</rs> in die ihren Mann eigenthumlich gewest und ihr nun-
+               <lb facs="#facs_71_r1l11" n="N012"/>daß er <rs type="person" ref="#wkfm__46830">Lanser</rs> in die ihren Mann eigenthumlich gewest und ihr nun-
                <lb facs="#facs_71_r1l12" n="N013"/>mehro erblich zugefallene Handlung eingeleget habe 2500 fl
                <lb facs="#facs_71_r1l14" n="N014"/>dann an erspahrten Lidlohn zu fordern habe 600 fl
                <lb facs="#facs_71_r1l16" n="N015"/>zusamen Eigenthum 3100 fl
-               <lb facs="#facs_71_r1l18" n="N016"/>Zu Completirung des übrigen hat eben dieser <rs type="person" ref="wkfm__46832">Veronesin</rs> das certio-
+               <lb facs="#facs_71_r1l18" n="N016"/>Zu Completirung des übrigen hat eben dieser <rs type="person" ref="#wkfm__46832">Veronesin</rs> das certio-
                <lb facs="#facs_71_r1l19" n="N017"/>nirte <choice><expan/><abbr>orig:</abbr></choice> Caut: Instrument dd<hi style="superscript">to</hi> 18<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 743 N<hi style="superscript">o</hi> 1578 einge-
                <lb facs="#facs_71_r1l20" n="N018"/>leget <choice><expan/><abbr>pr</abbr></choice> 4900 fl
                <lb facs="#facs_71_r1l22" n="N019"/><choice><expan/><abbr>Sa</abbr></choice> 8000 fl

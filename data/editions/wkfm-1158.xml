@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -70,12 +70,12 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_58" n="58" xml:id="img_0058"/>
+            <pb facs="#facs_58" n="58" xml:id="img_0058" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1158.jpg"/>
             
             <ab facs="#facs_58_r1">
                <lb facs="#facs_58_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_58_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 22<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 733 N<hi style="superscript">o</hi> 531 hat sich der
-               <lb facs="#facs_58_r1l3" n="N003"/><rs type="person" ref="wkfm__27548">Leeb</rs> geäusseret, daß er seine Handlung für sich allein ohne
+               <lb facs="#facs_58_r1l3" n="N003"/><rs type="person" ref="#wkfm__27548">Leeb</rs> geäusseret, daß er seine Handlung für sich allein ohne
                <lb facs="#facs_58_r1l4" n="N004"/>Compagnon führe
                <lb facs="#facs_58_r1l5" n="N005"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_58_r1l6" n="N006"/>Anmerckungen

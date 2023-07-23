@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -84,22 +84,22 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_243" n="243" xml:id="img_0243"/>
+            <pb facs="#facs_243" n="243" xml:id="img_0243" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0297.jpg"/>
             
             <ab facs="#facs_243_r1">
                <lb facs="#facs_243_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_243_r1l2" n="N003"/><rs type="person" ref="wkfm__43984">Puz Joseph Carl</rs> burgerlicher Handlsmann
+               <lb facs="#facs_243_r1l2" n="N003"/><rs type="person" ref="#wkfm__43984">Puz Joseph Carl</rs> burgerlicher Handlsmann
                <lb facs="#facs_243_r1l3" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_243_r1l4" n="N005"/><rs type="person" ref="wkfm__47389">Joseph Carl Puz</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 147 welche der
+               <lb facs="#facs_243_r1l4" n="N005"/><rs type="person" ref="#wkfm__47389">Joseph Carl Puz</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 147 welche der
                <lb facs="#facs_243_r1l5" n="N006"/>Supl: mitls Anbringen de ps: 25<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 753 N<hi style="superscript">o</hi> 148 eingeleget
                <lb facs="#facs_243_r1l6" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_243_r1l7" n="N008"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_243_r1l8" n="N009"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_243_r1l9" n="N010"/>Der <rs type="person" ref="wkfm__43984">Joseph Carl Puz</rs> hat seinen fundum mitls einer Specification sine
+               <lb facs="#facs_243_r1l9" n="N010"/>Der <rs type="person" ref="#wkfm__43984">Joseph Carl Puz</rs> hat seinen fundum mitls einer Specification sine
                <lb facs="#facs_243_r1l10" n="N011"/>dato N<hi style="superscript">o</hi> 1229 hierdurch ausgewisen daß selber Eigenthumlich besize 2666 fl 40 x<hi style="superscript">r</hi>
-               <lb facs="#facs_243_r1l11" n="N012"/>worüber der <rs type="person" ref="wkfm__37701">Philipp Joseph Langwider</rs> das Testatum dd<hi style="superscript">to</hi> 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Jan:</abbr></choice>
+               <lb facs="#facs_243_r1l11" n="N012"/>worüber der <rs type="person" ref="#wkfm__37701">Philipp Joseph Langwider</rs> das Testatum dd<hi style="superscript">to</hi> 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Jan:</abbr></choice>
                <lb facs="#facs_243_r1l12" n="N013"/>749 N<hi style="superscript">o</hi> 1230 ausgestellet
-               <lb facs="#facs_243_r1l13" n="N014"/>Für den überreste hat eben dieser <rs type="person" ref="wkfm__37701">Landwider</rs> das <choice><expan/><abbr>orig:</abbr></choice> Cautions
+               <lb facs="#facs_243_r1l13" n="N014"/>Für den überreste hat eben dieser <rs type="person" ref="#wkfm__37701">Landwider</rs> das <choice><expan/><abbr>orig:</abbr></choice> Cautions
                <lb facs="#facs_243_line_1621473685890_5014" n="N015"/>Instrument dd<hi style="superscript">to</hi> 19<hi style="superscript">ten</hi> Junii 749 N<hi style="superscript">o</hi> 1231 eingeleget <choice><expan/><abbr>pr</abbr></choice> 5333 fl 20 x<hi style="superscript">r</hi>
                <lb facs="#facs_243_r1l17" n="N016"/><choice><expan/><abbr>Sa</abbr></choice> 8000 fl
                <lb facs="#facs_243_line_1621473707586_5032" n="N017"/>Worbey sich annoch 2 Anbringen des Supl: und zwey Bericht von dem <choice><expan/><abbr><hi>burgl:</hi></abbr></choice> Magistrat

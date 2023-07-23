@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -69,12 +69,12 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_46" n="46" xml:id="img_0046"/>
+            <pb facs="#facs_46" n="46" xml:id="img_0046" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1504.jpg"/>
             
             <ab facs="#facs_46_r1">
                <lb facs="#facs_46_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_46_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 678 hat sich der
-               <lb facs="#facs_46_r1l3" n="N003"/><rs type="person" ref="wkfm__47426">Schmidt</rs> geäusseret das er keine Compagnie noch Verständnuß habe
+               <lb facs="#facs_46_r1l3" n="N003"/><rs type="person" ref="#wkfm__47426">Schmidt</rs> geäusseret das er keine Compagnie noch Verständnuß habe
                <lb facs="#facs_46_r1l9" n="N004"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_46_r1l10" n="N005"/>Anmerckungen
             </ab>

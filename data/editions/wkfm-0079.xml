@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -80,22 +80,22 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_26" n="26" xml:id="img_0026"/>
+            <pb facs="#facs_26" n="26" xml:id="img_0026" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0079.jpg"/>
             
             <ab facs="#facs_26_r1">
                <lb facs="#facs_26_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
-               <lb facs="#facs_26_r1l2" n="N002"/>In obigen Anbringen de ps: 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 34 hat sich obiger <rs type="person" ref="wkfm__40680">Butterna</rs>
-               <lb facs="#facs_26_r1l3" n="N003"/>dann der <rs type="person" ref="wkfm__15300">Johann Anton Bormastino</rs> erklähret das sie ihre Handlung
-               <lb facs="#facs_26_r1l4" n="N004"/>unter der Societats Firma <rs type="person" ref="wkfm__9133">Bormastino und Butterna</rs> führen
+               <lb facs="#facs_26_r1l2" n="N002"/>In obigen Anbringen de ps: 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 34 hat sich obiger <rs type="person" ref="#wkfm__40680">Butterna</rs>
+               <lb facs="#facs_26_r1l3" n="N003"/>dann der <rs type="person" ref="#wkfm__15300">Johann Anton Bormastino</rs> erklähret das sie ihre Handlung
+               <lb facs="#facs_26_r1l4" n="N004"/>unter der Societats Firma <rs type="person" ref="#wkfm__9133">Bormastino und Butterna</rs> führen
                <lb facs="#facs_26_r1l5" n="N005"/>In obigen Anbringen de ps: 23<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 728 N<hi style="superscript">o</hi> 1851 ist die Erklährung gemacht
-               <lb facs="#facs_26_r1l6" n="N006"/>worden daß zwischen dem <rs type="person" ref="wkfm__40680">Butterna </rs>dann <rs type="person" ref="wkfm__24831">Wolfgang </rs>und <rs type="person" ref="wkfm__11795">Philipp Joseph
+               <lb facs="#facs_26_r1l6" n="N006"/>worden daß zwischen dem <rs type="person" ref="#wkfm__40680">Butterna </rs>dann <rs type="person" ref="#wkfm__24831">Wolfgang </rs>und <rs type="person" ref="#wkfm__11795">Philipp Joseph
                <lb break="no" facs="#facs_26_r1l7" n="N007"/>Heymerl</rs> zu Aufricht und Fortpflanzung einer Gold und Silber <unclear>Fabrique</unclear>
                <lb facs="#facs_26_r1l8" n="N008"/>untern 30<hi style="superscript">ten</hi> Junii 727 eine <seg type="editorial_comment_seg"><hi><unclear>So</unclear></hi><note type="editorial_comment_note">ein E und S übereinander</note></seg> Societaet und Einverständnus errichtet
                <lb facs="#facs_26_r1l10" n="N009"/>worden seye.
                <lb facs="#facs_26_line_1628436152675_69" n="N010"/>Mitls Anbringen de ps: 14<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 748 N<hi style="superscript">o</hi> 1980 haben die gerichtlich <unclear>aufgestelte</unclear> <unclear>Administratorn</unclear>
-               <lb facs="#facs_26_r1l12" n="N011"/>der Verlassenschaft des <rs type="person" ref="wkfm__24831">Johann Wolfgang Heymerl</rs> angezeiget, daß die
-               <lb facs="#facs_26_r1l13" n="N012"/>Handlung unter der Raggion <rs type="person" ref="wkfm__13569">Butterna und Heymerl</rs> worunter der <rs type="person" ref="wkfm__24831">Johann
-               <lb break="no" facs="#facs_26_r1l14" n="N013"/>Wolfgang</rs> und <rs type="person" ref="wkfm__11795">Philipp Joseph Haymerl </rs>mitinteressenten waren <unclear>bereits geendet</unclear>
+               <lb facs="#facs_26_r1l12" n="N011"/>der Verlassenschaft des <rs type="person" ref="#wkfm__24831">Johann Wolfgang Heymerl</rs> angezeiget, daß die
+               <lb facs="#facs_26_r1l13" n="N012"/>Handlung unter der Raggion <rs type="person" ref="#wkfm__13569">Butterna und Heymerl</rs> worunter der <rs type="person" ref="#wkfm__24831">Johann
+               <lb break="no" facs="#facs_26_r1l14" n="N013"/>Wolfgang</rs> und <rs type="person" ref="#wkfm__11795">Philipp Joseph Haymerl </rs>mitinteressenten waren <unclear>bereits geendet</unclear>
                <lb facs="#facs_26_r1l15" n="N014"/>seye, und habe <hi><unclear>nun </unclear></hi>gebetten diese Societat judicialiter aufzuhöben.
                <lb facs="#facs_26_r1l16" n="N015"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_26_r1l17" n="N016"/><seg type="orighead__other_notes"><seg type="orighead__other_notes">Anmerkungen</seg></seg>

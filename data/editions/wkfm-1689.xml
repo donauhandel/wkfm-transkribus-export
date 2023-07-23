@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -73,14 +73,14 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_231" n="231" xml:id="img_0231"/>
+            <pb facs="#facs_231" n="231" xml:id="img_0231" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1689.jpg"/>
             
             <ab facs="#facs_231_r1">
                <lb facs="#facs_231_r1l2" n="N001"/>837
                <lb facs="#facs_231_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_231_r1l3" n="N003"/><rs type="person" ref="wkfm__47576">Schwarzleithner Franz</rs> kay: könig: Niderlags Verwanter
+               <lb facs="#facs_231_r1l3" n="N003"/><rs type="person" ref="#wkfm__47576">Schwarzleithner Franz</rs> kay: könig: Niderlags Verwanter
                <lb facs="#facs_231_r1l4" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_231_r1l5" n="N005"/><rs type="person" ref="wkfm__43987">Joseph Schwarzleithner und Sohn</rs> laut oblatorien dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 749
+               <lb facs="#facs_231_r1l5" n="N005"/><rs type="person" ref="#wkfm__43987">Joseph Schwarzleithner und Sohn</rs> laut oblatorien dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 749
                <lb facs="#facs_231_r1l6" n="N006"/>N<hi style="superscript">o</hi> 1150 et 1151 wie auch Anbringen de ps: 22<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 754 N<hi style="superscript">o</hi> 780
                <lb facs="#facs_231_r1l7" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_231_r1l8" n="N008"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>

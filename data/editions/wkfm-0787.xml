@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -75,18 +75,18 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_119" n="119" xml:id="img_0119"/>
+            <pb facs="#facs_119" n="119" xml:id="img_0119" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0787.jpg"/>
             
             <ab facs="#facs_119_r1">
                <lb facs="#facs_119_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_119_r1l2" n="N003"/><rs type="person" ref="wkfm__47153">Fliesser Johann Martin</rs> burgerlicher Handlsmann
+               <lb facs="#facs_119_r1l2" n="N003"/><rs type="person" ref="#wkfm__47153">Fliesser Johann Martin</rs> burgerlicher Handlsmann
                <lb facs="#facs_119_r1l3" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_119_r1l4" n="N005"/><rs type="person" ref="wkfm__47154">Johann Märtin Fliesser</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 373.
+               <lb facs="#facs_119_r1l4" n="N005"/><rs type="person" ref="#wkfm__47154">Johann Märtin Fliesser</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 373.
                <lb facs="#facs_119_line_1621549232871_1369" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_119_r1l5" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_119_r1l6" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_119_r1l7" n="N009"/>Der <rs type="person" ref="wkfm__47154">Fliesser</rs> hat zu Ausweisung seines Fundi das von seiner
-               <lb facs="#facs_119_r1l8" n="N010"/>Ehewirthin <rs type="person" ref="wkfm__47155">Maria Magdalena Plankhin</rs> ausgestelte <choice><expan/><abbr>orig:</abbr></choice> <seg type="editorial_comment_seg">Cortiorirte<note type="editorial_comment_note">wahrscheinlich Certiorirte</note></seg>
+               <lb facs="#facs_119_r1l7" n="N009"/>Der <rs type="person" ref="#wkfm__47154">Fliesser</rs> hat zu Ausweisung seines Fundi das von seiner
+               <lb facs="#facs_119_r1l8" n="N010"/>Ehewirthin <rs type="person" ref="#wkfm__47155">Maria Magdalena Plankhin</rs> ausgestelte <choice><expan/><abbr>orig:</abbr></choice> <seg type="editorial_comment_seg">Cortiorirte<note type="editorial_comment_note">wahrscheinlich Certiorirte</note></seg>
                <lb facs="#facs_119_r1l9" n="N011"/>Cautions Instrument dd<hi style="superscript">to</hi> 6<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 740 N<hi style="superscript">o</hi> 1432 <hi>in</hi> eingeleget <choice><expan/><abbr>pr</abbr></choice> 4000 fl
             </ab>
             

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -83,24 +83,24 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_138" n="138" xml:id="img_0138"/>
+            <pb facs="#facs_138" n="138" xml:id="img_0138" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0458.jpg"/>
             
             <ab facs="#facs_138_r1">
                <lb facs="#facs_138_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
-               <lb facs="#facs_138_r1l2" n="N002"/>Die Raggion <rs type="person" ref="wkfm__26242">Les Frerres Crettier</rs> hat <hi>sich</hi> mitls Anbringen de ps: 30<hi style="superscript">ten</hi> May
-               <lb facs="#facs_138_r1l3" n="N003"/>743 N<hi style="superscript">o</hi> 1911 <hi>erklähret</hi> angezeiget das der <rs type="person" ref="wkfm__46153">Claudius Salliet</rs> alß <hi>socii</hi> stiller socius
+               <lb facs="#facs_138_r1l2" n="N002"/>Die Raggion <rs type="person" ref="#wkfm__26242">Les Frerres Crettier</rs> hat <hi>sich</hi> mitls Anbringen de ps: 30<hi style="superscript">ten</hi> May
+               <lb facs="#facs_138_r1l3" n="N003"/>743 N<hi style="superscript">o</hi> 1911 <hi>erklähret</hi> angezeiget das der <rs type="person" ref="#wkfm__46153">Claudius Salliet</rs> alß <hi>socii</hi> stiller socius
                <lb facs="#facs_138_r1l4" n="N004"/>oder Particularis <hi>alß</hi> auf gleicher antheil an Gewün und Verlust wie jeder
                <lb facs="#facs_138_r1l5" n="N005"/>von ihnen in das negotium miteingetretten seye.
-               <lb facs="#facs_138_r1l6" n="N006"/>Der <rs type="person" ref="wkfm__46150">Wilhelm Crettier</rs> hat mitls Anbringen de ps: 4<hi style="superscript">ten</hi> May 748 N<hi style="superscript">o</hi> 1911 ange-
-               <lb facs="#facs_138_r1l7" n="N007"/>zeiget, daß das Negotium unter der Raggion <rs type="person" ref="wkfm__26242">Les Frerres Crettier</rs> vor <unclear>einiger</unclear>
-               <lb facs="#facs_138_r1l8" n="N008"/>zeit geendiget worden und er nunmehro dem <rs type="person" ref="wkfm__46154">Melchior Peter</rs> auf gleichen
+               <lb facs="#facs_138_r1l6" n="N006"/>Der <rs type="person" ref="#wkfm__46150">Wilhelm Crettier</rs> hat mitls Anbringen de ps: 4<hi style="superscript">ten</hi> May 748 N<hi style="superscript">o</hi> 1911 ange-
+               <lb facs="#facs_138_r1l7" n="N007"/>zeiget, daß das Negotium unter der Raggion <rs type="person" ref="#wkfm__26242">Les Frerres Crettier</rs> vor <unclear>einiger</unclear>
+               <lb facs="#facs_138_r1l8" n="N008"/>zeit geendiget worden und er nunmehro dem <rs type="person" ref="#wkfm__46154">Melchior Peter</rs> auf gleichen
                <lb facs="#facs_138_r1l9" n="N009"/>Gewün und Verlust mit 1<hi style="superscript">ma</hi> <choice><expan/><abbr>Janu:</abbr></choice> d. a. <hi>sie</hi> sich associrert habe und das negotium
-               <lb facs="#facs_138_r1l10" n="N010"/>unter der Raggion <rs type="person" ref="wkfm__46151">Wilhelm Crettier et <choice><expan/><abbr>Compag:</abbr></choice></rs> fortgeführet werden wird
+               <lb facs="#facs_138_r1l10" n="N010"/>unter der Raggion <rs type="person" ref="#wkfm__46151">Wilhelm Crettier et <choice><expan/><abbr>Compag:</abbr></choice></rs> fortgeführet werden wird
                <lb facs="#facs_138_r1l11" n="N011"/>welches auch mitls deren oblatorien dd<hi style="superscript">to</hi> eadem N<hi style="superscript">o</hi> 1112 kund gemacht worden
-               <lb facs="#facs_138_r1l12" n="N012"/>Die Raggion <rs type="person" ref="wkfm__46151">Wilhelm Crettier et Compagnie</rs> hat mitl Anbringen de ps: 23<hi style="superscript">ten</hi>
+               <lb facs="#facs_138_r1l12" n="N012"/>Die Raggion <rs type="person" ref="#wkfm__46151">Wilhelm Crettier et Compagnie</rs> hat mitl Anbringen de ps: 23<hi style="superscript">ten</hi>
                <lb facs="#facs_138_line_1621961174684_2422" n="N013"/><choice><expan/><abbr>Febr:</abbr></choice> 753 N<hi style="superscript">o</hi> 1919 und oblatorien dd<hi style="superscript">to</hi> 749 N<hi style="superscript">o</hi> 1113 angezeiget und kund ge-
-               <lb facs="#facs_138_r1l15" n="N014"/>macht, das sie den Crettier: Schwiger Sohn <rs type="person" ref="wkfm__46155">Niclas Franz Bouvard</rs> associret
-               <lb facs="#facs_138_r1l16" n="N015"/>haben und das negotium mit allerseithigen impegno unter der Raggion <rs type="person" ref="wkfm__46152">Crettier
+               <lb facs="#facs_138_r1l15" n="N014"/>macht, das sie den Crettier: Schwiger Sohn <rs type="person" ref="#wkfm__46155">Niclas Franz Bouvard</rs> associret
+               <lb facs="#facs_138_r1l16" n="N015"/>haben und das negotium mit allerseithigen impegno unter der Raggion <rs type="person" ref="#wkfm__46152">Crettier
                <lb break="no" facs="#facs_138_r1l17" n="N016"/>Bouvard et <choice><expan/><abbr>Compag:</abbr></choice></rs> continuiren werden.
                <lb facs="#facs_138_r1l18" n="N017"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_138_r1l19" n="N018"/>Anmerckungen

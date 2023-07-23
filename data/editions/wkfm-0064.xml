@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -82,23 +82,23 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_11" n="11" xml:id="img_0011"/>
+            <pb facs="#facs_11" n="11" xml:id="img_0011" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0064.jpg"/>
             
             <ab facs="#facs_11_r1">
                <lb facs="#facs_11_r1l2" n="N001"/>30
                <lb facs="#facs_11_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_11_r1l3" n="N003"/><rs type="person" ref="wkfm__9481">Premblechner Lorenz Anton</rs> burgerlicher <choice><expan>Tuchlaubensverwandter</expan><abbr>Tuchlaubensverw</abbr></choice>.
+               <lb facs="#facs_11_r1l3" n="N003"/><rs type="person" ref="#wkfm__9481">Premblechner Lorenz Anton</rs> burgerlicher <choice><expan>Tuchlaubensverwandter</expan><abbr>Tuchlaubensverw</abbr></choice>.
                <lb facs="#facs_11_r1l4" n="N004"/><seg type="orighead__firma">Firma od Raggion</seg>
-               <lb facs="#facs_11_r1l5" n="N005"/><rs type="person" ref="wkfm__47272">Lorenz Anton Premblechner</rs> laut Anbringen de ps: 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 30.
+               <lb facs="#facs_11_r1l5" n="N005"/><rs type="person" ref="#wkfm__47272">Lorenz Anton Premblechner</rs> laut Anbringen de ps: 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 30.
                <lb facs="#facs_11_r1l6" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
-               <lb facs="#facs_11_r1l7" n="N007"/>Mittls Anbringen de ps: 28<hi style="superscript">ten</hi> <choice><expan/><abbr>Jun:</abbr></choice> 726 N<hi style="superscript">o</hi> 893 hat der <rs type="person" ref="wkfm__9481">Premblechner </rs>die auf seinen
-               <lb facs="#facs_11_r1l8" n="N008"/>Bedienten <rs type="person" ref="wkfm__43803">Johann Georg Wändler</rs> wehrend seiner damahligen Abwesenheit laut:
-               <lb facs="#facs_11_r1l9" n="N009"/><choice><expan/><abbr>orig.</abbr></choice> procura nebst des <rs type="person" ref="wkfm__43803">Wändler </rs>firma dd<hi style="superscript">to</hi> 28<hi style="superscript">ten</hi> <choice><expan/><abbr>Jun:</abbr></choice> 726 No 892 eingeleget.
+               <lb facs="#facs_11_r1l7" n="N007"/>Mittls Anbringen de ps: 28<hi style="superscript">ten</hi> <choice><expan/><abbr>Jun:</abbr></choice> 726 N<hi style="superscript">o</hi> 893 hat der <rs type="person" ref="#wkfm__9481">Premblechner </rs>die auf seinen
+               <lb facs="#facs_11_r1l8" n="N008"/>Bedienten <rs type="person" ref="#wkfm__43803">Johann Georg Wändler</rs> wehrend seiner damahligen Abwesenheit laut:
+               <lb facs="#facs_11_r1l9" n="N009"/><choice><expan/><abbr>orig.</abbr></choice> procura nebst des <rs type="person" ref="#wkfm__43803">Wändler </rs>firma dd<hi style="superscript">to</hi> 28<hi style="superscript">ten</hi> <choice><expan/><abbr>Jun:</abbr></choice> 726 No 892 eingeleget.
                <lb facs="#facs_11_line_1621287226280_676" n="N010"/>Mittls Anbringen de ps: 25<hi style="superscript">ten</hi> <choice><expan/><abbr>Jun:</abbr></choice> 733
                <lb facs="#facs_11_line_1621084258504_191" n="N011"/>N<hi style="superscript">o</hi> 987
-               <lb facs="#facs_11_line_1621287226280_675" n="N012"/>hat der <rs type="person" ref="wkfm__9481">Lorenz Anton Premblechner</rs> diese
-               <lb facs="#facs_11_r1l11" n="N013"/>dem <rs type="person" ref="wkfm__43803">Wändler </rs>ertheilte Procura anwiderum für aufgehoben erklähret, und
-               <lb facs="#facs_11_r1l12" n="N014"/>aufstat selber die orig. procura auf seinen Brudern <rs type="person" ref="wkfm__36092">Joseph Premblechner</rs> weh-
+               <lb facs="#facs_11_line_1621287226280_675" n="N012"/>hat der <rs type="person" ref="#wkfm__9481">Lorenz Anton Premblechner</rs> diese
+               <lb facs="#facs_11_r1l11" n="N013"/>dem <rs type="person" ref="#wkfm__43803">Wändler </rs>ertheilte Procura anwiderum für aufgehoben erklähret, und
+               <lb facs="#facs_11_r1l12" n="N014"/>aufstat selber die orig. procura auf seinen Brudern <rs type="person" ref="#wkfm__36092">Joseph Premblechner</rs> weh-
                <lb facs="#facs_11_r1l13" n="N015"/>rend seiner Abwesenheit lautend nebst des leztern Firma dd<hi style="superscript">to</hi> 25<hi style="superscript">ten</hi> <choice><expan/><abbr>Jun:</abbr></choice> 733
                <lb facs="#facs_11_r1l14" n="N016"/>N<hi style="superscript">o</hi> 906 eingeleget.
                <lb facs="#facs_11_r1l15" n="N017"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>

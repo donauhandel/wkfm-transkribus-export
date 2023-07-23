@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -97,37 +97,37 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_79" n="79" xml:id="img_0079"/>
+            <pb facs="#facs_79" n="79" xml:id="img_0079" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1263.jpg"/>
             
             <ab facs="#facs_79_r1">
                <lb facs="#facs_79_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_79_r1l2" n="N003"/><rs type="person" ref="wkfm__46543">Mayer Johann Michäl</rs> burgerlicher Handlsmann
+               <lb facs="#facs_79_r1l2" n="N003"/><rs type="person" ref="#wkfm__46543">Mayer Johann Michäl</rs> burgerlicher Handlsmann
                <lb facs="#facs_79_r1l3" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_79_r1l4" n="N005"/><rs type="person" ref="wkfm__38549">Mayer und Höltzl</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 580
+               <lb facs="#facs_79_r1l4" n="N005"/><rs type="person" ref="#wkfm__38549">Mayer und Höltzl</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 580
                <lb facs="#facs_79_r1l5" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
-               <lb facs="#facs_79_r1l8" n="N007"/>In obiger Erklährung <hi>hat</hi> sine dato N<hi style="superscript">o</hi> 580 ist die Firma der Raggion <rs type="person" ref="wkfm__38549">Mayer und
-               <lb break="no" facs="#facs_79_r1l9" n="N008"/>Höltzl</rs> von beeden sociis <rs type="person" ref="wkfm__46543">Johann Michäl Mayer</rs> und <rs type="person" ref="wkfm__46542">Anton Höltzl</rs> einge-
+               <lb facs="#facs_79_r1l8" n="N007"/>In obiger Erklährung <hi>hat</hi> sine dato N<hi style="superscript">o</hi> 580 ist die Firma der Raggion <rs type="person" ref="#wkfm__38549">Mayer und
+               <lb break="no" facs="#facs_79_r1l9" n="N008"/>Höltzl</rs> von beeden sociis <rs type="person" ref="#wkfm__46543">Johann Michäl Mayer</rs> und <rs type="person" ref="#wkfm__46542">Anton Höltzl</rs> einge-
                <lb facs="#facs_79_r1l10" n="N009"/>leget worden
                <lb facs="#facs_79_r1l11" n="N010"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_79_line_1625210430011_35" n="N011"/><seg type="editorial_comment_seg">ad rubr: fundi ausweisung<note type="editorial_comment_note">Fortsetzung der Rubrik Fundi Ausweisung</note></seg>
-               <lb facs="#facs_79_r1l13" n="N012"/>Der <rs type="person" ref="wkfm__46543">Mayer</rs> hat nach der Separation von dem <rs type="person" ref="wkfm__46542">Höltzl</rs> seinen fundum mitls des
+               <lb facs="#facs_79_r1l13" n="N012"/>Der <rs type="person" ref="#wkfm__46543">Mayer</rs> hat nach der Separation von dem <rs type="person" ref="#wkfm__46542">Höltzl</rs> seinen fundum mitls des
                <lb facs="#facs_79_r1l14" n="N013"/>untern 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 747 auf 8000 fl beyedigten Extract aus der Billanz N<hi style="superscript">o</hi> 1625 dahin ausgewisen
                <lb facs="#facs_79_r1l15" n="N014"/>daß <hi>ihm</hi> er eigenthumlich besize an dem avanzo <choice><expan/><abbr>pr</abbr></choice> 15992 fl 44 x<hi style="superscript">r</hi> die halbscheid
                <lb facs="#facs_79_r1l16" n="N015"/><choice><expan/><abbr>pr</abbr></choice> 7996 fl 22 x<hi style="superscript">r</hi>
                <lb facs="#facs_79_r1l18" n="N016"/>dann an avanzo seithero von <choice><expan/><abbr>Apr:</abbr></choice> 745 400 fl
                <lb facs="#facs_79_r1l19" n="N017"/><choice><expan/><abbr>Sa</abbr></choice> 8396 fl 22 x<hi style="superscript">r</hi>
                <lb facs="#facs_79_r1l20" n="N018"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_79_r1l22" n="N019"/>Der <rs type="person" ref="wkfm__46543">Mayer</rs> und <hi>hat mit dem</hi> <rs type="person" ref="wkfm__46542">Anton Höltzl</rs> <hi>seinen</hi> haben ihren fundum gemein-
+               <lb facs="#facs_79_r1l22" n="N019"/>Der <rs type="person" ref="#wkfm__46543">Mayer</rs> und <hi>hat mit dem</hi> <rs type="person" ref="#wkfm__46542">Anton Höltzl</rs> <hi>seinen</hi> haben ihren fundum gemein-
                <lb facs="#facs_79_r1l23" n="N020"/>samlich folgendermaßen ausgewisen, nemlich, daß  sie eigenthumlich
-               <lb facs="#facs_79_r1l24" n="N021"/>besizen und zwahr der <rs type="person" ref="wkfm__46542">Hölzl,</rs> Vermög von <rs type="person" ref="wkfm__10201">Johann Leonhard Pittoni</rs> an
-               <lb facs="#facs_79_r1l25" n="N022"/>seinen Vattern <rs type="person" ref="wkfm__46918">Bathasar Johann Höltzl</rs> <hi>unter</hi> ausgestelten <hi>zweyen oblis</hi>
+               <lb facs="#facs_79_r1l24" n="N021"/>besizen und zwahr der <rs type="person" ref="#wkfm__46542">Hölzl,</rs> Vermög von <rs type="person" ref="#wkfm__10201">Johann Leonhard Pittoni</rs> an
+               <lb facs="#facs_79_r1l25" n="N022"/>seinen Vattern <rs type="person" ref="#wkfm__46918">Bathasar Johann Höltzl</rs> <hi>unter</hi> ausgestelten <hi>zweyen oblis</hi>
                <lb facs="#facs_79_r1l26" n="N023"/>und an ihn durch Cession dd<hi style="superscript">to</hi> 6<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 737 N<hi style="superscript">o</hi> 1613 in vidimus übertragen
                <lb facs="#facs_79_r1l29" n="N024"/>zweyen obligationen alß dd<hi style="superscript">to</hi> 20<hi style="superscript">ten</hi> <hi>Mart</hi> <choice><expan/><abbr>7br:</abbr></choice> 735 <hi>737</hi> N<hi style="superscript">o</hi> 1611 in <choice><expan/><abbr><hi>orig:</hi></abbr></choice> vidimus 1400 fl
                <lb facs="#facs_79_r1l31" n="N025"/>dann dd<hi style="superscript">to</hi> 29<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> d. a. N<hi style="superscript">o</hi> 1612 in Copia vidimata 300 fl
-               <lb facs="#facs_79_r1l33" n="N026"/>der <rs type="person" ref="wkfm__46543">Mayer</rs> Vermög obliation von <rs type="person" ref="wkfm__23672">Pigizer und Pettoni</rs> <unclear>gan:</unclear> dd<hi style="superscript">to</hi>
+               <lb facs="#facs_79_r1l33" n="N026"/>der <rs type="person" ref="#wkfm__46543">Mayer</rs> Vermög obliation von <rs type="person" ref="#wkfm__23672">Pigizer und Pettoni</rs> <unclear>gan:</unclear> dd<hi style="superscript">to</hi>
                <lb facs="#facs_79_r1l34" n="N027"/>13<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 737 N<hi style="superscript">o</hi> 1610 in <choice><expan/><abbr>orig:</abbr></choice> 1100 fl
                <lb facs="#facs_79_r1l36" n="N028"/>zusamen Eigenthum 5800 fl
-               <lb facs="#facs_79_r1l37" n="N029"/>Dann hat der <rs type="person" ref="wkfm__9344">Anton Matthias Kürcher</rs> ein <choice><expan/><abbr>orig:</abbr></choice> Instrument dd<hi style="superscript">to</hi> 20<hi style="superscript">ten</hi>
+               <lb facs="#facs_79_r1l37" n="N029"/>Dann hat der <rs type="person" ref="#wkfm__9344">Anton Matthias Kürcher</rs> ein <choice><expan/><abbr>orig:</abbr></choice> Instrument dd<hi style="superscript">to</hi> 20<hi style="superscript">ten</hi>
                <lb facs="#facs_79_r1l38" n="N030"/><choice><expan/><abbr>7br:</abbr></choice> 737 N<hi style="superscript">o</hi> 1614 daß er in ihre Handlung eingeleget habe und <hi>ligen lassen wollen</hi> hier
                <lb facs="#facs_79_r1l39" n="N031"/>gerichtl: Vorwissen nicht hinausnehmen wolle 1300 fl
                <lb facs="#facs_79_line_1629196677580_360" n="N032"/>Hiebey befindet sich annoch ein Vergleich mit Joseph <unclear>Desom</unclear> <hi>wegen übernohmenen Schulden</hi> N<hi style="superscript">o</hi> 1815 in vidimus 

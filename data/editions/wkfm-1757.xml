@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -75,16 +75,16 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_51" n="51" xml:id="img_0051"/>
+            <pb facs="#facs_51" n="51" xml:id="img_0051" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1757.jpg"/>
             
             <ab facs="#facs_51_r2">
                <lb facs="#facs_51_r2l2" n="N001"/>871
                <lb facs="#facs_51_r2l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_51_r2l3" n="N003"/><rs type="person" ref="wkfm__10180">Walkher Rudolph</rs> burgericher Handlsmann
+               <lb facs="#facs_51_r2l3" n="N003"/><rs type="person" ref="#wkfm__10180">Walkher Rudolph</rs> burgericher Handlsmann
                <lb facs="#facs_51_r2l4" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_51_r2l5" n="N005"/><rs type="person" ref="wkfm__46983">Rudolph Walkher</rs> laut Erklährung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 808
-               <lb facs="#facs_51_r2l6" n="N006"/>Vermög Anbringen de ps: 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 764 hat die <rs type="person" ref="wkfm__46984">Maria Anna Walckerin</rs> angezeiget,
-               <lb facs="#facs_51_r2l7" n="N007"/>daß ihr Ehe consort <rs type="person" ref="wkfm__10180">Rudolph Walker</rs> verstorben, <hi>und</hi> sie <choice><expan>Universal</expan><abbr>Unal</abbr></choice> Erbin, und diese Handlung
+               <lb facs="#facs_51_r2l5" n="N005"/><rs type="person" ref="#wkfm__46983">Rudolph Walkher</rs> laut Erklährung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 808
+               <lb facs="#facs_51_r2l6" n="N006"/>Vermög Anbringen de ps: 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 764 hat die <rs type="person" ref="#wkfm__46984">Maria Anna Walckerin</rs> angezeiget,
+               <lb facs="#facs_51_r2l7" n="N007"/>daß ihr Ehe consort <rs type="person" ref="#wkfm__10180">Rudolph Walker</rs> verstorben, <hi>und</hi> sie <choice><expan>Universal</expan><abbr>Unal</abbr></choice> Erbin, und diese Handlung
                <lb facs="#facs_51_r2l8" n="N008"/>unter ihrer firma zuführen entschlossen seye, hat auch ihre firma eingelegt <choice><expan/><abbr>nro</abbr></choice> 808 1/2
                <lb facs="#facs_51_r2l9" n="N009"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_51_r2l10" n="N010"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>

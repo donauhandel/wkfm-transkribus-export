@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -81,24 +81,24 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_189" n="189" xml:id="img_0189"/>
+            <pb facs="#facs_189" n="189" xml:id="img_0189" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0243.jpg"/>
             
             <ab facs="#facs_189_r2">
                <lb facs="#facs_189_r2l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
                <lb facs="#facs_189_r2l2" n="N003"/><hi><unclear>Bazzoni</unclear> Philipp burgerlicher Handlsmann</hi>
-               <lb facs="#facs_189_r2l3" n="N004"/><rs type="person" ref="wkfm__43938">Braun Johann Georg</rs> burgerlicher Handlsmann
+               <lb facs="#facs_189_r2l3" n="N004"/><rs type="person" ref="#wkfm__43938">Braun Johann Georg</rs> burgerlicher Handlsmann
                <lb facs="#facs_189_r2l4" n="N005"/>Firma ad Raggion
                <lb facs="#facs_189_r2l5" n="N006"/><hi>Philipp Bazzoni laut Erklährung sine dato N<hi style="superscript"/></hi>o
-               <lb facs="#facs_189_r2l6" n="N007"/><rs type="person" ref="wkfm__47361">Johann Georg Braun</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 117
+               <lb facs="#facs_189_r2l6" n="N007"/><rs type="person" ref="#wkfm__47361">Johann Georg Braun</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 117
                <lb facs="#facs_189_r2l7" n="N008"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_189_r2l8" n="N009"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_189_r2l9" n="N010"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_189_r2l10" n="N011"/>Der Braun hat zu Ausweisung seines fundi eine von <rs type="person" ref="wkfm__23412">Franz <unclear>Dionisi</unclear>
+               <lb facs="#facs_189_r2l10" n="N011"/>Der Braun hat zu Ausweisung seines fundi eine von <rs type="person" ref="#wkfm__23412">Franz <unclear>Dionisi</unclear>
                <lb break="no" facs="#facs_189_r2l11" n="N012"/>Egger</rs> untern 27<hi style="superscript">ten</hi> Junii 737 dahin ausgestelte <choice><expan/><abbr>orig:</abbr></choice> Erklährung N<hi style="superscript">o</hi>
-               <lb facs="#facs_189_r2l12" n="N013"/>1179 eingeleget, daß er <rs type="person" ref="wkfm__23412">Egger</rs> dem <rs type="person" ref="wkfm__43938">Braun</rs> in seiner Handlung
+               <lb facs="#facs_189_r2l12" n="N013"/>1179 eingeleget, daß er <rs type="person" ref="#wkfm__23412">Egger</rs> dem <rs type="person" ref="#wkfm__43938">Braun</rs> in seiner Handlung
                <lb facs="#facs_189_line_1621470758515_3610" n="N014"/>8000 fl dergestalten Creditiret, daß diese 8000 fl er in solang
                <lb facs="#facs_189_r2l16" n="N015"/>biß entweder die samentliche Creditores befrdiget <hi>seyen</hi>
-               <lb facs="#facs_189_r2l17" n="N016"/><hi>seye</hi>, oder der <rs type="person" ref="wkfm__43938">Braun</rs> seinen fundum von selbsten aus
+               <lb facs="#facs_189_r2l17" n="N016"/><hi>seye</hi>, oder der <rs type="person" ref="#wkfm__43938">Braun</rs> seinen fundum von selbsten aus
                <lb facs="#facs_189_r2l18" n="N017"/>zuweisen in Stand sein werde, ligen bleiben sollen
             </ab>
             

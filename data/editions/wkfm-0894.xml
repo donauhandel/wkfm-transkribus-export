@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -74,7 +74,7 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_82" n="82" xml:id="img_0082"/>
+            <pb facs="#facs_82" n="82" xml:id="img_0082" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0894.jpg"/>
             
             <ab facs="#facs_82_r1">
                <lb facs="#facs_82_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
@@ -82,7 +82,7 @@
                <lb facs="#facs_82_r1l3" n="N003"/>Anmerckungen
                <lb facs="#facs_82_r1l4" n="N004"/>Durch die von der <hi>Com</hi> in Commercien Sachen delegirten N: Ö: Hofcommission
                <lb facs="#facs_82_r1l6" n="N005"/>untern erlassene Erkantnus ist verordnet worden,
-               <lb facs="#facs_82_r1l7" n="N006"/>das der <rs type="person" ref="wkfm__46362">Joh: Georg Gschaidter</rs> wegen den bey ihm nebst dem <unclear>ausgebrachten</unclear>
+               <lb facs="#facs_82_r1l7" n="N006"/>das der <rs type="person" ref="#wkfm__46362">Joh: Georg Gschaidter</rs> wegen den bey ihm nebst dem <unclear>ausgebrachten</unclear>
                <lb facs="#facs_82_r1l8" n="N007"/>falliment befunden üblen und unredlichen betragen, sowohl aus gegen- 
                <lb facs="#facs_82_r1l10" n="N008"/>wärtigen Mercantil Protocoll alß auch aus dem Handlstands Protocolls
                <lb facs="#facs_82_r1l12" n="N009"/>gänzlichen ausgelöschet worden, und er sich der Qualitaet eines burgerlichen

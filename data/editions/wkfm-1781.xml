@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -73,14 +73,14 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_75" n="75" xml:id="img_0075"/>
+            <pb facs="#facs_75" n="75" xml:id="img_0075" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1781.jpg"/>
             
             <ab facs="#facs_75_r1">
                <lb facs="#facs_75_line_1626183387270_955" n="N001"/>883
                <lb facs="#facs_75_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_75_r1l2" n="N003"/><rs type="person" ref="wkfm__21287">Westhäußer Johann Georg</rs> burgerlicher Handlsmann
+               <lb facs="#facs_75_r1l2" n="N003"/><rs type="person" ref="#wkfm__21287">Westhäußer Johann Georg</rs> burgerlicher Handlsmann
                <lb facs="#facs_75_r1l3" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_75_r1l4" n="N005"/><rs type="person" ref="wkfm__47004">Johann Georg Westhäüßer</rs> laut Erklährung dd<hi style="superscript">to</hi> 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 731
+               <lb facs="#facs_75_r1l4" n="N005"/><rs type="person" ref="#wkfm__47004">Johann Georg Westhäüßer</rs> laut Erklährung dd<hi style="superscript">to</hi> 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 731
                <lb facs="#facs_75_r1l5" n="N006"/>N<hi style="superscript">o</hi> 819
                <lb facs="#facs_75_r1l6" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_75_r1l7" n="N008"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>

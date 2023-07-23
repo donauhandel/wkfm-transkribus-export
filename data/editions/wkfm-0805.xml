@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -80,22 +80,22 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_137" n="137" xml:id="img_0137"/>
+            <pb facs="#facs_137" n="137" xml:id="img_0137" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0805.jpg"/>
             
             <ab facs="#facs_137_r1">
                <lb facs="#facs_137_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_137_r1l2" n="N003"/><rs type="person" ref="wkfm__47188">Fuljod Franz</rs> burgerlicher Handlsmann.
+               <lb facs="#facs_137_r1l2" n="N003"/><rs type="person" ref="#wkfm__47188">Fuljod Franz</rs> burgerlicher Handlsmann.
                <lb facs="#facs_137_r1l3" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_137_r1l4" n="N005"/><choice><expan/><abbr>Ao:</abbr></choice> 1764 hat der <rs type="person" ref="wkfm__47188">Franz Fuljod</rs> seine Firma eingeleget. <choice><expan/><abbr>nro:</abbr></choice> 384.
+               <lb facs="#facs_137_r1l4" n="N005"/><choice><expan/><abbr>Ao:</abbr></choice> 1764 hat der <rs type="person" ref="#wkfm__47188">Franz Fuljod</rs> seine Firma eingeleget. <choice><expan/><abbr>nro:</abbr></choice> 384.
                <lb facs="#facs_137_r1l5" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_137_r1l6" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_137_r1l7" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_137_r1l8" n="N009"/>Der <rs type="person" ref="wkfm__47188">Fuljod</rs> hat zu <hi>Aus</hi> seinem Fundum mitls der mit dem Anbringen de ps: 9<hi style="superscript">ten</hi> Juli 755
+               <lb facs="#facs_137_r1l8" n="N009"/>Der <rs type="person" ref="#wkfm__47188">Fuljod</rs> hat zu <hi>Aus</hi> seinem Fundum mitls der mit dem Anbringen de ps: 9<hi style="superscript">ten</hi> Juli 755
                <lb facs="#facs_137_r1l9" n="N010"/>N<hi style="superscript">o</hi> 1447
-               <lb facs="#facs_137_r1l10" n="N011"/>eingelegten <hi>Speci</hi> von dem <rs type="person" ref="wkfm__47035">Martin Joseph Sensel</rs> untern 15<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 754 attestirten
+               <lb facs="#facs_137_r1l10" n="N011"/>eingelegten <hi>Speci</hi> von dem <rs type="person" ref="#wkfm__47035">Martin Joseph Sensel</rs> untern 15<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 754 attestirten
                <lb facs="#facs_137_r1l11" n="N012"/>Specification N<hi style="superscript">o</hi> 1446 folgender maßen ausgewisen nemlich, daß er Eigenthumlich
-               <lb facs="#facs_137_r1l12" n="N013"/>besize <hi>an</hi> 4 Wechselbrief von <rs type="person" ref="wkfm__47176">Gebrüder Violland</rs> alle von <choice><expan/><abbr>Ao</abbr></choice> 752 zusamen <choice><expan/><abbr>pr</abbr></choice> 7702 fl 44 1/2 x<hi style="superscript">r</hi>
-               <lb facs="#facs_137_line_1621876085863_176" n="N014"/>Eine Obligation von <rs type="person" ref="wkfm__47189">Jacob <unclear>Merzig</unclear></rs> dd<hi style="superscript">to</hi> 30<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 753 <choice><expan/><abbr>pr</abbr></choice> 133fl
+               <lb facs="#facs_137_r1l12" n="N013"/>besize <hi>an</hi> 4 Wechselbrief von <rs type="person" ref="#wkfm__47176">Gebrüder Violland</rs> alle von <choice><expan/><abbr>Ao</abbr></choice> 752 zusamen <choice><expan/><abbr>pr</abbr></choice> 7702 fl 44 1/2 x<hi style="superscript">r</hi>
+               <lb facs="#facs_137_line_1621876085863_176" n="N014"/>Eine Obligation von <rs type="person" ref="#wkfm__47189">Jacob <unclear>Merzig</unclear></rs> dd<hi style="superscript">to</hi> 30<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 753 <choice><expan/><abbr>pr</abbr></choice> 133fl
                <lb facs="#facs_137_line_1621876081890_171" n="N015"/>an baaren und Effecten 1000 fl
                <lb facs="#facs_137_line_1621876075785_166" n="N016"/><choice><expan/><abbr>Sa</abbr></choice> 8835 fl 44 1/2 x<hi style="superscript">r</hi>
             </ab>

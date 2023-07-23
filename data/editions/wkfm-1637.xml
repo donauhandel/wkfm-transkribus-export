@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -81,25 +81,25 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_179" n="179" xml:id="img_0179"/>
+            <pb facs="#facs_179" n="179" xml:id="img_0179" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1637.jpg"/>
             
             <ab facs="#facs_179_r1">
                <lb facs="#facs_179_line_1626263060604_2197" n="N001"/>793
                <lb facs="#facs_179_line_1626263062674_2200" n="N002"/>811
                <lb facs="#facs_179_r1l1" n="N003"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_179_r1l2" n="N004"/><rs type="person" ref="wkfm__38120">Strobl Franz</rs> burgerliches Handlsmann
+               <lb facs="#facs_179_r1l2" n="N004"/><rs type="person" ref="#wkfm__38120">Strobl Franz</rs> burgerliches Handlsmann
                <lb facs="#facs_179_r1l4" n="N005"/>Firma ad Raggion
-               <lb facs="#facs_179_r1l5" n="N006"/><rs type="person" ref="wkfm__47539">Frantz Strobl</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 752
+               <lb facs="#facs_179_r1l5" n="N006"/><rs type="person" ref="#wkfm__47539">Frantz Strobl</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 752
                <lb facs="#facs_179_r1l6" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_179_r1l7" n="N008"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_179_r1l9" n="N009"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_179_r1l10" n="N010"/>Der <rs type="person" ref="wkfm__38120">Strobl</rs> hat zu Ausweisung seines Fundi ein von <rs type="person" ref="wkfm__47540">Peter Schmaltz</rs>
+               <lb facs="#facs_179_r1l10" n="N010"/>Der <rs type="person" ref="#wkfm__38120">Strobl</rs> hat zu Ausweisung seines Fundi ein von <rs type="person" ref="#wkfm__47540">Peter Schmaltz</rs>
                <lb facs="#facs_179_r1l11" n="N011"/>ausgesteltes Versicherung eingeleget <choice><expan/><abbr>pr</abbr></choice> 6000 fl
-               <lb facs="#facs_179_r1l14" n="N012"/>Über die von dem <rs type="person" ref="wkfm__38120">Strobl</rs> gemachte Anzeige, das der <rs type="person" ref="wkfm__47540">Schmaltz</rs> nur <unclear>von</unclear> 
-               <lb facs="#facs_179_r1l15" n="N013"/>darumen obige Versicherung <choice><expan/><abbr>pr</abbr></choice> 6000 fl eingeleget, weil er ihm <rs type="person" ref="wkfm__38120">Strobl</rs>
-               <lb facs="#facs_179_r1l16" n="N014"/>neben dieser Summam <hi>Vo</hi> dargelichen, welche er <rs type="person" ref="wkfm__38120">Strobl</rs> aber dermahlen
+               <lb facs="#facs_179_r1l14" n="N012"/>Über die von dem <rs type="person" ref="#wkfm__38120">Strobl</rs> gemachte Anzeige, das der <rs type="person" ref="#wkfm__47540">Schmaltz</rs> nur <unclear>von</unclear> 
+               <lb facs="#facs_179_r1l15" n="N013"/>darumen obige Versicherung <choice><expan/><abbr>pr</abbr></choice> 6000 fl eingeleget, weil er ihm <rs type="person" ref="#wkfm__38120">Strobl</rs>
+               <lb facs="#facs_179_r1l16" n="N014"/>neben dieser Summam <hi>Vo</hi> dargelichen, welche er <rs type="person" ref="#wkfm__38120">Strobl</rs> aber dermahlen
                <lb facs="#facs_179_r1l17" n="N015"/>abgeführet habe, ist zu folge Auflag dd<hi style="superscript">to</hi> 26<hi style="superscript">ten</hi> <choice><expan/><abbr><hi>Feb</hi></abbr></choice> Junii 741 und Quit-
-               <lb facs="#facs_179_r1l19" n="N016"/>tung dd<hi style="superscript">to</hi> 28<hi style="superscript">ten</hi> ej: N<hi style="superscript">o</hi> 1719 dem <rs type="person" ref="wkfm__38120">Strobl</rs> obige Schmalz: Versicherung
+               <lb facs="#facs_179_r1l19" n="N016"/>tung dd<hi style="superscript">to</hi> 28<hi style="superscript">ten</hi> ej: N<hi style="superscript">o</hi> 1719 dem <rs type="person" ref="#wkfm__38120">Strobl</rs> obige Schmalz: Versicherung
                <lb facs="#facs_179_r1l20" n="N017"/>extradiret worden.
             </ab>
             

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -73,14 +73,14 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_75" n="75" xml:id="img_0075"/>
+            <pb facs="#facs_75" n="75" xml:id="img_0075" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1533.jpg"/>
             
             <ab facs="#facs_75_r2">
                <lb facs="#facs_75_r2l2" n="N001"/>759
                <lb facs="#facs_75_r2l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_75_r2l4" n="N003"/><rs type="person" ref="wkfm__19763">Schober Johann Adam</rs> burgerlicher Handlsmann
+               <lb facs="#facs_75_r2l4" n="N003"/><rs type="person" ref="#wkfm__19763">Schober Johann Adam</rs> burgerlicher Handlsmann
                <lb facs="#facs_75_r2l6" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_75_r2l8" n="N005"/><rs type="person" ref="wkfm__47447">Johann Adam Schober</rs> laut Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725
+               <lb facs="#facs_75_r2l8" n="N005"/><rs type="person" ref="#wkfm__47447">Johann Adam Schober</rs> laut Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725
                <lb facs="#facs_75_r2l9" n="N006"/>N<hi style="superscript">o</hi> 693
                <lb facs="#facs_75_r2l10" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_75_r2l11" n="N008"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>

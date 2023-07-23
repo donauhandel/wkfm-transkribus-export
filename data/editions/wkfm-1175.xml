@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -90,30 +90,30 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_75" n="75" xml:id="img_0075"/>
+            <pb facs="#facs_75" n="75" xml:id="img_0075" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1175.jpg"/>
             
             <ab facs="#facs_75_r2">
                <lb facs="#facs_75_r2l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_75_r2l2" n="N003"/><rs type="person" ref="wkfm__46835">Lassner Sebastian</rs> burgerlicher Handlsmann
+               <lb facs="#facs_75_r2l2" n="N003"/><rs type="person" ref="#wkfm__46835">Lassner Sebastian</rs> burgerlicher Handlsmann
                <lb facs="#facs_75_r2l3" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_75_r2l4" n="N005"/><rs type="person" ref="wkfm__46836">Sebastian Lassner</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 539 welche der
+               <lb facs="#facs_75_r2l4" n="N005"/><rs type="person" ref="#wkfm__46836">Sebastian Lassner</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 539 welche der
                <lb facs="#facs_75_r2l5" n="N006"/>Supl: mitls Anbringen de ps: 25<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 753 N<hi style="superscript">o</hi> 540 eingeleget.
                <lb facs="#facs_75_r2l6" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_75_r2l7" n="N008"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_75_r2l8" n="N009"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_75_r2l9" n="N010"/>Der <rs type="person" ref="wkfm__46835">Lassner</rs> hat siene fundum mitls der specification N<hi style="superscript">o</hi> 1581 folgender maßen
+               <lb facs="#facs_75_r2l9" n="N010"/>Der <rs type="person" ref="#wkfm__46835">Lassner</rs> hat siene fundum mitls der specification N<hi style="superscript">o</hi> 1581 folgender maßen
                <lb facs="#facs_75_r2l10" n="N011"/>ausgewisen, nemlich das er eigenthumlich besize an jenen was er von seinem
-               <lb facs="#facs_75_r2l13" n="N012"/>Principalen <rs type="person" ref="wkfm__46838">Franz Franzoni</rs> laut attestati dd<hi style="superscript">to</hi> 12<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 752 N<hi style="superscript">o</hi> 1582 eingenohmen
+               <lb facs="#facs_75_r2l13" n="N012"/>Principalen <rs type="person" ref="#wkfm__46838">Franz Franzoni</rs> laut attestati dd<hi style="superscript">to</hi> 12<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 752 N<hi style="superscript">o</hi> 1582 eingenohmen
                <lb facs="#facs_75_r2l14" n="N013"/>die Summam <choice><expan/><abbr>pr</abbr></choice> 2800 fl
                <lb facs="#facs_75_r2l17" n="N014"/><gap/> an dem übernohmenen Waaren Lager ihm geschänkten Rabbat <choice><expan/><abbr>pr</abbr></choice> 2016 fl 54 x<hi style="superscript">r</hi>
                <lb facs="#facs_75_r2l18" n="N015"/>zusamen Eigenthum 4816 fl 54 x<hi style="superscript">r</hi>
-               <lb facs="#facs_75_r2l21" n="N016"/>zu Completirung des übrigen hat der <rs type="person" ref="wkfm__46839">Johann Praunschmidt</rs> das ein Caut:
+               <lb facs="#facs_75_r2l21" n="N016"/>zu Completirung des übrigen hat der <rs type="person" ref="#wkfm__46839">Johann Praunschmidt</rs> das ein Caut:
                <lb facs="#facs_75_r2l22" n="N017"/>Instrument dd<hi style="superscript">to</hi> 25<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 752 eingeleget, welche der <choice><expan/><abbr>burg:</abbr></choice> Handlstand mitls
                <lb facs="#facs_75_r2l23" n="N018"/>anbringen de ps: 28<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 754 erleget <choice><expan/><abbr>pr</abbr></choice> 3183 fl 6 x<hi style="superscript">r</hi>
-               <lb facs="#facs_75_line_1629145070702_103" n="N019"/>Uber das von dem <rs type="person" ref="wkfm__46835">Lassner</rs> mitls Anbringen de ps: 5<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 754 N<hi style="superscript">o</hi> 1583 eingelegte anderweite Cautions Instrument von <rs type="person" ref="wkfm__46840">Johann Michael
+               <lb facs="#facs_75_line_1629145070702_103" n="N019"/>Uber das von dem <rs type="person" ref="#wkfm__46835">Lassner</rs> mitls Anbringen de ps: 5<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 754 N<hi style="superscript">o</hi> 1583 eingelegte anderweite Cautions Instrument von <rs type="person" ref="#wkfm__46840">Johann Michael
                <lb break="no" facs="#facs_75_r2l28" n="N020"/>Schweikhard</rs> ist zufolge Auflag dd<hi style="superscript">to</hi> 28<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 754 und Quittung dd<hi style="superscript">to</hi> 13<hi style="superscript">ten</hi> ej: N<hi style="superscript">o</hi> 1585 <hi>ist</hi>
                <lb facs="#facs_75_line_1624533310561_4817" n="N021"/><choice><expan/><abbr>Sa</abbr></choice> 8000 fl 0 x<hi style="superscript">r</hi>
-               <lb facs="#facs_75_r2l29" n="N022"/>dem <rs type="person" ref="wkfm__46835">Lassner</rs> das Praunschmid: Caut: Instrument extradiret worden.
+               <lb facs="#facs_75_r2l29" n="N022"/>dem <rs type="person" ref="#wkfm__46835">Lassner</rs> das Praunschmid: Caut: Instrument extradiret worden.
                <lb facs="#facs_75_r2l31" n="N023"/>das Schweikhard: Cautions Instrument ist zufolge der von der N: Ö: <choice><expan>Repräsentation und Kammer</expan><abbr>Represen: und Cr:</abbr></choice> untern 6<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 754
                <lb facs="#facs_75_r2l32" n="N024"/>N<hi style="superscript">o</hi> 1886 <gap/> <unclear>ohne</unclear> weitherer Fundi Ausweisung oder einlegung eines andern Cautions instrument erlassenen Extradir-
                <lb facs="#facs_75_r2l34" n="N025"/>Auflag laut beygeruckter Quittung dd<hi style="superscript">to</hi> eadem der Schweikhard: Wittib extradiret worden.

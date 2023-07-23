@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -71,13 +71,13 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_10" n="10" xml:id="img_0010"/>
+            <pb facs="#facs_10" n="10" xml:id="img_0010" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1362.jpg"/>
             
             <ab facs="#facs_10_r1">
                <lb facs="#facs_10_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_10_r1l2" n="N002"/>In obigen Anbringen <hi>hat</hi> de ps: 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 2018 hat der
-               <lb facs="#facs_10_r1l3" n="N003"/><rs type="person" ref="wkfm__46681">Rota</rs> mit dem <rs type="person" ref="wkfm__21607">Bernhard Reißmiller</rs> die gemeinsame Anzeige gemacht
-               <lb facs="#facs_10_line_1624021480315_123" n="N004"/>daß sie beede <hi>ihr</hi> ihr negotium unter der societaets raggion <rs type="person" ref="wkfm__23395">Rotta und Reißmiller</rs>
+               <lb facs="#facs_10_r1l3" n="N003"/><rs type="person" ref="#wkfm__46681">Rota</rs> mit dem <rs type="person" ref="#wkfm__21607">Bernhard Reißmiller</rs> die gemeinsame Anzeige gemacht
+               <lb facs="#facs_10_line_1624021480315_123" n="N004"/>daß sie beede <hi>ihr</hi> ihr negotium unter der societaets raggion <rs type="person" ref="#wkfm__23395">Rotta und Reißmiller</rs>
                <lb facs="#facs_10_r1l7" n="N005"/>unter ihrer beeden interesse und obligo und firmirung führen
                <lb facs="#facs_10_r1l8" n="N006"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_10_r1l9" n="N007"/>Anmerckungen

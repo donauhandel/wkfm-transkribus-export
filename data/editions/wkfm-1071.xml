@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -79,21 +79,21 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_7" n="7" xml:id="img_0007"/>
+            <pb facs="#facs_7" n="7" xml:id="img_0007" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1071.jpg"/>
             
             <ab facs="#facs_7_r1">
                <lb facs="#facs_7_r1l2" n="N001"/>529
                <lb facs="#facs_7_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_7_r1l3" n="N003"/><rs type="person" ref="wkfm__8746">Jenamy Gerasius</rs> burgerlicher Handlsmann
+               <lb facs="#facs_7_r1l3" n="N003"/><rs type="person" ref="#wkfm__8746">Jenamy Gerasius</rs> burgerlicher Handlsmann
                <lb facs="#facs_7_r1l4" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_7_r1l5" n="N005"/><rs type="person" ref="wkfm__8746">Gervasj Jenamy</rs> laut Erklährung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 496
-               <lb facs="#facs_7_r1l6" n="N006"/><hi>Gerva</hi> <rs type="person" ref="wkfm__43867">Gervasi Jenamy und Sohn</rs> laut Erklährung sind dato N<hi style="superscript">o</hi> 506
+               <lb facs="#facs_7_r1l5" n="N005"/><rs type="person" ref="#wkfm__8746">Gervasj Jenamy</rs> laut Erklährung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 496
+               <lb facs="#facs_7_r1l6" n="N006"/><hi>Gerva</hi> <rs type="person" ref="#wkfm__43867">Gervasi Jenamy und Sohn</rs> laut Erklährung sind dato N<hi style="superscript">o</hi> 506
                <lb facs="#facs_7_r1l7" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
-               <lb facs="#facs_7_r1l9" n="N008"/>In obiger Erklährung sind dato N<hi style="superscript">o</hi> 506 ist die Firma der Raggion <rs type="person" ref="wkfm__46635">Gervasi Jenamy</rs>
+               <lb facs="#facs_7_r1l9" n="N008"/>In obiger Erklährung sind dato N<hi style="superscript">o</hi> 506 ist die Firma der Raggion <rs type="person" ref="#wkfm__46635">Gervasi Jenamy</rs>
                <lb facs="#facs_7_r1l10" n="N009"/>und Sohn von beiden sociis Vatter und Sohn eingeleget worden.
                <lb facs="#facs_7_r1l11" n="N010"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_7_r1l12" n="N011"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_7_r1l13" n="N012"/>Der <rs type="person" ref="wkfm__8746">Gervasius Jenamy</rs> hat die <choice><expan/><abbr>orig:</abbr></choice> Erklährung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 745
+               <lb facs="#facs_7_r1l13" n="N012"/>Der <rs type="person" ref="#wkfm__8746">Gervasius Jenamy</rs> hat die <choice><expan/><abbr>orig:</abbr></choice> Erklährung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 745
                <lb facs="#facs_7_r1l14" n="N013"/>N<hi style="superscript">o</hi> 1567 dahin eingeleget, daß, nachdem er sich seinen Sohn associiret,
                <lb facs="#facs_7_r1l15" n="N014"/>er für gedacht seines Sohns samentliche Requisita hiemit Caution prae
                <lb facs="#facs_7_r1l16" n="N015"/>stirn wolle.

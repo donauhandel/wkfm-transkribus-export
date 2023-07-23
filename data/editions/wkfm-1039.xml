@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -87,28 +87,28 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_119" n="119" xml:id="img_0119"/>
+            <pb facs="#facs_119" n="119" xml:id="img_0119" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1039.jpg"/>
             
             <ab facs="#facs_119_r1">
                <lb facs="#facs_119_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_119_r1l2" n="N003"/><rs type="person" ref="wkfm__46545">Höltzl Franz</rs> burgerlicher Handlsmann
+               <lb facs="#facs_119_r1l2" n="N003"/><rs type="person" ref="#wkfm__46545">Höltzl Franz</rs> burgerlicher Handlsmann
                <lb facs="#facs_119_r1l3" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_119_r1l4" n="N005"/><hi>Frantz</hi> <choice><expan/><abbr>Ao</abbr></choice> 766 hat <rs type="person" ref="wkfm__46545">Franz Hölzl</rs> seine firma eingelegt: <choice><expan/><abbr>nro:</abbr></choice> 493
+               <lb facs="#facs_119_r1l4" n="N005"/><hi>Frantz</hi> <choice><expan/><abbr>Ao</abbr></choice> 766 hat <rs type="person" ref="#wkfm__46545">Franz Hölzl</rs> seine firma eingelegt: <choice><expan/><abbr>nro:</abbr></choice> 493
                <lb facs="#facs_119_r1l5" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_119_r1l6" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_119_r1l7" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_119_r1l8" n="N009"/>Der <rs type="person" ref="wkfm__46545">Holtzl</rs> hat seinen Fundum mitls der <hi>Specification</hi> laut beygerukter 
+               <lb facs="#facs_119_r1l8" n="N009"/>Der <rs type="person" ref="#wkfm__46545">Holtzl</rs> hat seinen Fundum mitls der <hi>Specification</hi> laut beygerukter 
                <lb facs="#facs_119_r1l12" n="N010"/>Formulae jurandi von selben untern 11<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 747 mit einen Cörperlichen Eyd bekräftigen specification
                <lb facs="#facs_119_r1l13" n="N011"/><hi>folgen</hi> N<hi style="superscript">o</hi> 1527 folgender maßen ausgewisen nemlich daß er eigenthuml:
                <lb facs="#facs_119_r1l14" n="N012"/>besize, und zwahr
                <lb facs="#facs_119_r1l16" n="N013"/>das er an der erkauften Praun: handlung baar ausgezahlet habe 3498 fl
-               <lb facs="#facs_119_r1l19" n="N014"/>dann an der forderung bey <rs type="person" ref="wkfm__30180">Bartholomao Contrini</rs> an eingegangen 1389 fl
+               <lb facs="#facs_119_r1l19" n="N014"/>dann an der forderung bey <rs type="person" ref="#wkfm__30180">Bartholomao Contrini</rs> an eingegangen 1389 fl
                <lb facs="#facs_119_r1l22" n="N015"/>am annoch ausständigen an eben diser forderung 155 fl
                <lb facs="#facs_119_r1l25" n="N016"/>an Mobilien und Effecten 873 fl
                <lb facs="#facs_119_r1l28" n="N017"/>an ausständigen Kostgeld 185 fl
                <lb facs="#facs_119_r1l31" n="N018"/>an einen Wechslbrief 200 fl
                <lb facs="#facs_119_r1l32" n="N019"/>zusamen Eigenthum 6300 fl
-               <lb facs="#facs_119_r1l33" n="N020"/>Zu Completirung des übrigen hat dessen bruder <rs type="person" ref="wkfm__46546">Johann
+               <lb facs="#facs_119_r1l33" n="N020"/>Zu Completirung des übrigen hat dessen bruder <rs type="person" ref="#wkfm__46546">Johann
                <lb break="no" facs="#facs_119_r1l34" n="N021"/>Matthias Höltzl</rs> das <choice><expan/><abbr>orig:</abbr></choice> Caut: Instr: dd<hi style="superscript">to</hi> 4<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 747 N<hi style="superscript">o</hi>
                <lb facs="#facs_119_r1l35" n="N022"/>1528 eingeleget <choice><expan/><abbr>pr</abbr></choice> 1700 fl
                <lb facs="#facs_119_r1l38" n="N023"/><choice><expan/><abbr>Sa</abbr></choice> 8000 fl

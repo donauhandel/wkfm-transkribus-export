@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -85,16 +85,16 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_139" n="139" xml:id="img_0139"/>
+            <pb facs="#facs_139" n="139" xml:id="img_0139" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1059.jpg"/>
             
             <ab facs="#facs_139_r1">
                <lb facs="#facs_139_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_139_r1l2" n="N003"/><rs type="person" ref="wkfm__46572">Höltzl Anton</rs> burgerlicher Handlsmann
+               <lb facs="#facs_139_r1l2" n="N003"/><rs type="person" ref="#wkfm__46572">Höltzl Anton</rs> burgerlicher Handlsmann
                <lb facs="#facs_139_r1l3" n="N004"/>Firma ad Raggion
                <lb facs="#facs_139_r1l4" n="N005"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_139_r1l5" n="N006"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_139_r1l6" n="N007"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_139_r1l7" n="N008"/>Mitls der Specification N<hi style="superscript">o</hi> 1555 hat der <rs type="person" ref="wkfm__46572">Hölzl</rs> seinen fundum folgender
+               <lb facs="#facs_139_r1l7" n="N008"/>Mitls der Specification N<hi style="superscript">o</hi> 1555 hat der <rs type="person" ref="#wkfm__46572">Hölzl</rs> seinen fundum folgender
                <lb facs="#facs_139_r1l8" n="N009"/>maßen ausgewisen, daß er eigenthumlich besize, und zwahr Vermög
                <lb facs="#facs_139_r1l9" n="N010"/>Extract aus dem untern 28<hi style="superscript">ten</hi> Martii 749 publicirten <unclear>Crido</unclear> Abschid N<hi style="superscript">o</hi> 1556 in vid:
                <lb facs="#facs_139_r1l12" n="N011"/>das Mütterliche Erbtheil <choice><expan/><abbr>pr</abbr></choice> 2000 fl
@@ -102,10 +102,10 @@
                <lb facs="#facs_139_r1l15" n="N013"/>gewachsenen <choice><expan/><abbr>intee</abbr></choice> <choice><expan/><abbr>pr</abbr></choice> 839 fl
                <lb facs="#facs_139_r1l17" n="N014"/>das Schwesterliche Erbtheil <choice><expan/><abbr>pr</abbr></choice> 285 fl 42 x<hi style="superscript">r</hi>
                <lb facs="#facs_139_r1l19" n="N015"/>das Eylauer: legat <choice><expan/><abbr>pr</abbr></choice> 500 fl
-               <lb facs="#facs_139_r1l22" n="N016"/>dann laut attestati des v. <rs type="person" ref="wkfm__9731">Kyenmayr</rs> dd<hi style="superscript">to</hi> 4<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 754 N<hi style="superscript">o</hi> 1557 an er-
+               <lb facs="#facs_139_r1l22" n="N016"/>dann laut attestati des v. <rs type="person" ref="#wkfm__9731">Kyenmayr</rs> dd<hi style="superscript">to</hi> 4<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 754 N<hi style="superscript">o</hi> 1557 an er-
                <lb facs="#facs_139_r1l23" n="N017"/>spahrten salario 915 fl 32 x<hi style="superscript">r</hi>
                <lb facs="#facs_139_r1l25" n="N018"/>zusamen Eigentum 4570 fl 14 x<hi style="superscript">r</hi>
-               <lb facs="#facs_139_r1l26" n="N019"/>Zu Completirung des übrigen hat der <rs type="person" ref="wkfm__9731">Joh: Michäl v. Kyenmayr</rs> das <choice><expan/><abbr>orig:</abbr></choice> Caut: Instrum:
+               <lb facs="#facs_139_r1l26" n="N019"/>Zu Completirung des übrigen hat der <rs type="person" ref="#wkfm__9731">Joh: Michäl v. Kyenmayr</rs> das <choice><expan/><abbr>orig:</abbr></choice> Caut: Instrum:
                <lb facs="#facs_139_r1l27" n="N020"/>dd<hi style="superscript">to</hi> 28<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 754 N<hi style="superscript">o</hi> 1558 eingeleget <choice><expan/><abbr>pr</abbr></choice> 3429 46 x<hi style="superscript">r</hi>
                <lb facs="#facs_139_r1l29" n="N021"/>hiebey befinden sich 2 Anbringen wegen Annehmung des Supl: N<hi style="superscript">o</hi> 1559 et 1560 <choice><expan/><abbr>Sa</abbr></choice> 8000 fl
             </ab>

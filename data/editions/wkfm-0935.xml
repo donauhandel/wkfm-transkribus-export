@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -82,24 +82,24 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_15" n="15" xml:id="img_0015"/>
+            <pb facs="#facs_15" n="15" xml:id="img_0015" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0935.jpg"/>
             
             <ab facs="#facs_15_r2">
                <lb facs="#facs_15_r2l2" n="N001"/>460
                <lb facs="#facs_15_r2l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_15_r2l3" n="N003"/><rs type="person" ref="wkfm__11795">Haymerl Philipp Joseph</rs>
+               <lb facs="#facs_15_r2l3" n="N003"/><rs type="person" ref="#wkfm__11795">Haymerl Philipp Joseph</rs>
                <lb facs="#facs_15_r2l4" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_15_r2l5" n="N005"/><rs type="person" ref="wkfm__46400">Johann Wolfgang und Philipp Joseph Haymerl</rs> laut Anbringen de ps:
+               <lb facs="#facs_15_r2l5" n="N005"/><rs type="person" ref="#wkfm__46400">Johann Wolfgang und Philipp Joseph Haymerl</rs> laut Anbringen de ps:
                <lb facs="#facs_15_r2l6" n="N006"/>19<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 1961
-               <lb facs="#facs_15_r2l7" n="N007"/><rs type="person" ref="wkfm__13569">Butterna und Haymerl</rs> laut Anbringen de ps: 23<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 728 N<hi style="superscript">o</hi> 1851
+               <lb facs="#facs_15_r2l7" n="N007"/><rs type="person" ref="#wkfm__13569">Butterna und Haymerl</rs> laut Anbringen de ps: 23<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 728 N<hi style="superscript">o</hi> 1851
                <lb facs="#facs_15_r2l8" n="N008"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
-               <lb facs="#facs_15_r2l9" n="N009"/>In obigen Anbringen de ps: 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 1961 ist die Firma der Raggion <rs type="person" ref="wkfm__46400">Johann
-               <lb break="no" facs="#facs_15_r2l10" n="N010"/>Wolfgang und Philipp Joseph Haymerl</rs> von beeden sociis <rs type="person" ref="wkfm__24831">Johann Wolfgang
-               <lb break="no" facs="#facs_15_r2l11" n="N011"/>Haymerl</rs> und <rs type="person" ref="wkfm__11795">Philipp Joseph Haymerl</rs> eingeleget worden
-               <lb facs="#facs_15_r2l12" n="N012"/>In obigen Anbringen de ps: 23<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 728 N<hi style="superscript">o</hi> 1851 ist von der Raggion <rs type="person" ref="wkfm__13569">Butterna und
+               <lb facs="#facs_15_r2l9" n="N009"/>In obigen Anbringen de ps: 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 1961 ist die Firma der Raggion <rs type="person" ref="#wkfm__46400">Johann
+               <lb break="no" facs="#facs_15_r2l10" n="N010"/>Wolfgang und Philipp Joseph Haymerl</rs> von beeden sociis <rs type="person" ref="#wkfm__24831">Johann Wolfgang
+               <lb break="no" facs="#facs_15_r2l11" n="N011"/>Haymerl</rs> und <rs type="person" ref="#wkfm__11795">Philipp Joseph Haymerl</rs> eingeleget worden
+               <lb facs="#facs_15_r2l12" n="N012"/>In obigen Anbringen de ps: 23<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 728 N<hi style="superscript">o</hi> 1851 ist von der Raggion <rs type="person" ref="#wkfm__13569">Butterna und
                <lb break="no" facs="#facs_15_r2l13" n="N013"/>Haymerl</rs> die Anzeige gemacht worden, daß von dieser Raggion jedweder deren
-               <lb facs="#facs_15_r2l14" n="N014"/>Interessenten als der <rs type="person" ref="wkfm__40680">Johann Matthias Butterna</rs>, <rs type="person" ref="wkfm__24831">Johann Wolfgang</rs> und
-               <lb facs="#facs_15_r2l15" n="N015"/><rs type="person" ref="wkfm__11795">Philipp Joseph Haymerl</rs> die Firma habe.
+               <lb facs="#facs_15_r2l14" n="N014"/>Interessenten als der <rs type="person" ref="#wkfm__40680">Johann Matthias Butterna</rs>, <rs type="person" ref="#wkfm__24831">Johann Wolfgang</rs> und
+               <lb facs="#facs_15_r2l15" n="N015"/><rs type="person" ref="#wkfm__11795">Philipp Joseph Haymerl</rs> die Firma habe.
                <lb facs="#facs_15_r2l16" n="N016"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_15_r2l17" n="N017"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
             </ab>

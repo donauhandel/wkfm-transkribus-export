@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -77,18 +77,18 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_104" n="104" xml:id="img_0104"/>
+            <pb facs="#facs_104" n="104" xml:id="img_0104" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0772.jpg"/>
             
             <ab facs="#facs_104_r1">
                <lb facs="#facs_104_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
-               <lb facs="#facs_104_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> sine dato N<hi style="superscript">o</hi> 366 hat der <rs type="person" ref="wkfm__47135">Peter Farquet</rs>
-               <lb facs="#facs_104_r1l3" n="N003"/>und <rs type="person" ref="wkfm__47133">Christian Peter Veigl</rs> die Societaets Firma <rs type="person" ref="wkfm__29979">Veigl und Farquet</rs> miteinander
+               <lb facs="#facs_104_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> sine dato N<hi style="superscript">o</hi> 366 hat der <rs type="person" ref="#wkfm__47135">Peter Farquet</rs>
+               <lb facs="#facs_104_r1l3" n="N003"/>und <rs type="person" ref="#wkfm__47133">Christian Peter Veigl</rs> die Societaets Firma <rs type="person" ref="#wkfm__29979">Veigl und Farquet</rs> miteinander
                <lb facs="#facs_104_r1l4" n="N004"/>eingeleget
-               <lb facs="#facs_104_r1l5" n="N005"/>Mitls Anbringen dd<hi style="superscript">to</hi> 15<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 748 N<hi style="superscript">o</hi> 1945 hat der <rs type="person" ref="wkfm__47133">Christian Peter Veigl</rs>
+               <lb facs="#facs_104_r1l5" n="N005"/>Mitls Anbringen dd<hi style="superscript">to</hi> 15<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 748 N<hi style="superscript">o</hi> 1945 hat der <rs type="person" ref="#wkfm__47133">Christian Peter Veigl</rs>
                <lb facs="#facs_104_r1l6" n="N006"/>angezeiget, daß, zumahlen ihm der Farquet das an selben Verkaufte Waaren
-               <lb facs="#facs_104_r1l7" n="N007"/>Lager nicht bezahlet, er <rs type="person" ref="wkfm__47133">Veigl</rs> durch richterliche Erkantnuß dd<hi style="superscript">to</hi> 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice>
+               <lb facs="#facs_104_r1l7" n="N007"/>Lager nicht bezahlet, er <rs type="person" ref="#wkfm__47133">Veigl</rs> durch richterliche Erkantnuß dd<hi style="superscript">to</hi> 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice>
                <lb facs="#facs_104_r1l8" n="N008"/>747 die Einantworthung des Waaren Lager erhalten habe, daß also
-               <lb facs="#facs_104_r1l9" n="N009"/>der <rs type="person"><hi>Veigl</hi></rs> <rs type="person" ref="wkfm__47135">Farquet</rs> an den Negatio keinen sondern er <rs type="person" ref="wkfm__47133">Veigl</rs> allein Theil
+               <lb facs="#facs_104_r1l9" n="N009"/>der <rs type="person"><hi>Veigl</hi></rs> <rs type="person" ref="#wkfm__47135">Farquet</rs> an den Negatio keinen sondern er <rs type="person" ref="#wkfm__47133">Veigl</rs> allein Theil
                <lb facs="#facs_104_r1l10" n="N010"/>habe
                <lb facs="#facs_104_r1l11" n="N011"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_104_r1l12" n="N012"/>Anmerckungen

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -73,15 +73,15 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_100" n="100" xml:id="img_0100"/>
+            <pb facs="#facs_100" n="100" xml:id="img_0100" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1558.jpg"/>
             
             <ab facs="#facs_100_r1">
                <lb facs="#facs_100_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_100_r1l2" n="N002"/>In obigen Anbringen de ps: 10<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 726 N<hi style="superscript">o</hi> 2043 und oblatorien dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> ej:
-               <lb facs="#facs_100_r1l3" n="N003"/>N<hi style="superscript">o</hi> 1141 hat der <rs type="person" ref="wkfm__43782">Anton Segalla</rs> und <rs type="person" ref="wkfm__47467">Domenico Bigongini</rs> respective ange-
-               <lb facs="#facs_100_r1l4" n="N004"/>zeiget und kund gemacht, daß sie beede mit interesse des <rs type="person" ref="wkfm__47468">Johann 
+               <lb facs="#facs_100_r1l3" n="N003"/>N<hi style="superscript">o</hi> 1141 hat der <rs type="person" ref="#wkfm__43782">Anton Segalla</rs> und <rs type="person" ref="#wkfm__47467">Domenico Bigongini</rs> respective ange-
+               <lb facs="#facs_100_r1l4" n="N004"/>zeiget und kund gemacht, daß sie beede mit interesse des <rs type="person" ref="#wkfm__47468">Johann 
                <lb break="no" facs="#facs_100_r1l5" n="N005"/>Carignani</rs> von Neapl einen Wechsel- und Handlungs Societaet errichtet
-               <lb facs="#facs_100_r1l6" n="N006"/>haben und unter <hi>so</hi> der Societaets Raggion <rs type="person" ref="wkfm__12817">Segalla e Bigongini</rs> mit
+               <lb facs="#facs_100_r1l6" n="N006"/>haben und unter <hi>so</hi> der Societaets Raggion <rs type="person" ref="#wkfm__12817">Segalla e Bigongini</rs> mit
                <lb facs="#facs_100_r1l7" n="N007"/>firmirung ihrer beeden führen werden
                <lb facs="#facs_100_r1l8" n="N008"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_100_r1l9" n="N009"/>Anmerckungen

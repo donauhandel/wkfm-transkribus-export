@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -85,29 +85,29 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_177" n="177" xml:id="img_0177"/>
+            <pb facs="#facs_177" n="177" xml:id="img_0177" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1635.jpg"/>
             
             <ab facs="#facs_177_r2">
                <lb facs="#facs_177_line_1626263037669_2184" n="N001"/>137
                <lb facs="#facs_177_line_1626691681745_1053" n="N002"/><hi>792</hi>
                <lb facs="#facs_177_line_1626691684595_1056" n="N003"/>810
                <lb facs="#facs_177_r2l1" n="N004"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_177_r2l3" n="N005"/><rs type="person" ref="wkfm__33707">Schweinzer Johann Andre</rs> burgerlicher Handlsmann
+               <lb facs="#facs_177_r2l3" n="N005"/><rs type="person" ref="#wkfm__33707">Schweinzer Johann Andre</rs> burgerlicher Handlsmann
                <lb facs="#facs_177_r2l4" n="N006"/>Firma ad Raggion
-               <lb facs="#facs_177_r2l5" n="N007"/><rs type="person" ref="wkfm__47537">Johann Andre Schweinzer</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 751
+               <lb facs="#facs_177_r2l5" n="N007"/><rs type="person" ref="#wkfm__47537">Johann Andre Schweinzer</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 751
                <lb facs="#facs_177_r2l6" n="N008"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_177_r2l7" n="N009"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_177_r2l9" n="N010"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_177_r2l10" n="N011"/>Der <rs type="person" ref="wkfm__33707">Schweinzer</rs> hat zu Ausweisung seines Fundi ein von <rs type="person" ref="wkfm__24248">Johann Michäl <unclear>Götz</unclear></rs>
-               <lb facs="#facs_177_r2l12" n="N012"/>untern 31<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 738 dahin ausgestelte obligation N<hi style="superscript">o</hi> 1717 in Copia vidimata eingelegt das er <rs type="person" ref="wkfm__33707">Schweinzer</rs> in sein des
-               <lb facs="#facs_177_r2l14" n="N013"/><rs type="person" ref="wkfm__24248">Götz</rs> Handlung stehen habe 4000 fl
-               <lb facs="#facs_177_r2l17" n="N014"/>zu Completirung des Übrigen hat der <rs type="person" ref="wkfm__9344">Anton Mathias Kircher</rs>
+               <lb facs="#facs_177_r2l10" n="N011"/>Der <rs type="person" ref="#wkfm__33707">Schweinzer</rs> hat zu Ausweisung seines Fundi ein von <rs type="person" ref="#wkfm__24248">Johann Michäl <unclear>Götz</unclear></rs>
+               <lb facs="#facs_177_r2l12" n="N012"/>untern 31<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 738 dahin ausgestelte obligation N<hi style="superscript">o</hi> 1717 in Copia vidimata eingelegt das er <rs type="person" ref="#wkfm__33707">Schweinzer</rs> in sein des
+               <lb facs="#facs_177_r2l14" n="N013"/><rs type="person" ref="#wkfm__24248">Götz</rs> Handlung stehen habe 4000 fl
+               <lb facs="#facs_177_r2l17" n="N014"/>zu Completirung des Übrigen hat der <rs type="person" ref="#wkfm__9344">Anton Mathias Kircher</rs>
                <lb facs="#facs_177_r2l19" n="N015"/>Ein Cautions Instrument eingleget <choice><expan/><abbr>pr</abbr></choice> 4000 fl
                <lb facs="#facs_177_r2l20" n="N016"/><choice><expan/><abbr>Sa</abbr></choice> 8000 fl
-               <lb facs="#facs_177_r2l21" n="N017"/>Uber die von dem <rs type="person" ref="wkfm__33707">Schweinzer</rs> gemachte Anzeige, das aus seinem Stal<gap/> zu er-
+               <lb facs="#facs_177_r2l21" n="N017"/>Uber die von dem <rs type="person" ref="#wkfm__33707">Schweinzer</rs> gemachte Anzeige, das aus seinem Stal<gap/> zu er-
                <lb facs="#facs_177_r2l22" n="N018"/><unclear>sehen</unclear> wäre, das er 8000 fl eigenthumlich besize ist <hi>ihm</hi> selben zu folgender
                <lb facs="#facs_177_r2l23" n="N019"/>hierauf erlassenen Auflag dd<hi style="superscript">to</hi> 12<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 742 und Quittung dd<hi style="superscript">to</hi> 14<hi style="superscript">ten</hi> ej:
-               <lb facs="#facs_177_r2l24" n="N020"/>N<hi style="superscript">o</hi> 1718 <unclear>obiger</unclear> von dem <rs type="person" ref="wkfm__9344">Kircher</rs> eingelegtes Cautionis Instrument
+               <lb facs="#facs_177_r2l24" n="N020"/>N<hi style="superscript">o</hi> 1718 <unclear>obiger</unclear> von dem <rs type="person" ref="#wkfm__9344">Kircher</rs> eingelegtes Cautionis Instrument
                <lb facs="#facs_177_r2l25" n="N021"/>extradiret worden.
             </ab>
             

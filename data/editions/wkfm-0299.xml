@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -89,33 +89,33 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_245" n="245" xml:id="img_0245"/>
+            <pb facs="#facs_245" n="245" xml:id="img_0245" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0299.jpg"/>
             
             <ab facs="#facs_245_r1">
                <lb facs="#facs_245_r1l2" n="N001"/><hi>146</hi>
                <lb facs="#facs_245_r1l3" n="N002"/>147
                <lb facs="#facs_245_r1l1" n="N003"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_245_r1l4" n="N004"/><rs type="person" ref="wkfm__43986">Pürker Franz Joseph</rs> burgerlicher Handlsmann
+               <lb facs="#facs_245_r1l4" n="N004"/><rs type="person" ref="#wkfm__43986">Pürker Franz Joseph</rs> burgerlicher Handlsmann
                <lb facs="#facs_245_r1l5" n="N005"/>Firma ad Raggion
-               <lb facs="#facs_245_r1l6" n="N006"/><rs type="person" ref="wkfm__47390">Franz Joseph Pürker</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 151
+               <lb facs="#facs_245_r1l6" n="N006"/><rs type="person" ref="#wkfm__47390">Franz Joseph Pürker</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 151
                <lb facs="#facs_245_r1l7" n="N007"/>welche der Supl: mitls Anbringen de ps: 18<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 753 N<hi style="superscript">o</hi> 152 eingeleget
                <lb facs="#facs_245_r1l8" n="N008"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_245_r1l9" n="N009"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_245_r1l10" n="N010"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_245_r1l11" n="N011"/>Der <rs type="person" ref="wkfm__43986">Pürker</rs> hat seinen fundum mitls einer Specification N<hi style="superscript">o</hi> 1241
+               <lb facs="#facs_245_r1l11" n="N011"/>Der <rs type="person" ref="#wkfm__43986">Pürker</rs> hat seinen fundum mitls einer Specification N<hi style="superscript">o</hi> 1241
                <lb facs="#facs_245_r1l12" n="N012"/>folgender gestalten ausgewisen daß er Eigenthumlich besize an einer
                <lb facs="#facs_245_line_1621473790399_5072" n="N013"/><unclear>O C.</unclear> Amt obligation 2000 fl
-               <lb facs="#facs_245_r1l15" n="N014"/>bey <rs type="person" ref="wkfm__43987">Joseph Schwarzleuthner und Sohn</rs> stehen habe 3000 fl
-               <lb facs="#facs_245_line_1621473799118_5080" n="N015"/>bey <rs type="person" ref="wkfm__43988">Gebrüder Ruard</rs> 1522 fl 30 x<hi style="superscript">r</hi>
-               <lb facs="#facs_245_line_1621473812486_5092" n="N016"/>dann bey <rs type="person" ref="wkfm__43989">Jacob Matthäus Schmidt</rs> 2000 fl
+               <lb facs="#facs_245_r1l15" n="N014"/>bey <rs type="person" ref="#wkfm__43987">Joseph Schwarzleuthner und Sohn</rs> stehen habe 3000 fl
+               <lb facs="#facs_245_line_1621473799118_5080" n="N015"/>bey <rs type="person" ref="#wkfm__43988">Gebrüder Ruard</rs> 1522 fl 30 x<hi style="superscript">r</hi>
+               <lb facs="#facs_245_line_1621473812486_5092" n="N016"/>dann bey <rs type="person" ref="#wkfm__43989">Jacob Matthäus Schmidt</rs> 2000 fl
                <lb facs="#facs_245_r1l21" n="N017"/><choice><expan/><abbr>Sa</abbr></choice> 8522 fl 30 x<hi style="superscript">r</hi>
                <lb facs="#facs_245_r1l22" n="N018"/>zu Verificirung dieser Posten hat selber in vidimirten Abschrifften eingeleget
-               <lb facs="#facs_245_r1l23" n="N019"/>eine O. C. Amts obligation auf Hr. <rs type="person" ref="wkfm__43990">Johann Anton Frh. v. Leon</rs> laut dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice>
+               <lb facs="#facs_245_r1l23" n="N019"/>eine O. C. Amts obligation auf Hr. <rs type="person" ref="#wkfm__43990">Johann Anton Frh. v. Leon</rs> laut dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice>
                <lb facs="#facs_245_line_1621473938204_5146" n="N020"/>750 <choice><expan/><abbr>pr</abbr></choice> 2000 fl. N<hi style="superscript">o</hi> 1242 samt Carta <unclear>Bianca</unclear> zur Cession sine dato N<hi style="superscript">o</hi> 1243 zwey <unclear>Billan-</unclear>
-               <lb facs="#facs_245_r1l26" n="N021"/><unclear>von</unclear> <rs type="person" ref="wkfm__43987">Joseph Schwarzleuthner und Sohn</rs> an den <rs type="person" ref="wkfm__43986">Franz Jos. Pürker</rs> laut dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi>
+               <lb facs="#facs_245_r1l26" n="N021"/><unclear>von</unclear> <rs type="person" ref="#wkfm__43987">Joseph Schwarzleuthner und Sohn</rs> an den <rs type="person" ref="#wkfm__43986">Franz Jos. Pürker</rs> laut dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi>
                <lb facs="#facs_245_line_1621473880528_5120" n="N022"/><gap/> 751 <choice><expan/><abbr>pr</abbr></choice> 2000 fl und 4<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> d. a. <choice><expan/><abbr>pr</abbr></choice> 1000 fl N<hi style="superscript">o</hi> 1244 et 1245 dann einen Wechsel-
-               <lb facs="#facs_245_r1l29" n="N023"/>Brief auf eben denselben lautend von <rs type="person" ref="wkfm__43988">Gebrüder Ruard</rs> dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 751 <choice><expan/><abbr>pr</abbr></choice>
-               <lb facs="#facs_245_line_1621473955257_5158" n="N024"/>1522 fl 20 x<hi style="superscript">r</hi> N<hi style="superscript">o</hi> 1846 und einen <hi>Scheu</hi> det: Scheun von <rs type="person" ref="wkfm__43989">Jacob Mattheus Schmidt</rs> dd<hi style="superscript">to</hi> ult:
+               <lb facs="#facs_245_r1l29" n="N023"/>Brief auf eben denselben lautend von <rs type="person" ref="#wkfm__43988">Gebrüder Ruard</rs> dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 751 <choice><expan/><abbr>pr</abbr></choice>
+               <lb facs="#facs_245_line_1621473955257_5158" n="N024"/>1522 fl 20 x<hi style="superscript">r</hi> N<hi style="superscript">o</hi> 1846 und einen <hi>Scheu</hi> det: Scheun von <rs type="person" ref="#wkfm__43989">Jacob Mattheus Schmidt</rs> dd<hi style="superscript">to</hi> ult:
                <lb facs="#facs_245_r1l32" n="N025"/><gap/> 751 N<hi style="superscript">o</hi> 1247 worbey sich zwey Anbringen wegen annehmung des Supl: N<hi style="superscript">o</hi> 1248 et 1249 befinden
             </ab>
             

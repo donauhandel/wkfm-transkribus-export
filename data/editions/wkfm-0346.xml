@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -82,23 +82,23 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_26" n="26" xml:id="img_0026"/>
+            <pb facs="#facs_26" n="26" xml:id="img_0026" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0346.jpg"/>
             
             <ab facs="#facs_26_r1">
                <lb facs="#facs_26_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
-               <lb facs="#facs_26_r1l2" n="N002"/>Im obigen Anbringen de ps: 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 173 hat sich der <rs type="person" ref="wkfm__9344">Kircher</rs>
+               <lb facs="#facs_26_r1l2" n="N002"/>Im obigen Anbringen de ps: 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 173 hat sich der <rs type="person" ref="#wkfm__9344">Kircher</rs>
                <lb facs="#facs_26_r1l4" n="N003"/>erklähret, das er keinen Compagnon und interessenten habe.
                <lb facs="#facs_26_r1l5" n="N004"/>2
                <lb facs="#facs_26_line_1621954648322_374" n="N005"/>2
-               <lb facs="#facs_26_r1l6" n="N006"/>Mitls Erklährung dd<hi style="superscript">to</hi> 18<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 748 N<hi style="superscript">o</hi> 1322 hat sich der <rs type="person" ref="wkfm__9344">Anthon Mathias
+               <lb facs="#facs_26_r1l6" n="N006"/>Mitls Erklährung dd<hi style="superscript">to</hi> 18<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 748 N<hi style="superscript">o</hi> 1322 hat sich der <rs type="person" ref="#wkfm__9344">Anthon Mathias
                <lb break="no" facs="#facs_26_r1l7" n="N007"/>Kircher</rs> geäusseret, daß er entschlossen seine Handlung gänzlich abzu-
-               <lb facs="#facs_26_r1l8" n="N008"/>tretten und in solcher seinem leiblichen Sohn <rs type="person" ref="wkfm__46108">Joseph</rs> zu seinen Schwiger Sohn
-               <lb facs="#facs_26_r1l9" n="N009"/>und dermahligen Compagnon <rs type="person" ref="wkfm__41599">Johann Peter Togniola</rs> zu accopagniren
+               <lb facs="#facs_26_r1l8" n="N008"/>tretten und in solcher seinem leiblichen Sohn <rs type="person" ref="#wkfm__46108">Joseph</rs> zu seinen Schwiger Sohn
+               <lb facs="#facs_26_r1l9" n="N009"/>und dermahligen Compagnon <rs type="person" ref="#wkfm__41599">Johann Peter Togniola</rs> zu accopagniren
                <lb facs="#facs_26_line_1621954669276_382" n="N010"/><seg type="editorial_comment_seg">1<note type="editorial_comment_note">Der folgende Abschnitt ist vor dem mit 2 gekennzeichneten Abschnitt zu setzen</note></seg>
                <lb facs="#facs_26_r1l10" n="N011"/>1
                <lb facs="#facs_26_line_1621954673577_387" n="N012"/>1
                <lb facs="#facs_26_r1l11" n="N013"/>Von dem <choice><expan/><abbr>orig:</abbr></choice> Instrument dd<hi style="superscript">to</hi> 3<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 736 N<hi style="superscript">o</hi> 1354 hat sich der
-               <lb facs="#facs_26_r1l12" n="N014"/><rs type="person" ref="wkfm__9344">Kircher</rs> erklähret, daß er seinen Schwiger Sohn <rs type="person" ref="wkfm__41599">Johann Peter Togniola</rs>
+               <lb facs="#facs_26_r1l12" n="N014"/><rs type="person" ref="#wkfm__9344">Kircher</rs> erklähret, daß er seinen Schwiger Sohn <rs type="person" ref="#wkfm__41599">Johann Peter Togniola</rs>
                <lb facs="#facs_26_r1l13" n="N015"/>auf 1/3 tl Gewünn des abfahlenden Nuzenns in seine Handlung angenohmen
                <lb facs="#facs_26_r1l14" n="N016"/>habe.
                <lb facs="#facs_26_r1l15" n="N017"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>

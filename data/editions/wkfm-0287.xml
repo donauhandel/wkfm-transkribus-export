@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -81,24 +81,24 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_233" n="233" xml:id="img_0233"/>
+            <pb facs="#facs_233" n="233" xml:id="img_0233" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0287.jpg"/>
             
             <ab facs="#facs_233_r1">
                <lb facs="#facs_233_r1l2" n="N001"/>141
                <lb facs="#facs_233_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_233_r1l3" n="N003"/><rs type="person" ref="wkfm__43969">Batuzzi Joseph</rs> burgerlicher Handlsmann
+               <lb facs="#facs_233_r1l3" n="N003"/><rs type="person" ref="#wkfm__43969">Batuzzi Joseph</rs> burgerlicher Handlsmann
                <lb facs="#facs_233_r1l4" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_233_r1l5" n="N005"/><hi>Jo</hi> <rs type="person" ref="wkfm__47383">Joseph Batuzzi</rs> oder Guiseppe Batuzzi laut Erklährung sine dato <hi>N<hi style="superscript"/></hi>o
+               <lb facs="#facs_233_r1l5" n="N005"/><hi>Jo</hi> <rs type="person" ref="#wkfm__47383">Joseph Batuzzi</rs> oder Guiseppe Batuzzi laut Erklährung sine dato <hi>N<hi style="superscript"/></hi>o
                <lb facs="#facs_233_r1l6" n="N006"/>N<hi style="superscript">o</hi> 142
                <lb facs="#facs_233_r1l7" n="N007"/>den 20<hi style="superscript">ten</hi> Decembris 1763 hat sine firma und Erklärung eingeleget <choice><expan/><abbr>nro</abbr></choice> 142 1/2
                <lb facs="#facs_233_r1l8" n="N008"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_233_r1l9" n="N009"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_233_r1l10" n="N010"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_233_r1l11" n="N011"/>Der <rs type="person" ref="wkfm__43969">Joseph Batuzzi</rs> hat zu Ausweisung seines fundi einen vidimirten
-               <lb facs="#facs_233_r1l12" n="N012"/>Extract des von seinem Vattern <rs type="person" ref="wkfm__4528">Bartholomeo Batuzzi</rs> untern 25<hi style="superscript">ten</hi> May
+               <lb facs="#facs_233_r1l11" n="N011"/>Der <rs type="person" ref="#wkfm__43969">Joseph Batuzzi</rs> hat zu Ausweisung seines fundi einen vidimirten
+               <lb facs="#facs_233_r1l12" n="N012"/>Extract des von seinem Vattern <rs type="person" ref="#wkfm__4528">Bartholomeo Batuzzi</rs> untern 25<hi style="superscript">ten</hi> May
                <lb facs="#facs_233_r1l13" n="N013"/>736 errichtet und und 28<hi style="superscript">ten</hi> ej: publicirten testaments N<hi style="superscript">o</hi> 1207 eingeleget
-               <lb facs="#facs_233_r1l14" n="N014"/>kraft welchen § 11<hi style="superscript">tens</hi> er <rs type="person" ref="wkfm__43969">Joseph Batuzzi</rs> nebst seinem zweyen Brüdern <rs type="person" ref="wkfm__43971">Carl</rs>
-               <lb facs="#facs_233_r1l16" n="N015"/>und <rs type="person" ref="wkfm__43970">Johann Franz</rs> zum universal Erben <gap/> des Vätterlichen Hauses und
+               <lb facs="#facs_233_r1l14" n="N014"/>kraft welchen § 11<hi style="superscript">tens</hi> er <rs type="person" ref="#wkfm__43969">Joseph Batuzzi</rs> nebst seinem zweyen Brüdern <rs type="person" ref="#wkfm__43971">Carl</rs>
+               <lb facs="#facs_233_r1l16" n="N015"/>und <rs type="person" ref="#wkfm__43970">Johann Franz</rs> zum universal Erben <gap/> des Vätterlichen Hauses und
                <lb facs="#facs_233_r1l17" n="N016"/>Handlung samt zugehörigen Handlung und allen ohne Ausnahm so nach Ab-
                <lb facs="#facs_233_r1l18" n="N017"/>zug deren onerum und Vermachtnußen Verbleibet eingesezt worden.
             </ab>

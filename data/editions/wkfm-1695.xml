@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -91,34 +91,34 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_237" n="237" xml:id="img_0237"/>
+            <pb facs="#facs_237" n="237" xml:id="img_0237" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1695.jpg"/>
             
             <ab facs="#facs_237_r2">
                <lb facs="#facs_237_line_1626263816516_2562" n="N001"/>142
                <lb facs="#facs_237_line_1626699295393_1549" n="N002"/>840
                <lb facs="#facs_237_r2l1" n="N003"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_237_r2l2" n="N004"/><rs type="person" ref="wkfm__47605">Schreiber Anton Thomas</rs> burgerlicher Handlsmann
+               <lb facs="#facs_237_r2l2" n="N004"/><rs type="person" ref="#wkfm__47605">Schreiber Anton Thomas</rs> burgerlicher Handlsmann
                <lb facs="#facs_237_r2l4" n="N005"/>Firma ad Raggion
                <lb facs="#facs_237_r2l5" n="N006"/><hi>Anton Thomas Schreiberl</hi>
-               <lb facs="#facs_237_r2l6" n="N007"/>Vermög Anbringen de ps: 13<hi style="superscript">ten</hi> Octobris 755 hat der <rs type="person" ref="wkfm__47605">Anton Thomas Schreiber</rs>
+               <lb facs="#facs_237_r2l6" n="N007"/>Vermög Anbringen de ps: 13<hi style="superscript">ten</hi> Octobris 755 hat der <rs type="person" ref="#wkfm__47605">Anton Thomas Schreiber</rs>
                <lb facs="#facs_237_r2l7" n="N008"/>seine firma eingelegt <choice><expan/><abbr>nro</abbr></choice>
                <lb facs="#facs_237_r2l8" n="N009"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_237_r2l9" n="N010"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_237_r2l10" n="N011"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_237_r2l11" n="N012"/>Der <rs type="person" ref="wkfm__47605">Schreiber</rs> hat mitls der Specification N<hi style="superscript">o</hi> 1781 seinen Fundum folgendermaßen
-               <lb facs="#facs_237_r2l12" n="N013"/>ausgewisen nemlich daß er Vermög attestati von <rs type="person" ref="wkfm__23514">Franz Anton Kallmünzer</rs>
+               <lb facs="#facs_237_r2l11" n="N012"/>Der <rs type="person" ref="#wkfm__47605">Schreiber</rs> hat mitls der Specification N<hi style="superscript">o</hi> 1781 seinen Fundum folgendermaßen
+               <lb facs="#facs_237_r2l12" n="N013"/>ausgewisen nemlich daß er Vermög attestati von <rs type="person" ref="#wkfm__23514">Franz Anton Kallmünzer</rs>
                <lb facs="#facs_237_r2l13" n="N014"/>dd<hi style="superscript">to</hi> 26<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 755 N<hi style="superscript">o</hi> 1782 in <choice><expan/><abbr>orig:</abbr></choice> eigenthumlich besize an Mütterlichen
                <lb facs="#facs_237_r2l14" n="N015"/>Erbtheil 800 fl
                <lb facs="#facs_237_r2l16" n="N016"/>an <choice><expan/><abbr>intee</abbr></choice> hievon 200 fl
                <lb facs="#facs_237_r2l19" n="N017"/>an erspahrten salario 800 fl
                <lb facs="#facs_237_r2l23" n="N018"/>an Rabbat an übernohmenen Waaren und Gewelb Einrichtung 1200 fl
                <lb facs="#facs_237_r2l25" n="N019"/>Zusamen Eigenth: 3000 fl
-               <lb facs="#facs_237_r2l26" n="N020"/>zu Completirung des übrigen hat der <rs type="person" ref="wkfm__23514">Franz Anton Kollminzer</rs> das Caut:
+               <lb facs="#facs_237_r2l26" n="N020"/>zu Completirung des übrigen hat der <rs type="person" ref="#wkfm__23514">Franz Anton Kollminzer</rs> das Caut:
                <lb facs="#facs_237_r2l27" n="N021"/>Instrument eingeleget <choice><expan/><abbr>pr</abbr></choice> 5000 fl
                <lb facs="#facs_237_r2l31" n="N022"/><choice><expan/><abbr>Sa</abbr></choice> 8000 fl
                <lb facs="#facs_237_r2l32" n="N023"/>Zufolge Auflag und Quittung de ps: 12<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> und 2<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 757 <hi>0</hi> ist über <gap/>
-               <lb facs="#facs_237_r2l33" n="N024"/>eingelegte <choice><expan/><abbr>orig:</abbr></choice> Cautions Instrument von <rs type="person" ref="wkfm__46692">Johann Christoph Roßmann</rs> dd<hi style="superscript">to</hi> 11<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice>
-               <lb facs="#facs_237_r2l34" n="N025"/>757 N<hi style="superscript">o</hi> 1783 <choice><expan/><abbr>pr</abbr></choice> 5000 fl obiges <rs type="person" ref="wkfm__23514">Kollmünzer:</rs> Cautions Instrument extradiret worden
+               <lb facs="#facs_237_r2l33" n="N024"/>eingelegte <choice><expan/><abbr>orig:</abbr></choice> Cautions Instrument von <rs type="person" ref="#wkfm__46692">Johann Christoph Roßmann</rs> dd<hi style="superscript">to</hi> 11<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice>
+               <lb facs="#facs_237_r2l34" n="N025"/>757 N<hi style="superscript">o</hi> 1783 <choice><expan/><abbr>pr</abbr></choice> 5000 fl obiges <rs type="person" ref="#wkfm__23514">Kollmünzer:</rs> Cautions Instrument extradiret worden
                <lb facs="#facs_237_r2l35" n="N026"/><seg type="editorial_comment_seg"><hi>0</hi> N<hi style="superscript">o</hi> 1786<note type="editorial_comment_note">Einfügung in Zeile 23</note></seg>
             </ab>
             

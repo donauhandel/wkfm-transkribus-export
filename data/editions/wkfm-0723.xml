@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -72,14 +72,14 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_55" n="55" xml:id="img_0055"/>
+            <pb facs="#facs_55" n="55" xml:id="img_0055" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0723.jpg"/>
             
             <ab facs="#facs_55_r3">
                <lb facs="#facs_55_r3l2" n="N001"/>359
                <lb facs="#facs_55_line_1621537289672_533" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_55_r3l3" n="N003"/><rs type="person" ref="wkfm__14199">Fritsch Johann</rs> burgerlicher Eysenhandler
+               <lb facs="#facs_55_r3l3" n="N003"/><rs type="person" ref="#wkfm__14199">Fritsch Johann</rs> burgerlicher Eysenhandler
                <lb facs="#facs_55_r3l4" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_55_r3l5" n="N005"/><rs type="person" ref="wkfm__47091">Johann Fritsch</rs> laut Anbringen de ps: 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 725 N<hi style="superscript">o</hi> 343.
+               <lb facs="#facs_55_r3l5" n="N005"/><rs type="person" ref="#wkfm__47091">Johann Fritsch</rs> laut Anbringen de ps: 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 725 N<hi style="superscript">o</hi> 343.
                <lb facs="#facs_55_r3l6" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_55_r3l7" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_55_r3l8" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>

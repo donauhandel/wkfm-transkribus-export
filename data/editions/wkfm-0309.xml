@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -74,13 +74,13 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_255" n="255" xml:id="img_0255"/>
+            <pb facs="#facs_255" n="255" xml:id="img_0255" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0309.jpg"/>
             
             <ab facs="#facs_255_r2">
                <lb facs="#facs_255_r2l1" n="N003"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_255_r2l2" n="N004"/><rs type="person" ref="wkfm__44035">Benvenuti Domenico</rs> burg: Handlsmann
+               <lb facs="#facs_255_r2l2" n="N004"/><rs type="person" ref="#wkfm__44035">Benvenuti Domenico</rs> burg: Handlsmann
                <lb facs="#facs_255_r2l3" n="N005"/>Firma ad Raggion
-               <lb facs="#facs_255_r2l4" n="N006"/><rs type="person" ref="wkfm__47393">Dom:co Benvenuti</rs> laut Erkährung sine dato N<hi style="superscript">o</hi> 149, welche der
+               <lb facs="#facs_255_r2l4" n="N006"/><rs type="person" ref="#wkfm__47393">Dom:co Benvenuti</rs> laut Erkährung sine dato N<hi style="superscript">o</hi> 149, welche der
                <lb facs="#facs_255_r2l5" n="N007"/>Benvenuti mitls Anbringen de <hi><unclear>Jan</unclear></hi> 4<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 753 N<hi style="superscript">o</hi> 150 eingeleget
                <lb facs="#facs_255_r2l6" n="N008"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_255_r2l7" n="N009"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>

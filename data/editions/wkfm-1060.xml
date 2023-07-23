@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -75,12 +75,12 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_140" n="140" xml:id="img_0140"/>
+            <pb facs="#facs_140" n="140" xml:id="img_0140" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1060.jpg"/>
             
             <ab facs="#facs_140_r1">
                <lb facs="#facs_140_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_140_r1l2" n="N002"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
-               <lb facs="#facs_140_r1l3" n="N003"/>Mitls Anbringen des ps: 19<hi style="superscript">ten</hi> Junii 756 N<hi style="superscript">o</hi> 2184 hat der <rs type="person" ref="wkfm__46572">Hölzl</rs> mit der <rs type="person" ref="wkfm__46573">Cunigonda
+               <lb facs="#facs_140_r1l3" n="N003"/>Mitls Anbringen des ps: 19<hi style="superscript">ten</hi> Junii 756 N<hi style="superscript">o</hi> 2184 hat der <rs type="person" ref="#wkfm__46572">Hölzl</rs> mit der <rs type="person" ref="#wkfm__46573">Cunigonda
                <lb break="no" facs="#facs_140_r1l4" n="N004"/>Löbauerin</rs> unter - Junii 756 errichtet und von dem Magristrat als obgedachter
                <lb facs="#facs_140_r1l5" n="N005"/>der Braut Vermög Ratschlag dd<hi style="superscript">to</hi> 11<hi style="superscript">ten</hi> Junii 756 N<hi style="superscript">o</hi> 2183 ratificirten <choice><expan/><abbr>orig:</abbr></choice> Heuraths
                <lb facs="#facs_140_r1l6" n="N006"/>Contract N<hi style="superscript">o</hi> 2182 eingeleget kraft welchen 1000 fl Heurath nebst 2000 fl Widerlag

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -76,13 +76,13 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_178" n="178" xml:id="img_0178"/>
+            <pb facs="#facs_178" n="178" xml:id="img_0178" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1636.jpg"/>
             
             <ab facs="#facs_178_r1">
                <lb facs="#facs_178_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_178_r1l3" n="N002"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
-               <lb facs="#facs_178_r1l4" n="N003"/>Mitls Anbringen de ps: 17<hi style="superscript">ten</hi> May 745 N<hi style="superscript">o</hi> 2239 hat der <rs type="person" ref="wkfm__33707">Schweinzer</rs> den mit
-               <lb facs="#facs_178_r1l5" n="N004"/>der <rs type="person" ref="wkfm__47538">Maria Eleonora Wagnerin</rs> untern 13<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> d.a. errichteten Heuraths
+               <lb facs="#facs_178_r1l4" n="N003"/>Mitls Anbringen de ps: 17<hi style="superscript">ten</hi> May 745 N<hi style="superscript">o</hi> 2239 hat der <rs type="person" ref="#wkfm__33707">Schweinzer</rs> den mit
+               <lb facs="#facs_178_r1l5" n="N004"/>der <rs type="person" ref="#wkfm__47538">Maria Eleonora Wagnerin</rs> untern 13<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> d.a. errichteten Heuraths
                <lb facs="#facs_178_r1l6" n="N005"/>Contract N<hi style="superscript">o</hi> 2238 in Copia vidimata eingeleget, kraft welchen 500 fl
                <lb facs="#facs_178_r1l7" n="N006"/>Heurathgutt nebst 1000 fl Widerlag <hi>auf Uberl</hi> wie auch alle Haus Ein-
                <lb facs="#facs_178_r1l8" n="N007"/>richtung Geschmuk <hi>und</hi> Silber Leingewand und Klaider auf Überleben, dann 

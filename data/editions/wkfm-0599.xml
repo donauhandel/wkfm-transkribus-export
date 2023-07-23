@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -71,11 +71,11 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_99" n="99" xml:id="img_0099"/>
+            <pb facs="#facs_99" n="99" xml:id="img_0099" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0599.jpg"/>
             
             <ab facs="#facs_99_r1">
                <lb facs="#facs_99_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_99_r1l2" n="N003"/><rs type="person" ref="wkfm__46282">Tury Franz Joseph</rs> burgerlicher Leinwathandler
+               <lb facs="#facs_99_r1l2" n="N003"/><rs type="person" ref="#wkfm__46282">Tury Franz Joseph</rs> burgerlicher Leinwathandler
                <lb facs="#facs_99_r1l3" n="N004"/>Firma ad Raggion
                <lb facs="#facs_99_r1l4" n="N005"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_99_r1l5" n="N006"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>

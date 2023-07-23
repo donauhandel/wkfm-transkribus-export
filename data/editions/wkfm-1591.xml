@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -76,17 +76,17 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_133" n="133" xml:id="img_0133"/>
+            <pb facs="#facs_133" n="133" xml:id="img_0133" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1591.jpg"/>
             
             <ab facs="#facs_133_r3">
                <lb facs="#facs_133_line_1626262430031_1869" n="N001"/>133
                <lb facs="#facs_133_r3l2" n="N002"/>788
                <lb facs="#facs_133_r3l1" n="N003"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_133_r3l4" n="N004"/><rs type="person" ref="wkfm__15956">Satzger Johann Anton</rs> burgerlicher Handlsmann
+               <lb facs="#facs_133_r3l4" n="N004"/><rs type="person" ref="#wkfm__15956">Satzger Johann Anton</rs> burgerlicher Handlsmann
                <lb facs="#facs_133_r3l5" n="N005"/>Firma ad Raggion
-               <lb facs="#facs_133_r3l6" n="N006"/><rs type="person" ref="wkfm__47493">Johannes Anth: Satzger</rs> laut Erklährung dd<hi style="superscript">to</hi> 11<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 733
+               <lb facs="#facs_133_r3l6" n="N006"/><rs type="person" ref="#wkfm__47493">Johannes Anth: Satzger</rs> laut Erklährung dd<hi style="superscript">to</hi> 11<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 733
                <lb facs="#facs_133_r3l7" n="N007"/>N<hi style="superscript">o</hi> 722
-               <lb facs="#facs_133_r3l8" n="N008"/>Vermög Anbringen de ps: 8<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 764 hat sich des <rs type="person" ref="wkfm__47494">Johann Anton Sazger <choice><expan/><abbr>seel:</abbr></choice> Wittib</rs>
+               <lb facs="#facs_133_r3l8" n="N008"/>Vermög Anbringen de ps: 8<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 764 hat sich des <rs type="person" ref="#wkfm__47494">Johann Anton Sazger <choice><expan/><abbr>seel:</abbr></choice> Wittib</rs>
                <lb facs="#facs_133_r3l9" n="N009"/>erkläret, daß sie diese Handlung bis St. Michäeli forführen wolle, und ihre firma eingeleget <choice><expan/><abbr>nro:</abbr></choice> 722 1/2
                <lb facs="#facs_133_r3l10" n="N010"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_133_r3l11" n="N011"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>

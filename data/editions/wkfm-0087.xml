@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -78,19 +78,19 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_34" n="34" xml:id="img_0034"/>
+            <pb facs="#facs_34" n="34" xml:id="img_0034" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0087.jpg"/>
             
             <ab facs="#facs_34_r1">
                <lb facs="#facs_34_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
-               <lb facs="#facs_34_r1l2" n="N002"/>Der <rs type="person" ref="wkfm__13226">Johann Wilhelm</rs> und <rs type="person" ref="wkfm__47283">Johann Noe Buirette</rs> haben sich in obigen
+               <lb facs="#facs_34_r1l2" n="N002"/>Der <rs type="person" ref="#wkfm__13226">Johann Wilhelm</rs> und <rs type="person" ref="#wkfm__47283">Johann Noe Buirette</rs> haben sich in obigen
                <lb facs="#facs_34_line_1628437556344_216" n="N003"/>Anbringen <hi>und</hi> de ps: 8<hi style="superscript">ten</hi> May 725 N<hi style="superscript">o</hi> 888 und mit in der selben eingelegten Pro
-               <lb facs="#facs_34_line_1628437590621_224" n="N004"/>cura auf <rs type="person" ref="wkfm__12424">Bernhard Deglmann</rs> N<hi style="superscript">o</hi> 887 sich <hi>ihre</hi> erklähret, daß sie beede ihre
-               <lb facs="#facs_34_r1l6" n="N005"/>Handlung unter der Societats Firma <rs type="person" ref="wkfm__10272">Buirette Gebrüder</rs> führen.
-               <lb facs="#facs_34_r1l7" n="N006"/><rs type="person" ref="wkfm__43836">Johann Wilhelm Buirette <choice><expan/><abbr>seel:</abbr></choice> Sohn und <choice><expan/><abbr>Comp:</abbr></choice></rs> haben mitls Anbringen
+               <lb facs="#facs_34_line_1628437590621_224" n="N004"/>cura auf <rs type="person" ref="#wkfm__12424">Bernhard Deglmann</rs> N<hi style="superscript">o</hi> 887 sich <hi>ihre</hi> erklähret, daß sie beede ihre
+               <lb facs="#facs_34_r1l6" n="N005"/>Handlung unter der Societats Firma <rs type="person" ref="#wkfm__10272">Buirette Gebrüder</rs> führen.
+               <lb facs="#facs_34_r1l7" n="N006"/><rs type="person" ref="#wkfm__43836">Johann Wilhelm Buirette <choice><expan/><abbr>seel:</abbr></choice> Sohn und <choice><expan/><abbr>Comp:</abbr></choice></rs> haben mitls Anbringen
                <lb facs="#facs_34_r1l8" n="N007"/>de ps: 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 736 N<hi style="superscript">o</hi> 913 und Oblatorium dd<hi style="superscript">to</hi> <choice><expan/><abbr>Apr:</abbr></choice> 736 N<hi style="superscript">o</hi> 1093 ange
-               <lb facs="#facs_34_r1l9" n="N008"/>zeiget und kund=gemacht, daß das unter der Raggion <rs type="person" ref="wkfm__27516">Johann Buirette
-               <lb break="no" facs="#facs_34_r1l10" n="N009"/><choice><expan/><abbr>seel:</abbr></choice> Erben</rs> geloffene Negotium ihr Endschafft erreichet habe und der <rs type="person" ref="wkfm__43839">Johann
-               <lb break="no" facs="#facs_34_line_1621101151895_783" n="N010"/>Noe Buirette</rs> mit eigner Substanz und seiner Schwester <rs type="person" ref="wkfm__43840">Charlotte <unclear alternative="Eleonore?">Eleo</unclear>
+               <lb facs="#facs_34_r1l9" n="N008"/>zeiget und kund=gemacht, daß das unter der Raggion <rs type="person" ref="#wkfm__27516">Johann Buirette
+               <lb break="no" facs="#facs_34_r1l10" n="N009"/><choice><expan/><abbr>seel:</abbr></choice> Erben</rs> geloffene Negotium ihr Endschafft erreichet habe und der <rs type="person" ref="#wkfm__43839">Johann
+               <lb break="no" facs="#facs_34_line_1621101151895_783" n="N010"/>Noe Buirette</rs> mit eigner Substanz und seiner Schwester <rs type="person" ref="#wkfm__43840">Charlotte <unclear alternative="Eleonore?">Eleo</unclear>
                <lb break="no" facs="#facs_34_line_1621101195646_795" n="N011"/>Von Baumann</rs> assistenz interesse und obligo unter obiger Raggion zu
                <lb facs="#facs_34_r1l14" n="N012"/>continuirn gesinnet seye.
                <lb facs="#facs_34_r1l15" n="N013"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>

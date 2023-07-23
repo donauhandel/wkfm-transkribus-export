@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -83,12 +83,12 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_220" n="220" xml:id="img_0220"/>
+            <pb facs="#facs_220" n="220" xml:id="img_0220" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1678.jpg"/>
             
             <ab facs="#facs_220_r1">
                <lb facs="#facs_220_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_220_r1l2" n="N002"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
-               <lb facs="#facs_220_r1l3" n="N003"/>Der <rs type="person" ref="wkfm__47582">Staudinger</rs> hat der mit der Maria Anna Braunin untern
+               <lb facs="#facs_220_r1l3" n="N003"/>Der <rs type="person" ref="#wkfm__47582">Staudinger</rs> hat der mit der Maria Anna Braunin untern
                <lb facs="#facs_220_r1l4" n="N004"/>14<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 752 errichteten Heurathscontract N<hi style="superscript">o</hi> 2246 in <choice><expan/><abbr>orig:</abbr></choice> <unclear>eingeleget</unclear>
                <lb facs="#facs_220_r1l7" n="N005"/>kraft welchen 500 fl nebst den handlungs Gerechtigkeit alß heuraths gut
                <lb facs="#facs_220_r1l8" n="N006"/>wie auch 1000 Widerlag auf überleben <hi>pact</hi> <hi>je</hi> anbey <hi><unclear>jenes</unclear></hi> jenes was
@@ -98,7 +98,7 @@
                <lb facs="#facs_220_r1l14" n="N010"/>gegen an jedwederes Kind ersterer Ehe bezahlenden 100 fl die
                <lb facs="#facs_220_r1l15" n="N011"/><hi>samtne</hi> samentliche Haus Einrichtung und Klaidung zufallen
                <lb facs="#facs_220_r1l17" n="N012"/>solle
-               <lb facs="#facs_220_r1l19" n="N013"/><choice><expan/><abbr>Ao</abbr></choice> 764 hat der <rs type="person" ref="wkfm__47582">Joseph Staudinger</rs> seinen mit der <rs type="person" ref="wkfm__47585">Maria Catharina
+               <lb facs="#facs_220_r1l19" n="N013"/><choice><expan/><abbr>Ao</abbr></choice> 764 hat der <rs type="person" ref="#wkfm__47582">Joseph Staudinger</rs> seinen mit der <rs type="person" ref="#wkfm__47585">Maria Catharina
                <lb break="no" facs="#facs_220_r1l20" n="N014"/>de <unclear>Heilmanin</unclear></rs> untern 20<hi style="superscript">ten</hi> Septembris 762 errichteten Heuraths-Contract
                <lb facs="#facs_220_r1l21" n="N015"/><seg type="editorial_comment_seg">Anmerckungen<note type="editorial_comment_note">Der folgende Text setzt die Rubrik Heuraths Contract fort</note></seg>
                <lb facs="#facs_220_r1l23" n="N016"/>eingeleget, worinnen Heurathguth 500 fl Widerlag 1000 fl und das

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -85,24 +85,24 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_135" n="135" xml:id="img_0135"/>
+            <pb facs="#facs_135" n="135" xml:id="img_0135" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1055.jpg"/>
             
             <ab facs="#facs_135_r1">
                <lb facs="#facs_135_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_135_r1l2" n="N003"/><rs type="person" ref="wkfm__46566">Heigl Johann Sebastian</rs> burgerlicher Handlsmann
+               <lb facs="#facs_135_r1l2" n="N003"/><rs type="person" ref="#wkfm__46566">Heigl Johann Sebastian</rs> burgerlicher Handlsmann
                <lb facs="#facs_135_r1l3" n="N004"/>Firma ad Raggion
                <lb facs="#facs_135_r1l4" n="N005"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_135_r1l5" n="N006"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_135_r1l6" n="N007"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_135_r1l7" n="N008"/>Der <rs type="person" ref="wkfm__46566">Heigl</rs> hat seinen fundum mitls der Specification N<hi style="superscript">o</hi> 1530 folgender maßen ausge-
+               <lb facs="#facs_135_r1l7" n="N008"/>Der <rs type="person" ref="#wkfm__46566">Heigl</rs> hat seinen fundum mitls der Specification N<hi style="superscript">o</hi> 1530 folgender maßen ausge-
                <lb facs="#facs_135_r1l8" n="N009"/>wisen, daß er eigenthumlich besize
-               <lb facs="#facs_135_r1l10" n="N010"/>an zweyen von <rs type="person" ref="wkfm__46168">Johann Kollman</rs> untern 25<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 750 an ihn <rs type="person" ref="wkfm__46566">Heigl</rs> ausgestelten
+               <lb facs="#facs_135_r1l10" n="N010"/>an zweyen von <rs type="person" ref="#wkfm__46168">Johann Kollman</rs> untern 25<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 750 an ihn <rs type="person" ref="#wkfm__46566">Heigl</rs> ausgestelten
                <lb facs="#facs_135_r1l12" n="N011"/>und N<hi style="superscript">o</hi> 1531 in Copia vidimata eingelegten Wechslbriefen <choice><expan/><abbr>pr</abbr></choice> 2000 fl und 1000 fl
                <lb facs="#facs_135_r1l13" n="N012"/>zusamen 3000 fl
-               <lb facs="#facs_135_r1l19" n="N013"/>an einen det: von <rs type="person" ref="wkfm__46567">Ignaz Händl Gartner</rs> dd<hi style="superscript">to</hi> eadem in Cop: vidimata N<hi style="superscript">o</hi> 1532 <choice><expan/><abbr>pr</abbr></choice> 1200 fl
+               <lb facs="#facs_135_r1l19" n="N013"/>an einen det: von <rs type="person" ref="#wkfm__46567">Ignaz Händl Gartner</rs> dd<hi style="superscript">to</hi> eadem in Cop: vidimata N<hi style="superscript">o</hi> 1532 <choice><expan/><abbr>pr</abbr></choice> 1200 fl
                <lb facs="#facs_135_r1l22" n="N014"/>an baaren <choice><expan/><abbr>pr</abbr></choice> Cassa 1000 fl
                <lb facs="#facs_135_r1l23" n="N015"/>zusamen Eigenthumlich 5200 fl
-               <lb facs="#facs_135_r1l25" n="N016"/>zu Completirung des uberreste hat der <rs type="person" ref="wkfm__46568">Joseph Heigl</rs> das in Copia
+               <lb facs="#facs_135_r1l25" n="N016"/>zu Completirung des uberreste hat der <rs type="person" ref="#wkfm__46568">Joseph Heigl</rs> das in Copia
                <lb facs="#facs_135_r1l26" n="N017"/>vidimata N<hi style="superscript">o</hi> 1533 eingelegte Cautions Instrument <hi>dd<hi style="superscript"/></hi>to<hi style="superscript">ten</hi>
                <lb facs="#facs_135_r1l28" n="N018"/><choice><expan/><abbr>Mart:</abbr></choice> 750 ausgestellet <choice><expan/><abbr>pr</abbr></choice> 2800 fl
                <lb facs="#facs_135_r1l29" n="N019"/><choice><expan/><abbr>Sa</abbr></choice> 8000 fl

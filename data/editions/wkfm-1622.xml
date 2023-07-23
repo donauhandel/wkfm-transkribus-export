@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -104,14 +104,14 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_164" n="164" xml:id="img_0164"/>
+            <pb facs="#facs_164" n="164" xml:id="img_0164" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1622.jpg"/>
             
             <ab facs="#facs_164_r1">
                <lb facs="#facs_164_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
-               <lb facs="#facs_164_r1l2" n="N002"/>Mitls Anbringen de ps: 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 735 N<hi style="superscript">o</hi> 1705 haben die <rs type="person" ref="wkfm__47513">Gebrüder Smitmer</rs>
-               <lb facs="#facs_164_r1l3" n="N003"/><rs type="person" ref="wkfm__47512">Franz Michäl</rs> und <rs type="person" ref="wkfm__47514">Jacob Michäl</rs> den zwischen ihnehn beeden dann ihrem Vattern
-               <lb facs="#facs_164_r1l4" n="N004"/><rs type="person" ref="wkfm__47517">Paul Smitmer</rs> untern 1<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 734 geschlossenen societaets contract N<hi style="superscript">o</hi> 1706 in 
-               <lb facs="#facs_164_r1l5" n="N005"/>Copia vidimata eingeleget, kraft welchen der Vatter <rs type="person" ref="wkfm__47517">Paul</rs> mit gedacht seinen <unclear>zweyn</unclear>
+               <lb facs="#facs_164_r1l2" n="N002"/>Mitls Anbringen de ps: 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 735 N<hi style="superscript">o</hi> 1705 haben die <rs type="person" ref="#wkfm__47513">Gebrüder Smitmer</rs>
+               <lb facs="#facs_164_r1l3" n="N003"/><rs type="person" ref="#wkfm__47512">Franz Michäl</rs> und <rs type="person" ref="#wkfm__47514">Jacob Michäl</rs> den zwischen ihnehn beeden dann ihrem Vattern
+               <lb facs="#facs_164_r1l4" n="N004"/><rs type="person" ref="#wkfm__47517">Paul Smitmer</rs> untern 1<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 734 geschlossenen societaets contract N<hi style="superscript">o</hi> 1706 in 
+               <lb facs="#facs_164_r1l5" n="N005"/>Copia vidimata eingeleget, kraft welchen der Vatter <rs type="person" ref="#wkfm__47517">Paul</rs> mit gedacht seinen <unclear>zweyn</unclear>
                <lb facs="#facs_164_r1l6" n="N006"/>Söhnen jedoch für sich nur alß socius particularis oder <unclear>tacitus</unclear> in die societaet ge-
                <lb facs="#facs_164_r1l7" n="N007"/>tretten, pro Fundo negotii 60000 fl in drey gleichen Einlagstheil, und nach solchen <unclear>auch</unclear>
                <lb facs="#facs_164_r1l9" n="N008"/>nach Verflüssung 3 Jahren auch welchen die societaet pactiret worden die abführung deren <choice><expan/><abbr>intee</abbr></choice> und zertheilung des gewünst
@@ -120,28 +120,28 @@
                <lb facs="#facs_164_r1l12" n="N011"/>herausgenohmen, und nach Verflüssung deren 3 Jahren von ein oder andern die Auf-
                <lb facs="#facs_164_r1l13" n="N012"/>kündung 6 Monath vorhero also gewiß beschehen, alß im widrigen die societaet
                <lb facs="#facs_164_r1l14" n="N013"/>eo ipso auf andere drey Jahre verstanden seyn solle, pactiret worden.
-               <lb facs="#facs_164_r1l15" n="N014"/>Mitls Anbringen de ps: <hi>761</hi> 15<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 746 N<hi style="superscript">o</hi> 761 haben <hi>sich</hi> die <rs type="person" ref="wkfm__47513">Gebrüder Smitmer</rs> angezeiget
-               <lb facs="#facs_164_r1l16" n="N015"/>daß ihnen der <rs type="person" ref="wkfm__46950">Arnold Philipp von Wenzelli</rs> sein ganzes negotium samt allen von auswerts
-               <lb facs="#facs_164_r1l17" n="N016"/>habenden Vollmachten und seiner <hi>Firma</hi> Raggion <rs type="person" ref="wkfm__46952">Arnold Philipp von Wenzelli</rs> <hi>gan</hi> Vermög nota-
+               <lb facs="#facs_164_r1l15" n="N014"/>Mitls Anbringen de ps: <hi>761</hi> 15<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 746 N<hi style="superscript">o</hi> 761 haben <hi>sich</hi> die <rs type="person" ref="#wkfm__47513">Gebrüder Smitmer</rs> angezeiget
+               <lb facs="#facs_164_r1l16" n="N015"/>daß ihnen der <rs type="person" ref="#wkfm__46950">Arnold Philipp von Wenzelli</rs> sein ganzes negotium samt allen von auswerts
+               <lb facs="#facs_164_r1l17" n="N016"/>habenden Vollmachten und seiner <hi>Firma</hi> Raggion <rs type="person" ref="#wkfm__46952">Arnold Philipp von Wenzelli</rs> <hi>gan</hi> Vermög nota-
                <lb facs="#facs_164_r1l18" n="N017"/>riats Instrument dd<hi style="superscript">to</hi> 14<hi style="superscript">ten</hi> ej: N<hi style="superscript">o</hi> 762 in <choice><expan/><abbr>orig:</abbr></choice> gänzlich cediret und überlassen habe, und sie solches
-               <lb facs="#facs_164_r1l19" n="N018"/>unter der vorigen Raggion <rs type="person" ref="wkfm__46952">Arnold Philipp von Wenzelli</rs> forsezen werden
+               <lb facs="#facs_164_r1l19" n="N018"/>unter der vorigen Raggion <rs type="person" ref="#wkfm__46952">Arnold Philipp von Wenzelli</rs> forsezen werden
                <lb facs="#facs_164_r1l20" n="N019"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
-               <lb facs="#facs_164_r1l21" n="N020"/>Des <rs type="person" ref="wkfm__47512">Franz Michäl Smitmer</rs> seine Ehewirthin <rs type="person" ref="wkfm__47515">Maria Josepha</rs> hat die <choice><expan/><abbr>orig:</abbr></choice> Erklährung
+               <lb facs="#facs_164_r1l21" n="N020"/>Des <rs type="person" ref="#wkfm__47512">Franz Michäl Smitmer</rs> seine Ehewirthin <rs type="person" ref="#wkfm__47515">Maria Josepha</rs> hat die <choice><expan/><abbr>orig:</abbr></choice> Erklährung
                <lb facs="#facs_164_r1l22" n="N021"/>dd<hi style="superscript">to</hi> 7<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 735 N<hi style="superscript">o</hi> 1708 in <choice><expan/><abbr>orig:</abbr></choice> dahin eingeleget, daß sie an ihres Ehewirthens
                <lb facs="#facs_164_r1l23" n="N022"/>Wechselnegotio und und hierzu von selben eingelegten Fundo <hi>und</hi> samt Nuzung keine Sprüch
                <lb facs="#facs_164_r1l24" n="N023"/>oder Anforderung habe, sondern wegen ihrer dotal und übrigen weiblichen Sprüch von selben
                <lb facs="#facs_164_r1l26" n="N024"/>in andere Wege zulänglich versicheret seye
-               <lb facs="#facs_164_r1l27" n="N025"/>Mitls Anbringen de ps: 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 737 N<hi style="superscript">o</hi> 2226 hat der <rs type="person" ref="wkfm__47514">Jacob Michäl Smitmer</rs> den mit der
-               <lb facs="#facs_164_r1l28" n="N026"/><rs type="person" ref="wkfm__47516">Maria Barbara Preysingerin</rs> untern 29<hi style="superscript">ten</hi> Junii 737 errichteten Heurathscontract N<hi style="superscript">o</hi> 2225 in Copia
+               <lb facs="#facs_164_r1l27" n="N025"/>Mitls Anbringen de ps: 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 737 N<hi style="superscript">o</hi> 2226 hat der <rs type="person" ref="#wkfm__47514">Jacob Michäl Smitmer</rs> den mit der
+               <lb facs="#facs_164_r1l28" n="N026"/><rs type="person" ref="#wkfm__47516">Maria Barbara Preysingerin</rs> untern 29<hi style="superscript">ten</hi> Junii 737 errichteten Heurathscontract N<hi style="superscript">o</hi> 2225 in Copia
                <lb facs="#facs_164_r1l29" n="N027"/>vidimata eingeleget kraft welchen 1000 fl heurathsgutt nebst 2000 fl Widerlag <seg type="editorial_comment_seg"><hi>0</hi><note type="editorial_comment_note">Einschub Zeile 31</note></seg> auf Überleben
                <lb facs="#facs_164_r1l30" n="N028"/>dann weithers pactiret worden, daß die Braut den halben theil ihrer interessen zu Haus-
                <lb facs="#facs_164_r1l31" n="N029"/>wirthschaft beytragen, dahin gegen falß der Bräutigam vor ihrer versterben solte, aus 
                <lb facs="#facs_164_r1l32" n="N030"/>seinem Vermögen besonders 8000 fl überkommen solle
                <lb facs="#facs_164_r1l33" n="N031"/><hi>0</hi> wie auch alle vorhandene Mobilien Wäsche und Klaidung
                <lb facs="#facs_164_r1l34" n="N032"/>Anmerckungen
-               <lb facs="#facs_164_r1l36" n="N033"/>Vermög Anbringen de psto: 25<hi style="superscript">ten</hi> Julij 776 haben die <rs type="person" ref="wkfm__47513">Gebrüder Smittmer</rs> ange-
+               <lb facs="#facs_164_r1l36" n="N033"/>Vermög Anbringen de psto: 25<hi style="superscript">ten</hi> Julij 776 haben die <rs type="person" ref="#wkfm__47513">Gebrüder Smittmer</rs> ange-
                <lb facs="#facs_164_r1l37" n="N034"/>zeiget, daß sie laut beyliegenden Circular <unclear>schreiben</unclear> A: ihren Enkl und Sohn
-               <lb facs="#facs_164_r1l38" n="N035"/><rs type="person" ref="wkfm__47518"><hi style="text-decoration: underline;">Jakob Smitmer</hi></rs> ihre bereits bekante firma und in Hinkunft nebst der
+               <lb facs="#facs_164_r1l38" n="N035"/><rs type="person" ref="#wkfm__47518"><hi style="text-decoration: underline;">Jakob Smitmer</hi></rs> ihre bereits bekante firma und in Hinkunft nebst der
                <lb facs="#facs_164_r1l39" n="N036"/>ihrigen firmiren zu können, anvertrauet haben, und daher solche
                <lb facs="#facs_164_r1l40" n="N037"/>zu protocolliren gebetten und lieget solche den übrigen firmen <unclear><hi>á N<hi style="superscript"/></hi>o</unclear>
                <lb facs="#facs_164_r1l41" n="N038"/><hi><unclear>657 bis 797 795 :</unclear></hi> bey und zwar sub N<hi style="superscript">o</hi> 762 1/2 : in litt S 

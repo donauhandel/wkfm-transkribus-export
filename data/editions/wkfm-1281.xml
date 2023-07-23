@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -72,13 +72,13 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_97" n="97" xml:id="img_0097"/>
+            <pb facs="#facs_97" n="97" xml:id="img_0097" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1281.jpg"/>
             
             <ab facs="#facs_97_r2">
                <lb facs="#facs_97_line_1624961328022_1356" n="N001"/>107
                <lb facs="#facs_97_line_1624961333311_1359" n="N002"/>633
                <lb facs="#facs_97_r2l1" n="N003"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_97_r2l2" n="N004"/><rs type="person" ref="wkfm__46937">Mayr Dominicus</rs> burgerlicher Handlsmann
+               <lb facs="#facs_97_r2l2" n="N004"/><rs type="person" ref="#wkfm__46937">Mayr Dominicus</rs> burgerlicher Handlsmann
                <lb facs="#facs_97_line_1624961348021_1366" n="N005"/>Firma ad Raggion
                <lb facs="#facs_97_r2l3" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_97_r2l4" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>

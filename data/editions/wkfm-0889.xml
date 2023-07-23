@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -81,21 +81,21 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_77" n="77" xml:id="img_0077"/>
+            <pb facs="#facs_77" n="77" xml:id="img_0077" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0889.jpg"/>
             
             <ab facs="#facs_77_r3">
                <lb facs="#facs_77_r3l2" n="N001"/>442
                <lb facs="#facs_77_r3l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_77_r3l3" n="N003"/><rs type="person" ref="wkfm__46356">Gunttlich Johann Joseph</rs> burgerlicher Handlsmann
+               <lb facs="#facs_77_r3l3" n="N003"/><rs type="person" ref="#wkfm__46356">Gunttlich Johann Joseph</rs> burgerlicher Handlsmann
                <lb facs="#facs_77_r3l4" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_77_r3l5" n="N005"/><rs type="person" ref="wkfm__46357">Johann Joseph Günttlich</rs> laut Erklährung sine dat N<hi style="superscript">o</hi> 420
+               <lb facs="#facs_77_r3l5" n="N005"/><rs type="person" ref="#wkfm__46357">Johann Joseph Günttlich</rs> laut Erklährung sine dat N<hi style="superscript">o</hi> 420
                <lb facs="#facs_77_r3l6" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_77_r3l7" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_77_r3l8" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_77_r3l10" n="N009"/>Der <rs type="person" ref="wkfm__46356">Gunttlich</rs> hat zu ausweisung seines Fundi die <choice><expan/><abbr>orig:</abbr></choice> inventur dd<hi style="superscript">to</hi> 8<hi style="superscript">ten</hi>
+               <lb facs="#facs_77_r3l10" n="N009"/>Der <rs type="person" ref="#wkfm__46356">Gunttlich</rs> hat zu ausweisung seines Fundi die <choice><expan/><abbr>orig:</abbr></choice> inventur dd<hi style="superscript">to</hi> 8<hi style="superscript">ten</hi>
                <lb facs="#facs_77_r3l12" n="N010"/><choice><expan/><abbr>Febr:</abbr></choice> 738 N<hi style="superscript">o</hi> 1469 eingeleget <choice><expan/><abbr>pr</abbr></choice> 3939 fl wavon selben die helfte zukommen als 
                <lb facs="#facs_77_r3l13" n="N011"/>Eigenthum <choice><expan/><abbr>pr</abbr></choice> 1969 fl 30 x<hi style="superscript">r</hi>
-               <lb facs="#facs_77_r3l15" n="N012"/>Dann hat dessen Ehewirthin<rs type="person" ref="wkfm__46358"> Anna Maria</rs> das <choice><expan/><abbr>orig:</abbr></choice> <hi>In</hi> certiorirte 
+               <lb facs="#facs_77_r3l15" n="N012"/>Dann hat dessen Ehewirthin<rs type="person" ref="#wkfm__46358"> Anna Maria</rs> das <choice><expan/><abbr>orig:</abbr></choice> <hi>In</hi> certiorirte 
                <lb facs="#facs_77_r3l16" n="N013"/>Instrument dd<hi style="superscript">to</hi> 6<hi style="superscript">ten</hi> ej: N<hi style="superscript">o</hi> 1470 des Inhalts eingelegt, daß sie von
                <lb facs="#facs_77_r3l17" n="N014"/>ihrem in der helfte der Handlung bestehenden Eigenthum zur
                <lb facs="#facs_77_r3l19" n="N015"/>Sicherheit deren Creditoren gewidmet haben wolle 2000 fl

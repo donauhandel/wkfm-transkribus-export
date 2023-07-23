@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -74,14 +74,14 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_25" n="25" xml:id="img_0025"/>
+            <pb facs="#facs_25" n="25" xml:id="img_0025" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1209.jpg"/>
             
             <ab facs="#facs_25_r2">
                <lb facs="#facs_25_r2l1" n="N002"/>598
                <lb facs="#facs_25_line_1624960435259_832" n="N003"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_25_r2l2" n="N004"/><rs type="person" ref="wkfm__10641">Moser Carl Joseph</rs> burgerlicher Handlsmann
+               <lb facs="#facs_25_r2l2" n="N004"/><rs type="person" ref="#wkfm__10641">Moser Carl Joseph</rs> burgerlicher Handlsmann
                <lb facs="#facs_25_r2l3" n="N005"/>Firma ad Raggion
-               <lb facs="#facs_25_r2l5" n="N006"/><rs type="person" ref="wkfm__46866">Carl Joseph Moser</rs> laut Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725
+               <lb facs="#facs_25_r2l5" n="N006"/><rs type="person" ref="#wkfm__46866">Carl Joseph Moser</rs> laut Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725
                <lb facs="#facs_25_r2l6" n="N007"/>N<hi style="superscript">o</hi> 553
                <lb facs="#facs_25_line_1624963005684_2447" n="N008"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_25_line_1624963018604_2452" n="N009"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>

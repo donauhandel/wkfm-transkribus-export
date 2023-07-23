@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -97,39 +97,39 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_39" n="39" xml:id="img_0039"/>
+            <pb facs="#facs_39" n="39" xml:id="img_0039" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0092.jpg"/>
             
             <ab facs="#facs_39_r1">
                <lb facs="#facs_39_r1l2" n="N001"/>44
                <lb facs="#facs_39_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_39_r1l3" n="N003"/><rs type="person" ref="wkfm__11161">Bolza Johann Baptista</rs> K. K. Niderlags Verwanter
+               <lb facs="#facs_39_r1l3" n="N003"/><rs type="person" ref="#wkfm__11161">Bolza Johann Baptista</rs> K. K. Niderlags Verwanter
                <lb facs="#facs_39_r1l4" n="N004"/>Firma oder Raggion
-               <lb facs="#facs_39_r1l5" n="N005"/><rs type="person" ref="wkfm__44788">Johann Baptist und Johann Peter Bolza</rs> laut Anbringen de ps: 25<hi style="superscript">ten</hi> Junii 725 N<hi style="superscript">o</hi> 38
-               <lb facs="#facs_39_r1l6" n="N006"/><rs type="person" ref="wkfm__47285">Johann Baptist Bolza</rs> laut oblatorien dd<hi style="superscript">to</hi> 4<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 736 N<hi style="superscript">o</hi> 1092.
+               <lb facs="#facs_39_r1l5" n="N005"/><rs type="person" ref="#wkfm__44788">Johann Baptist und Johann Peter Bolza</rs> laut Anbringen de ps: 25<hi style="superscript">ten</hi> Junii 725 N<hi style="superscript">o</hi> 38
+               <lb facs="#facs_39_r1l6" n="N006"/><rs type="person" ref="#wkfm__47285">Johann Baptist Bolza</rs> laut oblatorien dd<hi style="superscript">to</hi> 4<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 736 N<hi style="superscript">o</hi> 1092.
                <lb facs="#facs_39_r1l7" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
-               <lb facs="#facs_39_r1l8" n="N008"/>Mitls Anbringen de ps: 19<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 733 N<hi style="superscript">o</hi> 909 hat <rs type="person" ref="wkfm__44788">Johann Baptist und Johann Peter Bolza</rs> <hi>hat</hi> die 
-               <lb facs="#facs_39_r1l9" n="N009"/><choice><expan/><abbr>orig.</abbr></choice> Procura auf ihren Cassier <rs type="person" ref="wkfm__32426">Carl Bolza</rs> Sohn des <rs type="person" ref="wkfm__43841">Andre Carl <choice><expan/><abbr/></choice></rs><choice><expan/><abbr>seel.</abbr></choice> wehrend ihrer Abwesenheit
-               <lb facs="#facs_39_line_1628440841843_354" n="N010"/>laut dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 732 <unclear>N<hi style="superscript">o</hi> 908</unclear> mit beygerukter Firma des <rs type="person" ref="wkfm__32426">Carl Bolza</rs> in obigen Anbringen eingeleget.
+               <lb facs="#facs_39_r1l8" n="N008"/>Mitls Anbringen de ps: 19<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 733 N<hi style="superscript">o</hi> 909 hat <rs type="person" ref="#wkfm__44788">Johann Baptist und Johann Peter Bolza</rs> <hi>hat</hi> die 
+               <lb facs="#facs_39_r1l9" n="N009"/><choice><expan/><abbr>orig.</abbr></choice> Procura auf ihren Cassier <rs type="person" ref="#wkfm__32426">Carl Bolza</rs> Sohn des <rs type="person" ref="#wkfm__43841">Andre Carl <choice><expan/><abbr/></choice></rs><choice><expan/><abbr>seel.</abbr></choice> wehrend ihrer Abwesenheit
+               <lb facs="#facs_39_line_1628440841843_354" n="N010"/>laut dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 732 <unclear>N<hi style="superscript">o</hi> 908</unclear> mit beygerukter Firma des <rs type="person" ref="#wkfm__32426">Carl Bolza</rs> in obigen Anbringen eingeleget.
                <lb facs="#facs_39_r1l12" n="N011"/>Mitls Anbringen de ps: 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 734 N<hi style="superscript">o</hi> 910 ist diese Procura anwiderum aufgehoben worden.
-               <lb facs="#facs_39_r1l13" n="N012"/>Mitls Anbringen de ps: 13<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 736 N<hi style="superscript">o</hi> 912 hat der <rs type="person" ref="wkfm__11161">Johann Baptist Bolza</rs> die <choice><expan/><abbr>orig:</abbr></choice> Procura
-               <lb facs="#facs_39_r1l14" n="N013"/>wehrend seiner Abwesenheit auf seinen Buchhalter <rs type="person" ref="wkfm__41796">Christoph Martin Conradi</rs> dd<hi style="superscript">to</hi> 12<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 736
-               <lb facs="#facs_39_r1l15" n="N014"/>mit beygerukter Firma des <rs type="person" ref="wkfm__41796">Conradi</rs> N<hi style="superscript">o</hi> 911 eingeleget.
+               <lb facs="#facs_39_r1l13" n="N012"/>Mitls Anbringen de ps: 13<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 736 N<hi style="superscript">o</hi> 912 hat der <rs type="person" ref="#wkfm__11161">Johann Baptist Bolza</rs> die <choice><expan/><abbr>orig:</abbr></choice> Procura
+               <lb facs="#facs_39_r1l14" n="N013"/>wehrend seiner Abwesenheit auf seinen Buchhalter <rs type="person" ref="#wkfm__41796">Christoph Martin Conradi</rs> dd<hi style="superscript">to</hi> 12<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 736
+               <lb facs="#facs_39_r1l15" n="N014"/>mit beygerukter Firma des <rs type="person" ref="#wkfm__41796">Conradi</rs> N<hi style="superscript">o</hi> 911 eingeleget.
                <lb facs="#facs_39_r1l16" n="N015"/>Mitls Anbringen de ps: 3<hi style="superscript">ten</hi> Julii 738 N<hi style="superscript">o</hi> 917 ist diese Procura anwiderum aufgehoben worden.
-               <lb facs="#facs_39_r1l17" n="N016"/>Mitls Anbringen vom <rs type="person" ref="wkfm__11161">Johann Baptist </rs>und <rs type="person" ref="wkfm__9824">Johann Peter Bolza</rs> de ps: 9<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 739 N<hi style="superscript">o</hi> 920 ist
-               <lb facs="#facs_39_r1l18" n="N017"/>die von <rs type="person" ref="wkfm__11161">Johann Baptist Bolza </rs>auf <rs type="person" ref="wkfm__41796">Christoph Martin Conradi</rs> sowohl in betref der Raggion <rs type="person" ref="wkfm__11161">Johann
-               <lb break="no" facs="#facs_39_line_1628440679756_322" n="N018"/>Baptist Bolza</rs> als auch der vormahligen <unclear>nunmehro Stralcionirten</unclear> <rs type="person" ref="wkfm__11161">Johann Baptist</rs> und <rs type="person" ref="wkfm__9824">Johann Peter Bolza</rs> ausgestelte
+               <lb facs="#facs_39_r1l17" n="N016"/>Mitls Anbringen vom <rs type="person" ref="#wkfm__11161">Johann Baptist </rs>und <rs type="person" ref="#wkfm__9824">Johann Peter Bolza</rs> de ps: 9<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 739 N<hi style="superscript">o</hi> 920 ist
+               <lb facs="#facs_39_r1l18" n="N017"/>die von <rs type="person" ref="#wkfm__11161">Johann Baptist Bolza </rs>auf <rs type="person" ref="#wkfm__41796">Christoph Martin Conradi</rs> sowohl in betref der Raggion <rs type="person" ref="#wkfm__11161">Johann
+               <lb break="no" facs="#facs_39_line_1628440679756_322" n="N018"/>Baptist Bolza</rs> als auch der vormahligen <unclear>nunmehro Stralcionirten</unclear> <rs type="person" ref="#wkfm__11161">Johann Baptist</rs> und <rs type="person" ref="#wkfm__9824">Johann Peter Bolza</rs> ausgestelte
                <lb facs="#facs_39_r1l20" n="N019"/>Procura dd<hi style="superscript">to</hi> 14<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 739 in Copia vidimata N<hi style="superscript">o</hi> 919 eingeleget worden.
                <lb facs="#facs_39_r1l21" n="N020"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
-               <lb facs="#facs_39_r1l22" n="N021"/>Der <rs type="person" ref="wkfm__11161">Johann Baptist Bolza</rs> hat unterm 4<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 736 die <choice><expan/><abbr>orig:</abbr></choice> avocatorien N<hi style="superscript">o</hi> 1091 dahin erlassen
-               <lb facs="#facs_39_r1l23" n="N022"/>das der <rs type="person" ref="wkfm__9824">Johann Peter Bolza</rs> verstorben und hierdurch die zwischen ihnen fürgeweste Societaet,
-               <lb facs="#facs_39_r1l24" n="N023"/>die Raggion <rs type="person" ref="wkfm__11161">Johann Baptist</rs> und <rs type="person" ref="wkfm__9824, 12010">Johann Peter Bolza</rs> und das ganze Negotium biß auf
+               <lb facs="#facs_39_r1l22" n="N021"/>Der <rs type="person" ref="#wkfm__11161">Johann Baptist Bolza</rs> hat unterm 4<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 736 die <choice><expan/><abbr>orig:</abbr></choice> avocatorien N<hi style="superscript">o</hi> 1091 dahin erlassen
+               <lb facs="#facs_39_r1l23" n="N022"/>das der <rs type="person" ref="#wkfm__9824">Johann Peter Bolza</rs> verstorben und hierdurch die zwischen ihnen fürgeweste Societaet,
+               <lb facs="#facs_39_r1l24" n="N023"/>die Raggion <rs type="person" ref="#wkfm__11161">Johann Baptist</rs> und <rs type="person" ref="#wkfm__9824, 12010">Johann Peter Bolza</rs> und das ganze Negotium biß auf
                <lb facs="#facs_39_r1l25" n="N024"/>den <unclear>Stralcio</unclear> <hi><unclear>geegt</unclear></hi> erloschen seye, auch diese avocatorien mitls Anbringen de ps: 30<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 736 N<hi style="superscript">o</hi>
                <lb facs="#facs_39_r1l26" n="N025"/>1867 eingeleget
-               <lb facs="#facs_39_r1l27" n="N026"/>Der <rs type="person" ref="wkfm__11161">Johann Baptist Bolza </rs>hat untern 4<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 736 die <choice><expan/><abbr>orig:</abbr></choice> oblatorien N<hi style="superscript">o</hi> 1092 dahin er-
-               <lb facs="#facs_39_r1l28" n="N027"/>lassen, daß er nach vollendeter Raggion <rs type="person" ref="wkfm__11161">Johann Baptist</rs> und <rs type="person" ref="wkfm__9824">Johann Peter Bolza</rs>, er
+               <lb facs="#facs_39_r1l27" n="N026"/>Der <rs type="person" ref="#wkfm__11161">Johann Baptist Bolza </rs>hat untern 4<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 736 die <choice><expan/><abbr>orig:</abbr></choice> oblatorien N<hi style="superscript">o</hi> 1092 dahin er-
+               <lb facs="#facs_39_r1l28" n="N027"/>lassen, daß er nach vollendeter Raggion <rs type="person" ref="#wkfm__11161">Johann Baptist</rs> und <rs type="person" ref="#wkfm__9824">Johann Peter Bolza</rs>, er
                <lb facs="#facs_39_r1l29" n="N028"/>das negotium unter seinem alleinigen Nahmen mit eignen Capitalien und interesse auf
                <lb facs="#facs_39_r1l30" n="N029"/>hieigen Plaz prosequiren werde.
-               <lb facs="#facs_39_r1l31" n="N030"/>Der <rs type="person" ref="wkfm__11161">Johann Baptist Bolza</rs> hat mitls denen avocatorien dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 738 N<hi style="superscript">o</hi> 1096 kund gemacht
+               <lb facs="#facs_39_r1l31" n="N030"/>Der <rs type="person" ref="#wkfm__11161">Johann Baptist Bolza</rs> hat mitls denen avocatorien dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 738 N<hi style="superscript">o</hi> 1096 kund gemacht
                <lb facs="#facs_39_r1l32" n="N031"/>das er das unter seinen Nahmen gelofene Negotium zu terminiren entschlossen habe.
                <lb facs="#facs_39_r1l33" n="N032"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
             </ab>

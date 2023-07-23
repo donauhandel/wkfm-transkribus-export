@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -76,19 +76,19 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_5" n="5" xml:id="img_0005"/>
+            <pb facs="#facs_5" n="5" xml:id="img_0005" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1189.jpg"/>
             
             <ab facs="#facs_5_r1">
                <lb facs="#facs_5_r1l2" n="N001"/>588
                <lb facs="#facs_5_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_5_r1l3" n="N003"/><rs type="person" ref="wkfm__46856">Martinelli Franz Jacob</rs> hofbefreyter Handlsmann
+               <lb facs="#facs_5_r1l3" n="N003"/><rs type="person" ref="#wkfm__46856">Martinelli Franz Jacob</rs> hofbefreyter Handlsmann
                <lb facs="#facs_5_r1l4" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_5_r1l5" n="N005"/><rs type="person" ref="wkfm__8416">Gebrüder <hi>Mo</hi> Martinelli oder Fratelli Martinelli</rs> laut Anbringen de ps:
+               <lb facs="#facs_5_r1l5" n="N005"/><rs type="person" ref="#wkfm__8416">Gebrüder <hi>Mo</hi> Martinelli oder Fratelli Martinelli</rs> laut Anbringen de ps:
                <lb facs="#facs_5_r1l6" n="N006"/>19<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 1019
                <lb facs="#facs_5_r1l7" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
-               <lb facs="#facs_5_r1l8" n="N008"/>Die Raggion <rs type="person" ref="wkfm__8416">Gebrüder Martinelli</rs> hat in obigen Anbringen de ps: 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725
-               <lb facs="#facs_5_r1l10" n="N009"/>N<hi style="superscript">o</hi> 1019 die Anzeige gemacht, daß ihr Complimentarius <hi>die Firma</hi> <rs type="person" ref="wkfm__10730">Anton </rs>
-               <lb facs="#facs_5_r1l12" n="N010"/><rs type="person" ref="wkfm__10730">Mader</rs> ihre Firma wie solche beygeruket führe.
+               <lb facs="#facs_5_r1l8" n="N008"/>Die Raggion <rs type="person" ref="#wkfm__8416">Gebrüder Martinelli</rs> hat in obigen Anbringen de ps: 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725
+               <lb facs="#facs_5_r1l10" n="N009"/>N<hi style="superscript">o</hi> 1019 die Anzeige gemacht, daß ihr Complimentarius <hi>die Firma</hi> <rs type="person" ref="#wkfm__10730">Anton </rs>
+               <lb facs="#facs_5_r1l12" n="N010"/><rs type="person" ref="#wkfm__10730">Mader</rs> ihre Firma wie solche beygeruket führe.
                <lb facs="#facs_5_r1l13" n="N011"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_5_r1l14" n="N012"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
             </ab>

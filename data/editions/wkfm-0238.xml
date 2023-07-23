@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -79,13 +79,13 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_184" n="184" xml:id="img_0184"/>
+            <pb facs="#facs_184" n="184" xml:id="img_0184" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0238.jpg"/>
             
             <ab facs="#facs_184_r1">
                <lb facs="#facs_184_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_184_r1l2" n="N002"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
-               <lb facs="#facs_184_r1l3" n="N003"/>Mitls Anbringen de ps: <unclear>27</unclear> <choice><expan/><abbr>Janu:</abbr></choice> 738 N<hi style="superscript">o</hi> 2092 hat der <rs type="person" ref="wkfm__29663">Bertolla</rs> den mit
-               <lb facs="#facs_184_r1l4" n="N004"/>der <rs type="person" ref="wkfm__43927">Maria Anna Höglmüllerin</rs> untern 1<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 737 errichteten heuraths
+               <lb facs="#facs_184_r1l3" n="N003"/>Mitls Anbringen de ps: <unclear>27</unclear> <choice><expan/><abbr>Janu:</abbr></choice> 738 N<hi style="superscript">o</hi> 2092 hat der <rs type="person" ref="#wkfm__29663">Bertolla</rs> den mit
+               <lb facs="#facs_184_r1l4" n="N004"/>der <rs type="person" ref="#wkfm__43927">Maria Anna Höglmüllerin</rs> untern 1<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 737 errichteten heuraths
                <lb facs="#facs_184_r1l5" n="N005"/>Contract N<hi style="superscript">o</hi> 2091 in Copia eingleget, krafft welchen 500 fl heurath Gutt nebst
                <lb facs="#facs_184_r1l6" n="N006"/>1000 fl Widerlag auf Überleben pactiret anbey vorgesehen worden, daß die
                <lb facs="#facs_184_r1l7" n="N007"/>Braut ihren Bräutigam ihr übriges Vermögen <hi><unclear>gegen Q</unclear></hi> samt der Nuzung des-

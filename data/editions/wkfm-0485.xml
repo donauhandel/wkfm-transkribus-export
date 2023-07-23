@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -83,23 +83,23 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_165" n="165" xml:id="img_0165"/>
+            <pb facs="#facs_165" n="165" xml:id="img_0165" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0485.jpg"/>
             
             <ab facs="#facs_165_r1">
                <lb facs="#facs_165_r1l2" n="N001"/>240
                <lb facs="#facs_165_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_165_r1l3" n="N003"/><rs type="person" ref="wkfm__43887">Kleinrath Franz</rs> burgerlicher Handlsmann
+               <lb facs="#facs_165_r1l3" n="N003"/><rs type="person" ref="#wkfm__43887">Kleinrath Franz</rs> burgerlicher Handlsmann
                <lb facs="#facs_165_r1l4" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_165_r1l5" n="N005"/><rs type="person" ref="wkfm__43885">Johann Franz Prager <choice><expan/><abbr>seel:</abbr></choice> Wittib u: Kleinrath</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 155
-               <lb facs="#facs_165_r1l6" n="N006"/>zufolge der von der <rs type="person" ref="wkfm__43886">Prager: Wittib</rs> untern 13<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 754 eingelegten schriftlichen Einwilligung
+               <lb facs="#facs_165_r1l5" n="N005"/><rs type="person" ref="#wkfm__43885">Johann Franz Prager <choice><expan/><abbr>seel:</abbr></choice> Wittib u: Kleinrath</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 155
+               <lb facs="#facs_165_r1l6" n="N006"/>zufolge der von der <rs type="person" ref="#wkfm__43886">Prager: Wittib</rs> untern 13<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 754 eingelegten schriftlichen Einwilligung
                <lb facs="#facs_165_r1l7" n="N007"/>N<hi style="superscript">o</hi> 156
-               <lb facs="#facs_165_r1l8" n="N008"/><rs type="person" ref="wkfm__47265">Franz Kleinrath</rs> laut Anbringen de <unclear><choice><expan/><abbr>pr:</abbr></choice> conet</unclear> 7<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 756 N<hi style="superscript">o</hi> 1916
+               <lb facs="#facs_165_r1l8" n="N008"/><rs type="person" ref="#wkfm__47265">Franz Kleinrath</rs> laut Anbringen de <unclear><choice><expan/><abbr>pr:</abbr></choice> conet</unclear> 7<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 756 N<hi style="superscript">o</hi> 1916
                <lb facs="#facs_165_r1l9" n="N009"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_165_r1l10" n="N010"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_165_r1l11" n="N011"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_165_r1l12" n="N012"/>Mitls Anbringen de ps: 9<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 753 N<hi style="superscript">o</hi> 1350 hat der <rs type="person" ref="wkfm__43887">Kleinrath</rs> zu Ausweisung
-               <lb facs="#facs_165_r1l13" n="N013"/>seines <hi>Handlungs</hi> Fundi das von der <rs type="person" ref="wkfm__43886">Maria Theresia Pragerin</rs> ausgesteltes <choice><expan/><abbr>orig:</abbr></choice>
-               <lb facs="#facs_165_r1l14" n="N014"/>attestatum <hi>ddto </hi> das er <rs type="person" ref="wkfm__43887">Kleinrath</rs> in ihr der <rs type="person" ref="wkfm__43886">Pragerin</rs> Handlung alß eigen-
+               <lb facs="#facs_165_r1l12" n="N012"/>Mitls Anbringen de ps: 9<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 753 N<hi style="superscript">o</hi> 1350 hat der <rs type="person" ref="#wkfm__43887">Kleinrath</rs> zu Ausweisung
+               <lb facs="#facs_165_r1l13" n="N013"/>seines <hi>Handlungs</hi> Fundi das von der <rs type="person" ref="#wkfm__43886">Maria Theresia Pragerin</rs> ausgesteltes <choice><expan/><abbr>orig:</abbr></choice>
+               <lb facs="#facs_165_r1l14" n="N014"/>attestatum <hi>ddto </hi> das er <rs type="person" ref="#wkfm__43887">Kleinrath</rs> in ihr der <rs type="person" ref="#wkfm__43886">Pragerin</rs> Handlung alß eigen-
                <lb facs="#facs_165_line_1621963143823_3367" n="N015"/>thumlich stehen habe dd<hi style="superscript">to</hi> 8<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 753 N<hi style="superscript">o</hi> 1348 <unclear>eigen</unclear> 4290 fl. 30 x<hi style="superscript">r</hi>
                <lb facs="#facs_165_r1l17" n="N016"/>dd<hi style="superscript">to</hi> 8<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 753 N<hi style="superscript">o</hi> 1348 eingeleget
                <lb facs="#facs_165_r1l18" n="N017"/>Hierbey befindet sich annoch ein Anbringen wegen Annehmung des Supl: <hi>zu</hi> als

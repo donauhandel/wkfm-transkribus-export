@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -85,26 +85,26 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_227" n="227" xml:id="img_0227"/>
+            <pb facs="#facs_227" n="227" xml:id="img_0227" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1685.jpg"/>
             
             <ab facs="#facs_227_r2">
                <lb facs="#facs_227_line_1626338061307_2144" n="N001"/>835
                <lb facs="#facs_227_r2l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_227_r2l2" n="N003"/><rs type="person" ref="wkfm__47598">Simmerl Andre</rs> burgerlicher Handslmann
+               <lb facs="#facs_227_r2l2" n="N003"/><rs type="person" ref="#wkfm__47598">Simmerl Andre</rs> burgerlicher Handslmann
                <lb facs="#facs_227_r2l3" n="N004"/>Firma ad Raggion
                <lb facs="#facs_227_r2l4" n="N005"/><hi>Andre Simmerl lau</hi> <choice><expan/><abbr>Ao</abbr></choice> 764 seine firma eingelegt <choice><expan/><abbr>nro:</abbr></choice> 791
                <lb facs="#facs_227_r2l5" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_227_r2l6" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_227_r2l7" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_227_r2l8" n="N009"/>Der <rs type="person" ref="wkfm__47598">Simmerl</rs> hat seinen Fundum <hi>folg</hi> mitls der Specification N<hi style="superscript">o</hi> 1763 folg-
+               <lb facs="#facs_227_r2l8" n="N009"/>Der <rs type="person" ref="#wkfm__47598">Simmerl</rs> hat seinen Fundum <hi>folg</hi> mitls der Specification N<hi style="superscript">o</hi> 1763 folg-
                <lb facs="#facs_227_r2l9" n="N010"/>gender maßen ausgewisen, nemlich das er eigenthumlich besize Vermög
-               <lb facs="#facs_227_r2l10" n="N011"/>attestati von <rs type="person" ref="wkfm__44011">Carlo Barbieri <choice><expan/><abbr>seel:</abbr></choice> Söhnen</rs> dd<hi style="superscript">to</hi> 29<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 754 N<hi style="superscript">o</hi> 1764 in <choice><expan/><abbr>orig:</abbr></choice>
+               <lb facs="#facs_227_r2l10" n="N011"/>attestati von <rs type="person" ref="#wkfm__44011">Carlo Barbieri <choice><expan/><abbr>seel:</abbr></choice> Söhnen</rs> dd<hi style="superscript">to</hi> 29<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 754 N<hi style="superscript">o</hi> 1764 in <choice><expan/><abbr>orig:</abbr></choice>
                <lb facs="#facs_227_r2l11" n="N012"/>anerspahrten salario 1488 fl
-               <lb facs="#facs_227_r2l13" n="N013"/>Dann von der <rs type="person" ref="wkfm__47579">Maria Magdalena Mayrhofferin</rs> Vermög Instru-
+               <lb facs="#facs_227_r2l13" n="N013"/>Dann von der <rs type="person" ref="#wkfm__47579">Maria Magdalena Mayrhofferin</rs> Vermög Instru-
                <lb facs="#facs_227_r2l14" n="N014"/>menti ddto 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 754 N<hi style="superscript">o</hi> 1765 in <choice><expan/><abbr>orig.</abbr></choice> alß ein Geschanknuß über
                <lb facs="#facs_227_r2l15" n="N015"/>kommen habe 630 fl
                <lb facs="#facs_227_r2l17" n="N016"/>zusammen Eigenthum 2118 fl
-               <lb facs="#facs_227_r2l18" n="N017"/>zu Completirung des Übrigen haben das <rs type="person" ref="wkfm__44011">Carlo Barbieri <choice><expan/><abbr>seel:</abbr></choice>
+               <lb facs="#facs_227_r2l18" n="N017"/>zu Completirung des Übrigen haben das <rs type="person" ref="#wkfm__44011">Carlo Barbieri <choice><expan/><abbr>seel:</abbr></choice>
                <lb break="no" facs="#facs_227_r2l19" n="N018"/>Söhne</rs> das <choice><expan/><abbr>orig:</abbr></choice> Cautions Instrument dd<hi style="superscript">to</hi> 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 754 N<hi style="superscript">o</hi> 1766
                <lb facs="#facs_227_r2l20" n="N019"/>eingeleget <choice><expan/><abbr>pr</abbr></choice> 1882 fl
                <lb facs="#facs_227_r2l22" n="N020"/><choice><expan/><abbr>Sa</abbr></choice> 4000 fl

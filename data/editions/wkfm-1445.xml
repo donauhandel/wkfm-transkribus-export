@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -81,24 +81,24 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_93" n="93" xml:id="img_0093"/>
+            <pb facs="#facs_93" n="93" xml:id="img_0093" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1445.jpg"/>
             
             <ab facs="#facs_93_r1">
                <lb facs="#facs_93_r1l2" n="N001"/>715
                <lb facs="#facs_93_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_93_r1l3" n="N003"/><rs type="person" ref="wkfm__46765">Raindinger Matthias Anton</rs> burgerlicher Handlsmann
+               <lb facs="#facs_93_r1l3" n="N003"/><rs type="person" ref="#wkfm__46765">Raindinger Matthias Anton</rs> burgerlicher Handlsmann
                <lb facs="#facs_93_r1l4" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_93_r1l5" n="N005"/><rs type="person" ref="wkfm__46764">Mathias Antoni Raindinger</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 653 welche
+               <lb facs="#facs_93_r1l5" n="N005"/><rs type="person" ref="#wkfm__46764">Mathias Antoni Raindinger</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 653 welche
                <lb facs="#facs_93_r1l6" n="N006"/>derselbe mitls Anbringen de ps: 18<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 753 N<hi style="superscript">o</hi> 654 eingeleget
                <lb facs="#facs_93_r1l7" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_93_r1l8" n="N008"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_93_r1l9" n="N009"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_93_r1l10" n="N010"/>Der <rs type="person" ref="wkfm__46765">Raindinger</rs> hat seinen Fundum mitls der Specification N<hi style="superscript">o</hi> 1679 dahin
-               <lb facs="#facs_93_r1l11" n="N011"/>ausgewisen, daß er vermög <choice><expan/><abbr>orig:</abbr></choice> Instrument von <rs type="person" ref="wkfm__46766">Johann Georg Schinerer</rs>
+               <lb facs="#facs_93_r1l10" n="N010"/>Der <rs type="person" ref="#wkfm__46765">Raindinger</rs> hat seinen Fundum mitls der Specification N<hi style="superscript">o</hi> 1679 dahin
+               <lb facs="#facs_93_r1l11" n="N011"/>ausgewisen, daß er vermög <choice><expan/><abbr>orig:</abbr></choice> Instrument von <rs type="person" ref="#wkfm__46766">Johann Georg Schinerer</rs>
                <lb facs="#facs_93_r1l12" n="N012"/>dd<hi style="superscript">to</hi> ult: <choice><expan/><abbr>Xbr:</abbr></choice> 749 <hi>bey</hi> N<hi style="superscript">o</hi> 1680 bey selben an baar eingelegten und theils
                <lb facs="#facs_93_r1l13" n="N013"/>hievon abgefallenen und theils <unclear>in protem</unclear> salario <unclear>accordirten</unclear> Nuzen stehen
                <lb facs="#facs_93_r1l14" n="N014"/>habe 6089 fl 43 x<hi style="superscript">r</hi>
-               <lb facs="#facs_93_r1l16" n="N015"/>Zu Completirung des übrigen hat der <rs type="person" ref="wkfm__46767">Matthias Pränkhl</rs> das <choice><expan/><abbr>orig:</abbr></choice>
+               <lb facs="#facs_93_r1l16" n="N015"/>Zu Completirung des übrigen hat der <rs type="person" ref="#wkfm__46767">Matthias Pränkhl</rs> das <choice><expan/><abbr>orig:</abbr></choice>
                <lb facs="#facs_93_r1l17" n="N016"/>Cautions Instrument dd<hi style="superscript">to</hi> 3<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 750 N<hi style="superscript">o</hi> 1681 eingeleget <choice><expan/><abbr>pr</abbr></choice> 1910 fl 17 x<hi style="superscript">r</hi>
                <lb facs="#facs_93_r1l18" n="N017"/><choice><expan/><abbr>Sa</abbr></choice> 8000 fl 0 x<hi style="superscript">r</hi>
             </ab>

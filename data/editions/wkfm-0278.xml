@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -85,19 +85,19 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_224" n="224" xml:id="img_0224"/>
+            <pb facs="#facs_224" n="224" xml:id="img_0224" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0278.jpg"/>
             
             <ab facs="#facs_224_r1">
                <lb facs="#facs_224_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
-               <lb facs="#facs_224_r1l2" n="N002"/>Der <rs type="person" ref="wkfm__43960">Perkhman</rs> hat mit seinem Bedienten <rs type="person" ref="wkfm__43961">Johann Carl Pertzinger</rs> untern 16<hi style="superscript">ten</hi>
+               <lb facs="#facs_224_r1l2" n="N002"/>Der <rs type="person" ref="#wkfm__43960">Perkhman</rs> hat mit seinem Bedienten <rs type="person" ref="#wkfm__43961">Johann Carl Pertzinger</rs> untern 16<hi style="superscript">ten</hi>
                <lb facs="#facs_224_r1l3" n="N003"/><choice><expan/><abbr>8br:</abbr></choice> 741 den N<hi style="superscript">o</hi> 1873 in <choice><expan/><abbr>orig:</abbr></choice> eingelegten societaets Contract abgeschlossen, kraft 
-               <lb facs="#facs_224_r1l4" n="N004"/>welchen der <rs type="person" ref="wkfm__43960">Perkhman</rs> die noch übrigen Waaren ohne interesse in der Handlung liegen
-               <lb facs="#facs_224_r1l5" n="N005"/>zu lassen, der <rs type="person" ref="wkfm__43961">Pertzinger</rs> hingegen die Specificirte Creditores mit Stat Canco Papiern
-               <lb facs="#facs_224_r1l6" n="N006"/>zu bezahlen schuldig, dem <rs type="person" ref="wkfm__43961">Perzinger</rs> dieses zu abführung deren Creditoren verwändenten
+               <lb facs="#facs_224_r1l4" n="N004"/>welchen der <rs type="person" ref="#wkfm__43960">Perkhman</rs> die noch übrigen Waaren ohne interesse in der Handlung liegen
+               <lb facs="#facs_224_r1l5" n="N005"/>zu lassen, der <rs type="person" ref="#wkfm__43961">Pertzinger</rs> hingegen die Specificirte Creditores mit Stat Canco Papiern
+               <lb facs="#facs_224_r1l6" n="N006"/>zu bezahlen schuldig, dem <rs type="person" ref="#wkfm__43961">Perzinger</rs> dieses zu abführung deren Creditoren verwändenten
                <lb facs="#facs_224_r1l7" n="N007"/><hi>Creditor</hi> Capital gegen dem das er solches biß zu Endigung der Contractzeit gänzlich in der
                <lb facs="#facs_224_r1l8" n="N008"/>handlung lasse mit 6 <choice><expan/><abbr>pC<hi style="superscript">to</hi></abbr></choice> verinteressiret die Unkosten aus der Handlung bestritten und
                <lb facs="#facs_224_r1l10" n="N009"/>jedwedern theil zur helfte zu last, so wie der Gewün zu gutten geschrieben werden der
-               <lb facs="#facs_224_r1l11" n="N010"/><rs type="person" ref="wkfm__43960">Pergman</rs> aber nicht mehr alß jährl: 400 fl und der <rs type="person" ref="wkfm__43961">Pertzinger</rs> 300 fl herauszu-
+               <lb facs="#facs_224_r1l11" n="N010"/><rs type="person" ref="#wkfm__43960">Pergman</rs> aber nicht mehr alß jährl: 400 fl und der <rs type="person" ref="#wkfm__43961">Pertzinger</rs> 300 fl herauszu-
                <lb facs="#facs_224_r1l12" n="N011"/>nehmen befugt, alles mit beeder Einwilligung <hi>tra</hi> bey Schadens Erzeigung und <unclear>annulirung</unclear>
                <lb facs="#facs_224_r1l13" n="N012"/>dieses Contracts tractiret, der Schaden in gleiche theil getragen, der Contract <hi>auf 4 Jahr</hi>
                <lb facs="#facs_224_r1l14" n="N013"/>dergestalten durch 4 Jahr wehren das flaß wehrend derselben ein oder anderer Theil nicht

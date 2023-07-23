@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -70,11 +70,11 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_46" n="46" xml:id="img_0046"/>
+            <pb facs="#facs_46" n="46" xml:id="img_0046" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1146.jpg"/>
             
             <ab facs="#facs_46_r1">
                <lb facs="#facs_46_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
-               <lb facs="#facs_46_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 6<hi style="superscript">ten</hi> Julii 726 N<hi style="superscript">o</hi> 527 hat sich der <rs type="person" ref="wkfm__46813">Leuthner</rs>
+               <lb facs="#facs_46_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 6<hi style="superscript">ten</hi> Julii 726 N<hi style="superscript">o</hi> 527 hat sich der <rs type="person" ref="#wkfm__46813">Leuthner</rs>
                <lb facs="#facs_46_r1l3" n="N003"/>geäusseret, daß er seine Handlung unter seinen eigenen Nahmen habe 
                <lb facs="#facs_46_r1l4" n="N004"/>und führe.
                <lb facs="#facs_46_r1l5" n="N005"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>

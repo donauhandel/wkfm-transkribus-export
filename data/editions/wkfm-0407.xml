@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -82,24 +82,24 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_87" n="87" xml:id="img_0087"/>
+            <pb facs="#facs_87" n="87" xml:id="img_0087" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0407.jpg"/>
             
             <ab facs="#facs_87_r1">
                <lb facs="#facs_87_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_87_r1l2" n="N003"/><rs type="person" ref="wkfm__17087">Consoni Gasparo</rs> <choice><expan/><abbr>kay:</abbr></choice> <choice><expan/><abbr>könig:</abbr></choice> Niderlags Verwanter
+               <lb facs="#facs_87_r1l2" n="N003"/><rs type="person" ref="#wkfm__17087">Consoni Gasparo</rs> <choice><expan/><abbr>kay:</abbr></choice> <choice><expan/><abbr>könig:</abbr></choice> Niderlags Verwanter
                <lb facs="#facs_87_r1l4" n="N004"/>Firma ad raggion
-               <lb facs="#facs_87_r1l5" n="N005"/><rs type="person" ref="wkfm__47236">Gasparo Consoni</rs> laut Anbringen de ps: 4<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 726 N<hi style="superscript">o</hi> 1898
-               <lb facs="#facs_87_line_1621957411249_1042" n="N006"/>De <hi>Trevano</hi> <rs type="person" ref="wkfm__12271">Trevano E Consoni</rs> laut Anbringen de ps: 3<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 726 N<hi style="superscript">o</hi> 1917
-               <lb facs="#facs_87_r1l8" n="N007"/><rs type="person" ref="wkfm__17087">Gasparo Consoni</rs> laut Anbringen de ps: 9<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 730 N<hi style="superscript">o</hi> 1900
+               <lb facs="#facs_87_r1l5" n="N005"/><rs type="person" ref="#wkfm__47236">Gasparo Consoni</rs> laut Anbringen de ps: 4<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 726 N<hi style="superscript">o</hi> 1898
+               <lb facs="#facs_87_line_1621957411249_1042" n="N006"/>De <hi>Trevano</hi> <rs type="person" ref="#wkfm__12271">Trevano E Consoni</rs> laut Anbringen de ps: 3<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 726 N<hi style="superscript">o</hi> 1917
+               <lb facs="#facs_87_r1l8" n="N007"/><rs type="person" ref="#wkfm__17087">Gasparo Consoni</rs> laut Anbringen de ps: 9<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 730 N<hi style="superscript">o</hi> 1900
                <lb facs="#facs_87_r1l9" n="N008"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_87_r1l10" n="N009"/>Mitls Anbringen de ps: 4<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 726 N<hi style="superscript">o</hi> 930 hat der <rs type="person">Consoni</rs> die seinem
-               <lb facs="#facs_87_r1l11" n="N010"/>Brudern <rs type="person" ref="wkfm__46124">Franz Carl Consoni</rs> <hi> wehrend seiner</hi> ertheilte Procura dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice>
+               <lb facs="#facs_87_r1l11" n="N010"/>Brudern <rs type="person" ref="#wkfm__46124">Franz Carl Consoni</rs> <hi> wehrend seiner</hi> ertheilte Procura dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice>
                <lb facs="#facs_87_r1l12" n="N011"/>726 N<hi style="superscript">o</hi> 929 <hi>wie</hi> <choice><expan/><abbr>orig:</abbr></choice> N<hi style="superscript">o</hi> wehrend seiner Abwesenheit ein für allemahl
-               <lb facs="#facs_87_r1l13" n="N012"/>eingeleget mit beygerukter firma von dem <hi>Carl</hi> <rs type="person" ref="wkfm__46124">Franz Carl Consoni</rs>
-               <lb facs="#facs_87_r1l14" n="N013"/>In obigen Anbringen de ps: 3<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 726 N<hi style="superscript">o</hi> 1917 ist die Firma der Raggion<rs type="person" ref="wkfm__12271"> de Trevano e Consoni</rs>
-               <lb facs="#facs_87_r1l16" n="N014"/>von beeden sociis <rs type="person" ref="wkfm__8192">Joseph de Trevano</rs> und <rs type="person">Caspar Consoni</rs> eingeleget worden.
-               <lb facs="#facs_87_line_1621957464365_1052" n="N015"/>In obigen anbringen de ps: 9<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 730 N<hi style="superscript">o</hi> 1900 hat der <rs type="person" ref="wkfm__17087">Gasparo Consoni</rs> die Firma seinem Brudern
-               <lb facs="#facs_87_r1l18" n="N016"/>und mitinteressenten <hi>Franz<rs type="person" ref="wkfm__46124"/></hi><rs type="person" ref="wkfm__46124"> Carl Franz Consoni</rs> ertheilet und solche auf denselben eingeleget.
+               <lb facs="#facs_87_r1l13" n="N012"/>eingeleget mit beygerukter firma von dem <hi>Carl</hi> <rs type="person" ref="#wkfm__46124">Franz Carl Consoni</rs>
+               <lb facs="#facs_87_r1l14" n="N013"/>In obigen Anbringen de ps: 3<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 726 N<hi style="superscript">o</hi> 1917 ist die Firma der Raggion<rs type="person" ref="#wkfm__12271"> de Trevano e Consoni</rs>
+               <lb facs="#facs_87_r1l16" n="N014"/>von beeden sociis <rs type="person" ref="#wkfm__8192">Joseph de Trevano</rs> und <rs type="person">Caspar Consoni</rs> eingeleget worden.
+               <lb facs="#facs_87_line_1621957464365_1052" n="N015"/>In obigen anbringen de ps: 9<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 730 N<hi style="superscript">o</hi> 1900 hat der <rs type="person" ref="#wkfm__17087">Gasparo Consoni</rs> die Firma seinem Brudern
+               <lb facs="#facs_87_r1l18" n="N016"/>und mitinteressenten <hi>Franz<rs type="person" ref="#wkfm__46124"/></hi><rs type="person" ref="#wkfm__46124"> Carl Franz Consoni</rs> ertheilet und solche auf denselben eingeleget.
                <lb facs="#facs_87_r1l19" n="N017"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_87_r1l20" n="N018"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
             </ab>

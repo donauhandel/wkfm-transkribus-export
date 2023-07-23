@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -69,11 +69,11 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_70" n="70" xml:id="img_0070"/>
+            <pb facs="#facs_70" n="70" xml:id="img_0070" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0882.jpg"/>
             
             <ab facs="#facs_70_r1">
                <lb facs="#facs_70_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
-               <lb facs="#facs_70_r1l2" n="N002"/>In obigen Anbringen de ps: 29<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 735 N<hi style="superscript">o</hi> 412 hat sich der <rs type="person" ref="wkfm__46347">Gäbler</rs>
+               <lb facs="#facs_70_r1l2" n="N002"/>In obigen Anbringen de ps: 29<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 735 N<hi style="superscript">o</hi> 412 hat sich der <rs type="person" ref="#wkfm__46347">Gäbler</rs>
                <lb facs="#facs_70_r1l3" n="N003"/>erklähret, daß er seine Handlung ohne Compagnon führe
                <lb facs="#facs_70_r1l4" n="N004"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_70_r1l5" n="N005"/>Anmerckungen

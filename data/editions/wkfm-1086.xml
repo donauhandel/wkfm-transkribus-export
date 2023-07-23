@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -80,12 +80,12 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_22" n="22" xml:id="img_0022"/>
+            <pb facs="#facs_22" n="22" xml:id="img_0022" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1086.jpg"/>
             
             <ab facs="#facs_22_r1">
                <lb facs="#facs_22_r1l2" n="N002"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
-               <lb facs="#facs_22_r1l3" n="N003"/>Mitls Anbringen de ps: 16<hi style="superscript">ten</hi> Junii 744 N<hi style="superscript">o</hi> 2187 hat der <rs type="person" ref="wkfm__27714">Ipditsch</rs> den mit der
-               <lb facs="#facs_22_r1l4" n="N004"/><rs type="person" ref="wkfm__43873">Maria Francisca Wolfmayrin</rs> untern 5<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 742 errichteten Heuraths
+               <lb facs="#facs_22_r1l3" n="N003"/>Mitls Anbringen de ps: 16<hi style="superscript">ten</hi> Junii 744 N<hi style="superscript">o</hi> 2187 hat der <rs type="person" ref="#wkfm__27714">Ipditsch</rs> den mit der
+               <lb facs="#facs_22_r1l4" n="N004"/><rs type="person" ref="#wkfm__43873">Maria Francisca Wolfmayrin</rs> untern 5<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 742 errichteten Heuraths
                <lb facs="#facs_22_r1l5" n="N005"/>Contract in Cipia vidimata N<hi style="superscript">o</hi> 2186 eingeleget, kraft welchen 1000 fl heuraths
                <lb facs="#facs_22_r1l7" n="N006"/>gutt nebst 2000 fl Widerlag auf Überleben <hi>daß</hi> vor dem gegenwärtigen Gut mit
                <lb facs="#facs_22_r1l8" n="N007"/>Vorbehalt des Eigenthums <hi>zur</hi> <hi>Nu</hi> die Nuznüßung und Verwaltung gemein

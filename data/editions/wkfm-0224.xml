@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -72,16 +72,16 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_170" n="170" xml:id="img_0170"/>
+            <pb facs="#facs_170" n="170" xml:id="img_0170" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0224.jpg"/>
             
             <ab facs="#facs_170_r1">
                <lb facs="#facs_170_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_170_r1l2" n="N002"/>In obigen Erklährung dd<hi style="superscript">to</hi> 23<hi style="superscript">ten</hi> Junii 735 <hi>hat</hi> N<hi style="superscript">o</hi> 101 hat sich
-               <lb facs="#facs_170_r1l3" n="N003"/>der <rs type="person" ref="wkfm__8747">Baumgarthner</rs> geäusseret, daß er keinen Compagnon habe.
+               <lb facs="#facs_170_r1l3" n="N003"/>der <rs type="person" ref="#wkfm__8747">Baumgarthner</rs> geäusseret, daß er keinen Compagnon habe.
                <lb facs="#facs_170_r1l4" n="N004"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_170_r1l5" n="N005"/>Anmerckungen
                <lb facs="#facs_170_r1l6" n="N006"/><hi>Mitls Anbringen de ps: 27<hi style="superscript"/></hi>ten
-               <lb facs="#facs_170_r1l7" n="N007"/><hi>erklähret das er seine Handlung den <rs type="person" ref="wkfm__43919">Franz Anton Waitzmann</rs> überlassen</hi>
+               <lb facs="#facs_170_r1l7" n="N007"/><hi>erklähret das er seine Handlung den <rs type="person" ref="#wkfm__43919">Franz Anton Waitzmann</rs> überlassen</hi>
                <lb facs="#facs_170_r1l8" n="N008"/><hi>habe.</hi>
             </ab>
             

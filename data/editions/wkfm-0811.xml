@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -82,22 +82,22 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_143" n="143" xml:id="img_0143"/>
+            <pb facs="#facs_143" n="143" xml:id="img_0143" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0811.jpg"/>
             
             <ab facs="#facs_143_r1">
                <lb facs="#facs_143_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_143_r1l2" n="N003"/><rs type="person" ref="wkfm__47196">Fikher Matthias Carl</rs> brugerlicher Handlsmann
+               <lb facs="#facs_143_r1l2" n="N003"/><rs type="person" ref="#wkfm__47196">Fikher Matthias Carl</rs> brugerlicher Handlsmann
                <lb facs="#facs_143_r1l3" n="N004"/>Firma ad Raggion
                <lb facs="#facs_143_r1l4" n="N005"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_143_r1l5" n="N006"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_143_r1l6" n="N007"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_143_line_1621876673597_368" n="N008"/>Der <rs type="person" ref="wkfm__47196">Fikher</rs> hat zu Ausweisung seines Fundi nebst der <choice><expan/><abbr>Specif:</abbr></choice> N<hi style="superscript">o</hi> 1448 zwey <choice><expan/><abbr>orig:</abbr></choice> attestato, alß
-               <lb facs="#facs_143_r1l9" n="N009"/>von <rs type="person" ref="wkfm__8802">Lucas Joseph Setti</rs> dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> May 752 N<hi style="superscript">o</hi> 1450 <unclear>dahin,</unclear> daß er <rs type="person" ref="wkfm__47196">Fikher</rs> von ihm an er-
+               <lb facs="#facs_143_line_1621876673597_368" n="N008"/>Der <rs type="person" ref="#wkfm__47196">Fikher</rs> hat zu Ausweisung seines Fundi nebst der <choice><expan/><abbr>Specif:</abbr></choice> N<hi style="superscript">o</hi> 1448 zwey <choice><expan/><abbr>orig:</abbr></choice> attestato, alß
+               <lb facs="#facs_143_r1l9" n="N009"/>von <rs type="person" ref="#wkfm__8802">Lucas Joseph Setti</rs> dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> May 752 N<hi style="superscript">o</hi> 1450 <unclear>dahin,</unclear> daß er <rs type="person" ref="#wkfm__47196">Fikher</rs> von ihm an er-
                <lb facs="#facs_143_line_1621876524551_302" n="N010"/>spahrten Gutt baar <unclear>empfangen</unclear> habe 543 fl 20 x<hi style="superscript">r</hi>
-               <lb facs="#facs_143_r1l12" n="N011"/>dann von <rs type="person" ref="wkfm__26327">Franz Setti</rs> dd<hi style="superscript">to</hi> 29<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 756 N<hi style="superscript">o</hi> 1449, daß er <choice><expan/><abbr><unclear>pr</unclear></abbr></choice> von ihm an
+               <lb facs="#facs_143_r1l12" n="N011"/>dann von <rs type="person" ref="#wkfm__26327">Franz Setti</rs> dd<hi style="superscript">to</hi> 29<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 756 N<hi style="superscript">o</hi> 1449, daß er <choice><expan/><abbr><unclear>pr</unclear></abbr></choice> von ihm an
                <lb facs="#facs_143_line_1621876585381_333" n="N012"/>erspahrten Gutt baar empfangen hab 1136 fl 31 x<hi style="superscript">r</hi>
                <lb facs="#facs_143_r1l16" n="N013"/>zusamen Eigenthum 1679 fl 51 x<hi style="superscript">r</hi>
-               <lb facs="#facs_143_r1l17" n="N014"/>zu Completirung des übrigen hat der <rs type="person" ref="wkfm__26327">Franz Setti</rs> das <choice><expan/><abbr>orig:</abbr></choice> <choice><expan/><abbr>laut:</abbr></choice>
+               <lb facs="#facs_143_r1l17" n="N014"/>zu Completirung des übrigen hat der <rs type="person" ref="#wkfm__26327">Franz Setti</rs> das <choice><expan/><abbr>orig:</abbr></choice> <choice><expan/><abbr>laut:</abbr></choice>
                <lb facs="#facs_143_line_1621876608692_344" n="N015"/>Instrument dd<hi style="superscript">to</hi> 29<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 756 N<hi style="superscript">o</hi> 1451 eingeleget <choice><expan/><abbr>pr</abbr></choice> 2320 fl 9 x<hi style="superscript">r</hi>
                <lb facs="#facs_143_r1l20" n="N016"/><choice><expan/><abbr>Sa</abbr></choice> 4000 fl
                <lb facs="#facs_143_r1l21" n="N017"/>Hirbey befindet sich ein Anbringen wegen <unclear>Annehmung </unclear>des <choice><expan/><abbr><unclear>Sup:</unclear></abbr></choice> N<hi style="superscript">o</hi> 1452

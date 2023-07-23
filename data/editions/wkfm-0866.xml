@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -76,20 +76,20 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_54" n="54" xml:id="img_0054"/>
+            <pb facs="#facs_54" n="54" xml:id="img_0054" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0866.jpg"/>
             
             <ab facs="#facs_54_r2">
                <lb facs="#facs_54_r2l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_54_r2l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 18<hi style="superscript">ten</hi> Julii 726 N<hi style="superscript">o</hi> 407 hat sich der
-               <lb facs="#facs_54_r2l3" n="N003"/><rs type="person" ref="wkfm__19817">Gouttro</rs> geäusseret, daß er mit keinen Compagnon verstanden seye.
+               <lb facs="#facs_54_r2l3" n="N003"/><rs type="person" ref="#wkfm__19817">Gouttro</rs> geäusseret, daß er mit keinen Compagnon verstanden seye.
                <lb facs="#facs_54_r2l4" n="N004"/>In obiger Erklährung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 727 N<hi style="superscript">o</hi> 1952 hat sich die
-               <lb facs="#facs_54_r2l5" n="N005"/>Raggion <rs type="person" ref="wkfm__46333">Gouttro et Schußbökh</rs> geäusseret, daß der <rs type="person" ref="wkfm__46334">Johann
-               <lb break="no" facs="#facs_54_r2l6" n="N006"/>Schußbökh</rs> mit dem <rs type="person" ref="wkfm__19817">Franz Gouttro</rs> in Compagnie getreten seye
+               <lb facs="#facs_54_r2l5" n="N005"/>Raggion <rs type="person" ref="#wkfm__46333">Gouttro et Schußbökh</rs> geäusseret, daß der <rs type="person" ref="#wkfm__46334">Johann
+               <lb break="no" facs="#facs_54_r2l6" n="N006"/>Schußbökh</rs> mit dem <rs type="person" ref="#wkfm__19817">Franz Gouttro</rs> in Compagnie getreten seye
                <lb facs="#facs_54_r2l7" n="N007"/>beede diese Handlung miteinander führen
                <lb facs="#facs_54_r2l8" n="N008"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_54_r2l9" n="N009"/>Anmerckungen
                <lb facs="#facs_54_r2l10" n="N010"/>Vermög Anzeige von <choice><expan/><abbr>burg:</abbr></choice> Handelstand de ps: 10<hi style="superscript">ten</hi> April 766
-               <lb facs="#facs_54_r2l11" n="N011"/>ist der <rs type="person" ref="wkfm__19817">Franz Goutro</rs> verstorben und ist solche
+               <lb facs="#facs_54_r2l11" n="N011"/>ist der <rs type="person" ref="#wkfm__19817">Franz Goutro</rs> verstorben und ist solche
                <lb facs="#facs_54_r2l12" n="N012"/>Anzeige bey der firma sub <choice><expan/><abbr>nro</abbr></choice> 407 aufbehalten.
             </ab>
             

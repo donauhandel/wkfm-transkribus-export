@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -98,41 +98,41 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_13" n="13" xml:id="img_0013"/>
+            <pb facs="#facs_13" n="13" xml:id="img_0013" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1471.jpg"/>
             
             <ab facs="#facs_13_r2">
                <lb facs="#facs_13_r2l2" n="N001"/>123
                <lb facs="#facs_13_r2l3" n="N002"/>728
                <lb facs="#facs_13_r2l1" n="N003"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_13_r2l4" n="N004"/><rs type="person" ref="wkfm__10683">Starkh Carl Joseph</rs> hofbefreyter Handlsmann
+               <lb facs="#facs_13_r2l4" n="N004"/><rs type="person" ref="#wkfm__10683">Starkh Carl Joseph</rs> hofbefreyter Handlsmann
                <lb facs="#facs_13_r2l5" n="N005"/>Firma ad Raggion
-               <lb facs="#facs_13_r2l6" n="N006"/><rs type="person" ref="wkfm__43903">Carl Joseph Starkh und Compagnie</rs> laut Anbringen de ps: 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725
+               <lb facs="#facs_13_r2l6" n="N006"/><rs type="person" ref="#wkfm__43903">Carl Joseph Starkh und Compagnie</rs> laut Anbringen de ps: 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725
                <lb facs="#facs_13_r2l7" n="N007"/>N<hi style="superscript">o</hi> 2039
                <lb facs="#facs_13_r2l8" n="N008"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
-               <lb facs="#facs_13_r2l9" n="N009"/>In obigen Anbringen de ps: 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 2039 ist die Firma der Raggion <rs type="person" ref="wkfm__43903">Carl Joseph Starkh und Com-
-               <lb break="no" facs="#facs_13_r2l10" n="N010"/>pagnie</rs> von zweyen sociis nemlich <rs type="person" ref="wkfm__10683">Carl Joseph Starkh</rs> und <rs type="person" ref="wkfm__36354">Johann Anton Wormastin den jüngern</rs> einge-
+               <lb facs="#facs_13_r2l9" n="N009"/>In obigen Anbringen de ps: 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 2039 ist die Firma der Raggion <rs type="person" ref="#wkfm__43903">Carl Joseph Starkh und Com-
+               <lb break="no" facs="#facs_13_r2l10" n="N010"/>pagnie</rs> von zweyen sociis nemlich <rs type="person" ref="#wkfm__10683">Carl Joseph Starkh</rs> und <rs type="person" ref="#wkfm__36354">Johann Anton Wormastin den jüngern</rs> einge-
                <lb facs="#facs_13_r2l11" n="N011"/>leget worden.
-               <lb facs="#facs_13_r2l12" n="N012"/>Mitls Anbringen de ps: 29<hi style="superscript">ten</hi> May 726 N<hi style="superscript">o</hi> 706 ist von der Raggion <rs type="person" ref="wkfm__43903">Carl Joseph Stark und Compagnie</rs> die Anzeige
-               <lb facs="#facs_13_r2l13" n="N013"/>gemacht worden, das von vonselber keiner andern alß der von dem <rs type="person" ref="wkfm__10683">Carl Joseph Starkh</rs> beygerukten glauben zugeben
-               <lb facs="#facs_13_r2l14" n="N014"/>Mitls Anbringen de ps: 24<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 729 N<hi style="superscript">o</hi> 87 und 1070 ist die Anzeige von <rs type="person" ref="wkfm__36354">Johann Anton Bormastino den jüngeren</rs>
-               <lb facs="#facs_13_r2l15" n="N015"/>und <rs type="person" ref="wkfm__9133">Bormastino und Butterna</rs> dahin gemacht worden, das die Firma der Raggion <rs type="person" ref="wkfm__43903">Carl Joseph Starkh und 
-               <lb break="no" facs="#facs_13_r2l16" n="N016"/>Compagnie</rs> dem <rs type="person" ref="wkfm__10683">Carl Joseph Starkh</rs> abgenohmen und in den <rs type="person" ref="wkfm__36354">Joh: Anton Bormastini den jüngern</rs> allein ubertragen worden
-               <lb facs="#facs_13_r2l17" n="N017"/>seye, auch die Firma von gedachten <rs type="person" ref="wkfm__36354">Bormastini</rs> beygeruket worden.
+               <lb facs="#facs_13_r2l12" n="N012"/>Mitls Anbringen de ps: 29<hi style="superscript">ten</hi> May 726 N<hi style="superscript">o</hi> 706 ist von der Raggion <rs type="person" ref="#wkfm__43903">Carl Joseph Stark und Compagnie</rs> die Anzeige
+               <lb facs="#facs_13_r2l13" n="N013"/>gemacht worden, das von vonselber keiner andern alß der von dem <rs type="person" ref="#wkfm__10683">Carl Joseph Starkh</rs> beygerukten glauben zugeben
+               <lb facs="#facs_13_r2l14" n="N014"/>Mitls Anbringen de ps: 24<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 729 N<hi style="superscript">o</hi> 87 und 1070 ist die Anzeige von <rs type="person" ref="#wkfm__36354">Johann Anton Bormastino den jüngeren</rs>
+               <lb facs="#facs_13_r2l15" n="N015"/>und <rs type="person" ref="#wkfm__9133">Bormastino und Butterna</rs> dahin gemacht worden, das die Firma der Raggion <rs type="person" ref="#wkfm__43903">Carl Joseph Starkh und 
+               <lb break="no" facs="#facs_13_r2l16" n="N016"/>Compagnie</rs> dem <rs type="person" ref="#wkfm__10683">Carl Joseph Starkh</rs> abgenohmen und in den <rs type="person" ref="#wkfm__36354">Joh: Anton Bormastini den jüngern</rs> allein ubertragen worden
+               <lb facs="#facs_13_r2l17" n="N017"/>seye, auch die Firma von gedachten <rs type="person" ref="#wkfm__36354">Bormastini</rs> beygeruket worden.
                <lb facs="#facs_13_r2l18" n="N018"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
-               <lb facs="#facs_13_r2l19" n="N019"/>Die Raggion <rs type="person" ref="wkfm__43903">Carl Joseph Starkh und Compagnie</rs> hat die <choice><expan/><abbr>orig:</abbr></choice> oblatorien untern 16<hi style="superscript">ten</hi> May 726 N<hi style="superscript">o</hi> 1142 welche selbe mitls
-               <lb facs="#facs_13_r2l20" n="N020"/>Anbringen de ps: 20<hi style="superscript">ten</hi> May 726 N<hi style="superscript">o</hi> 706 eingeleget, dahin erlassen daß das unter der Raggion <rs type="person" ref="wkfm__43903">Carl Joseph Starkh und Com-
-               <lb break="no" facs="#facs_13_r2l21" n="N021"/>pagnie</rs> geloffene <hi>mit interel</hi> negotium mit <choice><expan/><abbr>intee</abbr></choice> des <rs type="person" ref="wkfm__43904">Franz Ferdinand von <unclear>Klannberg</unclear></rs> und <rs type="person" ref="wkfm__36354">Johann Anton Bor-
-               <lb break="no" facs="#facs_13_r2l22" n="N022"/>mastino</rs> gänzlch aufgehoben mit <hi>interesse</hi> eignen Capitalien aber mit interesse von <rs type="person" ref="wkfm__9133">Barmastino und
-               <lb break="no" facs="#facs_13_r2l23" n="N023"/>Butterna</rs> und alleinigen Firmirung des <hi>J</hi> <rs type="person" ref="wkfm__10683">Carl Joseph Starkh</rs> <hi>aber</hi> anwiderum erneuert worden seye.
-               <lb facs="#facs_13_r2l25" n="N024"/>Eben dieselbe hat <hi>mitls</hi> durch die oblatorien <hi>dd<hi style="superscript"/></hi>to<hi style="superscript">o</hi> 1143 in <choice><expan/><abbr>orig:</abbr></choice> sine dato, welche <hi>derselb</hi> der <rs type="person" ref="wkfm__36354">Johann Anton Borma-
+               <lb facs="#facs_13_r2l19" n="N019"/>Die Raggion <rs type="person" ref="#wkfm__43903">Carl Joseph Starkh und Compagnie</rs> hat die <choice><expan/><abbr>orig:</abbr></choice> oblatorien untern 16<hi style="superscript">ten</hi> May 726 N<hi style="superscript">o</hi> 1142 welche selbe mitls
+               <lb facs="#facs_13_r2l20" n="N020"/>Anbringen de ps: 20<hi style="superscript">ten</hi> May 726 N<hi style="superscript">o</hi> 706 eingeleget, dahin erlassen daß das unter der Raggion <rs type="person" ref="#wkfm__43903">Carl Joseph Starkh und Com-
+               <lb break="no" facs="#facs_13_r2l21" n="N021"/>pagnie</rs> geloffene <hi>mit interel</hi> negotium mit <choice><expan/><abbr>intee</abbr></choice> des <rs type="person" ref="#wkfm__43904">Franz Ferdinand von <unclear>Klannberg</unclear></rs> und <rs type="person" ref="#wkfm__36354">Johann Anton Bor-
+               <lb break="no" facs="#facs_13_r2l22" n="N022"/>mastino</rs> gänzlch aufgehoben mit <hi>interesse</hi> eignen Capitalien aber mit interesse von <rs type="person" ref="#wkfm__9133">Barmastino und
+               <lb break="no" facs="#facs_13_r2l23" n="N023"/>Butterna</rs> und alleinigen Firmirung des <hi>J</hi> <rs type="person" ref="#wkfm__10683">Carl Joseph Starkh</rs> <hi>aber</hi> anwiderum erneuert worden seye.
+               <lb facs="#facs_13_r2l25" n="N024"/>Eben dieselbe hat <hi>mitls</hi> durch die oblatorien <hi>dd<hi style="superscript"/></hi>to<hi style="superscript">o</hi> 1143 in <choice><expan/><abbr>orig:</abbr></choice> sine dato, welche <hi>derselb</hi> der <rs type="person" ref="#wkfm__36354">Johann Anton Borma-
                <lb break="no" facs="#facs_13_r2l27" n="N025"/>stino der jüngere</rs> mitls Anbringen de ps: 22<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 729 N<hi style="superscript">o</hi> 1144 eingelegt, weithers kund gemacht, daß die Firma den
-               <lb facs="#facs_13_r2l28" n="N026"/><rs type="person" ref="wkfm__10683">Carl Joseph Stark</rs>, welcher ohnehin kein interesse in dem negotio gehabt habe, abgenohmen und dem
-               <lb facs="#facs_13_r2l29" n="N027"/><rs type="person" ref="wkfm__36354">Johann Anton Bormastino dem jüngeren</rs> anvertrauet worden seye das negotium aber mit <choice><expan/><abbr>intee</abbr></choice>
-               <lb facs="#facs_13_r2l30" n="N028"/><rs type="person" ref="wkfm__9133">Bormastini und Butterna</rs> und <rs type="person" ref="wkfm__8593">Johann Maria Tinti</rs> <hi>fort</hi> unter der vorigen Raggion werde fortgesezet
+               <lb facs="#facs_13_r2l28" n="N026"/><rs type="person" ref="#wkfm__10683">Carl Joseph Stark</rs>, welcher ohnehin kein interesse in dem negotio gehabt habe, abgenohmen und dem
+               <lb facs="#facs_13_r2l29" n="N027"/><rs type="person" ref="#wkfm__36354">Johann Anton Bormastino dem jüngeren</rs> anvertrauet worden seye das negotium aber mit <choice><expan/><abbr>intee</abbr></choice>
+               <lb facs="#facs_13_r2l30" n="N028"/><rs type="person" ref="#wkfm__9133">Bormastini und Butterna</rs> und <rs type="person" ref="#wkfm__8593">Johann Maria Tinti</rs> <hi>fort</hi> unter der vorigen Raggion werde fortgesezet
                <lb facs="#facs_13_r2l31" n="N029"/>werden <hi>werden</hi>.
-               <lb facs="#facs_13_r2l34" n="N030"/>Mitls oblatorien dd<hi style="superscript">to</hi> 30<hi style="superscript">ten</hi> Junii 731 N<hi style="superscript">o</hi> 1090 in <choice><expan/><abbr>orig:</abbr></choice> hat der <rs type="person" ref="wkfm__36354">Johann Anton Bormastino der jüngere</rs> kund ge-
-               <lb facs="#facs_13_r2l35" n="N031"/>macht, daß das negotium unter der Raggion <rs type="person" ref="wkfm__43903">Carl Joseph Starkh und Compagnie</rs> gänzlich geendiget seye, und er
-               <lb facs="#facs_13_r2l36" n="N032"/><unclear>ein solches</unclear> unter seiner eignen Raggion mit dem Stralzio der vorigen und intee von <rs type="person" ref="wkfm__9133">Bormastino und Butterna</rs> continuiren werde
+               <lb facs="#facs_13_r2l34" n="N030"/>Mitls oblatorien dd<hi style="superscript">to</hi> 30<hi style="superscript">ten</hi> Junii 731 N<hi style="superscript">o</hi> 1090 in <choice><expan/><abbr>orig:</abbr></choice> hat der <rs type="person" ref="#wkfm__36354">Johann Anton Bormastino der jüngere</rs> kund ge-
+               <lb facs="#facs_13_r2l35" n="N031"/>macht, daß das negotium unter der Raggion <rs type="person" ref="#wkfm__43903">Carl Joseph Starkh und Compagnie</rs> gänzlich geendiget seye, und er
+               <lb facs="#facs_13_r2l36" n="N032"/><unclear>ein solches</unclear> unter seiner eignen Raggion mit dem Stralzio der vorigen und intee von <rs type="person" ref="#wkfm__9133">Bormastino und Butterna</rs> continuiren werde
                <lb facs="#facs_13_r2l37" n="N033"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
             </ab>
             

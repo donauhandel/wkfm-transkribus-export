@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -90,21 +90,21 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_242" n="242" xml:id="img_0242"/>
+            <pb facs="#facs_242" n="242" xml:id="img_0242" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0296.jpg"/>
             
             <ab facs="#facs_242_r2">
                <lb facs="#facs_242_r2l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
-               <lb facs="#facs_242_r2l2" n="N002"/>Untern 25: <choice><expan/><abbr>8br:</abbr></choice> 773 hat die <rs type="person" ref="wkfm__43982">Maria Elisabeth Pachin</rs> ange-
+               <lb facs="#facs_242_r2l2" n="N002"/>Untern 25: <choice><expan/><abbr>8br:</abbr></choice> 773 hat die <rs type="person" ref="#wkfm__43982">Maria Elisabeth Pachin</rs> ange-
                <lb facs="#facs_242_r2l3" n="N003"/>zeiget, das sie ihre Handlung vermög Billanz A:
                <lb facs="#facs_242_r2l4" n="N004"/>Raithhandlers berichts Ausschlags B: unter der alten
-               <lb facs="#facs_242_r2l5" n="N005"/>firma <rs type="person" ref="wkfm__47388">Martin Melchior Pach sel. Wittib</rs> in C:
+               <lb facs="#facs_242_r2l5" n="N005"/>firma <rs type="person" ref="#wkfm__47388">Martin Melchior Pach sel. Wittib</rs> in C:
                <lb facs="#facs_242_r2l6" n="N006"/>fortführe, welche Anzeige samt beylagen A B C
-               <lb facs="#facs_242_r2l7" n="N007"/>den acten <rs type="person" ref="wkfm__43983">Franz Xav: Pach</rs> sub litt: B N<hi style="superscript">o</hi> 51: zu-
+               <lb facs="#facs_242_r2l7" n="N007"/>den acten <rs type="person" ref="#wkfm__43983">Franz Xav: Pach</rs> sub litt: B N<hi style="superscript">o</hi> 51: zu-
                <lb facs="#facs_242_r2l8" n="N008"/>gelegter sich befindet. Cat: in Protocoll 2<hi style="superscript">do</hi> fol:
                <lb facs="#facs_242_r2l9" n="N009"/>140: sub Rubri: Pach:
                <lb facs="#facs_242_r2l10" n="N010"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
-               <lb facs="#facs_242_r2l11" n="N011"/>Unterm 14<hi style="superscript">ten</hi> Jenner 768. hat der <rs type="person" ref="wkfm__43981">Martin Melchior Pach</rs>
-               <lb facs="#facs_242_r2l12" n="N012"/>seinen mit der <rs type="person" ref="wkfm__43982">Maria Elisabeth Pertholdin</rs> untern 28
+               <lb facs="#facs_242_r2l11" n="N011"/>Unterm 14<hi style="superscript">ten</hi> Jenner 768. hat der <rs type="person" ref="#wkfm__43981">Martin Melchior Pach</rs>
+               <lb facs="#facs_242_r2l12" n="N012"/>seinen mit der <rs type="person" ref="#wkfm__43982">Maria Elisabeth Pertholdin</rs> untern 28
                <lb facs="#facs_242_r2l13" n="N013"/><choice><expan/><abbr>Aug:</abbr></choice> 746 errichteten Heuraths Contract eingeleget, wo-
                <lb facs="#facs_242_r2l14" n="N014"/>rinnen Heurathguth 500 Widerlag 1000 fl und von
                <lb facs="#facs_242_r2l15" n="N015"/>der Brauthigam der Brauth zu einem Hochzeit praesent
@@ -116,7 +116,7 @@
                <lb facs="#facs_242_r2l21" n="N021"/>Anmerckungen
                <lb facs="#facs_242_r2l22" n="N022"/><seg type="editorial_comment_seg"><hi>N: Anno 775: hat diese Handlung dessen Sohn Johann Hutter</hi>
                <lb break="no" facs="#facs_242_r2l23" n="N023"/><hi>übernohmen <unclear>Cetera</unclear> cide Joh Hutter in Protocoll: 2<unclear>d</unclear>:</hi><unclear>d</unclear>:<note type="editorial_comment_note">gesamter Absatz gestrichen</note></seg>
-               <lb facs="#facs_242_r2l24" n="N024"/>N: Anno 775 hat diese Handl: dessen Sohn <rs type="person" ref="wkfm__43983">Franz Xav: Pach</rs>
+               <lb facs="#facs_242_r2l24" n="N024"/>N: Anno 775 hat diese Handl: dessen Sohn <rs type="person" ref="#wkfm__43983">Franz Xav: Pach</rs>
                <lb facs="#facs_242_r2l25" n="N025"/>übernohmen
             </ab>
             

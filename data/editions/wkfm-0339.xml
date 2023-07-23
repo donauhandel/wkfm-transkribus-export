@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -84,25 +84,25 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_19" n="19" xml:id="img_0019"/>
+            <pb facs="#facs_19" n="19" xml:id="img_0019" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0339.jpg"/>
             
             <ab facs="#facs_19_r2">
                <lb facs="#facs_19_line_1621954138896_293" n="N001"/>167
                <lb facs="#facs_19_r2l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_19_r2l3" n="N003"/><rs type="person" ref="wkfm__8743">v. Churfeld Franz</rs> k. k. Niderlags Verwanter
+               <lb facs="#facs_19_r2l3" n="N003"/><rs type="person" ref="#wkfm__8743">v. Churfeld Franz</rs> k. k. Niderlags Verwanter
                <lb facs="#facs_19_r2l4" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_19_r2l5" n="N005"/><rs type="person" ref="wkfm__47205">Franz v. Churfeld</rs> laut Oblatorien dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 723 N<hi style="superscript">o</hi> 1108 und
+               <lb facs="#facs_19_r2l5" n="N005"/><rs type="person" ref="#wkfm__47205">Franz v. Churfeld</rs> laut Oblatorien dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 723 N<hi style="superscript">o</hi> 1108 und
                <lb facs="#facs_19_r2l6" n="N006"/>Anbringen de ps: 21<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 172
                <lb facs="#facs_19_r2l7" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
-               <lb facs="#facs_19_r2l8" n="N008"/>Mitls Anbringen de ps: 5<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 726 N<hi style="superscript">o</hi> 934 hat der <rs type="person" ref="wkfm__8743">v. Churfeld</rs> die seinem
-               <lb facs="#facs_19_r2l9" n="N009"/>Buchhalter<rs type="person" ref="wkfm__44993"> Thomas Dornacher</rs> ertheilte <choice><expan/><abbr>orig:</abbr></choice> Procura dd<hi style="superscript">to</hi> 3<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 726
-               <lb facs="#facs_19_r2l10" n="N010"/><hi>mit beygerukter mit beygerukter</hi> wehrend sein des <rs type="person" ref="wkfm__8743">Churfeld</rs> abwesenheit
-               <lb facs="#facs_19_r2l11" n="N011"/>mit beygerukter Firma des <rs type="person" ref="wkfm__44993">Dorn<hi>b</hi>acher</rs> N<hi style="superscript">o</hi> 933 eingeleget.
+               <lb facs="#facs_19_r2l8" n="N008"/>Mitls Anbringen de ps: 5<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 726 N<hi style="superscript">o</hi> 934 hat der <rs type="person" ref="#wkfm__8743">v. Churfeld</rs> die seinem
+               <lb facs="#facs_19_r2l9" n="N009"/>Buchhalter<rs type="person" ref="#wkfm__44993"> Thomas Dornacher</rs> ertheilte <choice><expan/><abbr>orig:</abbr></choice> Procura dd<hi style="superscript">to</hi> 3<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 726
+               <lb facs="#facs_19_r2l10" n="N010"/><hi>mit beygerukter mit beygerukter</hi> wehrend sein des <rs type="person" ref="#wkfm__8743">Churfeld</rs> abwesenheit
+               <lb facs="#facs_19_r2l11" n="N011"/>mit beygerukter Firma des <rs type="person" ref="#wkfm__44993">Dorn<hi>b</hi>acher</rs> N<hi style="superscript">o</hi> 933 eingeleget.
                <lb facs="#facs_19_r2l12" n="N012"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
-               <lb facs="#facs_19_r2l13" n="N013"/>Mitls obigen Anbringen de ps: 21<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 172 hat der <rs type="person" ref="wkfm__8743">v. Churfeld</rs> die von
+               <lb facs="#facs_19_r2l13" n="N013"/>Mitls obigen Anbringen de ps: 21<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 172 hat der <rs type="person" ref="#wkfm__8743">v. Churfeld</rs> die von
                <lb facs="#facs_19_r2l14" n="N014"/>ihm erlassene <choice><expan/><abbr>orig:</abbr></choice> oblatorien dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 723 N<hi style="superscript">o</hi> 1108 eingeleget, krafft
-               <lb facs="#facs_19_r2l15" n="N015"/>welchen selber kund gemacht, daß der <rs type="person" ref="wkfm__2971">Stephan Knoll</rs> sich zur Ruhe begeben,
-               <lb facs="#facs_19_r2l16" n="N016"/>und die Raggion <rs type="person" ref="wkfm__20653">Stephan Knoll und Compagno</rs> untern lezten <choice><expan/><abbr>Janu:</abbr></choice> 723
+               <lb facs="#facs_19_r2l15" n="N015"/>welchen selber kund gemacht, daß der <rs type="person" ref="#wkfm__2971">Stephan Knoll</rs> sich zur Ruhe begeben,
+               <lb facs="#facs_19_r2l16" n="N016"/>und die Raggion <rs type="person" ref="#wkfm__20653">Stephan Knoll und Compagno</rs> untern lezten <choice><expan/><abbr>Janu:</abbr></choice> 723
                <lb facs="#facs_19_r2l18" n="N017"/>ihr Endschafft erreichet habe, <hi>er</hi> und er alß Knollischer Compagno das 
                <lb facs="#facs_19_r2l19" n="N018"/>Negotium mit eignen Capitalien an sich gebracht und <hi><unclear>lat</unclear></hi> auf dem Fuß
                <lb facs="#facs_19_r2l20" n="N019"/>der vorigen Raggion <seg type="editorial_comment_seg">continuren<note type="editorial_comment_note">continuieren</note></seg> werde.

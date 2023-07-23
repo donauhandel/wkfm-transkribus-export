@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -76,16 +76,16 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_66" n="66" xml:id="img_0066"/>
+            <pb facs="#facs_66" n="66" xml:id="img_0066" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0878.jpg"/>
             
             <ab facs="#facs_66_r1">
                <lb facs="#facs_66_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_66_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 23<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 733 N<hi style="superscript">o</hi> 411 hat sich
-               <lb facs="#facs_66_r1l3" n="N003"/>der <rs type="person" ref="wkfm__46343">Gruber</rs> geäusserert, daß er seine Handlung ohne Com-
+               <lb facs="#facs_66_r1l3" n="N003"/>der <rs type="person" ref="#wkfm__46343">Gruber</rs> geäusserert, daß er seine Handlung ohne Com-
                <lb facs="#facs_66_r1l4" n="N004"/>pagnie führe
                <lb facs="#facs_66_r1l5" n="N005"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
-               <lb facs="#facs_66_r1l6" n="N006"/><choice><expan/><abbr>Ao</abbr></choice> 772 hat der <rs type="person" ref="wkfm__46343">Leopold Gruber</rs> seinen mit der
-               <lb facs="#facs_66_r1l7" n="N007"/><rs type="person" ref="wkfm__46345">Benigna Sedlmayrin</rs> errichteten Heuraths Con-
+               <lb facs="#facs_66_r1l6" n="N006"/><choice><expan/><abbr>Ao</abbr></choice> 772 hat der <rs type="person" ref="#wkfm__46343">Leopold Gruber</rs> seinen mit der
+               <lb facs="#facs_66_r1l7" n="N007"/><rs type="person" ref="#wkfm__46345">Benigna Sedlmayrin</rs> errichteten Heuraths Con-
                <lb facs="#facs_66_r1l8" n="N008"/>tract eingeleget, worinnen Heurathguth 200 Wie-
                <lb facs="#facs_66_r1l9" n="N009"/>derlag 400 fl contratiret worden und findet sich
                <lb facs="#facs_66_r1l10" n="N010"/>solcher bey dem <unclear>ult:</unclear> protocollirten Heuraths Contracten

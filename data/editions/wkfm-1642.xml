@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -70,14 +70,14 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_184" n="184" xml:id="img_0184"/>
+            <pb facs="#facs_184" n="184" xml:id="img_0184" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1642.jpg"/>
             
             <ab facs="#facs_184_r1">
                <lb facs="#facs_184_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_184_r1l2" n="N002"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_184_r1l3" n="N003"/>Anmerckungen
                <lb facs="#facs_184_r1l4" n="N004"/>Der <choice><expan/><abbr>burgerl:</abbr></choice> Handelstand hat Vermög Anzeige de ps: 18<hi style="superscript">ten</hi> Junij 764
-               <lb facs="#facs_184_r1l5" n="N005"/>den Todfall des <rs type="person" ref="wkfm__47542">Franz Peter Sicheit</rs> angezeiget, und findet sich
+               <lb facs="#facs_184_r1l5" n="N005"/>den Todfall des <rs type="person" ref="#wkfm__47542">Franz Peter Sicheit</rs> angezeiget, und findet sich
                <lb facs="#facs_184_r1l6" n="N006"/>solche Anzeige bey der firma sub <choice><expan/><abbr>nro:</abbr></choice> 756 1/2.
             </ab>
             

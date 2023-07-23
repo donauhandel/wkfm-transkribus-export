@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -74,16 +74,16 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_53" n="53" xml:id="img_0053"/>
+            <pb facs="#facs_53" n="53" xml:id="img_0053" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1405.jpg"/>
             
             <ab facs="#facs_53_r1">
                <lb facs="#facs_53_line_1624024602288_484" n="N001"/>695
                <lb facs="#facs_53_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_53_line_1624024603634_490" n="N003"/><rs type="person" ref="wkfm__5636">Rigotti Hieronimus</rs> burgerlicher Handlsmann
+               <lb facs="#facs_53_line_1624024603634_490" n="N003"/><rs type="person" ref="#wkfm__5636">Rigotti Hieronimus</rs> burgerlicher Handlsmann
                <lb facs="#facs_53_r1l3" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_53_line_1624024647230_503" n="N005"/><rs type="person" ref="wkfm__46716">Hieronimus Rigotti</rs> laut Erklährung dd<hi style="superscript">to</hi> 8<hi style="superscript">ten</hi> Junii 728 N<hi style="superscript">o</hi> 635
-               <lb facs="#facs_53_r1l6" n="N006"/><rs type="person" ref="wkfm__13208">Peisser et Rigotti</rs> laut Äusserung in dem Anbringen de ps: 27<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 732 N<hi style="superscript">o</hi> 2022
-               <lb facs="#facs_53_r1l7" n="N007"/><rs type="person" ref="wkfm__46716">Hieronimus Rigotti</rs> laut Anbringen de ps: 27<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 732 N<hi style="superscript">o</hi> 2022
+               <lb facs="#facs_53_line_1624024647230_503" n="N005"/><rs type="person" ref="#wkfm__46716">Hieronimus Rigotti</rs> laut Erklährung dd<hi style="superscript">to</hi> 8<hi style="superscript">ten</hi> Junii 728 N<hi style="superscript">o</hi> 635
+               <lb facs="#facs_53_r1l6" n="N006"/><rs type="person" ref="#wkfm__13208">Peisser et Rigotti</rs> laut Äusserung in dem Anbringen de ps: 27<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 732 N<hi style="superscript">o</hi> 2022
+               <lb facs="#facs_53_r1l7" n="N007"/><rs type="person" ref="#wkfm__46716">Hieronimus Rigotti</rs> laut Anbringen de ps: 27<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 732 N<hi style="superscript">o</hi> 2022
                <lb facs="#facs_53_r1l8" n="N008"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_53_r1l9" n="N009"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_53_r1l10" n="N010"/><seg type="orighead__fundi">Fundi Ausweisung</seg>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -76,12 +76,12 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_20" n="20" xml:id="img_0020"/>
+            <pb facs="#facs_20" n="20" xml:id="img_0020" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1850.jpg"/>
             
             <ab facs="#facs_20_r1">
                <lb facs="#facs_20_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_20_r1l2" n="N002"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
-               <lb facs="#facs_20_r1l3" n="N003"/><choice><expan/><abbr>Ao:</abbr></choice> 765 hat der <rs type="person" ref="wkfm__43865">Mathias Zacher</rs> seinen mit der <rs type="person" ref="wkfm__43866">Maria Anna
+               <lb facs="#facs_20_r1l3" n="N003"/><choice><expan/><abbr>Ao:</abbr></choice> 765 hat der <rs type="person" ref="#wkfm__43865">Mathias Zacher</rs> seinen mit der <rs type="person" ref="#wkfm__43866">Maria Anna
                <lb break="no" facs="#facs_20_r1l4" n="N004"/>Assolin</rs> untern 11<hi style="superscript">ten</hi> May 747 errichteten Heuraths-
                <lb facs="#facs_20_r1l5" n="N005"/>Contract eingelegt, worinnen Heurath 400 fl Widerlag
                <lb facs="#facs_20_r1l6" n="N006"/>800 fl dann eine Geschäncknus von dem Brauthigam der
@@ -90,7 +90,7 @@
                <lb facs="#facs_20_r1l9" n="N009"/>in <choice><expan/><abbr>lit:</abbr></choice> Z sub <choice><expan/><abbr>nro:</abbr></choice> 2259 aufbehalten
                <lb facs="#facs_20_r1l10" n="N010"/>Anmerckungen
                <lb facs="#facs_20_r1l11" n="N011"/>Untern 9<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 769 hat der Handlstandt den Todt-
-               <lb facs="#facs_20_r1l12" n="N012"/>fall des<rs type="person" ref="wkfm__43865"> Mathias Zacher</rs> angezeiget
+               <lb facs="#facs_20_r1l12" n="N012"/>fall des<rs type="person" ref="#wkfm__43865"> Mathias Zacher</rs> angezeiget
             </ab>
             
         </div>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -78,15 +78,15 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_86" n="86" xml:id="img_0086"/>
+            <pb facs="#facs_86" n="86" xml:id="img_0086" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0754.jpg"/>
             
             <ab facs="#facs_86_r1">
                <lb facs="#facs_86_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
-               <lb facs="#facs_86_r1l3" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 4<hi style="superscript">ten</hi> Junii 735 N<hi style="superscript">o</hi> 357 hat sich der <rs type="person" ref="wkfm__24741">Veronese</rs>
+               <lb facs="#facs_86_r1l3" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 4<hi style="superscript">ten</hi> Junii 735 N<hi style="superscript">o</hi> 357 hat sich der <rs type="person" ref="#wkfm__24741">Veronese</rs>
                <lb facs="#facs_86_r1l4" n="N003"/>geäusseret, daß er seine Handlung für sich allein habe.
                <lb facs="#facs_86_r1l5" n="N004"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
-               <lb facs="#facs_86_r1l6" n="N005"/>Mitls Anbringen de ps: 26<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 737 N<hi style="superscript">o</hi> 2144 hat der <rs type="person" ref="wkfm__24741">Veronese</rs> den mit der
-               <lb facs="#facs_86_r1l7" n="N006"/><rs type="person" ref="wkfm__46832">Anna Christina Wagnerin</rs> untern 8<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 735 errichteten HeurathsContract
+               <lb facs="#facs_86_r1l6" n="N005"/>Mitls Anbringen de ps: 26<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 737 N<hi style="superscript">o</hi> 2144 hat der <rs type="person" ref="#wkfm__24741">Veronese</rs> den mit der
+               <lb facs="#facs_86_r1l7" n="N006"/><rs type="person" ref="#wkfm__46832">Anna Christina Wagnerin</rs> untern 8<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 735 errichteten HeurathsContract
                <lb facs="#facs_86_r1l8" n="N007"/>N<hi style="superscript">o</hi> 2143 in Copia vidimata eingeleget kraft welchen 500 fl Heurath Gutt
                <lb facs="#facs_86_line_1621702198572_408" n="N008"/>nebst 1000 fl Widerlag auf überleben, und jenes was wehrender Ehe erwo[rben]
                <lb facs="#facs_86_r1l11" n="N009"/>oder ererbet wird alß ein gleiches Gut stipuliret dann weithers vorgesehen

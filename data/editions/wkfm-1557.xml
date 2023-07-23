@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -82,25 +82,25 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_99" n="99" xml:id="img_0099"/>
+            <pb facs="#facs_99" n="99" xml:id="img_0099" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1557.jpg"/>
             
             <ab facs="#facs_99_r1">
                <lb facs="#facs_99_r1l2" n="N001"/>771
                <lb facs="#facs_99_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_99_r1l3" n="N003"/><rs type="person" ref="wkfm__43782">Segalla Anton</rs> hofbefreyter Handlsmann
+               <lb facs="#facs_99_r1l3" n="N003"/><rs type="person" ref="#wkfm__43782">Segalla Anton</rs> hofbefreyter Handlsmann
                <lb facs="#facs_99_r1l4" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_99_r1l5" n="N005"/><rs type="person" ref="wkfm__12817">Segalla e Bigogini</rs> laut Anbringen de ps: 10<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 726 N<hi style="superscript">o</hi> 2043
+               <lb facs="#facs_99_r1l5" n="N005"/><rs type="person" ref="#wkfm__12817">Segalla e Bigogini</rs> laut Anbringen de ps: 10<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 726 N<hi style="superscript">o</hi> 2043
                <lb facs="#facs_99_r1l6" n="N006"/>und oblatorien dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 726 N<hi style="superscript">o</hi> 1141
                <lb facs="#facs_99_r1l7" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_99_r1l8" n="N008"/>In obigen Anbringen de ps: 10<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 726 N<hi style="superscript">o</hi> 2043 und oblatorien dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> ej: N<hi style="superscript">o</hi>
-               <lb facs="#facs_99_r1l9" n="N009"/>1141 ist die Firma der Raggion <rs type="person" ref="wkfm__12817">Segalla e Bigongini</rs> von zweyen sociis <rs type="person" ref="wkfm__43782">Anton
-               <lb break="no" facs="#facs_99_r1l10" n="N010"/>Segalla</rs> und <rs type="person" ref="wkfm__47467">Domenico Bigongini</rs> respectivé eingeleget und kund gemacht
+               <lb facs="#facs_99_r1l9" n="N009"/>1141 ist die Firma der Raggion <rs type="person" ref="#wkfm__12817">Segalla e Bigongini</rs> von zweyen sociis <rs type="person" ref="#wkfm__43782">Anton
+               <lb break="no" facs="#facs_99_r1l10" n="N010"/>Segalla</rs> und <rs type="person" ref="#wkfm__47467">Domenico Bigongini</rs> respectivé eingeleget und kund gemacht
                <lb facs="#facs_99_r1l11" n="N011"/>worden
                <lb facs="#facs_99_r1l12" n="N012"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
-               <lb facs="#facs_99_r1l13" n="N013"/>Der <rs type="person" ref="wkfm__43782">Anton Segalla</rs> und <rs type="person" ref="wkfm__47467">Domenico Bigongini</rs> haben die mitls Anbringen de ps: 10<hi style="superscript">ten</hi>
+               <lb facs="#facs_99_r1l13" n="N013"/>Der <rs type="person" ref="#wkfm__43782">Anton Segalla</rs> und <rs type="person" ref="#wkfm__47467">Domenico Bigongini</rs> haben die mitls Anbringen de ps: 10<hi style="superscript">ten</hi>
                <lb facs="#facs_99_r1l14" n="N014"/><choice><expan/><abbr>Janu:</abbr></choice> 726 <hi>angel</hi> in <choice><expan/><abbr>orig:</abbr></choice> N<hi style="superscript">o</hi> 1141 eingelegte oblatorien dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> ej: dahin erlassen
-               <lb facs="#facs_99_r1l15" n="N015"/>daß sie beede mit interesse des <rs type="person" ref="wkfm__47468">Johann Carignani</rs> von Neapl ein Negotium
-               <lb facs="#facs_99_r1l16" n="N016"/>stabiliret, und unter der societaets raggion <rs type="person" ref="wkfm__12817">Segalla e Bigongini</rs> mit ihrer beeden
+               <lb facs="#facs_99_r1l15" n="N015"/>daß sie beede mit interesse des <rs type="person" ref="#wkfm__47468">Johann Carignani</rs> von Neapl ein Negotium
+               <lb facs="#facs_99_r1l16" n="N016"/>stabiliret, und unter der societaets raggion <rs type="person" ref="#wkfm__12817">Segalla e Bigongini</rs> mit ihrer beeden
                <lb facs="#facs_99_r1l17" n="N017"/>Firmirung führen werden
                <lb facs="#facs_99_r1l18" n="N018"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
             </ab>

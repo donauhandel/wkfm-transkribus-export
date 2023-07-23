@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -73,15 +73,15 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_37" n="37" xml:id="img_0037"/>
+            <pb facs="#facs_37" n="37" xml:id="img_0037" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1891.jpg"/>
             
             <ab facs="#facs_37_r2">
                <lb facs="#facs_37_line_1621294981414_1612" n="N001"/>158
                <lb facs="#facs_37_r2l2" n="N002"/>938
                <lb facs="#facs_37_r2l1" n="N003"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_37_line_1621294981414_1611" n="N004"/><hi>Leidesdor</hi> <rs type="person" ref="wkfm__43833">Schleßinger Moyses Marx</rs> Jud
+               <lb facs="#facs_37_line_1621294981414_1611" n="N004"/><hi>Leidesdor</hi> <rs type="person" ref="#wkfm__43833">Schleßinger Moyses Marx</rs> Jud
                <lb facs="#facs_37_r2l5" n="N005"/>Firma ad Raggion
-               <lb facs="#facs_37_r2l6" n="N006"/><rs type="person" ref="wkfm__46628">Moyses Marx Schlesinger</rs> laut Anbringen de ps: 30<hi style="superscript">ten</hi> Junii 735 N<hi style="superscript">o</hi> 870
+               <lb facs="#facs_37_r2l6" n="N006"/><rs type="person" ref="#wkfm__46628">Moyses Marx Schlesinger</rs> laut Anbringen de ps: 30<hi style="superscript">ten</hi> Junii 735 N<hi style="superscript">o</hi> 870
                <lb facs="#facs_37_r2l7" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_37_r2l8" n="N008"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_37_r2l9" n="N009"/><seg type="orighead__fundi">Fundi Ausweisung</seg>

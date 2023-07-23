@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -82,22 +82,22 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_11" n="11" xml:id="img_0011"/>
+            <pb facs="#facs_11" n="11" xml:id="img_0011" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0016.jpg"/>
             
             <ab facs="#facs_11_r1">
                <lb facs="#facs_11_line_1619464379213_70" n="N001"/>6
                <lb facs="#facs_11_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_11_r1l2" n="N003"/><rs type="person" ref="wkfm__8591">Amadey Külian</rs> burgerlicher Handlsmann
+               <lb facs="#facs_11_r1l2" n="N003"/><rs type="person" ref="#wkfm__8591">Amadey Külian</rs> burgerlicher Handlsmann
                <lb facs="#facs_11_r1l3" n="N004"/>Firma oder Raggion
-               <lb facs="#facs_11_r1l4" n="N005"/><rs type="person" ref="wkfm__46582">Kulian Amadey auf Italienisch Herculiano Amadey</rs> laut Erklährung
+               <lb facs="#facs_11_r1l4" n="N005"/><rs type="person" ref="#wkfm__46582">Kulian Amadey auf Italienisch Herculiano Amadey</rs> laut Erklährung
                <lb facs="#facs_11_r1l5" n="N006"/>dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 6.
-               <lb facs="#facs_11_r1l6" n="N007"/><rs type="person" ref="wkfm__30445">Herculiano Amadey e Compagno</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 21.
+               <lb facs="#facs_11_r1l6" n="N007"/><rs type="person" ref="#wkfm__30445">Herculiano Amadey e Compagno</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 21.
                <lb facs="#facs_11_r1l7" n="N008"/>Procura und Firmae-Trager
-               <lb facs="#facs_11_r1l9" n="N009"/>In folge des von dem <rs type="person" ref="wkfm__8591">Amdej</rs> <hi><unclear>eingelegten</unclear></hi> ausgestelten Macht brief dd<hi style="superscript">to</hi> 30<hi style="superscript">ten</hi>
+               <lb facs="#facs_11_r1l9" n="N009"/>In folge des von dem <rs type="person" ref="#wkfm__8591">Amdej</rs> <hi><unclear>eingelegten</unclear></hi> ausgestelten Macht brief dd<hi style="superscript">to</hi> 30<hi style="superscript">ten</hi>
                <lb facs="#facs_11_line_1621240128497_156" n="N010"/>May <seg type="editorial_comment_seg">729<note type="editorial_comment_note">Anschließend einzufügen\u003a No 879.</note></seg>
                <lb facs="#facs_11_r1l8" n="N011"/><seg type="editorial_comment_seg">N<hi style="superscript">o</hi><note type="editorial_comment_note">Bezieht sich auf das Folgende 879.</note></seg>
                <lb facs="#facs_11_r1l10" n="N012"/><seg type="editorial_comment_seg">879<note type="editorial_comment_note">Machtbrief vom 30. Mai 1729 Nr. 879</note></seg>
-               <lb facs="#facs_11_line_1621240128497_155" n="N013"/>hat selber dem <rs type="person" ref="wkfm__43783">Melchior Spettel</rs> seinen bedienten wehrend seiner Abwe-
+               <lb facs="#facs_11_line_1621240128497_155" n="N013"/>hat selber dem <rs type="person" ref="#wkfm__43783">Melchior Spettel</rs> seinen bedienten wehrend seiner Abwe-
                <lb facs="#facs_11_r1l12" n="N014"/>senheit in Italien die Procura und Firma ertheilet auf diesen Macht brief
                <lb facs="#facs_11_line_1628196032760_562" n="N015"/>mitls des Anbringen de ps: 2<hi style="superscript">ten</hi> <choice><expan/><abbr>Jun:</abbr></choice> 729 <hi>No 888</hi> No 880 zu Mercantil gerichts Handen einge
                <lb facs="#facs_11_r1l15" n="N016"/><seg type="editorial_comment_seg">leget<note type="editorial_comment_note">Es folgt eine unlesbare Streichung.</note></seg> <hi>sub N<hi style="superscript"/></hi>o

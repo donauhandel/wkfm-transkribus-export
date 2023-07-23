@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -85,22 +85,22 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_133" n="133" xml:id="img_0133"/>
+            <pb facs="#facs_133" n="133" xml:id="img_0133" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0453.jpg"/>
             
             <ab facs="#facs_133_r2">
                <lb facs="#facs_133_r2l1" n="N003"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_133_r2l2" n="N004"/><rs type="person" ref="wkfm__46148">Korber Joseph</rs> burgerlicher Handlsmann
+               <lb facs="#facs_133_r2l2" n="N004"/><rs type="person" ref="#wkfm__46148">Korber Joseph</rs> burgerlicher Handlsmann
                <lb facs="#facs_133_r2l3" n="N005"/>Firma ad Raggion
-               <lb facs="#facs_133_r2l4" n="N006"/><rs type="person" ref="wkfm__47255">Joseph Korber</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 222.
+               <lb facs="#facs_133_r2l4" n="N006"/><rs type="person" ref="#wkfm__47255">Joseph Korber</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 222.
                <lb facs="#facs_133_r2l5" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_133_r2l6" n="N008"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_133_r2l7" n="N009"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_133_r2l8" n="N010"/>Der <rs type="person" ref="wkfm__46148">Korber</rs> hat zu ausweisung seines Fundi ein von der <rs type="person" ref="wkfm__46149">Johanna Tribau-
+               <lb facs="#facs_133_r2l8" n="N010"/>Der <rs type="person" ref="#wkfm__46148">Korber</rs> hat zu ausweisung seines Fundi ein von der <rs type="person" ref="#wkfm__46149">Johanna Tribau-
                <lb break="no" facs="#facs_133_r2l9" n="N011"/>merin</rs> untern 2<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 743 ausgesteltes <choice><expan/><abbr>orig:</abbr></choice> attestatum N<hi style="superscript">o</hi> 1301 daß er bey
                <lb facs="#facs_133_line_1621960679065_2164" n="N012"/>ihr in der Handlung stehen habe <hi>3700 fl</hi> 3700 fl
                <lb facs="#facs_133_line_1621960772952_2218" n="N013"/>Dann ein von eben derselben ausgesteltes <choice><expan/><abbr>orig:</abbr></choice> laut Instrument
                <lb facs="#facs_133_line_1621960883766_2258" n="N014"/>dd<hi style="superscript">to</hi> 7 <choice><expan/><abbr>Febr:</abbr></choice> 743 N<hi style="superscript">o</hi> 1302 daß sie biß zu beybringung der Certifi-
-               <lb facs="#facs_133_line_1621960709527_2186" n="N015"/>catino deren von dem <rs type="person" ref="wkfm__46148">Korber</rs> einzunehmen habenden 4000 fl hafften wolle
+               <lb facs="#facs_133_line_1621960709527_2186" n="N015"/>catino deren von dem <rs type="person" ref="#wkfm__46148">Korber</rs> einzunehmen habenden 4000 fl hafften wolle
                <lb facs="#facs_133_line_1621960715025_2191" n="N016"/>für 4000 fl
                <lb facs="#facs_133_line_1621960728673_2202" n="N017"/><choice><expan>Summa</expan><abbr>Sa</abbr></choice> 7700 fl
                <lb facs="#facs_133_r2l22" n="N018"/>NB:

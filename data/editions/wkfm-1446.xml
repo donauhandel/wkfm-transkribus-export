@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -76,13 +76,13 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_94" n="94" xml:id="img_0094"/>
+            <pb facs="#facs_94" n="94" xml:id="img_0094" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1446.jpg"/>
             
             <ab facs="#facs_94_r1">
                <lb facs="#facs_94_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_94_r1l2" n="N002"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
-               <lb facs="#facs_94_r1l3" n="N003"/>Mitls obigen Anbringen de ps: 18<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 753 N<hi style="superscript">o</hi> 654 hat der <rs type="person" ref="wkfm__46765">Reindinger</rs> <hi>den</hi>
-               <lb facs="#facs_94_r1l4" n="N004"/>den mit der <rs type="person" ref="wkfm__46768">Maria Anna Gartnerin gebohrnen <unclear>Truklerin</unclear></rs> untern 21<hi style="superscript">ten</hi>
+               <lb facs="#facs_94_r1l3" n="N003"/>Mitls obigen Anbringen de ps: 18<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 753 N<hi style="superscript">o</hi> 654 hat der <rs type="person" ref="#wkfm__46765">Reindinger</rs> <hi>den</hi>
+               <lb facs="#facs_94_r1l4" n="N004"/>den mit der <rs type="person" ref="#wkfm__46768">Maria Anna Gartnerin gebohrnen <unclear>Truklerin</unclear></rs> untern 21<hi style="superscript">ten</hi>
                <lb facs="#facs_94_r1l5" n="N005"/>Junii 753 geschlossenen heurathscontract N<hi style="superscript">o</hi> 2218 in <choice><expan/><abbr>orig:</abbr></choice> eingeleget, kraft
                <lb facs="#facs_94_r1l6" n="N006"/>welchen 2000 fl heurathgut nebst 2000 fl Widerlag auf überleben, jenes
                <lb facs="#facs_94_r1l7" n="N007"/>anbey, was wehrender Ehe erworben und ererbet wird alß ein gleiches Gutt

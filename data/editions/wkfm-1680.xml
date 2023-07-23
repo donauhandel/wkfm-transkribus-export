@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -92,15 +92,15 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_222" n="222" xml:id="img_0222"/>
+            <pb facs="#facs_222" n="222" xml:id="img_0222" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1680.jpg"/>
             
             <ab facs="#facs_222_r1">
                <lb facs="#facs_222_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_222_r1l2" n="N002"/>Nota <choice><expan/><abbr>Ao</abbr></choice> 783 ist diese Handlung
-               <lb facs="#facs_222_r1l3" n="N003"/>an die <rs type="person" ref="wkfm__47591">Gebrüder Schwitzer</rs> über-
+               <lb facs="#facs_222_r1l3" n="N003"/>an die <rs type="person" ref="#wkfm__47591">Gebrüder Schwitzer</rs> über-
                <lb facs="#facs_222_r1l4" n="N004"/>lassen worden.
                <lb facs="#facs_222_r1l5" n="N005"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
-               <lb facs="#facs_222_r1l6" n="N006"/><choice><expan/><abbr>Ao:</abbr></choice> 764 hat der <rs type="person" ref="wkfm__47586">Johannes Schwizer</rs> seinen mit der <rs type="person" ref="wkfm__47592">Francisca
+               <lb facs="#facs_222_r1l6" n="N006"/><choice><expan/><abbr>Ao:</abbr></choice> 764 hat der <rs type="person" ref="#wkfm__47586">Johannes Schwizer</rs> seinen mit der <rs type="person" ref="#wkfm__47592">Francisca
                <lb break="no" facs="#facs_222_r1l7" n="N007"/>Rathgebin</rs> untern Jenner 755 errichteten Heuraths Con-
                <lb facs="#facs_222_r1l8" n="N008"/>tract eingelegt, worinnen Heurathguth 1000 fl Widerlaag 2000 fl
                <lb facs="#facs_222_r1l9" n="N009"/>100 Species Cermnizer Ducaten zu einem Brauth Kleid und das der-
@@ -115,8 +115,8 @@
                <lb facs="#facs_222_r1l18" n="N018"/>Raitcammer <unclear>anliegenden</unclear> mütterlichen Erbtheil abfallende Intee der Brauth
                <lb facs="#facs_222_r1l19" n="N019"/>zu ihren eigenen Gebrauch gelassen werden Vide Heur: Contract <choice><expan/><abbr>nro:</abbr></choice> 2254
                <lb facs="#facs_222_r1l20" n="N020"/>Anmerckungen
-               <lb facs="#facs_222_r1l21" n="N021"/>Mittels bericht A de ps<hi style="superscript">to</hi> 16 <choice><expan/><abbr>Xbr:</abbr></choice> 778: ist der Todfall des <rs type="person" ref="wkfm__47586">Joh: Schwitzer</rs>
-               <lb facs="#facs_222_r1l22" n="N022"/>angezeiget worden, und nach dem die <rs type="person" ref="wkfm__47588">Johann Schwitzer <choice><expan/><abbr>seel:</abbr></choice> Wittib</rs>
+               <lb facs="#facs_222_r1l21" n="N021"/>Mittels bericht A de ps<hi style="superscript">to</hi> 16 <choice><expan/><abbr>Xbr:</abbr></choice> 778: ist der Todfall des <rs type="person" ref="#wkfm__47586">Joh: Schwitzer</rs>
+               <lb facs="#facs_222_r1l22" n="N022"/>angezeiget worden, und nach dem die <rs type="person" ref="#wkfm__47588">Johann Schwitzer <choice><expan/><abbr>seel:</abbr></choice> Wittib</rs>
                <lb facs="#facs_222_r1l23" n="N023"/>mit dem Anbringen B de ps: 13<hi style="superscript">ten</hi> März 780 über das Decret A
                <lb facs="#facs_222_r1l24" n="N024"/>in B der Raithhandlers bericht B in B das Inventarium C in B
                <lb facs="#facs_222_r1l25" n="N025"/>die Billanz D in B nachgetragen, sodann der weitere bericht C

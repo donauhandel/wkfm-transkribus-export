@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -83,21 +83,21 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_78" n="78" xml:id="img_0078"/>
+            <pb facs="#facs_78" n="78" xml:id="img_0078" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1430.jpg"/>
             
             <ab facs="#facs_78_r1">
                <lb facs="#facs_78_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
-               <lb facs="#facs_78_r1l2" n="N002"/>Mitls Anbringen de ps: 4<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 740 N<hi style="superscript">o</hi> 647 hat der <rs type="person" ref="wkfm__43201">Anton Rathgeb</rs> angezeiget,
-               <lb facs="#facs_78_r1l4" n="N003"/>daß er seine raggion von <rs type="person" ref="wkfm__46702">Balthasar Johann Rathgeb</rs> auf <rs type="person" ref="wkfm__46730">Balthasar Johann Rathgeb
+               <lb facs="#facs_78_r1l2" n="N002"/>Mitls Anbringen de ps: 4<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 740 N<hi style="superscript">o</hi> 647 hat der <rs type="person" ref="#wkfm__43201">Anton Rathgeb</rs> angezeiget,
+               <lb facs="#facs_78_r1l4" n="N003"/>daß er seine raggion von <rs type="person" ref="#wkfm__46702">Balthasar Johann Rathgeb</rs> auf <rs type="person" ref="#wkfm__46730">Balthasar Johann Rathgeb
                <lb break="no" facs="#facs_78_r1l5" n="N004"/>seel: Söhne</rs> abzuändern entschlossen.
-               <lb facs="#facs_78_r1l7" n="N005"/>Mitls Anbringen de ps: 3<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 746 N<hi style="superscript">o</hi> 2035 und oblatorien sine dato N<hi style="superscript">o</hi> 1135 hat der <rs type="person" ref="wkfm__46169">Melchior Rathgeb</rs>
-               <lb facs="#facs_78_r1l8" n="N006"/>respective angezeiget und kundgemacht, daß sein bruder <rs type="person" ref="wkfm__43201">Anton Rathgeb</rs> derge-
-               <lb facs="#facs_78_r1l9" n="N007"/>stalten sich von ihm separiret habe, daß er <rs type="person" ref="wkfm__43201">Anton</rs> in dem negotio nicht mehr
-               <lb facs="#facs_78_r1l10" n="N008"/>interessiret seye, sondern er <rs type="person" ref="wkfm__46169">Melchior</rs> solches unter seiner eigenen Firma
+               <lb facs="#facs_78_r1l7" n="N005"/>Mitls Anbringen de ps: 3<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 746 N<hi style="superscript">o</hi> 2035 und oblatorien sine dato N<hi style="superscript">o</hi> 1135 hat der <rs type="person" ref="#wkfm__46169">Melchior Rathgeb</rs>
+               <lb facs="#facs_78_r1l8" n="N006"/>respective angezeiget und kundgemacht, daß sein bruder <rs type="person" ref="#wkfm__43201">Anton Rathgeb</rs> derge-
+               <lb facs="#facs_78_r1l9" n="N007"/>stalten sich von ihm separiret habe, daß er <rs type="person" ref="#wkfm__43201">Anton</rs> in dem negotio nicht mehr
+               <lb facs="#facs_78_r1l10" n="N008"/>interessiret seye, sondern er <rs type="person" ref="#wkfm__46169">Melchior</rs> solches unter seiner eigenen Firma
                <lb facs="#facs_78_r1l11" n="N009"/>fortführen werde.
                <lb facs="#facs_78_r1l12" n="N010"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
-               <lb facs="#facs_78_r1l13" n="N011"/>Mitls Anbringen des ps: 21<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 743 N<hi style="superscript">o</hi> 2210 hat der <rs type="person" ref="wkfm__46169">Melchior Rathgeb</rs> den mit
-               <lb facs="#facs_78_r1l15" n="N012"/>der <rs type="person" ref="wkfm__46744">Eva Theresia Hayderin gebohrnen Krexlerin</rs> untern 9<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 741 errichteten
+               <lb facs="#facs_78_r1l13" n="N011"/>Mitls Anbringen des ps: 21<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 743 N<hi style="superscript">o</hi> 2210 hat der <rs type="person" ref="#wkfm__46169">Melchior Rathgeb</rs> den mit
+               <lb facs="#facs_78_r1l15" n="N012"/>der <rs type="person" ref="#wkfm__46744">Eva Theresia Hayderin gebohrnen Krexlerin</rs> untern 9<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 741 errichteten
                <lb facs="#facs_78_r1l18" n="N013"/><seg type="orighead__wedding_contract">Heuraths Contract</seg> in Copia vidimata N<hi style="superscript">o</hi> 2209 eingeleget, kraft welchen 1000 fl
                <lb facs="#facs_78_r1l20" n="N014"/>heurathgut nebst 2000 fl Widerlag auf uberleben <hi>da</hi> das wehrender Ehe <unclear>erworbene</unclear>
                <lb facs="#facs_78_r1l22" n="N015"/><hi>bende</hi> ohne Ausnahm das ererbende und was die Braut dermahlen besizet aber nur zum Fruchtgenuß <hi>alß ein gemein-</hi>

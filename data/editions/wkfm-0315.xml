@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -87,30 +87,30 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_261" n="261" xml:id="img_0261"/>
+            <pb facs="#facs_261" n="261" xml:id="img_0261" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0315.jpg"/>
             
             <ab facs="#facs_261_r1">
                <lb facs="#facs_261_r1l2" n="N001"/><hi>152</hi>
                <lb facs="#facs_261_r1l3" n="N002"/>155
                <lb facs="#facs_261_r1l1" n="N003"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_261_r1l4" n="N004"/><rs type="person" ref="wkfm__44041">Priestersperger Joseph</rs> burgerlicher Handlsmann
+               <lb facs="#facs_261_r1l4" n="N004"/><rs type="person" ref="#wkfm__44041">Priestersperger Joseph</rs> burgerlicher Handlsmann
                <lb facs="#facs_261_r1l5" n="N005"/>Firma ad Raggion
-               <lb facs="#facs_261_r1l6" n="N006"/><choice><expan/><abbr>Ao</abbr></choice> 766 hat der <rs type="person" ref="wkfm__44041">Joseph Priestersperger</rs> seine firma eingelegt <choice><expan/><abbr>nro</abbr></choice> 168 1/2
+               <lb facs="#facs_261_r1l6" n="N006"/><choice><expan/><abbr>Ao</abbr></choice> 766 hat der <rs type="person" ref="#wkfm__44041">Joseph Priestersperger</rs> seine firma eingelegt <choice><expan/><abbr>nro</abbr></choice> 168 1/2
                <lb facs="#facs_261_r1l7" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_261_r1l8" n="N008"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_261_r1l10" n="N009"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_261_r1l11" n="N010"/>Der <hi>Jose</hi> <rs type="person" ref="wkfm__44041">Priestersperger</rs> hat zu Ausweisung seines Fundi <hi>daß</hi>
+               <lb facs="#facs_261_r1l11" n="N010"/>Der <hi>Jose</hi> <rs type="person" ref="#wkfm__44041">Priestersperger</rs> hat zu Ausweisung seines Fundi <hi>daß</hi>
                <lb facs="#facs_261_r1l9" n="N011"/>aus dem
-               <lb facs="#facs_261_r1l12" n="N012"/>von seiner Mutter <rs type="person" ref="wkfm__24382">Maria Judith</rs> untern 24<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 753 errichteten Testa-
+               <lb facs="#facs_261_r1l12" n="N012"/>von seiner Mutter <rs type="person" ref="#wkfm__24382">Maria Judith</rs> untern 24<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 753 errichteten Testa-
                <lb facs="#facs_261_r1l13" n="N013"/>ment den vidimirten Extract N<hi style="superscript">o</hi> 1265 <hi>eingeleget</hi> krafft welchen derselbe nebst
-               <lb facs="#facs_261_r1l14" n="N014"/>seiner Schwester <rs type="person" ref="wkfm__44042">Judith</rs> zum universal Erben benehnet worden, dann die
+               <lb facs="#facs_261_r1l14" n="N014"/>seiner Schwester <rs type="person" ref="#wkfm__44042">Judith</rs> zum universal Erben benehnet worden, dann die
                <lb facs="#facs_261_r1l15" n="N015"/>von <unclear>diesen</unclear> beeden Erben untern 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 753 eingereichte Erbserklähr:
                <lb facs="#facs_261_line_1621475480716_5912" n="N016"/>in Cop. <hi>vidimata</hi> vidimata N<hi style="superscript">o</hi> 1266, dann wegen abgeführten legaten die Quittung
-               <lb facs="#facs_261_r1l18" n="N017"/><unclear>von</unclear> <rs type="person" ref="wkfm__44043">Jos: Gugenberger</rs> dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 754 in <choice><expan/><abbr>orig:</abbr></choice> <hi>N<hi style="superscript"/></hi>o<hi style="superscript">o</hi> 1268 <choice><expan/><abbr>pr</abbr></choice> 3000 fl
+               <lb facs="#facs_261_r1l18" n="N017"/><unclear>von</unclear> <rs type="person" ref="#wkfm__44043">Jos: Gugenberger</rs> dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 754 in <choice><expan/><abbr>orig:</abbr></choice> <hi>N<hi style="superscript"/></hi>o<hi style="superscript">o</hi> 1268 <choice><expan/><abbr>pr</abbr></choice> 3000 fl
                <lb facs="#facs_261_r1l19" n="N018"/>und einen <choice><expan/><abbr>orig:</abbr></choice> Prot: Extract aus dem Bürgschaffts Protocol dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice>
-               <lb facs="#facs_261_r1l20" n="N019"/>754 wegen von ihm für die <rs type="person" ref="wkfm__44044">Klebinder: Kinder</rs> erlegten 3000 fl N<hi style="superscript">o</hi> 1267 wie auch
-               <lb facs="#facs_261_r1l21" n="N020"/><unclear>eine</unclear> von seiner Schwester <rs type="person" ref="wkfm__44042">Judith</rs> untern 6<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 754 <hi>in <choice><expan/><abbr>orig.</abbr></choice> N<hi style="superscript"/></hi>o
-               <lb facs="#facs_261_r1l22" n="N021"/>Erklährung das sie alß miterbin kein bedenken trage, das er <rs type="person" ref="wkfm__44041">Priestersperger</rs>
+               <lb facs="#facs_261_r1l20" n="N019"/>754 wegen von ihm für die <rs type="person" ref="#wkfm__44044">Klebinder: Kinder</rs> erlegten 3000 fl N<hi style="superscript">o</hi> 1267 wie auch
+               <lb facs="#facs_261_r1l21" n="N020"/><unclear>eine</unclear> von seiner Schwester <rs type="person" ref="#wkfm__44042">Judith</rs> untern 6<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 754 <hi>in <choice><expan/><abbr>orig.</abbr></choice> N<hi style="superscript"/></hi>o
+               <lb facs="#facs_261_r1l22" n="N021"/>Erklährung das sie alß miterbin kein bedenken trage, das er <rs type="person" ref="#wkfm__44041">Priestersperger</rs>
                <lb facs="#facs_261_r1l23" n="N022"/>auf die Mütterliche Handlung alß Handlsmann incorporiret werde, maßen <unclear>sie sie</unclear>
                <lb facs="#facs_261_r1l24" n="N023"/>sich ihres dießfälligen Rechts hiemit begeben haben wolle, in <choice><expan/><abbr>orig:</abbr></choice> N<hi style="superscript">o</hi> 1269 eingeleget
             </ab>

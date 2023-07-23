@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -75,16 +75,16 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_168" n="168" xml:id="img_0168"/>
+            <pb facs="#facs_168" n="168" xml:id="img_0168" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0222.jpg"/>
             
             <ab facs="#facs_168_r1">
                <lb facs="#facs_168_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
-               <lb facs="#facs_168_r1l2" n="N002"/>In obigen Anbringen de ps: 13<hi style="superscript">ten</hi> Junii 735 N<hi style="superscript">o</hi> 1033 hat sich der <rs type="person" ref="wkfm__43918">Praestinari</rs>
-               <lb facs="#facs_168_r1l3" n="N003"/>geäusseret, daß er mit sinem Schwiger-Vattern <rs type="person" ref="wkfm__3764">Franz Martinelli</rs>
+               <lb facs="#facs_168_r1l2" n="N002"/>In obigen Anbringen de ps: 13<hi style="superscript">ten</hi> Junii 735 N<hi style="superscript">o</hi> 1033 hat sich der <rs type="person" ref="#wkfm__43918">Praestinari</rs>
+               <lb facs="#facs_168_r1l3" n="N003"/>geäusseret, daß er mit sinem Schwiger-Vattern <rs type="person" ref="#wkfm__3764">Franz Martinelli</rs>
                <lb facs="#facs_168_r1l4" n="N004"/>unter wessen Nahmen die Handlung allein gehet einigermaßen
-               <lb facs="#facs_168_r1l5" n="N005"/>interessiret seye, anbey die von ihm und obigen <rs type="person" ref="wkfm__3764">Martinelli</rs> gefertigte
+               <lb facs="#facs_168_r1l5" n="N005"/>interessiret seye, anbey die von ihm und obigen <rs type="person" ref="#wkfm__3764">Martinelli</rs> gefertigte
                <lb facs="#facs_168_r1l6" n="N006"/>und untern 10<hi style="superscript">ten</hi> Junii 735 dahin ausgestelte Erklährung N<hi style="superscript">o</hi> 1032 daß
-               <lb facs="#facs_168_r1l7" n="N007"/>der <rs type="person" ref="wkfm__3764">Martinelli</rs> dem <rs type="person" ref="wkfm__43918">Prestinari</rs> die Firma und Administration seiner
+               <lb facs="#facs_168_r1l7" n="N007"/>der <rs type="person" ref="#wkfm__3764">Martinelli</rs> dem <rs type="person" ref="#wkfm__43918">Prestinari</rs> die Firma und Administration seiner
                <lb facs="#facs_168_r1l8" n="N008"/>Handlung und einen Antheil des Gewüns ertheilet und accordiret habe
                <lb facs="#facs_168_r1l9" n="N009"/>in <choice><expan/><abbr>orig:</abbr></choice> N<hi style="superscript">o</hi> 1032 eingeleget.
                <lb facs="#facs_168_r1l10" n="N010"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>

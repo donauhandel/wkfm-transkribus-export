@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -94,37 +94,37 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_187" n="187" xml:id="img_0187"/>
+            <pb facs="#facs_187" n="187" xml:id="img_0187" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1645.jpg"/>
             
             <ab facs="#facs_187_r2">
                <lb facs="#facs_187_r2l2" n="N001"/><hi>797</hi>
                <lb facs="#facs_187_r2l3" n="N002"/>815
                <lb facs="#facs_187_r2l1" n="N003"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_187_r2l4" n="N004"/><rs type="person" ref="wkfm__47546">Stofferin Franz Ludwig</rs> burgerlicher Handlsmann
+               <lb facs="#facs_187_r2l4" n="N004"/><rs type="person" ref="#wkfm__47546">Stofferin Franz Ludwig</rs> burgerlicher Handlsmann
                <lb facs="#facs_187_r2l5" n="N005"/>Firma ad Raggion
-               <lb facs="#facs_187_r2l6" n="N006"/><rs type="person" ref="wkfm__47547">Franz Ludwig Stofferin</rs> laut Erklährung dd<hi style="superscript">to</hi> 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 743 N<hi style="superscript">o</hi> 758
+               <lb facs="#facs_187_r2l6" n="N006"/><rs type="person" ref="#wkfm__47547">Franz Ludwig Stofferin</rs> laut Erklährung dd<hi style="superscript">to</hi> 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 743 N<hi style="superscript">o</hi> 758
                <lb facs="#facs_187_r2l7" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_187_r2l8" n="N008"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_187_r2l9" n="N009"/>Vermög Anbringen de ps: 11<hi style="superscript">ten</hi> April 771 <hi>Hat die Helena <unclear>Stoffrinin</unclear></hi>
-               <lb facs="#facs_187_r2l10" n="N010"/>hat die <rs type="person" ref="wkfm__47549">Helena Stofferin</rs> mittels Beylegung des ausgeschriebenen
-               <lb facs="#facs_187_r2l11" n="N011"/>oblatoij angezeiget, das ihr Ehewirth <rs type="person" ref="wkfm__47546">Franz Ludwig Stofferin</rs>
+               <lb facs="#facs_187_r2l10" n="N010"/>hat die <rs type="person" ref="#wkfm__47549">Helena Stofferin</rs> mittels Beylegung des ausgeschriebenen
+               <lb facs="#facs_187_r2l11" n="N011"/>oblatoij angezeiget, das ihr Ehewirth <rs type="person" ref="#wkfm__47546">Franz Ludwig Stofferin</rs>
                <lb facs="#facs_187_r2l12" n="N012"/>verstorben seye, und sie die Handlung unter alten Raggion
-               <lb facs="#facs_187_r2l13" n="N013"/><rs type="person" ref="wkfm__47341">Joseph Peisser</rs> wovon die firma dem <hi>Josef</hi> in dem gedachten oblatorio
-               <lb facs="#facs_187_r2l15" n="N014"/>unterzeichnetem <rs type="person" ref="wkfm__47548">Joseph Anton Gluderer</rs> anvertrauet, fortführen werde.
+               <lb facs="#facs_187_r2l13" n="N013"/><rs type="person" ref="#wkfm__47341">Joseph Peisser</rs> wovon die firma dem <hi>Josef</hi> in dem gedachten oblatorio
+               <lb facs="#facs_187_r2l15" n="N014"/>unterzeichnetem <rs type="person" ref="#wkfm__47548">Joseph Anton Gluderer</rs> anvertrauet, fortführen werde.
                <lb facs="#facs_187_r2l16" n="N015"/>Diese Anzeige samt oblatorio ist bey der Stofferschen firma sub
                <lb facs="#facs_187_r2l17" n="N016"/><choice><expan/><abbr>nro:</abbr></choice> 758 1/2 aufbehalten.
                <lb facs="#facs_187_r2l18" n="N017"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_187_r2l19" n="N018"/>Der <rs type="person" ref="wkfm__47546">Stofferin</rs> hat seinen Fundum folgender maßen ausgewisen
-               <lb facs="#facs_187_r2l20" n="N019"/>nemlich das er bey seinem Compagnon <rs type="person" ref="wkfm__4646">Joseph Peisser</rs> in die Handlung
+               <lb facs="#facs_187_r2l19" n="N018"/>Der <rs type="person" ref="#wkfm__47546">Stofferin</rs> hat seinen Fundum folgender maßen ausgewisen
+               <lb facs="#facs_187_r2l20" n="N019"/>nemlich das er bey seinem Compagnon <rs type="person" ref="#wkfm__4646">Joseph Peisser</rs> in die Handlung
                <lb facs="#facs_187_r2l21" n="N020"/>baar eingeleget habe 4000 fl
-               <lb facs="#facs_187_r2l23" n="N021"/>Zu Completirung des übrigen hat neben dieses <rs type="person" ref="wkfm__4646">Peißer</rs> 
+               <lb facs="#facs_187_r2l23" n="N021"/>Zu Completirung des übrigen hat neben dieses <rs type="person" ref="#wkfm__4646">Peißer</rs> 
                <lb facs="#facs_187_r2l24" n="N022"/>ein <choice><expan/><abbr><hi>orig:</hi></abbr></choice> Cautions Instrument eingeleget <choice><expan/><abbr>pr</abbr></choice> 4000 fl
                <lb facs="#facs_187_r2l26" n="N023"/><choice><expan/><abbr>Sa</abbr></choice> 8000 fl
-               <lb facs="#facs_187_r2l27" n="N024"/>Über die von dem <rs type="person" ref="wkfm__4646">Joseph Peißer</rs> untern 12<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 746 ausgestelte
-               <lb facs="#facs_187_r2l28" n="N025"/>Erklährung N<hi style="superscript">o</hi> 1729 in <choice><expan/><abbr>orig:</abbr></choice> daß der <rs type="person" ref="wkfm__47546">Stofferin</rs> alß sein Compagnon
+               <lb facs="#facs_187_r2l27" n="N024"/>Über die von dem <rs type="person" ref="#wkfm__4646">Joseph Peißer</rs> untern 12<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 746 ausgestelte
+               <lb facs="#facs_187_r2l28" n="N025"/>Erklährung N<hi style="superscript">o</hi> 1729 in <choice><expan/><abbr>orig:</abbr></choice> daß der <rs type="person" ref="#wkfm__47546">Stofferin</rs> alß sein Compagnon
                <lb facs="#facs_187_r2l29" n="N026"/>über die in die Handlung eingelegte 4000 fl andere 4000 fl <unclear>er</unclear>wor-
                <lb facs="#facs_187_r2l31" n="N027"/>ben habe ist zufolge Auflag dd<hi style="superscript">to</hi> 28<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> d. a. und Quittung dd<hi style="superscript">to</hi> 15<hi style="superscript">ten</hi>
-               <lb facs="#facs_187_r2l32" n="N028"/><choice><expan/><abbr>Xbr:</abbr></choice> d. a. N<hi style="superscript">o</hi> 1728 dem <rs type="person" ref="wkfm__4646">Peißer</rs> obiges von ihm eingelegtes Cautions Instrument
+               <lb facs="#facs_187_r2l32" n="N028"/><choice><expan/><abbr>Xbr:</abbr></choice> d. a. N<hi style="superscript">o</hi> 1728 dem <rs type="person" ref="#wkfm__4646">Peißer</rs> obiges von ihm eingelegtes Cautions Instrument
                <lb facs="#facs_187_r2l33" n="N029"/>extradiret worden.
             </ab>
             

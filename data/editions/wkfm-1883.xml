@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -74,16 +74,16 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_29" n="29" xml:id="img_0029"/>
+            <pb facs="#facs_29" n="29" xml:id="img_0029" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1883.jpg"/>
             
             <ab facs="#facs_29_r1">
                <lb facs="#facs_29_r1l3" n="N001"/>934
                <lb facs="#facs_29_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_29_r1l4" n="N003"/><rs type="person" ref="wkfm__18522">Spitz Abraham</rs> Jud
+               <lb facs="#facs_29_r1l4" n="N003"/><rs type="person" ref="#wkfm__18522">Spitz Abraham</rs> Jud
                <lb facs="#facs_29_r1l5" n="N004"/>Firma ad Raggion
                <lb facs="#facs_29_r1l6" n="N005"/>Die Firma ist in Hebreischer Sprach mit beygetrukten Petschafft mitls
                <lb facs="#facs_29_r1l7" n="N006"/>Anbringen de ps: 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 863 mit der Erinnerung eingeleget worden
-               <lb facs="#facs_29_r1l8" n="N007"/>das weil er <rs type="person" ref="wkfm__18522">Spitz</rs> des deutsch Schreibens unkündig er sein Petschaft beyzutruken pflege.
+               <lb facs="#facs_29_r1l8" n="N007"/>das weil er <rs type="person" ref="#wkfm__18522">Spitz</rs> des deutsch Schreibens unkündig er sein Petschaft beyzutruken pflege.
                <lb facs="#facs_29_r1l9" n="N008"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_29_r1l10" n="N009"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_29_r1l11" n="N010"/><seg type="orighead__fundi">Fundi Ausweisung</seg>

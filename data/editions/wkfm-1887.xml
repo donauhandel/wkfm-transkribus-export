@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -79,22 +79,22 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_33" n="33" xml:id="img_0033"/>
+            <pb facs="#facs_33" n="33" xml:id="img_0033" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1887.jpg"/>
             
             <ab facs="#facs_33_r1">
                <lb facs="#facs_33_r1l2" n="N001"/>936
                <lb facs="#facs_33_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_33_r1l3" n="N003"/><rs type="person" ref="wkfm__25401, 38514">Simon Samuel </rs>Jud
+               <lb facs="#facs_33_r1l3" n="N003"/><rs type="person" ref="#wkfm__25401, 38514">Simon Samuel </rs>Jud
                <lb facs="#facs_33_r1l4" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_33_r1l5" n="N005"/><rs type="person" ref="wkfm__25401, 38514">Samuel Simon</rs> laut Procura dd<hi style="superscript">to</hi> 7<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 726 N<hi style="superscript">o</hi> 1068
+               <lb facs="#facs_33_r1l5" n="N005"/><rs type="person" ref="#wkfm__25401, 38514">Samuel Simon</rs> laut Procura dd<hi style="superscript">to</hi> 7<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 726 N<hi style="superscript">o</hi> 1068
                <lb facs="#facs_33_r1l6" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
-               <lb facs="#facs_33_r1l7" n="N007"/>Mitls Anbringen de ps: 28<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 726 N<hi style="superscript">o</hi> 1069 hat die <rs type="person" ref="wkfm__43829">Fratchia Simonin</rs> des <rs type="person" ref="wkfm__25401, 38514">Samuel
+               <lb facs="#facs_33_r1l7" n="N007"/>Mitls Anbringen de ps: 28<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 726 N<hi style="superscript">o</hi> 1069 hat die <rs type="person" ref="#wkfm__43829">Fratchia Simonin</rs> des <rs type="person" ref="#wkfm__25401, 38514">Samuel
                <lb break="no" facs="#facs_33_r1l8" n="N008"/>Simon</rs> Ehewirthin die ihr von gedacht ihren Ehewirthen wehrend <hi>ihrer</hi> seiner Ab=
                <lb facs="#facs_33_r1l9" n="N009"/>wesenheit unterm 7<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 726 ertheilte <choice><expan/><abbr>orig.</abbr></choice> Procura mit von ihr beygerukter
                <lb facs="#facs_33_r1l10" n="N010"/>Firma N<hi style="superscript">o</hi> 1068 eingeleget.
-               <lb facs="#facs_33_r1l11" n="N011"/>Mitls Anbringen de ps: 25<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 746 N<hi style="superscript">o</hi> 1074 hat der <rs type="person" ref="wkfm__25401, 38514">Samuel Simon</rs> angezeiget
+               <lb facs="#facs_33_r1l11" n="N011"/>Mitls Anbringen de ps: 25<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 746 N<hi style="superscript">o</hi> 1074 hat der <rs type="person" ref="#wkfm__25401, 38514">Samuel Simon</rs> angezeiget
                <lb facs="#facs_33_r1l12" n="N012"/>daß er auf 8 Tag zu verreisen gesinnet, und wehrender Zeit die Firma seinem
-               <lb facs="#facs_33_r1l13" n="N013"/>Sohn <rs type="person" ref="wkfm__43828">Simon Samuel</rs> ubergeben habe.
+               <lb facs="#facs_33_r1l13" n="N013"/>Sohn <rs type="person" ref="#wkfm__43828">Simon Samuel</rs> ubergeben habe.
                <lb facs="#facs_33_r1l14" n="N014"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_33_r1l15" n="N015"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
             </ab>

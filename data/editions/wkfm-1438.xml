@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -91,29 +91,29 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_86" n="86" xml:id="img_0086"/>
+            <pb facs="#facs_86" n="86" xml:id="img_0086" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1438.jpg"/>
             
             <ab facs="#facs_86_r1">
                <lb facs="#facs_86_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
-               <lb facs="#facs_86_r1l2" n="N002"/>Mitls Anbringen de ps: 18<hi style="superscript">ten</hi> May 747 N<hi style="superscript">o</hi> 2038 hat der <rs type="person" ref="wkfm__43802">Johann Baptista Ruard</rs> den mit
-               <lb facs="#facs_86_r1l3" n="N003"/>seinem bruder <rs type="person" ref="wkfm__46754">Valentin Ruard</rs> untern 4<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 746 errichteten <choice><expan/><abbr>orig:</abbr></choice> societaets contract
+               <lb facs="#facs_86_r1l2" n="N002"/>Mitls Anbringen de ps: 18<hi style="superscript">ten</hi> May 747 N<hi style="superscript">o</hi> 2038 hat der <rs type="person" ref="#wkfm__43802">Johann Baptista Ruard</rs> den mit
+               <lb facs="#facs_86_r1l3" n="N003"/>seinem bruder <rs type="person" ref="#wkfm__46754">Valentin Ruard</rs> untern 4<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 746 errichteten <choice><expan/><abbr>orig:</abbr></choice> societaets contract
                <lb facs="#facs_86_r1l4" n="N004"/>N<hi style="superscript">o</hi> 2037 eingeleget, kraft welchen die societaet von 1<hi style="superscript">ten</hi> auf 6 Jahr <hi>stab</hi> dergestalten sta-
                <lb facs="#facs_86_r1l5" n="N005"/>biliret worden, daß hievon ohne Erhüblichen Ursachen oder beeder Einwilligung hievon
                <lb facs="#facs_86_r1l6" n="N006"/>nicht abgegangen <hi>werden,</hi> und Ein Jahr vor Endigung dieser Zeit die Unterredung
-               <lb facs="#facs_86_r1l7" n="N007"/>gepflogen werden, <hi>so</hi> die Raggion <rs type="person" ref="wkfm__43988">Gebrüder Ruard</rs> seyn, und der <rs type="person" ref="wkfm__46754">Valentin</rs> dem <rs type="person" ref="wkfm__43802">Johann
+               <lb facs="#facs_86_r1l7" n="N007"/>gepflogen werden, <hi>so</hi> die Raggion <rs type="person" ref="#wkfm__43988">Gebrüder Ruard</rs> seyn, und der <rs type="person" ref="#wkfm__46754">Valentin</rs> dem <rs type="person" ref="#wkfm__43802">Johann
                <lb break="no" facs="#facs_86_r1l8" n="N008"/>Baptista</rs> seinen in 37000 fl bestehenden Fundum dermassen <unclear>aquasciren,</unclear> das jedoch
-               <lb facs="#facs_86_r1l9" n="N009"/>der Verlust bey denen debitorum ihm <rs type="person" ref="wkfm__43802">Johann Baptista</rs> allein notiret werden, und er
-               <lb facs="#facs_86_r1l10" n="N010"/><rs type="person" ref="wkfm__46754">Valentin</rs> <hi>die Mark</hi> daselber keine Einlag leistet, die Märkte und Reisen ver-
+               <lb facs="#facs_86_r1l9" n="N009"/>der Verlust bey denen debitorum ihm <rs type="person" ref="#wkfm__43802">Johann Baptista</rs> allein notiret werden, und er
+               <lb facs="#facs_86_r1l10" n="N010"/><rs type="person" ref="#wkfm__46754">Valentin</rs> <hi>die Mark</hi> daselber keine Einlag leistet, die Märkte und Reisen ver-
                <lb facs="#facs_86_r1l11" n="N011"/>richten und <unclear>hiergegen</unclear> Ein Viertl Gewün <hi>zul</hi> wovon der Verlust zu repartiren,
-               <lb facs="#facs_86_r1l12" n="N012"/>zühen, die differenzen durch Schidsmänner ausgeglichen, die Erben der <rs type="person" ref="wkfm__43802">Johann Baptista</rs>
+               <lb facs="#facs_86_r1l12" n="N012"/>zühen, die differenzen durch Schidsmänner ausgeglichen, die Erben der <rs type="person" ref="#wkfm__43802">Johann Baptista</rs>
                <lb facs="#facs_86_r1l13" n="N013"/>in ihres Erlassers Recht eintretten und zu continuiren schuldig <hi>des Va</hi> jener des
-               <lb facs="#facs_86_r1l14" n="N014"/><rs type="person" ref="wkfm__46754">Valentin</rs> aber hinausgezahlet werden sollen.
-               <lb facs="#facs_86_r1l15" n="N015"/>Diese Societaet hat sich Anno 758 geendet und führet der <rs type="person" ref="wkfm__46754">Valentin
+               <lb facs="#facs_86_r1l14" n="N014"/><rs type="person" ref="#wkfm__46754">Valentin</rs> aber hinausgezahlet werden sollen.
+               <lb facs="#facs_86_r1l15" n="N015"/>Diese Societaet hat sich Anno 758 geendet und führet der <rs type="person" ref="#wkfm__46754">Valentin
                <lb break="no" facs="#facs_86_r1l16" n="N016"/>Ruard</rs> nunmehro das Negotium auf seinen aigenen Nahmen und obligo, caetera
-               <lb facs="#facs_86_r1l17" n="N017"/>vide <rs type="person" ref="wkfm__46754">Valentin Ruard</rs> in Protocollo Secundo
+               <lb facs="#facs_86_r1l17" n="N017"/>vide <rs type="person" ref="#wkfm__46754">Valentin Ruard</rs> in Protocollo Secundo
                <lb facs="#facs_86_r1l18" n="N018"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
-               <lb facs="#facs_86_r1l19" n="N019"/>Mitls Anbringen des ps: 9<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 744 N<hi style="superscript">o</hi> 2212 hat der<rs type="person" ref="wkfm__43802"> Johann Baptista
-               <lb break="no" facs="#facs_86_r1l20" n="N020"/>Ruard</rs> den mit der <rs type="person" ref="wkfm__46755">Maria Anna Orsetin</rs> untern 11<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 742 geschlossenen
+               <lb facs="#facs_86_r1l19" n="N019"/>Mitls Anbringen des ps: 9<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 744 N<hi style="superscript">o</hi> 2212 hat der<rs type="person" ref="#wkfm__43802"> Johann Baptista
+               <lb break="no" facs="#facs_86_r1l20" n="N020"/>Ruard</rs> den mit der <rs type="person" ref="#wkfm__46755">Maria Anna Orsetin</rs> untern 11<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 742 geschlossenen
                <lb facs="#facs_86_r1l21" n="N021"/><seg type="orighead__wedding_contract">Heuraths Contract</seg> N<hi style="superscript">o</hi> 2211 in Copia vidimata eingeleget kraft welchen 500 fl
                <lb facs="#facs_86_r1l22" n="N022"/>Heurath gutt nebst 1000 fl Widerlag <hi>auf überleben</hi> wie auch die samentliche Haus Ein-
                <lb facs="#facs_86_r1l23" n="N023"/>richtung auf Überleben, dann daß der Braut falß der Bräutigam vor ihr ver-

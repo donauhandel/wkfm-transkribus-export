@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -81,12 +81,12 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_217" n="217" xml:id="img_0217"/>
+            <pb facs="#facs_217" n="217" xml:id="img_0217" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1675.jpg"/>
             
             <ab facs="#facs_217_r3">
                <lb facs="#facs_217_line_1626767994378_322" n="N001"/>830
                <lb facs="#facs_217_r3l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_217_r3l2" n="N003"/><rs type="person" ref="wkfm__47580">Setti Franz</rs> burgerlicher Handlsmann
+               <lb facs="#facs_217_r3l2" n="N003"/><rs type="person" ref="#wkfm__47580">Setti Franz</rs> burgerlicher Handlsmann
                <lb facs="#facs_217_r3l3" n="N004"/>Firma ad Raggion
                <lb facs="#facs_217_r3l4" n="N005"/>firma <choice><expan/><abbr>Ao</abbr></choice> 768 eingeleget: <choice><expan/><abbr>nro:</abbr></choice> 795
                <lb facs="#facs_217_r3l5" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
@@ -97,7 +97,7 @@
                <lb facs="#facs_217_r3l11" n="N011"/><hi>No</hi> § Neuntens N<hi style="superscript">o</hi> 1747 an Mütterlichen Erbgutt 6000 fl
                <lb facs="#facs_217_r3l13" n="N012"/>an abgeworffenen Gewün von seiner Handlung in Triest 2000 fl
                <lb facs="#facs_217_r3l14" n="N013"/><choice><expan/><abbr>Sa</abbr></choice> 8000 fl
-               <lb facs="#facs_217_r3l15" n="N014"/>Anbey hat dessen Vatter <rs type="person" ref="wkfm__8802">Lucas Joseph Setti</rs> das <choice><expan/><abbr>orig:</abbr></choice> respective
+               <lb facs="#facs_217_r3l15" n="N014"/>Anbey hat dessen Vatter <rs type="person" ref="#wkfm__8802">Lucas Joseph Setti</rs> das <choice><expan/><abbr>orig:</abbr></choice> respective
                <lb facs="#facs_217_r3l16" n="N015"/>attestatum und Cautions Instrument dd<hi style="superscript">to</hi> 22<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 752 N<hi style="superscript">o</hi> 1748 in 
                <lb facs="#facs_217_r3l17" n="N016"/><choice><expan/><abbr>orig:</abbr></choice> dahin eingeleget das <hi>sein Sohn</hi> gedacht sein Sohn 8000 fl eigen-
                <lb facs="#facs_217_r3l18" n="N017"/>thumlich besize und er für solche 8000 fl <unclear>casire</unclear>

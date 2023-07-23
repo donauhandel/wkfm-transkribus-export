@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -72,13 +72,13 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_200" n="200" xml:id="img_0200"/>
+            <pb facs="#facs_200" n="200" xml:id="img_0200" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0254.jpg"/>
             
             <ab facs="#facs_200_r1">
                <lb facs="#facs_200_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
-               <lb facs="#facs_200_r1l2" n="N002"/>Der <rs type="person" ref="wkfm__43950">Paul Anton Baciler</rs> und <rs type="person" ref="wkfm__43953">Christian Pichler</rs> haben diese socitaets firma
-               <lb facs="#facs_200_r1l3" n="N003"/><rs type="person" ref="wkfm__43951">Baciler und Pichler</rs> als ihre gemeinsame Firma mitls anbringen de ps:
-               <lb facs="#facs_200_r1l4" n="N004"/>10<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 738 N<hi style="superscript">o</hi> 123 eingeleget, wie auch die Handlung von dem <rs type="person" ref="wkfm__12722">Philipp
+               <lb facs="#facs_200_r1l2" n="N002"/>Der <rs type="person" ref="#wkfm__43950">Paul Anton Baciler</rs> und <rs type="person" ref="#wkfm__43953">Christian Pichler</rs> haben diese socitaets firma
+               <lb facs="#facs_200_r1l3" n="N003"/><rs type="person" ref="#wkfm__43951">Baciler und Pichler</rs> als ihre gemeinsame Firma mitls anbringen de ps:
+               <lb facs="#facs_200_r1l4" n="N004"/>10<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 738 N<hi style="superscript">o</hi> 123 eingeleget, wie auch die Handlung von dem <rs type="person" ref="#wkfm__12722">Philipp
                <lb break="no" facs="#facs_200_r1l5" n="N005"/>Scheigl</rs> laut Kauf Contract dd<hi style="superscript">to</hi> 9<hi style="superscript">ten</hi> <choice><expan/><abbr>Jul:</abbr></choice> 737 N<hi style="superscript">o</hi> 1185 mit einander er-
                <lb facs="#facs_200_r1l6" n="N006"/>kaufet.
                <lb facs="#facs_200_r1l7" n="N007"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>

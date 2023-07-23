@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -83,20 +83,20 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_99" n="99" xml:id="img_0099"/>
+            <pb facs="#facs_99" n="99" xml:id="img_0099" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1805.jpg"/>
             
             <ab facs="#facs_99_r2">
                <lb facs="#facs_99_line_1626245074775_110" n="N001"/>895
                <lb facs="#facs_99_r2l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_99_r2l2" n="N003"/><rs type="person" ref="wkfm__47027">Wurschbaur Johann Jacob</rs> burgerlicher Handlsmann
+               <lb facs="#facs_99_r2l2" n="N003"/><rs type="person" ref="#wkfm__47027">Wurschbaur Johann Jacob</rs> burgerlicher Handlsmann
                <lb facs="#facs_99_r2l5" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_99_r2l6" n="N005"/><rs type="person" ref="wkfm__47028">Johann Jacob Wurschbaur</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 833
-               <lb facs="#facs_99_r2l7" n="N006"/>vermög Anbringen de ps: 21<hi style="superscript">ten</hi> Aprilis 760 hat des <rs type="person" ref="wkfm__47029">Johann Jacob Wurschbaur
+               <lb facs="#facs_99_r2l6" n="N005"/><rs type="person" ref="#wkfm__47028">Johann Jacob Wurschbaur</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 833
+               <lb facs="#facs_99_r2l7" n="N006"/>vermög Anbringen de ps: 21<hi style="superscript">ten</hi> Aprilis 760 hat des <rs type="person" ref="#wkfm__47029">Johann Jacob Wurschbaur
                <lb break="no" facs="#facs_99_r2l8" n="N007"/><choice><expan/><abbr>seel:</abbr></choice> Wittib</rs> ihre firma eingelegt, <choice><expan/><abbr>nro:</abbr></choice> 833 1/2
                <lb facs="#facs_99_r2l9" n="N008"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_99_r2l11" n="N009"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_99_r2l12" n="N010"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_99_r2l13" n="N011"/>Der <rs type="person" ref="wkfm__47027">Wurschbaur</rs> hat seinen Fundum mitls der von ihm untern 22<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice>
+               <lb facs="#facs_99_r2l13" n="N011"/>Der <rs type="person" ref="#wkfm__47027">Wurschbaur</rs> hat seinen Fundum mitls der von ihm untern 22<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice>
                <lb facs="#facs_99_r2l15" n="N012"/>744 beeydigten Specification N<hi style="superscript">o</hi> 1808 folgendermaßen ausgewisen nemlich
                <lb facs="#facs_99_r2l16" n="N013"/>das er eigenthumlich besize
                <lb facs="#facs_99_r2l19" n="N014"/>an baaren geld 1600 fl

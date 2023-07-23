@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -72,14 +72,14 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_125" n="125" xml:id="img_0125"/>
+            <pb facs="#facs_125" n="125" xml:id="img_0125" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0178.jpg"/>
             
             <ab facs="#facs_125_r1">
                <lb facs="#facs_125_r1l2" n="N001"/>87
                <lb facs="#facs_125_line_1621465228741_1991" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_125_r1l3" n="N003"/><rs type="person" ref="wkfm__8423">Bidermann Matthias</rs> burgerlicher Handlsmann
+               <lb facs="#facs_125_r1l3" n="N003"/><rs type="person" ref="#wkfm__8423">Bidermann Matthias</rs> burgerlicher Handlsmann
                <lb facs="#facs_125_r1l4" n="N004"/>Firma oder Raggion
-               <lb facs="#facs_125_r1l5" n="N005"/><rs type="person" ref="wkfm__47332">Matthias Bidermann</rs> laut Erklährung dd<hi style="superscript">to</hi> 2<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 727 N<hi style="superscript">o</hi> 82
+               <lb facs="#facs_125_r1l5" n="N005"/><rs type="person" ref="#wkfm__47332">Matthias Bidermann</rs> laut Erklährung dd<hi style="superscript">to</hi> 2<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 727 N<hi style="superscript">o</hi> 82
                <lb facs="#facs_125_r1l6" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_125_r1l7" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_125_r1l8" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>

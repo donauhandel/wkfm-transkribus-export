@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -85,27 +85,27 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_109" n="109" xml:id="img_0109"/>
+            <pb facs="#facs_109" n="109" xml:id="img_0109" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1815.jpg"/>
             
             <ab facs="#facs_109_r2">
                <lb facs="#facs_109_line_1626245183802_161" n="N001"/>900
                <lb facs="#facs_109_r2l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_109_r2l2" n="N003"/><rs type="person" ref="wkfm__47037">Weidinger Bernhard</rs> burgerlicher Handlsmann
+               <lb facs="#facs_109_r2l2" n="N003"/><rs type="person" ref="#wkfm__47037">Weidinger Bernhard</rs> burgerlicher Handlsmann
                <lb facs="#facs_109_r2l3" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_109_r2l5" n="N005"/><rs type="person" ref="wkfm__47038">Bernhard Weidinger</rs> laut Erklährung dd<hi style="superscript">to</hi> 8<hi style="superscript">ten</hi> May 747 N<hi style="superscript">o</hi> 837
+               <lb facs="#facs_109_r2l5" n="N005"/><rs type="person" ref="#wkfm__47038">Bernhard Weidinger</rs> laut Erklährung dd<hi style="superscript">to</hi> 8<hi style="superscript">ten</hi> May 747 N<hi style="superscript">o</hi> 837
                <lb facs="#facs_109_r2l6" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_109_r2l7" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_109_r2l8" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_109_r2l9" n="N009"/>Der <rs type="person" ref="wkfm__47037">Weidinger</rs> hat seinen Fundum mitls der Specification N<hi style="superscript">o</hi> 1814 folgender
+               <lb facs="#facs_109_r2l9" n="N009"/>Der <rs type="person" ref="#wkfm__47037">Weidinger</rs> hat seinen Fundum mitls der Specification N<hi style="superscript">o</hi> 1814 folgender
                <lb facs="#facs_109_r2l10" n="N010"/>maßen ausgewisen, nemlich das er Eigenthumlich besize an Vätterlichen Erbgutt
-               <lb facs="#facs_109_r2l11" n="N011"/>Vermög vidimirten Extract aus seines Vatters <rs type="person" ref="wkfm__10599">Simon Weidinger</rs> untern 14<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice>
+               <lb facs="#facs_109_r2l11" n="N011"/>Vermög vidimirten Extract aus seines Vatters <rs type="person" ref="#wkfm__10599">Simon Weidinger</rs> untern 14<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice>
                <lb facs="#facs_109_r2l12" n="N012"/><unclear>721</unclear> errichteten testament <hi>vor</hi> N<hi style="superscript">o</hi> 1815 kraft welchen derselbe seinen 4 Kindern zusamen
                <lb facs="#facs_109_r2l13" n="N013"/>10000 fl verschaffet 2500 fl
-               <lb facs="#facs_109_r2l15" n="N014"/><unclear>dann</unclear> einen <hi>legat</hi> von seiner Schwester <rs type="person" ref="wkfm__47040">Theresia Josepha</rs> zugefallne Erbgutt 833 fl
-               <lb facs="#facs_109_r2l16" n="N015"/>dann einen <hi>det</hi> legat von seiner Schwester <rs type="person" ref="wkfm__47041">Maria Anna <unclear>Wisnerin</unclear></rs> laut Schuld
-               <lb facs="#facs_109_r2l17" n="N016"/>Scheun von der <rs type="person" ref="wkfm__47042">Margaretha Pfefferlin</rs> dd<hi style="superscript">to</hi> 26<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 747 N<hi style="superscript">o</hi> 1816 in <choice><expan/><abbr>orig:</abbr></choice> 500 fl
+               <lb facs="#facs_109_r2l15" n="N014"/><unclear>dann</unclear> einen <hi>legat</hi> von seiner Schwester <rs type="person" ref="#wkfm__47040">Theresia Josepha</rs> zugefallne Erbgutt 833 fl
+               <lb facs="#facs_109_r2l16" n="N015"/>dann einen <hi>det</hi> legat von seiner Schwester <rs type="person" ref="#wkfm__47041">Maria Anna <unclear>Wisnerin</unclear></rs> laut Schuld
+               <lb facs="#facs_109_r2l17" n="N016"/>Scheun von der <rs type="person" ref="#wkfm__47042">Margaretha Pfefferlin</rs> dd<hi style="superscript">to</hi> 26<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 747 N<hi style="superscript">o</hi> 1816 in <choice><expan/><abbr>orig:</abbr></choice> 500 fl
                <lb facs="#facs_109_r2l18" n="N017"/>zusamen Eigenthum 3833 fl
-               <lb facs="#facs_109_r2l19" n="N018"/>zu Completirung des übrigen hat die <rs type="person" ref="wkfm__47042">Margaretha Pfefferlin</rs> das
+               <lb facs="#facs_109_r2l19" n="N018"/>zu Completirung des übrigen hat die <rs type="person" ref="#wkfm__47042">Margaretha Pfefferlin</rs> das
                <lb facs="#facs_109_r2l23" n="N019"/><choice><expan/><abbr>orig:</abbr></choice> <seg type="editorial_comment_seg">Cortiorirte<note type="editorial_comment_note">wahrscheinlich Certiorirte</note></seg> Cautions Instrument dd<hi style="superscript">to</hi> 26<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 747 N<hi style="superscript">o</hi> 1417 eingeleget <choice><expan/><abbr>pr</abbr></choice> 4167 fl
                <lb facs="#facs_109_r2l24" n="N020"/><choice><expan/><abbr>Sa</abbr></choice> 8000 fl
             </ab>

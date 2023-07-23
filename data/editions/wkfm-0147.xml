@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -75,14 +75,14 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_94" n="94" xml:id="img_0094"/>
+            <pb facs="#facs_94" n="94" xml:id="img_0094" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0147.jpg"/>
             
             <ab facs="#facs_94_r1">
                <lb facs="#facs_94_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_94_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> Apr: 725 N<hi style="superscript">o</hi> 65 hat sich der
-               <lb facs="#facs_94_r1l3" n="N003"/><rs type="person" ref="wkfm__9952">Preyßl</rs> geäusseret, daß er seine Handlung allein führe
+               <lb facs="#facs_94_r1l3" n="N003"/><rs type="person" ref="#wkfm__9952">Preyßl</rs> geäusseret, daß er seine Handlung allein führe
                <lb facs="#facs_94_r1l4" n="N004"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
-               <lb facs="#facs_94_r1l5" n="N005"/>Mitls Anbringen de ps: 13<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 744 N<hi style="superscript">o</hi> 2104 hat der <rs type="person" ref="wkfm__9952">Preyßl</rs> den mit der <rs type="person" ref="wkfm__43882">Anna Catha
+               <lb facs="#facs_94_r1l5" n="N005"/>Mitls Anbringen de ps: 13<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 744 N<hi style="superscript">o</hi> 2104 hat der <rs type="person" ref="#wkfm__9952">Preyßl</rs> den mit der <rs type="person" ref="#wkfm__43882">Anna Catha
                <lb break="no" facs="#facs_94_r1l6" n="N006"/>rina Mänzin</rs> untern 17<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 743 errichteten Heurathscontract N<hi style="superscript">o</hi> 2103 <hi><unclear>errichteten</unclear></hi>
                <lb facs="#facs_94_r1l7" n="N007"/>Copia vidimata eingeleget, krafft welchen 1000 fl Heurathsgutt nebst 2000 fl Wider
                <lb facs="#facs_94_r1l8" n="N008"/>lag dergestalten auf überleben, das der Brautt jedoch von beeden auch durch leztwilliger

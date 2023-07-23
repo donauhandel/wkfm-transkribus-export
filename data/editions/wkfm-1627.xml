@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -84,26 +84,26 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_169" n="169" xml:id="img_0169"/>
+            <pb facs="#facs_169" n="169" xml:id="img_0169" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1627.jpg"/>
             
             <ab facs="#facs_169_r1">
                <lb facs="#facs_169_line_1626262936635_2127" n="N001"/><hi>788</hi>
                <lb facs="#facs_169_line_1626262940785_2130" n="N002"/>806
                <lb facs="#facs_169_r1l1" n="N003"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_169_r1l3" n="N004"/><rs type="person" ref="wkfm__47525">Scatti Pietro Francesco</rs> burgerlicher ScHandlsmann
+               <lb facs="#facs_169_r1l3" n="N004"/><rs type="person" ref="#wkfm__47525">Scatti Pietro Francesco</rs> burgerlicher ScHandlsmann
                <lb facs="#facs_169_r1l4" n="N005"/>Firma ad Raggion
-               <lb facs="#facs_169_r1l5" n="N006"/><rs type="person" ref="wkfm__47526">Pietro Francesco Scotti</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 744
+               <lb facs="#facs_169_r1l5" n="N006"/><rs type="person" ref="#wkfm__47526">Pietro Francesco Scotti</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 744
                <lb facs="#facs_169_r1l6" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_169_r1l8" n="N008"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_169_r1l9" n="N009"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_169_r1l10" n="N010"/>Der <rs type="person" ref="wkfm__47525">Scatti</rs> hat zu Ausweisung seines Handlungs Fundi die <choice><expan/><abbr>orig:</abbr></choice> Inventur dd<hi style="superscript">to</hi>
+               <lb facs="#facs_169_r1l10" n="N010"/>Der <rs type="person" ref="#wkfm__47525">Scatti</rs> hat zu Ausweisung seines Handlungs Fundi die <choice><expan/><abbr>orig:</abbr></choice> Inventur dd<hi style="superscript">to</hi>
                <lb facs="#facs_169_r1l11" n="N011"/>7<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 738 N<hi style="superscript">o</hi> 1712 eingeleget <hi>pr 4</hi> an Übermaß <choice><expan/><abbr>pr</abbr></choice> 4899 fl 39 wavon ihm
                <lb facs="#facs_169_r1l12" n="N012"/>die Halbscheid Eigenthumlich <choice><expan/><abbr>pr</abbr></choice> 2449 fl 49 1/2 x<hi style="superscript">r</hi>
-               <lb facs="#facs_169_r1l17" n="N013"/>dann einen von seiner Ehewirthin <rs type="person" ref="wkfm__47527">Clara Aloisia</rs> ausgestelten Revers <choice><expan/><abbr>pr</abbr></choice> 2000 fl
+               <lb facs="#facs_169_r1l17" n="N013"/>dann einen von seiner Ehewirthin <rs type="person" ref="#wkfm__47527">Clara Aloisia</rs> ausgestelten Revers <choice><expan/><abbr>pr</abbr></choice> 2000 fl
                <lb facs="#facs_169_r1l19" n="N014"/><choice><expan/><abbr>Sa</abbr></choice> 4449 fl 49 1/2 x<hi style="superscript">r</hi>
-               <lb facs="#facs_169_r1l20" n="N015"/>Über die von erstgedachter <rs type="person" ref="wkfm__47527">Clara Aloisia Scattin <unclear>sohin</unclear> verehligten Wannerin</rs> <hi>ge</hi> dahin
-               <lb facs="#facs_169_r1l21" n="N016"/>gemachte Anzeige, das der <rs type="person" ref="wkfm__47525">Scatti</rs> verstorben, und sie für ihrm dermahligen Ehewir-
-               <lb facs="#facs_169_r1l25" n="N017"/>then <rs type="person" ref="wkfm__47528">Wanner</rs> ein gleichmäßigen revers <choice><expan/><abbr>pr</abbr></choice> 2000 fl eingeleget habe, erlassen
+               <lb facs="#facs_169_r1l20" n="N015"/>Über die von erstgedachter <rs type="person" ref="#wkfm__47527">Clara Aloisia Scattin <unclear>sohin</unclear> verehligten Wannerin</rs> <hi>ge</hi> dahin
+               <lb facs="#facs_169_r1l21" n="N016"/>gemachte Anzeige, das der <rs type="person" ref="#wkfm__47525">Scatti</rs> verstorben, und sie für ihrm dermahligen Ehewir-
+               <lb facs="#facs_169_r1l25" n="N017"/>then <rs type="person" ref="#wkfm__47528">Wanner</rs> ein gleichmäßigen revers <choice><expan/><abbr>pr</abbr></choice> 2000 fl eingeleget habe, erlassen
                <lb facs="#facs_169_r1l27" n="N018"/>Auflag dd<hi style="superscript">to</hi> 12 May 741 und beygerukter Quittung dd<hi style="superscript">to</hi> 15<hi style="superscript">ten</hi> ej: N<hi style="superscript">o</hi> 1713 ist selber obge-
                <lb facs="#facs_169_r1l28" n="N019"/>gedacht von ihn ausgestelten revers <choice><expan/><abbr>pr</abbr></choice> 2000 fl extradiret worden.
             </ab>

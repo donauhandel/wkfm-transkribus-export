@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -73,14 +73,14 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_15" n="15" xml:id="img_0015"/>
+            <pb facs="#facs_15" n="15" xml:id="img_0015" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1199.jpg"/>
             
             <ab facs="#facs_15_r2">
                <lb facs="#facs_15_line_1624962831666_2343" n="N001"/>593
                <lb facs="#facs_15_line_1624962803156_2312" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_15_r2l1" n="N003"/><rs type="person" ref="wkfm__46860">Mobré<hi><unclear>r</unclear></hi> Peter</rs> hofbefreyter Handlsmann
+               <lb facs="#facs_15_r2l1" n="N003"/><rs type="person" ref="#wkfm__46860">Mobré<hi><unclear>r</unclear></hi> Peter</rs> hofbefreyter Handlsmann
                <lb facs="#facs_15_r2l2" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_15_r2l3" n="N005"/><rs type="person" ref="wkfm__46861">Petrus Mobré</rs> laut Anbringen de ps: 26<hi style="superscript">ten <choice><expan/><abbr/></choice></hi><choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 549
+               <lb facs="#facs_15_r2l3" n="N005"/><rs type="person" ref="#wkfm__46861">Petrus Mobré</rs> laut Anbringen de ps: 26<hi style="superscript">ten <choice><expan/><abbr/></choice></hi><choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 549
                <lb facs="#facs_15_line_1624962963495_2422" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_15_r2l4" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_15_r2l5" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>

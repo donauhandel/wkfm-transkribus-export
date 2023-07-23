@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -80,23 +80,23 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_19" n="19" xml:id="img_0019"/>
+            <pb facs="#facs_19" n="19" xml:id="img_0019" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1203.jpg"/>
             
             <ab facs="#facs_19_r1">
                <lb facs="#facs_19_r1l2" n="N001"/>595
                <lb facs="#facs_19_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_19_r1l3" n="N003"/><rs type="person" ref="wkfm__3764">Martinelli Franz</rs> burgerlicher Handlsmann
+               <lb facs="#facs_19_r1l3" n="N003"/><rs type="person" ref="#wkfm__3764">Martinelli Franz</rs> burgerlicher Handlsmann
                <lb facs="#facs_19_r1l4" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_19_r1l6" n="N005"/><rs type="person" ref="wkfm__46863">Frantz Martinelli oder Francesco Martinelli</rs> laut Erklährung dd<hi style="superscript">to</hi>
+               <lb facs="#facs_19_r1l6" n="N005"/><rs type="person" ref="#wkfm__46863">Frantz Martinelli oder Francesco Martinelli</rs> laut Erklährung dd<hi style="superscript">to</hi>
                <lb facs="#facs_19_r1l7" n="N006"/>18<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 550
                <lb facs="#facs_19_r1l8" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
-               <lb facs="#facs_19_r1l9" n="N008"/>Mitls Anbringen de ps: 25<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 726 N<hi style="superscript">o</hi> 1028 hat der <rs type="person" ref="wkfm__3764">Martinelli</rs> die dem <rs type="person" ref="wkfm__43918">Johann <hi>P</hi> Bapt:
+               <lb facs="#facs_19_r1l9" n="N008"/>Mitls Anbringen de ps: 25<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 726 N<hi style="superscript">o</hi> 1028 hat der <rs type="person" ref="#wkfm__3764">Martinelli</rs> die dem <rs type="person" ref="#wkfm__43918">Johann <hi>P</hi> Bapt:
                <lb break="no" facs="#facs_19_r1l10" n="N009"/>Praestinati</rs> untern 22<hi style="superscript">ten</hi> Junii 726 wehrend seiner Abwesenheit ertheilte <choice><expan/><abbr>orig:</abbr></choice> Procura
-               <lb facs="#facs_19_r1l11" n="N010"/>N<hi style="superscript">o</hi> 1027 mit beygerukter Firma des <rs type="person" ref="wkfm__43918">Praestinari</rs> und dem Beysaz, daß solche <hi>wehrend</hi>
+               <lb facs="#facs_19_r1l11" n="N010"/>N<hi style="superscript">o</hi> 1027 mit beygerukter Firma des <rs type="person" ref="#wkfm__43918">Praestinari</rs> und dem Beysaz, daß solche <hi>wehrend</hi>
                <lb facs="#facs_19_r1l12" n="N011"/><hi>seiner</hi> biß zu seiner zurukkunft ihre Kraft haben sollen, eingeleget.
-               <lb facs="#facs_19_r1l13" n="N012"/>Mitls Anbringen de ps: 13<hi style="superscript">ten</hi> Junii 735 N<hi style="superscript">o</hi> 1033 hat der <rs type="person" ref="wkfm__43918">Johann Bapt: Praestinari</rs> die von dem
-               <lb facs="#facs_19_r1l14" n="N013"/><rs type="person" ref="wkfm__3764">Martinelli</rs> untern 10<hi style="superscript">ten</hi> ej: unter anderen auch dahin ausgestelte Erklährung daß er
-               <lb facs="#facs_19_r1l15" n="N014"/>dem <rs type="person" ref="wkfm__43918">Praestinari</rs> die Procura simpliciter ertheilet habe in <choice><expan/><abbr>orig:</abbr></choice> N<hi style="superscript">o</hi> 1032 eingeleget.
+               <lb facs="#facs_19_r1l13" n="N012"/>Mitls Anbringen de ps: 13<hi style="superscript">ten</hi> Junii 735 N<hi style="superscript">o</hi> 1033 hat der <rs type="person" ref="#wkfm__43918">Johann Bapt: Praestinari</rs> die von dem
+               <lb facs="#facs_19_r1l14" n="N013"/><rs type="person" ref="#wkfm__3764">Martinelli</rs> untern 10<hi style="superscript">ten</hi> ej: unter anderen auch dahin ausgestelte Erklährung daß er
+               <lb facs="#facs_19_r1l15" n="N014"/>dem <rs type="person" ref="#wkfm__43918">Praestinari</rs> die Procura simpliciter ertheilet habe in <choice><expan/><abbr>orig:</abbr></choice> N<hi style="superscript">o</hi> 1032 eingeleget.
                <lb facs="#facs_19_r1l16" n="N015"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_19_r1l17" n="N016"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
             </ab>

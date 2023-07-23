@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -78,20 +78,20 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_12" n="12" xml:id="img_0012"/>
+            <pb facs="#facs_12" n="12" xml:id="img_0012" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0017.jpg"/>
             
             <ab facs="#facs_12_r1">
                <lb facs="#facs_12_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
-               <lb facs="#facs_12_r1l2" n="N002"/>In obiger Erklahrung N<hi style="superscript">o</hi> 6 dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 hat sich der <rs type="person" ref="wkfm__8591">Amadej </rs>geäussert
+               <lb facs="#facs_12_r1l2" n="N002"/>In obiger Erklahrung N<hi style="superscript">o</hi> 6 dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 hat sich der <rs type="person" ref="#wkfm__8591">Amadej </rs>geäussert
                <lb facs="#facs_12_r1l3" n="N003"/>das er keinen in noch ausländischen Compagnon habe.
-               <lb facs="#facs_12_r1l4" n="N004"/>Laut Anbringen de ps: 9<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 736 N<hi style="superscript">o</hi> 2049 hat der <rs type="person" ref="wkfm__43783">Melchior Spettel</rs> den
-               <lb facs="#facs_12_r1l5" n="N005"/>mit dem <rs type="person" ref="wkfm__8591">Amdej </rs>untern 12<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 735 abgeschlossenen Societaets Contract
+               <lb facs="#facs_12_r1l4" n="N004"/>Laut Anbringen de ps: 9<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 736 N<hi style="superscript">o</hi> 2049 hat der <rs type="person" ref="#wkfm__43783">Melchior Spettel</rs> den
+               <lb facs="#facs_12_r1l5" n="N005"/>mit dem <rs type="person" ref="#wkfm__8591">Amdej </rs>untern 12<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 735 abgeschlossenen Societaets Contract
                <lb facs="#facs_12_r1l6" n="N006"/>in Copia vidimata N<hi style="superscript">o</hi> 2048 eingeleget krafft welchen die zwischen ihnen
                <lb facs="#facs_12_r1l7" n="N007"/>mit 1<hi style="superscript">mo</hi> Junii zu Ende gehende Societaet auf 10 Jahr erneueret, vor die Einlag
-               <lb facs="#facs_12_r1l8" n="N008"/>auf 6000 fl und daß hinzu der <rs type="person" ref="wkfm__8591">Amadej</rs> 5500 fl in Waaren, <unclear>activen </unclear>und baaren
-               <lb facs="#facs_12_r1l9" n="N009"/>der <rs type="person" ref="wkfm__43783">Spettel </rs>aber 1100 fl. in baaren einlegen, von dem utili die <unclear>spesen best</unclear>
-               <lb facs="#facs_12_r1l10" n="N010"/><unclear>ten </unclear>das übrige in gleiche theil zertheilet werden, die Raggion <rs type="person" ref="wkfm__30445">Herculiano
-               <lb break="no" facs="#facs_12_r1l11" n="N011"/>Amadej e Compagno</rs> laufen und in Abwesenheit des erstern der <rs type="person" ref="wkfm__43783">Spettel</rs>
+               <lb facs="#facs_12_r1l8" n="N008"/>auf 6000 fl und daß hinzu der <rs type="person" ref="#wkfm__8591">Amadej</rs> 5500 fl in Waaren, <unclear>activen </unclear>und baaren
+               <lb facs="#facs_12_r1l9" n="N009"/>der <rs type="person" ref="#wkfm__43783">Spettel </rs>aber 1100 fl. in baaren einlegen, von dem utili die <unclear>spesen best</unclear>
+               <lb facs="#facs_12_r1l10" n="N010"/><unclear>ten </unclear>das übrige in gleiche theil zertheilet werden, die Raggion <rs type="person" ref="#wkfm__30445">Herculiano
+               <lb break="no" facs="#facs_12_r1l11" n="N011"/>Amadej e Compagno</rs> laufen und in Abwesenheit des erstern der <rs type="person" ref="#wkfm__43783">Spettel</rs>
                <lb facs="#facs_12_r1l12" n="N012"/>die Firma und gänzliche directorio des Negotii haben sollle. <unclear>Stabilliret wo</unclear>
                <lb facs="#facs_12_r1l13" n="N013"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_12_r1l14" n="N014"/><seg type="orighead__other_notes"><seg type="orighead__other_notes">Anmerkungen</seg></seg>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -70,13 +70,13 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_78" n="78" xml:id="img_0078"/>
+            <pb facs="#facs_78" n="78" xml:id="img_0078" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0131.jpg"/>
             
             <ab facs="#facs_78_r1">
                <lb facs="#facs_78_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_78_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 57 hat sich der
-               <lb facs="#facs_78_r1l3" n="N003"/><rs type="person" ref="wkfm__10201">Bittoni</rs> geäusseret, daß er keinen Compagnon habe.
-               <lb facs="#facs_78_r1l4" n="N004"/><choice><expan/><abbr>Ao:</abbr></choice> 793 hat sich selber seinen Sohn <rs type="person" ref="wkfm__47306">Joseph</rs> associiert
+               <lb facs="#facs_78_r1l3" n="N003"/><rs type="person" ref="#wkfm__10201">Bittoni</rs> geäusseret, daß er keinen Compagnon habe.
+               <lb facs="#facs_78_r1l4" n="N004"/><choice><expan/><abbr>Ao:</abbr></choice> 793 hat sich selber seinen Sohn <rs type="person" ref="#wkfm__47306">Joseph</rs> associiert
                <lb facs="#facs_78_r1l5" n="N005"/>Heurathscontract
                <lb facs="#facs_78_r1l7" n="N006"/><seg type="orighead__other_notes"><seg type="orighead__other_notes">Anmerkungen</seg></seg>
             </ab>

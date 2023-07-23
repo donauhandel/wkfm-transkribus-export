@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -78,12 +78,12 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_242" n="242" xml:id="img_0242"/>
+            <pb facs="#facs_242" n="242" xml:id="img_0242" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1700.jpg"/>
             
             <ab facs="#facs_242_r4">
                <lb facs="#facs_242_r4l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_242_r4l2" n="N002"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
-               <lb facs="#facs_242_r4l3" n="N003"/><choice><expan/><abbr>Ao</abbr></choice> 764 hat der<rs type="person" ref="wkfm__47612"> Gottfried Scheer</rs> seinen mit der <rs type="person" ref="wkfm__47614">Anna Theresia
+               <lb facs="#facs_242_r4l3" n="N003"/><choice><expan/><abbr>Ao</abbr></choice> 764 hat der<rs type="person" ref="#wkfm__47612"> Gottfried Scheer</rs> seinen mit der <rs type="person" ref="#wkfm__47614">Anna Theresia
                <lb break="no" facs="#facs_242_r4l4" n="N004"/>Waldhörin</rs> untern 24<hi style="superscript">ten</hi> Septembris 751 errichteten Heuraths
                <lb facs="#facs_242_r4l5" n="N005"/>Contract <hi>dd<hi style="superscript"/></hi>to
                <lb facs="#facs_242_r4l6" n="N006"/>1000 fl, das erwerbend und ererbende Vermögen ein gleiches

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -92,34 +92,34 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_163" n="163" xml:id="img_0163"/>
+            <pb facs="#facs_163" n="163" xml:id="img_0163" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0483.jpg"/>
             
             <ab facs="#facs_163_r1">
                <lb facs="#facs_163_r1l2" n="N001"/>239
                <lb facs="#facs_163_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_163_r1l3" n="N003"/><rs type="person" ref="wkfm__46176">Kraschinkh Joseph</rs> burgerlicher Handlsmann
+               <lb facs="#facs_163_r1l3" n="N003"/><rs type="person" ref="#wkfm__46176">Kraschinkh Joseph</rs> burgerlicher Handlsmann
                <lb facs="#facs_163_r1l4" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_163_r1l5" n="N005"/><rs type="person" ref="wkfm__47264">Joseph Kraschinkh</rs> laut Erklährung dd<hi style="superscript">to</hi> 28<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 753 N<hi style="superscript">o</hi> 235
+               <lb facs="#facs_163_r1l5" n="N005"/><rs type="person" ref="#wkfm__47264">Joseph Kraschinkh</rs> laut Erklährung dd<hi style="superscript">to</hi> 28<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 753 N<hi style="superscript">o</hi> 235
                <lb facs="#facs_163_r1l6" n="N006"/>welche <hi>demselbe</hi> derselbe mitls Anbringen de ps: <hi>28ten</hi> eodem N<hi style="superscript">o</hi> 236 einge-
                <lb facs="#facs_163_r1l7" n="N007"/>leget
                <lb facs="#facs_163_r1l8" n="N008"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_163_r1l9" n="N009"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_163_r1l10" n="N010"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_163_r1l11" n="N011"/>Der <rs type="person" ref="wkfm__46176">Kraschink</rs> hat seinen Fundum mitls Specification sine dato N<hi style="superscript">o</hi> 1339
+               <lb facs="#facs_163_r1l11" n="N011"/>Der <rs type="person" ref="#wkfm__46176">Kraschink</rs> hat seinen Fundum mitls Specification sine dato N<hi style="superscript">o</hi> 1339
                <lb facs="#facs_163_r1l12" n="N012"/>volgender gestalten ausgewisen, nemlich daß er Eigenthumlich besize
-               <lb facs="#facs_163_r1l13" n="N013"/>Vermög 2 obligationen von <rs type="person" ref="wkfm__46177">Jacob Kraschink</rs> und dessen Ewirthin alß dd<hi style="superscript">to</hi> 9<hi style="superscript">ten</hi> Junii 747
+               <lb facs="#facs_163_r1l13" n="N013"/>Vermög 2 obligationen von <rs type="person" ref="#wkfm__46177">Jacob Kraschink</rs> und dessen Ewirthin alß dd<hi style="superscript">to</hi> 9<hi style="superscript">ten</hi> Junii 747
                <lb facs="#facs_163_line_1621962750113_3188" n="N014"/>N<hi style="superscript">o</hi> 1340 und dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 747 N<hi style="superscript">o</hi> 1341 beede in vidimus in Capitali 500 fl
                <lb facs="#facs_163_line_1621962760058_3197" n="N015"/><hi>hievon</hi> an <choice><expan/><abbr>Intee</abbr></choice> hievon à 5 <choice><expan/><abbr>pC<hi style="superscript">to</hi></abbr></choice> auf 5 1/2 Jahr 137 fl 30 
                <lb facs="#facs_163_r1l20" n="N016"/>Vermög <choice><expan/><abbr>orig:</abbr></choice> Urkund der Herrschafft Tromau dd<hi style="superscript">to</hi> 23<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 752 N<hi style="superscript">o</hi> <hi>uber das empfangene</hi>
                <lb facs="#facs_163_r1l21" n="N017"/>1342 <hi>annoch an Ve</hi> uber das eempfangene annoch an Vätterlich und Schwesterl:
                <lb facs="#facs_163_line_1621962843152_3226" n="N018"/><unclear>Erbantheil</unclear> 290 fl 12 x<hi style="superscript">r</hi>
                <lb facs="#facs_163_r1l25" n="N019"/>An empfangenen Erbtheil salario und hiemit geschafften Nuzen laut
-               <lb facs="#facs_163_line_1621962853118_3236" n="N020"/>attestati des <rs type="person" ref="wkfm__31324">Joh: Michäl Schadlbauer</rs> dd<hi style="superscript">to</hi> 2<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 753 N<hi style="superscript">o</hi> 1343 1900 fl
+               <lb facs="#facs_163_line_1621962853118_3236" n="N020"/>attestati des <rs type="person" ref="#wkfm__31324">Joh: Michäl Schadlbauer</rs> dd<hi style="superscript">to</hi> 2<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 753 N<hi style="superscript">o</hi> 1343 1900 fl
                <lb facs="#facs_163_line_1621962880420_3257" n="N021"/>welche selber laut Quittung dd<hi style="superscript">to</hi> 28<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 752 N<hi style="superscript">o</hi> 1344 uber Handlungs Uber-
-               <lb facs="#facs_163_line_1621962915388_3276" n="N022"/>lasserin <rs type="person" ref="wkfm__46178">Theresia Juliana Gräffin</rs> alschon entrichtet habe.
+               <lb facs="#facs_163_line_1621962915388_3276" n="N022"/>lasserin <rs type="person" ref="#wkfm__46178">Theresia Juliana Gräffin</rs> alschon entrichtet habe.
                <lb facs="#facs_163_line_1621962935188_3285" n="N023"/>zusamen Eigenthum 2827 fl 42 x<hi style="superscript">r</hi>
-               <lb facs="#facs_163_r1l34" n="N024"/>Zu Completirung des Uberreste hat die <rs type="person" ref="wkfm__46178">Theresia Juliana Gräfin</rs> und der 
-               <lb facs="#facs_163_r1l35" n="N025"/><rs type="person" ref="wkfm__13628">Johann Georg Reinthaller</rs> das <choice><expan/><abbr>orig:</abbr></choice> Caut: Instrument dd<hi style="superscript">to</hi> 28<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 752 N<hi style="superscript">o</hi>
+               <lb facs="#facs_163_r1l34" n="N024"/>Zu Completirung des Uberreste hat die <rs type="person" ref="#wkfm__46178">Theresia Juliana Gräfin</rs> und der 
+               <lb facs="#facs_163_r1l35" n="N025"/><rs type="person" ref="#wkfm__13628">Johann Georg Reinthaller</rs> das <choice><expan/><abbr>orig:</abbr></choice> Caut: Instrument dd<hi style="superscript">to</hi> 28<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 752 N<hi style="superscript">o</hi>
                <lb facs="#facs_163_line_1621963009138_3311" n="N026"/>1345 in <choice><expan/><abbr>orig:</abbr></choice> eingeleget <choice><expan/><abbr>pr</abbr></choice> 5172 fl 18 x<hi style="superscript">r</hi>
                <lb facs="#facs_163_r1l39" n="N027"/>Anbey befinden sich zwey Anbringen wegen Annehmung des Supl: N<hi style="superscript">o</hi> 1346 et 1347
             </ab>

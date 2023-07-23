@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -87,25 +87,25 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_191" n="191" xml:id="img_0191"/>
+            <pb facs="#facs_191" n="191" xml:id="img_0191" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1649.jpg"/>
             
             <ab facs="#facs_191_r1">
                <lb facs="#facs_191_r1l2" n="N001"/><hi>799</hi>
                <lb facs="#facs_191_r1l4" n="N002"/>817
                <lb facs="#facs_191_r1l1" n="N003"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_191_r1l3" n="N004"/><rs type="person" ref="wkfm__46766">Schinnerer Johann Georg</rs> burgerlicher Handlsmann
+               <lb facs="#facs_191_r1l3" n="N004"/><rs type="person" ref="#wkfm__46766">Schinnerer Johann Georg</rs> burgerlicher Handlsmann
                <lb facs="#facs_191_r1l6" n="N005"/>Firma ad Raggion
-               <lb facs="#facs_191_r1l7" n="N006"/><rs type="person" ref="wkfm__47552">Johann Georg Schinnerer</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 760
+               <lb facs="#facs_191_r1l7" n="N006"/><rs type="person" ref="#wkfm__47552">Johann Georg Schinnerer</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 760
                <lb facs="#facs_191_r1l8" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_191_r1l9" n="N008"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_191_r1l10" n="N009"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_191_r1l11" n="N010"/>Der <rs type="person" ref="wkfm__46766">Schinnerer</rs> hat seinen Fundum mitls der untern - 743 beeydigten Specification
+               <lb facs="#facs_191_r1l11" n="N010"/>Der <rs type="person" ref="#wkfm__46766">Schinnerer</rs> hat seinen Fundum mitls der untern - 743 beeydigten Specification
                <lb facs="#facs_191_r1l12" n="N011"/>N<hi style="superscript">o</hi> 1722 folgender maßen ausgewisen <hi>de</hi> nemlich das er eigenthumlich besize
-               <lb facs="#facs_191_r1l13" n="N012"/>An einen Wechselbrief von <rs type="person" ref="wkfm__46528">Huetter und Weizmann</rs> dd<hi style="superscript">to</hi> 31<hi style="superscript">ten</hi> Julii 743 1400 fl
-               <lb facs="#facs_191_r1l16" n="N013"/>- det: von <rs type="person" ref="wkfm__24248">Johann Michäl Göz</rs> dd<hi style="superscript">to</hi> 29<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> d. a. 500 fl
-               <lb facs="#facs_191_r1l19" n="N014"/>- det: von <rs type="person" ref="wkfm__38549">Mayer und Hölzl</rs> dd<hi style="superscript">to</hi> 12<hi style="superscript">ten</hi> Juli d. a. 300 fl
+               <lb facs="#facs_191_r1l13" n="N012"/>An einen Wechselbrief von <rs type="person" ref="#wkfm__46528">Huetter und Weizmann</rs> dd<hi style="superscript">to</hi> 31<hi style="superscript">ten</hi> Julii 743 1400 fl
+               <lb facs="#facs_191_r1l16" n="N013"/>- det: von <rs type="person" ref="#wkfm__24248">Johann Michäl Göz</rs> dd<hi style="superscript">to</hi> 29<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> d. a. 500 fl
+               <lb facs="#facs_191_r1l19" n="N014"/>- det: von <rs type="person" ref="#wkfm__38549">Mayer und Hölzl</rs> dd<hi style="superscript">to</hi> 12<hi style="superscript">ten</hi> Juli d. a. 300 fl
                <lb facs="#facs_191_r1l20" n="N015"/>- det: von det: dato 18<hi style="superscript">ten</hi> Junii d.a. 600 fl
-               <lb facs="#facs_191_r1l22" n="N016"/>- det: von obigen <rs type="person" ref="wkfm__24248">Göz</rs> dd<hi style="superscript">to</hi> 10<hi style="superscript">ten</hi> Julii d. a. 1015
+               <lb facs="#facs_191_r1l22" n="N016"/>- det: von obigen <rs type="person" ref="#wkfm__24248">Göz</rs> dd<hi style="superscript">to</hi> 10<hi style="superscript">ten</hi> Julii d. a. 1015
                <lb facs="#facs_191_r1l24" n="N017"/>- det: von det: dd<hi style="superscript">to</hi> ult: ej: 600 fl
                <lb facs="#facs_191_r1l26" n="N018"/>an ausstandigen salario 450 fl
                <lb facs="#facs_191_r1l29" n="N019"/>an einer <unclear>O. C. A.</unclear> obl: 700 fl

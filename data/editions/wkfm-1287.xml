@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -80,24 +80,24 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_103" n="103" xml:id="img_0103"/>
+            <pb facs="#facs_103" n="103" xml:id="img_0103" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1287.jpg"/>
             
             <ab facs="#facs_103_r2">
                <lb facs="#facs_103_r2l2" n="N001"/>636
                <lb facs="#facs_103_r2l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_103_r2l3" n="N003"/><rs type="person" ref="wkfm__46942">Munier Joseph</rs> burgerlicher Handlsmann
+               <lb facs="#facs_103_r2l3" n="N003"/><rs type="person" ref="#wkfm__46942">Munier Joseph</rs> burgerlicher Handlsmann
                <lb facs="#facs_103_r2l4" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_103_r2l5" n="N005"/><rs type="person" ref="wkfm__46943">Joseph Munier</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 591 welche derselbe mitls
+               <lb facs="#facs_103_r2l5" n="N005"/><rs type="person" ref="#wkfm__46943">Joseph Munier</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 591 welche derselbe mitls
                <lb facs="#facs_103_r2l6" n="N006"/>Anbringen de ps: 11<hi style="superscript">ten</hi> Junii 754 N<hi style="superscript">o</hi> 592 eingeleget
                <lb facs="#facs_103_r2l7" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_103_r2l8" n="N008"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_103_r2l9" n="N009"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_103_r2l10" n="N010"/>Der <rs type="person" ref="wkfm__46942">Munier</rs> hat zu ausweisung seines handlungsfundi den Extract
+               <lb facs="#facs_103_r2l10" n="N010"/>Der <rs type="person" ref="#wkfm__46942">Munier</rs> hat zu ausweisung seines handlungsfundi den Extract
                <lb facs="#facs_103_r2l11" n="N011"/>aus seines Vatters untern 18<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 749 errichtet und untern 14<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 750
                <lb facs="#facs_103_r2l13" n="N012"/>publicirten testament in vidimus N<hi style="superscript">o</hi> 1637 eingeleget kraft welchen <hi>s</hi> er selber §
                <lb facs="#facs_103_r2l14" n="N013"/>16t<hi style="superscript">ens</hi> zum universal Erben gedacht seines Vatters instituiret worden
                <lb facs="#facs_103_r2l15" n="N014"/>wie auch eine von denen Vorstehern des burgerlichen Handlsstands untern 22<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice>
-               <lb facs="#facs_103_r2l16" n="N015"/>753 angesteltes attestatum N<hi style="superscript">o</hi> 1638 das er <rs type="person" ref="wkfm__46942">Munier</rs> mehr dann den Institut-
+               <lb facs="#facs_103_r2l16" n="N015"/>753 angesteltes attestatum N<hi style="superscript">o</hi> 1638 das er <rs type="person" ref="#wkfm__46942">Munier</rs> mehr dann den Institut-
                <lb facs="#facs_103_r2l17" n="N016"/>mäßigen Handlungs Fundum <choice><expan/><abbr>pr</abbr></choice> 8000 fl besize
             </ab>
             

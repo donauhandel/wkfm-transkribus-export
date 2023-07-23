@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -71,12 +71,12 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_202" n="202" xml:id="img_0202"/>
+            <pb facs="#facs_202" n="202" xml:id="img_0202" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0256.jpg"/>
             
             <ab facs="#facs_202_r1">
                <lb facs="#facs_202_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
-               <lb facs="#facs_202_r1l2" n="N002"/>Der <rs type="person" ref="wkfm__43953">Christian Pichler</rs> hat mit dem <rs type="person" ref="wkfm__43950">Paul Anton Baciler</rs> die
-               <lb facs="#facs_202_r1l3" n="N003"/>societaets firma <rs type="person" ref="wkfm__43951">Baciler und Pichler</rs> alß ihre gemeinsame firma
+               <lb facs="#facs_202_r1l2" n="N002"/>Der <rs type="person" ref="#wkfm__43953">Christian Pichler</rs> hat mit dem <rs type="person" ref="#wkfm__43950">Paul Anton Baciler</rs> die
+               <lb facs="#facs_202_r1l3" n="N003"/>societaets firma <rs type="person" ref="#wkfm__43951">Baciler und Pichler</rs> alß ihre gemeinsame firma
                <lb facs="#facs_202_r1l4" n="N004"/>mitls Anbringen de ps: 10<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 738 N<hi style="superscript">o</hi> 123 eingeleget, wie auch laut
                <lb facs="#facs_202_line_1621471561307_3966" n="N005"/>Kaufcontract dd<hi style="superscript">to</hi> 9<hi style="superscript">ten</hi> <choice><expan/><abbr>Ju:</abbr></choice> 737 N<hi style="superscript">o</hi> 1185 die Handlung in <unclear>Communione</unclear> erkaufet
                <lb facs="#facs_202_r1l7" n="N006"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -87,22 +87,22 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_205" n="205" xml:id="img_0205"/>
+            <pb facs="#facs_205" n="205" xml:id="img_0205" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1663.jpg"/>
             
             <ab facs="#facs_205_r1">
                <lb facs="#facs_205_line_1626263362856_2378" n="N001"/>824
                <lb facs="#facs_205_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_205_r1l2" n="N003"/><rs type="person" ref="wkfm__47571">Siber Matthias</rs> burgerlicher Handlsmann
+               <lb facs="#facs_205_r1l2" n="N003"/><rs type="person" ref="#wkfm__47571">Siber Matthias</rs> burgerlicher Handlsmann
                <lb facs="#facs_205_r1l3" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_205_r1l5" n="N005"/><rs type="person" ref="wkfm__47572">Mathias Siber</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 767.
+               <lb facs="#facs_205_r1l5" n="N005"/><rs type="person" ref="#wkfm__47572">Mathias Siber</rs> laut Erklährung sine dato N<hi style="superscript">o</hi> 767.
                <lb facs="#facs_205_r1l6" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_205_r1l7" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_205_r1l8" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_205_r1l9" n="N009"/>Der <rs type="person" ref="wkfm__47571">Siber</rs> hat seinen Fundum mitls der <hi>Specification <unclear>welcher</unclear></hi> untern 21<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice>
+               <lb facs="#facs_205_r1l9" n="N009"/>Der <rs type="person" ref="#wkfm__47571">Siber</rs> hat seinen Fundum mitls der <hi>Specification <unclear>welcher</unclear></hi> untern 21<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice>
                <lb facs="#facs_205_r1l10" n="N010"/>747 von ihm beeydigten Specification N<hi style="superscript">o</hi> 1732 folgender maßen ausgewisen
-               <lb facs="#facs_205_r1l11" n="N011"/>nemlich daß er eigenthumlich besize bey N <rs type="person" ref="wkfm__27475 [?]">Weissenbekh</rs> 1530 fl
+               <lb facs="#facs_205_r1l11" n="N011"/>nemlich daß er eigenthumlich besize bey N <rs type="person" ref="#wkfm__27475 [?]">Weissenbekh</rs> 1530 fl
                <lb facs="#facs_205_r1l13" n="N012"/>an Mütterlichen 600 fl
-               <lb facs="#facs_205_r1l15" n="N013"/>bey <rs type="person" ref="wkfm__47573">Matthias Wessenbekh <choice><expan/><abbr>seel:</abbr></choice> Erben</rs> 400 fl
+               <lb facs="#facs_205_r1l15" n="N013"/>bey <rs type="person" ref="#wkfm__47573">Matthias Wessenbekh <choice><expan/><abbr>seel:</abbr></choice> Erben</rs> 400 fl
                <lb facs="#facs_205_r1l17" n="N014"/>an Straßgütl: Erbs portion 650 fl
                <lb facs="#facs_205_r1l19" n="N015"/>an einem sicheren Orth 700 fl
                <lb facs="#facs_205_r1l21" n="N016"/>an <unclear>Weinen</unclear> 350 fl
@@ -110,7 +110,7 @@
                <lb facs="#facs_205_r1l25" n="N018"/>bey zweyen Handlsfreunden 450 fl
                <lb facs="#facs_205_r1l27" n="N019"/>an kleinen activen 150 fl
                <lb facs="#facs_205_r1l30" n="N020"/>zusamen Eigenthum 4910 fl
-               <lb facs="#facs_205_r1l32" n="N021"/>zu Completirung des Übrigen hat der <rs type="person" ref="wkfm__27475">Joh: Geor: Weissenbekh</rs> das <choice><expan/><abbr>orig:</abbr></choice> Caut:
+               <lb facs="#facs_205_r1l32" n="N021"/>zu Completirung des Übrigen hat der <rs type="person" ref="#wkfm__27475">Joh: Geor: Weissenbekh</rs> das <choice><expan/><abbr>orig:</abbr></choice> Caut:
                <lb facs="#facs_205_r1l33" n="N022"/>Instrument dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 747 N<hi style="superscript">o</hi> 1733 eingelegt <choice><expan/><abbr>pr</abbr></choice> 3090 fl
                <lb facs="#facs_205_r1l36" n="N023"/><choice><expan/><abbr>Sa</abbr></choice> 8000 fl
             </ab>

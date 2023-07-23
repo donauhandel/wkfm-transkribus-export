@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -86,28 +86,28 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_206" n="206" xml:id="img_0206"/>
+            <pb facs="#facs_206" n="206" xml:id="img_0206" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0260.jpg"/>
             
             <ab facs="#facs_206_r1">
                <lb facs="#facs_206_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
-               <lb facs="#facs_206_r1l2" n="N002"/>Der <rs type="person" ref="wkfm__37177">Joseph Bolza</rs> hat mit dem <rs type="person" ref="wkfm__8799">Pompejo Corignoni</rs> untern 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 738 einen
+               <lb facs="#facs_206_r1l2" n="N002"/>Der <rs type="person" ref="#wkfm__37177">Joseph Bolza</rs> hat mit dem <rs type="person" ref="#wkfm__8799">Pompejo Corignoni</rs> untern 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 738 einen
                <lb facs="#facs_206_r1l3" n="N003"/>Societaets Contract abgeschlossen und in Copia vidimata N<hi style="superscript">o</hi> 1860 eingeleget kraft 
                <lb facs="#facs_206_r1l4" n="N004"/>welchen die societaet von 1<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 738 biß ult: <choice><expan/><abbr>Mart:</abbr></choice> 743 auf 5 Jahr dergestalten sta-
                <lb facs="#facs_206_r1l5" n="N005"/>biliret worden, daß <hi><unclear>v</unclear></hi> <hi><unclear>de</unclear></hi> 6 Monath vor Verflüssung deren 5 Jahren ein theil dem andern
                <lb facs="#facs_206_r1l6" n="N006"/>die Aufkündung also <unclear>gewis</unclear> zu machen schuldig seyn solle, alß im widrigen die Continuation
-               <lb facs="#facs_206_r1l7" n="N007"/>auf andere 5 Jahr erfolgen <hi>solle</hi> der <rs type="person" ref="wkfm__37177">Joseph Bolza</rs> 60000 fl der <rs type="person" ref="wkfm__8799">Corigniani</rs> 30000 fl
-               <lb facs="#facs_206_r1l8" n="N008"/>pro fundo einlegen, der <rs type="person" ref="wkfm__37177">Joseph Bolza</rs> die firma allein und nebst dem <rs type="person" ref="wkfm__11695">Carl Anton Bol-
+               <lb facs="#facs_206_r1l7" n="N007"/>auf andere 5 Jahr erfolgen <hi>solle</hi> der <rs type="person" ref="#wkfm__37177">Joseph Bolza</rs> 60000 fl der <rs type="person" ref="#wkfm__8799">Corigniani</rs> 30000 fl
+               <lb facs="#facs_206_r1l8" n="N008"/>pro fundo einlegen, der <rs type="person" ref="#wkfm__37177">Joseph Bolza</rs> die firma allein und nebst dem <rs type="person" ref="#wkfm__11695">Carl Anton Bol-
                <lb break="no" facs="#facs_206_r1l9" n="N009"/>za</rs> die administration und freye Macht zu <unclear>fidiren</unclear> biß auf 25000 fl haben, die Erben 
                <lb facs="#facs_206_r1l10" n="N010"/>eben so an die Zeit wie die Contrahenten gebunden seyn, falß die jährlich abzufassen
                <lb facs="#facs_206_r1l11" n="N011"/>kommende Billanz einen 6000 fl übersteigenden Verlust anzeige, würde jedwederen theil
                <lb facs="#facs_206_r1l12" n="N012"/>die societaet zu endigen bevorstehen, der Nuzen nach vollendeter societaet dergestalten ver-
                <lb facs="#facs_206_r1l13" n="N013"/>theilet werden, daß vorzüglich denen beeden bolza 10 <choice><expan/><abbr>pC<hi style="superscript">to</hi></abbr></choice> für die administration, sodann 2 theil
-               <lb facs="#facs_206_r1l14" n="N014"/>dem <rs type="person" ref="wkfm__37177">Joseph Bolza</rs> und 1 theil dem <rs type="person" ref="wkfm__8799">Corigniani</rs> zufallen, von dem Schaden anbey gleichfals 2 theil
-               <lb facs="#facs_206_r1l15" n="N015"/>dem <rs type="person" ref="wkfm__37177">Joseph Bolza</rs> und 1 theil dem <rs type="person" ref="wkfm__8799">Corigniani</rs> <hi>zu</hi> diesem leztern aber niehmahlen mehr alß
+               <lb facs="#facs_206_r1l14" n="N014"/>dem <rs type="person" ref="#wkfm__37177">Joseph Bolza</rs> und 1 theil dem <rs type="person" ref="#wkfm__8799">Corigniani</rs> zufallen, von dem Schaden anbey gleichfals 2 theil
+               <lb facs="#facs_206_r1l15" n="N015"/>dem <rs type="person" ref="#wkfm__37177">Joseph Bolza</rs> und 1 theil dem <rs type="person" ref="#wkfm__8799">Corigniani</rs> <hi>zu</hi> diesem leztern aber niehmahlen mehr alß
                <lb facs="#facs_206_r1l16" n="N016"/>die eingelegten 30000 fl betragen zu last geleget <hi>werden</hi> die unter denen Contrahenten
                <lb facs="#facs_206_r1l17" n="N017"/>oder deren Erben etwa entstehende Zwistigkeiten aber bey 2000 fl Pöen nicht bey Gericht
                <lb facs="#facs_206_r1l18" n="N018"/>anhängig gemacht, sondern von dreyen Mercantil Verständigen entschiden werden sollen
-               <lb facs="#facs_206_r1l19" n="N019"/>Mitls Anbringen de ps: 12<hi style="superscript">ten</hi> May 741 N<hi style="superscript">o</hi> 1874 hat der <rs type="person" ref="wkfm__37177">Joseph Bolza</rs> die Anzeige gemacht, daß erst-
+               <lb facs="#facs_206_r1l19" n="N019"/>Mitls Anbringen de ps: 12<hi style="superscript">ten</hi> May 741 N<hi style="superscript">o</hi> 1874 hat der <rs type="person" ref="#wkfm__37177">Joseph Bolza</rs> die Anzeige gemacht, daß erst-
                <lb facs="#facs_206_r1l20" n="N020"/>gedachte Societaet mit allseitgigen Consens aufgehoben worden seye.
                <lb facs="#facs_206_r1l21" n="N021"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_206_r1l22" n="N022"/>Anmerckungen

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -88,30 +88,30 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_70" n="70" xml:id="img_0070"/>
+            <pb facs="#facs_70" n="70" xml:id="img_0070" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1422.jpg"/>
             
             <ab facs="#facs_70_r2">
                <lb facs="#facs_70_r2l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
-               <lb facs="#facs_70_r2l2" n="N002"/>Mitls Anbringen de ps: 27<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 736 N<hi style="superscript">o</hi> 1661 hat des <rs type="person" ref="wkfm__43201">Anton Rathgeb</rs> Vatter <rs type="person" ref="wkfm__46701">Balthasar
+               <lb facs="#facs_70_r2l2" n="N002"/>Mitls Anbringen de ps: 27<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice> 736 N<hi style="superscript">o</hi> 1661 hat des <rs type="person" ref="#wkfm__43201">Anton Rathgeb</rs> Vatter <rs type="person" ref="#wkfm__46701">Balthasar
                <lb break="no" facs="#facs_70_r2l3" n="N003"/>Johann Rathgeb</rs> angezeiget, daß er seine Handlung samt seiner Firma seinem Sohn
-               <lb facs="#facs_70_r2l4" n="N004"/><rs type="person" ref="wkfm__43201">Anton Rathgeb</rs> übergeben habe.
-               <lb facs="#facs_70_r2l5" n="N005"/>Mitls Anbringen de ps: 4<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 740 N<hi style="superscript">o</hi> 647 hat der <rs type="person" ref="wkfm__43201">Anton Rathgeb</rs> angezeiget, das
-               <lb facs="#facs_70_r2l6" n="N006"/>er seine Raggion von <rs type="person" ref="wkfm__46702">Bathasar Johann Rathgeb</rs> auf <rs type="person" ref="wkfm__46730">Balthasar Johann Rathgeb
+               <lb facs="#facs_70_r2l4" n="N004"/><rs type="person" ref="#wkfm__43201">Anton Rathgeb</rs> übergeben habe.
+               <lb facs="#facs_70_r2l5" n="N005"/>Mitls Anbringen de ps: 4<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 740 N<hi style="superscript">o</hi> 647 hat der <rs type="person" ref="#wkfm__43201">Anton Rathgeb</rs> angezeiget, das
+               <lb facs="#facs_70_r2l6" n="N006"/>er seine Raggion von <rs type="person" ref="#wkfm__46702">Bathasar Johann Rathgeb</rs> auf <rs type="person" ref="#wkfm__46730">Balthasar Johann Rathgeb
                <lb break="no" facs="#facs_70_r2l7" n="N007"/><choice><expan/><abbr>seel:</abbr></choice> Söhne</rs> abzuendern entschlossen
                <lb facs="#facs_70_r2l8" n="N008"/>Mitls Anbringen de ps: 3<hi style="superscript">ten</hi> <choice><expan/><abbr>Mart:</abbr></choice> 746 N<hi style="superscript">o</hi> 2035 <hi>h</hi> und oblatorien sine dato N<hi style="superscript">o</hi> 1135 hat
-               <lb facs="#facs_70_r2l9" n="N009"/>der <rs type="person" ref="wkfm__46169">Melchior Rathgeb</rs> respective angezeiget und kund gemacht, das sein Bruder
-               <lb facs="#facs_70_r2l10" n="N010"/><rs type="person" ref="wkfm__43201">Anton Rathgeb</rs> dergestalten sich von <hi>dem</hi> ihm separiret habe, das er <rs type="person" ref="wkfm__43201">Anton</rs> hierin dem
-               <lb facs="#facs_70_r2l11" n="N011"/>negotio nicht mehr interessiret seye, sondern er <rs type="person" ref="wkfm__46169">Melchior</rs> solches allein fortführen
+               <lb facs="#facs_70_r2l9" n="N009"/>der <rs type="person" ref="#wkfm__46169">Melchior Rathgeb</rs> respective angezeiget und kund gemacht, das sein Bruder
+               <lb facs="#facs_70_r2l10" n="N010"/><rs type="person" ref="#wkfm__43201">Anton Rathgeb</rs> dergestalten sich von <hi>dem</hi> ihm separiret habe, das er <rs type="person" ref="#wkfm__43201">Anton</rs> hierin dem
+               <lb facs="#facs_70_r2l11" n="N011"/>negotio nicht mehr interessiret seye, sondern er <rs type="person" ref="#wkfm__46169">Melchior</rs> solches allein fortführen
                <lb facs="#facs_70_r2l12" n="N012"/>werde.
                <lb facs="#facs_70_r2l13" n="N013"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
-               <lb facs="#facs_70_r2l14" n="N014"/>Mitls Anbringen de ps: 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 744 N<hi style="superscript">o</hi> 2214 hat der <rs type="person" ref="wkfm__43201">Anton Rathgeb</rs> den mit
-               <lb facs="#facs_70_r2l15" n="N015"/>der <rs type="person" ref="wkfm__46731">Franzisca Kircherin</rs> untern 24<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 743 N<hi style="superscript">o</hi> 2213 in vidimata copia
+               <lb facs="#facs_70_r2l14" n="N014"/>Mitls Anbringen de ps: 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 744 N<hi style="superscript">o</hi> 2214 hat der <rs type="person" ref="#wkfm__43201">Anton Rathgeb</rs> den mit
+               <lb facs="#facs_70_r2l15" n="N015"/>der <rs type="person" ref="#wkfm__46731">Franzisca Kircherin</rs> untern 24<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 743 N<hi style="superscript">o</hi> 2213 in vidimata copia
                <lb facs="#facs_70_r2l19" n="N016"/>eingeleget kraft welchen 1000 fl <hi>Widerlag</hi> Heurathgutt nebst 2000 fl Widerlag auf Über-
                <lb facs="#facs_70_r2l21" n="N017"/>leben pactiret anbey vorgesehen worden, das der Braut nach des Bräutigams tod aus dessen Verlassenschaft 14000 fl
                <lb facs="#facs_70_r2l24" n="N018"/>eigenthumlich zufallen solle, falß aber die Braut eher sterben würde <hi>solle,</hi> so solle sie aus des
                <lb facs="#facs_70_r2l25" n="N019"/>Bräutigams Vermögen wann Kinder vorhanden mit 6000 fl wann aber keine vorhanden
                <lb facs="#facs_70_r2l26" n="N020"/>mit 3000 fl disponiren können, <unclear>jenes</unclear> anbey was wehrender Ehe ererbet und erworben
-               <lb facs="#facs_70_r2l27" n="N021"/>wird ein <hi>freyer</hi> gleiches Gutt seye, die der Braut von ihrer Großmutter <rs type="person" ref="wkfm__46732">Cuni-
+               <lb facs="#facs_70_r2l27" n="N021"/>wird ein <hi>freyer</hi> gleiches Gutt seye, die der Braut von ihrer Großmutter <rs type="person" ref="#wkfm__46732">Cuni-
                <lb break="no" facs="#facs_70_r2l28" n="N022"/>gunda Weygertin</rs> mitgegebene 1000 fl <hi>der</hi> dem Brautigam zur Nuznußung
                <lb facs="#facs_70_r2l29" n="N023"/>der Braut aber eigenthumlich gehören
                <lb facs="#facs_70_r2l30" n="N024"/>Anmerckungen

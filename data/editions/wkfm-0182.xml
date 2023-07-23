@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -76,17 +76,17 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_129" n="129" xml:id="img_0129"/>
+            <pb facs="#facs_129" n="129" xml:id="img_0129" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0182.jpg"/>
             
             <ab facs="#facs_129_r1">
                <lb facs="#facs_129_r1l1" n="N001"/>89
                <lb facs="#facs_129_r1l2" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_129_r1l3" n="N003"/><rs type="person" ref="wkfm__43894">Peter Johann Joseph</rs> burgerlicher Handlsmann
+               <lb facs="#facs_129_r1l3" n="N003"/><rs type="person" ref="#wkfm__43894">Peter Johann Joseph</rs> burgerlicher Handlsmann
                <lb facs="#facs_129_r1l4" n="N004"/>Firma oder Raggion
-               <lb facs="#facs_129_r1l5" n="N005"/><rs type="person" ref="wkfm__20610">Peter und Krazer</rs> laut Erklährung dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 729 N<hi style="superscript">o</hi> 1854
+               <lb facs="#facs_129_r1l5" n="N005"/><rs type="person" ref="#wkfm__20610">Peter und Krazer</rs> laut Erklährung dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 729 N<hi style="superscript">o</hi> 1854
                <lb facs="#facs_129_r1l6" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_129_r1l7" n="N007"/>In obiger Erklährung <hi>ist</hi> de dd<hi style="superscript">to</hi> 1ten <choice><expan/><abbr>Apr:</abbr></choice> 729 N<hi style="superscript">o</hi> 1854 ist die
-               <lb facs="#facs_129_r1l8" n="N008"/>Firma von obigen <rs type="person" ref="wkfm__43894">Peter</rs> dann von dessen Compagno <rs type="person" ref="wkfm__43895">Michael Justus
+               <lb facs="#facs_129_r1l8" n="N008"/>Firma von obigen <rs type="person" ref="#wkfm__43894">Peter</rs> dann von dessen Compagno <rs type="person" ref="#wkfm__43895">Michael Justus
                <lb break="no" facs="#facs_129_r1l9" n="N009"/>Krazer</rs> eingeleget worden
                <lb facs="#facs_129_r1l10" n="N010"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_129_r1l11" n="N011"/><seg type="orighead__fundi">Fundi Ausweisung</seg>

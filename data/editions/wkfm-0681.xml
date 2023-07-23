@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -93,37 +93,37 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_13" n="13" xml:id="img_0013"/>
+            <pb facs="#facs_13" n="13" xml:id="img_0013" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0681.jpg"/>
             
             <ab facs="#facs_13_r2">
                <lb facs="#facs_13_r2l2" n="N001"/>338
                <lb facs="#facs_13_r2l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_13_r2l3" n="N003"/><rs type="person" ref="wkfm__1115">Ferroni Johann Baptist</rs>
+               <lb facs="#facs_13_r2l3" n="N003"/><rs type="person" ref="#wkfm__1115">Ferroni Johann Baptist</rs>
                <lb facs="#facs_13_r2l4" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_13_r2l5" n="N005"/><rs type="person" ref="wkfm__47056">Johann Bat<hi style="superscript">to</hi> Ferroni</rs> laut Anbringen de ps: 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 324.
-               <lb facs="#facs_13_r2l6" n="N006"/><rs type="person" ref="wkfm__47057">Johann Bat<hi style="superscript">to</hi> Ferroni <choice><expan/><abbr>seel:</abbr></choice> Wittib</rs> laut Anbringen de ps: 23<hi style="superscript">ten</hi> Junii 732 N<hi style="superscript">o</hi> 976.
+               <lb facs="#facs_13_r2l5" n="N005"/><rs type="person" ref="#wkfm__47056">Johann Bat<hi style="superscript">to</hi> Ferroni</rs> laut Anbringen de ps: 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 324.
+               <lb facs="#facs_13_r2l6" n="N006"/><rs type="person" ref="#wkfm__47057">Johann Bat<hi style="superscript">to</hi> Ferroni <choice><expan/><abbr>seel:</abbr></choice> Wittib</rs> laut Anbringen de ps: 23<hi style="superscript">ten</hi> Junii 732 N<hi style="superscript">o</hi> 976.
                <lb facs="#facs_13_r2l7" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
-               <lb facs="#facs_13_r2l8" n="N008"/>Mitls Anbringen de ps: 20<hi style="superscript">ten</hi> Julii 725 N<hi style="superscript">o</hi> 960 hat der <rs type="person" ref="wkfm__1115">Ferroni</rs> die seiner Eheconsortin <rs type="person" ref="wkfm__47058">Eva Elisabeth</rs> wehrend seiner
+               <lb facs="#facs_13_r2l8" n="N008"/>Mitls Anbringen de ps: 20<hi style="superscript">ten</hi> Julii 725 N<hi style="superscript">o</hi> 960 hat der <rs type="person" ref="#wkfm__1115">Ferroni</rs> die seiner Eheconsortin <rs type="person" ref="#wkfm__47058">Eva Elisabeth</rs> wehrend seiner
                <lb facs="#facs_13_r2l9" n="N009"/>Abwesenheit ertheilte <choice><expan/><abbr>orig:</abbr></choice> procura mit beygerukter Firma vonselbem dd<hi style="superscript">to</hi> <choice><expan/><abbr>Jul:</abbr></choice> 725 N<hi style="superscript">o</hi> 959 eingeleget.
-               <lb facs="#facs_13_r2l10" n="N010"/>Mitls Anbringen de ps: 29<hi style="superscript">ten</hi> May 726 N<hi style="superscript">o</hi> 962 hat der <rs type="person" ref="wkfm__1115">Ferroni</rs> die seinem Bedienten <rs type="person" ref="wkfm__47059">Joseph Cajetan Werndle</rs> <hi>erth</hi> wehrend
+               <lb facs="#facs_13_r2l10" n="N010"/>Mitls Anbringen de ps: 29<hi style="superscript">ten</hi> May 726 N<hi style="superscript">o</hi> 962 hat der <rs type="person" ref="#wkfm__1115">Ferroni</rs> die seinem Bedienten <rs type="person" ref="#wkfm__47059">Joseph Cajetan Werndle</rs> <hi>erth</hi> wehrend
                <lb facs="#facs_13_r2l11" n="N011"/>seiner Abwesenheit ertheilte <choice><expan/><abbr>orig:</abbr></choice> Procura dd<hi style="superscript">to</hi> 29<hi style="superscript">ten</hi> <choice><expan/><abbr>ej:</abbr></choice> N<hi style="superscript">o</hi> 961 eingeleget
-               <lb facs="#facs_13_r2l12" n="N012"/>Mitls Anbringen de ps: 19<hi style="superscript">ten</hi> Julii 727 N<hi style="superscript">o</hi> 964 hat der <rs type="person" ref="wkfm__1115">Ferroni</rs> die seiner Ehewirthin <rs type="person" ref="wkfm__47058">Eva Elisabeth</rs> wehrend seiner Ab-
+               <lb facs="#facs_13_r2l12" n="N012"/>Mitls Anbringen de ps: 19<hi style="superscript">ten</hi> Julii 727 N<hi style="superscript">o</hi> 964 hat der <rs type="person" ref="#wkfm__1115">Ferroni</rs> die seiner Ehewirthin <rs type="person" ref="#wkfm__47058">Eva Elisabeth</rs> wehrend seiner Ab-
                <lb facs="#facs_13_r2l13" n="N013"/>wesenheit ertheilte <choice><expan/><abbr>orig:</abbr></choice> procura dd<hi style="superscript">to</hi> 14<hi style="superscript">ten</hi> <choice><expan/><abbr>ej:</abbr></choice> N<hi style="superscript">o</hi> 960 eingeleget.
-               <lb facs="#facs_13_r2l14" n="N014"/>Mitls Anbringen de ps: 9<hi style="superscript">ten</hi> Junii 728 N<hi style="superscript">o</hi> 968 hat der <rs type="person" ref="wkfm__1115">Ferroni</rs> die seinem bedienten <rs type="person" ref="wkfm__47060">Johann Merl</rs> wehrend seiner Abwe-
-               <lb facs="#facs_13_r2l15" n="N015"/>senheit ertheilte <choice><expan/><abbr>orig:</abbr></choice> procura mit beygerukter Firma der <hi>Merl</hi> <rs type="person" ref="wkfm__47060">Merl</rs> dd<hi style="superscript">to</hi> eodem N<hi style="superscript">o</hi> 967 eingeleget
-               <lb facs="#facs_13_r2l17" n="N016"/>Mitls Anbringen de ps: 19<hi style="superscript">ten</hi> Julii 728 N<hi style="superscript">o</hi> 969 hat der <rs type="person" ref="wkfm__1115">Ferroni</rs> obige zwey dem <rs type="person" ref="wkfm__47059">Wendle</rs> und <rs type="person" ref="wkfm__47060">Merl</rs> ertheilte Procuren widerrufen
-               <lb facs="#facs_13_r2l18" n="N017"/>Mitls Anbringen de ps: 20<hi style="superscript">ten</hi> Julii 728 N<hi style="superscript">o</hi> 971 hat der <rs type="person" ref="wkfm__1115">Ferroni</rs> die seiner Ehewirthin <rs type="person">Eva Elisabeth</rs> wehrend seiner Abwesenheit ertheilte
+               <lb facs="#facs_13_r2l14" n="N014"/>Mitls Anbringen de ps: 9<hi style="superscript">ten</hi> Junii 728 N<hi style="superscript">o</hi> 968 hat der <rs type="person" ref="#wkfm__1115">Ferroni</rs> die seinem bedienten <rs type="person" ref="#wkfm__47060">Johann Merl</rs> wehrend seiner Abwe-
+               <lb facs="#facs_13_r2l15" n="N015"/>senheit ertheilte <choice><expan/><abbr>orig:</abbr></choice> procura mit beygerukter Firma der <hi>Merl</hi> <rs type="person" ref="#wkfm__47060">Merl</rs> dd<hi style="superscript">to</hi> eodem N<hi style="superscript">o</hi> 967 eingeleget
+               <lb facs="#facs_13_r2l17" n="N016"/>Mitls Anbringen de ps: 19<hi style="superscript">ten</hi> Julii 728 N<hi style="superscript">o</hi> 969 hat der <rs type="person" ref="#wkfm__1115">Ferroni</rs> obige zwey dem <rs type="person" ref="#wkfm__47059">Wendle</rs> und <rs type="person" ref="#wkfm__47060">Merl</rs> ertheilte Procuren widerrufen
+               <lb facs="#facs_13_r2l18" n="N017"/>Mitls Anbringen de ps: 20<hi style="superscript">ten</hi> Julii 728 N<hi style="superscript">o</hi> 971 hat der <rs type="person" ref="#wkfm__1115">Ferroni</rs> die seiner Ehewirthin <rs type="person">Eva Elisabeth</rs> wehrend seiner Abwesenheit ertheilte
                <lb facs="#facs_13_line_1621518705054_362" n="N018"/><choice><expan/><abbr>orig:</abbr></choice> Procura dd<hi style="superscript">to</hi> 1<hi style="superscript">ten</hi> <choice><expan/><abbr>ej:</abbr></choice> N<hi style="superscript">o</hi> 970 eingeleget.
-               <lb facs="#facs_13_r2l21" n="N019"/>Mitls Anbringen de ps: 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Jul:</abbr></choice> 730 N<hi style="superscript">o</hi> 973 hat der <rs type="person" ref="wkfm__1115">Ferroni</rs> die seinem Bedienten <rs type="person" ref="wkfm__47059">Joseph Cajetan Werndle</rs> wehrend seiner Abwesen-
-               <lb facs="#facs_13_r2l22" n="N020"/>heit ertheilte <choice><expan/><abbr>orig:</abbr></choice> procura mit beygerukter Firma des <rs type="person" ref="wkfm__47059">Werndle</rs> dd<hi style="superscript">to</hi> eodem N<hi style="superscript">o</hi> 972 eingeleget <hi>0</hi>
+               <lb facs="#facs_13_r2l21" n="N019"/>Mitls Anbringen de ps: 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Jul:</abbr></choice> 730 N<hi style="superscript">o</hi> 973 hat der <rs type="person" ref="#wkfm__1115">Ferroni</rs> die seinem Bedienten <rs type="person" ref="#wkfm__47059">Joseph Cajetan Werndle</rs> wehrend seiner Abwesen-
+               <lb facs="#facs_13_r2l22" n="N020"/>heit ertheilte <choice><expan/><abbr>orig:</abbr></choice> procura mit beygerukter Firma des <rs type="person" ref="#wkfm__47059">Werndle</rs> dd<hi style="superscript">to</hi> eodem N<hi style="superscript">o</hi> 972 eingeleget <hi>0</hi>
                <lb facs="#facs_13_r2l23" n="N021"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_13_r2l24" n="N022"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
                <lb facs="#facs_13_line_1621520672245_529" n="N023"/><hi>0</hi>
-               <lb facs="#facs_13_r2l25" n="N024"/>Des <rs type="person" ref="wkfm__47058">Johann Baptista Ferroni <choice><expan/><abbr>seel:</abbr></choice> Wittib Eva Elisabeth</rs> hat mitls Anbringen de ps: 15<hi style="superscript">ten</hi> May
-               <lb facs="#facs_13_r2l26" n="N025"/>732 N<hi style="superscript">o</hi> 975 die ihren Bedienten <rs type="person" ref="wkfm__47061">Heinrich Jenisch</rs> <hi>auf</hi> wehrend <hi>bra</hi> der von ihr brauchenden Baad Cur
-               <lb facs="#facs_13_r2l27" n="N026"/>auf 10 Täge ertheilte <choice><expan/><abbr>orig:</abbr></choice> Procura mit beygerukter Firma des <rs type="person" ref="wkfm__47061">Jenisch</rs> dd<hi style="superscript">to</hi> 18<hi style="superscript">ten</hi> May
+               <lb facs="#facs_13_r2l25" n="N024"/>Des <rs type="person" ref="#wkfm__47058">Johann Baptista Ferroni <choice><expan/><abbr>seel:</abbr></choice> Wittib Eva Elisabeth</rs> hat mitls Anbringen de ps: 15<hi style="superscript">ten</hi> May
+               <lb facs="#facs_13_r2l26" n="N025"/>732 N<hi style="superscript">o</hi> 975 die ihren Bedienten <rs type="person" ref="#wkfm__47061">Heinrich Jenisch</rs> <hi>auf</hi> wehrend <hi>bra</hi> der von ihr brauchenden Baad Cur
+               <lb facs="#facs_13_r2l27" n="N026"/>auf 10 Täge ertheilte <choice><expan/><abbr>orig:</abbr></choice> Procura mit beygerukter Firma des <rs type="person" ref="#wkfm__47061">Jenisch</rs> dd<hi style="superscript">to</hi> 18<hi style="superscript">ten</hi> May
                <lb facs="#facs_13_r2l28" n="N027"/>732 N<hi style="superscript">o</hi> 974 eingeleget
-               <lb facs="#facs_13_r2l29" n="N028"/>Mitls Anbringen de ps: 23<hi style="superscript">ten</hi> Junii 732 N<hi style="superscript">o</hi> 976 hat die <rs type="person" ref="wkfm__47058">Ferronin</rs> obige dem <rs type="person" ref="wkfm__47061">Jenisch</rs> ertheilte
+               <lb facs="#facs_13_r2l29" n="N028"/>Mitls Anbringen de ps: 23<hi style="superscript">ten</hi> Junii 732 N<hi style="superscript">o</hi> 976 hat die <rs type="person" ref="#wkfm__47058">Ferronin</rs> obige dem <rs type="person" ref="#wkfm__47061">Jenisch</rs> ertheilte
                <lb facs="#facs_13_r2l30" n="N029"/>Procura widerrufen.
             </ab>
             

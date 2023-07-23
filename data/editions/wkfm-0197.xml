@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -74,16 +74,16 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_144" n="144" xml:id="img_0144"/>
+            <pb facs="#facs_144" n="144" xml:id="img_0144" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0197.jpg"/>
             
             <ab facs="#facs_144_r1">
                <lb facs="#facs_144_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
-               <lb facs="#facs_144_r1l2" n="N002"/>In obigen Anbringen de ps: 21<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 732 N<hi style="superscript">o</hi> 1861 hat der <rs type="person" ref="wkfm__4646">Peisser</rs> sich
-               <lb facs="#facs_144_r1l3" n="N003"/>erklähret, daß er mit dem <hi>Rigo</hi> <rs type="person" ref="wkfm__5636">Hieronimo Riggotti</rs> in societaet
+               <lb facs="#facs_144_r1l2" n="N002"/>In obigen Anbringen de ps: 21<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 732 N<hi style="superscript">o</hi> 1861 hat der <rs type="person" ref="#wkfm__4646">Peisser</rs> sich
+               <lb facs="#facs_144_r1l3" n="N003"/>erklähret, daß er mit dem <hi>Rigo</hi> <rs type="person" ref="#wkfm__5636">Hieronimo Riggotti</rs> in societaet
                <lb facs="#facs_144_r1l4" n="N004"/>gestanden, welche aber ihr Endschafft erreichet habe, und er seine Handlung
                <lb facs="#facs_144_r1l5" n="N005"/>mit eigenem interesse und Obligo <hi>und mit</hi> forzuführen gedenke.
                <lb facs="#facs_144_r1l6" n="N006"/>Anbey auch mitls Anbringen de ps: 12<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 734 N<hi style="superscript">o</hi> 1862 die zwischen
-               <lb facs="#facs_144_r1l7" n="N007"/><rs type="person" ref="wkfm__4646">ihm</rs> und <rs type="person" ref="wkfm__5636">Riggotti</rs> allschon vor zwey Jahren dissolvirte societaet
+               <lb facs="#facs_144_r1l7" n="N007"/><rs type="person" ref="#wkfm__4646">ihm</rs> und <rs type="person" ref="#wkfm__5636">Riggotti</rs> allschon vor zwey Jahren dissolvirte societaet
                <lb facs="#facs_144_r1l8" n="N008"/>in dem Protocoll abzuthun gebetten.
                <lb facs="#facs_144_r1l9" n="N009"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_144_r1l10" n="N010"/><seg type="orighead__other_notes"><seg type="orighead__other_notes">Anmerkungen</seg></seg>

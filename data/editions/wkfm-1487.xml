@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -73,14 +73,14 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_29" n="29" xml:id="img_0029"/>
+            <pb facs="#facs_29" n="29" xml:id="img_0029" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1487.jpg"/>
             
             <ab facs="#facs_29_r1">
                <lb facs="#facs_29_r1l2" n="N001"/>736
                <lb facs="#facs_29_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_29_r1l3" n="N003"/><rs type="person" ref="wkfm__10060">Streker Johann Franz</rs> burgerlicher Handlsmann
+               <lb facs="#facs_29_r1l3" n="N003"/><rs type="person" ref="#wkfm__10060">Streker Johann Franz</rs> burgerlicher Handlsmann
                <lb facs="#facs_29_r1l4" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_29_r1l5" n="N005"/><rs type="person" ref="wkfm__47415">Johan Frantz Streker</rs> laut Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi>
+               <lb facs="#facs_29_r1l5" n="N005"/><rs type="person" ref="#wkfm__47415">Johan Frantz Streker</rs> laut Erklährung dd<hi style="superscript">to</hi> 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi>
                <lb facs="#facs_29_r1l6" n="N006"/>670
                <lb facs="#facs_29_r1l7" n="N009"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
             </ab>

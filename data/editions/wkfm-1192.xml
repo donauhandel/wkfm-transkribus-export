@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -71,14 +71,14 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_8" n="8" xml:id="img_0008"/>
+            <pb facs="#facs_8" n="8" xml:id="img_0008" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1192.jpg"/>
             
             <ab facs="#facs_8_r1">
                <lb facs="#facs_8_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
-               <lb facs="#facs_8_r1l2" n="N002"/>In obigen Anbringen de ps: 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 1019 hat der <rs type="person" ref="wkfm__34278">Johann
+               <lb facs="#facs_8_r1l2" n="N002"/>In obigen Anbringen de ps: 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 1019 hat der <rs type="person" ref="#wkfm__34278">Johann
                <lb break="no" facs="#facs_8_r1l3" n="N003"/>Anton Martinelli</rs> angezeiget das er sein negotium mit sein und
-               <lb facs="#facs_8_r1l4" n="N004"/>seines bruders <rs type="person" ref="wkfm__46856">Franz Jacob Martinelli</rs> <choice><expan/><abbr>intee</abbr></choice> unter der societaet
-               <lb facs="#facs_8_r1l5" n="N005"/>Raggion <rs type="person" ref="wkfm__8416">Gebrüder Martinelli</rs> führe
+               <lb facs="#facs_8_r1l4" n="N004"/>seines bruders <rs type="person" ref="#wkfm__46856">Franz Jacob Martinelli</rs> <choice><expan/><abbr>intee</abbr></choice> unter der societaet
+               <lb facs="#facs_8_r1l5" n="N005"/>Raggion <rs type="person" ref="#wkfm__8416">Gebrüder Martinelli</rs> führe
                <lb facs="#facs_8_r1l6" n="N006"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_8_r1l7" n="N007"/>Anmerckungen
             </ab>

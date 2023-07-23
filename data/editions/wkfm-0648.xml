@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -109,54 +109,54 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_28" n="28" xml:id="img_0028"/>
+            <pb facs="#facs_28" n="28" xml:id="img_0028" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0648.jpg"/>
             
             <ab facs="#facs_28_r1">
                <lb facs="#facs_28_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
-               <lb facs="#facs_28_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 22<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 733 N<hi style="superscript">o</hi> 309 hat sich der <rs type="person" ref="wkfm__23412">Egger</rs> geäussert
+               <lb facs="#facs_28_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 22<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 733 N<hi style="superscript">o</hi> 309 hat sich der <rs type="person" ref="#wkfm__23412">Egger</rs> geäussert
                <lb facs="#facs_28_r1l3" n="N003"/>daß er seine Handlung ohne Compagnon führe
-               <lb facs="#facs_28_r1l4" n="N004"/>Der <rs type="person" ref="wkfm__23412">Egger</rs> hat mit dem <rs type="person" ref="wkfm__27912">Johann Ignatz Babitsch</rs> untern 3<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 738 der in <choice><expan/><abbr>orig.</abbr></choice>
-               <lb facs="#facs_28_r1l5" n="N005"/>N<hi style="superscript">o</hi> 1928 <unclear><hi>a</hi>engelegten</unclear> Societaets Contract dahin abgeschlossen, daß der <rs type="person" ref="wkfm__23412">Egger</rs> an Waaren
+               <lb facs="#facs_28_r1l4" n="N004"/>Der <rs type="person" ref="#wkfm__23412">Egger</rs> hat mit dem <rs type="person" ref="#wkfm__27912">Johann Ignatz Babitsch</rs> untern 3<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 738 der in <choice><expan/><abbr>orig.</abbr></choice>
+               <lb facs="#facs_28_r1l5" n="N005"/>N<hi style="superscript">o</hi> 1928 <unclear><hi>a</hi>engelegten</unclear> Societaets Contract dahin abgeschlossen, daß der <rs type="person" ref="#wkfm__23412">Egger</rs> an Waaren
                <lb facs="#facs_28_r1l6" n="N006"/>a primo <unclear>C<blackening>xx</blackening>to</unclear> mit Einrechnung der Einrichtung <choice><expan/><abbr>pr</abbr></choice> 600 fl 10000 fl <hi>davon</hi> ligen zu lassen
                <lb facs="#facs_28_r1l7" n="N007"/>der <rs type="person">Babitsch</rs> <blackening><unclear>xxx</unclear></blackening> 5000 fl in Waaren und Geld beyzutragen schuldig mithin die Einlag auf 15000 fl gesezet
-               <lb facs="#facs_28_r1l8" n="N008"/>seye solle der <rs type="person" ref="wkfm__27912">Babitsch</rs> mit Rath des <rs type="person" ref="wkfm__23412">Eggers</rs> alle die direction führen, gewünn und <unclear>Verlust</unclear>
-               <lb facs="#facs_28_r1l9" n="N009"/>dann Spesen jeden zur Helfte betrefen, dem <rs type="person" ref="wkfm__23412">Egger</rs> jahrlich 4 <choice><expan/><abbr>pC<hi style="superscript">to</hi></abbr></choice> <choice><expan/><abbr>intee</abbr></choice> aus der Handlung <unclear>vo</unclear>
-               <lb facs="#facs_28_r1l10" n="N010"/>500 fl bezahlet, von jenem was sich in dem <hi>B</hi> <rs type="person" ref="wkfm__23412">Egger</rs>. inventur über 10000 fl äusseren
-               <lb facs="#facs_28_r1l11" n="N011"/>wird, dem <rs type="person" ref="wkfm__23412">Egger</rs> aus der Handlung Monathlich 20 <choice><expan/><abbr>pC<hi style="superscript">to</hi></abbr></choice> biß zu dessen abführung, in nicht zu
-               <lb facs="#facs_28_r1l12" n="N012"/>haltungs Fall aber das <choice><expan/><abbr>intee</abbr></choice>  <unclear>a 5</unclear> <choice><expan/><abbr>pC<hi style="superscript">to</hi></abbr></choice> bezahlet, und hirüber von dem <rs type="person" ref="wkfm__27912">Babitsch</rs> unter der Raggions
-               <lb facs="#facs_28_r1l13" n="N013"/>Firma ein <unclear>obligo</unclear> ausgestellet werden, alles dem <rs type="person" ref="wkfm__23412">Egger</rs> über die 10000 fl gehörige oder durch
+               <lb facs="#facs_28_r1l8" n="N008"/>seye solle der <rs type="person" ref="#wkfm__27912">Babitsch</rs> mit Rath des <rs type="person" ref="#wkfm__23412">Eggers</rs> alle die direction führen, gewünn und <unclear>Verlust</unclear>
+               <lb facs="#facs_28_r1l9" n="N009"/>dann Spesen jeden zur Helfte betrefen, dem <rs type="person" ref="#wkfm__23412">Egger</rs> jahrlich 4 <choice><expan/><abbr>pC<hi style="superscript">to</hi></abbr></choice> <choice><expan/><abbr>intee</abbr></choice> aus der Handlung <unclear>vo</unclear>
+               <lb facs="#facs_28_r1l10" n="N010"/>500 fl bezahlet, von jenem was sich in dem <hi>B</hi> <rs type="person" ref="#wkfm__23412">Egger</rs>. inventur über 10000 fl äusseren
+               <lb facs="#facs_28_r1l11" n="N011"/>wird, dem <rs type="person" ref="#wkfm__23412">Egger</rs> aus der Handlung Monathlich 20 <choice><expan/><abbr>pC<hi style="superscript">to</hi></abbr></choice> biß zu dessen abführung, in nicht zu
+               <lb facs="#facs_28_r1l12" n="N012"/>haltungs Fall aber das <choice><expan/><abbr>intee</abbr></choice>  <unclear>a 5</unclear> <choice><expan/><abbr>pC<hi style="superscript">to</hi></abbr></choice> bezahlet, und hirüber von dem <rs type="person" ref="#wkfm__27912">Babitsch</rs> unter der Raggions
+               <lb facs="#facs_28_r1l13" n="N013"/>Firma ein <unclear>obligo</unclear> ausgestellet werden, alles dem <rs type="person" ref="#wkfm__23412">Egger</rs> über die 10000 fl gehörige oder durch
                <lb facs="#facs_28_r1l14" n="N014"/><unclear>Separirte Negotia</unclear> erwerbende<hi>, <unclear>alle</unclear></hi> alß ein Separirtes Gutt <unclear><hi>ange</hi>seh</unclear> angesehen und in Un=
-               <lb facs="#facs_28_line_1619619447210_278" n="N015"/>glücks Fall der <rs type="person" ref="wkfm__23412">Egger</rs> für nicht mehr alß 10000 fl gehalten, die Raggion <rs type="person" ref="wkfm__37828">Egger und Babitsch</rs> unter beeder
+               <lb facs="#facs_28_line_1619619447210_278" n="N015"/>glücks Fall der <rs type="person" ref="#wkfm__23412">Egger</rs> für nicht mehr alß 10000 fl gehalten, die Raggion <rs type="person" ref="#wkfm__37828">Egger und Babitsch</rs> unter beeder
                <lb facs="#facs_28_r1l16" n="N016"/>seithiger Firmirung und abhaltung eines Saldo Conti, Cassa Buchs und übrigen <unclear>Zinhnsen</unclear> laufen, alle
                <lb facs="#facs_28_r1l17" n="N017"/>2 Jahre ein Inventar unter beederseithigen Fertigung errichtet hiervon sich ein Exemplar zugestelt
                <lb facs="#facs_28_r1l18" n="N018"/>der Gewün getheilet und zudem theil bevorstehen, solchen herauszunehmen oder in der Handlung zu
-               <lb facs="#facs_28_r1l19" n="N019"/>lassen, der <rs type="person" ref="wkfm__27912">Babitsch</rs> seine Handlung aufzugeben mit Vorbehalt seines Rechts schuldig seye <hi>0</hi>
+               <lb facs="#facs_28_r1l19" n="N019"/>lassen, der <rs type="person" ref="#wkfm__27912">Babitsch</rs> seine Handlung aufzugeben mit Vorbehalt seines Rechts schuldig seye <hi>0</hi>
                <lb facs="#facs_28_r1l20" n="N020"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
-               <lb facs="#facs_28_r1l21" n="N021"/><hi>0</hi> nach der Separation die Handlung dem <rs type="person" ref="wkfm__23412">Egger</rs> zurukstellen, falß er aber <unclear>solche</unclear>
-               <lb facs="#facs_28_r1l22" n="N022"/>hindann zu lassen gesinnet der <rs type="person" ref="wkfm__27912">Babitsch</rs> <unclear>hierau</unclear>f das Vorrecht vor allen anderen <unclear>Faber</unclear>
-               <lb facs="#facs_28_r1l23" n="N023"/>der <rs type="person" ref="wkfm__27912">Babitsch</rs> bey Austrettung seinen Antheil zu Helfte an Waaren zur anderen an aus
-               <lb facs="#facs_28_r1l24" n="N024"/>ständigen Schulden anzunehmen schuldig, desgleich er <rs type="person" ref="wkfm__27912">Babitsch</rs> die Diener und Jungen mit
-               <lb facs="#facs_28_r1l25" n="N025"/>Kost Zimmer und Beth gegen von dem <rs type="person" ref="wkfm__27912">Babitsch</rs> jährlich überkommende 80 fl für ewige
+               <lb facs="#facs_28_r1l21" n="N021"/><hi>0</hi> nach der Separation die Handlung dem <rs type="person" ref="#wkfm__23412">Egger</rs> zurukstellen, falß er aber <unclear>solche</unclear>
+               <lb facs="#facs_28_r1l22" n="N022"/>hindann zu lassen gesinnet der <rs type="person" ref="#wkfm__27912">Babitsch</rs> <unclear>hierau</unclear>f das Vorrecht vor allen anderen <unclear>Faber</unclear>
+               <lb facs="#facs_28_r1l23" n="N023"/>der <rs type="person" ref="#wkfm__27912">Babitsch</rs> bey Austrettung seinen Antheil zu Helfte an Waaren zur anderen an aus
+               <lb facs="#facs_28_r1l24" n="N024"/>ständigen Schulden anzunehmen schuldig, desgleich er <rs type="person" ref="#wkfm__27912">Babitsch</rs> die Diener und Jungen mit
+               <lb facs="#facs_28_r1l25" n="N025"/>Kost Zimmer und Beth gegen von dem <rs type="person" ref="#wkfm__27912">Babitsch</rs> jährlich überkommende 80 fl für ewige
                <lb facs="#facs_28_line_1619620986752_325" n="N026"/>Diener und 40 fl und <hi><unclear>überkommung</unclear></hi> Abreichung der Klaidung und anderer Nothwändigkeit für <unclear>dis</unclear>
-               <lb facs="#facs_28_r1l28" n="N027"/><unclear>legkre</unclear> aus der Handlung zu verschafen, dem <rs type="person" ref="wkfm__23412">Egger</rs> all monathlich 30 fl gegen <unclear>rationen</unclear>
-               <lb facs="#facs_28_r1l29" n="N028"/>in debto abgereichet, der <rs type="person" ref="wkfm__27912">Babitsch</rs> nur das nothige aus der Handlung zu nehmen befuge
+               <lb facs="#facs_28_r1l28" n="N027"/><unclear>legkre</unclear> aus der Handlung zu verschafen, dem <rs type="person" ref="#wkfm__23412">Egger</rs> all monathlich 30 fl gegen <unclear>rationen</unclear>
+               <lb facs="#facs_28_r1l29" n="N028"/>in debto abgereichet, der <rs type="person" ref="#wkfm__27912">Babitsch</rs> nur das nothige aus der Handlung zu nehmen befuge
                <lb facs="#facs_28_line_1619621581730_362" n="N029"/>und zu debitiren schuldig seyen, der Contract für die Contrahenten und für Erben <unclear>von</unclear> Georgi 738 auf 6 Jahr
                <lb facs="#facs_28_r1l33" n="N030"/>verstanden seye und sohin mit beeder Einwilligung von 6 zu 6 Jahr erneueret worden
                <lb facs="#facs_28_r1l34" n="N031"/>fals dann falls ein oder anderer nach Verflüssung deren 6 Jahren austretten <unclear>wolte</unclear>
                <lb facs="#facs_28_r1l35" n="N032"/>die Aufkündung ein Jahr vor Verflüssung derselben gemacht und der Austrettende
                <lb facs="#facs_28_r1l36" n="N033"/>aber Fleiß zu liquidir und Eintreibung deren Schulden anzuwänden schuldig seyen solle,
-               <lb facs="#facs_28_line_1619623688721_439" n="N034"/>Mitls Anbringen de ps: 29<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 742 N<hi style="superscript">o</hi> 1929 hat der <rs type="person" ref="wkfm__23412">Franz Dionisius Egger</rs> und <rs type="person" ref="wkfm__27912">Johann</rs> <hi style="text-decoration: underline;">0</hi>
+               <lb facs="#facs_28_line_1619623688721_439" n="N034"/>Mitls Anbringen de ps: 29<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 742 N<hi style="superscript">o</hi> 1929 hat der <rs type="person" ref="#wkfm__23412">Franz Dionisius Egger</rs> und <rs type="person" ref="#wkfm__27912">Johann</rs> <hi style="text-decoration: underline;">0</hi>
                <lb facs="#facs_28_r1l40" n="N035"/>Anmerckungen
-               <lb facs="#facs_28_r1l42" n="N036"/><hi style="text-decoration: underline;">0</hi> <rs type="person" ref="wkfm__27912">Ignaz Babitsch</rs> angezeiget, daß ihre Societaet nach Inhalt des unte<hi>rn</hi> <hi>29<hi style="superscript"/></hi>ten<unclear>rem</unclear>
+               <lb facs="#facs_28_r1l42" n="N036"/><hi style="text-decoration: underline;">0</hi> <rs type="person" ref="#wkfm__27912">Ignaz Babitsch</rs> angezeiget, daß ihre Societaet nach Inhalt des unte<hi>rn</hi> <hi>29<hi style="superscript"/></hi>ten<unclear>rem</unclear>
                <lb facs="#facs_28_line_1619631209459_537" n="N037"/>dato errichtet in <choice><expan/><abbr>orig.</abbr></choice> N<hi style="superscript">o</hi> 1930 eingelegten Separations Contract geendiget, <unclear>kr[aft]</unclear>
-               <lb facs="#facs_28_r1l45" n="N038"/>welchen der <rs type="person" ref="wkfm__23412">Egger</rs> die <unclear>ganze</unclear> Handlung samt active und Passive schulden nach der <unclear>incent</unclear>
-               <lb facs="#facs_28_r1l46" n="N039"/>de Medi <choice><expan/><abbr>Apr:</abbr></choice> 742 übenohmen die Passiva ohne entgeld des <rs type="person" ref="wkfm__27912">Babitsch</rs> zu bezahlen sich <unclear>verb</unclear>
-               <lb facs="#facs_28_r1l47" n="N040"/>hat, wann jedoch passiva so in der inventur nicht begrifen sich äusseren <unclear>wenden</unclear> der <rs type="person" ref="wkfm__27912">Bab[itsch]</rs>
-               <lb facs="#facs_28_line_1619632201923_578" n="N041"/>hirfür zur Helfte <unclear>oder</unclear> nach Beschafenheit in <unclear>Raton</unclear> zu haften schuldig seye <unclear>er</unclear>, der <rs type="person" ref="wkfm__23412">Egg[er]</rs>
-               <lb facs="#facs_28_r1l51" n="N042"/>dem <rs type="person" ref="wkfm__27912">Babitsch</rs> 1000 fl an Waaren und 1000 fl an activis, und 500 fl in baaren Geld zu <unclear>seine</unclear>
+               <lb facs="#facs_28_r1l45" n="N038"/>welchen der <rs type="person" ref="#wkfm__23412">Egger</rs> die <unclear>ganze</unclear> Handlung samt active und Passive schulden nach der <unclear>incent</unclear>
+               <lb facs="#facs_28_r1l46" n="N039"/>de Medi <choice><expan/><abbr>Apr:</abbr></choice> 742 übenohmen die Passiva ohne entgeld des <rs type="person" ref="#wkfm__27912">Babitsch</rs> zu bezahlen sich <unclear>verb</unclear>
+               <lb facs="#facs_28_r1l47" n="N040"/>hat, wann jedoch passiva so in der inventur nicht begrifen sich äusseren <unclear>wenden</unclear> der <rs type="person" ref="#wkfm__27912">Bab[itsch]</rs>
+               <lb facs="#facs_28_line_1619632201923_578" n="N041"/>hirfür zur Helfte <unclear>oder</unclear> nach Beschafenheit in <unclear>Raton</unclear> zu haften schuldig seye <unclear>er</unclear>, der <rs type="person" ref="#wkfm__23412">Egg[er]</rs>
+               <lb facs="#facs_28_r1l51" n="N042"/>dem <rs type="person" ref="#wkfm__27912">Babitsch</rs> 1000 fl an Waaren und 1000 fl an activis, und 500 fl in baaren Geld zu <unclear>seine</unclear>
                <lb facs="#facs_28_line_1619632723847_624" n="N043"/>Unterhalt biß Michaelis <unclear>Fest</unclear> nebst einigen alten Einrichtung herausgeben, dann jene
-               <lb facs="#facs_28_line_1619632771763_640" n="N044"/>1000 fl welche der <rs type="person" ref="wkfm__27912">Babitsch</rs> wehrender Societaet denen <unclear>PP</unclear> Carmelitern schuldig geworden
-               <lb facs="#facs_28_r1l55" n="N045"/>auf sich zunehmen, und der <rs type="person" ref="wkfm__27912">Babitsch</rs> auf Michaeli gänzlich austreten solle.
+               <lb facs="#facs_28_line_1619632771763_640" n="N044"/>1000 fl welche der <rs type="person" ref="#wkfm__27912">Babitsch</rs> wehrender Societaet denen <unclear>PP</unclear> Carmelitern schuldig geworden
+               <lb facs="#facs_28_r1l55" n="N045"/>auf sich zunehmen, und der <rs type="person" ref="#wkfm__27912">Babitsch</rs> auf Michaeli gänzlich austreten solle.
             </ab>
             
         </div>

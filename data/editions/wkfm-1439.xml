@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -81,24 +81,24 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_87" n="87" xml:id="img_0087"/>
+            <pb facs="#facs_87" n="87" xml:id="img_0087" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1439.jpg"/>
             
             <ab facs="#facs_87_r1">
                <lb facs="#facs_87_r1l2" n="N001"/>712
                <lb facs="#facs_87_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_87_r1l3" n="N003"/><rs type="person" ref="wkfm__46571">Riva Joseph Maria</rs> burgerlicher Handlsmann
+               <lb facs="#facs_87_r1l3" n="N003"/><rs type="person" ref="#wkfm__46571">Riva Joseph Maria</rs> burgerlicher Handlsmann
                <lb facs="#facs_87_r1l4" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_87_r1l5" n="N005"/><choice><expan/><abbr>Ao</abbr></choice> <hi>766</hi> 765 hat <rs type="person" ref="wkfm__46571">Joseph Maria Riva</rs> seine firma eingelegt <choice><expan/><abbr>nro</abbr></choice> 656 1/2
+               <lb facs="#facs_87_r1l5" n="N005"/><choice><expan/><abbr>Ao</abbr></choice> <hi>766</hi> 765 hat <rs type="person" ref="#wkfm__46571">Joseph Maria Riva</rs> seine firma eingelegt <choice><expan/><abbr>nro</abbr></choice> 656 1/2
                <lb facs="#facs_87_r1l6" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_87_r1l7" n="N007"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_87_r1l8" n="N008"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_87_r1l9" n="N009"/>Der <rs type="person" ref="wkfm__46571">Riva</rs> hat seinen Fundum mitls der specification <hi>N<hi style="superscript"/></hi>o<hi style="superscript">o</hi> 1675, welche derselbe
+               <lb facs="#facs_87_r1l9" n="N009"/>Der <rs type="person" ref="#wkfm__46571">Riva</rs> hat seinen Fundum mitls der specification <hi>N<hi style="superscript"/></hi>o<hi style="superscript">o</hi> 1675, welche derselbe
                <lb facs="#facs_87_r1l10" n="N010"/>untern 26<hi style="superscript">ten</hi> Junii 747 beeydiget folgendermaßen ausgewisen, nemlich daß er
                <lb facs="#facs_87_r1l11" n="N011"/>eigenthumlich besize an Vatterlichen Erbgutt 1200 fl
                <lb facs="#facs_87_r1l13" n="N012"/>an Vatter- und Mütterlichen deto 800 fl
                <lb facs="#facs_87_r1l15" n="N013"/>an erspahrten lidlohn 800 fl
                <lb facs="#facs_87_r1l17" n="N014"/>zusamen Eigenthum 2800 fl
-               <lb facs="#facs_87_r1l18" n="N015"/>zu Completirung des übrigen hat der <rs type="person" ref="wkfm__46756">Lucas Heugl</rs> das <choice><expan/><abbr>orig:</abbr></choice> Cautions
+               <lb facs="#facs_87_r1l18" n="N015"/>zu Completirung des übrigen hat der <rs type="person" ref="#wkfm__46756">Lucas Heugl</rs> das <choice><expan/><abbr>orig:</abbr></choice> Cautions
                <lb facs="#facs_87_r1l19" n="N016"/>Instrument dd<hi style="superscript">to</hi> 24<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 747 N<hi style="superscript">o</hi> 1676 eingeleget <choice><expan/><abbr>pr</abbr></choice> 1200 fl
                <lb facs="#facs_87_r1l21" n="N017"/><choice><expan/><abbr>Sa</abbr></choice> 4000 fl
             </ab>

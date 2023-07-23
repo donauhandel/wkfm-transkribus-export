@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -74,15 +74,15 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_140" n="140" xml:id="img_0140"/>
+            <pb facs="#facs_140" n="140" xml:id="img_0140" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1598.jpg"/>
             
             <ab facs="#facs_140_r1">
                <lb facs="#facs_140_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
-               <lb facs="#facs_140_r1l2" n="N002"/>Mitls Anbringen de ps: 19<hi style="superscript">ten</hi> Junii 734 N<hi style="superscript">o</hi> 727 hat der <rs type="person" ref="wkfm__8802">Lucas Setti</rs>
-               <lb facs="#facs_140_r1l3" n="N003"/>für seine zwey Söhne <rs type="person" ref="wkfm__26327">Franz</rs> et <rs type="person" ref="wkfm__23727">Ferdinand</rs> <hi>Setti</hi> die Societaets
-               <lb facs="#facs_140_r1l4" n="N004"/><hi>der</hi> Firma <rs type="person" ref="wkfm__47499">Franz et Ferdinand Setti</rs> alß mitinteressent nebst 
+               <lb facs="#facs_140_r1l2" n="N002"/>Mitls Anbringen de ps: 19<hi style="superscript">ten</hi> Junii 734 N<hi style="superscript">o</hi> 727 hat der <rs type="person" ref="#wkfm__8802">Lucas Setti</rs>
+               <lb facs="#facs_140_r1l3" n="N003"/>für seine zwey Söhne <rs type="person" ref="#wkfm__26327">Franz</rs> et <rs type="person" ref="#wkfm__23727">Ferdinand</rs> <hi>Setti</hi> die Societaets
+               <lb facs="#facs_140_r1l4" n="N004"/><hi>der</hi> Firma <rs type="person" ref="#wkfm__47499">Franz et Ferdinand Setti</rs> alß mitinteressent nebst 
                <lb facs="#facs_140_r1l6" n="N005"/>einen hofdecret dd<hi style="superscript">to</hi> 3<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 734 N<hi style="superscript">o</hi> 728 in Copia vidimata eingeleget, kraft welchen
-               <lb facs="#facs_140_r1l7" n="N006"/>er <rs type="person" ref="wkfm__8802">Lucas Setti</rs> seiner Erklährung gemäß wehrender <unclear>Minorietaet</unclear>
+               <lb facs="#facs_140_r1l7" n="N006"/>er <rs type="person" ref="#wkfm__8802">Lucas Setti</rs> seiner Erklährung gemäß wehrender <unclear>Minorietaet</unclear>
                <lb facs="#facs_140_r1l8" n="N007"/>dieser seiner Söhnen in allen diese Handlung angehenden Sachen
                <lb facs="#facs_140_r1l9" n="N008"/>zu hafften schuldig.
                <lb facs="#facs_140_r1l10" n="N009"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>

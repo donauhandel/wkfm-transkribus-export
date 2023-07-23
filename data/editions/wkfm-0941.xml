@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -77,19 +77,19 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_21" n="21" xml:id="img_0021"/>
+            <pb facs="#facs_21" n="21" xml:id="img_0021" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0941.jpg"/>
             
             <ab facs="#facs_21_r1">
                <lb facs="#facs_21_r1l2" n="N001"/>463
                <lb facs="#facs_21_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_21_r1l3" n="N003"/><rs type="person" ref="wkfm__46446">Heigl Lorenz</rs> k. k. Niderlags Verwanter
+               <lb facs="#facs_21_r1l3" n="N003"/><rs type="person" ref="#wkfm__46446">Heigl Lorenz</rs> k. k. Niderlags Verwanter
                <lb facs="#facs_21_r1l4" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_21_r1l5" n="N005"/><rs type="person" ref="wkfm__46447">Lorentz Heigl</rs> laut Anbringen de ps: 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 435
+               <lb facs="#facs_21_r1l5" n="N005"/><rs type="person" ref="#wkfm__46447">Lorentz Heigl</rs> laut Anbringen de ps: 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 435
                <lb facs="#facs_21_r1l6" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
-               <lb facs="#facs_21_r1l7" n="N007"/>Mitls Anbringen de ps: 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 984 hat der <rs type="person" ref="wkfm__46446">Heigl</rs> die seinem Bedienten
-               <lb facs="#facs_21_r1l8" n="N008"/><rs type="person" ref="wkfm__25454">Matthias Franz Gschaider</rs> ertheilte unumschränkte Procura dd<hi style="superscript">to</hi> 24<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice>
-               <lb facs="#facs_21_r1l9" n="N009"/>d.a. mit beygerukte Firma des <rs type="person" ref="wkfm__25454">Gschaider</rs> N<hi style="superscript">o</hi> 983 in <choice><expan/><abbr>orig:</abbr></choice> eingeleget
-               <lb facs="#facs_21_r1l10" n="N010"/>Mitls anbringen de ps: 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 728 N<hi style="superscript">o</hi> 985 hat der <rs type="person" ref="wkfm__46446">Heigl</rs> diese dem <rs type="person" ref="wkfm__25454">Gschai-
+               <lb facs="#facs_21_r1l7" n="N007"/>Mitls Anbringen de ps: 20<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 984 hat der <rs type="person" ref="#wkfm__46446">Heigl</rs> die seinem Bedienten
+               <lb facs="#facs_21_r1l8" n="N008"/><rs type="person" ref="#wkfm__25454">Matthias Franz Gschaider</rs> ertheilte unumschränkte Procura dd<hi style="superscript">to</hi> 24<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice>
+               <lb facs="#facs_21_r1l9" n="N009"/>d.a. mit beygerukte Firma des <rs type="person" ref="#wkfm__25454">Gschaider</rs> N<hi style="superscript">o</hi> 983 in <choice><expan/><abbr>orig:</abbr></choice> eingeleget
+               <lb facs="#facs_21_r1l10" n="N010"/>Mitls anbringen de ps: 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 728 N<hi style="superscript">o</hi> 985 hat der <rs type="person" ref="#wkfm__46446">Heigl</rs> diese dem <rs type="person" ref="#wkfm__25454">Gschai-
                <lb break="no" facs="#facs_21_r1l11" n="N011"/>der</rs> ertheilte Procura widerrufen.
                <lb facs="#facs_21_r1l12" n="N012"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_21_r1l13" n="N013"/><seg type="orighead__fundi">Fundi Ausweisung</seg>

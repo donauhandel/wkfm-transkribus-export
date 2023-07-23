@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -74,15 +74,15 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_36" n="36" xml:id="img_0036"/>
+            <pb facs="#facs_36" n="36" xml:id="img_0036" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0041.jpg"/>
             
             <ab facs="#facs_36_r1">
                <lb facs="#facs_36_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_36_r1l2" n="N002"/>Laut obiger Erklährung dd<hi style="superscript">to</hi> 13<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 731 N<hi style="superscript">o</hi> 1990 hat sich der 
-               <lb facs="#facs_36_r1l3" n="N003"/><rs type="person" ref="wkfm__28699">Ampach </rs>erklähret, daß er mit dem <rs type="person" ref="wkfm__37701">Philipp Joseph Langwider</rs>
+               <lb facs="#facs_36_r1l3" n="N003"/><rs type="person" ref="#wkfm__28699">Ampach </rs>erklähret, daß er mit dem <rs type="person" ref="#wkfm__37701">Philipp Joseph Langwider</rs>
                <lb facs="#facs_36_r1l4" n="N004"/>eine Handlung in Compagnie errichtet und führe
-               <lb facs="#facs_36_r1l5" n="N005"/>Laut obigen Anbringen de ps: 8<hi style="superscript">ten</hi> Junii 735 N<hi style="superscript">o</hi> 18 hat der <rs type="person" ref="wkfm__28699">Ampach </rs>die
-               <lb facs="#facs_36_r1l6" n="N006"/>weithere Erklährung gemacht, daß er sich von dem <rs type="person" ref="wkfm__37701">Langwider</rs>
+               <lb facs="#facs_36_r1l5" n="N005"/>Laut obigen Anbringen de ps: 8<hi style="superscript">ten</hi> Junii 735 N<hi style="superscript">o</hi> 18 hat der <rs type="person" ref="#wkfm__28699">Ampach </rs>die
+               <lb facs="#facs_36_r1l6" n="N006"/>weithere Erklährung gemacht, daß er sich von dem <rs type="person" ref="#wkfm__37701">Langwider</rs>
                <lb facs="#facs_36_r1l7" n="N007"/>vor einem Jahr separiret, und seine Handlung mit seinen al-
                <lb facs="#facs_36_r1l8" n="N008"/>leinigen interesse führe.
                <lb facs="#facs_36_r1l9" n="N009"/><seg type="orighead__wedding_contract">Heuraths=Contract</seg>

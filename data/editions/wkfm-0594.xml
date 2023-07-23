@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -83,22 +83,22 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_94" n="94" xml:id="img_0094"/>
+            <pb facs="#facs_94" n="94" xml:id="img_0094" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0594.jpg"/>
             
             <ab facs="#facs_94_r1">
                <lb facs="#facs_94_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
-               <lb facs="#facs_94_r1l2" n="N002"/>Mitls Anbringen des ps: 11<hi style="superscript">ten </hi>Junii 742 N<hi style="superscript">o</hi> 1924 et 1925 hat der <rs type="person" ref="wkfm__37748">Joh:
-               <lb break="no" facs="#facs_94_r1l3" n="N003"/>Dietschi</rs> und dessen Bruder <rs type="person" ref="wkfm__43997">Johann Georg Dietschi</rs> angezeiget, daß sie
+               <lb facs="#facs_94_r1l2" n="N002"/>Mitls Anbringen des ps: 11<hi style="superscript">ten </hi>Junii 742 N<hi style="superscript">o</hi> 1924 et 1925 hat der <rs type="person" ref="#wkfm__37748">Joh:
+               <lb break="no" facs="#facs_94_r1l3" n="N003"/>Dietschi</rs> und dessen Bruder <rs type="person" ref="#wkfm__43997">Johann Georg Dietschi</rs> angezeiget, daß sie
                <lb facs="#facs_94_r1l4" n="N004"/>zwischen ihnen vorgeweste societaet geendiget seye; wornebens beede
                <lb facs="#facs_94_r1l5" n="N005"/>den <choice><expan/><abbr>orig:</abbr></choice> revers dd<hi style="superscript">to</hi> 14<hi style="superscript">ten</hi> Junii 742 N<hi style="superscript">o</hi> 1926 dieß Inhalts eingeleget,
                <lb facs="#facs_94_r1l6" n="N006"/>daß, nachdem sie beede Brüder <choice><expan/><abbr>Ao</abbr></choice> 740 alß offentliche socii in die
-               <lb facs="#facs_94_r1l7" n="N007"/>Handlung zusamen getretten, nunmehro aber der <rs type="person" ref="wkfm__37748">Johann Dietschi</rs>
+               <lb facs="#facs_94_r1l7" n="N007"/>Handlung zusamen getretten, nunmehro aber der <rs type="person" ref="#wkfm__37748">Johann Dietschi</rs>
                <lb facs="#facs_94_r1l8" n="N008"/>aus selber zu tretten gesinnet seye, als verobligiren sie sich, Brüder,
                <lb facs="#facs_94_r1l9" n="N009"/>jeder in solidum, die in dieser societaet contrahirte Passiva
                <lb facs="#facs_94_r1l10" n="N010"/>zu bezahlen.
                <lb facs="#facs_94_r1l11" n="N011"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
-               <lb facs="#facs_94_r1l12" n="N012"/>Mitls Anbringen de ps: 9<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 744 N<hi style="superscript">o</hi> 2134 hat der <rs type="person" ref="wkfm__37748">Johann Dietschj</rs>
-               <lb facs="#facs_94_r1l13" n="N013"/>den mit der <rs type="person" ref="wkfm__46275">Theresia Wiegathin</rs> untern 21<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 743 abgeschlossenen
+               <lb facs="#facs_94_r1l12" n="N012"/>Mitls Anbringen de ps: 9<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 744 N<hi style="superscript">o</hi> 2134 hat der <rs type="person" ref="#wkfm__37748">Johann Dietschj</rs>
+               <lb facs="#facs_94_r1l13" n="N013"/>den mit der <rs type="person" ref="#wkfm__46275">Theresia Wiegathin</rs> untern 21<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 743 abgeschlossenen
                <lb facs="#facs_94_r1l14" n="N014"/>Heurathscontract in copia vidimata N<hi style="superscript">o</hi> 2133 eingeleget,  krafft welchen
                <lb facs="#facs_94_r1l15" n="N015"/>1000 fl heurathgutt nebst 2000 fl Widerlag auf überleben, dann
                <lb facs="#facs_94_r1l16" n="N016"/>jenes was wehrender Ehe erworben und gewonnen wird, als ein

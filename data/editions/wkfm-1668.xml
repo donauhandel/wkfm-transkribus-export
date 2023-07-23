@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -84,26 +84,26 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_210" n="210" xml:id="img_0210"/>
+            <pb facs="#facs_210" n="210" xml:id="img_0210" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1668.jpg"/>
             
             <ab facs="#facs_210_r1">
                <lb facs="#facs_210_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
-               <lb facs="#facs_210_r1l2" n="N002"/>Die Raggion <rs type="person" ref="wkfm__44048">Zacharias Kriner Schmidt et <choice><expan/><abbr>Comp:</abbr></choice></rs> hat mitls obigen Anb<gap/>
-               <lb facs="#facs_210_r1l3" n="N003"/>de ps: 9<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 727 N<hi style="superscript">o</hi> 1899 angezeiget, daß der <rs type="person" ref="wkfm__44054">Johann Georg <unclear>Schmidt</unclear></rs>
-               <lb facs="#facs_210_r1l4" n="N004"/>sich aus der Handlung begeben habe, und dahrgegen dessen Sohn <rs type="person" ref="wkfm__44053">Johann Andre
-               <lb break="no" facs="#facs_210_r1l5" n="N005"/>Schmidt</rs> und Tochter Mann <rs type="person" ref="wkfm__44051">Johann Caspar Scheidlin</rs> mit dem <rs type="person" ref="wkfm__11308">Matthias
+               <lb facs="#facs_210_r1l2" n="N002"/>Die Raggion <rs type="person" ref="#wkfm__44048">Zacharias Kriner Schmidt et <choice><expan/><abbr>Comp:</abbr></choice></rs> hat mitls obigen Anb<gap/>
+               <lb facs="#facs_210_r1l3" n="N003"/>de ps: 9<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 727 N<hi style="superscript">o</hi> 1899 angezeiget, daß der <rs type="person" ref="#wkfm__44054">Johann Georg <unclear>Schmidt</unclear></rs>
+               <lb facs="#facs_210_r1l4" n="N004"/>sich aus der Handlung begeben habe, und dahrgegen dessen Sohn <rs type="person" ref="#wkfm__44053">Johann Andre
+               <lb break="no" facs="#facs_210_r1l5" n="N005"/>Schmidt</rs> und Tochter Mann <rs type="person" ref="#wkfm__44051">Johann Caspar Scheidlin</rs> mit dem <rs type="person" ref="#wkfm__11308">Matthias
                <lb break="no" facs="#facs_210_r1l7" n="N006"/>Laßgallner</rs> eingetretten seye.
-               <lb facs="#facs_210_r1l9" n="N007"/>Die Raggion <rs type="person" ref="wkfm__44049">Kriner Schmidt und Scheidlin</rs> hat sich in obigen Anbringe de ps:
+               <lb facs="#facs_210_r1l9" n="N007"/>Die Raggion <rs type="person" ref="#wkfm__44049">Kriner Schmidt und Scheidlin</rs> hat sich in obigen Anbringe de ps:
                <lb facs="#facs_210_r1l11" n="N008"/>27<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 728 N<hi style="superscript">o</hi> 935 <hi>sich</hi> erklähret, das hierunter niemand anderer <unclear>theil</unclear>
-               <lb facs="#facs_210_r1l12" n="N009"/>alß der <rs type="person" ref="wkfm__44053">Johann Andre Schmidt</rs> und <rs type="person" ref="wkfm__44051">Johann Caspar Scheidlin</rs>
-               <lb facs="#facs_210_r1l15" n="N010"/>Die Raggion <rs type="person" ref="wkfm__44049">Kriner Schmidt und Scheidlin</rs> hat mitls obigen <hi>obla</hi> avocatorien <unclear>de ps:</unclear>
-               <lb facs="#facs_210_r1l17" n="N011"/>1<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 748 N<hi style="superscript">o</hi> 1149 wie auch der <rs type="person" ref="wkfm__44051">Johann Caspar v. Scheidlin</rs> mit oblatorien dd<hi style="superscript">to</hi> <gap/>
+               <lb facs="#facs_210_r1l12" n="N009"/>alß der <rs type="person" ref="#wkfm__44053">Johann Andre Schmidt</rs> und <rs type="person" ref="#wkfm__44051">Johann Caspar Scheidlin</rs>
+               <lb facs="#facs_210_r1l15" n="N010"/>Die Raggion <rs type="person" ref="#wkfm__44049">Kriner Schmidt und Scheidlin</rs> hat mitls obigen <hi>obla</hi> avocatorien <unclear>de ps:</unclear>
+               <lb facs="#facs_210_r1l17" n="N011"/>1<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 748 N<hi style="superscript">o</hi> 1149 wie auch der <rs type="person" ref="#wkfm__44051">Johann Caspar v. Scheidlin</rs> mit oblatorien dd<hi style="superscript">to</hi> <gap/>
                <lb facs="#facs_210_r1l19" n="N012"/>N<hi style="superscript">o</hi> 1148 und abringen de ps: 23<hi style="superscript">ten</hi> ej: N<hi style="superscript">o</hi> 2059 respective kundgemacht und ange-
                <lb facs="#facs_210_r1l21" n="N013"/>zeiget, daß ihre societaet mit Ende dieses Jahrs aufhören und küntighin als
-               <lb facs="#facs_210_r1l23" n="N014"/><rs type="person" ref="wkfm__44053">Johann Andre von Schmidt</rs> unter der Raggion <rs type="person" ref="wkfm__44050">Kriner und Schmidt</rs> sowohl als
-               <lb facs="#facs_210_r1l24" n="N015"/>der <rs type="person" ref="wkfm__47575">Johann Caspar von Scheidlin</rs> unter seinen eigenen Nahmen jeder für sich <unclear>contiu-</unclear>
+               <lb facs="#facs_210_r1l23" n="N014"/><rs type="person" ref="#wkfm__44053">Johann Andre von Schmidt</rs> unter der Raggion <rs type="person" ref="#wkfm__44050">Kriner und Schmidt</rs> sowohl als
+               <lb facs="#facs_210_r1l24" n="N015"/>der <rs type="person" ref="#wkfm__47575">Johann Caspar von Scheidlin</rs> unter seinen eigenen Nahmen jeder für sich <unclear>contiu-</unclear>
                <lb facs="#facs_210_r1l25" n="N016"/>iren werden anbey hätten sich die freunde mit ihren nach offenhabenden Rechnung an Jahre<gap/>
-               <lb facs="#facs_210_r1l26" n="N017"/>Raggion<rs type="person" ref="wkfm__47575"> v. Scheidlin</rs> in Wienn zu addressiren, welchen solche noch ihrer Verständnuß in <unclear>besorgung zu <gap/></unclear><gap/>
+               <lb facs="#facs_210_r1l26" n="N017"/>Raggion<rs type="person" ref="#wkfm__47575"> v. Scheidlin</rs> in Wienn zu addressiren, welchen solche noch ihrer Verständnuß in <unclear>besorgung zu <gap/></unclear><gap/>
                <lb facs="#facs_210_r1l27" n="N018"/>und zu adjustiren habe
                <lb facs="#facs_210_r1l28" n="N019"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_210_r1l29" n="N020"/>Anmerckungen

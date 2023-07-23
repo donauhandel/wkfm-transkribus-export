@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -76,18 +76,18 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_17" n="17" xml:id="img_0017"/>
+            <pb facs="#facs_17" n="17" xml:id="img_0017" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1475.jpg"/>
             
             <ab facs="#facs_17_r2">
                <lb facs="#facs_17_line_1626336299168_1205" n="N001"/>730
                <lb facs="#facs_17_r2l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_17_r2l2" n="N003"/><rs type="person" ref="wkfm__13222">Salliet Niclas</rs> burgerlicher Handlsmann
+               <lb facs="#facs_17_r2l2" n="N003"/><rs type="person" ref="#wkfm__13222">Salliet Niclas</rs> burgerlicher Handlsmann
                <lb facs="#facs_17_r2l3" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_17_r2l4" n="N005"/><rs type="person" ref="wkfm__20968">Nicolaus Salliet et Compagnie</rs> laut Anbringen de ps: 21<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 2040
+               <lb facs="#facs_17_r2l4" n="N005"/><rs type="person" ref="#wkfm__20968">Nicolaus Salliet et Compagnie</rs> laut Anbringen de ps: 21<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 2040
                <lb facs="#facs_17_r2l5" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
-               <lb facs="#facs_17_r2l6" n="N007"/>In obigen Anbringen de ps: 21<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 2040 ist die Firma der Raggion <rs type="person" ref="wkfm__20968">Nicolaus Salliet
-               <lb break="no" facs="#facs_17_r2l7" n="N008"/>et Compagnie</rs> von dem <rs type="person" ref="wkfm__13222">Nillas Salliet</rs> mit der Erinnerung eingeleget worden, das der Conso-
-               <lb facs="#facs_17_r2l8" n="N009"/>tius <rs type="person" ref="wkfm__47405">Peter Vincent</rs> bey seiner Ruckkunft aus Frankreich die Firma gleichfalß <unclear><hi>ent</hi>einlegegen</unclear>
+               <lb facs="#facs_17_r2l6" n="N007"/>In obigen Anbringen de ps: 21<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 2040 ist die Firma der Raggion <rs type="person" ref="#wkfm__20968">Nicolaus Salliet
+               <lb break="no" facs="#facs_17_r2l7" n="N008"/>et Compagnie</rs> von dem <rs type="person" ref="#wkfm__13222">Nillas Salliet</rs> mit der Erinnerung eingeleget worden, das der Conso-
+               <lb facs="#facs_17_r2l8" n="N009"/>tius <rs type="person" ref="#wkfm__47405">Peter Vincent</rs> bey seiner Ruckkunft aus Frankreich die Firma gleichfalß <unclear><hi>ent</hi>einlegegen</unclear>
                <lb facs="#facs_17_r2l9" n="N010"/>werde v. 
                <lb facs="#facs_17_r2l10" n="N011"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_17_r2l11" n="N012"/><seg type="orighead__fundi">Fundi Ausweisung</seg>

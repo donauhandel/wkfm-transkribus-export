@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -71,12 +71,12 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_39" n="39" xml:id="img_0039"/>
+            <pb facs="#facs_39" n="39" xml:id="img_0039" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1497.jpg"/>
             
             <ab facs="#facs_39_r2">
                <lb facs="#facs_39_line_1626267704146_5053" n="N001"/>741
                <lb facs="#facs_39_r2l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_39_r2l2" n="N003"/><rs type="person" ref="wkfm__21800">Stockhinger Matthias</rs> burgerlicher Handlsmann
+               <lb facs="#facs_39_r2l2" n="N003"/><rs type="person" ref="#wkfm__21800">Stockhinger Matthias</rs> burgerlicher Handlsmann
                <lb facs="#facs_39_r2l3" n="N004"/>Firma ad Raggion
                <lb facs="#facs_39_r2l4" n="N005"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_39_r2l5" n="N006"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>

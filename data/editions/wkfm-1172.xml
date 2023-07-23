@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -75,20 +75,20 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_72" n="72" xml:id="img_0072"/>
+            <pb facs="#facs_72" n="72" xml:id="img_0072" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1172.jpg"/>
             
             <ab facs="#facs_72_r1">
                <lb facs="#facs_72_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_72_r1l2" n="N002"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
-               <lb facs="#facs_72_r1l4" n="N003"/>Mitls Anbringen de ps: 9<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 744 N<hi style="superscript">o</hi> 2191 hat der <rs type="person" ref="wkfm__46830">Lanser</rs> die mit
-               <lb facs="#facs_72_r1l5" n="N004"/>der <rs type="person" ref="wkfm__46832">Anna Christina <hi>Verar</hi> Verwitt: Veronesin</rs> untern 20<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 743 <unclear>errichteten</unclear>
+               <lb facs="#facs_72_r1l4" n="N003"/>Mitls Anbringen de ps: 9<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 744 N<hi style="superscript">o</hi> 2191 hat der <rs type="person" ref="#wkfm__46830">Lanser</rs> die mit
+               <lb facs="#facs_72_r1l5" n="N004"/>der <rs type="person" ref="#wkfm__46832">Anna Christina <hi>Verar</hi> Verwitt: Veronesin</rs> untern 20<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 743 <unclear>errichteten</unclear>
                <lb facs="#facs_72_r1l6" n="N005"/>heuraths Contract in Copia vidimata N<hi style="superscript">o</hi> 2190 eingeleget kraft welchen
                <lb facs="#facs_72_r1l7" n="N006"/>500 fl heuratgut nebst 1000 fl Widerlag auf uberleben, dann jenes
                <lb facs="#facs_72_r1l8" n="N007"/>was wehrender Ehe erworben oder ansonsten überkommen werden <gap/>
                <lb facs="#facs_72_r1l9" n="N008"/>als ein gleiches Gutt pactiret worden
                <lb facs="#facs_72_r1l10" n="N009"/>Anmerckungen
                <lb facs="#facs_72_r1l11" n="N010"/>Unterm 29<hi style="superscript">ten</hi> Marty 770 hat der Handlstandt den Todtfall
-               <lb facs="#facs_72_r1l12" n="N011"/>des <rs type="person" ref="wkfm__46830">Sebastian Lanser</rs> angezeiget
+               <lb facs="#facs_72_r1l12" n="N011"/>des <rs type="person" ref="#wkfm__46830">Sebastian Lanser</rs> angezeiget
             </ab>
             
         </div>

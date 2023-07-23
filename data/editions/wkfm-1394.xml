@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -81,18 +81,18 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_42" n="42" xml:id="img_0042"/>
+            <pb facs="#facs_42" n="42" xml:id="img_0042" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1394.jpg"/>
             
             <ab facs="#facs_42_r1">
                <lb facs="#facs_42_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
                <lb facs="#facs_42_r1l2" n="N002"/>In obiger Erkährung ddto 12<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 630 hat sich der
-               <lb facs="#facs_42_r1l3" n="N003"/><rs type="person" ref="wkfm__46710">Ruppert</rs> geäusseret, das er keinen Compagnon habe
-               <lb facs="#facs_42_line_1624024128370_299" n="N004"/>Mitls Anbringen de ps: 4<hi style="superscript">ten</hi> May 744 N<hi style="superscript">o</hi> 2034 hat der <rs type="person" ref="wkfm__46710">Ruppert</rs> den mit dem <rs type="person" ref="wkfm__43974">Johann Niclas
+               <lb facs="#facs_42_r1l3" n="N003"/><rs type="person" ref="#wkfm__46710">Ruppert</rs> geäusseret, das er keinen Compagnon habe
+               <lb facs="#facs_42_line_1624024128370_299" n="N004"/>Mitls Anbringen de ps: 4<hi style="superscript">ten</hi> May 744 N<hi style="superscript">o</hi> 2034 hat der <rs type="person" ref="#wkfm__46710">Ruppert</rs> den mit dem <rs type="person" ref="#wkfm__43974">Johann Niclas
                <lb break="no" facs="#facs_42_r1l6" n="N005"/>Plankh</rs> untern 15<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> d. a. geschlossenen Stillen societaets Contract in <choice><expan/><abbr>orig:</abbr></choice> N<hi style="superscript">o</hi> 2033
-               <lb facs="#facs_42_r1l7" n="N006"/>eingeleget, kraft welchen der <rs type="person" ref="wkfm__43974">Planks</rs> auf 3 Jahr als stiller socius mit in die Handlung tretten
-               <lb facs="#facs_42_r1l8" n="N007"/>nach diesen 3 Jahren aber auf Verlangen des <rs type="person" ref="wkfm__46710">Ruppert</rs> anwiderum auszutretten <hi>schuldig</hi> der <rs type="person" ref="wkfm__46710">Rup-
+               <lb facs="#facs_42_r1l7" n="N006"/>eingeleget, kraft welchen der <rs type="person" ref="#wkfm__43974">Planks</rs> auf 3 Jahr als stiller socius mit in die Handlung tretten
+               <lb facs="#facs_42_r1l8" n="N007"/>nach diesen 3 Jahren aber auf Verlangen des <rs type="person" ref="#wkfm__46710">Ruppert</rs> anwiderum auszutretten <hi>schuldig</hi> der <rs type="person" ref="#wkfm__46710">Rup-
                <lb break="no" facs="#facs_42_r1l9" n="N008"/>pert</rs> aber seine biß zur societaet contrahirte Schulden für sich allein und nicht aus der Handlung zu
-               <lb facs="#facs_42_r1l10" n="N009"/>bezahlen schuldig seyn, der <rs type="person" ref="wkfm__46710">Ruppert</rs> pro fundo 3500 fl der <rs type="person" ref="wkfm__43974">Plankh</rs> 3800 fl einlegen und wehrender
+               <lb facs="#facs_42_r1l10" n="N009"/>bezahlen schuldig seyn, der <rs type="person" ref="#wkfm__46710">Ruppert</rs> pro fundo 3500 fl der <rs type="person" ref="#wkfm__43974">Plankh</rs> 3800 fl einlegen und wehrender
                <lb facs="#facs_42_r1l11" n="N010"/>societaet ohne <choice><expan/><abbr>intee</abbr></choice> ligen lassen, von dem <hi>wa</hi> <gap/> einlegenden quanto <unclear>aber jeder</unclear> 6 <choice><expan/><abbr>pC<hi style="superscript">to</hi></abbr></choice> <choice><expan/><abbr>intee</abbr></choice>
                <lb facs="#facs_42_line_1624024145527_312" n="N011"/>jährlichen empfangen, ansonsten aber nicht mehr alß jährl: 200 fl <unclear>heraus</unclear> <unclear>nehmen</unclear> vor Verflüssung der societaets
                <lb facs="#facs_42_r1l14" n="N012"/>zeit eine Viertl jährige Aufkündung beschehen, und falß inmitels ein oder anderer <unclear>versturbe</unclear>

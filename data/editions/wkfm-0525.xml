@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -74,14 +74,14 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_25" n="25" xml:id="img_0025"/>
+            <pb facs="#facs_25" n="25" xml:id="img_0025" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0525.jpg"/>
             
             <ab facs="#facs_25_r4">
                <lb facs="#facs_25_r4l2" n="N002"/>260
                <lb facs="#facs_25_r4l1" n="N003"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_25_r4l3" n="N004"/><rs type="person" ref="wkfm__8813">Damian Joh: Jacob</rs> burgerlicher Handlsmann
+               <lb facs="#facs_25_r4l3" n="N004"/><rs type="person" ref="#wkfm__8813">Damian Joh: Jacob</rs> burgerlicher Handlsmann
                <lb facs="#facs_25_r4l4" n="N005"/>Firma ad Raggion
-               <lb facs="#facs_25_r4l5" n="N006"/><rs type="person" ref="wkfm__46209">Johann Jacob Damian</rs> laut Erklährung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 254
+               <lb facs="#facs_25_r4l5" n="N006"/><rs type="person" ref="#wkfm__46209">Johann Jacob Damian</rs> laut Erklährung dd<hi style="superscript">to</hi> 17<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 254
                <lb facs="#facs_25_line_1621976510293_6221" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_25_r4l8" n="N008"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_25_r4l9" n="N009"/><seg type="orighead__fundi">Fundi Ausweisung</seg>

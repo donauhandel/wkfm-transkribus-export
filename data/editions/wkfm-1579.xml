@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -76,19 +76,19 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_121" n="121" xml:id="img_0121"/>
+            <pb facs="#facs_121" n="121" xml:id="img_0121" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1579.jpg"/>
             
             <ab facs="#facs_121_r3">
                <lb facs="#facs_121_line_1626262256172_1769" n="N001"/>132
                <lb facs="#facs_121_r3l2" n="N002"/>782
                <lb facs="#facs_121_r3l1" n="N003"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_121_r3l3" n="N004"/><hi>Schwatz</hi> <rs type="person" ref="wkfm__43870">Schräzenthaller Leopold</rs> burgerlicher Handlsmann
+               <lb facs="#facs_121_r3l3" n="N004"/><hi>Schwatz</hi> <rs type="person" ref="#wkfm__43870">Schräzenthaller Leopold</rs> burgerlicher Handlsmann
                <lb facs="#facs_121_r3l4" n="N005"/>Firma ad Raggion
-               <lb facs="#facs_121_r3l5" n="N006"/><rs type="person" ref="wkfm__43869">Jacob Ingrueber et Compagni</rs> laut Erklährung dd<hi style="superscript">to</hi> 23<hi style="superscript">ten</hi> Junii 728 N<hi style="superscript">o</hi> 1984
-               <lb facs="#facs_121_r3l6" n="N007"/><rs type="person" ref="wkfm__47485">Leopold Schräzenthaller</rs> laut Anbringen de ps: 1<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 732 N<hi style="superscript">o</hi> 2047.
+               <lb facs="#facs_121_r3l5" n="N006"/><rs type="person" ref="#wkfm__43869">Jacob Ingrueber et Compagni</rs> laut Erklährung dd<hi style="superscript">to</hi> 23<hi style="superscript">ten</hi> Junii 728 N<hi style="superscript">o</hi> 1984
+               <lb facs="#facs_121_r3l6" n="N007"/><rs type="person" ref="#wkfm__47485">Leopold Schräzenthaller</rs> laut Anbringen de ps: 1<hi style="superscript">ten</hi> <choice><expan/><abbr>Xbr:</abbr></choice> 732 N<hi style="superscript">o</hi> 2047.
                <lb facs="#facs_121_r3l7" n="N008"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
-               <lb facs="#facs_121_r3l8" n="N009"/>Die Firma der Raggion <rs type="person" ref="wkfm__43869">Jacob Ingrueber et Compagni</rs> ist in obiger Erklährung
-               <lb facs="#facs_121_r3l9" n="N010"/>dd<hi style="superscript">to</hi> 23<hi style="superscript">ten</hi> Junii 728 N<hi style="superscript">o</hi> 1984 von dem <rs type="person" ref="wkfm__43870">Schräzenthaller</rs> eingeleget worden.
+               <lb facs="#facs_121_r3l8" n="N009"/>Die Firma der Raggion <rs type="person" ref="#wkfm__43869">Jacob Ingrueber et Compagni</rs> ist in obiger Erklährung
+               <lb facs="#facs_121_r3l9" n="N010"/>dd<hi style="superscript">to</hi> 23<hi style="superscript">ten</hi> Junii 728 N<hi style="superscript">o</hi> 1984 von dem <rs type="person" ref="#wkfm__43870">Schräzenthaller</rs> eingeleget worden.
                <lb facs="#facs_121_r3l10" n="N011"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_121_r3l11" n="N012"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
             </ab>

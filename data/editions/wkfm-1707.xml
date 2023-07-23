@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -74,15 +74,15 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_1" n="1" xml:id="img_0001"/>
+            <pb facs="#facs_1" n="1" xml:id="img_0001" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1707.jpg"/>
             
             <ab facs="#facs_1_r1">
                <lb facs="#facs_1_line_1630350237141_163" n="N001"/>143
                <lb facs="#facs_1_line_1630350208574_150" n="N002"/>846
                <lb facs="#facs_1_r1l1" n="N003"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_1_line_1630350237141_162" n="N004"/><rs type="person" ref="wkfm__17762">Walstorf Christian Fridrich</rs> kay: könig: Niderlags Verwanter
+               <lb facs="#facs_1_line_1630350237141_162" n="N004"/><rs type="person" ref="#wkfm__17762">Walstorf Christian Fridrich</rs> kay: könig: Niderlags Verwanter
                <lb facs="#facs_1_r1l4" n="N005"/>Firma ad Raggion
-               <lb facs="#facs_1_r1l5" n="N006"/><rs type="person" ref="wkfm__46948">Christian Friedrich Wolstoff</rs> laut Anbringen de ps: 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 788
+               <lb facs="#facs_1_r1l5" n="N006"/><rs type="person" ref="#wkfm__46948">Christian Friedrich Wolstoff</rs> laut Anbringen de ps: 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 788
                <lb facs="#facs_1_r1l6" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_1_r1l7" n="N008"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_1_r1l8" n="N009"/><seg type="orighead__fundi">Fundi Ausweisung</seg>

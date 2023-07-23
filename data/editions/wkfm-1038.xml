@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -72,14 +72,14 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_118" n="118" xml:id="img_0118"/>
+            <pb facs="#facs_118" n="118" xml:id="img_0118" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1038.jpg"/>
             
             <ab facs="#facs_118_r1">
                <lb facs="#facs_118_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
-               <lb facs="#facs_118_r1l2" n="N002"/>In obiger Erklährung sine dato N<hi style="superscript">o</hi> 580 hat der <rs type="person" ref="wkfm__46542">Höltzl</rs> <hi>die</hi> mit der
-               <lb facs="#facs_118_r1l3" n="N003"/>Mayer zugleich die ihnen beeden gemeinsame societaets firma <rs type="person" ref="wkfm__38549">Mayer
+               <lb facs="#facs_118_r1l2" n="N002"/>In obiger Erklährung sine dato N<hi style="superscript">o</hi> 580 hat der <rs type="person" ref="#wkfm__46542">Höltzl</rs> <hi>die</hi> mit der
+               <lb facs="#facs_118_r1l3" n="N003"/>Mayer zugleich die ihnen beeden gemeinsame societaets firma <rs type="person" ref="#wkfm__38549">Mayer
                <lb break="no" facs="#facs_118_r1l4" n="N004"/>und Höltzl</rs> eingeleget.
-               <lb facs="#facs_118_r1l5" n="N005"/>In obiger Erklährung sine dato N<hi style="superscript">o</hi> 1529 hat der <rs type="person" ref="wkfm__46542">Höltzl</rs> seine
+               <lb facs="#facs_118_r1l5" n="N005"/>In obiger Erklährung sine dato N<hi style="superscript">o</hi> 1529 hat der <rs type="person" ref="#wkfm__46542">Höltzl</rs> seine
                <lb facs="#facs_118_r1l6" n="N006"/>alleinige Firma eingeleget.
                <lb facs="#facs_118_r1l7" n="N007"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_118_r1l8" n="N008"/>Anmerckungen

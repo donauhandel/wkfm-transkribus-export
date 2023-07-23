@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -75,16 +75,16 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_13" n="13" xml:id="img_0013"/>
+            <pb facs="#facs_13" n="13" xml:id="img_0013" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0066.jpg"/>
             
             <ab facs="#facs_13_r1">
                <lb facs="#facs_13_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_13_r1l2" n="N003"/><rs type="person" ref="wkfm__8412">Prunner Georg</rs> K. K. Niderlags Verwanter
+               <lb facs="#facs_13_r1l2" n="N003"/><rs type="person" ref="#wkfm__8412">Prunner Georg</rs> K. K. Niderlags Verwanter
                <lb facs="#facs_13_r1l3" n="N004"/>Firma oder Raggion
-               <lb facs="#facs_13_r1l4" n="N005"/><rs type="person" ref="wkfm__47273">Georg Prunner</rs> laut Anbringen de ps: 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 886
+               <lb facs="#facs_13_r1l4" n="N005"/><rs type="person" ref="#wkfm__47273">Georg Prunner</rs> laut Anbringen de ps: 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 886
                <lb facs="#facs_13_r1l5" n="N006"/>Procura oder Firmae Trager
-               <lb facs="#facs_13_r1l6" n="N007"/>In obigen Anbringen de ps: 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 886 hat sich der <rs type="person" ref="wkfm__8412">Prunner</rs> Erklähret
-               <lb facs="#facs_13_line_1621289775395_697" n="N008"/>daß in seiner Abwesenheit des <rs type="person" ref="wkfm__43804">Marx Anton Tuesenstein</rs> Firma biß auf wider-
+               <lb facs="#facs_13_r1l6" n="N007"/>In obigen Anbringen de ps: 19<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 725 N<hi style="superscript">o</hi> 886 hat sich der <rs type="person" ref="#wkfm__8412">Prunner</rs> Erklähret
+               <lb facs="#facs_13_line_1621289775395_697" n="N008"/>daß in seiner Abwesenheit des <rs type="person" ref="#wkfm__43804">Marx Anton Tuesenstein</rs> Firma biß auf wider-
                <lb facs="#facs_13_r1l9" n="N009"/>ruffung Glauben zugeben seye.
                <lb facs="#facs_13_r1l10" n="N010"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_13_r1l11" n="N011"/><seg type="orighead__fundi">Fundi Ausweisung</seg>

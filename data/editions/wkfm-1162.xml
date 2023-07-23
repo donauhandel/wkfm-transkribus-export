@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -76,17 +76,17 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_62" n="62" xml:id="img_0062"/>
+            <pb facs="#facs_62" n="62" xml:id="img_0062" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1162.jpg"/>
             
             <ab facs="#facs_62_r1">
                <lb facs="#facs_62_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
-               <lb facs="#facs_62_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 13<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 731 N<hi style="superscript">o</hi> 1990 hat hat sich der <rs type="person" ref="wkfm__37701">Langwider</rs>
-               <lb facs="#facs_62_r1l3" n="N003"/>nebst dem <rs type="person" ref="wkfm__28699">Sebastian Johann Ampach</rs> geäusseret, daß sie ihre Handlung mit-
-               <lb facs="#facs_62_r1l4" n="N004"/>einander aufgerichtet und unter der societaets Firma <rs type="person" ref="wkfm__20402">Langwider und Ampach</rs>
+               <lb facs="#facs_62_r1l2" n="N002"/>In obiger Erklährung dd<hi style="superscript">to</hi> 13<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 731 N<hi style="superscript">o</hi> 1990 hat hat sich der <rs type="person" ref="#wkfm__37701">Langwider</rs>
+               <lb facs="#facs_62_r1l3" n="N003"/>nebst dem <rs type="person" ref="#wkfm__28699">Sebastian Johann Ampach</rs> geäusseret, daß sie ihre Handlung mit-
+               <lb facs="#facs_62_r1l4" n="N004"/>einander aufgerichtet und unter der societaets Firma <rs type="person" ref="#wkfm__20402">Langwider und Ampach</rs>
                <lb facs="#facs_62_r1l5" n="N005"/>führen werden
                <lb facs="#facs_62_r1l6" n="N006"/>Mitls Anbringen de ps: 7<hi style="superscript">ten</hi> Junii 734 N<hi style="superscript">o</hi> 1992 und Erklährung dd<hi style="superscript">to</hi> 22<hi style="superscript">ten</hi> May
-               <lb facs="#facs_62_r1l7" n="N007"/>734 N<hi style="superscript">o</hi> 532 hat der <rs type="person" ref="wkfm__37701">Langwider</rs> angezeiget, das die societaet mit dem
-               <lb facs="#facs_62_r1l8" n="N008"/><rs type="person" ref="wkfm__28699">Ampach</rs> ult: <choice><expan/><abbr>Xbr:</abbr></choice> 733 ihr Endschafft errichtet habe und er <rs type="person" ref="wkfm__37701">Landwider</rs> seine 
+               <lb facs="#facs_62_r1l7" n="N007"/>734 N<hi style="superscript">o</hi> 532 hat der <rs type="person" ref="#wkfm__37701">Langwider</rs> angezeiget, das die societaet mit dem
+               <lb facs="#facs_62_r1l8" n="N008"/><rs type="person" ref="#wkfm__28699">Ampach</rs> ult: <choice><expan/><abbr>Xbr:</abbr></choice> 733 ihr Endschafft errichtet habe und er <rs type="person" ref="#wkfm__37701">Landwider</rs> seine 
                <lb facs="#facs_62_r1l9" n="N009"/>Handlung allein und ohne Compagnon führe
                <lb facs="#facs_62_r1l10" n="N010"/><seg type="orighead__wedding_contract">Heuraths Contract</seg>
                <lb facs="#facs_62_r1l11" n="N011"/>Anmerckungen

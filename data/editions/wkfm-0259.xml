@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -85,28 +85,28 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_205" n="205" xml:id="img_0205"/>
+            <pb facs="#facs_205" n="205" xml:id="img_0205" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0259.jpg"/>
             
             <ab facs="#facs_205_r2">
                <lb facs="#facs_205_r2l2" n="N001"/>127
                <lb facs="#facs_205_r2l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_205_r2l3" n="N003"/><rs type="person" ref="wkfm__37177">Bolza Joseph</rs> k. k. Niderlags Verwanter
+               <lb facs="#facs_205_r2l3" n="N003"/><rs type="person" ref="#wkfm__37177">Bolza Joseph</rs> k. k. Niderlags Verwanter
                <lb facs="#facs_205_r2l4" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_205_r2l5" n="N005"/><rs type="person" ref="wkfm__47368">Joseph Bolza</rs> laut Anbringen de ps: 15<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 739 N<hi style="superscript">o</hi> 126
+               <lb facs="#facs_205_r2l5" n="N005"/><rs type="person" ref="#wkfm__47368">Joseph Bolza</rs> laut Anbringen de ps: 15<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 739 N<hi style="superscript">o</hi> 126
                <lb facs="#facs_205_r2l6" n="N006"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
-               <lb facs="#facs_205_r2l7" n="N007"/>Laut Anbringen de ps: 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 739 N<hi style="superscript">o</hi> 918 hat der <rs type="person" ref="wkfm__37177">Joseph Bolza</rs> dem <rs type="person" ref="wkfm__8799">Pompejo
-               <lb break="no" facs="#facs_205_r2l8" n="N008"/>Carignani</rs> und <rs type="person" ref="wkfm__41796">Christoph Martin Conradi</rs> die procura und Firma <hi>ertheilet</hi>
+               <lb facs="#facs_205_r2l7" n="N007"/>Laut Anbringen de ps: 16<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 739 N<hi style="superscript">o</hi> 918 hat der <rs type="person" ref="#wkfm__37177">Joseph Bolza</rs> dem <rs type="person" ref="#wkfm__8799">Pompejo
+               <lb break="no" facs="#facs_205_r2l8" n="N008"/>Carignani</rs> und <rs type="person" ref="#wkfm__41796">Christoph Martin Conradi</rs> die procura und Firma <hi>ertheilet</hi>
                <lb facs="#facs_205_r2l9" n="N009"/>biß zu seiner Retour aus Spanien ertheilet auf beider Firma in specie
                <lb facs="#facs_205_r2l10" n="N010"/>beygeruket
                <lb facs="#facs_205_r2l11" n="N011"/>Mitls Anbringen de ps: 11<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 740 N<hi style="superscript">o</hi> 921 ist diese Procura und Firma wider-
                <lb facs="#facs_205_r2l12" n="N012"/>rufen worden.
                <lb facs="#facs_205_r2l13" n="N013"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
-               <lb facs="#facs_205_r2l14" n="N014"/>Der <rs type="person" ref="wkfm__37177">Bolza</rs> hat untern 1<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 738 die <choice><expan/><abbr>orig:</abbr></choice> oblatorien N<hi style="superscript">o</hi> 1097 dahin er-
+               <lb facs="#facs_205_r2l14" n="N014"/>Der <rs type="person" ref="#wkfm__37177">Bolza</rs> hat untern 1<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 738 die <choice><expan/><abbr>orig:</abbr></choice> oblatorien N<hi style="superscript">o</hi> 1097 dahin er-
                <lb facs="#facs_205_r2l15" n="N015"/>lassen, daß er das Negotium für sich selbst mit hinlänglichen Capitalien und
                <lb facs="#facs_205_r2l16" n="N016"/><unclear>sufficienten</unclear> Fundi jede Unternehmung zu bestreyten errichtet habe.
                <lb facs="#facs_205_r2l17" n="N017"/>Desgleichen <hi>dah</hi> den dahin erlassenen aviso sine dato N<hi style="superscript">o</hi> 1098 <hi>er daß</hi> das
-               <lb facs="#facs_205_r2l18" n="N018"/>wehrend seiner Abwesenheit der Firma seines mitinteressentens <rs type="person" ref="wkfm__8799">Pompejo Corig-
-               <lb break="no" facs="#facs_205_r2l19" n="N019"/>nani</rs> und seines Cassirs <rs type="person" ref="wkfm__41796">Christoph Martin Conradi</rs> glauben zu gehen seye
+               <lb facs="#facs_205_r2l18" n="N018"/>wehrend seiner Abwesenheit der Firma seines mitinteressentens <rs type="person" ref="#wkfm__8799">Pompejo Corig-
+               <lb break="no" facs="#facs_205_r2l19" n="N019"/>nani</rs> und seines Cassirs <rs type="person" ref="#wkfm__41796">Christoph Martin Conradi</rs> glauben zu gehen seye
                <lb facs="#facs_205_r2l20" n="N020"/>in <choice><expan/><abbr>orig:</abbr></choice> eingeleget
                <lb facs="#facs_205_r2l21" n="N021"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
             </ab>

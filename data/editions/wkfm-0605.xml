@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -89,32 +89,32 @@
    <text>
       <body>
         <div>
-            <pb facs="#facs_105" n="105" xml:id="img_0105"/>
+            <pb facs="#facs_105" n="105" xml:id="img_0105" corresp="https://id.acdh.oeaw.ac.at/wkfm/Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0605.jpg"/>
             
             <ab facs="#facs_105_r1">
                <lb facs="#facs_105_r1l2" n="N001"/>300
                <lb facs="#facs_105_r1l1" n="N002"/><seg type="orighead__name">Nahmen und Class</seg>
-               <lb facs="#facs_105_r1l3" n="N003"/><rs type="person" ref="wkfm__46288">Traunwißer Johann Adam</rs> burgerlicher Handlsmann
+               <lb facs="#facs_105_r1l3" n="N003"/><rs type="person" ref="#wkfm__46288">Traunwißer Johann Adam</rs> burgerlicher Handlsmann
                <lb facs="#facs_105_r1l4" n="N004"/>Firma ad Raggion
-               <lb facs="#facs_105_r1l5" n="N005"/><rs type="person" ref="wkfm__46289">Johann Adam Traunwißer</rs> laut Erklährung dd<hi style="superscript">to</hi> 22<hi style="superscript">ten</hi> Junii 754 N<hi style="superscript">o</hi> 292
+               <lb facs="#facs_105_r1l5" n="N005"/><rs type="person" ref="#wkfm__46289">Johann Adam Traunwißer</rs> laut Erklährung dd<hi style="superscript">to</hi> 22<hi style="superscript">ten</hi> Junii 754 N<hi style="superscript">o</hi> 292
                <lb facs="#facs_105_r1l6" n="N006"/>welche der Supl: Mitls Anbringen de ps: eodem N<hi style="superscript">o</hi> 293 eingeleget.
                <lb facs="#facs_105_r1l7" n="N007"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_105_r1l8" n="N008"/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>
                <lb facs="#facs_105_r1l9" n="N009"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
-               <lb facs="#facs_105_r1l10" n="N010"/>Der <rs type="person" ref="wkfm__46288">Traunwiser</rs> hat seinen Fundum mitls der Specification sine dato N<hi style="superscript">o</hi> 1372
+               <lb facs="#facs_105_r1l10" n="N010"/>Der <rs type="person" ref="#wkfm__46288">Traunwiser</rs> hat seinen Fundum mitls der Specification sine dato N<hi style="superscript">o</hi> 1372
                <lb facs="#facs_105_r1l11" n="N011"/>folgender maßen ausgewisen, nemlich daß er eigenthumlich besize an Vätter:
-               <lb facs="#facs_105_r1l12" n="N012"/>Erb Antheil laut attestati der <rs type="person" ref="wkfm__9468">Guillaume Jenamy</rs> dd<hi style="superscript">to</hi> 6<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 751 N<hi style="superscript">o</hi> 1374 700 fl
-               <lb facs="#facs_105_r1l13" n="N013"/>an Empfangenen von seiner Mutter welches er bey gedachten <rs type="person" ref="wkfm__9468">Jenamy</rs> in
+               <lb facs="#facs_105_r1l12" n="N012"/>Erb Antheil laut attestati der <rs type="person" ref="#wkfm__9468">Guillaume Jenamy</rs> dd<hi style="superscript">to</hi> 6<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 751 N<hi style="superscript">o</hi> 1374 700 fl
+               <lb facs="#facs_105_r1l13" n="N013"/>an Empfangenen von seiner Mutter welches er bey gedachten <rs type="person" ref="#wkfm__9468">Jenamy</rs> in
                <lb facs="#facs_105_r1l14" n="N014"/>Verwahrung stehen habe laut attestati dd<hi style="superscript">to</hi> <hi>eadem</hi> N<hi style="superscript">o</hi> 22<hi style="superscript">ten</hi> <choice><expan/><abbr>Jan:</abbr></choice> 751N<hi style="superscript">o</hi> 1373 300 fl
                <lb facs="#facs_105_line_1621965479130_4256" n="N015"/>an erspahrten von intee des obigen und salario dann fahrnusen 350 fl
                <lb facs="#facs_105_line_1621965490921_4264" n="N016"/>zusamen Eigenthum 1350 fl
-               <lb facs="#facs_105_line_1621965504007_4276" n="N017"/>Zu Completirung des übrigen hat der <rs type="person" ref="wkfm__46290">Mathias Auer</rs> das Cautions Instrument
+               <lb facs="#facs_105_line_1621965504007_4276" n="N017"/>Zu Completirung des übrigen hat der <rs type="person" ref="#wkfm__46290">Mathias Auer</rs> das Cautions Instrument
                <lb facs="#facs_105_line_1621965517782_4288" n="N018"/>dd<hi style="superscript">to</hi> 31<hi style="superscript">ten</hi> <choice><expan/><abbr>8br:</abbr></choice> 751 eingeleget <choice><expan/><abbr>pr</abbr></choice> 2650 fl
                <lb facs="#facs_105_line_1621965402526_4230" n="N019"/><choice><expan/><abbr>Sa</abbr></choice> 4000 fl
-               <lb facs="#facs_105_line_1621965535286_4299" n="N020"/>Über die von dem <rs type="person" ref="wkfm__46288">Traunwißer</rs> eingelegte Inventur dd<hi style="superscript">to</hi> 12<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 756 N<hi style="superscript">o</hi> 1377 und Billanz
+               <lb facs="#facs_105_line_1621965535286_4299" n="N020"/>Über die von dem <rs type="person" ref="#wkfm__46288">Traunwißer</rs> eingelegte Inventur dd<hi style="superscript">to</hi> 12<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 756 N<hi style="superscript">o</hi> 1377 und Billanz
                <lb facs="#facs_105_line_1621965540874_4304" n="N021"/>dd<hi style="superscript">to</hi> 18<hi style="superscript">ten</hi> ej: <choice><expan/><abbr>pr</abbr></choice> 4082 fl 59 x<hi style="superscript">r</hi> Übermaß N<hi style="superscript">o</hi> 1378 und laut decretatio dd<hi style="superscript">to</hi> 9<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 757, <hi><unclear>782</unclear> sub 7</hi>
                <lb facs="#facs_105_r1l32" n="N022"/>von selben abgelegten Eyd ist zu folge der Auflag dd<hi style="superscript">to</hi> 12<hi style="superscript">ten</hi> <choice><expan/><abbr>Febr:</abbr></choice> 757 laut beygelegter Quittung
-               <lb facs="#facs_105_r1l34" n="N023"/>vom 19<hi style="superscript">ten</hi> ej: N<hi style="superscript">o</hi> 1376 dem <rs type="person" ref="wkfm__46288">Traunwiser</rs> obiges Cautions Instrument extradiret worden.
+               <lb facs="#facs_105_r1l34" n="N023"/>vom 19<hi style="superscript">ten</hi> ej: N<hi style="superscript">o</hi> 1376 dem <rs type="person" ref="#wkfm__46288">Traunwiser</rs> obiges Cautions Instrument extradiret worden.
                <lb facs="#facs_105_r1l36" n="N024"/>Hierbey befinden sich <hi>einge Abs </hi> abschrifften und 2 Anbringen wegen Annehmung des Supl: sub N<hi style="superscript">o</hi> 1375
                <lb facs="#facs_105_r1l35" n="N025"/>1379, 1380, 1381 et 1382.
             </ab>
