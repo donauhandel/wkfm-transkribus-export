@@ -20,6 +20,7 @@ XSLT = "./fix_comment.xsl"
 headings = (
     ("/>Nahmen und Class", '/><seg type="orighead__name">Nahmen und Class</seg>'),
     ("/>Firma od Raggion", '/><seg type="orighead__firma">Firma od Raggion</seg>'),
+    ("/>Firma oder Raggion", '/><seg type="orighead__firma">Firma oder Raggion</seg>')
     ("/>Procura und Firmae Trager", '/><seg type="orighead__owner">Procura und Firmae Trager</seg>'),
     (
         "/>Oblatorien und Avocatorien",
