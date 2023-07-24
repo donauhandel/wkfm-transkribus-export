@@ -37,7 +37,6 @@ headings = (
     ("/>Heuraths Contract", '/><seg type="orighead__wedding_contract">Heuraths Contract</seg>'),
     ("/>Heuraths=Contract", '/><seg type="orighead__wedding_contract">Heuraths=Contract</seg>'),
     ("/>Anmerkungen", '/><seg type="orighead__other_notes">Anmerkungen</seg>'),
-    ('>Anmerkungen', '><seg type="orighead__other_notes">Anmerkungen</seg>')
 )
 
 
@@ -90,7 +89,7 @@ for i, x in enumerate(tqdm(files)):
 
 files = glob.glob('./data/editions/*xml')
 print("fixing facs")
-for x in files:
+for x in tqdm(files):
     doc = TeiReader(x)
     facs_url = doc.any_xpath(".//tei:graphic/@url")[0]
     pb = doc.any_xpath(".//tei:pb")[0]
