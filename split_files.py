@@ -18,27 +18,28 @@ os.makedirs(editions, exist_ok=True)
 XSLT = "./fix_comment.xsl"
 
 headings = (
-    ("/>Nahmen und Class", '/><seg type="orighead__name">Nahmen und Class</seg>'),
-    ("/>Firma od Raggion", '/><seg type="orighead__firma">Firma od Raggion</seg>'),
-    ("/>Firma oder Raggion", '/><seg type="orighead__firma">Firma oder Raggion</seg>'),
-    ("/>Procura und Firmae Trager", '/><seg type="orighead__owner">Procura und Firmae Trager</seg>'),
+    ("/>Nahmen und Class\n", '/><seg type="orighead__name">Nahmen und Class</seg>\n'),
+    ("/>Firma od Raggion\n", '/><seg type="orighead__firma">Firma od Raggion</seg>\n'),
+    ("/>Firma oder Raggion\n", '/><seg type="orighead__firma">Firma oder Raggion</seg>\n'),
+    ("/>Firma ad Raggion\n", '/><seg type="orighead__firma">Firma ad Raggion</seg>\n'),
+    ("/>Procura und Firmae Trager\n", '/><seg type="orighead__owner">Procura und Firmae Trager</seg>\n'),
     (
-        "/>Oblatorien und Avocatorien",
-        '/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>',
+        "/>Oblatorien und Avocatorien\n",
+        '/><seg type="orighead__oblatorien">Oblatorien und Avocatorien</seg>\n',
     ),
-    ("/>Fundi Ausweisung", '/><seg type="orighead__fundi">Fundi Ausweisung</seg>'),
+    ("/>Fundi Ausweisung\n", '/><seg type="orighead__fundi">Fundi Ausweisung</seg>\n'),
     (
-        "/>Societaets Contract und Interessenten",
-        '/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>',
+        "/>Societaets Contract und Interessenten\n",
+        '/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>\n',
     ),
     (
-        "/>Societats Contract und Interessenten",
-        '/><seg type="orighead__contract">Societats Contract und Interessenten</seg>',
+        "/>Societats Contract und Interessenten\n",
+        '/><seg type="orighead__contract">Societats Contract und Interessenten</seg>\n',
     ),
-    ("/>Heuraths Contract", '/><seg type="orighead__wedding_contract">Heuraths Contract</seg>'),
-    ("/>Heuraths=Contract", '/><seg type="orighead__wedding_contract">Heuraths=Contract</seg>'),
-    ("/>Anmerkungen", '/><seg type="orighead__other_notes">Anmerkungen</seg>'),
-    ("/>Anmerckungen", '/><seg type="orighead__other_notes">Anmerckungen</seg>'),
+    ("/>Heuraths Contract\n", '/><seg type="orighead__wedding_contract">Heuraths Contract</seg>\n'),
+    ("/>Heuraths=Contract\n", '/><seg type="orighead__wedding_contract">Heuraths=Contract</seg>\n'),
+    ("/>Anmerkungen\n", '/><seg type="orighead__other_notes">Anmerkungen</seg>\n'),
+    ("/>Anmerckungen\n", '/><seg type="orighead__other_notes">Anmerckungen</seg>\n'),
 )
 
 
