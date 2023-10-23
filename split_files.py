@@ -54,19 +54,25 @@ for i, x in enumerate(tqdm(files)):
         img_url = y.xpath("./tei:graphic/@url", namespaces=nsmap)[0]
         img_id = img_url.split("_")[-1].replace(".jpg", "")
         pb_node = doc.any_xpath(f'.//tei:pb[@facs="#{facs_id}"]')[0]
-        ab_node = doc.any_xpath(
-            f'.//tei:pb[@facs="#{facs_id}"]/following-sibling::tei:ab'
-        )[0]
-        ab_text = (
-            ET.tostring(ab_node, encoding="utf-8")
-            .decode("utf-8")
-            .replace('key=", Personen ID=', 'ref="wkfm__')
-            .replace('xmlns="http://www.tei-c.org/ns/1.0"', "")
-            .replace("vertical-align: superscript;", "superscript")
-        )
-        for heading in headings:
-            ab_text = ab_text.replace(heading[0], heading[1])
-        ab_text = ab_text.replace('ref="wkfm', 'ref="#wkfm')
+        # ab_node = doc.any_xpath(
+        #     f'.//tei:pb[@facs="#{facs_id}"]/following-sibling::tei:ab'
+        # )[0]
+        xpath_expr = f'.//tei:ab[@facs="{facs_id}" or starts-with(@facs, "#{facs_id}_")]'
+        ab_node = doc.any_xpath(xpath_expr)
+        if len(ab_node) > 1:
+            print(len(ab_node))
+        ab_text = ""
+        for abnode in ab_node:
+            ab_text += (
+                ET.tostring(abnode, encoding="utf-8")
+                .decode("utf-8")
+                .replace('key=", Personen ID=', 'ref="wkfm__')
+                .replace('xmlns="http://www.tei-c.org/ns/1.0"', "")
+                .replace("vertical-align: superscript;", "superscript")
+            )
+            for heading in headings:
+                ab_text = ab_text.replace(heading[0], heading[1])
+            ab_text = ab_text.replace('ref="wkfm', 'ref="#wkfm')
         page = {
             "id": f"wkfm-{img_id}",
             "col_id": col_id,
