@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -56,6 +57,7 @@
    <facsimile>
     <surface ulx="0" uly="0" lrx="3019" lry="4503" xml:id="facs_98">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1282.jpg" width="3019px" height="4503px"/>
+         <graphic url="" width="3019px" height="4503px"/>
          <zone points="308,167 308,3334 2883,3334 2883,167" rendition="TextRegion" xml:id="facs_98_r1">
             <zone points="1304,263 1366,259 1429,257 1492,254 1555,253 1617,251 1680,251 1743,250 1806,250 1868,250 1931,250 1994,250 2057,250 2119,250 2182,250 2245,248 2308,247 2370,245 2433,243 2496,241 2559,236 2559,167 2496,172 2433,174 2370,176 2308,178 2245,179 2182,181 2119,181 2057,181 1994,181 1931,181 1868,181 1806,181 1743,181 1680,182 1617,182 1555,184 1492,185 1429,188 1366,190 1304,194" rendition="Line" xml:id="facs_98_r1l1"/>
             <zone points="327,359 454,362 582,365 709,368 837,369 965,371 1092,372 1220,374 1348,374 1475,374 1603,374 1731,374 1858,371 1986,370 2114,368 2241,365 2369,361 2497,357 2624,353 2752,349 2880,344 2880,280 2752,285 2624,289 2497,293 2369,297 2241,301 2114,304 1986,306 1858,307 1731,310 1603,310 1475,310 1348,310 1220,310 1092,308 965,307 837,305 709,304 582,301 454,298 327,295" rendition="Line" xml:id="facs_98_r1l2"/>
@@ -86,7 +88,7 @@
             
             <ab facs="#facs_98_r1">
                <lb facs="#facs_98_r1l1" n="N001"/><seg type="orighead__contract">Societaets Contract und Interessenten</seg>
-               <lb facs="#facs_98_r1l2" n="N002"/>Mitls Anbringen des ps: 24<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> N<hi style="superscript">o</hi> 2008 hat der <rs type="person" ref="#wkfm__46937">Mayr</rs> angezeiget, daß
+               <lb facs="#facs_98_r1l2" n="N002"/>Mitls Anbringen des ps: 24<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 749 N<hi style="superscript">o</hi> 2008 hat der <rs type="person" ref="#wkfm__46937">Mayr</rs> angezeiget, daß
                <lb facs="#facs_98_r1l3" n="N003"/><hi>ihn</hi> durch allerhochste Hofresolution dd<hi style="superscript">to</hi> 14<hi style="superscript">ten</hi> et intimato 28<hi style="superscript">ten</hi> <choice><expan/><abbr>Apr:</abbr></choice> 749 N<hi style="superscript">o</hi> 2006 in
                <lb facs="#facs_98_r1l4" n="N004"/>orig: verwilliget worden seye, das die <rs type="person" ref="#wkfm__46938">Anna Maria Pergmanin</rs> ihn <rs type="person" ref="#wkfm__46937">Mayr</rs> als 
                <lb facs="#facs_98_r1l5" n="N005"/>offentlichen socium in ihre handlung nehmen möge

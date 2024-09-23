@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -56,6 +57,7 @@
    <facsimile>
     <surface ulx="0" uly="0" lrx="3105" lry="4491" xml:id="facs_69">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_1253.jpg" width="3105px" height="4491px"/>
+         <graphic url="" width="3105px" height="4491px"/>
          <zone points="212,147 212,2934 2958,2934 2958,147" rendition="TextRegion" xml:id="facs_69_r2">
             <zone points="2777,334 2806,339 2835,340 2865,342 2894,342 2924,343 2924,294 2894,293 2865,293 2835,291 2806,290 2777,285" rendition="Line" xml:id="facs_69_r2l2" subtype="page-number"/>
             <zone points="1340,196 1373,198 1407,199 1441,202 1475,203 1509,206 1543,208 1577,210 1611,211 1645,213 1679,214 1712,216 1746,217 1780,217 1814,217 1848,217 1882,217 1916,216 1950,214 1984,211 2018,208 2018,159 1984,162 1950,165 1916,167 1882,168 1848,168 1814,168 1780,168 1746,168 1712,167 1679,165 1645,164 1611,162 1577,161 1543,159 1509,157 1475,154 1441,153 1407,150 1373,149 1340,147" rendition="Line" xml:id="facs_69_r2l1"/>
@@ -98,7 +100,7 @@
                <lb facs="#facs_69_r2l4" n="N004"/><seg type="orighead__firma">Firma ad Raggion</seg>
                <lb facs="#facs_69_r2l7" n="N005"/><rs type="person" ref="#wkfm__46903">Johann Cornelius <hi>Mara</hi> Marci</rs> laut Anbringen de ps: 18<hi style="superscript">ten</hi> <choice><expan/><abbr><hi>Aug:</hi></abbr></choice> May 725 N<hi style="superscript">o</hi> <hi>579</hi> 1021
                <lb facs="#facs_69_r2l8" n="N006"/>und de ps: 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Aug:</abbr></choice> 735 N<hi style="superscript">o</hi> 574
-               <lb facs="#facs_69_r2l10" n="N007"/><rs type="person" ref="#wkfm__46901">Morci und Plattensteiner</rs> laut Angringen de ps: 18<hi style="superscript">ten</hi> <choice><expan/><abbr>Janu:</abbr></choice> 745 N<hi style="superscript">o</hi> 587 und Procura dd<hi style="superscript">to</hi> ult:
+               <lb facs="#facs_69_r2l10" n="N007"/><rs type="person" ref="#wkfm__46901">Morci und Plattensteiner</rs> laut Anbringen de ps: 18t<hi style="superscript">en </hi>J<choice><expan/><abbr>anu: </abbr></choice>745 No<hi style="superscript"> </hi>587 und Procura ddt<hi style="superscript">o </hi>ult:
                <lb facs="#facs_69_r2l11" n="N008"/>Junii 755 N<hi style="superscript">o</hi> 1038
                <lb facs="#facs_69_r2l12" n="N009"/><seg type="orighead__owner">Procura und Firmae Trager</seg>
                <lb facs="#facs_69_r2l13" n="N010"/>Mitls Anbringen de ps: 18<hi style="superscript">ten</hi> May 725 N<hi style="superscript">o</hi> 1021 hat der <rs type="person" ref="#wkfm__8413">Marci</rs> die seinem bedienten <rs type="person" ref="#wkfm__46904">Johann Michäl

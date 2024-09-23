@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
@@ -56,6 +57,7 @@
    <facsimile>
     <surface ulx="0" uly="0" lrx="3095" lry="4496" xml:id="facs_127">
          <graphic url="Merkantil_und_Wechselgericht_Merkantilprotokoll_1_Reihe__Reihe_1_7_Protokoll_1_0795.jpg" width="3095px" height="4496px"/>
+         <graphic url="" width="3095px" height="4496px"/>
          <zone points="185,237 185,3524 2804,3524 2804,237" rendition="TextRegion" xml:id="facs_127_r1">
             <zone points="2654,430 2679,433 2704,435 2729,436 2754,436 2779,434 2804,433 2804,372 2779,373 2754,375 2729,375 2704,374 2679,372 2654,369" rendition="Line" xml:id="facs_127_r1l2" subtype="page-number"/>
             <zone points="1284,304 1319,304 1355,302 1391,302 1427,302 1463,302 1498,302 1534,304 1570,305 1606,305 1642,307 1677,307 1713,308 1749,308 1785,308 1821,308 1856,308 1892,306 1928,304 1964,301 2000,298 2000,237 1964,240 1928,243 1892,245 1856,247 1821,247 1785,247 1749,247 1713,247 1677,246 1642,246 1606,244 1570,244 1534,243 1498,241 1463,241 1427,241 1391,241 1355,241 1319,243 1284,243" rendition="Line" xml:id="facs_127_r1l1"/>
@@ -98,7 +100,7 @@
                <lb facs="#facs_127_r1l14" n="N012"/><seg type="orighead__fundi">Fundi Ausweisung</seg>
                <lb facs="#facs_127_r1l15" n="N013"/>Der <rs type="person" ref="#wkfm__47172">Fux</rs> hat zu Ausweisung seines <unclear>Funndi</unclear> aus den von seinem Vattern
                <lb facs="#facs_127_r1l16" n="N014"/><rs type="person" ref="#wkfm__1411">Joseph Carl</rs> untern 25<hi style="superscript">ten</hi> <choice><expan/><abbr>9br:</abbr></choice> 744 errichteten und untern 22<hi style="superscript">ten</hi> <choice><expan/><abbr>7br:</abbr></choice>
-               <lb facs="#facs_127_r1l17" n="N015"/>744 publicirten Testament vidimirten Extracten N<hi style="superscript">o</hi> 1442 eingeleget, kraft
+               <lb facs="#facs_127_r1l17" n="N015"/>747 publicirten Testament vidimirten Extracten No<hi style="superscript"> </hi>1442 eingeleget, kraft
                <lb facs="#facs_127_r1l18" n="N016"/>welchem er <rs type="person" ref="#wkfm__47172">Johann Nepomuc</rs> nebst seinem Bruder <rs type="person" ref="#wkfm__47173">Joseph Carl</rs>
                <lb facs="#facs_127_r1l19" n="N017"/>zum völligen Erben benehnet worden.
             </ab>
